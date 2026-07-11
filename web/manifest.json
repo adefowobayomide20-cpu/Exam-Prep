@@ -1,0 +1,35 @@
+{
+    "name": "Exam Coach",
+    "short_name": "Exam Coach",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#12203D",
+    "theme_color": "#12203D",
+    "description": "Exam Coach — practice for JAMB, Post-UTME and WAEC.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

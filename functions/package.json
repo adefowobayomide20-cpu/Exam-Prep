@@ -1,0 +1,14 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for exam_prep: scheduled news polling -> push notifications, snap-and-solve tutor",
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@google/genai": "^2.10.0",
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^6.0.1"
+  },
+  "private": true
+}

@@ -1,0 +1,73 @@
+{
+  "flutter": {"platforms": {"android": {"default": {"projectId": "exam-prep-ng", "appId": "1:734285493928:android:fe940beec1a9baa038749d", "fileOutput": "android/app/google-services.json"}}, "dart": {"lib/firebase_options.dart": {"projectId": "exam-prep-ng", "configurations": {"android": "1:734285493928:android:fe940beec1a9baa038749d", "ios": "1:734285493928:ios:2ce70288e6d643d338749d", "macos": "1:734285493928:ios:2ce70288e6d643d338749d", "web": "1:734285493928:web:ef4dd3fa2f41a1fa38749d"}}}}},
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": ["firebase.json", "**/.*", "!**/.well-known/**", "**/node_modules/**", "**/*.symbols"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ],
+    "headers": [
+      {
+        "source": "/index.html",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      },
+      {
+        "source": "/flutter_bootstrap.js",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      },
+      {
+        "source": "/version.json",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      },
+      {
+        "source": "/pwa_install.js",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      },
+      {
+        "source": "/manifest.json",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      },
+      {
+        "source": "/main.dart.@(js|wasm|mjs)",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      },
+      {
+        "source": "/canvaskit/**",
+        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
+      },
+      {
+        "source": "/assets/**",
+        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
+      },
+      {
+        "source": "/icons/**",
+        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
+      },
+      {
+        "source": "/.well-known/apple-app-site-association",
+        "headers": [{"key": "Content-Type", "value": "application/json"}]
+      },
+      {
+        "source": "/.well-known/assetlinks.json",
+        "headers": [{"key": "Content-Type", "value": "application/json"}]
+      }
+    ]
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": ["node_modules", ".git", "firebase-debug.log", "firebase-debug.*.log"]
+    }
+  ]
+}

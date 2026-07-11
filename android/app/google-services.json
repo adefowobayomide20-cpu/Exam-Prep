@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734285493928",
+    "project_id": "exam-prep-ng",
+    "storage_bucket": "exam-prep-ng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734285493928:android:fe940beec1a9baa038749d",
+        "android_client_info": {
+          "package_name": "com.example.exam_prep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW02I86HdaPwPfbSIyCTOpp0cE0xaTGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

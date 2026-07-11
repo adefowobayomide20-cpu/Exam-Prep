@@ -1,0 +1,51 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+
+      // Covers quizAttempts, notifications, tutorMessages, and any future
+      // per-user subcollections — all scoped to the owning user only.
+      match /{subcollection}/{docId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // Duels are top-level (not per-user) so both the host and guest can
+    // read/write the same document. Reads are open to any signed-in user
+    // because joining by code requires looking the doc up before you're a
+    // participant; writes are restricted to the host, an existing guest, or
+    // whoever is claiming the still-open guest slot.
+    match /duels/{duelId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null && request.resource.data.hostUid == request.auth.uid;
+      allow update: if request.auth != null && (
+        resource.data.hostUid == request.auth.uid ||
+        resource.data.guestUid == request.auth.uid ||
+        (resource.data.guestUid == null && request.resource.data.guestUid == request.auth.uid)
+      );
+      allow delete: if false;
+    }
+
+    // Lobby presence: any signed-in user can see who's online in a school's
+    // lobby, but a student can only write (heartbeat/leave) their own doc.
+    match /lobbies/{school}/members/{uid} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Duel challenges: only the sender and recipient can read/write a given
+    // challenge (mirrors the duels rule shape above).
+    match /challenges/{challengeId} {
+      allow read: if request.auth != null && (
+        resource.data.fromUid == request.auth.uid || resource.data.toUid == request.auth.uid
+      );
+      allow create: if request.auth != null && request.resource.data.fromUid == request.auth.uid;
+      allow update: if request.auth != null && (
+        resource.data.fromUid == request.auth.uid || resource.data.toUid == request.auth.uid
+      );
+      allow delete: if false;
+    }
+  }
+}

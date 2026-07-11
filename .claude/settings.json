@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(firebase --version)",
+      "Bash(flutterfire --version)",
+      "Bash(dart pub *)",
+      "Bash(where flutterfire *)",
+      "Bash(powershell -Command \"Get-Command flutterfire -ErrorAction SilentlyContinue\")",
+      "Bash(dart --version)",
+      "Bash(awk '/^final _/{sec=$2; count=0} /_q\\\\\\(/{count++} /^\\\\];/{print sec, count}' lib/features/exam/quiz/question_bank/ui_agricultural_science_bank.dart)",
+      "Bash(awk 'NR==33,NR==184' ui_literature_bank.dart)",
+      "Bash(awk 'NR==186,NR==232' ui_literature_bank.dart)",
+      "Bash(awk 'NR==234,NR==280' ui_literature_bank.dart)",
+      "Bash(awk 'NR==282,NR==328' ui_literature_bank.dart)",
+      "Bash(awk ' *)",
+      "Bash(awk 'NR==330,NR==376' ui_literature_bank.dart)",
+      "Bash(awk 'NR==378,NR==409' ui_literature_bank.dart)",
+      "Bash(awk 'NR==411,NR==442' ui_literature_bank.dart)",
+      "Bash(awk '/^final _christianVirtues/,/^\\\\];/' lib/features/exam/quiz/question_bank/ui_crs_bank.dart)",
+      "Bash(awk '/^final _regionalGeographyOfNigeria/,/^\\\\];/' lib/features/exam/quiz/question_bank/ui_geography_bank.dart)",
+      "Bash(awk '/^final _agriculturalEconomicsExtension/,/^\\\\];/' lib/features/exam/quiz/question_bank/ui_agricultural_science_bank.dart)",
+      "Bash(node \"/c/Users/AAJ/AppData/Local/Temp/claude/c--Users-AAJ-Desktop-exam-prep/05757680-31b4-4b49-bd86-24e9f7fbd9af/scratchpad/trim_list.js\" lib/features/exam/quiz/question_bank/ui_agricultural_science_bank.dart _agriculturalEconomicsExtension 11)",
+      "Bash(node \"/c/Users/AAJ/AppData/Local/Temp/claude/c--Users-AAJ-Desktop-exam-prep/05757680-31b4-4b49-bd86-24e9f7fbd9af/scratchpad/trim_list.js\" lib/features/exam/quiz/question_bank/ui_commerce_bank.dart _businessManagement 3)",
+      "Bash(node \"/c/Users/AAJ/AppData/Local/Temp/claude/c--Users-AAJ-Desktop-exam-prep/05757680-31b4-4b49-bd86-24e9f7fbd9af/scratchpad/trim_list.js\" lib/features/exam/quiz/question_bank/ui_literature_bank.dart _nonAfricanPoetry 2)",
+      "Bash(node \"/c/Users/AAJ/AppData/Local/Temp/claude/c--Users-AAJ-Desktop-exam-prep/05757680-31b4-4b49-bd86-24e9f7fbd9af/scratchpad/trim_list.js\" lib/features/exam/quiz/question_bank/ui_crs_bank.dart _christianVirtues 10)",
+      "Bash(node \"/c/Users/AAJ/AppData/Local/Temp/claude/c--Users-AAJ-Desktop-exam-prep/05757680-31b4-4b49-bd86-24e9f7fbd9af/scratchpad/trim_list.js\" lib/features/exam/quiz/question_bank/ui_crs_bank.dart _earlyChurch 5)",
+      "Bash(awk '/^final _/{name=$0; count=0} /^  _q\\\\\\(/{count++} /^\\\\];/{print name, count}' lib/features/exam/quiz/question_bank/oau_economics_bank.dart)",
+      "Bash(awk '/^final _/{name=$0; count=0; next} /^  _q\\\\\\(/{count++} /^\\\\];/{if\\(name!=\"\"\\) print name, count; name=\"\"}' lib/features/exam/quiz/question_bank/oau_accounts_bank.dart)",
+      "Bash(awk '/^final _/{name=$0; count=0} /^  _q\\\\\\(/{count++} /^\\\\];/{print name\": \"count}' lib/features/exam/quiz/question_bank/oau_geography_bank.dart)"
+    ]
+  }
+}
