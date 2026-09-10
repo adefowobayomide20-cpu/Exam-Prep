@@ -107,8 +107,6 @@ class _ProfilePageState extends State<ProfilePage> {
     }
   }
 
-  Future<void> _logout() => AuthService.instance.signOut();
-
   Future<void> _onTogglePush(bool value) async {
     if (value) {
       final granted = await PushNotificationService.instance.requestPermission();
@@ -178,7 +176,6 @@ class _ProfilePageState extends State<ProfilePage> {
                     _store.updateProfile(_store.profile.copyWith(duelAlerts: value)),
                 onThemeModeChanged: (value) =>
                     _store.updateProfile(_store.profile.copyWith(themeMode: value)),
-                onLogout: _logout,
               ),
             ],
           );

@@ -2,6 +2,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 /// Thin wrapper around [FirebaseAuth] so the rest of the app depends on a
 /// single seam rather than the Firebase SDK directly.
+///
+/// The app has no login UI — every install signs in anonymously so
+/// per-user Firestore data (profile, quiz history, duels) still works
+/// without asking the student to create an account.
 class AuthService {
   AuthService([FirebaseAuth? auth]) : _auth = auth ?? FirebaseAuth.instance;
 
@@ -14,51 +18,14 @@ class AuthService {
 
   User? get currentUser => _auth.currentUser;
 
-  Future<void> signIn({required String email, required String password}) async {
-    await _auth.signInWithEmailAndPassword(email: email.trim(), password: password);
-  }
+  Future<void> signInAnonymously() => _auth.signInAnonymously();
 
-  Future<void> signUp({required String email, required String password, String? name}) async {
-    final credential = await _auth.createUserWithEmailAndPassword(
-      email: email.trim(),
-      password: password,
-    );
-    if (name != null && name.isNotEmpty) {
-      await credential.user?.updateDisplayName(name);
-    }
-  }
-
-  Future<void> sendPasswordResetEmail(String email) {
-    return _auth.sendPasswordResetEmail(email: email.trim());
-  }
-
-  Future<void> signOut() => _auth.signOut();
-
-  /// Firebase requires a recent sign-in before password/email changes or
-  /// account deletion; re-authenticating with the current password
-  /// satisfies that without forcing a full logout/login cycle.
-  Future<void> reauthenticate(String currentPassword) async {
-    final user = _auth.currentUser;
-    final email = user?.email;
-    if (user == null || email == null) {
-      throw FirebaseAuthException(code: 'no-current-user', message: 'No signed-in account.');
-    }
-    final credential = EmailAuthProvider.credential(email: email, password: currentPassword);
-    await user.reauthenticateWithCredential(credential);
-  }
-
-  Future<void> updatePassword(String newPassword) async {
-    await _auth.currentUser?.updatePassword(newPassword);
-  }
-
-  /// Sends a verification link to [newEmail]; the address only changes once
-  /// the student clicks it, so there is no immediate return value to check.
-  Future<void> changeEmail(String newEmail) async {
-    await _auth.currentUser?.verifyBeforeUpdateEmail(newEmail.trim());
-  }
-
-  /// Deletes the Firebase Auth account. A Cloud Function trigger cleans up
-  /// the corresponding Firestore data (see functions/cleanup.js).
+  /// Permanently deletes the anonymous account. A Cloud Function trigger
+  /// cleans up the corresponding Firestore data (see functions/cleanup.js).
+  /// There's no re-auth path for an anonymous user, so this is attempted
+  /// directly; a `requires-recent-login` failure means the session is too
+  /// old for Firebase to allow deletion without reauthentication, which
+  /// isn't possible for an anonymous account — see [messageFor].
   Future<void> deleteAccount() async {
     await _auth.currentUser?.delete();
   }
@@ -66,25 +33,15 @@ class AuthService {
   /// Maps a [FirebaseAuthException] code to a short, user-facing message.
   static String messageFor(FirebaseAuthException error) {
     switch (error.code) {
-      case 'invalid-email':
-        return 'That email address looks invalid.';
-      case 'user-disabled':
-        return 'This account has been disabled.';
-      case 'user-not-found':
-        return 'No account found with that email.';
-      case 'wrong-password':
-      case 'invalid-credential':
-        return 'Incorrect email or password.';
-      case 'email-already-in-use':
-        return 'An account already exists for that email.';
-      case 'weak-password':
-        return 'Choose a stronger password (at least 6 characters).';
       case 'network-request-failed':
         return 'Network error — check your connection and try again.';
       case 'requires-recent-login':
-        return 'Please re-enter your password to confirm this change.';
+        return "This session is too old to delete directly — reinstall the app to start fresh instead.";
       case 'no-current-user':
         return 'No signed-in account.';
+      case 'operation-not-allowed':
+      case 'admin-restricted-operation':
+        return 'Sign-in is temporarily unavailable. Please try again shortly.';
       default:
         return error.message ?? 'Something went wrong. Please try again.';
     }

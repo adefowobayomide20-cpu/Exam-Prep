@@ -20,7 +20,6 @@ class ProfileSettingsSection extends StatelessWidget {
     required this.onToggleEmail,
     required this.onToggleDuel,
     required this.onThemeModeChanged,
-    required this.onLogout,
   });
 
   final String examTrack;
@@ -35,7 +34,6 @@ class ProfileSettingsSection extends StatelessWidget {
   final ValueChanged<bool> onToggleEmail;
   final ValueChanged<bool> onToggleDuel;
   final ValueChanged<String> onThemeModeChanged;
-  final VoidCallback onLogout;
 
   Future<void> _pickExamTrack(BuildContext context) async {
     final selected = await showModalBottomSheet<String>(
@@ -173,29 +171,6 @@ class ProfileSettingsSection extends StatelessWidget {
     );
   }
 
-  Future<void> _confirmLogout(BuildContext context) async {
-    final confirmed = await showDialog<bool>(
-      context: context,
-      builder: (dialogContext) => AlertDialog(
-        title: const Text('Log out'),
-        content: const Text('Are you sure you want to log out?'),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.of(dialogContext).pop(false),
-            child: const Text('Cancel'),
-          ),
-          FilledButton(
-            onPressed: () => Navigator.of(dialogContext).pop(true),
-            child: const Text('Log out'),
-          ),
-        ],
-      ),
-    );
-    if (confirmed == true) {
-      onLogout();
-    }
-  }
-
   String _themeModeLabel(String value) {
     switch (value) {
       case 'light':
@@ -245,17 +220,11 @@ class ProfileSettingsSection extends StatelessWidget {
           const Divider(height: 0),
           ListTile(
             leading: const Icon(Icons.lock_outline),
-            title: const Text('Account & security'),
+            title: const Text('Account & data'),
             trailing: const Icon(Icons.chevron_right),
             onTap: () => Navigator.of(context).push(
               SlideUpRoute(builder: (_) => const AccountSecurityPage()),
             ),
-          ),
-          const Divider(height: 0),
-          ListTile(
-            leading: const Icon(Icons.logout, color: Colors.red),
-            title: const Text('Log out', style: TextStyle(color: Colors.red)),
-            onTap: () => _confirmLogout(context),
           ),
         ],
       ),

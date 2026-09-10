@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import '../../../data/app_data_store.dart';
@@ -28,6 +29,7 @@ class IncomingChallengeListener extends StatefulWidget {
 }
 
 class _IncomingChallengeListenerState extends State<IncomingChallengeListener> {
+  StreamSubscription<User?>? _authSub;
   StreamSubscription<List<Challenge>>? _sub;
   final _handled = <String>{};
   bool _dialogOpen = false;
@@ -35,21 +37,35 @@ class _IncomingChallengeListenerState extends State<IncomingChallengeListener> {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((_) => _subscribe());
+    // Anonymous sign-in can still be in flight when this mounts (or the
+    // account can be deleted/recreated later), so react to auth state
+    // instead of checking currentUser once.
+    _authSub = AuthService.instance.authStateChanges.listen((user) {
+      _sub?.cancel();
+      _sub = null;
+      if (user != null) _subscribe(user.uid);
+    });
   }
 
-  void _subscribe() {
-    final user = AuthService.instance.currentUser;
-    if (user == null) return;
-    _sub = LobbyService.instance.watchIncomingChallenges(user.uid).listen((challenges) {
-      if (!AppDataStore.instance.profile.duelAlerts) return;
-      for (final challenge in challenges) {
-        if (_handled.contains(challenge.id) || _dialogOpen) continue;
-        _handled.add(challenge.id);
-        _showChallengeDialog(challenge);
-        break;
-      }
-    });
+  void _subscribe(String uid) {
+    try {
+      _sub = LobbyService.instance.watchIncomingChallenges(uid).listen(
+        (challenges) {
+          if (!AppDataStore.instance.profile.duelAlerts) return;
+          for (final challenge in challenges) {
+            if (_handled.contains(challenge.id) || _dialogOpen) continue;
+            _handled.add(challenge.id);
+            _showChallengeDialog(challenge);
+            break;
+          }
+        },
+        onError: (Object error, StackTrace stackTrace) {
+          debugPrint('Incoming challenge listener error: $error\n$stackTrace');
+        },
+      );
+    } catch (error, stackTrace) {
+      debugPrint('Could not subscribe to incoming challenges: $error\n$stackTrace');
+    }
   }
 
   Future<void> _showChallengeDialog(Challenge challenge) async {
@@ -102,6 +118,7 @@ class _IncomingChallengeListenerState extends State<IncomingChallengeListener> {
 
   @override
   void dispose() {
+    _authSub?.cancel();
     _sub?.cancel();
     super.dispose();
   }

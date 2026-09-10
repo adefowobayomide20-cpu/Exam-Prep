@@ -1,10 +1,47 @@
 import 'package:flutter/material.dart';
 
 import 'data/app_data_store.dart';
+import 'data/onboarding_store.dart';
 import 'features/auth/auth_gate.dart';
+import 'features/auth/loading_screen.dart';
+import 'features/onboarding/onboarding_page.dart';
 import 'navigation/root_navigator.dart';
 import 'theme/app_theme.dart';
 import 'widgets/pwa_install_overlay.dart';
+
+/// Shows the first-run onboarding slides once per install, then the main
+/// app. Entirely local (SharedPreferences-backed) and independent of
+/// sign-in state.
+class _AppEntryPoint extends StatefulWidget {
+  const _AppEntryPoint();
+
+  @override
+  State<_AppEntryPoint> createState() => _AppEntryPointState();
+}
+
+class _AppEntryPointState extends State<_AppEntryPoint> {
+  bool? _needsOnboarding;
+
+  @override
+  void initState() {
+    super.initState();
+    OnboardingStore.instance.hasCompletedOnboarding().then((done) {
+      if (mounted) setState(() => _needsOnboarding = !done);
+    });
+  }
+
+  Future<void> _finishOnboarding() async {
+    await OnboardingStore.instance.markCompleted();
+    if (mounted) setState(() => _needsOnboarding = false);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_needsOnboarding == null) return const LoadingScreen();
+    if (_needsOnboarding!) return OnboardingPage(onDone: _finishOnboarding);
+    return const AuthGate();
+  }
+}
 
 class ExamCoachApp extends StatefulWidget {
   const ExamCoachApp({super.key});
@@ -58,7 +95,7 @@ class _ExamCoachAppState extends State<ExamCoachApp> {
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
       themeMode: _themeMode,
-      home: const AuthGate(),
+      home: const _AppEntryPoint(),
       builder: (context, child) => PwaInstallOverlay(child: child ?? const SizedBox.shrink()),
     );
   }

@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
@@ -5,36 +7,60 @@ import '../../data/auth_service.dart';
 import '../../navigation/main_nav_shell.dart';
 import '../duel/duel_deep_link_listener.dart';
 import '../duel/lobby/incoming_challenge_listener.dart';
-import 'loading_screen.dart';
-import 'login_page.dart';
 
-/// Shows [LoginPage] until a user is signed in, then shows the main app.
-class AuthGate extends StatelessWidget {
+/// There is no login screen. This always shows the main app immediately
+/// and quietly signs the device in anonymously in the background (retrying
+/// on failure) so Firestore-backed features (Duel, Tutor, profile sync)
+/// come online once that succeeds — the student never sees or waits on it.
+class AuthGate extends StatefulWidget {
   const AuthGate({super.key});
 
   @override
+  State<AuthGate> createState() => _AuthGateState();
+}
+
+class _AuthGateState extends State<AuthGate> {
+  StreamSubscription<User?>? _authSub;
+  bool _signingIn = false;
+
+  @override
+  void initState() {
+    super.initState();
+    if (AuthService.instance.currentUser == null) {
+      _ensureSignedIn();
+    }
+    // Signs back in if the account is ever deleted (e.g. "Delete all data"
+    // in Profile) so the app is never left without a uid to key data off.
+    _authSub = AuthService.instance.authStateChanges.listen((user) {
+      if (user == null) _ensureSignedIn();
+    });
+  }
+
+  Future<void> _ensureSignedIn() async {
+    if (_signingIn) return;
+    _signingIn = true;
+    try {
+      await AuthService.instance.signInAnonymously();
+    } catch (error, stackTrace) {
+      debugPrint('Anonymous sign-in failed, retrying in 5s: $error\n$stackTrace');
+      await Future.delayed(const Duration(seconds: 5));
+      _signingIn = false;
+      if (mounted) _ensureSignedIn();
+      return;
+    }
+    _signingIn = false;
+  }
+
+  @override
+  void dispose() {
+    _authSub?.cancel();
+    super.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
-    return StreamBuilder<User?>(
-      stream: AuthService.instance.authStateChanges,
-      builder: (context, snapshot) {
-        final Widget child;
-        if (snapshot.connectionState == ConnectionState.waiting) {
-          child = const LoadingScreen(key: ValueKey('loading'));
-        } else if (snapshot.data == null) {
-          child = const LoginPage(key: ValueKey('login'));
-        } else {
-          child = const DuelDeepLinkListener(
-            key: ValueKey('main'),
-            child: IncomingChallengeListener(child: MainNavShell()),
-          );
-        }
-        return AnimatedSwitcher(
-          duration: const Duration(milliseconds: 350),
-          switchInCurve: Curves.easeOut,
-          switchOutCurve: Curves.easeIn,
-          child: child,
-        );
-      },
+    return const DuelDeepLinkListener(
+      child: IncomingChallengeListener(child: MainNavShell()),
     );
   }
 }
