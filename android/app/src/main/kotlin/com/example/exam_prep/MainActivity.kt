@@ -1,4 +1,4 @@
-package com.example.exam_prep
+package aaj.examcoah.app
 
 import io.flutter.embedding.android.FlutterActivity
 
