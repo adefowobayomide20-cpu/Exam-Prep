@@ -1,0 +1,1206 @@
+{
+  "subject": "Music",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Music",
+      "text": "The five horizontal lines and four spaces on which music notes are written is called the",
+      "options": [
+        "bar line",
+        "ledger line",
+        "clef",
+        "stave (staff)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The stave (staff) is the fundamental grid of five lines and four spaces on which musical pitches are notated."
+    },
+    {
+      "subject": "Music",
+      "text": "The symbol placed at the beginning of a stave to fix the pitch of the notes is called a",
+      "options": [
+        "accidental",
+        "time signature",
+        "stave",
+        "clef"
+      ],
+      "correctIndex": 3,
+      "explanation": "A clef establishes which pitch corresponds to each line and space on the stave, such as the treble or bass clef."
+    },
+    {
+      "subject": "Music",
+      "text": "The clef commonly used for higher-pitched instruments and voices, curling around the second line from the bottom, is the",
+      "options": [
+        "treble clef (G clef)",
+        "bass clef",
+        "tenor clef",
+        "alto clef"
+      ],
+      "correctIndex": 0,
+      "explanation": "The treble clef, also called the G clef, curls around the line representing the note G, and is used for higher-pitched parts."
+    },
+    {
+      "subject": "Music",
+      "text": "The clef commonly used for lower-pitched instruments and voices, with two dots surrounding the fourth line, is the",
+      "options": [
+        "tenor clef",
+        "treble clef",
+        "bass clef (F clef)",
+        "alto clef"
+      ],
+      "correctIndex": 2,
+      "explanation": "The bass clef, also called the F clef, has two dots surrounding the line representing F, and is used for lower-pitched parts."
+    },
+    {
+      "subject": "Music",
+      "text": "The C clef positioned so that middle C falls on the middle line of the stave is called the",
+      "options": [
+        "treble clef",
+        "tenor clef",
+        "bass clef",
+        "alto clef"
+      ],
+      "correctIndex": 3,
+      "explanation": "The alto clef centres on the middle line of the stave to represent middle C, commonly used for viola music."
+    },
+    {
+      "subject": "Music",
+      "text": "The C clef positioned so that middle C falls on the fourth line of the stave is called the",
+      "options": [
+        "alto clef",
+        "bass clef",
+        "treble clef",
+        "tenor clef"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tenor clef places middle C on the fourth line, commonly used for the higher registers of cello, bassoon, and trombone."
+    },
+    {
+      "subject": "Music",
+      "text": "Short extra lines added above or below the stave to notate pitches beyond its normal range are called",
+      "options": [
+        "ledger lines",
+        "clefs",
+        "accidentals",
+        "bar lines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ledger lines extend the stave temporarily to accommodate notes that fall outside its five-line range."
+    },
+    {
+      "subject": "Music",
+      "text": "A symbol placed before a note to lower its pitch by a semitone is called a",
+      "options": [
+        "flat",
+        "natural",
+        "sharp",
+        "double sharp"
+      ],
+      "correctIndex": 0,
+      "explanation": "A flat sign lowers the pitch of a note by one semitone from its natural pitch."
+    },
+    {
+      "subject": "Music",
+      "text": "A symbol placed before a note to raise its pitch by a semitone is called a",
+      "options": [
+        "natural",
+        "double flat",
+        "flat",
+        "sharp"
+      ],
+      "correctIndex": 3,
+      "explanation": "A sharp sign raises the pitch of a note by one semitone from its natural pitch."
+    },
+    {
+      "subject": "Music",
+      "text": "A symbol placed before a note to cancel a previous sharp or flat, restoring its natural pitch, is called a",
+      "options": [
+        "double sharp",
+        "natural",
+        "sharp",
+        "flat"
+      ],
+      "correctIndex": 1,
+      "explanation": "A natural sign cancels any preceding sharp or flat, returning a note to its unaltered pitch."
+    },
+    {
+      "subject": "Music",
+      "text": "A symbol that raises a note's pitch by two semitones (a whole tone) is called a",
+      "options": [
+        "double flat",
+        "double sharp",
+        "natural",
+        "sharp"
+      ],
+      "correctIndex": 1,
+      "explanation": "A double sharp raises a note by two semitones (a whole tone) above its natural pitch."
+    },
+    {
+      "subject": "Music",
+      "text": "A symbol that lowers a note's pitch by two semitones (a whole tone) is called a",
+      "options": [
+        "double flat",
+        "double sharp",
+        "flat",
+        "natural"
+      ],
+      "correctIndex": 0,
+      "explanation": "A double flat lowers a note by two semitones (a whole tone) below its natural pitch."
+    },
+    {
+      "subject": "Music",
+      "text": "Accidentals, flats, sharps, and naturals appearing within a piece (not in the key signature) generally remain in effect",
+      "options": [
+        "for the entire piece regardless of bar lines",
+        "for the rest of the bar in which they appear, unless cancelled",
+        "for only one note and no others",
+        "only in the treble clef"
+      ],
+      "correctIndex": 1,
+      "explanation": "An accidental applies to all repetitions of the same note within the same bar, unless cancelled by another accidental."
+    },
+    {
+      "subject": "Music",
+      "text": "On the treble clef, the note occupying the middle line of the stave is",
+      "options": [
+        "B",
+        "D",
+        "F",
+        "G"
+      ],
+      "correctIndex": 0,
+      "explanation": "On the treble clef, from bottom to top, the lines represent E, G, B, D, F, making B the middle line."
+    },
+    {
+      "subject": "Music",
+      "text": "On the bass clef, the note occupying the middle line of the stave is",
+      "options": [
+        "A",
+        "F",
+        "C",
+        "D"
+      ],
+      "correctIndex": 3,
+      "explanation": "On the bass clef, from bottom to top, the lines represent G, B, D, F, A, making D the middle line."
+    },
+    {
+      "subject": "Music",
+      "text": "The space directly below the bottom line of the bass clef, requiring one ledger line, typically represents",
+      "options": [
+        "the note high G",
+        "the note A",
+        "middle C",
+        "the note E"
+      ],
+      "correctIndex": 2,
+      "explanation": "Middle C sits on the first ledger line below the bass clef stave, the same pitch as the ledger line above the treble clef."
+    },
+    {
+      "subject": "Music",
+      "text": "A note written on the space immediately above the top line of the treble clef, using one ledger line, typically represents",
+      "options": [
+        "middle C",
+        "the note A",
+        "the note G",
+        "the note E"
+      ],
+      "correctIndex": 1,
+      "explanation": "One ledger line above the treble stave, in the adjoining space, represents the note A, just above the high G on the top line."
+    },
+    {
+      "subject": "Music",
+      "text": "The note value representing the longest common duration in standard notation, typically worth four beats in simple time, is the",
+      "options": [
+        "semibreve (whole note)",
+        "minim (half note)",
+        "crotchet (quarter note)",
+        "quaver (eighth note)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The semibreve (whole note) is the longest commonly used note value, typically lasting four beats in a 4/4 bar."
+    },
+    {
+      "subject": "Music",
+      "text": "The note value worth half the duration of a semibreve is the",
+      "options": [
+        "semibreve",
+        "quaver",
+        "minim (half note)",
+        "crotchet"
+      ],
+      "correctIndex": 2,
+      "explanation": "A minim (half note) lasts half as long as a semibreve, typically equal to two beats in simple time."
+    },
+    {
+      "subject": "Music",
+      "text": "The note value worth a quarter of the duration of a semibreve, typically one beat in simple time, is the",
+      "options": [
+        "semiquaver",
+        "quaver",
+        "crotchet (quarter note)",
+        "minim"
+      ],
+      "correctIndex": 2,
+      "explanation": "A crotchet (quarter note) is one of the most common note values, typically representing one beat."
+    },
+    {
+      "subject": "Music",
+      "text": "The note value worth half a crotchet, typically shown with a single flag on its stem, is the",
+      "options": [
+        "crotchet",
+        "semiquaver",
+        "quaver (eighth note)",
+        "minim"
+      ],
+      "correctIndex": 2,
+      "explanation": "A quaver (eighth note) lasts half as long as a crotchet, distinguished by a single flag or beam."
+    },
+    {
+      "subject": "Music",
+      "text": "The note value worth half a quaver, typically shown with two flags on its stem, is the",
+      "options": [
+        "crotchet",
+        "demisemiquaver",
+        "semiquaver (sixteenth note)",
+        "quaver"
+      ],
+      "correctIndex": 2,
+      "explanation": "A semiquaver (sixteenth note) lasts half as long as a quaver, distinguished by two flags or beams."
+    },
+    {
+      "subject": "Music",
+      "text": "The note value worth half a semiquaver, typically shown with three flags on its stem, is the",
+      "options": [
+        "quaver",
+        "minim",
+        "semiquaver",
+        "demisemiquaver (thirty-second note)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A demisemiquaver (thirty-second note) lasts half as long as a semiquaver, distinguished by three flags or beams."
+    },
+    {
+      "subject": "Music",
+      "text": "A dot placed after a note increases its duration by",
+      "options": [
+        "nothing; it has no effect on duration",
+        "double the note's original value",
+        "a fixed one beat, regardless of the note",
+        "half of the note's original value"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dot placed after a note adds half of that note's original value to its total duration."
+    },
+    {
+      "subject": "Music",
+      "text": "A time signature such as 3/4, where the beat naturally divides into two, is classified as",
+      "options": [
+        "compound time",
+        "free time",
+        "simple time",
+        "irregular time"
+      ],
+      "correctIndex": 2,
+      "explanation": "In simple time signatures, each main beat divides naturally into two equal parts."
+    },
+    {
+      "subject": "Music",
+      "text": "A time signature such as 6/8, where the beat naturally divides into three, is classified as",
+      "options": [
+        "irregular time",
+        "compound time",
+        "simple time",
+        "free time"
+      ],
+      "correctIndex": 1,
+      "explanation": "In compound time signatures, each main beat divides naturally into three equal parts, such as in 6/8, 9/8, or 12/8."
+    },
+    {
+      "subject": "Music",
+      "text": "In a 4/4 time signature, the top number '4' indicates",
+      "options": [
+        "there are four beats in each bar",
+        "the piece must be played four times",
+        "there are four bars in the piece",
+        "each beat is a quarter note in value"
+      ],
+      "correctIndex": 0,
+      "explanation": "The top number of a time signature shows how many beats occur in each bar."
+    },
+    {
+      "subject": "Music",
+      "text": "In a 4/4 time signature, the bottom number '4' indicates",
+      "options": [
+        "the key signature has four sharps",
+        "there are four beats in each bar",
+        "each beat is represented by a crotchet (quarter note)",
+        "the piece is in compound time"
+      ],
+      "correctIndex": 2,
+      "explanation": "The bottom number of a time signature indicates which note value represents one beat; '4' means a crotchet (quarter note)."
+    },
+    {
+      "subject": "Music",
+      "text": "Vertical lines drawn across the stave to divide music into equal metrical units are called",
+      "options": [
+        "clefs",
+        "ledger lines",
+        "bar lines",
+        "ties"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bar lines divide music into bars (measures), each containing the number of beats specified by the time signature."
+    },
+    {
+      "subject": "Music",
+      "text": "A rhythmic effect created by placing emphasis on a beat or part of a beat that is normally unaccented is called",
+      "options": [
+        "a triplet",
+        "a key signature",
+        "syncopation",
+        "a time signature"
+      ],
+      "correctIndex": 2,
+      "explanation": "Syncopation shifts rhythmic emphasis away from the strong, expected beats, creating a distinctive off-beat feel."
+    },
+    {
+      "subject": "Music",
+      "text": "A group of three notes performed in the time normally taken by two notes of the same value is called a",
+      "options": [
+        "duplet",
+        "triplet",
+        "dotted rhythm",
+        "syncopation"
+      ],
+      "correctIndex": 1,
+      "explanation": "A triplet compresses three notes into the duration usually occupied by two, marked with a small numeral '3' over the group."
+    },
+    {
+      "subject": "Music",
+      "text": "A symbol placed above or below a note to indicate a pause of unspecified length is called a",
+      "options": [
+        "fermata (pause)",
+        "accent",
+        "slur",
+        "tie"
+      ],
+      "correctIndex": 0,
+      "explanation": "A fermata (pause mark) instructs the performer to hold a note or rest longer than its written value, at the performer's discretion."
+    },
+    {
+      "subject": "Music",
+      "text": "A curved line joining two notes of the same pitch, indicating they should be played as one continuous sound, is called a",
+      "options": [
+        "tie",
+        "fermata",
+        "slur",
+        "accent"
+      ],
+      "correctIndex": 0,
+      "explanation": "A tie joins two notes of identical pitch, combining their durations into a single sustained sound rather than a repeated attack."
+    },
+    {
+      "subject": "Music",
+      "text": "A curved line drawn over or under a group of different-pitched notes, indicating they should be played smoothly connected, is called a",
+      "options": [
+        "tie",
+        "staccato mark",
+        "fermata",
+        "slur"
+      ],
+      "correctIndex": 3,
+      "explanation": "A slur groups different pitches together, instructing performers to play them smoothly connected (legato) rather than separately articulated."
+    },
+    {
+      "subject": "Music",
+      "text": "A time signature with 9 as its top number, such as 9/8, indicates a compound time with how many main beats per bar?",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "nine"
+      ],
+      "correctIndex": 1,
+      "explanation": "In compound time, the top number is divisible by three to reveal the main beats; 9/8 has three main compound beats per bar, each divided into three quavers."
+    },
+    {
+      "subject": "Music",
+      "text": "A scale built using the pattern tone-tone-semitone-tone-tone-tone-semitone is called a",
+      "options": [
+        "melodic minor scale",
+        "major scale",
+        "natural minor scale",
+        "harmonic minor scale"
+      ],
+      "correctIndex": 1,
+      "explanation": "The major scale follows a fixed pattern of tones and semitones (T-T-S-T-T-T-S), giving it its characteristic bright sound."
+    },
+    {
+      "subject": "Music",
+      "text": "A minor scale using the same key signature as its relative major, without alteration, is called the",
+      "options": [
+        "natural minor scale",
+        "harmonic minor scale",
+        "melodic minor scale",
+        "major scale"
+      ],
+      "correctIndex": 0,
+      "explanation": "The natural minor scale uses the unaltered notes of its key signature, following the pattern T-S-T-T-S-T-T."
+    },
+    {
+      "subject": "Music",
+      "text": "A minor scale in which the seventh degree is raised by a semitone, creating a distinctive interval near the top of the scale, is called the",
+      "options": [
+        "melodic minor scale",
+        "major scale",
+        "harmonic minor scale",
+        "natural minor scale"
+      ],
+      "correctIndex": 2,
+      "explanation": "The harmonic minor scale raises the seventh degree by a semitone, creating a leading note and a characteristic augmented second interval."
+    },
+    {
+      "subject": "Music",
+      "text": "A minor scale in which both the sixth and seventh degrees are raised ascending, but returned to natural form descending, is called the",
+      "options": [
+        "major scale",
+        "melodic minor scale",
+        "harmonic minor scale",
+        "natural minor scale"
+      ],
+      "correctIndex": 1,
+      "explanation": "The melodic minor scale raises the sixth and seventh degrees when ascending, but reverts to the natural minor form when descending."
+    },
+    {
+      "subject": "Music",
+      "text": "The number of sharps or flats placed at the beginning of a stave, indicating the key of a piece, is called the",
+      "options": [
+        "clef",
+        "accidental",
+        "key signature",
+        "time signature"
+      ],
+      "correctIndex": 2,
+      "explanation": "A key signature indicates which notes are consistently sharpened or flattened throughout a piece, establishing its key."
+    },
+    {
+      "subject": "Music",
+      "text": "The diagram showing the relationship between all major and minor keys, arranged by ascending fifths, is called the",
+      "options": [
+        "harmonic series",
+        "chromatic scale",
+        "circle of fifths",
+        "grand stave"
+      ],
+      "correctIndex": 2,
+      "explanation": "The circle of fifths visually organises keys by their number of sharps or flats, moving in intervals of a perfect fifth."
+    },
+    {
+      "subject": "Music",
+      "text": "The first degree of a scale, serving as its home or resting note, is called the",
+      "options": [
+        "tonic",
+        "dominant",
+        "supertonic",
+        "mediant"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tonic is the first and most stable degree of a scale, functioning as its tonal centre."
+    },
+    {
+      "subject": "Music",
+      "text": "The second degree of a scale is called the",
+      "options": [
+        "mediant",
+        "supertonic",
+        "subdominant",
+        "tonic"
+      ],
+      "correctIndex": 1,
+      "explanation": "The supertonic is the scale degree immediately above the tonic, the second note of the scale."
+    },
+    {
+      "subject": "Music",
+      "text": "The third degree of a scale is called the",
+      "options": [
+        "mediant",
+        "dominant",
+        "supertonic",
+        "subdominant"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mediant is the third degree of the scale, positioned midway between the tonic and dominant."
+    },
+    {
+      "subject": "Music",
+      "text": "The fourth degree of a scale is called the",
+      "options": [
+        "dominant",
+        "submediant",
+        "subdominant",
+        "mediant"
+      ],
+      "correctIndex": 2,
+      "explanation": "The subdominant is the fourth degree of the scale, a perfect fourth above the tonic."
+    },
+    {
+      "subject": "Music",
+      "text": "The fifth degree of a scale, often the second most important note after the tonic, is called the",
+      "options": [
+        "leading note",
+        "subdominant",
+        "submediant",
+        "dominant"
+      ],
+      "correctIndex": 3,
+      "explanation": "The dominant, the fifth scale degree, has a strong pull back toward the tonic and is central to harmonic movement."
+    },
+    {
+      "subject": "Music",
+      "text": "The sixth degree of a scale is called the",
+      "options": [
+        "mediant",
+        "leading note",
+        "dominant",
+        "submediant"
+      ],
+      "correctIndex": 3,
+      "explanation": "The submediant is the sixth degree of the scale, positioned a third below the tonic (an octave higher)."
+    },
+    {
+      "subject": "Music",
+      "text": "The seventh degree of a scale, which strongly leads back to the tonic, is called the",
+      "options": [
+        "submediant",
+        "dominant",
+        "supertonic",
+        "leading note"
+      ],
+      "correctIndex": 3,
+      "explanation": "The leading note (or leading tone) is the seventh scale degree, typically a semitone below the tonic, creating strong pull toward resolution."
+    },
+    {
+      "subject": "Music",
+      "text": "A major scale with one sharp in its key signature is the key of",
+      "options": [
+        "F major",
+        "D major",
+        "C major",
+        "G major"
+      ],
+      "correctIndex": 3,
+      "explanation": "G major has one sharp (F#) in its key signature, making it the first major key moving clockwise on the circle of fifths from C."
+    },
+    {
+      "subject": "Music",
+      "text": "The major key with no sharps or flats in its key signature is",
+      "options": [
+        "D major",
+        "G major",
+        "C major",
+        "F major"
+      ],
+      "correctIndex": 2,
+      "explanation": "C major has no sharps or flats, using only the natural notes of the scale."
+    },
+    {
+      "subject": "Music",
+      "text": "The relative minor of a major key is found by starting a natural minor scale on the",
+      "options": [
+        "leading note of the major scale",
+        "supertonic of the major scale",
+        "submediant (sixth degree) of the major scale, sharing the same key signature",
+        "dominant of the major scale"
+      ],
+      "correctIndex": 2,
+      "explanation": "A relative minor key shares the same key signature as its major counterpart, and is built starting on the sixth degree (submediant) of that major scale."
+    },
+    {
+      "subject": "Music",
+      "text": "The major key with one flat in its key signature is",
+      "options": [
+        "F major",
+        "G major",
+        "C major",
+        "D major"
+      ],
+      "correctIndex": 0,
+      "explanation": "F major has one flat (Bb) in its key signature, positioned counter-clockwise from C major on the circle of fifths."
+    },
+    {
+      "subject": "Music",
+      "text": "The distance in pitch between two musical notes is called an",
+      "options": [
+        "chord",
+        "cadence",
+        "interval",
+        "accidental"
+      ],
+      "correctIndex": 2,
+      "explanation": "An interval measures the pitch distance between two notes, described by both a number (e.g., third) and a quality (e.g., major)."
+    },
+    {
+      "subject": "Music",
+      "text": "An interval that sounds stable and consonant in both its major and minor forms, such as unisons, fourths, fifths, and octaves, is classified as a",
+      "options": [
+        "minor interval",
+        "diminished interval",
+        "perfect interval",
+        "major interval"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perfect intervals (unison, fourth, fifth, octave) have a uniquely stable quality and do not have major/minor forms like other intervals."
+    },
+    {
+      "subject": "Music",
+      "text": "An interval that is one semitone smaller than a major interval of the same number is called a",
+      "options": [
+        "augmented interval",
+        "minor interval",
+        "perfect interval",
+        "major interval"
+      ],
+      "correctIndex": 1,
+      "explanation": "A minor interval is exactly one semitone smaller than the corresponding major interval, applying to seconds, thirds, sixths, and sevenths."
+    },
+    {
+      "subject": "Music",
+      "text": "An interval that is one semitone smaller than a perfect or minor interval of the same number is called a",
+      "options": [
+        "perfect interval",
+        "diminished interval",
+        "augmented interval",
+        "major interval"
+      ],
+      "correctIndex": 1,
+      "explanation": "A diminished interval is one semitone smaller than the corresponding perfect or minor interval."
+    },
+    {
+      "subject": "Music",
+      "text": "An interval that is one semitone larger than a perfect or major interval of the same number is called an",
+      "options": [
+        "augmented interval",
+        "perfect interval",
+        "diminished interval",
+        "minor interval"
+      ],
+      "correctIndex": 0,
+      "explanation": "An augmented interval is one semitone larger than the corresponding perfect or major interval."
+    },
+    {
+      "subject": "Music",
+      "text": "Turning an interval 'upside down' by raising the lower note an octave (or lowering the upper note) is called",
+      "options": [
+        "resolution",
+        "modulation",
+        "inversion of an interval",
+        "transposition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inverting an interval swaps which note is on top, producing a new interval whose number and quality change in predictable ways."
+    },
+    {
+      "subject": "Music",
+      "text": "A chord built from three notes, typically a root, a third, and a fifth, is called a",
+      "options": [
+        "scale",
+        "interval",
+        "cadence",
+        "triad"
+      ],
+      "correctIndex": 3,
+      "explanation": "A triad is the most basic type of chord, constructed by stacking a third and a fifth above a root note."
+    },
+    {
+      "subject": "Music",
+      "text": "A triad with its root note as the lowest-sounding note is said to be in",
+      "options": [
+        "third inversion",
+        "first inversion",
+        "second inversion",
+        "root position"
+      ],
+      "correctIndex": 3,
+      "explanation": "A triad in root position has its root as the bass (lowest) note, with the third and fifth stacked above."
+    },
+    {
+      "subject": "Music",
+      "text": "A triad with its third as the lowest-sounding note is said to be in",
+      "options": [
+        "root position",
+        "first inversion",
+        "third inversion",
+        "second inversion"
+      ],
+      "correctIndex": 1,
+      "explanation": "First inversion places the third of the chord in the bass, with the root and fifth above."
+    },
+    {
+      "subject": "Music",
+      "text": "A triad with its fifth as the lowest-sounding note is said to be in",
+      "options": [
+        "first inversion",
+        "third inversion",
+        "second inversion",
+        "root position"
+      ],
+      "correctIndex": 2,
+      "explanation": "Second inversion places the fifth of the chord in the bass, with the root and third above."
+    },
+    {
+      "subject": "Music",
+      "text": "The triads built on the tonic, subdominant, and dominant degrees of a scale are collectively known as the",
+      "options": [
+        "augmented triads",
+        "secondary triads",
+        "primary triads",
+        "diminished triads"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primary triads (built on scale degrees I, IV, and V) are the most fundamental chords used in tonal harmony."
+    },
+    {
+      "subject": "Music",
+      "text": "Triads built on the supertonic, mediant, submediant, and leading note degrees are collectively known as the",
+      "options": [
+        "primary triads",
+        "secondary triads",
+        "perfect triads",
+        "compound triads"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secondary triads (built on scale degrees ii, iii, vi, and vii) supplement the primary triads in harmonic progressions."
+    },
+    {
+      "subject": "Music",
+      "text": "A cadence moving from the dominant chord (V) to the tonic chord (I), giving a strong sense of finality, is called a",
+      "options": [
+        "perfect cadence",
+        "interrupted cadence",
+        "imperfect cadence",
+        "plagal cadence"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perfect cadence (V-I) provides the strongest sense of harmonic resolution and closure, commonly ending phrases and pieces."
+    },
+    {
+      "subject": "Music",
+      "text": "A cadence moving from the subdominant chord (IV) to the tonic chord (I), often described as the 'Amen' cadence, is called a",
+      "options": [
+        "interrupted cadence",
+        "imperfect cadence",
+        "perfect cadence",
+        "plagal cadence"
+      ],
+      "correctIndex": 3,
+      "explanation": "The plagal cadence (IV-I) is commonly associated with the 'Amen' sung at the end of hymns."
+    },
+    {
+      "subject": "Music",
+      "text": "A cadence ending on the dominant chord (V), creating a sense of incompleteness that invites continuation, is called an",
+      "options": [
+        "imperfect cadence",
+        "interrupted cadence",
+        "plagal cadence",
+        "perfect cadence"
+      ],
+      "correctIndex": 0,
+      "explanation": "An imperfect cadence ends on the dominant chord, leaving the harmony unresolved and suggesting more music is to follow."
+    },
+    {
+      "subject": "Music",
+      "text": "A cadence in which the dominant chord (V) resolves unexpectedly to the submediant chord (vi) instead of the tonic is called an",
+      "options": [
+        "imperfect cadence",
+        "plagal cadence",
+        "interrupted cadence",
+        "perfect cadence"
+      ],
+      "correctIndex": 2,
+      "explanation": "An interrupted cadence surprises the listener by resolving the dominant chord to the submediant rather than the expected tonic."
+    },
+    {
+      "subject": "Music",
+      "text": "Four-part harmony writing for choir, using the parts Soprano, Alto, Tenor, and Bass, is commonly abbreviated as",
+      "options": [
+        "BATS",
+        "ATSB",
+        "STAB",
+        "SATB"
+      ],
+      "correctIndex": 3,
+      "explanation": "SATB refers to the standard four vocal parts used in choral harmony writing: Soprano, Alto, Tenor, and Bass."
+    },
+    {
+      "subject": "Music",
+      "text": "The musical era characterised by elaborate ornamentation, basso continuo, and composers such as J.S. Bach and G.F. Handel is the",
+      "options": [
+        "20th century",
+        "Baroque period",
+        "Romantic period",
+        "Classical period"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Baroque period (roughly 1600-1750) featured ornate musical style, the development of basso continuo, and major composers like Bach and Handel."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with the Baroque period?",
+      "options": [
+        "F. Chopin",
+        "I. Stravinsky",
+        "J.S. Bach",
+        "W.A. Mozart"
+      ],
+      "correctIndex": 2,
+      "explanation": "J.S. Bach was a leading composer of the Baroque era, renowned for his complex counterpoint and sacred works."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with the Baroque period, known for works such as the 'Messiah'?",
+      "options": [
+        "I. Stravinsky",
+        "L. van Beethoven",
+        "G.F. Handel",
+        "F. Schubert"
+      ],
+      "correctIndex": 2,
+      "explanation": "G.F. Handel, a major Baroque composer, is especially renowned for his oratorio 'Messiah'."
+    },
+    {
+      "subject": "Music",
+      "text": "The musical era characterised by balanced, clear structures such as sonata form, and composers such as Mozart and Beethoven, is the",
+      "options": [
+        "Baroque period",
+        "Classical period",
+        "20th century",
+        "Romantic period"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Classical period (roughly 1750-1820) emphasised clarity, balance, and formal structures such as sonata form."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with the Classical period?",
+      "options": [
+        "I. Stravinsky",
+        "J.S. Bach",
+        "F. Chopin",
+        "W.A. Mozart"
+      ],
+      "correctIndex": 3,
+      "explanation": "W.A. Mozart was a leading composer of the Classical period, celebrated for his operas, symphonies, and chamber music."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers, though bridging Classical and Romantic styles, is most associated with the Classical period's later years and the early Romantic era?",
+      "options": [
+        "L. van Beethoven",
+        "G.F. Handel",
+        "F. Chopin",
+        "I. Stravinsky"
+      ],
+      "correctIndex": 0,
+      "explanation": "L. van Beethoven's works span the transition from the Classical to the Romantic period, marked by increasing emotional expression."
+    },
+    {
+      "subject": "Music",
+      "text": "The musical era characterised by intense emotional expression, expanded orchestras, and composers such as Schubert and Chopin is the",
+      "options": [
+        "Classical period",
+        "20th century",
+        "Romantic period",
+        "Baroque period"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Romantic period (roughly 1820-1900) emphasised individual emotional expression, expanded harmonic language, and larger orchestral forces."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with the Romantic period, especially known for his piano compositions?",
+      "options": [
+        "F. Chopin",
+        "I. Stravinsky",
+        "J.S. Bach",
+        "W.A. Mozart"
+      ],
+      "correctIndex": 0,
+      "explanation": "F. Chopin, a leading Romantic composer, is renowned for his expressive and technically demanding piano works."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with the Romantic period, particularly known for his lieder (art songs)?",
+      "options": [
+        "I. Stravinsky",
+        "G.F. Handel",
+        "F. Schubert",
+        "J.S. Bach"
+      ],
+      "correctIndex": 2,
+      "explanation": "F. Schubert, a key Romantic composer, is celebrated for his extensive output of lieder (German art songs)."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with 20th-century music, known for works such as 'The Rite of Spring'?",
+      "options": [
+        "J.S. Bach",
+        "F. Chopin",
+        "W.A. Mozart",
+        "I. Stravinsky"
+      ],
+      "correctIndex": 3,
+      "explanation": "I. Stravinsky was a pioneering 20th-century composer whose ballet 'The Rite of Spring' famously challenged musical conventions of its time."
+    },
+    {
+      "subject": "Music",
+      "text": "A general characteristic of 20th-century Western art music is",
+      "options": [
+        "complete avoidance of any instrumental music",
+        "exclusive use of medieval modes",
+        "experimentation with new harmonic, rhythmic, and tonal systems",
+        "strict adherence to Baroque ornamentation only"
+      ],
+      "correctIndex": 2,
+      "explanation": "20th-century composers broke from earlier conventions, exploring new approaches to harmony, rhythm, and even atonality."
+    },
+    {
+      "subject": "Music",
+      "text": "A general characteristic of Baroque music is its use of",
+      "options": [
+        "extended symphonic forms of the Romantic era",
+        "basso continuo, providing a continuous harmonic foundation",
+        "strict twelve-tone rows",
+        "exclusively unaccompanied vocal music"
+      ],
+      "correctIndex": 1,
+      "explanation": "Basso continuo, a continuous bass line with improvised harmonies, was a defining feature of Baroque musical texture."
+    },
+    {
+      "subject": "Music",
+      "text": "A general characteristic of Classical period music is its emphasis on",
+      "options": [
+        "formal clarity and balance, such as in sonata form",
+        "purely aleatoric (chance-based) composition",
+        "improvised basso continuo as the primary structure",
+        "extreme chromaticism and dissonance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classical period composers valued clear, balanced structures, exemplified by the widespread use of sonata form."
+    },
+    {
+      "subject": "Music",
+      "text": "A general characteristic of Romantic period music is its emphasis on",
+      "options": [
+        "avoidance of expressive dynamics",
+        "intense emotional expression and expanded harmonic colour",
+        "exclusive use of basso continuo",
+        "strict formal balance above all else"
+      ],
+      "correctIndex": 1,
+      "explanation": "Romantic composers prioritised emotional depth and expressive range, often expanding harmony and orchestration to achieve this."
+    },
+    {
+      "subject": "Music",
+      "text": "The term used to describe a piece of music composed for a solo instrument accompanied by an orchestra, popular across several Western art music eras, is a",
+      "options": [
+        "oratorio",
+        "concerto",
+        "cantata",
+        "symphony"
+      ],
+      "correctIndex": 1,
+      "explanation": "A concerto features a soloist (or small group) performing with orchestral accompaniment, a form used throughout the Baroque, Classical, and Romantic periods."
+    },
+    {
+      "subject": "Music",
+      "text": "An extended orchestral work, typically in several movements, that became a central form of the Classical and Romantic periods, is called a",
+      "options": [
+        "cantata",
+        "concerto",
+        "madrigal",
+        "symphony"
+      ],
+      "correctIndex": 3,
+      "explanation": "The symphony, an extended multi-movement orchestral work, became one of the most important instrumental forms in the Classical and Romantic eras."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional African music performed as part of religious or ritual observance is generally classified as",
+      "options": [
+        "occupational music",
+        "functional music (general)",
+        "social music",
+        "ceremonial music"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ceremonial music accompanies religious, ritual, or rites-of-passage events, playing an integral spiritual and cultural role."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional African music performed mainly for entertainment and communal enjoyment at gatherings is generally classified as",
+      "options": [
+        "functional music for work",
+        "ceremonial music",
+        "occupational music",
+        "social music"
+      ],
+      "correctIndex": 3,
+      "explanation": "Social music serves recreational and community bonding purposes, played at social gatherings and celebrations."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional African music performed to accompany specific tasks, such as farming or pounding, is generally classified as",
+      "options": [
+        "ceremonial music",
+        "social music",
+        "occupational music",
+        "art music"
+      ],
+      "correctIndex": 2,
+      "explanation": "Occupational music accompanies specific work activities, often helping to coordinate movement or ease the burden of labour."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional musical instruments that produce sound through vibrating strings, such as the kora or goje, are classified as",
+      "options": [
+        "idiophones",
+        "chordophones",
+        "aerophones",
+        "membranophones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chordophones generate sound through the vibration of strings, whether plucked, bowed, or struck."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional musical instruments that produce sound through vibrating columns of air, such as flutes and horns, are classified as",
+      "options": [
+        "idiophones",
+        "aerophones",
+        "membranophones",
+        "chordophones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aerophones produce sound by vibrating a column of air within the instrument, as in flutes, horns, and wind instruments generally."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional musical instruments that produce sound through a stretched skin or membrane, such as drums, are classified as",
+      "options": [
+        "chordophones",
+        "aerophones",
+        "membranophones",
+        "idiophones"
+      ],
+      "correctIndex": 2,
+      "explanation": "Membranophones produce sound through the vibration of a stretched skin or membrane, the defining feature of drums."
+    },
+    {
+      "subject": "Music",
+      "text": "Traditional musical instruments that produce sound from the vibration of their own solid material, such as gongs, rattles, and xylophones, are classified as",
+      "options": [
+        "membranophones",
+        "aerophones",
+        "chordophones",
+        "idiophones"
+      ],
+      "correctIndex": 3,
+      "explanation": "Idiophones produce sound from the vibration of the instrument's own body material, without strings, membranes, or air columns."
+    },
+    {
+      "subject": "Music",
+      "text": "The Nigerian popular music genre that emerged blending Western instruments with indigenous rhythms, particularly popular in Ghana and Nigeria in the mid-20th century, is",
+      "options": [
+        "juju",
+        "fuji",
+        "highlife",
+        "afrobeat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Highlife emerged in West Africa (notably Ghana and Nigeria) blending Western instruments and harmonies with indigenous rhythmic elements."
+    },
+    {
+      "subject": "Music",
+      "text": "The Yoruba popular music genre characterised by the use of talking drums and guitars, popularised by artists like King Sunny Ade, is",
+      "options": [
+        "highlife",
+        "juju music",
+        "fuji",
+        "afrobeat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Juju music, rooted in Yoruba traditions, prominently features talking drums and guitar, popularised widely by King Sunny Ade."
+    },
+    {
+      "subject": "Music",
+      "text": "The Nigerian genre pioneered by Fela Kuti, blending jazz, funk, highlife, and traditional Yoruba music with socio-political lyrics, is",
+      "options": [
+        "juju",
+        "afrobeat",
+        "highlife",
+        "fuji"
+      ],
+      "correctIndex": 1,
+      "explanation": "Afrobeat, pioneered by Fela Kuti, fuses jazz, funk, highlife, and traditional Yoruba elements, often carrying strong political messages."
+    },
+    {
+      "subject": "Music",
+      "text": "The Yoruba Muslim-influenced popular music genre, characterised by percussion and vocal improvisation, associated with artists like Sikiru Ayinde Barrister, is",
+      "options": [
+        "afrobeat",
+        "fuji music",
+        "juju",
+        "highlife"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fuji music developed among Yoruba Muslims, characterised by heavy percussion and improvised vocal styles."
+    },
+    {
+      "subject": "Music",
+      "text": "Which Nigerian musician is widely regarded as the pioneer and central figure of Afrobeat?",
+      "options": [
+        "Fela Kuti",
+        "E.T. Mensah",
+        "Akin Euba",
+        "King Sunny Ade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fela Kuti is internationally recognised as the founder and leading figure of the Afrobeat genre."
+    },
+    {
+      "subject": "Music",
+      "text": "Which Ghanaian musician is widely regarded as a pioneering figure of highlife music?",
+      "options": [
+        "Fela Kuti",
+        "Akin Euba",
+        "E.T. Mensah",
+        "Sikiru Ayinde Barrister"
+      ],
+      "correctIndex": 2,
+      "explanation": "E.T. Mensah, often called the 'King of Highlife', was a pioneering Ghanaian musician central to the genre's development and spread."
+    },
+    {
+      "subject": "Music",
+      "text": "Which Nigerian composer is particularly noted as a pioneer of African choral art music, blending Western compositional techniques with African musical elements?",
+      "options": [
+        "King Sunny Ade",
+        "Akin Euba",
+        "E.T. Mensah",
+        "Fela Kuti"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akin Euba was a pioneering Nigerian composer and scholar known for developing African art music that combined Western techniques with indigenous African elements."
+    },
+    {
+      "subject": "Music",
+      "text": "Choral art music in Nigeria typically refers to",
+      "options": [
+        "compositions for choir that blend Western harmonic techniques with African melodic and rhythmic elements",
+        "solo instrumental music only, without choral singing",
+        "Western classical symphonies performed without any African influence",
+        "purely traditional drumming with no vocal component"
+      ],
+      "correctIndex": 0,
+      "explanation": "Choral art music represents a fusion tradition, applying Western choral composition techniques to African musical language and themes."
+    }
+  ]
+}

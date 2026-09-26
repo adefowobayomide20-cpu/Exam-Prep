@@ -1,0 +1,1206 @@
+{
+  "subject": "Literature in English",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Literature in English",
+      "text": "The branch of literature concerned with performance on a stage, involving dialogue and action, is called",
+      "options": [
+        "biography",
+        "prose",
+        "drama",
+        "poetry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Drama is the literary genre written primarily to be performed by actors before an audience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A literary work written in narrative form, using ordinary spoken or written language rather than verse, is called",
+      "options": [
+        "epic",
+        "drama",
+        "poetry",
+        "prose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prose is language in its ordinary, unmetred form, as used in novels and short stories, distinguished from the structured lines of poetry."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A composition that uses condensed, rhythmic, and often figurative language, typically arranged in lines and stanzas, is called",
+      "options": [
+        "poetry",
+        "essay",
+        "drama",
+        "prose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poetry is characterised by its use of rhythm, imagery, and compressed, often figurative, language, structured into lines and stanzas."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The plot structure of a typical play, in order, moves through exposition, rising action, climax, falling action, and",
+      "options": [
+        "epilogue only",
+        "denouement/resolution",
+        "flashback",
+        "prologue"
+      ],
+      "correctIndex": 1,
+      "explanation": "The denouement, or resolution, is the final stage of a plot where the conflicts are resolved and loose ends are tied up."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The point of highest tension or the turning point in a plot is called the",
+      "options": [
+        "climax",
+        "exposition",
+        "denouement",
+        "anti-climax"
+      ],
+      "correctIndex": 0,
+      "explanation": "The climax is the decisive moment of greatest intensity in a narrative, after which the action begins to fall toward resolution."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A brief, indirect reference to a person, event, or work outside the text is called",
+      "options": [
+        "allusion",
+        "epigram",
+        "digression",
+        "parody"
+      ],
+      "correctIndex": 0,
+      "explanation": "An allusion is a passing reference to another work, person, or event that the writer expects the reader to recognise and connect with."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A statement that appears self-contradictory but reveals an underlying truth is called a",
+      "options": [
+        "paradox",
+        "euphemism",
+        "pun",
+        "cliché"
+      ],
+      "correctIndex": 0,
+      "explanation": "A paradox seems logically contradictory on the surface, yet expresses a deeper or unexpected truth, e.g., 'less is more.'"
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A word or phrase that has become overused to the point of losing its original impact is called a",
+      "options": [
+        "motif",
+        "paradox",
+        "refrain",
+        "cliché"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cliché is an expression so frequently used that it has lost its freshness and persuasive force, such as 'as light as a feather.'"
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring element, such as an image, idea, or situation, that helps develop a text's central theme is called a",
+      "options": [
+        "motif",
+        "prologue",
+        "stanza",
+        "denouement"
+      ],
+      "correctIndex": 0,
+      "explanation": "A motif is a recurring symbol, idea, or image that reinforces the central theme(s) of a literary work."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of a line or group of lines at intervals in a poem, especially at the end of each stanza, is called a",
+      "options": [
+        "refrain",
+        "caesura",
+        "motif",
+        "enjambment"
+      ],
+      "correctIndex": 0,
+      "explanation": "A refrain is a line or set of lines repeated at regular intervals throughout a poem or song, often for emphasis or musicality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A pause or break within a line of poetry, often marked by punctuation, is called a",
+      "options": [
+        "refrain",
+        "couplet",
+        "caesura",
+        "stanza"
+      ],
+      "correctIndex": 2,
+      "explanation": "A caesura is a natural pause within a line of verse, frequently created by punctuation such as a comma or full stop."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When a sentence or clause continues beyond the end of a line of poetry without a pause, this is called",
+      "options": [
+        "assonance",
+        "alliteration",
+        "caesura",
+        "enjambment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enjambment occurs when a thought or grammatical unit runs on from one line of poetry into the next without a terminal pause."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of similar vowel sounds in nearby words is known as",
+      "options": [
+        "assonance",
+        "rhyme",
+        "consonance",
+        "alliteration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Assonance is the repetition of vowel sounds within nearby words, as in 'the rain in Spain', creating internal musicality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of similar consonant sounds, especially at the end of words, is known as",
+      "options": [
+        "alliteration",
+        "onomatopoeia",
+        "consonance",
+        "assonance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consonance repeats consonant sounds, typically at the end or middle of words, distinct from alliteration, which repeats initial sounds."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A two-line unit of verse, usually rhyming and containing a complete thought, is called a",
+      "options": [
+        "stanza",
+        "quatrain",
+        "couplet",
+        "sonnet"
+      ],
+      "correctIndex": 2,
+      "explanation": "A couplet consists of two successive rhymed lines, often forming a self-contained unit of meaning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A fourteen-line poem, often written in iambic pentameter and associated with themes of love, is called a",
+      "options": [
+        "elegy",
+        "ode",
+        "ballad",
+        "sonnet"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sonnet is a fixed fourteen-line poetic form, popularised in English by Shakespeare, traditionally exploring love and related themes."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem of mourning written to lament the death of a person is called an",
+      "options": [
+        "ode",
+        "elegy",
+        "idyll",
+        "epic"
+      ],
+      "correctIndex": 1,
+      "explanation": "An elegy is a poem of serious reflection, typically a lament for someone who has died."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A long narrative poem celebrating the deeds of a legendary or historical hero is called an",
+      "options": [
+        "epic",
+        "ode",
+        "ballad",
+        "elegy"
+      ],
+      "correctIndex": 0,
+      "explanation": "An epic is a lengthy narrative poem recounting the heroic deeds and adventures of a legendary or historical figure, such as Homer's Iliad."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A short, simple narrative poem, often set to music and dealing with folk stories, is called a",
+      "options": [
+        "sonnet",
+        "ballad",
+        "epic",
+        "ode"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ballad is a narrative poem, traditionally sung, that tells a story in simple stanzas, often drawn from folklore or popular tradition."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A formal, elaborate lyric poem written in praise of, or addressed to, a particular subject is called an",
+      "options": [
+        "ballad",
+        "ode",
+        "elegy",
+        "epic"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ode is a dignified, often ceremonious lyric poem that celebrates or reflects deeply on its subject."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The use of words whose sound imitates the sound they describe, such as 'buzz' or 'crash', is called",
+      "options": [
+        "alliteration",
+        "assonance",
+        "onomatopoeia",
+        "consonance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Onomatopoeia refers to words that phonetically resemble the sound they represent, adding sensory immediacy to writing."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A short speech in which a character, alone on stage, expresses inner thoughts directly to the audience is a",
+      "options": [
+        "soliloquy",
+        "aside",
+        "dialogue",
+        "monologue"
+      ],
+      "correctIndex": 0,
+      "explanation": "A soliloquy is delivered by a character alone on stage, revealing private thoughts and motivations to the audience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A long, uninterrupted speech given by one character to other characters (or the audience) within a scene is a",
+      "options": [
+        "soliloquy",
+        "aside",
+        "prologue",
+        "monologue"
+      ],
+      "correctIndex": 3,
+      "explanation": "A monologue is an extended speech by a single character, which, unlike a soliloquy, may be addressed to other characters present."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A remark made by a character, intended to be heard by the audience but not by other characters on stage, is an",
+      "options": [
+        "aside",
+        "soliloquy",
+        "epilogue",
+        "monologue"
+      ],
+      "correctIndex": 0,
+      "explanation": "An aside is a brief comment directed to the audience that other characters on stage are conventionally understood not to hear."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The narrator who uses 'I' and participates directly in the events of the story is called a",
+      "options": [
+        "second-person narrator",
+        "third-person omniscient narrator",
+        "first-person narrator",
+        "unreliable chorus"
+      ],
+      "correctIndex": 2,
+      "explanation": "A first-person narrator tells the story from their own point of view using 'I', often as a character within the events narrated."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A narrator who knows the thoughts and feelings of all characters in a story is described as",
+      "options": [
+        "unreliable",
+        "third-person omniscient",
+        "first-person limited",
+        "second-person"
+      ],
+      "correctIndex": 1,
+      "explanation": "A third-person omniscient narrator has unrestricted access to the thoughts, feelings, and motives of every character in the narrative."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A character whose personal moral flaw or error in judgement leads to their eventual downfall in a tragedy displays",
+      "options": [
+        "catharsis",
+        "hamartia",
+        "anagnorisis",
+        "peripeteia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hamartia is the tragic flaw or mistaken judgement in a protagonist that sets their downfall in motion."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The sudden reversal of fortune experienced by the protagonist in a tragedy is known, in Aristotelian terms, as",
+      "options": [
+        "peripeteia",
+        "anagnorisis",
+        "hamartia",
+        "catharsis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Peripeteia refers to the abrupt reversal of circumstances or fortune for the protagonist, a key turning point in classical tragedy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The moment in a tragedy when a character discovers a crucial truth previously hidden from them is called",
+      "options": [
+        "catharsis",
+        "hamartia",
+        "anagnorisis",
+        "peripeteia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anagnorisis is the moment of critical discovery or recognition, often when a character learns their true identity or situation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Two contrasting ideas, words, or images placed close together for emphasis form a literary device called",
+      "options": [
+        "paradox",
+        "oxymoron",
+        "antithesis",
+        "juxtaposition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Juxtaposition places two elements side by side to highlight their differences or create a particular effect through contrast."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech combining two normally contradictory terms, such as 'deafening silence', is called an",
+      "options": [
+        "antithesis",
+        "oxymoron",
+        "hyperbole",
+        "paradox"
+      ],
+      "correctIndex": 1,
+      "explanation": "An oxymoron pairs two seemingly contradictory words together for rhetorical or dramatic effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A play in which the central character suffers a serious downfall, often ending in death, best describes the genre of",
+      "options": [
+        "tragedy",
+        "farce",
+        "satire",
+        "comedy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tragedy centres on a protagonist's serious downfall, typically arising from a flaw or a combination of adverse circumstances."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A humorous work that ends happily, often involving misunderstandings that are eventually resolved, is a",
+      "options": [
+        "comedy",
+        "epic",
+        "elegy",
+        "tragedy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Comedy uses humour and light-hearted conflict, generally resolving in a happy or favourable outcome for the main characters."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A literary work that uses humour, irony, or exaggeration to criticise human vice or folly is a",
+      "options": [
+        "ode",
+        "elegy",
+        "epic",
+        "satire"
+      ],
+      "correctIndex": 3,
+      "explanation": "Satire employs wit, irony, or ridicule to expose and criticise human weaknesses, societal vices, or institutions."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A character who serves as a contrast to another character, highlighting particular qualities by comparison, is called a",
+      "options": [
+        "protagonist",
+        "narrator",
+        "foil",
+        "antagonist"
+      ],
+      "correctIndex": 2,
+      "explanation": "A foil is a character whose traits contrast with those of another character, thereby emphasising the qualities of that other character."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The play 'Death and the King's Horseman' was written by",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "J.P. Clark",
+        "Ola Rotimi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Death and the King's Horseman is a tragedy by the Nigerian Nobel laureate Wole Soyinka, based on real events in colonial Oyo."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Death and the King's Horseman' is set in the Yoruba town of",
+      "options": [
+        "Benin",
+        "Oyo",
+        "Ibadan",
+        "Onitsha"
+      ],
+      "correctIndex": 1,
+      "explanation": "The play is set in the ancient Yoruba town of Oyo during the colonial period, drawing on a historical incident that occurred there."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'Death and the King's Horseman', Elesin Oba is expected to die by ritual suicide in order to",
+      "options": [
+        "avenge a personal insult from the colonial officer",
+        "accompany his dead king into the afterlife as tradition demands",
+        "escape punishment for a crime he committed",
+        "fulfil a debt owed to the market women"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yoruba custom requires the King's Horseman, Elesin, to take his own life so that his spirit can accompany the deceased king, maintaining cosmic order."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'Death and the King's Horseman', the British colonial officer who intervenes to stop the ritual suicide is",
+      "options": [
+        "Iyaloja",
+        "Olunde",
+        "Simon Pilkings",
+        "Amusa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Simon Pilkings, the District Officer, disrupts the ritual by arresting Elesin, misunderstanding and interfering with Yoruba custom."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'Death and the King's Horseman', Olunde is significant because he",
+      "options": [
+        "is Elesin's son, who returns from studying medicine in England to complete the ritual his father failed to fulfil",
+        "refuses to accept any Yoruba tradition",
+        "is the colonial officer's translator",
+        "is the market leader, Iyaloja"
+      ],
+      "correctIndex": 0,
+      "explanation": "Olunde, educated in England, ultimately takes his own life in his father's place to preserve the honour Elesin failed to uphold."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wole Soyinka's play 'The Lion and the Jewel' centres on a rivalry between Baroka and Lakunle over",
+      "options": [
+        "ownership of farmland",
+        "the office of village chief",
+        "Sidi, the village belle",
+        "control of the local market"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Lion and the Jewel is a comedy in which the old chief Baroka and the young schoolteacher Lakunle both seek to win Sidi, the beautiful village belle."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'The Lion and the Jewel', Baroka is best described as",
+      "options": [
+        "a colonial district officer",
+        "a Christian missionary",
+        "the shrewd, traditionalist village chief nicknamed 'the Lion'",
+        "a young, modern schoolteacher"
+      ],
+      "correctIndex": 2,
+      "explanation": "Baroka, the Bale (chief) of Ilujinle, is a cunning and traditionalist elder who ultimately outwits his younger rival for Sidi's affection."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Ola Rotimi's play 'The Gods Are Not to Blame' is a reworking of which classical Greek tragedy?",
+      "options": [
+        "Aeschylus' Agamemnon",
+        "Sophocles' Oedipus Rex",
+        "Euripides' Medea",
+        "Sophocles' Antigone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Gods Are Not to Blame transposes the story of Sophocles' Oedipus Rex into a Yoruba setting, centring on King Odewale."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'The Gods Are Not to Blame', King Odewale unknowingly fulfils a prophecy by",
+      "options": [
+        "betraying his kingdom to a rival tribe",
+        "murdering his own son in battle",
+        "killing his real father and marrying his real mother",
+        "starting a war with a neighbouring village"
+      ],
+      "correctIndex": 2,
+      "explanation": "Like Oedipus, Odewale unwittingly kills his biological father and marries his mother, fulfilling the very prophecy he sought to avoid."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Efua Sutherland, celebrated for the play 'The Marriage of Anansewa', was a playwright from",
+      "options": [
+        "Kenya",
+        "Senegal",
+        "Ghana",
+        "Nigeria"
+      ],
+      "correctIndex": 2,
+      "explanation": "Efua Sutherland was a prominent Ghanaian dramatist and a key figure in the development of modern African theatre."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Efua Sutherland's 'The Marriage of Anansewa', the character Ananse tries to profit by",
+      "options": [
+        "selling his farmland to the highest bidder",
+        "forging a chief's official seal",
+        "smuggling goods across a border",
+        "arranging his daughter's marriage to multiple wealthy suitors simultaneously for gifts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ananse, a trickster figure drawn from Akan folklore, schemes to betroth his daughter Anansewa to several rich suitors at once to extract gifts from each."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "James Ene Henshaw's play 'This is Our Chance' primarily explores the theme of",
+      "options": [
+        "the aftermath of a civil war",
+        "conflict between traditional customs and modern/Western values",
+        "corruption within a colonial police force",
+        "the horrors of the transatlantic slave trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is Our Chance dramatises the tension between an older generation's traditional customs and a younger generation's embrace of modern ideas."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Nigerian playwright known for 'Song of a Goat' and 'The Raft', reflecting on fate and community life in the Niger Delta, is",
+      "options": [
+        "Zulu Sofola",
+        "Femi Osofisan",
+        "Wole Soyinka",
+        "J.P. Clark"
+      ],
+      "correctIndex": 3,
+      "explanation": "J.P. Clark, a Niger Delta poet and dramatist, explores themes of destiny and communal life in plays such as Song of a Goat and The Raft."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Zulu Sofola, one of Nigeria's earliest published female playwrights, is known for works such as",
+      "options": [
+        "'Kongi's Harvest'",
+        "'The Trials of Brother Jero'",
+        "'Wedlock of the Gods'",
+        "'The Swamp Dwellers'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zulu Sofola's Wedlock of the Gods examines the tragic consequences of forbidden love within the constraints of traditional custom."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wole Soyinka's satirical play 'The Trials of Brother Jero' centres on a character who is a",
+      "options": [
+        "fraudulent, self-serving beach prophet",
+        "colonial district officer",
+        "returning war veteran",
+        "traditional village chief"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brother Jero is a comic, manipulative 'prophet' who exploits his gullible followers on the beach for his own personal gain."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "William Shakespeare's tragedy 'Hamlet' centres on a Danish prince who seeks revenge for the murder of his",
+      "options": [
+        "brother",
+        "uncle",
+        "father",
+        "mother"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hamlet is driven by the ghost of his murdered father's revelation and his subsequent quest to avenge the killing, committed by his uncle Claudius."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Shakespeare's 'Hamlet', Claudius murders King Hamlet, his brother, chiefly in order to",
+      "options": [
+        "avenge an old insult from the king",
+        "seize the throne of Denmark and marry Queen Gertrude",
+        "fulfil a prophecy given by the ghost",
+        "protect Denmark from a foreign invasion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Claudius poisons his brother, King Hamlet, to claim both the Danish throne and Gertrude, the widowed queen."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Shakespeare's tragedy 'Macbeth' depicts the downfall of a Scottish general driven primarily by",
+      "options": [
+        "religious zealotry",
+        "a desire to escape exile",
+        "unrequited love for a rival's daughter",
+        "ambition, spurred on by prophecy and his wife's persuasion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Macbeth's tragic downfall stems from unchecked ambition, ignited by the witches' prophecy and intensified by Lady Macbeth's urging."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'Macbeth', the three witches first hail Macbeth with prophecies concerning his future as",
+      "options": [
+        "Earl of Gloucester and future Pope",
+        "Baron of Inverness and Emperor",
+        "Duke of Cornwall and Prince of Wales",
+        "Thane of Cawdor and future King of Scotland"
+      ],
+      "correctIndex": 3,
+      "explanation": "The witches greet Macbeth as Thane of Glamis, Thane of Cawdor, and 'king hereafter', setting his ambitions in motion."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Shakespeare's tragedy 'Othello' centres on a Moorish general whose downfall is engineered by his manipulative ensign,",
+      "options": [
+        "Roderigo",
+        "Iago",
+        "Brabantio",
+        "Cassio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iago manipulates Othello into a jealous rage over his wife Desdemona through deceit, ultimately causing Othello's tragic downfall."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Shakespeare's 'Othello', Othello is ultimately driven to kill his wife, Desdemona, because he wrongly believes she has been",
+      "options": [
+        "plotting to poison him",
+        "secretly married to Roderigo",
+        "conspiring with her father against him",
+        "unfaithful to him with Cassio"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deceived by Iago's false evidence, Othello wrongly believes Desdemona has committed adultery with Cassio, leading him to murder her."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Shakespeare's play 'Romeo and Juliet' tells the tragic story of two young lovers from feuding families in the city of",
+      "options": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Verona"
+      ],
+      "correctIndex": 3,
+      "explanation": "Romeo and Juliet is set in Verona, Italy, where the feuding Montague and Capulet families drive the young lovers to their tragic end."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Shakespeare's 'Julius Caesar', Caesar is assassinated by a group of conspirators led by Cassius and, notably, his trusted friend",
+      "options": [
+        "Casca alone",
+        "Brutus",
+        "Octavius",
+        "Mark Antony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marcus Brutus, Caesar's close friend, joins the conspiracy out of a belief that Caesar's growing power threatens the Roman republic."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Henrik Ibsen's play 'A Doll's House' is best known for its portrayal of",
+      "options": [
+        "a family's escape from famine",
+        "a king's descent into madness",
+        "a soldier's return from a foreign war",
+        "a woman's awakening to the constraints of her marriage and society"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Doll's House follows Nora Helmer as she comes to recognise the oppressive, patronising nature of her marriage, ultimately leaving her husband and children."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Ibsen's 'A Doll's House', Nora Helmer famously ends the play by",
+      "options": [
+        "being sent away by her husband to an asylum",
+        "reconciling fully and happily with her husband Torvald",
+        "dying of an illness she had concealed",
+        "walking out of her marriage and family home to seek her own identity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nora's departure, slamming the door behind her, is one of the most famous and controversial endings in modern drama."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Arthur Miller's play 'Death of a Salesman' explores the tragic disillusionment of an ageing salesman named",
+      "options": [
+        "Willy Loman",
+        "Biff Loman",
+        "Charley",
+        "John Proctor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Death of a Salesman centres on Willy Loman, whose pursuit of the American Dream ends in personal and professional collapse."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Arthur Miller's play 'The Crucible' uses the Salem witch trials to allegorically comment on",
+      "options": [
+        "the McCarthyist anti-communist hysteria of 1950s America",
+        "British colonial rule in America",
+        "the Industrial Revolution",
+        "the horrors of the First World War"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Crucible dramatises the 1692 Salem witch trials as an allegory for the paranoia and false accusations of the McCarthy era."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "George Bernard Shaw's play 'Pygmalion', which inspired the musical 'My Fair Lady', follows a phonetics professor who transforms a",
+      "options": [
+        "servant boy into a member of royalty",
+        "young soldier into a decorated general",
+        "Cockney flower girl into a woman who can pass as a duchess",
+        "poor farmer into a wealthy landowner"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Pygmalion, Professor Henry Higgins trains flower-seller Eliza Doolittle to speak and behave so as to pass for a high-society lady."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Oscar Wilde's comedy 'The Importance of Being Earnest' is celebrated chiefly for its",
+      "options": [
+        "tragic ending involving multiple deaths",
+        "realistic portrayal of working-class poverty",
+        "witty dialogue and satire of Victorian social conventions",
+        "grim depiction of wartime suffering"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Importance of Being Earnest is a comedy of manners known for its epigrammatic wit and satirical treatment of Victorian upper-class hypocrisy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Sophocles' Greek tragedy 'Antigone' centres on a woman who defies the king's decree in order to",
+      "options": [
+        "give her brother a proper burial",
+        "avoid an arranged marriage",
+        "reclaim her family's throne",
+        "avenge her father's murder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antigone defies King Creon's edict forbidding the burial of her brother Polynices, choosing familial and religious duty over the law of the state."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chinua Achebe's novel 'Things Fall Apart' centres on a proud Igbo wrestler and farmer named",
+      "options": [
+        "Obierika",
+        "Unoka",
+        "Okonkwo",
+        "Nwoye"
+      ],
+      "correctIndex": 2,
+      "explanation": "Things Fall Apart follows Okonkwo, a respected and fiercely proud man in the village of Umuofia, whose life is disrupted by the arrival of colonialism."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'Things Fall Apart', Okonkwo's downfall is driven largely by his fear of resembling his father, who was seen as",
+      "options": [
+        "overly aggressive and violent",
+        "weak, lazy, and unsuccessful",
+        "too wealthy and proud",
+        "a coward who fled from war"
+      ],
+      "correctIndex": 1,
+      "explanation": "Okonkwo's relentless drive for status stems from his determination not to be like his gentle, improvident father, Unoka, whom the village considered a failure."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Things Fall Apart' is set in the fictional Igbo village of",
+      "options": [
+        "Onitsha",
+        "Nnewi",
+        "Umuofia",
+        "Owerri"
+      ],
+      "correctIndex": 2,
+      "explanation": "The novel is set primarily in Umuofia, a fictional cluster of Igbo villages representing pre-colonial and colonial-era Igbo society."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "At the end of 'Things Fall Apart', Okonkwo ultimately",
+      "options": [
+        "is exiled permanently to his mother's village",
+        "reconciles with the Christian missionaries",
+        "becomes the new leader of his clan",
+        "hangs himself after killing a colonial court messenger"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unable to accept his clan's growing passivity toward colonial rule, Okonkwo kills a court messenger and, in despair, takes his own life."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chinua Achebe's novel 'No Longer at Ease' follows Obi Okonkwo, grandson of the protagonist of 'Things Fall Apart', as he struggles with",
+      "options": [
+        "the transatlantic slave trade",
+        "a civil war between rival ethnic groups",
+        "famine in his home village",
+        "corruption and the pressures of urban life in colonial-era Lagos"
+      ],
+      "correctIndex": 3,
+      "explanation": "No Longer at Ease follows Obi Okonkwo's moral compromise amid financial pressure and bureaucratic corruption in colonial Lagos."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chinua Achebe's novel about the Nigerian Civil War's shattered idealism, focusing on an editor and his circle, is",
+      "options": [
+        "'Anthills of the Savannah'",
+        "'No Longer at Ease'",
+        "'Arrow of God'",
+        "'A Man of the People'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anthills of the Savannah examines political corruption and dictatorship in a fictional West African state through the eyes of three friends."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chinua Achebe's novel 'Arrow of God' centres on Ezeulu, the chief priest of the god",
+      "options": [
+        "Ulu",
+        "Ani",
+        "Amadioha",
+        "Chukwu alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arrow of God follows Ezeulu, chief priest of the deity Ulu, as he struggles to maintain his authority amid colonial interference."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Amos Tutuola's novel 'The Palm-Wine Drinkard' is notable for its blend of Yoruba folklore with a narrator who journeys into the",
+      "options": [
+        "sea to trade with European merchants",
+        "forest to fight colonial soldiers",
+        "land of the dead in search of his dead palm-wine tapster",
+        "capital city to seek a government job"
+      ],
+      "correctIndex": 2,
+      "explanation": "The novel follows a palm-wine drinker's fantastical journey into the spirit world (Deads' Town) to bring back his dead tapster."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Ngugi wa Thiong'o's novel 'Weep Not, Child' is set against the backdrop of the",
+      "options": [
+        "Mau Mau uprising against British colonial rule in Kenya",
+        "apartheid regime in South Africa",
+        "Rwandan genocide",
+        "Nigerian Civil War"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weep Not, Child depicts a Kenyan family's suffering and hopes during the Mau Mau struggle against British colonial rule."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Ngugi wa Thiong'o's novel 'A Grain of Wheat' focuses on the days surrounding Kenya's independence and the moral reckoning of characters over",
+      "options": [
+        "the construction of a new railway",
+        "an inter-tribal border dispute",
+        "past betrayals during the struggle for freedom",
+        "an outbreak of famine in the countryside"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Grain of Wheat examines guilt, heroism, and betrayal among villagers as Kenya approaches independence from British rule."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Cyprian Ekwensi's novel 'Jagua Nana' portrays the life of an ageing, glamorous woman navigating survival in the streets of",
+      "options": [
+        "Kampala",
+        "Accra",
+        "Nairobi",
+        "Lagos"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jagua Nana follows its titular character through the vibrant, often harsh, urban life of Lagos in the years around independence."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Elechi Amadi's novel 'The Concubine' is set in a traditional Igbo village and centres on Ihuoma, a beautiful woman whose suitors",
+      "options": [
+        "abandon her for other women",
+        "unite to found a new village",
+        "all become wealthy through her influence",
+        "repeatedly die under mysterious circumstances"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Concubine follows Ihuoma, whose suitors meet tragic, mysterious deaths, ultimately attributed to her being the wife of a jealous sea-god."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Buchi Emecheta's novel 'The Joys of Motherhood' critically examines the hardships faced by a Nigerian woman named",
+      "options": [
+        "Beatrice, a civil servant's wife",
+        "Kambili, a teenager in a strict household",
+        "Nnu Ego, as wife and mother in a patriarchal society",
+        "Efuru, a wealthy independent trader"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Joys of Motherhood follows Nnu Ego's difficult life as she struggles to fulfil the demanding, often unrewarded, roles of wife and mother."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chimamanda Ngozi Adichie's novel 'Half of a Yellow Sun' is set primarily against the backdrop of the",
+      "options": [
+        "Kenyan independence movement",
+        "First World War",
+        "Nigerian Civil War (Biafran War)",
+        "apartheid struggle in South Africa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Half of a Yellow Sun follows several characters through the turbulence and devastation of the Nigerian Civil War of the late 1960s."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chimamanda Ngozi Adichie's novel 'Purple Hibiscus' centres on a teenage girl, Kambili, growing up under the strict rule of her",
+      "options": [
+        "traditionalist grandfather",
+        "rebellious older brother",
+        "devoutly religious and abusive father",
+        "distant, absent mother"
+      ],
+      "correctIndex": 2,
+      "explanation": "Purple Hibiscus portrays Kambili's coming of age within a household dominated by her father Eugene's rigid, abusive religious authority."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Charles Dickens' novel 'Great Expectations' follows the moral and social development of an orphan boy named",
+      "options": [
+        "David Copperfield",
+        "Pip",
+        "Nicholas Nickleby",
+        "Oliver Twist"
+      ],
+      "correctIndex": 1,
+      "explanation": "Great Expectations traces Pip's journey from a humble blacksmith's apprentice to a young gentleman shaped by secret benefaction and hard lessons."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Charles Dickens' novel 'Oliver Twist' follows an orphan boy who falls in with a gang of pickpockets in",
+      "options": [
+        "London",
+        "Edinburgh",
+        "Dublin",
+        "Paris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oliver Twist depicts the hardships of an orphan navigating the workhouses and criminal underworld of nineteenth-century London."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Jane Austen's novel 'Pride and Prejudice' centres on the evolving relationship between Elizabeth Bennet and",
+      "options": [
+        "Mr Wickham",
+        "Mr Collins",
+        "Mr Darcy",
+        "Mr Bingley"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pride and Prejudice traces the shifting relationship between the spirited Elizabeth Bennet and the proud, initially aloof Mr Darcy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Emily Bronte's novel 'Wuthering Heights' is centred on the intense, destructive love between Catherine Earnshaw and",
+      "options": [
+        "Edgar Linton",
+        "Hindley Earnshaw",
+        "Heathcliff",
+        "Hareton"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wuthering Heights is driven by the passionate, ultimately tragic bond between Catherine and the brooding orphan Heathcliff."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "George Orwell's novel 'Animal Farm' is an allegory of the Russian Revolution in which farm animals overthrow their",
+      "options": [
+        "neighbouring farm's animals",
+        "local government council",
+        "human farmer, Mr Jones",
+        "veterinary doctor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Animal Farm allegorises the Russian Revolution and its aftermath through the animals' rebellion against their exploitative farmer, Mr Jones."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In George Orwell's 'Animal Farm', the pigs who eventually come to dominate the farm are led principally by",
+      "options": [
+        "Napoleon",
+        "Squealer alone",
+        "Boxer",
+        "Old Major, throughout the entire novel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Napoleon, a ruthless pig, gradually seizes total control of the farm, coming to mirror the tyranny the animals originally rebelled against."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "George Orwell's novel '1984' depicts a totalitarian society ruled by an omnipresent figure known as",
+      "options": [
+        "O'Brien",
+        "Emmanuel Goldstein",
+        "The Ministry of Truth",
+        "Big Brother"
+      ],
+      "correctIndex": 3,
+      "explanation": "1984 portrays a dystopian surveillance state dominated by the Party and its symbolic, all-seeing leader, Big Brother."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Mary Shelley's novel 'Frankenstein' tells the story of a scientist who creates a living being and is subsequently",
+      "options": [
+        "protected from all consequence by the creature's loyalty",
+        "haunted by the tragic consequences of his creation",
+        "elected to lead his country's scientific council",
+        "rewarded by his university for the discovery"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frankenstein follows Victor Frankenstein's growing horror and guilt as his creature brings tragedy upon him and his loved ones."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Daniel Defoe's novel 'Robinson Crusoe' recounts the survival of a shipwrecked man alone on an island, where he later encounters a man he names",
+      "options": [
+        "Companion",
+        "Sunday",
+        "Friday",
+        "Master"
+      ],
+      "correctIndex": 2,
+      "explanation": "Robinson Crusoe rescues a native man from cannibals and names him Friday, after the day of their meeting, and the two form a bond."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Harper Lee's novel 'To Kill a Mockingbird' is narrated by a young girl named Scout, whose father, Atticus Finch, defends a black man named",
+      "options": [
+        "Calpurnia's son, accused of vagrancy",
+        "Boo Radley, accused of trespassing",
+        "Dill Harris, accused of theft",
+        "Tom Robinson, wrongly accused of rape"
+      ],
+      "correctIndex": 3,
+      "explanation": "To Kill a Mockingbird centres on Atticus Finch's defence of Tom Robinson, a black man falsely accused of raping a white woman in the segregated American South."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Nigerian poet and playwright who won the Nobel Prize in Literature in 1986 is",
+      "options": [
+        "Niyi Osundare",
+        "Christopher Okigbo",
+        "Wole Soyinka",
+        "Chinua Achebe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wole Soyinka became the first African Nobel laureate in Literature, honoured in 1986 for his body of work spanning drama, poetry, and prose."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Christopher Okigbo, a celebrated Nigerian poet known for the collection 'Labyrinths', died while fighting in the",
+      "options": [
+        "First World War",
+        "Mau Mau uprising",
+        "Nigerian Civil War",
+        "Second World War"
+      ],
+      "correctIndex": 2,
+      "explanation": "Okigbo, one of Africa's most influential modern poets, was killed in 1967 fighting on the Biafran side of the Nigerian Civil War."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Senegalese poet and statesman celebrated for developing the concept of 'Negritude' alongside writers such as Aime Cesaire is",
+      "options": [
+        "Jomo Kenyatta",
+        "Leopold Sedar Senghor",
+        "Julius Nyerere",
+        "Kwame Nkrumah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leopold Sedar Senghor, Senegal's first president, was also a leading poet and a founding figure of the Negritude literary and cultural movement."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Negritude movement, which shaped much early African and Caribbean poetry, primarily sought to",
+      "options": [
+        "promote unquestioning assimilation into European culture",
+        "affirm and celebrate black identity, culture, and heritage against colonial denigration",
+        "advocate for a return to pre-literate societies",
+        "reject all forms of African oral tradition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negritude emerged as a literary and ideological movement affirming pride in black identity and culture in response to colonial racism."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Kofi Awoonor, a major Ghanaian poet, is known for drawing heavily on the oral traditions of the",
+      "options": [
+        "Ewe people",
+        "Yoruba people",
+        "Ashanti people",
+        "Zulu people"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kofi Awoonor's poetry is deeply rooted in Ewe oral tradition and dirge forms, blending them with modern poetic techniques."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Niyi Osundare, a prominent contemporary Nigerian poet, is well known for his collection",
+      "options": [
+        "'The Eye of the Earth'",
+        "'Labyrinths'",
+        "'A Grain of Wheat'",
+        "'Ake: The Years of Childhood'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Niyi Osundare's The Eye of the Earth reflects his characteristic concern with nature, ecology, and social justice."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring concern in much African poetry addressing colonialism is the",
+      "options": [
+        "clash between indigenous African values and imposed Western culture",
+        "praise of colonial administrators",
+        "celebration of European industrial progress",
+        "rejection of any interest in nature or the land"
+      ],
+      "correctIndex": 0,
+      "explanation": "Much African poetry engages critically with the tensions between traditional African values and the disruptions brought by colonial rule."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Dennis Brutus, a South African poet, is best known for poetry that protested against",
+      "options": [
+        "the Biafran war",
+        "British colonial rule in Nigeria",
+        "the Kenyan land question",
+        "apartheid and racial oppression in South Africa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dennis Brutus's poetry, much of it written during his imprisonment, powerfully condemns the injustices of apartheid South Africa."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Nigerian poem 'Vanity' by Ezenwa-Ohaeto and similar Nigerian poetry often draw heavily on proverbs and imagery rooted in",
+      "options": [
+        "European Romantic pastoral imagery exclusively",
+        "African oral tradition and everyday communal life",
+        "Norse legends",
+        "ancient Greek mythology exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Much modern African poetry consciously incorporates proverbs, oral idioms, and imagery drawn from communal African life and tradition."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Okot p'Bitek, the Ugandan poet famous for 'Song of Lawino', wrote the poem as a lament by a rural woman against her husband's",
+      "options": [
+        "decision to marry a second wife",
+        "refusal to have children",
+        "rejection of traditional Acholi customs in favour of Western ways",
+        "abandonment of farming for trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Song of Lawino gives voice to Lawino's complaint against her husband Ocol's scorn for Acholi tradition in favour of Western values."
+    }
+  ]
+}

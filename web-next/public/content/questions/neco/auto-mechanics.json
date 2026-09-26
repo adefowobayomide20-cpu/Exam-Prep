@@ -1,0 +1,1206 @@
+{
+  "subject": "Auto Mechanics",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Auto Mechanics",
+      "text": "A fire caused by burning ordinary combustible materials such as wood, paper, and cloth is classified as a",
+      "options": [
+        "Class C fire",
+        "Class A fire",
+        "Class B fire",
+        "Class D fire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Class A fires involve ordinary combustible materials like wood, paper, and cloth."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A fire caused by flammable liquids such as petrol, oil, and paint is classified as a",
+      "options": [
+        "Class C fire",
+        "Class D fire",
+        "Class B fire",
+        "Class A fire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Class B fires involve flammable liquids such as petrol, diesel, and oil, common hazards in an auto workshop."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A fire caused by electrical equipment, such as a short-circuited wire or motor, is classified as a",
+      "options": [
+        "Class C fire",
+        "Class B fire",
+        "Class A fire",
+        "Class D fire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Class C fires involve energised electrical equipment, requiring a non-conductive extinguishing agent."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A fire caused by combustible metals, such as magnesium, is classified as a",
+      "options": [
+        "Class A fire",
+        "Class D fire",
+        "Class B fire",
+        "Class C fire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Class D fires involve combustible metals and require specialised extinguishing agents, as water can worsen these fires."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A fire extinguisher containing water is generally suitable for use on",
+      "options": [
+        "Class C (electrical) fires",
+        "Class D (metal) fires",
+        "Class B (flammable liquid) fires",
+        "Class A fires only"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water extinguishers are effective on Class A fires but are unsafe for electrical fires and can worsen flammable liquid or metal fires."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A fire extinguisher containing carbon dioxide (CO2) is particularly suitable for",
+      "options": [
+        "Class A fires only",
+        "no fires at all",
+        "Class B and Class C fires",
+        "Class D fires only"
+      ],
+      "correctIndex": 2,
+      "explanation": "CO2 extinguishers smother the fire by displacing oxygen and, being non-conductive, are safe for use on flammable liquid and electrical fires."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "Protective clothing worn in an auto workshop, such as overalls and safety boots, is primarily intended to",
+      "options": [
+        "protect the worker from injury, burns, and contamination",
+        "improve the worker's speed of movement only",
+        "reduce the cost of workshop insurance only",
+        "serve a purely decorative purpose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Personal protective equipment (PPE) is worn to shield workshop staff from hazards such as burns, cuts, chemical exposure, and falling objects."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "Safety goggles worn while grinding or drilling metal parts primarily protect the",
+      "options": [
+        "feet from falling objects",
+        "eyes from flying debris and sparks",
+        "ears from loud noise",
+        "hands from cuts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Safety goggles shield the eyes from metal fragments, sparks, and dust generated during grinding, drilling, or cutting operations."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The first step generally recommended when treating a minor workshop burn is to",
+      "options": [
+        "cool the affected area with clean, cool running water",
+        "rub the burn vigorously to relieve pain",
+        "apply oil or grease to the burn immediately",
+        "ignore it and continue working"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cooling a burn promptly with clean running water helps reduce tissue damage and relieve pain before further first-aid treatment."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A tool used to tighten or loosen nuts and bolts by fitting over their hexagonal head is called a",
+      "options": [
+        "screwdriver",
+        "spanner (wrench)",
+        "chisel",
+        "file"
+      ],
+      "correctIndex": 1,
+      "explanation": "A spanner (or wrench) is designed to grip and turn nuts and bolts, fitting closely over their hexagonal or square heads."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A tool consisting of a set of interchangeable, hollow cylindrical attachments used with a ratchet handle to turn nuts and bolts is called a",
+      "options": [
+        "screwdriver",
+        "file",
+        "socket set",
+        "open-end spanner"
+      ],
+      "correctIndex": 2,
+      "explanation": "A socket set provides interchangeable sockets that fit onto a ratchet handle, allowing efficient tightening or loosening of various nut and bolt sizes."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A hand tool with a pointed or flat tip used to turn screws is called a",
+      "options": [
+        "spanner",
+        "screwdriver",
+        "pliers",
+        "hacksaw"
+      ],
+      "correctIndex": 1,
+      "explanation": "A screwdriver is designed with a shaped tip (flat or Phillips) to engage and turn the corresponding screw head."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A gripping hand tool with pivoted jaws, commonly used to hold, bend, or cut wire and small components, is called",
+      "options": [
+        "pliers",
+        "a chisel",
+        "a file",
+        "a spanner"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pliers have pivoted jaws used for gripping, bending, or cutting materials such as wire and small fasteners."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A tool with a sharpened edge, struck with a hammer, used to cut or shape metal is called a",
+      "options": [
+        "chisel",
+        "spanner",
+        "file",
+        "screwdriver"
+      ],
+      "correctIndex": 0,
+      "explanation": "A chisel has a hardened cutting edge and is struck with a hammer to cut, shape, or remove metal."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A hand tool with a hardened, ridged surface used to smooth or shape metal surfaces by abrasion is called a",
+      "options": [
+        "spanner",
+        "file",
+        "chisel",
+        "pliers"
+      ],
+      "correctIndex": 1,
+      "explanation": "A file has a hardened, ridged surface used to smooth, shape, or remove small amounts of material from metal surfaces."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An instrument used to measure the pressure within a system, such as tyre pressure or fuel pressure, is called a",
+      "options": [
+        "compression tester",
+        "torque wrench",
+        "pressure gauge",
+        "micrometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A pressure gauge measures the pressure of a fluid or gas within a system, useful for checking tyres, fuel systems, or cooling systems."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An instrument used to measure the compression pressure produced within an engine's cylinders is called a",
+      "options": [
+        "micrometer",
+        "compression tester",
+        "pressure gauge",
+        "torque wrench"
+      ],
+      "correctIndex": 1,
+      "explanation": "A compression tester measures the maximum pressure generated in each cylinder during the compression stroke, helping to diagnose engine condition."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A precision instrument used to measure very small dimensions, such as the diameter of a piston or shaft, to a high degree of accuracy is called a",
+      "options": [
+        "scan tool",
+        "micrometer",
+        "pressure gauge",
+        "compression tester"
+      ],
+      "correctIndex": 1,
+      "explanation": "A micrometer provides highly precise measurements of small dimensions, essential for checking engine component tolerances."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A tool used to tighten fasteners to a specific, measured rotational force (tightness) is called a",
+      "options": [
+        "file",
+        "screwdriver",
+        "torque wrench",
+        "socket set"
+      ],
+      "correctIndex": 2,
+      "explanation": "A torque wrench allows a fastener to be tightened to a precise torque specification, preventing under- or over-tightening."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An electronic diagnostic device connected to a vehicle's onboard computer to read fault codes and system data is called a",
+      "options": [
+        "scan tool",
+        "torque wrench",
+        "micrometer",
+        "compression tester"
+      ],
+      "correctIndex": 0,
+      "explanation": "A scan tool interfaces with a vehicle's electronic control systems to retrieve diagnostic trouble codes and live sensor data."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine that burns its fuel internally, within its own cylinders, to produce power is called an",
+      "options": [
+        "electric motor",
+        "internal combustion engine (ICE)",
+        "hydraulic motor",
+        "external combustion engine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal combustion engines burn fuel directly within their cylinders, unlike external combustion engines, which burn fuel outside the working chamber (such as a steam engine)."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine that burns its fuel outside the cylinder, using the resulting heat to generate power indirectly (such as a steam engine), is called an",
+      "options": [
+        "external combustion engine",
+        "petrol engine",
+        "diesel engine",
+        "internal combustion engine"
+      ],
+      "correctIndex": 0,
+      "explanation": "External combustion engines burn fuel outside the main working chamber, transferring heat energy to a separate medium (like steam) to produce power."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine that ignites its air-fuel mixture through the heat of highly compressed air, without a spark plug, is called a",
+      "options": [
+        "spark-ignition (petrol) engine",
+        "external combustion engine",
+        "two-stroke engine only",
+        "compression-ignition (diesel) engine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diesel engines rely on the heat generated by high compression to ignite the fuel, rather than an electric spark."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine that ignites its air-fuel mixture using a timed electric spark from a spark plug is called a",
+      "options": [
+        "spark-ignition (petrol/gasoline) engine",
+        "compression-ignition (diesel) engine",
+        "external combustion engine",
+        "hydraulic engine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Petrol (gasoline) engines use a spark plug to ignite the compressed air-fuel mixture at a precisely timed moment."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine that completes its full operating cycle (intake, compression, power, exhaust) within one revolution of the crankshaft is called a",
+      "options": [
+        "diesel engine only",
+        "external combustion engine",
+        "four-stroke engine",
+        "two-stroke engine"
+      ],
+      "correctIndex": 3,
+      "explanation": "A two-stroke engine completes its full cycle in just two piston strokes (one crankshaft revolution), combining some strokes together."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine that completes its full operating cycle over two revolutions of the crankshaft, using four distinct piston strokes, is called a",
+      "options": [
+        "external combustion engine",
+        "compression engine only",
+        "four-stroke engine",
+        "two-stroke engine"
+      ],
+      "correctIndex": 2,
+      "explanation": "A four-stroke engine uses four separate piston strokes (intake, compression, power, exhaust) across two crankshaft revolutions for one complete cycle."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The main structural component of an engine, housing the cylinders in which the pistons move, is called the",
+      "options": [
+        "cylinder block",
+        "cylinder head",
+        "crankshaft",
+        "camshaft"
+      ],
+      "correctIndex": 0,
+      "explanation": "The cylinder block is the main engine casting, containing the cylinder bores within which the pistons reciprocate."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine component fitted on top of the cylinder block, containing the combustion chambers and valve mechanisms, is called the",
+      "options": [
+        "cylinder block",
+        "cylinder head",
+        "crankshaft",
+        "flywheel"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cylinder head seals the top of the cylinders and typically houses the combustion chambers, valves, and, in OHC engines, the camshaft."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine component that moves up and down within the cylinder, transferring the force of combustion to the connecting rod, is called the",
+      "options": [
+        "flywheel",
+        "crankshaft",
+        "camshaft",
+        "piston"
+      ],
+      "correctIndex": 3,
+      "explanation": "The piston receives the force of combustion and transmits it, via the connecting rod, to the crankshaft as rotational motion."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine component fitted around the piston to seal the gap between the piston and cylinder wall, preventing gas leakage, is called the",
+      "options": [
+        "camshaft",
+        "piston ring",
+        "gudgeon pin",
+        "connecting rod"
+      ],
+      "correctIndex": 1,
+      "explanation": "Piston rings seal the combustion chamber against gas leakage and help control oil consumption along the cylinder wall."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The small pin connecting the piston to the connecting rod, allowing the rod to pivot as the piston moves, is called the",
+      "options": [
+        "camshaft",
+        "crankpin",
+        "flywheel",
+        "gudgeon pin (piston pin/wrist pin)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The gudgeon pin links the piston to the connecting rod's small end, allowing the necessary pivoting motion as the piston reciprocates."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine component that transmits the piston's reciprocating motion to the crankshaft is called the",
+      "options": [
+        "gudgeon pin",
+        "connecting rod",
+        "flywheel",
+        "camshaft"
+      ],
+      "correctIndex": 1,
+      "explanation": "The connecting rod links the piston (via the gudgeon pin) to the crankshaft, converting reciprocating motion into rotational motion."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine component that converts the reciprocating motion of the pistons into useful rotational motion is called the",
+      "options": [
+        "camshaft",
+        "flywheel",
+        "connecting rod",
+        "crankshaft"
+      ],
+      "correctIndex": 3,
+      "explanation": "The crankshaft converts the up-and-down (reciprocating) motion of the pistons into the rotational motion used to drive the vehicle's transmission."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The heavy rotating disc attached to the crankshaft, which stores rotational energy to smooth out engine power delivery, is called the",
+      "options": [
+        "crankshaft",
+        "cylinder head",
+        "camshaft",
+        "flywheel"
+      ],
+      "correctIndex": 3,
+      "explanation": "The flywheel's mass stores rotational energy, smoothing out the pulses of power delivery between combustion strokes."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine component with lobes that open and close the intake and exhaust valves at precisely timed intervals is called the",
+      "options": [
+        "connecting rod",
+        "flywheel",
+        "crankshaft",
+        "camshaft"
+      ],
+      "correctIndex": 3,
+      "explanation": "The camshaft's lobes push against the valve mechanism to open and close the intake and exhaust valves at the correct points in the engine cycle."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The engine components that open to allow air-fuel mixture into the cylinder, and open again to allow exhaust gases out, are called the",
+      "options": [
+        "flywheels",
+        "gudgeon pins",
+        "valves",
+        "pistons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Valves control the flow of gases into and out of the cylinder, opening and closing in time with the piston's movement and the camshaft's rotation."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine valve arrangement in which the camshaft is located in the cylinder block, operating the valves through pushrods, is called",
+      "options": [
+        "double overhead camshaft (DOHC)",
+        "overhead valve (OHV)",
+        "compression ignition",
+        "overhead camshaft (OHC)"
+      ],
+      "correctIndex": 1,
+      "explanation": "In an OHV configuration, the camshaft sits in the cylinder block, and pushrods transmit its motion up to operate valves located in the cylinder head."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine valve arrangement in which the camshaft is located directly in the cylinder head, operating the valves without pushrods, is called",
+      "options": [
+        "overhead valve (OHV)",
+        "two-stroke arrangement",
+        "overhead camshaft (OHC)",
+        "compression ignition only"
+      ],
+      "correctIndex": 2,
+      "explanation": "In an OHC configuration, the camshaft is mounted directly in the cylinder head, allowing more direct and precise valve operation without pushrods."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An engine configuration using two camshafts in the cylinder head, one for intake valves and one for exhaust valves, is called a",
+      "options": [
+        "overhead valve (OHV) only",
+        "pushrod configuration",
+        "double overhead camshaft (DOHC)",
+        "single overhead camshaft (SOHC) only"
+      ],
+      "correctIndex": 2,
+      "explanation": "DOHC engines use two separate camshafts in the cylinder head, one dedicated to intake valves and the other to exhaust valves, often improving performance."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The small clearance deliberately left between a valve and its operating mechanism, allowing for thermal expansion, is called",
+      "options": [
+        "piston stroke",
+        "valve clearance (valve lash)",
+        "compression ratio",
+        "valve timing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Valve clearance (lash) is a small gap allowed in the valve train to accommodate thermal expansion, ensuring valves close fully when the engine is hot."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "In a petrol engine's fuel system, the component that draws fuel from the tank and delivers it toward the carburettor or injection system is called the",
+      "options": [
+        "fuel line",
+        "fuel tank",
+        "fuel filter",
+        "fuel (lift) pump"
+      ],
+      "correctIndex": 3,
+      "explanation": "The fuel (lift) pump draws fuel from the tank and delivers it under pressure toward the carburettor or fuel injection system."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A device that mixes air and fuel in the correct proportion for combustion in older petrol engines, before electronic fuel injection became standard, is called a",
+      "options": [
+        "carburettor",
+        "glow plug",
+        "fuel injector",
+        "priming pump"
+      ],
+      "correctIndex": 0,
+      "explanation": "A carburettor mixes air and fuel mechanically in the correct ratio for combustion, a technology largely superseded by electronic fuel injection in modern vehicles."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "In a carburettor, the circuit responsible for supplying fuel during idling (when the throttle is nearly closed) is called the",
+      "options": [
+        "idle circuit",
+        "power circuit",
+        "choke circuit only",
+        "cruise circuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "The idle circuit supplies the small, precisely metered amount of fuel needed to keep the engine running smoothly at idle speed."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "In a petrol engine's electronic fuel injection (EFI) system, the component that precisely sprays a metered amount of fuel into the intake manifold or cylinder is called the",
+      "options": [
+        "priming pump",
+        "glow plug",
+        "fuel injector",
+        "carburettor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fuel injectors spray precisely metered fuel directly into the intake manifold or combustion chamber, controlled electronically for accuracy."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "In an electronic fuel injection system, the component that processes sensor data and controls fuel delivery and ignition timing is called the",
+      "options": [
+        "priming pump",
+        "Engine Control Unit (ECU)",
+        "carburettor",
+        "glow plug"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ECU is the central computer that processes data from various sensors to precisely control fuel injection, ignition timing, and other engine functions."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "In a diesel engine's fuel system, the component responsible for delivering fuel at very high pressure to the injectors is called the",
+      "options": [
+        "distributor",
+        "fuel injection pump",
+        "carburettor",
+        "spark plug"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fuel injection pump generates the very high pressures required to deliver diesel fuel precisely to the injectors for combustion."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "In a diesel engine, the small electrical heating device used to preheat the combustion chamber for easier cold starting is called a",
+      "options": [
+        "fuel injector",
+        "glow plug",
+        "priming pump",
+        "spark plug"
+      ],
+      "correctIndex": 1,
+      "explanation": "Glow plugs preheat the combustion chamber in diesel engines, aiding ignition and easier starting, especially in cold conditions."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A modern diesel fuel system technology using a single high-pressure fuel line shared by all injectors, allowing very precise electronic injection control, is called",
+      "options": [
+        "carburettor system",
+        "magneto ignition",
+        "common rail direct injection (CRDI)",
+        "conventional inline pump system only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Common rail direct injection (CRDI) supplies fuel to all injectors from a shared high-pressure 'rail', enabling precise, electronically controlled injection."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A cooling system that uses air passing over finned engine surfaces, without any liquid coolant, is called",
+      "options": [
+        "no cooling system",
+        "oil-cooling",
+        "air-cooling",
+        "liquid-cooling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Air-cooled engines dissipate heat directly to the surrounding air via finned surfaces, rather than circulating a liquid coolant."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A cooling system that circulates a liquid coolant through the engine and a radiator to dissipate heat is called",
+      "options": [
+        "pressure lubrication",
+        "splash lubrication",
+        "air-cooling",
+        "liquid-cooling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Liquid-cooled engines circulate coolant through internal passages and a radiator, transferring engine heat to the coolant and then to the surrounding air."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The cooling system component that dissipates heat from the coolant to the surrounding air, typically located at the front of the vehicle, is called the",
+      "options": [
+        "thermostat",
+        "radiator",
+        "water pump",
+        "expansion tank"
+      ],
+      "correctIndex": 1,
+      "explanation": "The radiator allows heated coolant to pass through thin tubes and fins, releasing heat to the airflow passing through it."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The cooling system component that circulates coolant through the engine block and radiator is called the",
+      "options": [
+        "water pump",
+        "cooling fan",
+        "thermostat",
+        "radiator"
+      ],
+      "correctIndex": 0,
+      "explanation": "The water pump circulates coolant continuously through the engine and radiator, maintaining effective heat transfer."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The cooling system component that regulates coolant flow to the radiator based on engine temperature, helping the engine reach and maintain optimal operating temperature, is called the",
+      "options": [
+        "water pump",
+        "radiator",
+        "thermostat",
+        "expansion tank"
+      ],
+      "correctIndex": 2,
+      "explanation": "The thermostat opens and closes based on coolant temperature, restricting flow to the radiator until the engine reaches its optimal operating temperature."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The cooling system component that draws air through the radiator to enhance heat dissipation, especially at low vehicle speeds, is called the",
+      "options": [
+        "pressure cap",
+        "water pump",
+        "cooling fan",
+        "thermostat"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cooling fan draws additional air through the radiator, particularly important at idle or low speeds when natural airflow is insufficient."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A lubrication system that relies on rotating engine components splashing oil onto moving parts is called",
+      "options": [
+        "pressure lubrication",
+        "combination lubrication only",
+        "air-cooling",
+        "splash lubrication"
+      ],
+      "correctIndex": 3,
+      "explanation": "Splash lubrication relies on the motion of rotating parts, such as the crankshaft, to splash oil onto other components needing lubrication."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A lubrication system that uses a pump to force oil under pressure to engine components through internal passages is called",
+      "options": [
+        "splash lubrication",
+        "pressure lubrication",
+        "liquid-cooling",
+        "air-cooling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pressure lubrication uses an oil pump to actively force oil through internal galleries to critical engine components, ensuring consistent lubrication."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The lubrication system component that circulates engine oil under pressure to moving parts is called the",
+      "options": [
+        "oil pump",
+        "oil filter",
+        "oil pan (sump)",
+        "pressure relief valve"
+      ],
+      "correctIndex": 0,
+      "explanation": "The oil pump draws oil from the sump and circulates it under pressure through the engine's oil galleries to lubricate moving parts."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The lubrication system component that removes contaminants and debris from circulating engine oil is called the",
+      "options": [
+        "pressure relief valve",
+        "oil pan (sump)",
+        "oil filter",
+        "oil pump"
+      ],
+      "correctIndex": 2,
+      "explanation": "The oil filter traps dirt, metal particles, and other contaminants from the oil before it circulates to the engine's moving parts."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The reservoir located at the bottom of the engine that collects and stores oil for the lubrication system is called the",
+      "options": [
+        "pressure relief valve",
+        "oil pan (sump)",
+        "oil filter",
+        "oil pump"
+      ],
+      "correctIndex": 1,
+      "explanation": "The oil pan (sump) collects and stores the engine's oil supply, from which the oil pump draws to circulate lubrication."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The Society of Automotive Engineers (SAE) viscosity classification of engine oil, such as '20W-50', indicates the oil's",
+      "options": [
+        "price category",
+        "colour and smell",
+        "chemical additive package only",
+        "flow characteristics (thickness) at different temperatures"
+      ],
+      "correctIndex": 3,
+      "explanation": "SAE viscosity grades describe how an oil's thickness (flow characteristics) behaves across a range of temperatures, important for cold starting and hot running performance."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The American Petroleum Institute (API) service classification of engine oil indicates the oil's",
+      "options": [
+        "viscosity thickness only",
+        "colour only",
+        "manufacturing country",
+        "quality and suitability for specific engine types and service conditions"
+      ],
+      "correctIndex": 3,
+      "explanation": "API service classifications rate an oil's quality and performance level, indicating its suitability for particular engine types, ages, and operating conditions."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A traditional ignition system using a mechanical contact breaker and a battery/coil arrangement to generate the spark is called",
+      "options": [
+        "conventional battery/coil ignition",
+        "common rail direct injection",
+        "magneto ignition only",
+        "electronic distributorless ignition (DIS)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conventional battery/coil ignition uses mechanical contact breaker points and a battery-powered coil to generate the timed spark for combustion."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An ignition system that generates its own electrical spark without relying on a vehicle battery, often used on small engines, is called",
+      "options": [
+        "distributorless ignition",
+        "battery/coil ignition",
+        "common rail injection",
+        "magneto ignition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Magneto ignition systems generate their own electricity through a magneto, making them independent of a separate vehicle battery."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A modern ignition system that eliminates the mechanical distributor, using electronic control to fire spark plugs directly, is called",
+      "options": [
+        "carburettor system",
+        "distributorless ignition system (DIS)",
+        "conventional battery/coil ignition",
+        "magneto ignition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Distributorless ignition systems (DIS) use electronic control to fire spark plugs directly, removing the need for a mechanical distributor."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The ignition system component that generates the high voltage needed to produce a spark at the spark plug is called the",
+      "options": [
+        "contact breaker points",
+        "distributor",
+        "ignition coil",
+        "condenser"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ignition coil steps up the battery's low voltage to the very high voltage needed to jump the spark plug gap and ignite the fuel mixture."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The ignition system component that distributes the high-voltage spark to the correct cylinder at the correct time, in conventional ignition systems, is called the",
+      "options": [
+        "contact breaker points",
+        "condenser",
+        "distributor",
+        "ignition coil"
+      ],
+      "correctIndex": 2,
+      "explanation": "In conventional ignition systems, the distributor routes the high-voltage spark to each spark plug in the correct firing order and timing."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The ignition system component that produces the spark inside the combustion chamber to ignite the air-fuel mixture is called the",
+      "options": [
+        "glow plug",
+        "distributor",
+        "fuel injector",
+        "spark plug"
+      ],
+      "correctIndex": 3,
+      "explanation": "The spark plug delivers the electrical spark directly into the combustion chamber, igniting the compressed air-fuel mixture."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The 'heat range' of a spark plug refers to its ability to",
+      "options": [
+        "produce a stronger or weaker spark voltage",
+        "change the engine's compression ratio",
+        "resist corrosion from fuel additives",
+        "dissipate heat from its tip at an appropriate rate for the engine's operating conditions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spark plug heat range describes how quickly the plug dissipates heat from its tip, which must suit the engine's typical operating temperature to avoid fouling or pre-ignition."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The high-tension (HT) leads in an ignition system are responsible for",
+      "options": [
+        "carrying the high-voltage current from the coil (or distributor) to the spark plugs",
+        "supplying fuel to the injectors",
+        "circulating engine coolant",
+        "carrying low-voltage current to the starter motor"
+      ],
+      "correctIndex": 0,
+      "explanation": "HT leads (high-tension cables) carry the high-voltage electrical current needed to fire the spark plugs from the coil or distributor."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A small device connected across the contact breaker points in conventional ignition systems, used to reduce arcing and improve spark quality, is called the",
+      "options": [
+        "condenser (capacitor)",
+        "distributor",
+        "ignition coil",
+        "spark plug"
+      ],
+      "correctIndex": 0,
+      "explanation": "The condenser (capacitor) absorbs excess voltage across the contact breaker points, reducing arcing and prolonging their working life."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The component that temporarily disconnects engine power from the transmission, allowing smooth gear changes, is called the",
+      "options": [
+        "clutch",
+        "gearbox",
+        "differential",
+        "propeller shaft"
+      ],
+      "correctIndex": 0,
+      "explanation": "The clutch allows the driver to smoothly engage or disengage the engine's power from the transmission, particularly during gear changes."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A clutch design using a single friction plate and diaphragm spring pressure plate, common in most passenger vehicles, is called a",
+      "options": [
+        "multi-plate clutch",
+        "fluid coupling",
+        "differential unit",
+        "single-plate diaphragm clutch"
+      ],
+      "correctIndex": 3,
+      "explanation": "The single-plate diaphragm clutch, widely used in passenger cars, uses one friction disc and a diaphragm spring to apply clamping pressure."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A clutch design using several friction discs stacked together, often used in heavy-duty or motorcycle applications, is called a",
+      "options": [
+        "differential unit",
+        "single-plate clutch",
+        "fluid coupling",
+        "multi-plate clutch"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multi-plate clutches use several friction discs to transmit higher torque loads within a more compact space, common in heavy-duty and motorcycle applications."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A clutch mechanism that transmits power using hydraulic fluid rather than direct friction contact is called a",
+      "options": [
+        "fluid coupling",
+        "propeller shaft",
+        "multi-plate clutch",
+        "single-plate diaphragm clutch"
+      ],
+      "correctIndex": 0,
+      "explanation": "A fluid coupling transmits power through the movement of hydraulic fluid between rotating impellers, rather than through direct mechanical friction."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A transmission requiring the driver to manually select and engage gears using a clutch pedal and gear lever is called a",
+      "options": [
+        "automatic gearbox",
+        "propeller shaft",
+        "differential unit",
+        "manual gearbox"
+      ],
+      "correctIndex": 3,
+      "explanation": "A manual gearbox requires the driver to manually operate the clutch and select gears using a gear lever."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A transmission that automatically selects and changes gears without requiring manual driver input is called an",
+      "options": [
+        "differential unit",
+        "propeller shaft",
+        "automatic gearbox",
+        "manual gearbox"
+      ],
+      "correctIndex": 2,
+      "explanation": "An automatic gearbox selects and shifts gears automatically, based on factors like vehicle speed and engine load, without a manual clutch pedal."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The mechanism within a manual gearbox that allows gears of different speeds to mesh smoothly without grinding is called the",
+      "options": [
+        "universal joint",
+        "synchromesh mechanism",
+        "differential unit",
+        "propeller shaft"
+      ],
+      "correctIndex": 1,
+      "explanation": "Synchromesh mechanisms match the speeds of gears before they engage, allowing smooth, quiet gear changes without clashing."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The rotating shaft that transmits power from the gearbox to the rear axle (in rear-wheel-drive vehicles) is called the",
+      "options": [
+        "propeller shaft",
+        "camshaft",
+        "steering shaft",
+        "crankshaft"
+      ],
+      "correctIndex": 0,
+      "explanation": "The propeller shaft transmits rotational power from the gearbox to the rear axle assembly in rear-wheel-drive vehicles."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A flexible joint used in the drive train to allow the propeller shaft to operate at varying angles as the suspension moves is called a",
+      "options": [
+        "differential unit",
+        "synchromesh mechanism",
+        "universal joint",
+        "clutch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Universal joints allow the propeller shaft to transmit power smoothly even as its angle changes with suspension movement."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The final drive component that allows the two driven wheels to rotate at different speeds, especially when cornering, is called the",
+      "options": [
+        "differential unit",
+        "universal joint",
+        "propeller shaft",
+        "clutch"
+      ],
+      "correctIndex": 0,
+      "explanation": "The differential allows the inside and outside wheels to rotate at different speeds while cornering, preventing tyre scrubbing and drivetrain strain."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The shafts that transmit power from the differential directly to the driven wheels are called the",
+      "options": [
+        "propeller shafts",
+        "drive axles (half-shafts)",
+        "steering shafts",
+        "camshafts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drive axles (half-shafts) transmit power from the differential to each driven wheel individually."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A suspension component made of thin, curved metal strips stacked together, traditionally used especially in heavier vehicles, is called a",
+      "options": [
+        "shock absorber",
+        "torsion bar",
+        "coil spring",
+        "leaf spring"
+      ],
+      "correctIndex": 3,
+      "explanation": "Leaf springs consist of stacked, curved metal strips, traditionally used to support the weight of heavier vehicles like trucks."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A suspension component made of a helically wound metal rod, compressing and expanding to absorb road shocks, is called a",
+      "options": [
+        "shock absorber",
+        "coil spring",
+        "leaf spring",
+        "torsion bar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coil springs, common in passenger vehicles, are helically wound metal rods that compress and rebound to absorb road irregularities."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A suspension component consisting of a metal bar that twists to absorb suspension movement is called a",
+      "options": [
+        "torsion bar",
+        "shock absorber",
+        "leaf spring",
+        "coil spring"
+      ],
+      "correctIndex": 0,
+      "explanation": "A torsion bar absorbs suspension forces by twisting along its length, storing and releasing energy as the suspension moves."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A suspension component that dampens (controls) the oscillation of springs after they absorb a bump, preventing excessive bouncing, is called a",
+      "options": [
+        "torsion bar",
+        "leaf spring",
+        "shock absorber (damper)",
+        "coil spring"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shock absorbers (dampers) control and reduce the oscillation of springs after a bump, preventing continued bouncing and improving ride control."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An independent front suspension design combining a coil spring and shock absorber into a single strut unit is called a",
+      "options": [
+        "solid axle",
+        "leaf spring arrangement",
+        "MacPherson strut",
+        "double wishbone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The MacPherson strut combines the spring and damper into a single compact unit, widely used in independent front suspension designs."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "An independent suspension design using two triangular arms (upper and lower) to control wheel movement is called a",
+      "options": [
+        "MacPherson strut",
+        "double wishbone suspension",
+        "solid axle",
+        "leaf spring arrangement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Double wishbone suspension uses two triangular control arms to precisely manage wheel movement, often offering superior handling characteristics."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A steering system that uses a toothed bar and pinion gear to convert the steering wheel's rotation into side-to-side wheel movement is called",
+      "options": [
+        "solid axle steering",
+        "rack and pinion steering",
+        "power steering only",
+        "recirculating ball steering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rack and pinion steering converts the rotational motion of the steering wheel into linear motion via a pinion gear meshing with a toothed rack."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A steering system using a worm gear and recirculating ball bearings to reduce steering effort, often found in older or heavier vehicles, is called",
+      "options": [
+        "rack and pinion steering",
+        "recirculating ball steering",
+        "torsion bar steering",
+        "MacPherson strut steering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recirculating ball steering uses ball bearings within a worm gear mechanism to reduce friction and steering effort, common in older and heavier vehicles."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The wheel alignment parameter describing the inward or outward tilt of a wheel when viewed from the front of the vehicle is called",
+      "options": [
+        "toe-out",
+        "camber",
+        "caster",
+        "toe-in"
+      ],
+      "correctIndex": 1,
+      "explanation": "Camber describes the angle of a wheel's tilt inward or outward when viewed from the front, affecting tyre wear and handling."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The wheel alignment parameter describing the forward or backward tilt of the steering axis when viewed from the side of the vehicle is called",
+      "options": [
+        "caster",
+        "toe-in",
+        "toe-out",
+        "camber"
+      ],
+      "correctIndex": 0,
+      "explanation": "Caster describes the angle of the steering axis tilt viewed from the side, influencing straight-line stability and steering return."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The wheel alignment condition where the front of the wheels point slightly inward toward each other is called",
+      "options": [
+        "caster",
+        "toe-in",
+        "toe-out",
+        "camber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Toe-in describes wheels angled slightly inward at the front, a setting that can affect tyre wear and directional stability."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A hydraulic braking system's component that converts pedal pressure into hydraulic pressure sent to the wheel brakes is called the",
+      "options": [
+        "brake drum",
+        "brake caliper",
+        "master cylinder",
+        "wheel cylinder"
+      ],
+      "correctIndex": 2,
+      "explanation": "The master cylinder converts the driver's foot pressure on the brake pedal into hydraulic pressure, transmitted through brake lines to the wheels."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A type of brake using a friction-lined shoe that presses outward against the inside of a rotating drum is called a",
+      "options": [
+        "drum brake",
+        "regenerative brake",
+        "engine brake",
+        "disc brake"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drum brakes use curved shoes that press outward against the inner surface of a rotating brake drum to slow the vehicle."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A type of brake using friction pads that clamp onto a rotating metal disc (rotor) is called a",
+      "options": [
+        "regenerative brake",
+        "drum brake",
+        "disc brake",
+        "engine brake"
+      ],
+      "correctIndex": 2,
+      "explanation": "Disc brakes use a caliper to squeeze friction pads against a rotating disc (rotor), providing effective and consistent stopping power."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The hydraulic component within a drum brake assembly that pushes the brake shoes outward against the drum is called the",
+      "options": [
+        "brake booster",
+        "master cylinder",
+        "brake caliper",
+        "wheel cylinder"
+      ],
+      "correctIndex": 3,
+      "explanation": "The wheel cylinder, located within the drum brake assembly, uses hydraulic pressure to push the brake shoes outward against the drum."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The classification system used to rate the quality and performance of brake fluid, such as DOT 3 or DOT 4, refers to a standard set by the",
+      "options": [
+        "Department of Transportation (DOT)",
+        "International Organization for Standardization only",
+        "American Petroleum Institute only",
+        "Society of Automotive Engineers only"
+      ],
+      "correctIndex": 0,
+      "explanation": "DOT ratings, established by the (US) Department of Transportation, classify brake fluid based on its boiling point and other performance characteristics."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "A braking system technology that prevents the wheels from locking up during hard braking, helping maintain steering control, is called",
+      "options": [
+        "regenerative braking only",
+        "power steering",
+        "engine braking only",
+        "anti-lock braking system (ABS)"
+      ],
+      "correctIndex": 3,
+      "explanation": "ABS modulates brake pressure at each wheel to prevent lock-up during hard braking, helping the driver maintain steering control."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The vehicle electrical circuit responsible for supplying the initial power to crank the engine into operation is called the",
+      "options": [
+        "starting circuit",
+        "charging circuit",
+        "ignition circuit only",
+        "lighting circuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "The starting circuit, including the battery, starter motor, and solenoid switch, supplies the power needed to crank the engine to life."
+    },
+    {
+      "subject": "Auto Mechanics",
+      "text": "The vehicle electrical circuit responsible for recharging the battery and supplying electrical power while the engine is running is called the",
+      "options": [
+        "braking circuit",
+        "charging circuit",
+        "lighting circuit",
+        "starting circuit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The charging circuit, centred on the alternator and voltage regulator, keeps the battery charged and supplies electrical power once the engine is running."
+    }
+  ]
+}

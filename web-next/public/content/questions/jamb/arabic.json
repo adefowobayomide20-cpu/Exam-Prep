@@ -1,0 +1,2406 @@
+{
+  "subject": "Arabic",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nمتى يذهب أحمد إلى المدرسة؟",
+      "options": [
+        "يوم الجمعة فقط",
+        "كل مساء",
+        "في الليل",
+        "كل صباح"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage states 'يذهب أحمد إلى المدرسة كل صباح' (Ahmad goes to school every morning), directly answering when he attends school."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nمع من يذهب أحمد إلى المدرسة؟",
+      "options": [
+        "مع أصدقائه",
+        "مع معلمه",
+        "وحده",
+        "مع أمه"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text says Ahmad goes to school 'مع أصدقائه' (with his friends), indicating his companions on the way to school."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nأين يقضي أحمد وقت فراغه؟",
+      "options": [
+        "في الملعب",
+        "في المكتبة",
+        "في السوق",
+        "في المطبخ"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage states 'يقضي وقت فراغه في المكتبة' (he spends his free time in the library), reflecting his love of reading."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nماذا يفعل أحمد بعد عودته من المدرسة؟",
+      "options": [
+        "يلعب كرة القدم فقط",
+        "ينام مباشرة",
+        "يذهب إلى السوق",
+        "يساعد أمه في أعمال المنزل"
+      ],
+      "correctIndex": 3,
+      "explanation": "According to the text, after school Ahmad 'يساعد أمه في أعمال المنزل' (helps his mother with housework)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nماذا يفعل أحمد في المساء قبل النوم؟",
+      "options": [
+        "يذاكر دروسه",
+        "يشاهد التلفاز فقط",
+        "يقرأ الجريدة",
+        "يخرج مع أصدقائه"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage indicates that in the evening 'يذاكر دروسه ثم ينام مبكراً' (he studies his lessons then sleeps early)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nلماذا ينام أحمد مبكراً، بحسب النص؟",
+      "options": [
+        "لأنه متعب من اللعب",
+        "لأن المدرسة عطلة",
+        "ليستيقظ نشيطاً في اليوم التالي",
+        "لأنه لا يحب الدراسة"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text explains he sleeps early 'ليستيقظ نشيطاً في اليوم التالي' (in order to wake up energetic the next day)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nما هي الفكرة العامة للنص؟",
+      "options": [
+        "قصة عن رحلة إلى بلد آخر",
+        "حديث عن الطبخ التقليدي",
+        "وصف مباراة رياضية",
+        "وصف يوم دراسي منظم لأحمد"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage as a whole describes Ahmad's organised daily routine as a student, from morning school through evening study, making this the general theme."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nما معنى كلمة 'يذاكر' كما وردت في النص؟",
+      "options": [
+        "يلعب",
+        "يأكل",
+        "يدرس",
+        "ينام"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this context, 'يذاكر' means 'to study/review lessons', synonymous with 'يدرس', reflecting Ahmad's evening study habit."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nما هي صفة أحمد التي ذكرها النص بخصوص القراءة؟",
+      "options": [
+        "لا يحب القراءة",
+        "يكره الذهاب إلى المكتبة",
+        "يقرأ نادراً",
+        "يحب القراءة كثيراً"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text explicitly states 'يحب أحمد القراءة كثيراً' (Ahmad loves reading a lot), describing his strong affinity for books."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nأي كلمة في النص تدل على الوقت الذي يذهب فيه أحمد إلى المدرسة؟",
+      "options": [
+        "صباح",
+        "ظهر",
+        "ليل",
+        "مساء"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'صباح' (morning) is used in the passage to indicate the time of day Ahmad goes to school."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nما هو نوع هذا النص من حيث الأسلوب؟",
+      "options": [
+        "نص حواري مسرحي",
+        "نص شعري",
+        "نص إعلاني",
+        "نص وصفي سردي عن روتين يومي"
+      ],
+      "correctIndex": 3,
+      "explanation": "This passage is a descriptive-narrative text (نص وصفي سردي) recounting a daily routine, rather than poetry, dialogue, or an advertisement."
+    },
+    {
+      "subject": "Arabic",
+      "text": "يذهب أحمد إلى المدرسة كل صباح مع أصدقائه. يحب أحمد القراءة كثيراً، ويقضي وقت فراغه في المكتبة. بعد المدرسة، يعود أحمد إلى بيته ويساعد أمه في أعمال المنزل. في المساء، يذاكر دروسه ثم ينام مبكراً ليستيقظ نشيطاً في اليوم التالي.\n\nماذا يمكن أن نستنتج عن شخصية أحمد من النص؟",
+      "options": [
+        "أنه منظم ومجتهد",
+        "أنه كسول ومهمل",
+        "أنه لا يحب أسرته",
+        "أنه لا يذهب إلى المدرسة أبداً"
+      ],
+      "correctIndex": 0,
+      "explanation": "Based on his structured routine of attending school, helping at home, studying, and sleeping early, we can infer that Ahmad is disciplined and diligent (منظم ومجتهد)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'The student is reading a book.'",
+      "options": [
+        "الطالب يقرأ كتاباً",
+        "الطالب يكتب رسالة",
+        "الطالب يأكل الطعام",
+        "المعلم يقرأ كتاباً"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The student is reading a book' translates directly as 'الطالب يقرأ كتاباً', with الطالب (the student), يقرأ (is reading), and كتاباً (a book, in the accusative case as the object)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'I went to the market yesterday.'",
+      "options": [
+        "ذهبتُ إلى السوق أمس",
+        "أذهب إلى المدرسة اليوم",
+        "ذهبنا إلى المسجد",
+        "سأذهب إلى البيت غداً"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I went to the market yesterday' is rendered as 'ذهبتُ إلى السوق أمس', using the past tense first-person verb ذهبتُ (I went) with أمس (yesterday)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'She is a good teacher.'",
+      "options": [
+        "هي معلمة جيدة",
+        "هي طالبة جيدة",
+        "هم معلمون جيدون",
+        "هو معلم جيد"
+      ],
+      "correctIndex": 0,
+      "explanation": "'She is a good teacher' becomes 'هي معلمة جيدة', with هي (she), معلمة (teacher, feminine form), and جيدة (good, agreeing in feminine gender)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'We will travel next week.'",
+      "options": [
+        "سافرنا الأسبوع الماضي",
+        "سنسافر الأسبوع القادم",
+        "نسافر كل أسبوع",
+        "سيسافرون غداً"
+      ],
+      "correctIndex": 1,
+      "explanation": "'We will travel next week' translates as 'سنسافر الأسبوع القادم', using the future prefix 'سـ' with the first-person plural verb نسافر (we travel)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'This house is very big.'",
+      "options": [
+        "هذه المدرسة كبيرة جداً",
+        "ذلك الكتاب صغير",
+        "هذا البيت كبير جداً",
+        "هذا الطفل سعيد"
+      ],
+      "correctIndex": 2,
+      "explanation": "'This house is very big' is correctly rendered as 'هذا البيت كبير جداً', using the masculine demonstrative هذا to match the masculine noun البيت (house)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'أنا أحب اللغة العربية.'",
+      "options": [
+        "I dislike studying",
+        "I love the Arabic language",
+        "I am learning English",
+        "I am reading a newspaper"
+      ],
+      "correctIndex": 1,
+      "explanation": "'أنا أحب اللغة العربية' translates as 'I love the Arabic language', with أحب meaning 'I love' and اللغة العربية meaning 'the Arabic language'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'ذهب الولد إلى المسجد.'",
+      "options": [
+        "The girl went to school",
+        "The man went to the market",
+        "The boy is playing football",
+        "The boy went to the mosque"
+      ],
+      "correctIndex": 3,
+      "explanation": "'ذهب الولد إلى المسجد' translates as 'The boy went to the mosque', using the past tense verb ذهب (went) with الولد (the boy) and المسجد (the mosque)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'هل عندك كتاب جديد؟'",
+      "options": [
+        "Are you a teacher?",
+        "Do you have a new book?",
+        "Where is your house?",
+        "What is your name?"
+      ],
+      "correctIndex": 1,
+      "explanation": "'هل عندك كتاب جديد؟' is a question meaning 'Do you have a new book?', with هل marking a yes/no question and عندك meaning 'do you have'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'الجو جميل اليوم.'",
+      "options": [
+        "The food is very delicious",
+        "The book is on the table",
+        "The weather is beautiful today",
+        "The house is far from here"
+      ],
+      "correctIndex": 2,
+      "explanation": "'الجو جميل اليوم' translates as 'The weather is beautiful today', with الجو meaning 'the weather/atmosphere' and جميل meaning 'beautiful'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'نحن نعيش في مدينة كبيرة.'",
+      "options": [
+        "She lives with her family",
+        "We live in a big city",
+        "They live in a small village",
+        "I live near the school"
+      ],
+      "correctIndex": 1,
+      "explanation": "'نحن نعيش في مدينة كبيرة' translates as 'We live in a big city', using نحن (we), نعيش (we live), and مدينة كبيرة (a big city)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic grammar, a noun (اسم) is generally defined as a word that",
+      "options": [
+        "expresses an action or occurrence",
+        "names a person, place, thing, or idea",
+        "modifies the meaning of a verb",
+        "connects two clauses together"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ism (اسم) in Arabic grammar functions as a noun, naming persons, places, objects, or abstract concepts, distinct from verbs (فعل) or particles (حرف)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following is the correct feminine form of the word مُعَلِّم (teacher, masculine)?",
+      "options": [
+        "مُعَلِّمَتَان",
+        "مُعَلِّمِين",
+        "مُعَلِّمُون",
+        "مُعَلِّمَة"
+      ],
+      "correctIndex": 3,
+      "explanation": "The feminine singular of مُعَلِّم (male teacher) is formed by adding the ta marbuta ة, giving مُعَلِّمَة (female teacher)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The sound masculine plural (جمع مذكر سالم) is typically formed by adding which suffix to the singular noun?",
+      "options": [
+        "ون or ين",
+        "اء",
+        "ية",
+        "ات"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sound masculine plural is formed regularly by adding ون (in the nominative case) or ين (in the accusative/genitive case) to the singular masculine noun."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The sound feminine plural (جمع مؤنث سالم) is typically formed by adding which suffix to the singular noun?",
+      "options": [
+        "ات",
+        "ون",
+        "ين",
+        "ي"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sound feminine plural is regularly formed by adding the suffix ات to the singular noun, as in مُعَلِّمَات (female teachers) from مُعَلِّمَة."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A broken plural (جمع تكسير) in Arabic refers to a plural form that is",
+      "options": [
+        "formed by an internal change in the pattern of the singular word, rather than a regular suffix",
+        "always formed by adding ون to the singular",
+        "always formed by adding ات to the singular",
+        "identical in form to the singular noun"
+      ],
+      "correctIndex": 0,
+      "explanation": "Broken plurals involve an internal restructuring of the word's pattern (e.g., كتاب becoming كتب), rather than simply attaching a regular plural suffix as in the sound plurals."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The dual form (مثنى) in Arabic grammar is used specifically to refer to",
+      "options": [
+        "a single person or thing",
+        "three or more persons or things",
+        "an indefinite quantity",
+        "exactly two persons or things"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arabic grammar includes a distinct dual form (مثنى), used specifically when referring to exactly two entities, in addition to the singular and plural forms."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The dual form of a masculine noun is typically formed by adding which suffix to the singular?",
+      "options": [
+        "ون",
+        "ان (in the nominative case)",
+        "ين only, never ان",
+        "ات"
+      ],
+      "correctIndex": 1,
+      "explanation": "The dual is formed by adding ان to the singular noun in the nominative case (e.g., كتابان, 'two books'), and ين in the accusative/genitive cases."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Separable (detached) personal pronouns in Arabic, such as أنا (I) and هو (he), are used mainly",
+      "options": [
+        "only with feminine nouns",
+        "as independent subject pronouns standing alone in a sentence",
+        "attached directly to the end of verbs or nouns",
+        "only in the plural form"
+      ],
+      "correctIndex": 1,
+      "explanation": "Separable (detached) pronouns like أنا (I) and هو (he) function as independent subject pronouns, standing alone rather than being attached to another word."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Inseparable (attached) pronouns in Arabic, such as the ه in كتابه (his book), are used mainly to",
+      "options": [
+        "indicate possession or serve as an object, attached directly to a noun or verb",
+        "form the plural of a noun",
+        "form a question",
+        "function as an independent subject pronoun"
+      ],
+      "correctIndex": 0,
+      "explanation": "Attached (inseparable) pronouns are suffixed directly onto nouns (to show possession, as in كتابه, 'his book') or onto verbs (to show the object of the action)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The demonstrative pronoun هذا is used in Arabic to mean",
+      "options": [
+        "these (masculine plural)",
+        "this (masculine singular)",
+        "that (feminine singular)",
+        "those (feminine plural)"
+      ],
+      "correctIndex": 1,
+      "explanation": "هذا specifically means 'this' when referring to a masculine singular noun nearby, such as هذا الكتاب (this book)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The demonstrative pronoun هذه is used in Arabic to mean",
+      "options": [
+        "those (feminine plural)",
+        "these (masculine plural)",
+        "that (masculine singular)",
+        "this (feminine singular)"
+      ],
+      "correctIndex": 3,
+      "explanation": "هذه specifically means 'this' when referring to a feminine singular noun, such as هذه المدرسة (this school)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A relative pronoun in Arabic, such as الذي (masculine singular, 'who/which/that'), is used to",
+      "options": [
+        "indicate possession of an object",
+        "form the plural of a verb",
+        "negate a sentence",
+        "introduce a relative clause describing a preceding noun"
+      ],
+      "correctIndex": 3,
+      "explanation": "Relative pronouns like الذي introduce a descriptive clause that provides additional information about a preceding definite noun, similar to 'who' or 'which' in English."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A transitive verb (فعل متعدٍ) in Arabic grammar is one that",
+      "options": [
+        "is always used in questions only",
+        "is always in the past tense",
+        "cannot take any direct object",
+        "requires a direct object to complete its meaning"
+      ],
+      "correctIndex": 3,
+      "explanation": "A transitive verb (فعل متعدٍ) needs a direct object to fully express its meaning, such as قرأ (read) requiring an object like a book, unlike intransitive verbs."
+    },
+    {
+      "subject": "Arabic",
+      "text": "An intransitive verb (فعل لازم) in Arabic grammar is one that",
+      "options": [
+        "cannot be conjugated for different subjects",
+        "does not require a direct object to complete its meaning",
+        "always requires a direct object",
+        "is only used in the imperative mood"
+      ],
+      "correctIndex": 1,
+      "explanation": "An intransitive verb (فعل لازم) expresses a complete action or state without needing a direct object, such as نام (he slept)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The perfect tense (الفعل الماضي) in Arabic grammar is generally used to express",
+      "options": [
+        "an ongoing or future action",
+        "a command or request",
+        "a completed action in the past",
+        "a hypothetical condition only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The past tense (الفعل الماضي) denotes an action that has already been completed, such as كتب (he wrote)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The imperfect tense (الفعل المضارع) in Arabic grammar is generally used to express",
+      "options": [
+        "only a completed past action",
+        "only a command",
+        "only a question",
+        "an ongoing, habitual, or future action"
+      ],
+      "correctIndex": 3,
+      "explanation": "The imperfect (present/future) tense (الفعل المضارع) expresses actions that are ongoing, habitual, or yet to occur, such as يكتب (he writes/is writing)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The imperfect verb in the indicative mood (المضارع المرفوع) is generally used when the verb is",
+      "options": [
+        "used only in the imperative form",
+        "not preceded by any particle that would change its mood",
+        "preceded by a particle requiring the subjunctive mood",
+        "preceded by a particle requiring the jussive mood"
+      ],
+      "correctIndex": 1,
+      "explanation": "The indicative mood of the imperfect verb represents its default, unmarked form, used when no governing particle requires a shift to the subjunctive or jussive mood."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The imperfect verb in the subjunctive mood (المضارع المنصوب) is typically triggered by certain particles, such as",
+      "options": [
+        "أن (that/to)",
+        "لا (no/not, in negative commands only)",
+        "لم (did not)",
+        "قد (indeed/already)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Particles such as أن (an, meaning 'that/to') trigger the subjunctive mood in the following imperfect verb, changing its grammatical ending."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The imperfect verb in the jussive mood (المضارع المجزوم) is typically triggered by certain particles, such as",
+      "options": [
+        "لم (did not)",
+        "سوف (will, indicating future)",
+        "أن (that/to)",
+        "قد (indeed/already)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The particle لم (lam, meaning 'did not') negates a past action but requires the following verb to be in the imperfect jussive mood, effectively giving it a past-tense negative meaning."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The imperative mood (فعل الأمر) in Arabic grammar is used to express",
+      "options": [
+        "a direct command or request",
+        "a question",
+        "a completed past action",
+        "an ongoing present action"
+      ],
+      "correctIndex": 0,
+      "explanation": "The imperative form (فعل الأمر) is specifically used to issue direct commands or requests, such as اكتبْ (write!)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The particle كان (kana), a well-known modifier in Arabic grammar, generally functions to",
+      "options": [
+        "form the plural of a noun",
+        "negate a verb in the past tense only",
+        "introduce a nominal sentence and change the case of its predicate to the accusative",
+        "introduce a question"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kana (كان) and its sister verbs are a group of grammatical modifiers that, when introduced into a nominal sentence, keep the subject in the nominative case but change the predicate to the accusative case."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The particle إنّ (inna), another well-known modifier in Arabic grammar, generally functions to",
+      "options": [
+        "always negate a sentence",
+        "only apply to plural nouns",
+        "form a question",
+        "introduce a nominal sentence, changing the case of its subject to the accusative while the predicate remains nominative"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inna (إنّ) and its sister particles introduce emphasis into a nominal sentence, requiring the subject that follows to take the accusative case, while the predicate remains in the nominative."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The particle ظنّ (zanna, meaning 'to think/suppose') is grammatically significant because it",
+      "options": [
+        "only ever takes one direct object",
+        "takes two objects, both originally the subject and predicate of a nominal sentence",
+        "cannot be conjugated in the past tense",
+        "is used exclusively in poetry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zanna and its similar 'verbs of the heart' (أفعال القلوب) are notable for taking two objects, corresponding to what would otherwise be the subject and predicate of a simple nominal sentence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Arabic numerals from 3 to 10, when counting nouns, generally require the counted noun to be in which grammatical form?",
+      "options": [
+        "Plural, and in the genitive case",
+        "Always in the accusative case as a single unit",
+        "Singular, and in the nominative case",
+        "Dual, regardless of the number"
+      ],
+      "correctIndex": 0,
+      "explanation": "Numbers 3 through 10 in Arabic typically require the counted noun to appear in the plural form and the genitive case, following the specific rules of Arabic numeral-noun agreement."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A conditional sentence in Arabic, often introduced by the particle إذا or إن, generally expresses",
+      "options": [
+        "a hypothetical or conditional relationship between two clauses",
+        "a command with no underlying condition",
+        "a simple, direct statement of fact with no condition",
+        "a straightforward yes/no question"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conditional particles like إذا (if/when) and إن (if) introduce a conditional clause, establishing a hypothetical dependency between a condition and its result."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic grammar, the case ending that typically marks the subject of a verbal or nominal sentence is",
+      "options": [
+        "the genitive case (الجر)",
+        "the accusative case (النصب)",
+        "the nominative case (الرفع)",
+        "the jussive case (الجزم), which applies only to nouns"
+      ],
+      "correctIndex": 2,
+      "explanation": "The nominative case (رفع) is the grammatical case typically used to mark the subject of a sentence, whether in a verbal sentence (the doer of the action) or a nominal sentence (the topic)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic grammar, the case ending that typically marks the direct object of a verb is",
+      "options": [
+        "the genitive case (الجر)",
+        "the accusative case (النصب)",
+        "there is no case marking for direct objects",
+        "the nominative case (الرفع)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The accusative case (نصب) is used to mark the direct object of a transitive verb, among other grammatical functions."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic grammar, the case ending typically used after a preposition (حرف جر) is",
+      "options": [
+        "the nominative case (الرفع)",
+        "the accusative case (النصب)",
+        "the genitive case (الجر)",
+        "no specific case is required"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nouns following a preposition (حرف جر) are placed in the genitive case (جر), one of the defining grammatical functions of this case in Arabic."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following is an example of a sound masculine plural (جمع مذكر سالم)?",
+      "options": [
+        "رِجَال (men)",
+        "كُتُب (books)",
+        "بُيُوت (houses)",
+        "مُسْلِمُون (Muslims)"
+      ],
+      "correctIndex": 3,
+      "explanation": "مُسْلِمُون follows the regular sound masculine plural pattern, formed by adding ون to the singular مُسْلِم, unlike the other options, which are broken (irregular) plurals."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following is an example of a broken plural (جمع تكسير)?",
+      "options": [
+        "طَالِبَات (female students)",
+        "كُتُب (books, from the singular كِتَاب)",
+        "مُسْلِمَات (Muslim women)",
+        "مُعَلِّمُون (teachers)"
+      ],
+      "correctIndex": 1,
+      "explanation": "كُتُب is a classic example of a broken plural, formed by an internal vowel pattern change from the singular كِتَاب, rather than a simple added suffix."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A nominal sentence (الجملة الاسمية) in Arabic grammar is a sentence that",
+      "options": [
+        "never has a subject",
+        "is used only for questions",
+        "begins with a noun and typically consists of a subject (مبتدأ) and predicate (خبر)",
+        "always begins with a verb"
+      ],
+      "correctIndex": 2,
+      "explanation": "A nominal sentence (الجملة الاسمية) starts with a noun, structured around a topic (مبتدأ) and a comment or predicate about it (خبر), distinct from a verbal sentence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A verbal sentence (الجملة الفعلية) in Arabic grammar is a sentence that",
+      "options": [
+        "always begins with a noun",
+        "consists only of a single word",
+        "never contains a verb",
+        "begins with a verb, typically followed by its subject and any objects"
+      ],
+      "correctIndex": 3,
+      "explanation": "A verbal sentence (الجملة الفعلية) begins with a verb, followed by its doer (subject) and any objects or complements, forming the other main sentence type in Arabic alongside nominal sentences."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The number 'three' in Arabic is written as",
+      "options": [
+        "أربعة",
+        "ثلاثة",
+        "خمسة",
+        "اثنان"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Three' in Arabic is ثلاثة (thalatha), distinct from أربعة (four), خمسة (five), and اثنان (two)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The number 'ten' in Arabic is written as",
+      "options": [
+        "ثمانية",
+        "عشرة",
+        "سبعة",
+        "تسعة"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ten' in Arabic is عشرة (ashara), distinct from تسعة (nine), سبعة (seven), and ثمانية (eight)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The number 'one hundred' in Arabic is written as",
+      "options": [
+        "ألف",
+        "مليون",
+        "عشرة",
+        "مئة (or مائة)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'One hundred' in Arabic is مئة or مائة (mi'a), distinct from ألف (one thousand) and مليون (one million)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A verb sentence agreement rule in Standard Arabic states that when the verb precedes the subject, the verb generally agrees with the subject in",
+      "options": [
+        "number only, never gender",
+        "neither gender nor number",
+        "both gender and number fully",
+        "gender only, remaining singular regardless of the subject's actual number"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Modern Standard Arabic, when a verb precedes its subject (the typical VSO word order), the verb agrees with the subject in gender but remains in the singular form, regardless of whether the subject itself is singular, dual, or plural."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following words is grammatically feminine in Arabic due to its ta marbuta ending?",
+      "options": [
+        "كتاب (book)",
+        "قلم (pen)",
+        "مدرسة (school)",
+        "باب (door)"
+      ],
+      "correctIndex": 2,
+      "explanation": "مدرسة ends in the ta marbuta (ة), a common (though not universal) marker of grammatically feminine nouns in Arabic, unlike كتاب, قلم, and باب, which are masculine."
+    },
+    {
+      "subject": "Arabic",
+      "text": "A well-formed Arabic conditional sentence using إذا generally follows the structure of",
+      "options": [
+        "only a single independent clause with no condition",
+        "a condition clause followed by a result clause",
+        "a question with no possible answer",
+        "two unrelated, separate sentences"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conditional sentences with إذا (if/when) typically present a condition clause first, followed logically by the resulting clause that occurs if the condition is met."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The negation particle لا is generally used in Arabic to negate",
+      "options": [
+        "only a completed past action, in every case",
+        "only a command directed at more than one person",
+        "a present/habitual action or a general statement",
+        "only a question"
+      ],
+      "correctIndex": 2,
+      "explanation": "لا (la) is commonly used to negate present or habitual actions and general statements, such as لا أعرف (I do not know), distinct from particles reserved for negating the past."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The negation particle ما is often used in Arabic, particularly in spoken and some written registers, to negate",
+      "options": [
+        "a past tense verb",
+        "only a proper name",
+        "only a numeral",
+        "only a plural noun"
+      ],
+      "correctIndex": 0,
+      "explanation": "ما (ma) is commonly used, especially alongside the classical لم, to negate past tense verbs, as in ما ذهب (he did not go)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The word أب (father) belongs to a small group of Arabic nouns known as 'the five nouns' (الأسماء الخمسة), which are notable for",
+      "options": [
+        "never being used with possessive pronouns",
+        "having irregular case endings using long vowels (و, ا, ي) instead of the usual short vowel markers",
+        "always remaining in the plural form only",
+        "only appearing in poetry"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'five nouns' (including أب, أخ, حم, فو, and ذو) follow a special declension pattern, marking case with long vowels (و for nominative, ا for accusative, ي for genitive) when in a possessive construction, rather than the standard short vowel case endings."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The idafa construction (الإضافة) in Arabic grammar is used to express",
+      "options": [
+        "a possessive relationship between two nouns, similar to 'of' in English",
+        "a conditional relationship between two clauses",
+        "a plural form of a single noun",
+        "a comparison between two adjectives"
+      ],
+      "correctIndex": 0,
+      "explanation": "The idafa (إضافة) construction links two nouns to express possession or a close associative relationship, such as كتاب الطالب (the student's book, literally 'book of the student')."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic composition (الإنشاء), which of the following best represents an appropriate opening greeting in a formal letter?",
+      "options": [
+        "مع السلامة",
+        "شكراً جزيلاً",
+        "إلى اللقاء",
+        "السلام عليكم ورحمة الله وبركاته"
+      ],
+      "correctIndex": 3,
+      "explanation": "The traditional Islamic greeting 'السلام عليكم ورحمة الله وبركاته' (peace and God's mercy and blessings be upon you) is a standard, respectful opening for formal Arabic correspondence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following expressions is commonly used in Arabic to politely request something?",
+      "options": [
+        "مِن فَضْلِك (please)",
+        "إلى اللقاء (see you later)",
+        "لا أدري (I don't know)",
+        "مع السلامة (goodbye)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'مِن فَضْلِك' (please) is a standard polite expression used when making a request in Arabic, appropriate for both spoken and written composition."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In writing a simple descriptive paragraph about one's daily routine in Arabic, which verb tense would be most appropriate for habitual actions?",
+      "options": [
+        "The past tense exclusively",
+        "The imperative mood exclusively",
+        "The imperfect (present) tense",
+        "The dual form exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Habitual, everyday actions are best expressed using the imperfect (present) tense in Arabic, as it conveys ongoing or repeated actions, such as 'أذهب إلى المدرسة كل يوم' (I go to school every day)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following phrases would be appropriate to conclude a formal Arabic letter?",
+      "options": [
+        "هيا بنا نلعب",
+        "ما اسمك؟",
+        "أراك لاحقاً يا صديقي",
+        "وتفضلوا بقبول فائق الاحترام والتقدير"
+      ],
+      "correctIndex": 3,
+      "explanation": "This formal closing phrase, roughly meaning 'please accept my utmost respect and appreciation', is a conventional and respectful way to end formal Arabic correspondence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In composing a short narrative in Arabic about a past event, which tense would be primarily used?",
+      "options": [
+        "The subjunctive mood exclusively",
+        "The dual form exclusively",
+        "The perfect (past) tense",
+        "The imperative mood exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Narrating events that have already occurred requires the perfect (past) tense in Arabic, appropriately conveying completed actions within the narrative."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which expression is most appropriate for expressing gratitude in Arabic composition?",
+      "options": [
+        "أنا آسف (I am sorry)",
+        "لا بأس (it's okay/no problem)",
+        "شكراً جزيلاً (thank you very much)",
+        "إلى اللقاء (goodbye)"
+      ],
+      "correctIndex": 2,
+      "explanation": "'شكراً جزيلاً' is the standard and widely used expression for conveying heartfelt thanks or gratitude in Arabic writing and speech."
+    },
+    {
+      "subject": "Arabic",
+      "text": "When writing about future plans in Arabic composition, which grammatical marker is typically used before the imperfect verb?",
+      "options": [
+        "قد (particle of certainty/uncertainty)",
+        "لا (simple negation marker)",
+        "سـ or سوف (future markers)",
+        "لم (past negation marker)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The prefix سـ or the separate word سوف are standard markers attached to or placed before an imperfect verb to indicate future tense in Arabic."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Idiomatic Arabic expressions, an important element of good composition, often reflect",
+      "options": [
+        "mathematical formulas",
+        "modern internet slang exclusively",
+        "cultural values and traditional wisdom specific to Arabic-speaking societies",
+        "purely literal, word-for-word translations from English"
+      ],
+      "correctIndex": 2,
+      "explanation": "Idiomatic expressions in Arabic composition often carry rich cultural and traditional meaning, reflecting values and wisdom embedded within Arabic-speaking societies, rather than being simple literal translations."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In composing a well-structured Arabic paragraph, it is generally recommended to",
+      "options": [
+        "use only single-word sentences throughout",
+        "avoid any form of punctuation entirely",
+        "begin with a clear main idea, followed by supporting details",
+        "write every sentence as a question"
+      ],
+      "correctIndex": 2,
+      "explanation": "Effective paragraph composition in Arabic, as in most languages, benefits from a clear structure: introducing the main idea first, then developing it with supporting details."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following best demonstrates correct subject-verb agreement in a simple Arabic sentence describing a female student studying?",
+      "options": [
+        "الطالبة يدرس (using a masculine verb form incorrectly)",
+        "الطالب تدرس (mismatching a masculine subject with a feminine verb form)",
+        "الطالبات يدرس (mismatching a plural subject with a singular verb form)",
+        "الطالبة تدرس (the female student studies)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Correct agreement requires the feminine verb form تدرس to match the feminine subject الطالبة (the female student), a fundamental composition and grammar principle."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following is an appropriate expression for asking someone's name in Arabic composition or conversation?",
+      "options": [
+        "كيف الجو اليوم؟",
+        "أين بيتك؟",
+        "ما اسمك؟",
+        "كم الساعة؟"
+      ],
+      "correctIndex": 2,
+      "explanation": "'ما اسمك؟' (What is your name?) is the standard, appropriate expression for asking someone's name, distinct from questions about time, location, or weather."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In composing a simple description of a place, such as one's town, which type of vocabulary is most essential?",
+      "options": [
+        "Adjectives describing physical and social characteristics of the place",
+        "Only numerals with no descriptive words",
+        "Only pronouns, with no nouns",
+        "Only verbs of motion, with no adjectives"
+      ],
+      "correctIndex": 0,
+      "explanation": "Descriptive writing about a place relies heavily on adjectives to convey its physical features (size, beauty, climate) and social character, making them essential vocabulary for this type of composition."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following best represents an appropriate closing for an informal letter to a friend in Arabic?",
+      "options": [
+        "وتفضلوا بقبول فائق الاحترام",
+        "مع تحياتي، صديقك",
+        "حضرة صاحب السعادة",
+        "إلى من يهمه الأمر"
+      ],
+      "correctIndex": 1,
+      "explanation": "'مع تحياتي، صديقك' (With my greetings, your friend) is a warm, informal closing appropriate for a personal letter to a friend, unlike the more formal closings used in official correspondence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "When composing a short paragraph in Arabic giving advice, which verb mood is commonly used to soften a suggestion, alongside the imperative?",
+      "options": [
+        "The dual form exclusively",
+        "The subjunctive mood, often following an expression like 'يجب أن' (it is necessary that)",
+        "The broken plural form exclusively",
+        "The genitive case ending alone, without any verb"
+      ],
+      "correctIndex": 1,
+      "explanation": "Advice is often expressed using constructions like يجب أن (it is necessary that) followed by a subjunctive verb, offering a softer, more suggestive tone than a direct imperative command."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Al-Shanfara, a poet associated with the Pre-Islamic (Jahili) period of Arabic literature, is particularly known for his",
+      "options": [
+        "compilation of the Qur'an",
+        "role as one of the Rightly Guided Caliphs",
+        "renowned ode 'Lamiyyat al-Arab', reflecting themes of individualism and life in the desert",
+        "leadership of the Sokoto Jihad"
+      ],
+      "correctIndex": 2,
+      "explanation": "Al-Shanfara is celebrated as a Pre-Islamic Arabian poet, famous for his ode 'Lamiyyat al-Arab', which reflects themes of fierce independence, solitude, and desert survival characteristic of the vagabond poets (su'luk)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Pre-Islamic period of Arabic literature (Jahiliyyah) is generally dated to approximately",
+      "options": [
+        "610 to 1798 CE",
+        "500 to 610 CE, prior to the advent of Islam",
+        "1798 CE to the present day",
+        "The entire span of the 20th century"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Jahiliyyah (Pre-Islamic) period of Arabic literature refers to the era before the advent of Islam, generally dated to approximately 500-610 CE, known for its rich oral poetic tradition."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Pre-Islamic Arabic poetry is particularly renowned for its elaborate odes known as",
+      "options": [
+        "Hadith collections",
+        "Tafsir commentaries",
+        "Maqamat",
+        "Mu'allaqat (the 'Suspended/Hanging Odes')"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Mu'allaqat are a celebrated collection of seven (or more, depending on the source) outstanding pre-Islamic Arabic odes, traditionally said to have been displayed prominently for their excellence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Ali bin Abi Talib, whose speeches and sayings are studied within Arabic literature from the early Islamic period, was notable as",
+      "options": [
+        "a West African Islamic scholar",
+        "a Pre-Islamic poet of the Jahiliyyah era",
+        "a modern Egyptian literary figure",
+        "the fourth Rightly Guided Caliph and a celebrated orator known for his eloquence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ali bin Abi Talib, the fourth Rightly Guided Caliph, is highly regarded in Arabic literary and religious tradition for his eloquent speeches and sayings, notably compiled in works such as Nahj al-Balagha."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Jarir, a poet associated with the early Islamic/Umayyad period of Arabic literature, is particularly known for his",
+      "options": [
+        "role as a Rightly Guided Caliph",
+        "compilation of Hadith collections",
+        "fierce poetic rivalry (naqa'id) with fellow poets such as Al-Farazdaq",
+        "career as a 20th-century Egyptian novelist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jarir was a prominent Umayyad-era poet renowned for his satirical poetic duels (naqa'id), particularly his long-running rivalry with the poet Al-Farazdaq."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Umayyad and Abbasid periods of Arabic literature are generally dated within the broader span of",
+      "options": [
+        "1798 CE to the present",
+        "500 to 610 CE, prior to Islam",
+        "Exclusively the 20th century",
+        "610 to 1798 CE, following the advent of Islam"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Islamic, Umayyad, and Abbasid periods together span roughly 610 to 1798 CE, encompassing the rise of Islam through the classical and medieval eras of Arabic literary and scholarly achievement."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Abbasid period of Arabic literary history is particularly noted for its flourishing of",
+      "options": [
+        "West African Islamic scholarship exclusively",
+        "the earliest oral pre-Islamic poetry only",
+        "purely modern nationalist literature",
+        "scholarship, poetry, and prose across science, philosophy, and literature, often centred in Baghdad"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Abbasid era is widely regarded as a golden age of Arabic and Islamic scholarship, with Baghdad serving as a major centre for literature, science, philosophy, and translation."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Ahmad Shawqi, a significant figure of the modern period of Arabic literature, is particularly renowned as",
+      "options": [
+        "a prominent poet, often referred to as the 'Prince of Poets' (Amir al-Shu'ara)",
+        "a West African Islamic reformer",
+        "one of the Rightly Guided Caliphs",
+        "a Pre-Islamic warrior poet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ahmad Shawqi, an Egyptian poet of the modern era, earned the honorific title 'Prince of Poets' (Amir al-Shu'ara) for his significant contributions to modern Arabic poetry."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The modern period of Arabic literature is generally dated from",
+      "options": [
+        "500 to 610 CE",
+        "1798 CE to the present day",
+        "Exclusively the 21st century",
+        "610 to 1798 CE"
+      ],
+      "correctIndex": 1,
+      "explanation": "The modern period of Arabic literature is generally considered to begin around 1798 CE (often linked to increased contact with Europe) and continues to the present day."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Abbas Mahmoud al-Aqqad, a notable figure of modern Arabic literature, is particularly recognised as",
+      "options": [
+        "a compiler of Hadith in the early Islamic period",
+        "a Pre-Islamic era poet",
+        "a prolific Egyptian writer, critic, and intellectual across multiple literary genres",
+        "one of the Rightly Guided Caliphs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abbas Mahmoud al-Aqqad was a highly influential modern Egyptian writer, literary critic, and intellectual, contributing extensively across poetry, biography, and literary criticism."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The broad development of Arabic literature is generally studied across which sequence of historical periods?",
+      "options": [
+        "A single, undivided historical period with no distinct phases",
+        "Only the Pre-Islamic period",
+        "Only the Modern period, with no earlier history considered",
+        "Pre-Islamic, Islamic/Umayyad/Abbasid, and Modern periods"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arabic literary history is conventionally studied across three broad periods: the Pre-Islamic (Jahiliyyah) era, the Islamic/Umayyad/Abbasid classical era, and the Modern period from around 1798 CE onward."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Asma bint Sheikh Usman bin Fodiyo, a significant figure in West African Arabic literature, is particularly recognised as a",
+      "options": [
+        "modern Egyptian novelist",
+        "scholar and poet who contributed significantly to Islamic scholarship and literature in what is now Nigeria",
+        "Pre-Islamic Arabian poet",
+        "Rightly Guided Caliph"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asma bint Sheikh Usman bin Fodiyo, daughter of the Sokoto Jihad leader Uthman Dan Fodio, was a notable West African Islamic scholar and poet, contributing significantly to the region's Arabic and Islamic literary tradition."
+    },
+    {
+      "subject": "Arabic",
+      "text": "West African Arabic literature, as studied within the JAMB syllabus, particularly reflects the historical significance of",
+      "options": [
+        "Egyptian modernist literature exclusively",
+        "Islamic scholarship traditions developed in regions such as Northern Nigeria, connected to the Sokoto Caliphate",
+        "Pre-Islamic Arabian oral poetry exclusively",
+        "purely secular, non-religious literary traditions"
+      ],
+      "correctIndex": 1,
+      "explanation": "West African Arabic literature studied in this context reflects the rich Islamic scholarly tradition that developed in regions like Northern Nigeria, closely connected to centres of learning such as the Sokoto Caliphate."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The study of Arabic literature across different historical periods (Pre-Islamic, Islamic, Modern, West African) primarily helps students to",
+      "options": [
+        "appreciate the historical development and diversity of Arabic literary and scholarly achievement",
+        "memorise numerals and translation vocabulary only",
+        "study exclusively contemporary internet Arabic",
+        "focus exclusively on grammar rules with no literary context"
+      ],
+      "correctIndex": 0,
+      "explanation": "Studying Arabic literature across these varied historical periods and regions helps students develop a broad appreciation of the language's rich and evolving literary and intellectual heritage."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following literary forms was especially prominent and highly valued during the Pre-Islamic period of Arabic literature?",
+      "options": [
+        "The modern novel",
+        "Oral poetry (qasida), often recited and later transcribed",
+        "Formal newspaper journalism",
+        "Written legal treatises on Islamic jurisprudence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pre-Islamic Arabic literary culture was centred heavily on oral poetry, particularly the qasida (ode) form, composed and transmitted orally before later written compilation."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The transition from the Pre-Islamic to the early Islamic period of Arabic literature was significantly marked by",
+      "options": [
+        "the disappearance of all earlier Pre-Islamic poetry",
+        "the adoption of a new alphabet distinct from Arabic script",
+        "the complete abandonment of the Arabic language",
+        "the revelation of the Qur'an, which profoundly influenced the Arabic language and its literary and rhetorical standards"
+      ],
+      "correctIndex": 3,
+      "explanation": "The revelation of the Qur'an marked a profound turning point in Arabic literary history, setting new standards of eloquence and significantly shaping the subsequent development of the Arabic language and literature."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Naqa'id, a notable poetic tradition associated with poets like Jarir and Al-Farazdaq, refers to",
+      "options": [
+        "a form of poetic flyting or exchange of satirical verses between rival poets",
+        "a style of modern Arabic journalism",
+        "a genre of religious sermons",
+        "a type of formal legal contract"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naqa'id poetry involved rival poets composing satirical verses directed at one another in an ongoing public exchange, a distinctive and celebrated tradition of Umayyad-era Arabic poetry."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following best describes the general significance of the Abbasid period for Arabic prose literature?",
+      "options": [
+        "It marked the complete decline of all literary activity",
+        "It saw significant development of Arabic prose alongside poetry, including works of history, philosophy, and storytelling",
+        "Only poetry was permitted, with prose being entirely banned",
+        "Arabic prose did not exist at all during this period"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Abbasid period saw substantial growth in Arabic prose literature, encompassing historical writing, philosophical treatises, and narrative works, alongside the continued flourishing of poetry."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Modern Arabic literature, from 1798 CE onward, has been significantly shaped by",
+      "options": [
+        "complete isolation from any outside literary influence",
+        "a total abandonment of classical Arabic literary forms",
+        "an exclusive focus on Pre-Islamic poetic themes",
+        "increased contact with European literary traditions alongside a revival (Nahda) of Arabic literary and intellectual life"
+      ],
+      "correctIndex": 3,
+      "explanation": "The modern period of Arabic literature has been shaped significantly by the Nahda (Arab literary and cultural renaissance), which involved both a revival of classical Arabic heritage and meaningful engagement with European literary influences."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The term 'Amir al-Shu'ara' (Prince of Poets), an honorific associated with Ahmad Shawqi, reflects his",
+      "options": [
+        "widely recognised excellence and leading status among poets of his era",
+        "position as a religious scholar only",
+        "role as a political ruler of Egypt",
+        "career exclusively in prose fiction, with no poetry"
+      ],
+      "correctIndex": 0,
+      "explanation": "This honorific title reflects the widespread recognition of Ahmad Shawqi's exceptional poetic skill and his prominent, leading position among his contemporaries in modern Arabic poetry."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following would be considered a hallmark literary contribution of the Pre-Islamic 'vagabond poets' (su'luk), such as Al-Shanfara?",
+      "options": [
+        "Themes of fierce individualism, rejection of tribal constraints, and survival in harsh desert conditions",
+        "Detailed scientific treatises on astronomy",
+        "Formal religious sermons on Islamic jurisprudence",
+        "Modern urban social commentary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The su'luk (vagabond/brigand) poets of the Pre-Islamic era, including Al-Shanfara, were known for poetry emphasising fierce independence, alienation from tribal norms, and resilience in the harsh desert environment."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The study of West African Arabic literary scholarship, alongside classical Arabic literature, on the JAMB syllabus reflects",
+      "options": [
+        "the irrelevance of West African Islamic scholarship to Arabic studies",
+        "an exclusive focus on Egyptian literature only",
+        "a complete rejection of classical Arabic literary tradition",
+        "the recognition of significant Islamic scholarly and literary contributions originating from the West African region"
+      ],
+      "correctIndex": 3,
+      "explanation": "Including West African Arabic literary scholarship in the syllabus reflects the significant and historically important contributions to Islamic scholarship and Arabic literature made within the West African region, particularly around the Sokoto Caliphate."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nمتى تذهب فاطمة إلى السوق؟",
+      "options": [
+        "كل يوم اثنين",
+        "لا تذهب أبداً",
+        "كل يوم جمعة",
+        "كل يوم سبت"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage states 'تذهب فاطمة إلى السوق مع أمها كل يوم جمعة' (Fatima goes to the market with her mother every Friday)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nمع من تذهب فاطمة إلى السوق؟",
+      "options": [
+        "مع أبيها",
+        "مع أمها",
+        "مع أخيها",
+        "وحدها"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text says Fatima goes to the market 'مع أمها' (with her mother)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nماذا تشتري فاطمة من السوق؟",
+      "options": [
+        "الأثاث المنزلي",
+        "الخضروات والفواكه",
+        "الملابس والأحذية",
+        "الكتب والأقلام"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage states Fatima buys 'الخضروات والفواكه' (vegetables and fruits) from the market."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nأي فاكهة تحب فاطمة كثيراً؟",
+      "options": [
+        "الموز والعنب",
+        "البرتقال والتفاح",
+        "المانجو فقط",
+        "لا تحب أي فاكهة"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text explicitly states 'تحب فاطمة البرتقال والتفاح كثيراً' (Fatima loves oranges and apples very much)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nماذا تفعل فاطمة بعد العودة من السوق؟",
+      "options": [
+        "تذهب إلى المدرسة",
+        "تشاهد التلفاز فقط",
+        "تنام مباشرة",
+        "تساعد أمها في تحضير الطعام"
+      ],
+      "correctIndex": 3,
+      "explanation": "According to the text, after returning from the market Fatima 'تساعد أمها في تحضير الطعام' (helps her mother prepare the food)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nمع من تلعب فاطمة في المساء؟",
+      "options": [
+        "مع أخيها الصغير",
+        "مع صديقاتها",
+        "وحدها",
+        "مع أبيها"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage states that in the evening Fatima plays 'مع أخيها الصغير' (with her little brother)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nأين تلعب فاطمة في المساء؟",
+      "options": [
+        "في المدرسة",
+        "في الحديقة",
+        "في المطبخ",
+        "في السوق"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states that Fatima plays with her brother 'في الحديقة' (in the garden) in the evening."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nما هي الفكرة العامة للنص؟",
+      "options": [
+        "وصف يوم فاطمة مع أسرتها",
+        "حديث عن مهنة الطب",
+        "وصف مباراة كرة قدم",
+        "قصة عن رحلة إلى بلد بعيد"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage as a whole describes Fatima's day spent with her family, from the market to helping at home and playing with her brother."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nما معنى كلمة 'تحضير' كما وردت في النص؟",
+      "options": [
+        "إعداد",
+        "شراء",
+        "غسل",
+        "أكل"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this context, 'تحضير' means 'preparing/getting ready', synonymous with 'إعداد', referring to preparing the food."
+    },
+    {
+      "subject": "Arabic",
+      "text": "فاطمة فتاة مجتهدة. تذهب فاطمة إلى السوق مع أمها كل يوم جمعة. تشتري فاطمة الخضروات والفواكه من السوق. تحب فاطمة البرتقال والتفاح كثيراً. بعد العودة من السوق، تساعد فاطمة أمها في تحضير الطعام. في المساء، تلعب فاطمة مع أخيها الصغير في الحديقة.\n\nما الصفة التي وصفت بها فاطمة في بداية النص؟",
+      "options": [
+        "فتاة كسولة",
+        "فتاة مريضة",
+        "فتاة مجتهدة",
+        "فتاة غاضبة"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage opens by describing Fatima as 'فتاة مجتهدة' (a diligent/hardworking girl)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nمتى ذهب التلاميذ في رحلتهم المدرسية؟",
+      "options": [
+        "في يوم الخميس",
+        "في العطلة الصيفية",
+        "في يوم الثلاثاء",
+        "في يوم الأحد"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage states the trip took place 'في يوم الخميس' (on Thursday)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nإلى أين ذهب التلاميذ؟",
+      "options": [
+        "إلى المستشفى",
+        "إلى المسجد",
+        "إلى الملعب",
+        "إلى المتحف"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage states the students went 'إلى المتحف' (to the museum) on their school trip."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nماذا شاهد التلاميذ في المتحف؟",
+      "options": [
+        "حيوانات نادرة",
+        "أفلاماً كرتونية",
+        "مباراة رياضية",
+        "آثاراً قديمة وصوراً تاريخية"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text states the students saw 'آثاراً قديمة وصوراً تاريخية' (ancient relics and historical pictures)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nمن شرح للتلاميذ تاريخ القطع؟",
+      "options": [
+        "المعلم",
+        "مدير المتحف",
+        "أحد التلاميذ",
+        "والد أحد التلاميذ"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage states 'شرح لهم المعلم تاريخ كل قطعة' (the teacher explained the history of each piece to them)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nكيف شرح المعلم تاريخ القطع؟",
+      "options": [
+        "بصبر واهتمام",
+        "لم يشرح شيئاً",
+        "بغضب",
+        "بسرعة وإهمال"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text describes the teacher explaining 'بصبر واهتمام' (with patience and care)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nماذا تعلم التلاميذ من هذه الرحلة؟",
+      "options": [
+        "قواعد كرة القدم",
+        "معلومات جديدة عن تاريخ بلادهم",
+        "كيفية الطبخ",
+        "لغة أجنبية جديدة"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage states the students learned 'معلومات جديدة عن تاريخ بلادهم' (new information about the history of their country)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nمتى عاد التلاميذ إلى المدرسة؟",
+      "options": [
+        "في الصباح الباكر",
+        "قبل غروب الشمس",
+        "لم يعودوا إلى المدرسة",
+        "بعد منتصف الليل"
+      ],
+      "correctIndex": 1,
+      "explanation": "The text states the students returned to school 'قبل غروب الشمس' (before sunset)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nما الفكرة العامة للنص؟",
+      "options": [
+        "وصف حفلة عيد ميلاد",
+        "حديث عن السفر إلى الخارج",
+        "قصة عن مباراة رياضية",
+        "وصف رحلة مدرسية تعليمية إلى المتحف"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage as a whole describes an educational school trip to the museum, from departure to return."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nما معنى كلمة 'استمتع' كما وردت في النص؟",
+      "options": [
+        "شعر بالسعادة والمتعة",
+        "شعر بالخوف",
+        "شعر بالتعب فقط",
+        "شعر بالحزن"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this context, 'استمتع' means 'he/they enjoyed/felt pleasure', describing the students' positive experience on the trip."
+    },
+    {
+      "subject": "Arabic",
+      "text": "في يوم الخميس، ذهب التلاميذ في رحلة مدرسية إلى المتحف. شاهد التلاميذ آثاراً قديمة وصوراً تاريخية. شرح لهم المعلم تاريخ كل قطعة بصبر واهتمام. استمتع التلاميذ كثيراً بهذه الرحلة، وتعلموا معلومات جديدة عن تاريخ بلادهم. عادوا إلى المدرسة قبل غروب الشمس.\n\nما نوع هذا النص من حيث الأسلوب؟",
+      "options": [
+        "نص وصفي سردي عن رحلة مدرسية",
+        "نص شعري",
+        "نص حواري مسرحي",
+        "نص إعلاني"
+      ],
+      "correctIndex": 0,
+      "explanation": "This passage is a descriptive-narrative text (نص وصفي سردي) recounting the events of a school trip, rather than poetry, dialogue, or advertisement."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'The teacher wrote the lesson on the board.'",
+      "options": [
+        "مسح المعلم السبورة",
+        "قرأ المعلم الدرس في البيت",
+        "كتب المعلم الدرس على السبورة",
+        "كتب الطالب الدرس على السبورة"
+      ],
+      "correctIndex": 2,
+      "explanation": "'The teacher wrote the lesson on the board' translates as 'كتب المعلم الدرس على السبورة', using كتب (wrote), المعلم (the teacher), الدرس (the lesson), and على السبورة (on the board)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'My father works in a hospital.'",
+      "options": [
+        "تعمل أمي في مدرسة",
+        "يدرس أبي في الجامعة",
+        "يعمل أخي في مصنع",
+        "يعمل أبي في مستشفى"
+      ],
+      "correctIndex": 3,
+      "explanation": "'My father works in a hospital' translates as 'يعمل أبي في مستشفى', with يعمل (works), أبي (my father), and في مستشفى (in a hospital)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'The children are playing in the garden.'",
+      "options": [
+        "الأولاد يأكلون الطعام",
+        "الأولاد ينامون في البيت",
+        "البنات يدرسن في المدرسة",
+        "الأولاد يلعبون في الحديقة"
+      ],
+      "correctIndex": 3,
+      "explanation": "'The children are playing in the garden' translates as 'الأولاد يلعبون في الحديقة', using يلعبون (they play, masculine plural) and في الحديقة (in the garden)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'I drink milk every morning.'",
+      "options": [
+        "شربتُ الحليب أمس",
+        "أشرب الشاي كل مساء",
+        "آكل الخبز كل صباح",
+        "أشرب الحليب كل صباح"
+      ],
+      "correctIndex": 3,
+      "explanation": "'I drink milk every morning' translates as 'أشرب الحليب كل صباح', with أشرب (I drink), الحليب (milk), and كل صباح (every morning)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'Where is the nearest mosque?'",
+      "options": [
+        "كم عدد المساجد هنا؟",
+        "أين أقرب مسجد؟",
+        "متى يفتح المسجد؟",
+        "أين أقرب مدرسة؟"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Where is the nearest mosque?' translates as 'أين أقرب مسجد؟', using أين (where) and أقرب مسجد (the nearest mosque)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'She wrote a letter to her friend.'",
+      "options": [
+        "أرسلت هدية إلى صديقتها",
+        "قرأت رسالة من صديقتها",
+        "كتب رسالة إلى صديقه",
+        "كتبت رسالة إلى صديقتها"
+      ],
+      "correctIndex": 3,
+      "explanation": "'She wrote a letter to her friend' translates as 'كتبت رسالة إلى صديقتها', with the feminine past-tense verb كتبت (she wrote) and إلى صديقتها (to her friend)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'The sun rises in the east.'",
+      "options": [
+        "تغرب الشمس في الغرب",
+        "تسطع النجوم في السماء",
+        "يطلع القمر ليلاً",
+        "تشرق الشمس من الشرق"
+      ],
+      "correctIndex": 3,
+      "explanation": "'The sun rises in the east' translates as 'تشرق الشمس من الشرق', using تشرق (rises) and من الشرق (from/in the east)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'How much does this book cost?'",
+      "options": [
+        "متى نشر هذا الكتاب؟",
+        "من كتب هذا الكتاب؟",
+        "كم ثمن هذا الكتاب؟",
+        "أين هذا الكتاب؟"
+      ],
+      "correctIndex": 2,
+      "explanation": "'How much does this book cost?' translates as 'كم ثمن هذا الكتاب؟', with كم (how much) and ثمن (price/cost)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'The two students passed the examination.'",
+      "options": [
+        "نجح الطلاب في الامتحان",
+        "رسب الطالبان في الامتحان",
+        "نجح الطالبان في الامتحان",
+        "نجحت الطالبة في الامتحان"
+      ],
+      "correctIndex": 2,
+      "explanation": "'The two students passed the examination' translates as 'نجح الطالبان في الامتحان', using the dual form الطالبان (the two students) with the verb نجح (passed)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to Arabic: 'Knowledge is light and ignorance is darkness.'",
+      "options": [
+        "العلم مال والجهل فقر",
+        "العلم صعب والجهل سهل",
+        "الجهل نور والعلم ظلام",
+        "العلم نور والجهل ظلام"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Knowledge is light and ignorance is darkness' is a common Arabic saying rendered as 'العلم نور والجهل ظلام', contrasting العلم (knowledge) with الجهل (ignorance)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'الصبر مفتاح الفرج.'",
+      "options": [
+        "Silence is a sign of weakness",
+        "Speed is the key to success",
+        "Patience is the key to relief",
+        "Money is the root of happiness"
+      ],
+      "correctIndex": 2,
+      "explanation": "This well-known Arabic proverb 'الصبر مفتاح الفرج' means 'Patience is the key to relief', encouraging endurance through hardship."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'العلم في الصغر كالنقش على الحجر.'",
+      "options": [
+        "Stones are more valuable than knowledge",
+        "Learning in old age is easy and quick",
+        "Children should not study at all",
+        "Learning in childhood is like engraving on stone"
+      ],
+      "correctIndex": 3,
+      "explanation": "This proverb means 'Learning in childhood is like engraving on stone', implying that knowledge acquired young is permanent and lasting."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'من جدّ وجد.'",
+      "options": [
+        "Whoever strives, succeeds",
+        "Whoever travels, forgets",
+        "Whoever waits, loses",
+        "Whoever sleeps, dreams"
+      ],
+      "correctIndex": 0,
+      "explanation": "This idiom 'من جدّ وجد' means 'Whoever strives/works hard, finds/succeeds', emphasizing that diligence leads to achievement."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'يداً بيد نبني وطننا.'",
+      "options": [
+        "With money we build our nation",
+        "Alone we build our nation",
+        "Hand in hand we build our nation",
+        "Slowly we destroy our nation"
+      ],
+      "correctIndex": 2,
+      "explanation": "'يداً بيد نبني وطننا' translates as 'Hand in hand we build our nation', an idiom expressing unity and collective effort."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'الوقت من ذهب.'",
+      "options": [
+        "Time never ends",
+        "Money buys everything",
+        "Time is gold",
+        "Gold is worthless"
+      ],
+      "correctIndex": 2,
+      "explanation": "'الوقت من ذهب' is a well-known proverb meaning 'Time is gold', emphasizing the value and preciousness of time."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'ذهبت الطالبات إلى المكتبة لقراءة الكتب.'",
+      "options": [
+        "The male students went to the market to buy books",
+        "The teacher went to the library to write a book",
+        "The female students went to the library to read books",
+        "The female students went to school to take an exam"
+      ],
+      "correctIndex": 2,
+      "explanation": "'ذهبت الطالبات إلى المكتبة لقراءة الكتب' translates as 'The female students went to the library to read books', using الطالبات (female students, plural) and المكتبة (library)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'هذان الكتابان جديدان.'",
+      "options": [
+        "That single book is new",
+        "Those many books are old",
+        "This one book is new",
+        "These two books are new"
+      ],
+      "correctIndex": 3,
+      "explanation": "'هذان الكتابان جديدان' translates as 'These two books are new', using the dual demonstrative هذان and the dual noun الكتابان and adjective جديدان."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'لا تؤجل عمل اليوم إلى الغد.'",
+      "options": [
+        "Do not postpone today's work until tomorrow",
+        "Always postpone your work until tomorrow",
+        "Never work in the morning",
+        "Work only on weekends"
+      ],
+      "correctIndex": 0,
+      "explanation": "This proverb 'لا تؤجل عمل اليوم إلى الغد' means 'Do not postpone today's work until tomorrow', encouraging promptness and discipline."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'الاتحاد قوة.'",
+      "options": [
+        "Division is strength",
+        "Wealth is strength",
+        "Unity is strength",
+        "Silence is strength"
+      ],
+      "correctIndex": 2,
+      "explanation": "'الاتحاد قوة' is a common Arabic saying meaning 'Unity is strength', emphasizing the power gained through solidarity."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Turn to English: 'رياضة الجسم صحة، ورياضة العقل حكمة.'",
+      "options": [
+        "Exercise of the body is wealth, and exercise of the mind is fame",
+        "Rest of the body is health, and rest of the mind is wisdom",
+        "Exercise is harmful to both body and mind",
+        "Exercise of the body is health, and exercise of the mind is wisdom"
+      ],
+      "correctIndex": 3,
+      "explanation": "This saying means 'Exercise of the body is health, and exercise of the mind is wisdom', highlighting the value of both physical and mental exercise."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The personal pronoun 'نحن' in Arabic corresponds to which English pronoun?",
+      "options": [
+        "They",
+        "We",
+        "I",
+        "You (plural)"
+      ],
+      "correctIndex": 1,
+      "explanation": "'نحن' is the first-person plural pronoun in Arabic, corresponding to 'we' in English."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The personal pronoun 'أنتم' in Arabic is used to address",
+      "options": [
+        "a group of females only ('you', feminine plural)",
+        "a group of males, or a mixed group ('you', masculine plural)",
+        "a single male person ('you', masculine singular)",
+        "a single female person ('you', feminine singular)"
+      ],
+      "correctIndex": 1,
+      "explanation": "'أنتم' is the second-person masculine plural pronoun, used to address a group of males or a mixed-gender group, meaning 'you all'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following is the correct broken plural of طَالِب (student, masculine)?",
+      "options": [
+        "طَالِبَات",
+        "طُلَّاب",
+        "طَالِبُون",
+        "طَالِبَان"
+      ],
+      "correctIndex": 1,
+      "explanation": "طُلَّاب is the irregular broken plural of طَالِب, formed through an internal pattern change rather than a regular suffix."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following is the correct dual form of قَلَم (pen), in the nominative case?",
+      "options": [
+        "قَلَمُون",
+        "قَلَمَات",
+        "قَلَمَان",
+        "أَقْلَام"
+      ],
+      "correctIndex": 2,
+      "explanation": "The dual of قَلَم in the nominative case is formed by adding ان, giving قَلَمَان ('two pens')."
+    },
+    {
+      "subject": "Arabic",
+      "text": "What is the sound feminine plural of طَالِبَة (female student)?",
+      "options": [
+        "طَالِبَان",
+        "طَالِبَات",
+        "طُلَّاب",
+        "طَالِبِين"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sound feminine plural is formed by adding ات to the singular, giving طَالِبَات ('female students') from طَالِبَة."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which relative pronoun in Arabic is used specifically for a masculine plural antecedent ('who/which')?",
+      "options": [
+        "التي",
+        "الذين",
+        "اللتان",
+        "اللذان"
+      ],
+      "correctIndex": 1,
+      "explanation": "الذين is the relative pronoun used for a masculine plural antecedent, meaning 'who/which (masculine plural)'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which relative pronoun in Arabic is used specifically for a feminine singular antecedent ('who/which')?",
+      "options": [
+        "التي",
+        "الذين",
+        "الذي",
+        "اللذان"
+      ],
+      "correctIndex": 0,
+      "explanation": "التي is the relative pronoun used for a feminine singular antecedent, meaning 'who/which (feminine singular)'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In the phrase كِتَابِي (my book), the attached pronoun ي functions to indicate",
+      "options": [
+        "the plural form of the noun",
+        "a question",
+        "the subject of a verb",
+        "possession, meaning 'my'"
+      ],
+      "correctIndex": 3,
+      "explanation": "The attached pronoun ي suffixed to a noun such as كِتَاب (book) indicates possession, giving كِتَابِي the meaning 'my book'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The passive voice (المبني للمجهول) in Arabic is generally formed by",
+      "options": [
+        "adding the prefix سـ to the verb",
+        "adding the suffix ون to the verb",
+        "changing the internal vowel pattern of the verb and omitting the doer of the action",
+        "using only the imperative mood"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passive voice in Arabic is formed through an internal vowel pattern shift on the verb (e.g., كَتَبَ becoming كُتِبَ), with the doer of the action omitted or unknown."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following sentences is in the active voice (المبني للمعلوم)?",
+      "options": [
+        "قُرِئَ الْكِتَابُ (The book was read)",
+        "كُتِبَ الدَّرْسُ (The lesson was written)",
+        "فُتِحَ الْبَابُ (The door was opened)",
+        "كَتَبَ الطَّالِبُ الدَّرْسَ (The student wrote the lesson)"
+      ],
+      "correctIndex": 3,
+      "explanation": "كَتَبَ الطَّالِبُ الدَّرْسَ names the doer of the action (الطالب) explicitly, making it an active voice sentence, unlike the other options where the doer is omitted (passive voice)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In a passive voice sentence, the 'deputy subject' (نائب الفاعل), which replaces the omitted doer, takes which grammatical case?",
+      "options": [
+        "The accusative case (النصب)",
+        "The nominative case (الرفع)",
+        "The genitive case (الجر)",
+        "No case is assigned to it"
+      ],
+      "correctIndex": 1,
+      "explanation": "In passive constructions, the نائب الفاعل (deputy subject, formerly the object) takes the nominative case, functioning grammatically like the subject of the sentence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following verbs belongs to the group of 'kana and its sisters' (كان وأخواتها)?",
+      "options": [
+        "أَصْبَحَ (became)",
+        "أَكَلَ (ate)",
+        "لَعِبَ (played)",
+        "ذَهَبَ (went)"
+      ],
+      "correctIndex": 0,
+      "explanation": "أَصْبَحَ (to become) is one of the 'sisters of kana', a group of verbs that, like كان, introduce a nominal sentence and place the predicate in the accusative case."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following particles belongs to the group of 'inna and its sisters' (إنّ وأخواتها)?",
+      "options": [
+        "لكِنَّ (but/however)",
+        "قَدْ (indeed/already)",
+        "لَمْ (did not)",
+        "هَلْ (question particle)"
+      ],
+      "correctIndex": 0,
+      "explanation": "لكِنَّ (but) is one of the 'sisters of inna', a group of particles that, like إنّ, put the subject of a nominal sentence in the accusative case while the predicate remains nominative."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which of the following verbs belongs to the group of 'verbs of the heart' (أفعال القلوب), like ظنّ, that take two objects?",
+      "options": [
+        "إِنَّ (indeed, a particle not a verb)",
+        "كَانَ (was)",
+        "حَسِبَ (thought/supposed)",
+        "هَلْ (a question particle, not a verb)"
+      ],
+      "correctIndex": 2,
+      "explanation": "حَسِبَ (to think/suppose) is one of the 'verbs of the heart', similar to ظنّ, that take two objects corresponding to the subject and predicate of an underlying nominal sentence."
+    },
+    {
+      "subject": "Arabic",
+      "text": "An adjective (نعت/صفة) in Arabic must agree with the noun it describes in",
+      "options": [
+        "gender, number, case, and definiteness",
+        "case only, never in gender",
+        "gender only, never in number",
+        "definiteness only, never in case"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arabic adjectives must fully agree with the noun they modify across four features: gender, number, grammatical case, and definiteness (whether the noun is definite or indefinite)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The conjunction و (and) in Arabic grammar functions to",
+      "options": [
+        "join two words or clauses of equal grammatical status",
+        "negate the meaning of a sentence",
+        "form the plural of a noun",
+        "introduce a question"
+      ],
+      "correctIndex": 0,
+      "explanation": "The conjunction و (waw, meaning 'and') links two or more words, phrases, or clauses that share the same grammatical function or status."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In the sentence 'جَاءَ الطَّالِبُ نَفْسُهُ' (The student himself came), the word نَفْسُهُ functions as a device of",
+      "options": [
+        "negation, denying that the student came",
+        "emphasis (توكيد), stressing that the student personally came",
+        "pluralization of the subject",
+        "question formation"
+      ],
+      "correctIndex": 1,
+      "explanation": "نَفْسُهُ ('himself') here serves as an emphatic appositive (توكيد معنوي), reinforcing that it was indeed the student in person who came."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Arabic preposition في generally corresponds to which English preposition?",
+      "options": [
+        "under",
+        "on",
+        "before",
+        "in"
+      ],
+      "correctIndex": 3,
+      "explanation": "في is the standard Arabic preposition corresponding to 'in', used to indicate location or containment, as in في البيت (in the house)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "When the number 21 (واحد وعشرون) counts a noun in Arabic, the counted noun (تمييز) generally takes which grammatical form?",
+      "options": [
+        "Plural, in the genitive case",
+        "Plural, in the nominative case",
+        "Singular, in the accusative case",
+        "Dual, in the nominative case"
+      ],
+      "correctIndex": 2,
+      "explanation": "Numbers from 11 to 99, including compound numbers like 21, require the counted noun (تمييز) to be singular and in the accusative case."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The comparative form (اسم التفضيل) in Arabic is typically formed using which pattern?",
+      "options": [
+        "فَاعِل, as in كَاتِب (writer)",
+        "أَفْعَل, as in أَكْبَر (bigger)",
+        "مَفْعُول, as in مَكْتُوب (written)",
+        "مُفَعِّل, as in مُعَلِّم (teacher)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The comparative/superlative form in Arabic generally follows the أَفْعَل pattern, as seen in أَكْبَر (bigger/biggest, from كَبِير, big)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In the phrase أَكْبَر مَدِينَة (the biggest city), the word أَكْبَر is functioning as",
+      "options": [
+        "a relative pronoun",
+        "a preposition",
+        "a demonstrative pronoun",
+        "a superlative, meaning 'the biggest'"
+      ],
+      "correctIndex": 3,
+      "explanation": "أَكْبَر here functions as a superlative adjective, meaning 'biggest', describing مَدِينَة (city) as the largest among a group."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The word مَكْتَب (office/desk) is an example of which type of noun derivative?",
+      "options": [
+        "Noun of instrument (اسم الآلة)",
+        "Noun of time (اسم الزمان) only",
+        "A broken plural",
+        "Noun of place (اسم المكان), derived from the root ك ت ب meaning 'to write'"
+      ],
+      "correctIndex": 3,
+      "explanation": "مَكْتَب is a noun of place (اسم المكان), derived from the root ك ت ب ('to write'), denoting the place where writing/office work occurs."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The word مِفْتَاح (key) is a classic example of which type of noun derivative?",
+      "options": [
+        "A comparative form (اسم تفضيل)",
+        "Noun of instrument (اسم الآلة), denoting a tool used to perform an action",
+        "Noun of place (اسم المكان)",
+        "Noun of time (اسم الزمان)"
+      ],
+      "correctIndex": 1,
+      "explanation": "مِفْتَاح follows the مِفْعَال pattern typical of nouns of instrument (اسم الآلة), denoting the tool used to open/unlock, derived from فتح (to open)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic grammar, the direct object (مفعول به) of a verb is placed in which grammatical case?",
+      "options": [
+        "No specific case is required",
+        "The nominative case (الرفع)",
+        "The genitive case (الجر)",
+        "The accusative case (النصب)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The direct object (مفعول به) of a transitive verb is placed in the accusative case (نصب), one of the primary functions of this case in Arabic syntax."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The word أَمَامَ (in front of) functions grammatically in Arabic as",
+      "options": [
+        "a relative pronoun",
+        "an adverb of place (ظرف مكان), taking the accusative case",
+        "a demonstrative pronoun",
+        "an adverb of time (ظرف زمان)"
+      ],
+      "correctIndex": 1,
+      "explanation": "أَمَامَ ('in front of') is an adverb of place (ظرف مكان), a noun that takes the accusative case to indicate spatial location relative to the action of the verb."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The word صَبَاحاً (in the morning) functions grammatically in Arabic as",
+      "options": [
+        "a relative pronoun",
+        "a noun of instrument (اسم الآلة)",
+        "an adverb of place (ظرف مكان)",
+        "an adverb of time (ظرف زمان), in the accusative case"
+      ],
+      "correctIndex": 3,
+      "explanation": "صَبَاحاً ('in the morning') is an adverb of time (ظرف زمان), appearing in the accusative case to indicate when an action takes place."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The circumstantial accusative (الحال) in Arabic grammar is used to describe",
+      "options": [
+        "the state or condition of the subject or object at the time of the action, taking the accusative case",
+        "a question about time",
+        "the possessive relationship between two nouns",
+        "the plural form of a broken noun"
+      ],
+      "correctIndex": 0,
+      "explanation": "الحال (the circumstantial accusative) describes the state or manner of the doer or object during the occurrence of the action, and is grammatically marked with the accusative case."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The conditional particle لَوْ differs from إذا/إنْ mainly in that لَوْ is typically used for",
+      "options": [
+        "a simple yes/no question",
+        "a direct command",
+        "a condition that is certain to happen in the future",
+        "an impossible or unlikely condition, often referring to the past"
+      ],
+      "correctIndex": 3,
+      "explanation": "لَوْ is generally used to express hypothetical or counterfactual conditions, often about the past, that did not actually occur, unlike إذا/إنْ, which are used for more likely or open conditions."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Grammatically, the Arabic numeral اثنان (two) behaves as",
+      "options": [
+        "a dual form, agreeing with dual nouns",
+        "a broken plural",
+        "a sound feminine plural",
+        "an indeclinable particle"
+      ],
+      "correctIndex": 0,
+      "explanation": "اثنان (two) is itself treated grammatically as a dual form, and the noun it counts is typically also expressed in the dual, agreeing accordingly."
+    },
+    {
+      "subject": "Arabic",
+      "text": "When numbers from 11 to 99 count a noun in Arabic, the counted noun (تمييز) generally appears as",
+      "options": [
+        "plural, in the nominative case",
+        "dual, in the nominative case",
+        "plural, in the genitive case",
+        "singular, in the accusative case"
+      ],
+      "correctIndex": 3,
+      "explanation": "Numbers from 11 to 99 require the counted noun to be singular and in the accusative case, differing from the rules governing numbers 3-10 (plural genitive) and 1-2 (agreement in gender/number)."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which expression would be most appropriate in Arabic composition for offering a sincere apology?",
+      "options": [
+        "مبروك عليك",
+        "إلى اللقاء",
+        "أنا آسف جداً",
+        "بالتوفيق"
+      ],
+      "correctIndex": 2,
+      "explanation": "'أنا آسف جداً' (I am very sorry) is the standard, appropriate expression for offering a sincere apology in Arabic."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Arabic proverb 'لكل جواد كبوة' is commonly used, including in sports contexts, to mean",
+      "options": [
+        "even a skilled person may occasionally stumble or make a mistake",
+        "horses are the fastest animals",
+        "victory always belongs to the strongest team",
+        "only weak people ever fail"
+      ],
+      "correctIndex": 0,
+      "explanation": "'لكل جواد كبوة' (literally, 'every steed has its stumble') is a proverb meaning that even the most skilled or accomplished person can occasionally falter."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which expression would be most appropriate for wishing someone a quick recovery from illness?",
+      "options": [
+        "أتمنى لك الشفاء العاجل",
+        "أتمنى لك عيداً سعيداً",
+        "أتمنى لك رحلة سعيدة",
+        "أتمنى لك النجاح في الامتحان"
+      ],
+      "correctIndex": 0,
+      "explanation": "'أتمنى لك الشفاء العاجل' (I wish you a speedy recovery) is the standard expression used when wishing someone well regarding their health."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic composition about politics, the phrase 'الديمقراطية حكم الشعب' would most appropriately be used to express that",
+      "options": [
+        "democracy is the rule/governance of the people",
+        "elections are unnecessary in government",
+        "the military should always govern the country",
+        "democracy means rule by a single king"
+      ],
+      "correctIndex": 0,
+      "explanation": "'الديمقراطية حكم الشعب' means 'Democracy is the rule of the people', a common definitional phrase used in Arabic writing on political topics."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Arabic proverb 'الوقاية خير من العلاج' is commonly used in health-related communication to mean",
+      "options": [
+        "prevention is better than cure",
+        "doctors know everything about illness",
+        "medicine is more expensive than food",
+        "illness cannot be prevented at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "'الوقاية خير من العلاج' translates as 'prevention is better than cure', a widely used proverb in health and wellness communication."
+    },
+    {
+      "subject": "Arabic",
+      "text": "When writing about culture (الثقافة) in Arabic composition, which vocabulary would be most essential?",
+      "options": [
+        "عادات وتقاليد (customs and traditions)",
+        "آلات وأدوات صناعية (industrial machines and tools)",
+        "أرقام ومعادلات (numbers and equations)",
+        "قوانين المرور (traffic laws)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Writing about culture typically requires vocabulary related to 'عادات وتقاليد' (customs and traditions), core concepts in describing a society's cultural life."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The standard Arabic greeting used when meeting someone in the morning is",
+      "options": [
+        "مع السلامة",
+        "مساء الخير",
+        "تصبح على خير",
+        "صباح الخير"
+      ],
+      "correctIndex": 3,
+      "explanation": "'صباح الخير' (good morning) is the standard greeting exchanged when meeting someone in the morning, distinct from evening or farewell expressions."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The appropriate response to the greeting 'صباح الخير' is typically",
+      "options": [
+        "إلى اللقاء",
+        "صباح النور",
+        "مساء الخير",
+        "مع السلامة"
+      ],
+      "correctIndex": 1,
+      "explanation": "'صباح النور' (morning of light) is the customary reply to 'صباح الخير' (good morning), forming a common conversational exchange."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic composition about sports, which set of vocabulary would be most relevant?",
+      "options": [
+        "مستشفى، دواء، مريض (hospital, medicine, patient)",
+        "مطبخ، طعام، ملعقة (kitchen, food, spoon)",
+        "مباراة، فريق، هدف (match, team, goal)",
+        "برلمان، قانون، وزير (parliament, law, minister)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Writing about sports relies on vocabulary such as 'مباراة' (match), 'فريق' (team), and 'هدف' (goal), directly relevant to describing sporting events."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Arabic saying 'العقل السليم في الجسم السليم' is commonly used in health-related discussions to mean",
+      "options": [
+        "illness affects only the body, never the mind",
+        "a sound mind resides in a sound body",
+        "physical exercise damages the mind",
+        "the mind is more important than the body"
+      ],
+      "correctIndex": 1,
+      "explanation": "'العقل السليم في الجسم السليم' translates as 'a sound mind in a sound body', a well-known saying linking physical health to mental well-being."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Which expression is most appropriate for congratulating someone in Arabic, for example after passing an exam?",
+      "options": [
+        "مبروك / تهانينا",
+        "لا بأس",
+        "مع السلامة",
+        "أنا آسف"
+      ],
+      "correctIndex": 0,
+      "explanation": "'مبروك' or 'تهانينا' (congratulations) are the standard expressions used to congratulate someone on an achievement, such as passing an exam."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Arabic proverb 'الجار قبل الدار' is commonly used in social/cultural contexts to emphasize",
+      "options": [
+        "that houses are more valuable than neighbours",
+        "that moving house frequently is beneficial",
+        "the importance of having good neighbours, even before choosing a house",
+        "that one should never trust a neighbour"
+      ],
+      "correctIndex": 2,
+      "explanation": "'الجار قبل الدار' (literally, 'the neighbour before the house') is a proverb emphasizing that good neighbours matter more than the house itself when choosing where to live, reflecting social values."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Imru' al-Qais, one of the most celebrated Pre-Islamic Arab poets, is particularly renowned for",
+      "options": [
+        "compiling the Qur'an into a single text",
+        "founding the Abbasid dynasty",
+        "leading the Sokoto Jihad in West Africa",
+        "his Mu'allaqa beginning 'قفا نبك', considered a masterpiece of pre-Islamic ode poetry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Imru' al-Qais is celebrated as one of the greatest Pre-Islamic poets, famous for his Mu'allaqa opening with the line 'قفا نبك', regarded as a foundational masterpiece of classical Arabic poetry."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Antarah ibn Shaddad, a poet of the Mu'allaqat collection, is particularly known for poetry combining themes of",
+      "options": [
+        "20th-century nationalist politics",
+        "modern industrial technology",
+        "chivalry, warfare, and romantic love",
+        "West African Islamic jurisprudence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antarah ibn Shaddad, a celebrated Pre-Islamic warrior-poet, is renowned for combining themes of chivalry and battle with romantic devotion, notably to his beloved Abla."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Al-Farazdaq, a prominent Umayyad-era poet, is particularly remembered for his",
+      "options": [
+        "compilation of Hadith literature",
+        "career as a modern Egyptian novelist",
+        "role as a Rightly Guided Caliph",
+        "long poetic rivalry (naqa'id) with the poet Jarir"
+      ],
+      "correctIndex": 3,
+      "explanation": "Al-Farazdaq is remembered chiefly for his fierce and enduring poetic rivalry (naqa'id) with fellow Umayyad poet Jarir, a hallmark of early Islamic-era Arabic poetry."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Hassan ibn Thabit, a poet of the early Islamic period, is often referred to by which honorific title?",
+      "options": [
+        "The Dean of Arabic Literature (عميد الأدب العربي)",
+        "The Poet of the Prophet (شاعر الرسول)",
+        "The Father of Modern Poetry",
+        "The Prince of Poets (أمير الشعراء)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hassan ibn Thabit is traditionally known as 'شاعر الرسول' (the Poet of the Prophet), owing to his poetry composed in defence of Islam and Prophet Muhammad."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Abu Nuwas, a well-known poet of the Abbasid period, is particularly famous for his",
+      "options": [
+        "wine poetry (khamriyyat) and witty, often unconventional verse",
+        "compilation of the earliest Mu'allaqat",
+        "leadership of the Sokoto Caliphate",
+        "role as a Rightly Guided Caliph"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abu Nuwas is celebrated in Abbasid-era Arabic literature for his khamriyyat (wine poetry) and generally witty, unconventional poetic style."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Al-Mutanabbi, widely regarded as one of the greatest Arab poets, is particularly known for his",
+      "options": [
+        "career as a 20th-century novelist",
+        "powerful panegyric (praise) poetry and expressions of personal pride and ambition",
+        "role as a West African Islamic scholar",
+        "compilation of Hadith collections"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al-Mutanabbi, an Abbasid-era poet, is renowned for his eloquent panegyric poetry praising patrons, as well as verses expressing strong personal pride and ambition."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Taha Hussein, a major figure of modern Arabic literature, is often given which honorific title?",
+      "options": [
+        "The Father of Naqa'id Poetry",
+        "The Dean of Arabic Literature (عميد الأدب العربي)",
+        "The Prince of Poets",
+        "The Poet of the Prophet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taha Hussein, a blind Egyptian writer and scholar, earned the honorific 'عميد الأدب العربي' (Dean of Arabic Literature) for his profound influence on modern Arabic literary and intellectual life."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Naguib Mahfouz, a towering figure of modern Arabic literature, is particularly notable as",
+      "options": [
+        "a Pre-Islamic warrior poet",
+        "an Egyptian novelist and the first Arabic-language writer to win the Nobel Prize in Literature",
+        "a West African Islamic scholar",
+        "one of the Rightly Guided Caliphs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Naguib Mahfouz was a prolific Egyptian novelist whose acclaimed works, including the Cairo Trilogy, earned him the 1988 Nobel Prize in Literature, the first for an Arabic-language writer."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Uthman dan Fodio, a central figure in West African Arabic literary and religious history, is best known as",
+      "options": [
+        "one of the Rightly Guided Caliphs",
+        "an Egyptian Nobel laureate novelist",
+        "a Pre-Islamic Arabian poet",
+        "the leader of the Sokoto Jihad and a prolific Arabic scholarly writer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uthman dan Fodio led the Sokoto Jihad in what is now Northern Nigeria and produced a substantial body of Arabic-language scholarly and religious writings, foundational to West African Arabic literature."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Muhammad Bello, a notable figure of West African Arabic scholarship, is particularly recognised as",
+      "options": [
+        "a Pre-Islamic Arabian poet",
+        "the son of Uthman dan Fodio and a prominent scholar of the Sokoto Caliphate",
+        "a modern Egyptian novelist",
+        "one of the Rightly Guided Caliphs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muhammad Bello, son of Uthman dan Fodio, was a distinguished scholar and later Caliph of Sokoto, contributing significantly to Arabic scholarship in the region."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Al-Hariri, a classical Arabic writer, is particularly celebrated for his contribution to which literary genre?",
+      "options": [
+        "The Mu'allaqat odes of the Pre-Islamic era",
+        "West African Islamic jurisprudence",
+        "The Maqamat, a genre of rhymed prose narrative",
+        "Modern Arabic free verse poetry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Al-Hariri is best known for his Maqamat, a celebrated collection of rhymed-prose narrative episodes showcasing eloquence, wit, and linguistic virtuosity."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Ibn al-Muqaffa, a notable Abbasid-era literary figure, is particularly remembered for",
+      "options": [
+        "leading the Sokoto Jihad",
+        "composing the Mu'allaqat odes",
+        "winning the Nobel Prize in Literature",
+        "translating and adapting 'Kalila wa Dimna' into elegant Arabic prose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ibn al-Muqaffa is renowned for his elegant Arabic prose translation and adaptation of 'Kalila wa Dimna', a collection of animal fables, significantly enriching Abbasid-era Arabic literature."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The term 'Maqama' in classical Arabic literature refers to",
+      "options": [
+        "a West African Islamic legal ruling",
+        "a type of modern Arabic newspaper article",
+        "a genre of narrative prose characterised by rhymed, ornate language (saj') and eloquence",
+        "a form of Pre-Islamic oral poetry only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Maqama is a distinctive genre of classical Arabic literature featuring rhymed prose (saj') and displays of rhetorical eloquence, most famously developed by writers such as Al-Hariri."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Nahda, a significant movement in the history of modern Arabic literature, refers to",
+      "options": [
+        "the compilation of the Qur'an",
+        "the earliest period of Pre-Islamic oral poetry",
+        "the 19th-century Arab literary and cultural renaissance, reviving classical heritage while engaging with European influences",
+        "the founding of the Sokoto Caliphate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Nahda refers to the 19th-century Arab renaissance, a pivotal movement that revived classical Arabic literary traditions while incorporating new influences from European literature, marking the start of the modern period."
+    },
+    {
+      "subject": "Arabic",
+      "text": "When someone sneezes and says 'الحمد لله' (praise be to God), the customary Arabic response from those present is",
+      "options": [
+        "يرحمكم الله (May God have mercy on you)",
+        "بالتوفيق (Good luck)",
+        "مع السلامة (Goodbye)",
+        "صباح الخير (Good morning)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The customary social response to a sneezer's 'الحمد لله' is 'يرحمكم الله' (May God have mercy on you), a well-established convention of everyday Arabic communication."
+    },
+    {
+      "subject": "Arabic",
+      "text": "In Arabic composition, which phrase is most appropriate for introducing the concluding paragraph of a persuasive essay?",
+      "options": [
+        "على سبيل المثال (For example)",
+        "في البداية (In the beginning)",
+        "في الختام (In conclusion)",
+        "بالإضافة إلى ذلك (In addition to that)"
+      ],
+      "correctIndex": 2,
+      "explanation": "'في الختام' (in conclusion) is the standard transitional phrase used to introduce the final, summarizing paragraph of a persuasive or argumentative essay in Arabic."
+    },
+    {
+      "subject": "Arabic",
+      "text": "The Arabic proverb 'الصديق وقت الضيق' is commonly used in everyday social communication to mean",
+      "options": [
+        "wealth is more valuable than friendship",
+        "one should avoid making friends altogether",
+        "a true friend is the one who stands by you in times of hardship",
+        "friends should only be trusted during happy occasions"
+      ],
+      "correctIndex": 2,
+      "explanation": "'الصديق وقت الضيق' (literally, 'the friend is at the time of difficulty') is a proverb meaning that a true friend reveals himself through loyalty during hardship, equivalent to 'a friend in need is a friend indeed'."
+    },
+    {
+      "subject": "Arabic",
+      "text": "Al-Khansa, a celebrated Pre-Islamic and early Islamic-era Arab poetess, is particularly renowned for her",
+      "options": [
+        "career as a modern Egyptian novelist",
+        "compilation of the Maqamat genre",
+        "role as one of the Rightly Guided Caliphs",
+        "elegiac poetry (ritha'), especially her laments mourning her brothers Sakhr and Mu'awiya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Al-Khansa is one of the most celebrated Arab poetesses, famous for her masterful elegiac poetry (ritha'), particularly the moving laments composed for her slain brothers Sakhr and Mu'awiya."
+    }
+  ]
+}

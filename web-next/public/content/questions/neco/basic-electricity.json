@@ -1,0 +1,1206 @@
+{
+  "subject": "Basic Electricity",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Basic Electricity",
+      "text": "The positively charged particle found in the nucleus of an atom is called the",
+      "options": [
+        "proton",
+        "ion",
+        "electron",
+        "neutron"
+      ],
+      "correctIndex": 0,
+      "explanation": "The proton is a positively charged particle located within the atomic nucleus."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The neutral (uncharged) particle found in the nucleus of an atom, alongside protons, is called the",
+      "options": [
+        "neutron",
+        "electron",
+        "proton",
+        "ion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Neutrons carry no electrical charge and, together with protons, make up the nucleus of an atom."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The negatively charged particle that orbits the nucleus of an atom, and whose movement constitutes electric current, is called the",
+      "options": [
+        "neutron",
+        "proton",
+        "electron",
+        "ion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electrons are negatively charged particles orbiting the nucleus; the directed movement of free electrons constitutes electric current."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Electrons in the outermost shell of an atom that are loosely bound and can move relatively freely between atoms are called",
+      "options": [
+        "bound electrons",
+        "neutrons",
+        "free electrons",
+        "protons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Free electrons are loosely bound outer-shell electrons capable of moving between atoms, enabling the flow of electric current in conductors."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The fundamental electrical quantity representing a surplus or deficiency of electrons, measured in coulombs, is called",
+      "options": [
+        "electric charge (Q)",
+        "current (I)",
+        "voltage (V)",
+        "resistance (R)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Electric charge (Q), measured in coulombs, quantifies the surplus or deficiency of electrons possessed by a body or particle."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The rate of flow of electric charge past a given point in a circuit is called",
+      "options": [
+        "voltage (V)",
+        "charge (Q)",
+        "current (I)",
+        "resistance (R)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Current (I) measures the rate at which electric charge flows past a point in a circuit, conventionally measured in amperes."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The electrical quantity that represents the difference in electric potential energy between two points, driving current through a circuit, is called",
+      "options": [
+        "current (I)",
+        "voltage (potential difference, V)",
+        "resistance (R)",
+        "charge (Q)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voltage (potential difference) represents the energy difference per unit charge between two points, providing the 'push' that drives current."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The electrical quantity that describes a material's opposition to the flow of electric current is called",
+      "options": [
+        "current (I)",
+        "resistance (R)",
+        "electromotive force",
+        "voltage (V)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resistance (R), measured in ohms, quantifies how strongly a material opposes the flow of electric current."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The energy supplied per unit charge by a source, such as a battery, to drive current around a complete circuit is called the",
+      "options": [
+        "terminal voltage",
+        "resistance",
+        "electromotive force (emf)",
+        "current"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electromotive force (emf) is the total energy supplied per unit charge by a source, distinct from terminal voltage, which accounts for internal losses."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Ohm's Law states that, at constant temperature, the current flowing through a conductor is",
+      "options": [
+        "independent of both voltage and resistance",
+        "directly proportional to both voltage and resistance",
+        "directly proportional to the voltage across it and inversely proportional to its resistance",
+        "inversely proportional to both voltage and resistance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ohm's Law (V = IR) states that current is directly proportional to voltage and inversely proportional to resistance, at constant temperature."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "According to Ohm's Law, if the voltage across a resistor is doubled while its resistance remains constant, the current will",
+      "options": [
+        "halve",
+        "remain the same",
+        "double",
+        "quadruple"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since current is directly proportional to voltage (I = V/R), doubling the voltage while keeping resistance constant doubles the current."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The resistance of a conductor is generally directly proportional to its",
+      "options": [
+        "applied voltage",
+        "length",
+        "temperature decrease",
+        "cross-sectional area"
+      ],
+      "correctIndex": 1,
+      "explanation": "A longer conductor offers more opposition to current flow, making resistance directly proportional to length."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The resistance of a conductor is generally inversely proportional to its",
+      "options": [
+        "length",
+        "resistivity",
+        "applied voltage",
+        "cross-sectional area"
+      ],
+      "correctIndex": 3,
+      "explanation": "A conductor with a larger cross-sectional area provides more paths for current flow, reducing resistance; hence resistance is inversely proportional to area."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The property of a specific material that determines how strongly it resists the flow of electric current, independent of its physical dimensions, is called",
+      "options": [
+        "resistivity",
+        "inductance",
+        "conductance",
+        "capacitance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Resistivity is an intrinsic material property describing its inherent opposition to current flow, distinct from resistance which also depends on dimensions."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "For most conductors, an increase in temperature generally causes their resistance to",
+      "options": [
+        "increase",
+        "remain exactly constant",
+        "decrease",
+        "become zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Most metallic conductors experience increased resistance as temperature rises, due to increased atomic vibration impeding electron flow."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a series circuit, the current flowing through each component is",
+      "options": [
+        "only present at the battery",
+        "different at each component",
+        "zero at every point",
+        "the same throughout the circuit"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a series circuit, there is only one path for current, so the same current flows through every component."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a series circuit, the total resistance is calculated as",
+      "options": [
+        "the product of all individual resistances",
+        "the sum of all individual resistances",
+        "always equal to the smallest individual resistance",
+        "the reciprocal of the sum of reciprocals of individual resistances"
+      ],
+      "correctIndex": 1,
+      "explanation": "Series circuit total resistance is simply the sum of each individual resistor's value, since current must pass through all of them sequentially."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a parallel circuit, the voltage across each branch is",
+      "options": [
+        "always zero",
+        "the same as the total supply voltage",
+        "equal to the sum of all branch voltages",
+        "different for each branch depending on its resistance"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a parallel circuit, all branches share the same voltage, equal to the total supply voltage across the parallel combination."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a parallel circuit, the total resistance can be calculated using the formula",
+      "options": [
+        "1/R(total) = 1/R1 + 1/R2 + ... (reciprocal sum)",
+        "R(total) = R1 + R2 + ... (direct sum)",
+        "R(total) = R1 x R2 x ... (direct product)",
+        "R(total) is always equal to the largest resistor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parallel circuit total resistance is found using the reciprocal formula, since additional parallel paths reduce the overall resistance."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The internal resistance of a battery or cell causes the terminal voltage under load to be",
+      "options": [
+        "unrelated to the emf entirely",
+        "exactly equal to the cell's emf at all times",
+        "less than the cell's emf, due to the voltage drop across the internal resistance",
+        "greater than the cell's emf in every case"
+      ],
+      "correctIndex": 2,
+      "explanation": "Internal resistance causes a voltage drop within the cell itself, meaning the terminal voltage delivered to an external circuit is less than the emf when current flows."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Kirchhoff's Current Law (KCL) states that at any junction in a circuit, the",
+      "options": [
+        "voltage entering the junction equals the voltage leaving it",
+        "total current entering the junction equals the total current leaving it",
+        "resistance at the junction is always zero",
+        "current is always split equally regardless of resistance"
+      ],
+      "correctIndex": 1,
+      "explanation": "KCL reflects conservation of charge, stating that current entering a junction must equal the current leaving it, with no charge accumulating."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Kirchhoff's Voltage Law (KVL) states that around any closed loop in a circuit, the",
+      "options": [
+        "sum of all resistances equals the applied voltage",
+        "sum of the voltage drops equals the total applied voltage (emf)",
+        "sum of all currents equals zero",
+        "voltage is always the same at every point"
+      ],
+      "correctIndex": 1,
+      "explanation": "KVL reflects conservation of energy, stating that the sum of voltage drops around a closed loop must equal the total emf supplied to that loop."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Joule's Law of heating states that the heat generated in a resistor is proportional to",
+      "options": [
+        "the square of the resistance alone",
+        "only the voltage applied, with no dependence on current",
+        "only the resistance, regardless of current or time",
+        "the square of the current, the resistance, and the time (H = I²Rt)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Joule's Law states that heat generated equals the square of the current multiplied by resistance and time (H = I²Rt), reflecting energy dissipation in a resistor."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Electrical power can be correctly expressed using the formula",
+      "options": [
+        "P = V + I only",
+        "P = V/I only",
+        "P = V - I only",
+        "P = VI = I²R = V²/R"
+      ],
+      "correctIndex": 3,
+      "explanation": "Electrical power has several equivalent expressions, all derived by combining Ohm's Law with the basic power relationship P = VI."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The standard SI unit of electrical power is the",
+      "options": [
+        "ampere",
+        "watt",
+        "coulomb",
+        "joule"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power is measured in watts, representing the rate of energy conversion or transfer (one watt equals one joule per second)."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The standard SI unit of electrical energy is the",
+      "options": [
+        "coulomb",
+        "ampere",
+        "joule",
+        "watt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Energy is measured in joules, the fundamental SI unit representing the capacity to do work."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The unit commonly used by electricity utility companies to bill customers for energy consumption is the",
+      "options": [
+        "watt-second",
+        "joule per hour",
+        "ampere-hour only",
+        "kilowatt-hour (kWh)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Utility companies bill customers in kilowatt-hours (kWh), a practical unit of energy representing one kilowatt of power used for one hour."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "If an appliance rated at 2 kW operates for 3 hours, the energy consumed is",
+      "options": [
+        "6 kWh",
+        "5 kWh",
+        "2 kWh",
+        "3 kWh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Energy in kWh is calculated as power (kW) multiplied by time (hours): 2 kW x 3 hours = 6 kWh."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The equivalent resistance of two equal resistors, each of value R, connected in parallel, is",
+      "options": [
+        "R/2",
+        "R",
+        "4R",
+        "2R"
+      ],
+      "correctIndex": 0,
+      "explanation": "For two equal resistors R in parallel, the combined resistance is R/2, since parallel paths always reduce total resistance below the smallest individual value."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The equivalent resistance of two equal resistors, each of value R, connected in series, is",
+      "options": [
+        "2R",
+        "R/2",
+        "R",
+        "R squared"
+      ],
+      "correctIndex": 0,
+      "explanation": "For two equal resistors R in series, the total resistance is simply their sum: R + R = 2R."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "If a resistor of 10 ohms has a current of 2 amperes flowing through it, the voltage across it, according to Ohm's Law, is",
+      "options": [
+        "12 volts",
+        "20 volts",
+        "8 volts",
+        "5 volts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using V = IR: V = 2A x 10 ohms = 20 volts."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "If a circuit has a voltage of 12 volts and a resistance of 4 ohms, the current flowing through it, according to Ohm's Law, is",
+      "options": [
+        "16 amperes",
+        "48 amperes",
+        "3 amperes",
+        "8 amperes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using I = V/R: I = 12V / 4 ohms = 3 amperes."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A conductor's ability to allow the flow of electric current, the reciprocal of resistance, is called its",
+      "options": [
+        "resistivity",
+        "conductance",
+        "capacitance",
+        "inductance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Conductance is the reciprocal of resistance, describing how easily a conductor allows current to flow, measured in siemens."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An atom that has gained or lost one or more electrons, giving it an overall electric charge, is called an",
+      "options": [
+        "proton alone",
+        "isotope",
+        "neutron",
+        "ion"
+      ],
+      "correctIndex": 3,
+      "explanation": "An ion is an atom (or molecule) that carries a net electric charge due to the gain or loss of electrons."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The type of material that allows electric current to flow through it easily, due to having many free electrons, is called a",
+      "options": [
+        "conductor",
+        "insulator",
+        "dielectric",
+        "semiconductor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conductors, such as copper and aluminium, have many free electrons available to carry electric current with little resistance."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The type of material that strongly resists the flow of electric current, used to prevent unwanted current paths, is called an",
+      "options": [
+        "insulator",
+        "semiconductor only",
+        "conductor",
+        "superconductor only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insulators, such as rubber and plastic, have very few free electrons, strongly resisting current flow and providing electrical safety and isolation."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Two resistors of 6 ohms and 3 ohms connected in parallel have a combined resistance of",
+      "options": [
+        "18 ohms",
+        "4.5 ohms",
+        "2 ohms",
+        "9 ohms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using 1/R = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2, so R = 2 ohms."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Two resistors of 6 ohms and 3 ohms connected in series have a combined resistance of",
+      "options": [
+        "18 ohms",
+        "2 ohms",
+        "9 ohms",
+        "3 ohms"
+      ],
+      "correctIndex": 2,
+      "explanation": "In series, resistances simply add together: 6 ohms + 3 ohms = 9 ohms."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An electrical circuit that provides a complete, unbroken path for current to flow is described as a",
+      "options": [
+        "series circuit only",
+        "open circuit",
+        "closed circuit",
+        "short circuit"
+      ],
+      "correctIndex": 2,
+      "explanation": "A closed circuit provides an unbroken path allowing current to flow continuously around it."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An electrical circuit in which the path for current flow has been broken, preventing current from flowing, is described as an",
+      "options": [
+        "closed circuit",
+        "open circuit",
+        "short circuit",
+        "parallel circuit only"
+      ],
+      "correctIndex": 1,
+      "explanation": "An open circuit has a break in its path, such as an open switch or broken wire, preventing current from flowing."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The invisible lines used to represent the direction and strength of a magnetic field are called",
+      "options": [
+        "voltage lines",
+        "current lines",
+        "electric field lines",
+        "magnetic field lines (lines of force)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Magnetic field lines visually represent the direction and relative strength of a magnetic field around a magnet or current-carrying conductor."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A magnet that retains its magnetism without requiring an electric current is called a",
+      "options": [
+        "electromagnet",
+        "temporary magnet only",
+        "permanent magnet",
+        "induced magnet only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Permanent magnets retain their magnetic properties without needing an external electric current, unlike electromagnets."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A magnet created by passing an electric current through a coil of wire, often wound around a magnetic core, is called an",
+      "options": [
+        "induced magnet only",
+        "natural magnet",
+        "permanent magnet",
+        "electromagnet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Electromagnets generate magnetism through electric current flowing through a coil, and lose their magnetism when the current is switched off."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A coil of wire wound in a helical shape, used to produce a strong, concentrated magnetic field when current flows through it, is called a",
+      "options": [
+        "straight conductor",
+        "resistor",
+        "solenoid",
+        "capacitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "A solenoid concentrates the magnetic field produced by a current-carrying wire by winding it into a helical coil shape."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The rule used to determine the direction of the magnetic field around a straight current-carrying conductor is called the",
+      "options": [
+        "Kirchhoff's Current Law",
+        "right-hand screw rule",
+        "Fleming's left-hand rule",
+        "Lenz's Law"
+      ],
+      "correctIndex": 1,
+      "explanation": "The right-hand screw rule determines the direction of the circular magnetic field around a straight conductor, based on the direction of current flow."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The rule used to determine the direction of force (motion) experienced by a current-carrying conductor placed in a magnetic field is called",
+      "options": [
+        "right-hand screw rule",
+        "Kirchhoff's Voltage Law",
+        "Lenz's Law",
+        "Fleming's left-hand rule"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fleming's left-hand rule relates the directions of magnetic field, current, and resulting force (motion) on a current-carrying conductor, useful for motors."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Faraday's Laws of electromagnetic induction describe how a voltage (emf) is induced in a conductor when",
+      "options": [
+        "there is relative motion between the conductor and a magnetic field, causing a change in magnetic flux",
+        "current flows through a purely resistive circuit only",
+        "two resistors are connected in parallel",
+        "the conductor is stationary and no magnetic field is present"
+      ],
+      "correctIndex": 0,
+      "explanation": "Faraday's Laws state that an emf is induced in a conductor whenever it experiences a changing magnetic flux, such as through relative motion within a magnetic field."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Lenz's Law states that the direction of an induced current is always such that it",
+      "options": [
+        "reinforces and strengthens the change in magnetic flux",
+        "has no relationship to the inducing magnetic flux",
+        "flows only in direct current circuits",
+        "opposes the change in magnetic flux that produced it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lenz's Law reflects conservation of energy, stating that induced current always flows in a direction that opposes the very change in flux that created it."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The phenomenon in which a changing current in a coil induces an emf within that same coil is called",
+      "options": [
+        "mutual induction",
+        "electrostatic induction",
+        "resistive induction",
+        "self-induction"
+      ],
+      "correctIndex": 3,
+      "explanation": "Self-induction occurs when a coil's own changing current induces an emf within itself, opposing the change (as per Lenz's Law)."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The phenomenon in which a changing current in one coil induces an emf in a nearby, separate coil is called",
+      "options": [
+        "electrostatic induction",
+        "self-induction",
+        "resistive induction",
+        "mutual induction"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mutual induction occurs when a changing current in one coil induces an emf in a separate, nearby coil, the principle underlying transformers."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An alternating current (AC) is generally characterised by a current or voltage that",
+      "options": [
+        "remains at a fixed, unchanging value at all times",
+        "periodically reverses direction, typically following a sinusoidal waveform",
+        "cannot be generated using rotating machinery",
+        "flows only in one constant direction"
+      ],
+      "correctIndex": 1,
+      "explanation": "AC is characterised by current or voltage that regularly reverses direction, commonly following a smooth sinusoidal pattern over time."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The maximum instantaneous value reached by an alternating voltage or current during a cycle is called its",
+      "options": [
+        "peak value",
+        "average value",
+        "rms value",
+        "frequency"
+      ],
+      "correctIndex": 0,
+      "explanation": "The peak value is the highest instantaneous magnitude reached by an AC waveform during each cycle."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The value of an alternating current that would produce the same heating effect as an equivalent direct current is called its",
+      "options": [
+        "peak value",
+        "period",
+        "average value",
+        "root-mean-square (rms) value"
+      ],
+      "correctIndex": 3,
+      "explanation": "The rms value represents the equivalent DC value that would produce the same heating (power) effect as the alternating waveform."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "For a pure sine wave, the relationship between the rms value and the peak value is given by",
+      "options": [
+        "Vrms = Vpeak x sqrt(2)",
+        "Vrms = Vpeak",
+        "Vrms = Vpeak x 2",
+        "Vrms = Vpeak / sqrt(2)"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a sinusoidal waveform, the rms value equals the peak value divided by the square root of two (approximately 0.707 times the peak value)."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The number of complete cycles of an alternating waveform occurring per second is called its",
+      "options": [
+        "frequency (f)",
+        "period (T)",
+        "peak value",
+        "rms value"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frequency, measured in hertz (Hz), describes how many complete AC cycles occur every second."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The time taken to complete one full cycle of an alternating waveform is called its",
+      "options": [
+        "peak value",
+        "rms value",
+        "period (T)",
+        "frequency (f)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The period is the time duration of a single complete cycle of an AC waveform, and is the reciprocal of frequency (T = 1/f)."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a purely resistive AC circuit, the current and voltage waveforms are",
+      "options": [
+        "90 degrees out of phase, with voltage leading",
+        "180 degrees out of phase",
+        "90 degrees out of phase, with current leading",
+        "in phase with each other"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a purely resistive circuit, current and voltage reach their peaks and zero points simultaneously, meaning they are in phase."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a purely inductive AC circuit, the current",
+      "options": [
+        "lags behind the voltage by 90 degrees",
+        "is always zero regardless of voltage",
+        "is exactly in phase with the voltage",
+        "leads the voltage by 90 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a purely inductive circuit, the current lags the applied voltage by a quarter cycle (90 degrees) due to the inductor's opposition to changing current."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "In a purely capacitive AC circuit, the current",
+      "options": [
+        "lags behind the voltage by 90 degrees",
+        "is exactly in phase with the voltage",
+        "leads the voltage by 90 degrees",
+        "is always zero regardless of voltage"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a purely capacitive circuit, the current leads the applied voltage by a quarter cycle (90 degrees) as the capacitor charges and discharges."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The total opposition to current flow in an AC circuit, combining both resistance and reactance, is called",
+      "options": [
+        "impedance (Z)",
+        "resistance (R) alone",
+        "conductance",
+        "reactance (X) alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Impedance (Z) represents the total opposition to AC current flow, combining both resistive and reactive components in an AC circuit."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The power factor of an AC circuit describes the",
+      "options": [
+        "ratio of real (useful) power to apparent power in the circuit",
+        "frequency of the AC supply only",
+        "total resistance of the circuit only",
+        "total inductance of the circuit only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Power factor indicates how effectively an AC circuit converts supplied (apparent) power into real, useful power, influenced by the phase relationship between current and voltage."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Around a current-carrying straight conductor, the magnetic field lines form a pattern of",
+      "options": [
+        "straight parallel lines along the conductor",
+        "no discernible pattern at all",
+        "a single line directly through the conductor",
+        "concentric circles around the conductor"
+      ],
+      "correctIndex": 3,
+      "explanation": "The magnetic field produced by a straight current-carrying conductor forms concentric circles centred on the conductor, as described by the right-hand screw rule."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Within a solenoid carrying current, the magnetic field produced closely resembles that of a",
+      "options": [
+        "capacitor's electric field",
+        "bar magnet, with distinct north and south poles",
+        "resistor's heat pattern",
+        "single straight conductor only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A current-carrying solenoid produces a magnetic field pattern very similar to that of a bar magnet, complete with distinct north and south poles."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Like magnetic poles (for example, two north poles) placed near each other will",
+      "options": [
+        "repel each other",
+        "attract each other",
+        "have no effect on each other",
+        "instantly merge into one pole"
+      ],
+      "correctIndex": 0,
+      "explanation": "Like magnetic poles repel one another, while unlike poles (north and south) attract, a fundamental property of magnetism."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Unlike magnetic poles (a north pole and a south pole) placed near each other will",
+      "options": [
+        "repel each other",
+        "cancel out completely with no field remaining",
+        "attract each other",
+        "have no effect on each other"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike magnetic poles attract one another, a fundamental principle underlying the behaviour of magnets."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The strength of the magnetic field produced by a solenoid can generally be increased by",
+      "options": [
+        "using thicker insulation on the wire only",
+        "increasing the current or the number of turns in the coil",
+        "decreasing the current flowing through it",
+        "removing the coil's core entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "A solenoid's magnetic field strength increases with greater current and a greater number of coil turns, and can be further boosted with a suitable magnetic core."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A step-up transformer is designed to",
+      "options": [
+        "convert AC to DC directly",
+        "decrease the voltage from primary to secondary winding",
+        "increase the voltage from primary to secondary winding",
+        "keep the voltage exactly the same on both windings"
+      ],
+      "correctIndex": 2,
+      "explanation": "A step-up transformer has more turns on its secondary winding than its primary, increasing the output voltage relative to the input."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A step-down transformer is designed to",
+      "options": [
+        "convert DC to AC directly",
+        "decrease the voltage from primary to secondary winding",
+        "keep the voltage exactly the same on both windings",
+        "increase the voltage from primary to secondary winding"
+      ],
+      "correctIndex": 1,
+      "explanation": "A step-down transformer has fewer turns on its secondary winding than its primary, decreasing the output voltage relative to the input."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Transformers rely fundamentally on the principle of",
+      "options": [
+        "self-induction within a single isolated coil only",
+        "mutual induction between the primary and secondary windings",
+        "resistive heating within the windings",
+        "permanent magnetism with no changing current"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transformers operate through mutual induction, where a changing current in the primary winding induces a voltage in the separate secondary winding."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A typical household electricity supply frequency in many countries, including Nigeria, is",
+      "options": [
+        "100 Hz",
+        "50 Hz",
+        "25 Hz",
+        "60 Hz only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria and many other countries use a standard AC supply frequency of 50 Hz, though some countries (such as the United States) use 60 Hz."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A wiring system in which cables are run visibly along the surface of walls and ceilings, typically clipped in place, is called",
+      "options": [
+        "surface wiring",
+        "trunking wiring only",
+        "conduit wiring",
+        "underground wiring"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surface wiring runs cables visibly along walls or ceilings, clipped directly to the surface rather than concealed within it."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A wiring system in which cables are protected and routed through rigid or flexible tubes, either plastic or metallic, is called",
+      "options": [
+        "surface wiring",
+        "bare wiring",
+        "conduit wiring",
+        "trunking wiring"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conduit wiring routes cables through protective tubing (PVC or metallic), offering mechanical protection and a route for future rewiring."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A wiring system using rectangular ducting, often used to carry multiple cables together along a common route, is called a",
+      "options": [
+        "underground cabling system",
+        "surface wiring system",
+        "trunking system",
+        "conduit system"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trunking systems use rectangular ducting to carry and organise multiple cables together along shared routes, common in commercial installations."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A switch that controls a light or circuit from only one location is called a",
+      "options": [
+        "two-way switch",
+        "one-way switch",
+        "socket outlet",
+        "intermediate switch"
+      ],
+      "correctIndex": 1,
+      "explanation": "A one-way switch simply turns a circuit on or off from a single control point."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A switch designed to work in pairs, allowing a light to be controlled from two separate locations (such as the top and bottom of a staircase), is called a",
+      "options": [
+        "one-way switch",
+        "intermediate switch",
+        "socket outlet",
+        "two-way switch"
+      ],
+      "correctIndex": 3,
+      "explanation": "Two-way switches are wired in pairs, enabling control of the same light from two different switch locations."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A switch used together with two-way switches to allow control of a light from three or more locations is called an",
+      "options": [
+        "intermediate switch",
+        "one-way switch",
+        "isolator switch only",
+        "two-way switch alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Intermediate switches are added between two two-way switches, extending control of a circuit to three or more separate switching locations."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A fixed point in a wiring installation, fitted with contacts, into which a plug is inserted to connect an appliance is called a",
+      "options": [
+        "socket outlet",
+        "distribution box",
+        "switch",
+        "consumer unit only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A socket outlet provides the connection point where a plug is inserted to supply power to an appliance."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The point in an electrical installation where the main supply is divided into separate circuits, each protected by its own fuse or breaker, is called the",
+      "options": [
+        "distribution board (box)",
+        "socket outlet",
+        "solenoid",
+        "switch"
+      ],
+      "correctIndex": 0,
+      "explanation": "The distribution board (consumer unit) divides the incoming supply into individual circuits, each with its own protective device."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A safety device containing a thin wire designed to melt and break the circuit when current exceeds a safe level is called a",
+      "options": [
+        "socket outlet",
+        "miniature circuit breaker (MCB)",
+        "earth leakage circuit breaker (ELCB)",
+        "rewireable fuse"
+      ],
+      "correctIndex": 3,
+      "explanation": "A rewireable fuse contains a thin fuse wire that melts (breaks) when current exceeds a safe level, requiring the wire to be replaced after operation."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A safety device consisting of a sealed unit containing a fuse element, replaced as a complete unit when it operates, is called a",
+      "options": [
+        "rewireable fuse",
+        "ELCB",
+        "cartridge fuse",
+        "MCB"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cartridge fuse is a sealed, factory-made unit that must be replaced entirely once it has operated, unlike a rewireable fuse whose wire alone is replaced."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A fuse specifically designed to safely interrupt very high fault currents without shattering or causing further damage is called a",
+      "options": [
+        "rewireable fuse only",
+        "high-breaking-capacity (HBC) fuse",
+        "MCB only",
+        "ELCB only"
+      ],
+      "correctIndex": 1,
+      "explanation": "HBC (high-breaking-capacity) fuses are designed to safely interrupt very high fault currents, an important safety feature in higher-power installations."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A resettable protective switch that automatically trips to disconnect a circuit when current exceeds a preset safe level is called a",
+      "options": [
+        "miniature circuit breaker (MCB)",
+        "socket outlet",
+        "cartridge fuse",
+        "rewireable fuse"
+      ],
+      "correctIndex": 0,
+      "explanation": "An MCB automatically trips (switches off) when current exceeds a safe threshold, and can simply be reset once the fault is cleared, unlike a fuse which must be replaced."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A protective device that disconnects a circuit upon detecting a small leakage of current to earth, protecting against electric shock, is called an",
+      "options": [
+        "cartridge fuse only",
+        "MCB only",
+        "rewireable fuse only",
+        "earth leakage circuit breaker (ELCB)"
+      ],
+      "correctIndex": 3,
+      "explanation": "An ELCB (or modern RCD) detects small current leakages to earth, which can indicate a fault posing a shock hazard, and rapidly disconnects the circuit for safety."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The purpose of earthing an electrical installation is primarily to",
+      "options": [
+        "eliminate the need for any circuit protection devices",
+        "provide a safe path for fault current, reducing the risk of electric shock",
+        "reduce the total resistance of all circuits equally",
+        "increase the overall voltage of the supply"
+      ],
+      "correctIndex": 1,
+      "explanation": "Earthing provides a low-resistance path for fault current to flow safely to earth, helping protective devices operate quickly and reducing shock risk."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "The overall resistance of the complete earth fault current path, from the point of fault back to the source, is called the",
+      "options": [
+        "power factor",
+        "reactance",
+        "conductor resistivity",
+        "earth loop impedance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Earth loop impedance must be sufficiently low to ensure enough fault current flows to operate protective devices quickly during a fault."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A measuring instrument that uses the interaction between two pieces of soft iron, magnetised by the current being measured, is called a",
+      "options": [
+        "oscilloscope",
+        "moving-iron instrument",
+        "moving-coil instrument",
+        "wattmeter only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moving-iron instruments use the mutual repulsion or attraction of soft iron pieces magnetised by the measured current, suitable for both AC and DC measurement."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A measuring instrument that uses a coil suspended in a permanent magnetic field, deflecting in proportion to the current flowing through it, is called a",
+      "options": [
+        "oscilloscope",
+        "moving-iron instrument",
+        "moving-coil instrument",
+        "wattmeter only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moving-coil instruments use a coil in a fixed magnetic field, deflecting proportionally to current, and are generally used for DC measurement."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An instrument specifically designed to measure electric current in a circuit is called an",
+      "options": [
+        "ohmmeter",
+        "ammeter",
+        "voltmeter",
+        "wattmeter"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ammeter measures the current flowing through a circuit, and is connected in series with the circuit being tested."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An instrument specifically designed to measure the potential difference (voltage) between two points is called a",
+      "options": [
+        "ammeter",
+        "wattmeter",
+        "ohmmeter",
+        "voltmeter"
+      ],
+      "correctIndex": 3,
+      "explanation": "A voltmeter measures the potential difference between two points, and is connected in parallel across the component being tested."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An instrument specifically designed to measure electrical resistance is called an",
+      "options": [
+        "voltmeter",
+        "wattmeter",
+        "ohmmeter",
+        "ammeter"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ohmmeter directly measures the resistance of a component or circuit, typically using its own internal power source."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An instrument specifically designed to measure electrical power consumed in a circuit is called a",
+      "options": [
+        "wattmeter",
+        "ohmmeter",
+        "voltmeter",
+        "ammeter"
+      ],
+      "correctIndex": 0,
+      "explanation": "A wattmeter measures electrical power directly, typically combining current and voltage sensing within a single instrument."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A versatile electrical instrument capable of measuring voltage, current, and resistance, selectable via a single device, is called a",
+      "options": [
+        "multimeter",
+        "wattmeter only",
+        "ammeter only",
+        "voltmeter only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A multimeter combines the functions of an ammeter, voltmeter, and ohmmeter into a single versatile instrument, selectable by a mode switch or dial."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An ammeter's measuring range can typically be extended to measure larger currents by connecting a",
+      "options": [
+        "capacitor in parallel with the meter movement",
+        "shunt resistor in parallel with the meter movement",
+        "multiplier resistor in series with the meter movement",
+        "inductor in series with the meter movement"
+      ],
+      "correctIndex": 1,
+      "explanation": "A shunt resistor, connected in parallel with the ammeter's sensitive meter movement, diverts most of the current, extending the instrument's measurable range."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A voltmeter's measuring range can typically be extended to measure larger voltages by connecting a",
+      "options": [
+        "inductor in parallel with the meter movement",
+        "multiplier resistor in series with the meter movement",
+        "shunt resistor in parallel with the meter movement",
+        "capacitor in series with the meter movement"
+      ],
+      "correctIndex": 1,
+      "explanation": "A multiplier resistor, connected in series with the voltmeter's meter movement, allows the instrument to measure a wider range of voltages safely."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An ammeter is always connected in a circuit in",
+      "options": [
+        "series with the component whose current is being measured",
+        "no fixed configuration, as position does not matter",
+        "series with the supply neutral only, never the component",
+        "parallel with the component whose current is being measured"
+      ],
+      "correctIndex": 0,
+      "explanation": "An ammeter must be connected in series so that the entire circuit current flows through it, allowing an accurate current measurement."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "A voltmeter is always connected in a circuit in",
+      "options": [
+        "series with the component whose voltage is being measured",
+        "parallel with the component whose voltage is being measured",
+        "no fixed configuration, as position does not matter",
+        "parallel with the supply neutral only, never the component"
+      ],
+      "correctIndex": 1,
+      "explanation": "A voltmeter must be connected in parallel across the component being measured, so it reads the potential difference without significantly altering the circuit's current."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An ideal ammeter should have",
+      "options": [
+        "very high internal resistance, to block most of the current",
+        "infinite resistance, blocking all current",
+        "very low internal resistance, to minimise its effect on the circuit being measured",
+        "no relationship between its resistance and circuit accuracy"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ideal ammeter has very low internal resistance so that inserting it in series barely affects the circuit's normal current flow."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "An ideal voltmeter should have",
+      "options": [
+        "no relationship between its resistance and circuit accuracy",
+        "very high internal resistance, to draw minimal current from the circuit being measured",
+        "very low internal resistance, to draw as much current as possible",
+        "exactly zero resistance"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ideal voltmeter has very high internal resistance so that connecting it in parallel draws minimal current, avoiding disturbance to the circuit being measured."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "PVC conduit is often preferred over metallic conduit in certain wiring installations mainly because it",
+      "options": [
+        "conducts electricity better than metallic conduit",
+        "is non-conductive and resistant to corrosion",
+        "requires no earthing considerations at all in any installation",
+        "is always more expensive than metallic conduit"
+      ],
+      "correctIndex": 1,
+      "explanation": "PVC conduit's non-conductive, corrosion-resistant properties make it a popular and cost-effective choice for many wiring installations."
+    },
+    {
+      "subject": "Basic Electricity",
+      "text": "Metallic conduit, when used in a wiring installation, should generally be properly earthed mainly because it",
+      "options": [
+        "is electrically conductive and could become dangerously live if a fault occurs",
+        "is used purely for decorative purposes",
+        "never carries any risk of becoming electrically live",
+        "eliminates the need for any other protective devices in the circuit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since metallic conduit conducts electricity, it must be properly earthed so that, in the event of an internal fault, it cannot become a dangerous, unexpectedly live surface."
+    }
+  ]
+}

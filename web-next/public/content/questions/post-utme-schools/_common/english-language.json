@@ -1,0 +1,1206 @@
+{
+  "subject": "English Language",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The minister's speech was full of PLATITUDES.",
+      "options": [
+        "Technical jargon",
+        "Original insights",
+        "Overused, unoriginal remarks",
+        "Angry accusations"
+      ],
+      "correctIndex": 2,
+      "explanation": "A platitude is a trite, overused remark presented as if it were novel or profound."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: Her CANDID assessment surprised the board.",
+      "options": [
+        "Frank and honest",
+        "Deliberately vague",
+        "Legally binding",
+        "Overly flattering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Candid means truthful and straightforward, without evasion."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The old bridge was considered OBSOLETE.",
+      "options": [
+        "No longer in use",
+        "Very expensive",
+        "Extremely strong",
+        "Recently built"
+      ],
+      "correctIndex": 0,
+      "explanation": "Obsolete describes something outdated and no longer used."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The witness gave a LUCID account of the accident.",
+      "options": [
+        "Written",
+        "Clear and easy to understand",
+        "Confusing",
+        "Extremely brief"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lucid means expressed clearly, easy to follow."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: His ARROGANT manner offended many guests.",
+      "options": [
+        "Very generous",
+        "Deeply sad",
+        "Overly proud and self-important",
+        "Extremely shy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arrogant describes someone who has an exaggerated sense of their own importance."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The company's profits showed a GRADUAL increase.",
+      "options": [
+        "Uncertain",
+        "Happening slowly over time",
+        "Temporary",
+        "Sudden"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gradual means taking place in small stages over a period of time."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: She remained IMPASSIVE despite the bad news.",
+      "options": [
+        "Extremely angry",
+        "Very talkative",
+        "Physically weak",
+        "Showing no emotion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Impassive means not displaying or affected by emotion."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The professor's argument was quite COGENT.",
+      "options": [
+        "Confusing and weak",
+        "Clear, logical and convincing",
+        "Extremely long",
+        "Written in Latin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cogent describes a clear, logical, and convincing argument."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The negotiations reached an AMICABLE settlement.",
+      "options": [
+        "Very expensive",
+        "Friendly and without serious disagreement",
+        "Delayed",
+        "Hostile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amicable means characterised by friendliness and absence of discord."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: He is known for his FRUGAL lifestyle.",
+      "options": [
+        "Chaotic",
+        "Wasteful",
+        "Economical and sparing",
+        "Luxurious"
+      ],
+      "correctIndex": 2,
+      "explanation": "Frugal means careful with money or resources, avoiding waste."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The manager's decision was ARBITRARY.",
+      "options": [
+        "Widely praised",
+        "Based on random whim rather than reason",
+        "Legally required",
+        "Based on careful reasoning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arbitrary means based on random choice rather than any system or reason."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The evidence against him was IRREFUTABLE.",
+      "options": [
+        "Easily disproved",
+        "Circumstantial",
+        "Impossible to deny or disprove",
+        "Missing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Irrefutable means impossible to deny or disprove."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: Her explanation was rather TERSE.",
+      "options": [
+        "Written down",
+        "Rude and loud",
+        "Brief and to the point",
+        "Long and detailed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Terse means using few words; concise, sometimes curt."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The committee's report was highly CONTENTIOUS.",
+      "options": [
+        "Poorly written",
+        "Likely to cause disagreement",
+        "Very short",
+        "Universally accepted"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contentious means causing or likely to cause an argument."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The athlete showed great TENACITY throughout the race.",
+      "options": [
+        "Speed",
+        "Persistence and determination",
+        "Weakness",
+        "Carelessness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tenacity means the quality of being determined and not giving up."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The instructions were extremely AMBIGUOUS.",
+      "options": [
+        "Confusing",
+        "Clear",
+        "Long",
+        "Written"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ambiguous means open to more than one interpretation; its opposite is clear/unambiguous."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The soldiers showed remarkable BRAVERY.",
+      "options": [
+        "Discipline",
+        "Strength",
+        "Loyalty",
+        "Cowardice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bravery is courage; its opposite is cowardice."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The company's growth has been quite RAPID.",
+      "options": [
+        "Impressive",
+        "Steady",
+        "Profitable",
+        "Sluggish"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rapid means fast; the opposite is slow or sluggish."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: His response was surprisingly GENEROUS.",
+      "options": [
+        "Kind",
+        "Prompt",
+        "Formal",
+        "Stingy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Generous means willing to give; the opposite is stingy or miserly."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The lecture hall was completely SILENT.",
+      "options": [
+        "Dark",
+        "Noisy",
+        "Cold",
+        "Empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Silent means making no sound; its opposite is noisy."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The new policy is considered quite LENIENT.",
+      "options": [
+        "Expensive",
+        "Strict",
+        "Popular",
+        "Temporary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lenient means permissive or not strict; the opposite is strict/harsh."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The manager praised her PUNCTUALITY.",
+      "options": [
+        "Habitual lateness",
+        "Honesty",
+        "Ambition",
+        "Patience"
+      ],
+      "correctIndex": 0,
+      "explanation": "Punctuality means being on time; the opposite is lateness/tardiness."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The old man was known for his HUMILITY.",
+      "options": [
+        "Arrogance",
+        "Wisdom",
+        "Wealth",
+        "Kindness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Humility is modesty about one's importance; the opposite is arrogance/pride."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The findings of the study were CONCLUSIVE.",
+      "options": [
+        "Published",
+        "Surprising",
+        "Detailed",
+        "Inconclusive"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conclusive means decisive/final; the opposite is inconclusive or uncertain."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option OPPOSITE in meaning to the underlined word: The negotiations were marked by HOSTILITY.",
+      "options": [
+        "Delay",
+        "Formality",
+        "Secrecy",
+        "Friendliness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hostility means unfriendliness or antagonism; the opposite is friendliness."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: Despite his wealth, he lived a very ______ life, avoiding waste.",
+      "options": [
+        "extravagant",
+        "chaotic",
+        "public",
+        "frugal"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frugal fits the context of avoiding waste despite having wealth."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The manager's ______ attitude discouraged new ideas from the team.",
+      "options": [
+        "dismissive",
+        "cheerful",
+        "receptive",
+        "generous"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dismissive fits the context of discouraging new ideas."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The government has promised to ______ the ailing power sector.",
+      "options": [
+        "criticise",
+        "neglect",
+        "revamp",
+        "abandon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Revamp means to improve or renovate, fitting the promise to fix the sector."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: Her ______ remarks during the meeting embarrassed her colleagues.",
+      "options": [
+        "tactless",
+        "written",
+        "diplomatic",
+        "silent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tactless fits remarks that cause embarrassment."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The committee will ______ the proposal before the next session.",
+      "options": [
+        "misplace",
+        "scrutinise",
+        "ignore",
+        "celebrate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scrutinise means to examine closely, fitting review of a proposal."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The students were asked to ______ their findings in a short report.",
+      "options": [
+        "exaggerate",
+        "forget",
+        "summarise",
+        "conceal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Summarise fits presenting findings concisely in a report."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The new regulation aims to ______ corrupt practices in public offices.",
+      "options": [
+        "publicise",
+        "encourage",
+        "reward",
+        "curb"
+      ],
+      "correctIndex": 3,
+      "explanation": "Curb means to restrain or control, fitting a regulation against corruption."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The athlete's ______ performance earned her a gold medal.",
+      "options": [
+        "controversial",
+        "outstanding",
+        "delayed",
+        "mediocre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Outstanding fits a performance strong enough to win gold."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The lawyer presented ______ evidence that convinced the jury.",
+      "options": [
+        "irrelevant",
+        "missing",
+        "outdated",
+        "compelling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Compelling fits evidence strong enough to convince a jury."
+    },
+    {
+      "subject": "English Language",
+      "text": "Fill the gap with the most suitable word: The professor's lecture was so ______ that many students fell asleep.",
+      "options": [
+        "brief",
+        "monotonous",
+        "engaging",
+        "controversial"
+      ],
+      "correctIndex": 1,
+      "explanation": "Monotonous fits a lecture boring enough to put students to sleep."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: Neither the students nor the teacher ______ aware of the change.",
+      "options": [
+        "was",
+        "are",
+        "were",
+        "have been"
+      ],
+      "correctIndex": 0,
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject, 'the teacher' (singular)."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: Each of the candidates ______ given ten minutes to speak.",
+      "options": [
+        "are",
+        "was",
+        "were",
+        "have"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Each' is singular, so it takes a singular verb 'was'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: By the time the rain started, we ______ the match.",
+      "options": [
+        "were finishing",
+        "finish",
+        "finished",
+        "had finished"
+      ],
+      "correctIndex": 3,
+      "explanation": "The past perfect 'had finished' shows an action completed before another past action."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: If I ______ you, I would apologise immediately.",
+      "options": [
+        "was",
+        "am",
+        "be",
+        "were"
+      ],
+      "correctIndex": 3,
+      "explanation": "The subjunctive mood uses 'were' for hypothetical situations after 'if I'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: The report, along with the appendices, ______ due tomorrow.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have been"
+      ],
+      "correctIndex": 0,
+      "explanation": "The subject is 'the report' (singular); phrases like 'along with' do not change the verb agreement."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: She is one of the students who ______ always punctual.",
+      "options": [
+        "is",
+        "are",
+        "has been",
+        "was"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Who' refers to 'students' (plural), so the verb should be 'are'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: He suggested that she ______ the report before submission.",
+      "options": [
+        "reviewed",
+        "review",
+        "will review",
+        "reviews"
+      ],
+      "correctIndex": 1,
+      "explanation": "After 'suggest that', the subjunctive base form 'review' is used regardless of subject."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: The number of applicants ______ increased significantly this year.",
+      "options": [
+        "are",
+        "were",
+        "have",
+        "has"
+      ],
+      "correctIndex": 3,
+      "explanation": "'The number of' takes a singular verb; 'a number of' would take a plural verb."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: Hardly ______ the meeting begun when the power went off.",
+      "options": [
+        "did",
+        "had",
+        "has",
+        "was"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hardly had' followed by 'when' is the correct inverted structure for past perfect."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: Not only ______ the exam but she also scored the highest mark.",
+      "options": [
+        "she did pass",
+        "she passed",
+        "did she pass",
+        "passed she"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Not only' at the start of a clause requires subject-auxiliary inversion."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'The classroom was a zoo during the break.'",
+      "options": [
+        "Simile",
+        "Personification",
+        "Hyperbole",
+        "Metaphor"
+      ],
+      "correctIndex": 3,
+      "explanation": "A metaphor directly states one thing IS another, without using 'like' or 'as'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'Her smile was as bright as the morning sun.'",
+      "options": [
+        "Metaphor",
+        "Irony",
+        "Onomatopoeia",
+        "Simile"
+      ],
+      "correctIndex": 3,
+      "explanation": "A simile compares two things using 'as' or 'like'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'The wind whispered through the trees.'",
+      "options": [
+        "Pun",
+        "Personification",
+        "Alliteration",
+        "Hyperbole"
+      ],
+      "correctIndex": 1,
+      "explanation": "Personification gives human qualities (whispering) to non-human things (wind)."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'I have told you a million times to stop that.'",
+      "options": [
+        "Hyperbole",
+        "Metaphor",
+        "Irony",
+        "Simile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hyperbole is deliberate exaggeration for emphasis, not meant literally."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'Peter Piper picked a peck of pickled peppers.'",
+      "options": [
+        "Assonance",
+        "Metaphor",
+        "Onomatopoeia",
+        "Alliteration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alliteration is the repetition of the same initial consonant sound in nearby words."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'The bomb exploded with a loud bang.'",
+      "options": [
+        "Personification",
+        "Onomatopoeia",
+        "Simile",
+        "Hyperbole"
+      ],
+      "correctIndex": 1,
+      "explanation": "Onomatopoeia is a word that imitates the sound it describes, like 'bang'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'A jumbo shrimp is a common menu item.'",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Oxymoron",
+        "Pun"
+      ],
+      "correctIndex": 2,
+      "explanation": "An oxymoron combines two contradictory terms, like 'jumbo' and 'shrimp'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'It is an open secret that he plans to resign.'",
+      "options": [
+        "Personification",
+        "Oxymoron",
+        "Pun",
+        "Simile"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Open secret' combines two contradictory ideas, making it an oxymoron."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: 'The traffic crawled through the city centre.'",
+      "options": [
+        "Simile",
+        "Irony",
+        "Personification",
+        "Alliteration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traffic 'crawling' gives it a human/animal action, a form of personification."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the figure of speech: Saying 'What a lovely day' during a heavy downpour.",
+      "options": [
+        "Hyperbole",
+        "Irony",
+        "Onomatopoeia",
+        "Simile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Irony involves saying the opposite of what is actually meant or true."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the proverb/idiom: 'A stitch in time saves nine.'",
+      "options": [
+        "Sewing is a useful skill",
+        "Time cannot be saved",
+        "Acting early prevents bigger problems later",
+        "Nine is a lucky number"
+      ],
+      "correctIndex": 2,
+      "explanation": "This proverb emphasises the value of timely action to avoid larger issues."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'To let the cat out of the bag.'",
+      "options": [
+        "To make a mistake",
+        "To lose something valuable",
+        "To free an animal",
+        "To reveal a secret"
+      ],
+      "correctIndex": 3,
+      "explanation": "This idiom means to accidentally disclose confidential information."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'To bite the bullet.'",
+      "options": [
+        "To face a difficult situation bravely",
+        "To break a promise",
+        "To eat quickly",
+        "To avoid responsibility"
+      ],
+      "correctIndex": 0,
+      "explanation": "This idiom means to endure a painful or difficult situation with courage."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'Once in a blue moon.'",
+      "options": [
+        "Very rarely",
+        "During a full moon",
+        "Every night",
+        "Frequently"
+      ],
+      "correctIndex": 0,
+      "explanation": "This idiom describes something that happens very infrequently."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'To beat around the bush.'",
+      "options": [
+        "To act violently",
+        "To search a garden thoroughly",
+        "To agree quickly",
+        "To avoid getting to the point directly"
+      ],
+      "correctIndex": 3,
+      "explanation": "This idiom means to speak evasively rather than addressing the main issue."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'To cost an arm and a leg.'",
+      "options": [
+        "To be worthless",
+        "To cause an injury",
+        "To take a long time",
+        "To be very expensive"
+      ],
+      "correctIndex": 3,
+      "explanation": "This idiom describes something that is extremely costly."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'To be on the same page.'",
+      "options": [
+        "To agree or have the same understanding",
+        "To read the same book",
+        "To work in the same office",
+        "To argue constantly"
+      ],
+      "correctIndex": 0,
+      "explanation": "This idiom means people share the same views or understanding of a situation."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the proverb: 'Look before you leap.'",
+      "options": [
+        "Trust your first instinct",
+        "Think carefully before acting",
+        "Always run away from danger",
+        "Jumping is dangerous"
+      ],
+      "correctIndex": 1,
+      "explanation": "This proverb advises careful consideration before taking action."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the idiom: 'To spill the beans.'",
+      "options": [
+        "To reveal secret information",
+        "To lose one's temper",
+        "To cook a meal poorly",
+        "To waste food"
+      ],
+      "correctIndex": 0,
+      "explanation": "This idiom means to disclose secret or private information."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the proverb: 'Every cloud has a silver lining.'",
+      "options": [
+        "There is something good in every bad situation",
+        "Silver is more valuable than gold",
+        "Clouds always bring rain",
+        "Bad situations never improve"
+      ],
+      "correctIndex": 0,
+      "explanation": "This proverb means that even difficult situations have a positive aspect."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of the following words has a silent letter?",
+      "options": [
+        "Knight",
+        "Window",
+        "Basket",
+        "Cricket"
+      ],
+      "correctIndex": 0,
+      "explanation": "In 'knight', the letters 'k' and 'gh' are silent."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of these words contains a silent letter?",
+      "options": [
+        "Marble",
+        "Cable",
+        "Comb",
+        "Table"
+      ],
+      "correctIndex": 2,
+      "explanation": "In 'comb', the letter 'b' is silent."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the word below that has a silent letter.",
+      "options": [
+        "Count",
+        "Doubt",
+        "Mount",
+        "Sound"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 'doubt', the letter 'b' is silent."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of the underlined syllables carries the primary stress in the word 'photograph'?",
+      "options": [
+        "pho-TO-graph",
+        "PHO-to-graph",
+        "All syllables are equally stressed",
+        "pho-to-GRAPH"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 'photograph', the primary stress falls on the first syllable."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of the underlined syllables carries the primary stress in the word 'economics'?",
+      "options": [
+        "e-co-no-MICS",
+        "e-CO-no-mics",
+        "E-co-no-mics",
+        "e-co-NO-mics"
+      ],
+      "correctIndex": 3,
+      "explanation": "In 'economics', the primary stress falls on the third syllable."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which word rhymes with 'though'?",
+      "options": [
+        "Cough",
+        "Through",
+        "Bough",
+        "Toe"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Though' and 'toe' share the same 'oh' vowel sound despite different spellings."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which pair of words has the same vowel sound?",
+      "options": [
+        "Bread / Bead",
+        "Cough / Bough",
+        "Blood / Food",
+        "Meat / Meet"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Meat' and 'meet' are both pronounced with the long 'ee' sound."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which word contains a diphthong?",
+      "options": [
+        "Boy",
+        "Sit",
+        "Bed",
+        "Cat"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vowel sound in 'boy' (oi) is a diphthong, a glide between two vowel sounds."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of these words is stressed on the second syllable?",
+      "options": [
+        "MONkey",
+        "HAPpy",
+        "beGIN",
+        "TABLE"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Begin' carries its primary stress on the second syllable."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which word does NOT rhyme with the others?",
+      "options": [
+        "Cake",
+        "Beak",
+        "Lake",
+        "Break"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Beak' has a different vowel sound ('ee') from 'cake', 'lake', and 'break' which share the 'ay' sound."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Renewable energy sources like solar and wind are gaining popularity in Nigeria due to unreliable grid power. Many households now install solar panels as a backup, despite the initial cost being high for average earners. Advocates argue that widespread adoption could reduce dependence on fossil fuels and cut long-term electricity costs.' What is the main idea of the passage?",
+      "options": [
+        "Solar panels are too expensive for anyone to afford",
+        "Nigeria has abandoned fossil fuels completely",
+        "Renewable energy is becoming popular as an alternative to unreliable grid power",
+        "Wind energy is more popular than solar energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage centres on renewable energy's growing popularity due to unreliable grid power."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Renewable energy sources like solar and wind are gaining popularity in Nigeria due to unreliable grid power. Many households now install solar panels as a backup, despite the initial cost being high for average earners. Advocates argue that widespread adoption could reduce dependence on fossil fuels and cut long-term electricity costs.' Why do many households install solar panels according to the passage?",
+      "options": [
+        "Because the government mandates it",
+        "To reduce their taxes",
+        "To sell electricity to neighbours",
+        "As a backup due to unreliable grid power"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage states households install solar panels as a backup due to unreliable grid power."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Renewable energy sources like solar and wind are gaining popularity in Nigeria due to unreliable grid power. Many households now install solar panels as a backup, despite the initial cost being high for average earners. Advocates argue that widespread adoption could reduce dependence on fossil fuels and cut long-term electricity costs.' What challenge is mentioned regarding solar panel adoption?",
+      "options": [
+        "High initial cost for average earners",
+        "Government prohibition",
+        "Lack of sunlight in Nigeria",
+        "Limited technical knowledge"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage explicitly mentions the high initial cost as a challenge for average earners."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Renewable energy sources like solar and wind are gaining popularity in Nigeria due to unreliable grid power. Many households now install solar panels as a backup, despite the initial cost being high for average earners. Advocates argue that widespread adoption could reduce dependence on fossil fuels and cut long-term electricity costs.' What do advocates believe about widespread renewable energy adoption?",
+      "options": [
+        "It would increase dependence on fossil fuels",
+        "It has no long-term benefits",
+        "It could reduce dependence on fossil fuels and cut costs over time",
+        "It is impossible to achieve in Nigeria"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage states advocates believe adoption could reduce fossil fuel dependence and cut long-term costs."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Renewable energy sources like solar and wind are gaining popularity in Nigeria due to unreliable grid power. Many households now install solar panels as a backup, despite the initial cost being high for average earners. Advocates argue that widespread adoption could reduce dependence on fossil fuels and cut long-term electricity costs.' The word 'advocates' in the passage most nearly means:",
+      "options": [
+        "Investigators",
+        "Regulators",
+        "Opponents",
+        "Supporters"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this context, 'advocates' refers to people who support or promote renewable energy adoption."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Reading habits among young people have shifted dramatically with the rise of digital media. While some educators worry that screens are replacing books, others point out that e-books and audiobooks have made reading more accessible than ever, especially for those with limited access to physical libraries.' What concern do some educators express?",
+      "options": [
+        "That books are too expensive",
+        "That libraries are closing down",
+        "That screens are replacing books",
+        "That audiobooks are inaccurate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage states some educators worry that screens are replacing traditional books."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Reading habits among young people have shifted dramatically with the rise of digital media. While some educators worry that screens are replacing books, others point out that e-books and audiobooks have made reading more accessible than ever, especially for those with limited access to physical libraries.' According to the passage, what benefit do e-books and audiobooks provide?",
+      "options": [
+        "They are more expensive than physical books",
+        "They have completely replaced physical libraries",
+        "They are only used by educators",
+        "They have made reading more accessible, especially for those with limited library access"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage states e-books and audiobooks have made reading more accessible, particularly for those without easy library access."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Reading habits among young people have shifted dramatically with the rise of digital media. While some educators worry that screens are replacing books, others point out that e-books and audiobooks have made reading more accessible than ever, especially for those with limited access to physical libraries.' The passage suggests that opinions on digital media's effect on reading are:",
+      "options": [
+        "Divided between concern and optimism",
+        "Not discussed at all",
+        "Universally positive",
+        "Universally negative"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage presents both a worried perspective and an optimistic one, showing divided opinions."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Reading habits among young people have shifted dramatically with the rise of digital media. While some educators worry that screens are replacing books, others point out that e-books and audiobooks have made reading more accessible than ever, especially for those with limited access to physical libraries.' The word 'dramatically' in the passage is closest in meaning to:",
+      "options": [
+        "Theatrically",
+        "Slightly",
+        "Rarely",
+        "Significantly"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this context, 'dramatically' means to a great or significant extent."
+    },
+    {
+      "subject": "English Language",
+      "text": "Read the passage: 'Reading habits among young people have shifted dramatically with the rise of digital media. While some educators worry that screens are replacing books, others point out that e-books and audiobooks have made reading more accessible than ever, especially for those with limited access to physical libraries.' What is the best title for this passage?",
+      "options": [
+        "The History of the Printing Press",
+        "Why Audiobooks Are Better Than Books",
+        "Digital Media and Changing Reading Habits",
+        "The Decline of Public Libraries"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage focuses on how digital media has changed reading habits, making this the best title."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the correctly punctuated sentence.",
+      "options": [
+        "Its a beautiful day outside.",
+        "Its a beautiful, day outside.",
+        "It's a beautiful day outside.",
+        "Its' a beautiful day outside."
+      ],
+      "correctIndex": 2,
+      "explanation": "'It's' is the contraction of 'it is', which is needed here."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of the following sentences is correctly punctuated?",
+      "options": [
+        "The teachers book was on the desk.",
+        "The teachers' book was on the desk.",
+        "The teacher's book was on the desk.",
+        "The teachers books was on the desk."
+      ],
+      "correctIndex": 2,
+      "explanation": "The apostrophe before 's' shows singular possession by one teacher."
+    },
+    {
+      "subject": "English Language",
+      "text": "Select the sentence with correct punctuation.",
+      "options": [
+        "We bought, apples, oranges and bananas.",
+        "We bought apples, oranges, and bananas.",
+        "We bought apples oranges, and bananas.",
+        "We bought apples oranges and bananas."
+      ],
+      "correctIndex": 1,
+      "explanation": "Commas are needed to separate items in a list."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option with the correctly spelled word.",
+      "options": [
+        "Receve",
+        "Receeve",
+        "Recieve",
+        "Receive"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling follows 'i before e except after c': receive."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which of these words is spelled correctly?",
+      "options": [
+        "Necesary",
+        "Neccessary",
+        "Neccesary",
+        "Necessary"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Necessary' has one 'c' and two 's's."
+    },
+    {
+      "subject": "English Language",
+      "text": "Identify the correctly spelled word below.",
+      "options": [
+        "Occasionn",
+        "Occasion",
+        "Occassion",
+        "Ocassion"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Occasion' has two 'c's and one 's'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Select the option that is spelled correctly.",
+      "options": [
+        "Definetely",
+        "Definitly",
+        "Definately",
+        "Definitely"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Definitely' is derived from 'definite', not 'definate'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Which spelling below is correct?",
+      "options": [
+        "Embarrass",
+        "Emberrass",
+        "Embarass",
+        "Embarras"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Embarrass' has a double 'r' and double 's'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the word that is spelled correctly.",
+      "options": [
+        "Accomadate",
+        "Accommodate",
+        "Accomodate",
+        "Acommodate"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Accommodate' has a double 'c' and double 'm'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Pick the correctly spelled word from the options below.",
+      "options": [
+        "Privelege",
+        "Priviledge",
+        "Privilege",
+        "Privillege"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Privilege' has no 'd' and only one 'l'."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: She is good ______ mathematics but weak ______ physics.",
+      "options": [
+        "in, at",
+        "at, on",
+        "on, in",
+        "at, in"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Good at' and 'weak in' are the standard prepositional collocations here."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: The children were responsible ______ cleaning the compound.",
+      "options": [
+        "of",
+        "to",
+        "with",
+        "for"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Responsible for' is the correct preposition to indicate a duty or task."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: He apologised ______ his colleague ______ the delay.",
+      "options": [
+        "with, about",
+        "to, for",
+        "to, about",
+        "for, to"
+      ],
+      "correctIndex": 1,
+      "explanation": "One apologises 'to' a person 'for' an offence — the standard preposition pairing."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option nearest in meaning to the underlined word: The politician's promises were largely SPECIOUS.",
+      "options": [
+        "Genuinely sincere",
+        "Extremely detailed",
+        "Superficially plausible but actually false",
+        "Legally binding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Specious means seeming reasonable or true, but actually being wrong or misleading."
+    },
+    {
+      "subject": "English Language",
+      "text": "Choose the option that best completes the sentence: The committee members could not agree ______ the proposed budget.",
+      "options": [
+        "with",
+        "at",
+        "on",
+        "for"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Agree on' is the correct preposition when referring to reaching consensus about a matter."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+@import "tailwindcss";
+
+/*
+ * Exam Coach brand palette, ported from lib/theme/app_theme.dart in the
+ * Flutter app. Light mode uses navy/gold/cream on a cream surface; dark
+ * mode swaps in the lighter navy accent on deep navy surfaces.
+ */
+:root {
+  --color-navy: #12203d;
+  --color-navy-light: #1e3a66;
+  --color-gold: #c8932a;
+  --color-teal: #1e6e5c;
+  --color-cream: #f7f4ed;
+
+  --background: var(--color-cream);
+  --foreground: var(--color-navy);
+  --color-primary: var(--color-navy);
+  --color-surface: var(--color-cream);
+  --color-surface-alt: #ffffff;
+  --color-border: #12203d1a;
+
+  /* Semantic success/danger tokens — used for quiz/duel correct-vs-wrong
+     answer highlighting and low-time badges. These need their OWN dark
+     variants below (unlike plain error-message text, which stays readable
+     as fixed Tailwind red-600/green-600 on any surface) because a light
+     pastel background (Tailwind's red-100/green-100) stays light regardless
+     of theme — on a dark surface that renders as a jarring bright patch.
+     This app has no Tailwind `dark:` variant configured (dark mode is
+     entirely the `.dark` class + these CSS custom properties), so these
+     colors must be defined here rather than via `dark:bg-red-950` etc. */
+  --color-success-bg: #dcfce7;
+  --color-success-bg-soft: #f0fdf4;
+  --color-success-border: #16a34a;
+  --color-success-text: #15803d;
+  --color-danger-bg: #fee2e2;
+  --color-danger-border: #dc2626;
+  --color-danger-text: #b91c1c;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-navy: var(--color-navy);
+  --color-navy-light: var(--color-navy-light);
+  --color-gold: var(--color-gold);
+  --color-teal: var(--color-teal);
+  --color-cream: var(--color-cream);
+  --color-primary: var(--color-primary);
+  --color-surface: var(--color-surface);
+  --color-surface-alt: var(--color-surface-alt);
+  --color-border: var(--color-border);
+  --font-sans: "Segoe UI", Arial, Helvetica, sans-serif;
+  --font-mono: "SFMono-Regular", "Consolas", "Liberation Mono", monospace;
+}
+
+/*
+ * Dark tokens are applied in two cases:
+ *  1. No manual theme preference set (`--color-primary` etc. still follow
+ *     OS preference) — the `:not(.light):not(.dark)` guard skips this when
+ *     a manual choice is active, so it never fights with case 2 below.
+ *  2. `.dark` class is set on <html> — the Profile page's Appearance
+ *     control (Light/Dark/System, see src/lib/theme-context.tsx) forces
+ *     this regardless of OS preference. `.light` needs no rule since the
+ *     unadorned `:root` block above already is the light theme.
+ */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light):not(.dark) {
+    --color-surface-dark: #10182b;
+    --color-surface-dark-2: #0b1220;
+    --color-surface-dark-3: #141e33;
+    --color-surface-dark-4: #182441;
+
+    --background: var(--color-surface-dark-2);
+    --foreground: #f7f4ed;
+    /* BUG FIX: this used to be `var(--color-navy-light)` (#1e3a66) — a DARK
+       navy — but --color-primary is used as the primary TEXT color almost
+       everywhere (`text-[var(--color-primary)]`), so on the dark surfaces
+       above that rendered as barely-visible dark-blue-on-near-black text
+       across the entire site in dark mode. It needs to be a light color,
+       same as --foreground, just like light mode uses a dark color
+       (--color-navy) for text on its light surfaces. */
+    --color-primary: #f7f4ed;
+    --color-surface: var(--color-surface-dark);
+    --color-surface-alt: var(--color-surface-dark-3);
+    --color-border: #f7f4ed1f;
+
+    --color-success-bg: #14532d;
+    --color-success-bg-soft: #14532d;
+    --color-success-border: #4ade80;
+    --color-success-text: #86efac;
+    --color-danger-bg: #450a0a;
+    --color-danger-border: #f87171;
+    --color-danger-text: #fca5a5;
+  }
+}
+
+:root.dark {
+  --color-surface-dark: #10182b;
+  --color-surface-dark-2: #0b1220;
+  --color-surface-dark-3: #141e33;
+  --color-surface-dark-4: #182441;
+
+  --background: var(--color-surface-dark-2);
+  --foreground: #f7f4ed;
+  /* Same fix as the @media block above — must be a light color since it's
+     used as body text color, not var(--color-navy-light) (a dark navy). */
+  --color-primary: #f7f4ed;
+  --color-surface: var(--color-surface-dark);
+  --color-surface-alt: var(--color-surface-dark-3);
+  --color-border: #f7f4ed1f;
+
+  --color-success-bg: #14532d;
+  --color-success-bg-soft: #14532d;
+  --color-success-border: #4ade80;
+  --color-success-text: #86efac;
+  --color-danger-bg: #450a0a;
+  --color-danger-border: #f87171;
+  --color-danger-text: #fca5a5;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}

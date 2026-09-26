@@ -1,0 +1,2406 @@
+{
+  "subject": "Chemistry",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Chemistry",
+      "text": "Which technique is most suitable for separating a mixture of common salt and water?",
+      "options": [
+        "Filtration",
+        "Decantation",
+        "Sublimation",
+        "Simple distillation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Salt dissolves in water, so filtration cannot separate them; distillation evaporates the water and condenses it, leaving the salt behind."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is the best criterion for testing the purity of a crystalline solid?",
+      "options": [
+        "Its smell",
+        "Its colour",
+        "A sharp, constant melting point",
+        "Its solubility in water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pure crystalline substances melt sharply at a fixed temperature; impurities lower and broaden the melting point range."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Chromatography is most useful for separating",
+      "options": [
+        "components of a mixture of dyes with different solubilities",
+        "a solid from a liquid by size",
+        "two immiscible liquids",
+        "a salt from its solution by evaporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chromatography separates substances based on differing rates of movement (solubility/adsorption) through a stationary medium, ideal for dyes and pigments."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Sublimation is used to separate a mixture of iodine and sand because",
+      "options": [
+        "iodine is denser than sand",
+        "iodine changes directly from solid to vapour on heating while sand does not",
+        "sand dissolves in water but iodine does not",
+        "iodine is magnetic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iodine sublimes (solid to gas without melting) on gentle heating, leaving the non-volatile sand behind; the vapour is then cooled to recover solid iodine."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which method separates two miscible liquids with different boiling points?",
+      "options": [
+        "Filtration",
+        "Magnetisation",
+        "Fractional distillation",
+        "Simple distillation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fractional distillation uses a fractionating column to separate liquids of close but different boiling points by repeated vaporisation-condensation."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A mixture of iron filings and sulphur powder is best separated by",
+      "options": [
+        "chromatography",
+        "using a magnet to attract the iron filings",
+        "adding water and filtering",
+        "heating strongly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iron is ferromagnetic while sulphur is not, so a magnet physically separates them without any chemical change."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which separation technique relies on differences in density between two immiscible liquids?",
+      "options": [
+        "Using a separating funnel",
+        "Simple distillation",
+        "Chromatography",
+        "Sublimation"
+      ],
+      "correctIndex": 0,
+      "explanation": "A separating funnel allows the denser liquid to be run off from the bottom while the less dense liquid remains on top."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Water obtained by fractional distillation of a salt solution is described as",
+      "options": [
+        "soft water containing salts",
+        "hard water",
+        "saturated brine",
+        "distilled water, free of dissolved salts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Distillation vaporises only the water, leaving the non-volatile salt behind, so the condensed liquid is pure (distilled) water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The Law of Definite Proportions states that",
+      "options": [
+        "a pure compound always contains the same elements combined in the same fixed mass ratio",
+        "the mass of reactants equals the mass of products",
+        "gases combine in simple whole-number volume ratios",
+        "equal volumes of gases contain equal numbers of molecules"
+      ],
+      "correctIndex": 0,
+      "explanation": "This law (Proust's Law) states that a given chemical compound always contains its constituent elements in fixed proportion by mass, regardless of source."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which law is illustrated by carbon forming both CO and CO2, where the masses of oxygen combining with a fixed mass of carbon are in a simple ratio of 1:2?",
+      "options": [
+        "Law of Multiple Proportions",
+        "Law of Definite Proportions",
+        "Avogadro's Law",
+        "Law of Conservation of Matter"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Law of Multiple Proportions applies when one element forms more than one compound with another, and the masses of the second element combining with a fixed mass of the first are in a ratio of small whole numbers."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Avogadro's Law states that",
+      "options": [
+        "gases expand by 1/273 of their volume for every degree rise in temperature",
+        "the volume of a gas is inversely proportional to its pressure",
+        "mass is neither created nor destroyed in a chemical reaction",
+        "equal volumes of all gases at the same temperature and pressure contain equal numbers of molecules"
+      ],
+      "correctIndex": 3,
+      "explanation": "Avogadro's Law links gas volume directly to the number of moles (particles) present, independent of the gas's identity, at fixed temperature and pressure."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "How many moles of oxygen atoms are present in 0.5 mole of CO2?",
+      "options": [
+        "1.0 mole",
+        "2.0 moles",
+        "0.5 mole",
+        "0.25 mole"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each CO2 molecule contains 2 oxygen atoms, so 0.5 mole of CO2 contains 0.5 x 2 = 1.0 mole of oxygen atoms."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the relative molecular mass of Na2CO3? (Na = 23, C = 12, O = 16)",
+      "options": [
+        "106",
+        "84",
+        "62",
+        "90"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na2CO3 = (2 x 23) + 12 + (3 x 16) = 46 + 12 + 48 = 106."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What mass of calcium (Ca = 40) contains the same number of atoms as 8 g of oxygen (O = 16)?",
+      "options": [
+        "16 g",
+        "10 g",
+        "20 g",
+        "40 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "8 g of oxygen = 8/16 = 0.5 mole of atoms. 0.5 mole of Ca = 0.5 x 40 = 20 g, since equal moles contain equal numbers of atoms."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Calculate the number of moles in 11 g of CO2. (C = 12, O = 16)",
+      "options": [
+        "2.0 moles",
+        "1.0 mole",
+        "0.5 mole",
+        "0.25 mole"
+      ],
+      "correctIndex": 3,
+      "explanation": "Molar mass of CO2 = 44 g/mol. Moles = mass/molar mass = 11/44 = 0.25 mole."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What volume of oxygen (at s.t.p.) is required to completely burn 2 moles of carbon to form CO2? (Molar volume = 22.4 dm3 at s.t.p.)",
+      "options": [
+        "44.8 dm3",
+        "22.4 dm3",
+        "67.2 dm3",
+        "11.2 dm3"
+      ],
+      "correctIndex": 0,
+      "explanation": "C + O2 -> CO2, so 2 moles of carbon require 2 moles of O2. Volume = 2 x 22.4 = 44.8 dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An oxide of a metal M has the formula M2O3 and a relative molecular mass of 102. What is the relative atomic mass of M? (O = 16)",
+      "options": [
+        "27",
+        "51",
+        "18",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "M2O3 = 2M + 3(16) = 102, so 2M = 102 - 48 = 54, giving M = 27."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The empirical formula of a compound containing 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass is (C = 12, H = 1, O = 16)",
+      "options": [
+        "C2H6O",
+        "CHO",
+        "CH2O",
+        "C2H4O2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moles: C = 40/12 = 3.33, H = 6.7/1 = 6.7, O = 53.3/16 = 3.33. Dividing by the smallest (3.33) gives C:H:O = 1:2:1, so the empirical formula is CH2O."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "According to the kinetic theory of matter, particles in a gas",
+      "options": [
+        "are arranged in a regular, orderly lattice",
+        "are tightly packed and vibrate about fixed positions",
+        "have no kinetic energy",
+        "move randomly at high speed with negligible forces of attraction between them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gas particles are far apart, move rapidly and randomly in all directions, and experience very weak intermolecular forces compared to solids and liquids."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Boyle's Law states that at constant temperature, the volume of a fixed mass of gas is",
+      "options": [
+        "directly proportional to its absolute temperature",
+        "independent of pressure",
+        "inversely proportional to its pressure",
+        "directly proportional to its pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boyle's Law: PV = constant at constant temperature, so as pressure increases, volume decreases proportionally."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A gas occupies 400 cm3 at a pressure of 760 mmHg. What volume will it occupy at 950 mmHg, assuming constant temperature?",
+      "options": [
+        "320 cm3",
+        "608 cm3",
+        "500 cm3",
+        "400 cm3"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Boyle's Law, P1V1 = P2V2: 760 x 400 = 950 x V2, so V2 = 304000/950 = 320 cm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Charles's Law relates the volume of a fixed mass of gas at constant pressure to its",
+      "options": [
+        "absolute temperature, inversely",
+        "density, directly",
+        "absolute temperature, directly",
+        "pressure, directly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charles's Law: V/T = constant at constant pressure, meaning volume increases directly with absolute temperature."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A sample of gas has a volume of 200 cm3 at 27 degC. What volume will it occupy at 127 degC, at constant pressure?",
+      "options": [
+        "150 cm3",
+        "200 cm3",
+        "300 cm3",
+        "266.7 cm3"
+      ],
+      "correctIndex": 3,
+      "explanation": "Convert to Kelvin: 27 degC = 300 K, 127 degC = 400 K. V1/T1 = V2/T2: 200/300 = V2/400, so V2 = 80000/300 = 266.7 cm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Graham's Law of diffusion states that the rate of diffusion of a gas is",
+      "options": [
+        "directly proportional to its pressure only",
+        "inversely proportional to the square root of its density",
+        "directly proportional to its density",
+        "independent of its molar mass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Graham's Law: lighter (less dense) gases diffuse faster, with rate inversely proportional to the square root of density (or molar mass)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which gas diffuses faster, hydrogen (M = 2) or oxygen (M = 32), and by what approximate factor?",
+      "options": [
+        "Hydrogen, about 16 times faster",
+        "They diffuse at the same rate",
+        "Hydrogen, about 4 times faster",
+        "Oxygen, about 4 times faster"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rate ratio = sqrt(M_oxygen/M_hydrogen) = sqrt(32/2) = sqrt(16) = 4, so hydrogen diffuses 4 times faster than oxygen."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Dalton's Law of Partial Pressures states that the total pressure of a mixture of non-reacting gases equals",
+      "options": [
+        "the average of the partial pressures",
+        "the partial pressure of the heaviest gas only",
+        "the sum of the partial pressures each gas would exert alone",
+        "the product of the partial pressures"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dalton's Law: total pressure = sum of individual partial pressures of each gas in the mixture, assuming no chemical reaction occurs between them."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the ideal gas equation PV = nRT, what does 'n' represent?",
+      "options": [
+        "Normal pressure",
+        "Number of moles of gas",
+        "Number of molecules",
+        "Newtons of force"
+      ],
+      "correctIndex": 1,
+      "explanation": "In PV = nRT, n is the number of moles, P is pressure, V is volume, R is the universal gas constant, and T is absolute temperature."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which condition is defined as standard temperature and pressure (s.t.p.) in gas law calculations?",
+      "options": [
+        "25 degC and 1 atmosphere pressure",
+        "0 degC (273 K) and 1 atmosphere pressure",
+        "0 degC and 2 atmospheres pressure",
+        "100 degC and 2 atmospheres pressure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standard temperature and pressure is conventionally defined as 273 K (0 degC) and 760 mmHg (1 atmosphere), at which 1 mole of gas occupies 22.4 dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which subatomic particle has a negligible mass and carries a negative charge?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Positron"
+      ],
+      "correctIndex": 2,
+      "explanation": "The electron has a charge of -1 and a mass about 1/1836 that of a proton, making its mass essentially negligible in atomic mass calculations."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Isotopes of an element have the same number of protons but different numbers of",
+      "options": [
+        "electrons in the outer shell",
+        "valence electrons",
+        "protons",
+        "neutrons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Isotopes share the same atomic number (protons) but differ in mass number due to differing numbers of neutrons in the nucleus."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An atom of an element has 17 protons and 18 neutrons. What is its mass number?",
+      "options": [
+        "35",
+        "1",
+        "18",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mass number = number of protons + number of neutrons = 17 + 18 = 35."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the electronic configuration of an element with atomic number 12?",
+      "options": [
+        "2,4,6",
+        "2,8,2",
+        "2,10",
+        "2,8,8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Electrons fill shells in order (2, 8, 8, ...); for 12 electrons: 2 in the first shell, 8 in the second, and the remaining 2 in the third shell, giving 2,8,2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Elements in the same group of the periodic table have similar chemical properties because they have the same",
+      "options": [
+        "number of electrons in their outermost shell",
+        "atomic mass",
+        "number of neutrons",
+        "number of electron shells"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chemical behaviour is largely determined by valence (outermost shell) electrons, and elements in the same group share the same number of these."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Across a period from left to right, atomic radius generally",
+      "options": [
+        "increases due to more electron shells",
+        "decreases due to increasing nuclear charge pulling electrons closer",
+        "remains constant",
+        "increases due to decreasing nuclear charge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Across a period, protons increase while electrons are added to the same shell, so the stronger nuclear pull draws the electron cloud inward, shrinking atomic radius."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An electrovalent (ionic) bond is formed by",
+      "options": [
+        "sharing of a pair of electrons donated by only one atom",
+        "complete transfer of electrons from one atom to another",
+        "overlap of metal ion cores in a sea of electrons",
+        "sharing of a pair of electrons between two atoms"
+      ],
+      "correctIndex": 1,
+      "explanation": "In ionic bonding, electrons are transferred completely, typically from a metal to a non-metal, forming oppositely charged ions held by electrostatic attraction."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A coordinate (dative covalent) bond differs from an ordinary covalent bond in that",
+      "options": [
+        "it only occurs between two identical atoms",
+        "electrons are transferred rather than shared",
+        "both shared electrons come from only one of the bonding atoms",
+        "no electrons are shared at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a coordinate bond, one atom (the donor) supplies both electrons of the shared pair, as seen in the formation of the ammonium ion, NH4+."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Metallic bonding is best described as",
+      "options": [
+        "a lattice of positive metal ions held together by a 'sea' of delocalised electrons",
+        "hydrogen bonding between metal atoms",
+        "electron transfer between two metal atoms",
+        "a shared pair of electrons between two metal atoms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Metallic bonding involves positive ion cores fixed in a lattice, surrounded by mobile, delocalised valence electrons that conduct heat and electricity."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Hydrogen bonding is best described as",
+      "options": [
+        "a relatively strong intermolecular attraction between a hydrogen atom bonded to a highly electronegative atom and a lone pair on another electronegative atom",
+        "an ionic bond involving a hydrogen ion",
+        "a covalent bond within a hydrogen molecule",
+        "a weak van der Waals force present in all molecules"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hydrogen bonds form when hydrogen, covalently bonded to N, O, or F, is attracted to a lone pair on a nearby electronegative atom, explaining water's unusually high boiling point."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the approximate percentage by volume of nitrogen in the atmosphere?",
+      "options": [
+        "50%",
+        "78%",
+        "21%",
+        "0.03%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dry air is approximately 78% nitrogen, 21% oxygen, and small amounts of carbon dioxide, argon, and other gases."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which gas is primarily responsible for the greenhouse effect and global warming when released in excess?",
+      "options": [
+        "Helium",
+        "Nitrogen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbon dioxide traps outgoing infrared radiation in the atmosphere, and its build-up from fossil fuel combustion drives enhanced global warming."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Temporary hardness of water is caused mainly by dissolved",
+      "options": [
+        "calcium sulphate",
+        "calcium hydrogen carbonate (bicarbonate)",
+        "sodium chloride",
+        "magnesium sulphate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Temporary hardness arises from calcium and magnesium hydrogen carbonates, which decompose on boiling to form insoluble carbonates, removing the hardness."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Permanent hardness of water, unlike temporary hardness, cannot be removed by",
+      "options": [
+        "adding washing soda (sodium carbonate)",
+        "ion exchange",
+        "boiling",
+        "distillation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Permanent hardness is caused by calcium and magnesium sulphates/chlorides, which do not decompose on boiling, unlike the bicarbonates causing temporary hardness."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which process is commonly used in large-scale municipal treatment to purify drinking water?",
+      "options": [
+        "Electrolysis only",
+        "Sedimentation, filtration, and chlorination",
+        "Sublimation",
+        "Fractional distillation only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water treatment plants typically use sedimentation to settle suspended solids, filtration to remove finer particles, and chlorination to kill pathogens."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of these is a major atmospheric pollutant produced by burning fossil fuels containing sulphur impurities?",
+      "options": [
+        "Water vapour",
+        "Sulphur dioxide",
+        "Argon",
+        "Nitrogen gas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sulphur dioxide from burning sulphur-containing fuels dissolves in atmospheric moisture to form sulphurous and sulphuric acids, contributing to acid rain."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A saturated solution is one that",
+      "options": [
+        "contains less solute than it can possibly dissolve",
+        "has no solute dissolved in it",
+        "contains more solute than a supersaturated solution at the same temperature",
+        "contains the maximum amount of solute that can dissolve in the solvent at a given temperature"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a saturated solution, undissolved solute exists in dynamic equilibrium with the dissolved solute, at the maximum concentration for that temperature."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A supersaturated solution is best described as one that",
+      "options": [
+        "contains more dissolved solute than a saturated solution would normally hold at that temperature",
+        "cannot dissolve any more solute under any condition",
+        "has no dissolved solute",
+        "is diluted below saturation point"
+      ],
+      "correctIndex": 0,
+      "explanation": "Supersaturated solutions are unstable and are usually prepared by cooling a hot saturated solution carefully so excess solute stays dissolved without crystallising."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "On a solubility curve, the solubility of most solid solutes in water generally",
+      "options": [
+        "remains constant with temperature",
+        "decreases as temperature increases",
+        "increases as temperature increases",
+        "is unaffected by temperature changes"
+      ],
+      "correctIndex": 2,
+      "explanation": "For most ionic solids, solubility rises with temperature because increased thermal energy helps break the solute's lattice and disperse ions into solution."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The solubility of a solute at a given temperature is typically expressed as",
+      "options": [
+        "the melting point of the solute",
+        "the number of solvent molecules present",
+        "the total volume of the solution",
+        "the mass of solute that dissolves in 100 g of solvent to form a saturated solution"
+      ],
+      "correctIndex": 3,
+      "explanation": "Solubility is conventionally quoted as grams of solute per 100 g of solvent at a stated temperature, allowing direct comparison across substances."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "If 40 g of a salt dissolves in 100 g of water at 60 degC to form a saturated solution, and the solution is cooled to 20 degC where solubility is 25 g per 100 g of water, how much salt crystallises out?",
+      "options": [
+        "40 g",
+        "25 g",
+        "65 g",
+        "15 g"
+      ],
+      "correctIndex": 3,
+      "explanation": "Excess salt that can no longer stay dissolved crystallises: 40 g - 25 g = 15 g of salt is deposited as the solution cools."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Gases generally become _____ soluble in water as temperature increases.",
+      "options": [
+        "more",
+        "equally",
+        "less",
+        "infinitely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike most solids, gas solubility in liquids decreases with rising temperature, which is why warm water holds less dissolved oxygen than cold water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An acid is best defined as a substance that",
+      "options": [
+        "donates hydrogen ions (protons) in solution",
+        "has a pH greater than 7",
+        "accepts protons in solution",
+        "donates hydroxide ions in solution"
+      ],
+      "correctIndex": 0,
+      "explanation": "By the Bronsted-Lowry definition, an acid is a proton (H+) donor, producing H3O+ ions when dissolved in water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A base that is soluble in water is specifically called",
+      "options": [
+        "an indicator",
+        "an oxide",
+        "an alkali",
+        "a salt"
+      ],
+      "correctIndex": 2,
+      "explanation": "All alkalis are bases, but only soluble bases (e.g., NaOH, KOH) are termed alkalis, since they release hydroxide ions into solution."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The pH scale ranges from 0 to 14. A solution with pH 7 is considered",
+      "options": [
+        "undefined",
+        "neutral",
+        "strongly acidic",
+        "strongly alkaline"
+      ],
+      "correctIndex": 1,
+      "explanation": "pH 7 indicates equal concentrations of H+ and OH- ions, characteristic of pure water and neutral solutions; below 7 is acidic, above 7 is alkaline."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which indicator turns red in acidic solution and blue in alkaline solution?",
+      "options": [
+        "Universal indicator only shows numbers",
+        "Litmus",
+        "Phenolphthalein (colourless in acid)",
+        "Methyl orange only turns yellow"
+      ],
+      "correctIndex": 1,
+      "explanation": "Litmus is a classic acid-base indicator: it turns red in acid and blue in alkali, making it a simple qualitative test."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Neutralization is the reaction between an acid and a base to produce",
+      "options": [
+        "a salt and a gas only",
+        "a salt and water",
+        "only a salt",
+        "only water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The general equation for neutralization is: acid + base -> salt + water, as in HCl + NaOH -> NaCl + H2O."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A salt formed by only partial replacement of the acidic hydrogen atoms of a dibasic acid is called",
+      "options": [
+        "a double salt",
+        "an acid salt",
+        "a normal salt",
+        "a basic salt"
+      ],
+      "correctIndex": 1,
+      "explanation": "An acid salt, e.g., NaHSO4, still contains a replaceable hydrogen atom because not all acidic hydrogens of the parent acid were neutralised."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is a normal salt?",
+      "options": [
+        "Ca(OH)Cl",
+        "NaHCO3",
+        "NaHSO4",
+        "NaCl"
+      ],
+      "correctIndex": 3,
+      "explanation": "A normal salt results from complete replacement of all replaceable hydrogen ions of an acid by a metal or ammonium ion, leaving no acidic hydrogen, as in NaCl."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In an acid-base titration, the point at which the acid exactly neutralises the base is called the",
+      "options": [
+        "dilution point",
+        "equivalence (end) point",
+        "starting point",
+        "saturation point"
+      ],
+      "correctIndex": 1,
+      "explanation": "The equivalence point (often signalled by an indicator colour change, the end point) is where moles of acid and base have reacted in exact stoichiometric proportion."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "25 cm3 of 0.1 mol/dm3 HCl exactly neutralises 20 cm3 of NaOH solution. What is the concentration of the NaOH?",
+      "options": [
+        "0.08 mol/dm3",
+        "0.125 mol/dm3",
+        "0.1 mol/dm3",
+        "0.2 mol/dm3"
+      ],
+      "correctIndex": 1,
+      "explanation": "HCl + NaOH -> NaCl + H2O (1:1 ratio). Moles HCl = 0.025 x 0.1 = 0.0025 mol = moles NaOH. Concentration NaOH = 0.0025/0.020 = 0.125 mol/dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which gas is evolved when a carbonate reacts with a dilute acid?",
+      "options": [
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbonates react with dilute acids to release carbon dioxide gas, which turns limewater milky, e.g., CaCO3 + 2HCl -> CaCl2 + H2O + CO2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Oxidation is best defined in terms of electron transfer as",
+      "options": [
+        "loss of oxygen",
+        "gain of electrons",
+        "gain of hydrogen",
+        "loss of electrons"
+      ],
+      "correctIndex": 3,
+      "explanation": "By the electronic definition, oxidation is loss of electrons (OIL: Oxidation Is Loss), while reduction is gain of electrons (RIG)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the oxidation number of chromium in the dichromate ion, Cr2O72-?",
+      "options": [
+        "+2",
+        "+6",
+        "+7",
+        "+3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Let Cr = x: 2x + 7(-2) = -2, so 2x - 14 = -2, 2x = 12, x = +6 for each chromium atom."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the reaction Zn + CuSO4 -> ZnSO4 + Cu, which species is the oxidising agent?",
+      "options": [
+        "SO4 2- ion",
+        "Zn metal",
+        "Cu2+ ion (in CuSO4)",
+        "Cu metal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cu2+ is reduced to Cu (gains electrons), which means it oxidises the zinc; the oxidising agent is always the species that itself gets reduced."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the same reaction, Zn + CuSO4 -> ZnSO4 + Cu, zinc metal acts as the",
+      "options": [
+        "neither oxidising nor reducing agent",
+        "oxidising agent, since it is oxidised",
+        "reducing agent, since it is oxidised",
+        "reducing agent, since it is reduced"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zinc loses electrons (Zn -> Zn2+ + 2e-), being oxidised itself, which makes it the reducing agent, since it causes the reduction of copper ions."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the oxidation number of sulphur in sulphuric acid, H2SO4?",
+      "options": [
+        "+6",
+        "+2",
+        "-2",
+        "+4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Let S = x: 2(+1) + x + 4(-2) = 0, so 2 + x - 8 = 0, giving x = +6."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following changes represents a reduction?",
+      "options": [
+        "Zn -> Zn2+ + 2e-",
+        "Fe2+ -> Fe3+ + e-",
+        "2Cl- -> Cl2 + 2e-",
+        "Fe3+ + e- -> Fe2+"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reduction is gain of electrons; Fe3+ gains one electron to become Fe2+, so this is a reduction half-equation."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A redox reaction always involves",
+      "options": [
+        "no change in oxidation number of any species",
+        "reduction only",
+        "oxidation only",
+        "both oxidation and reduction occurring simultaneously"
+      ],
+      "correctIndex": 3,
+      "explanation": "Redox reactions are so named because reduction and oxidation always occur together, since electrons lost by one species must be gained by another."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of these is typically a strong oxidising agent?",
+      "options": [
+        "Sodium metal",
+        "Hydrogen gas",
+        "Zinc metal",
+        "Potassium manganate(VII) (KMnO4)"
+      ],
+      "correctIndex": 3,
+      "explanation": "KMnO4 is a powerful oxidising agent because the manganese in the +7 oxidation state is readily reduced, accepting electrons from other species."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Electrolysis is the process by which",
+      "options": [
+        "an electric current decomposes an ionic compound in molten or dissolved state",
+        "a compound decomposes purely on heating",
+        "a gas diffuses through a porous membrane",
+        "two solutions are mixed to form a precipitate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Electrolysis passes direct current through a molten or dissolved electrolyte, driving ions to the electrodes where they are discharged and decomposed chemically."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "During electrolysis, positive ions (cations) migrate to the",
+      "options": [
+        "anode, where they are reduced",
+        "anode, where they are oxidised",
+        "cathode, where they are oxidised",
+        "cathode, where they are reduced"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cations are attracted to the negatively charged cathode, where they gain electrons (are reduced) to form neutral atoms or molecules."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Faraday's First Law of Electrolysis states that the mass of a substance liberated at an electrode is directly proportional to",
+      "options": [
+        "the temperature of the electrolyte",
+        "the volume of the electrolyte",
+        "the quantity of electricity (charge) passed through the electrolyte",
+        "the distance between the electrodes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Faraday's First Law: mass deposited/liberated = (charge passed) x (chemical equivalent)/Faraday constant, so mass is directly proportional to the charge passed."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "One Faraday of electricity is equal to the charge carried by",
+      "options": [
+        "one electron",
+        "one mole of electrons",
+        "one coulomb",
+        "one mole of protons"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Faraday (approximately 96,500 coulombs) is defined as the charge on one mole of electrons (Avogadro's number of electrons)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What mass of copper is deposited when a current of 2 amperes flows for 965 seconds through copper(II) sulphate solution? (1 Faraday = 96500 C, Cu = 64, deposition requires 2 electrons per Cu2+)",
+      "options": [
+        "1.28 g",
+        "0.64 g",
+        "0.32 g",
+        "2.56 g"
+      ],
+      "correctIndex": 1,
+      "explanation": "Charge = It = 2 x 965 = 1930 C. Moles of electrons = 1930/96500 = 0.02. Cu2+ + 2e- -> Cu, so moles Cu = 0.02/2 = 0.01. Mass = 0.01 x 64 = 0.64 g."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Electroplating is an industrial application of electrolysis used mainly to",
+      "options": [
+        "coat a metal object with a thin protective or decorative layer of another metal",
+        "extract reactive metals from their molten ores",
+        "separate mixtures of gases",
+        "purify water for drinking"
+      ],
+      "correctIndex": 0,
+      "explanation": "In electroplating, the object to be plated is made the cathode in a solution containing ions of the plating metal, which is deposited onto its surface."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which metal is commercially extracted by electrolysis of its molten oxide (dissolved in molten cryolite)?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Aluminium"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aluminium is too reactive to be extracted by carbon reduction, so its ore (bauxite, as Al2O3) is dissolved in molten cryolite and electrolysed (the Hall-Heroult process)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the electrolysis of dilute sulphuric acid using inert (platinum) electrodes, the gas liberated at the cathode is",
+      "options": [
+        "chlorine",
+        "sulphur dioxide",
+        "oxygen",
+        "hydrogen"
+      ],
+      "correctIndex": 3,
+      "explanation": "H+ ions are attracted to the cathode and reduced to hydrogen gas: 2H+ + 2e- -> H2, while oxygen is liberated at the anode from discharge of hydroxide/water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A reaction that releases heat to the surroundings, causing a rise in temperature, is described as",
+      "options": [
+        "exothermic",
+        "isothermic",
+        "adiabatic",
+        "endothermic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exothermic reactions release energy (enthalpy change is negative), warming the surroundings, as seen in combustion and neutralization reactions."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A reaction that absorbs heat from the surroundings, causing a fall in temperature, is described as",
+      "options": [
+        "isothermic",
+        "catalytic",
+        "endothermic",
+        "exothermic"
+      ],
+      "correctIndex": 2,
+      "explanation": "Endothermic reactions take in energy from the surroundings (enthalpy change is positive), cooling the surroundings, as in the decomposition of calcium carbonate."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "According to Le Chatelier's Principle, if a system at equilibrium is subjected to a change in conditions, the system will",
+      "options": [
+        "remain completely unaffected by the change",
+        "always shift towards the products regardless of the change",
+        "shift in the direction that tends to oppose (counteract) that change",
+        "always shift towards the reactants regardless of the change"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Chatelier's Principle predicts that equilibrium position adjusts to minimise the effect of an imposed change in concentration, pressure, or temperature."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the reversible reaction N2(g) + 3H2(g) <=> 2NH3(g) + heat, increasing pressure will shift the equilibrium",
+      "options": [
+        "towards the reactants, since there are fewer gas moles on that side",
+        "towards the products, only if a catalyst is present",
+        "towards the products, since there are fewer gas moles on that side",
+        "in no particular direction, since pressure has no effect"
+      ],
+      "correctIndex": 2,
+      "explanation": "There are 4 moles of gas on the reactant side and 2 on the product side; increasing pressure favours the side with fewer gas molecules, shifting equilibrium towards NH3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the same exothermic reaction N2(g) + 3H2(g) <=> 2NH3(g) + heat, increasing temperature will shift the equilibrium",
+      "options": [
+        "in no particular direction",
+        "completely to the products, converting all reactants",
+        "towards the reactants, since the forward reaction is exothermic",
+        "towards the products, since heat favours forward reaction"
+      ],
+      "correctIndex": 2,
+      "explanation": "By Le Chatelier's Principle, adding heat favours the endothermic (reverse) direction, so increasing temperature shifts an exothermic equilibrium back towards the reactants."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A catalyst increases the rate of a chemical reaction by",
+      "options": [
+        "increasing the concentration of reactants",
+        "shifting the position of equilibrium towards the products",
+        "providing an alternative reaction pathway with a lower activation energy",
+        "increasing the temperature of the reaction mixture"
+      ],
+      "correctIndex": 2,
+      "explanation": "Catalysts speed up reactions by lowering activation energy without being consumed, and importantly, they do not alter the equilibrium position, only how fast it is reached."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following factors does NOT generally increase the rate of a chemical reaction?",
+      "options": [
+        "Increasing the concentration of reactants",
+        "Increasing the surface area of a solid reactant",
+        "Adding a suitable catalyst",
+        "Decreasing the temperature"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lowering temperature reduces the kinetic energy and collision frequency of particles, decreasing (not increasing) reaction rate."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The minimum energy that colliding particles must possess for a reaction to occur is called the",
+      "options": [
+        "activation energy",
+        "bond energy",
+        "lattice energy",
+        "ionisation energy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Activation energy is the energy barrier that reacting particles must overcome during effective collisions for a reaction to proceed."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Alkanes are described as saturated hydrocarbons because they contain",
+      "options": [
+        "only single (C-C) covalent bonds between carbon atoms",
+        "at least one carbon-carbon triple bond",
+        "at least one carbon-carbon double bond",
+        "an aromatic ring structure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Saturation in organic chemistry means the carbon skeleton has only single bonds, as in the alkane homologous series (general formula CnH2n+2)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the general formula for the alkene homologous series?",
+      "options": [
+        "CnH2n-2",
+        "CnH2n+2",
+        "CnHn",
+        "CnH2n"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alkenes contain one C=C double bond, giving the general formula CnH2n, two hydrogens fewer per carbon than the corresponding saturated alkane."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which functional group characterises the alkanols (alcohols)?",
+      "options": [
+        "-CHO (aldehyde)",
+        "-C=C- (alkene)",
+        "-OH (hydroxyl)",
+        "-COOH (carboxyl)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alkanols are identified by the hydroxyl functional group (-OH) attached to a saturated carbon chain, e.g., ethanol, CH3CH2OH."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Alkanoic acids (carboxylic acids) are characterised by which functional group?",
+      "options": [
+        "-NH2",
+        "-OH",
+        "-CHO",
+        "-COOH"
+      ],
+      "correctIndex": 3,
+      "explanation": "The carboxyl group, -COOH, defines the alkanoic acid series, giving these compounds their characteristic acidic properties, e.g., ethanoic acid, CH3COOH."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An ester is formed by the reaction between",
+      "options": [
+        "an alkanoic acid and an alkanol",
+        "an alkane and an alkanol",
+        "two alkanols",
+        "an alkanoic acid and an alkane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Esterification is the condensation reaction of a carboxylic acid with an alcohol, catalysed by a strong acid, producing an ester and water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the IUPAC name of the hydrocarbon with the structural formula CH3-CH2-CH2-CH3?",
+      "options": [
+        "Pentane",
+        "Butene",
+        "Propane",
+        "Butane"
+      ],
+      "correctIndex": 3,
+      "explanation": "This is a straight-chain alkane with 4 carbon atoms and only single bonds, named butane according to IUPAC nomenclature rules."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The reaction of an alkene with bromine water, causing the orange-brown colour to decolourise, is used to test for",
+      "options": [
+        "unsaturation (a carbon-carbon double or triple bond)",
+        "the presence of an alcohol group",
+        "the presence of a carboxylic acid",
+        "saturation of a hydrocarbon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alkenes rapidly decolourise bromine water via addition across the C=C double bond, distinguishing them from saturated alkanes, which do not react."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Petroleum (crude oil) is separated into useful fractions such as petrol, kerosene, and diesel mainly by",
+      "options": [
+        "filtration, based on particle size",
+        "fractional distillation, based on differing boiling points",
+        "electrolysis, based on differing charges",
+        "chromatography, based on differing colours"
+      ],
+      "correctIndex": 1,
+      "explanation": "Crude oil is a mixture of hydrocarbons with different chain lengths and boiling points, separated in a fractionating column into fractions like petrol, kerosene, and diesel."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Polymers such as polythene are formed from small repeating units called",
+      "options": [
+        "isotopes",
+        "monomers",
+        "isomers",
+        "catalysts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polymerisation joins many small monomer units (e.g., ethene monomers forming polythene) into a large, repeating-unit macromolecule called a polymer."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which type of polymerisation occurs when ethene monomers join together without the loss of any small molecule?",
+      "options": [
+        "Hydrolysis",
+        "Esterification",
+        "Condensation polymerisation",
+        "Addition polymerisation"
+      ],
+      "correctIndex": 3,
+      "explanation": "In addition polymerisation, unsaturated monomers like ethene simply add together across their double bonds, with no by-product formed, unlike condensation polymerisation."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Iron is commercially extracted from its ore, haematite, in the blast furnace using which reducing agent?",
+      "options": [
+        "Hydrogen gas",
+        "Aluminium",
+        "Carbon monoxide (from coke)",
+        "Electrolysis"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the blast furnace, coke burns to form carbon monoxide, which reduces iron(III) oxide to molten iron: Fe2O3 + 3CO -> 2Fe + 3CO2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which property of metals allows them to be hammered into sheets without breaking?",
+      "options": [
+        "Malleability",
+        "Brittleness",
+        "Ductility",
+        "Volatility"
+      ],
+      "correctIndex": 0,
+      "explanation": "Malleability is the ability of a metal to be beaten or rolled into thin sheets, due to layers of metal ions being able to slide over one another."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Aluminium is often used for aircraft bodies and overhead cables mainly because of its",
+      "options": [
+        "low density combined with good strength and corrosion resistance",
+        "high reactivity with oxygen forming a flaking oxide",
+        "poor electrical conductivity",
+        "very high density"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aluminium's light weight, decent tensile strength, and a tough, adherent oxide layer that resists further corrosion make it ideal for aircraft and cables."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Copper is widely used in electrical wiring mainly because of its",
+      "options": [
+        "high reactivity",
+        "low melting point",
+        "brittleness",
+        "excellent electrical conductivity and ductility"
+      ],
+      "correctIndex": 3,
+      "explanation": "Copper conducts electricity very efficiently and can be drawn into thin wires (ductility), making it the standard choice for household and industrial wiring."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Nitrogen gas is manufactured industrially into ammonia by the Haber process, mainly for use in",
+      "options": [
+        "bleaching textiles",
+        "water purification",
+        "the manufacture of nitrogenous fertilisers",
+        "extraction of metals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ammonia produced from nitrogen and hydrogen (Haber process) is used mainly as a raw material for nitrogenous fertilisers like ammonium sulphate and urea."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Chlorine gas is widely used in water treatment plants mainly for its",
+      "options": [
+        "ability to soften hard water",
+        "disinfecting (germicidal) property, killing harmful microorganisms",
+        "ability to remove suspended solids by sedimentation",
+        "role as a fuel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorine is added to drinking water in controlled amounts because it kills disease-causing bacteria and other pathogens, making the water safe to drink."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In terms of bond energies, a reaction is exothermic overall when",
+      "options": [
+        "the energy released in forming new bonds in the products exceeds the energy absorbed in breaking bonds in the reactants",
+        "equal energy is always absorbed and released",
+        "no bonds are broken or formed during the reaction",
+        "the energy absorbed in breaking bonds exceeds the energy released in forming new bonds"
+      ],
+      "correctIndex": 0,
+      "explanation": "A reaction is exothermic when more energy is released forming the new bonds of the products than was needed to break the bonds of the reactants, giving a net release of energy."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which technique separates an insoluble solid from a liquid using a porous barrier?",
+      "options": [
+        "Distillation",
+        "Filtration",
+        "Chromatography",
+        "Sublimation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Filtration uses a porous barrier (filter paper) to retain insoluble solid particles while allowing the liquid to pass through as filtrate."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A pure liquid boils at a constant, sharp temperature. The presence of an impurity typically causes the boiling point to",
+      "options": [
+        "fall and remain perfectly sharp",
+        "fall to absolute zero",
+        "rise, and boiling occurs over a range of temperature",
+        "stay exactly the same"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dissolved impurities raise the boiling point of a liquid and cause it to boil over a range rather than at one sharp, fixed temperature."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is a physical change?",
+      "options": [
+        "Rusting of iron",
+        "Burning of magnesium ribbon",
+        "Melting of ice",
+        "Digestion of food"
+      ],
+      "correctIndex": 2,
+      "explanation": "Melting of ice is a physical change because only the state changes (solid to liquid); no new substance is formed, unlike the other examples, which are chemical changes."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Decantation is most suitable for separating",
+      "options": [
+        "dyes present in a mixture of inks",
+        "two completely miscible liquids",
+        "a dissolved salt from its solution",
+        "a liquid from a settled insoluble solid by carefully pouring off the liquid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Decantation involves gently pouring off a liquid from a settled solid residue, leaving the denser solid behind at the bottom of the vessel."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The Law of Conservation of Mass states that",
+      "options": [
+        "equal volumes of gases contain equal numbers of molecules",
+        "elements of a compound combine in a fixed mass ratio",
+        "gases combine in simple whole-number volume ratios",
+        "mass is neither created nor destroyed in a chemical reaction"
+      ],
+      "correctIndex": 3,
+      "explanation": "This law states that the total mass of reactants equals the total mass of products in a chemical reaction, since atoms are only rearranged, not created or destroyed."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Avogadro's number, representing the number of particles in one mole of a substance, is approximately",
+      "options": [
+        "6.02 x 10^23",
+        "9.65 x 10^4",
+        "22.4 x 10^23",
+        "3.0 x 10^8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avogadro's number, 6.02 x 10^23 per mole, is the fixed number of atoms, molecules, or ions present in one mole of any substance."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The relative atomic mass of an element is defined relative to",
+      "options": [
+        "the mass of one hydrogen atom",
+        "1/12 the mass of a carbon-12 atom",
+        "the mass of one oxygen-16 atom",
+        "the mass of one mole of electrons"
+      ],
+      "correctIndex": 1,
+      "explanation": "By modern convention, relative atomic masses are measured on a scale where one atom of carbon-12 is assigned a mass of exactly 12 units."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the molar mass of ammonium sulphate, (NH4)2SO4? (N = 14, H = 1, S = 32, O = 16)",
+      "options": [
+        "96",
+        "114",
+        "150",
+        "132"
+      ],
+      "correctIndex": 3,
+      "explanation": "(NH4)2SO4 = 2(14 + 4) + 32 + 4(16) = 2(18) + 32 + 64 = 36 + 32 + 64 = 132."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the approximate percentage by mass of nitrogen in ammonia, NH3? (N = 14, H = 1)",
+      "options": [
+        "17.6%",
+        "82.4%",
+        "58.8%",
+        "23.5%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molar mass of NH3 = 17. Percentage nitrogen = (14/17) x 100 = 82.4%."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A compound has empirical formula CH2 and a molar mass of 56 g/mol. What is its molecular formula? (C = 12, H = 1)",
+      "options": [
+        "C3H6",
+        "C5H10",
+        "C4H8",
+        "C2H4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Empirical formula mass of CH2 = 14. Since 56/14 = 4, the molecular formula is 4 times the empirical formula: C4H8."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A gas has a volume of 300 cm3 at 27 degC and 1 atmosphere pressure. What volume will it occupy at 127 degC and 2 atmospheres pressure?",
+      "options": [
+        "200 cm3",
+        "400 cm3",
+        "150 cm3",
+        "300 cm3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using P1V1/T1 = P2V2/T2 with T1 = 300 K and T2 = 400 K: (1 x 300)/300 = (2 x V2)/400, so V2 = (1 x 400)/2 = 200 cm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Gas A diffuses twice as fast as gas B. If the molar mass of gas B is 64, what is the molar mass of gas A?",
+      "options": [
+        "16",
+        "4",
+        "128",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Graham's Law, rate_A/rate_B = sqrt(M_B/M_A). Since rate_A/rate_B = 2, M_B/M_A = 4, so M_A = 64/4 = 16."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An atom has a mass number of 39 and an atomic number of 19. How many neutrons does it contain?",
+      "options": [
+        "39",
+        "19",
+        "20",
+        "58"
+      ],
+      "correctIndex": 2,
+      "explanation": "Number of neutrons = mass number - atomic number = 39 - 19 = 20."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the electronic configuration of the Cl- ion? (Chlorine has atomic number 17)",
+      "options": [
+        "2,8,8",
+        "2,8,6",
+        "2,8,9",
+        "2,8,7"
+      ],
+      "correctIndex": 0,
+      "explanation": "A chlorine atom (2,8,7) gains one electron to form Cl-, giving the stable configuration 2,8,8, the same as argon."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Ionisation energy generally behaves as follows in the periodic table:",
+      "options": [
+        "it decreases down a group and decreases across a period",
+        "it decreases down a group and increases across a period from left to right",
+        "it increases down a group and decreases across a period",
+        "it increases down a group and increases across a period"
+      ],
+      "correctIndex": 1,
+      "explanation": "Down a group, increased shielding and atomic radius make electron removal easier (lower ionisation energy); across a period, increasing nuclear charge makes it harder (higher ionisation energy)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Group I elements of the periodic table are commonly known as",
+      "options": [
+        "alkali metals",
+        "halogens",
+        "noble gases",
+        "alkaline earth metals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Group I elements (lithium, sodium, potassium, etc.) are called alkali metals because they react with water to form strongly alkaline hydroxide solutions."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The weak intermolecular forces of attraction present between all molecules, including non-polar ones, are called",
+      "options": [
+        "ionic bonds",
+        "van der Waals forces",
+        "metallic bonds",
+        "covalent bonds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Van der Waals forces are weak, temporary attractions arising from fluctuating electron distributions, present even between non-polar molecules like noble gas atoms."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A bond between two atoms is generally considered ionic rather than covalent when the difference in electronegativity between them is",
+      "options": [
+        "very small",
+        "large",
+        "zero",
+        "negative"
+      ],
+      "correctIndex": 1,
+      "explanation": "A large electronegativity difference favours complete electron transfer (ionic bonding), while a small or zero difference favours electron sharing (covalent bonding)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The random, erratic movement of smoke particles observed under a microscope, caused by collisions with fast-moving air molecules, is called",
+      "options": [
+        "osmosis",
+        "effusion",
+        "Brownian motion",
+        "diffusion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brownian motion is the visible, random jittering of larger suspended particles caused by continuous, unequal bombardment from surrounding fast-moving molecules."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The direct change of a substance from gas to solid, without passing through the liquid state, is called",
+      "options": [
+        "sublimation",
+        "freezing",
+        "deposition",
+        "condensation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deposition is the reverse of sublimation, occurring when a gas changes directly into a solid, as seen when water vapour forms frost."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the molarity of a solution containing 4 g of NaOH dissolved in 500 cm3 of solution? (Na = 23, O = 16, H = 1)",
+      "options": [
+        "0.4 mol/dm3",
+        "0.2 mol/dm3",
+        "0.1 mol/dm3",
+        "2.0 mol/dm3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molar mass of NaOH = 40. Moles = 4/40 = 0.1 mol. Molarity = moles/volume(dm3) = 0.1/0.5 = 0.2 mol/dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "50 cm3 of 2.0 mol/dm3 HCl is diluted with water to a total volume of 200 cm3. What is the concentration of the diluted solution?",
+      "options": [
+        "0.25 mol/dm3",
+        "1.0 mol/dm3",
+        "0.5 mol/dm3",
+        "2.0 mol/dm3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using C1V1 = C2V2: 2.0 x 50 = C2 x 200, so C2 = 100/200 = 0.5 mol/dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The solubility of a gas in a liquid generally increases with",
+      "options": [
+        "increasing pressure and decreasing temperature",
+        "decreasing pressure alone",
+        "decreasing pressure and increasing temperature",
+        "increasing temperature alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gas solubility rises with higher pressure (more gas forced into solution) and lower temperature (less kinetic energy for gas molecules to escape)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "During a chemical reaction, breaking bonds in the reactants requires an input of energy, while forming new bonds in the products",
+      "options": [
+        "involves no energy change",
+        "releases energy",
+        "only happens in endothermic reactions",
+        "also requires energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bond breaking always absorbs energy and bond formation always releases energy; whether the overall reaction is exothermic or endothermic depends on which effect dominates."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Entropy is best described as a measure of",
+      "options": [
+        "the degree of disorder or randomness of a system",
+        "the heat capacity of a substance",
+        "the total energy content of a system",
+        "the rate of a chemical reaction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Entropy quantifies the disorder or randomness of a system's particles; processes tend to proceed towards states of greater overall entropy."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is a classic reversible reaction studied at equilibrium?",
+      "options": [
+        "neutralisation of HCl by NaOH",
+        "combustion of magnesium ribbon in oxygen",
+        "2SO2(g) + O2(g) <=> 2SO3(g)",
+        "rusting of iron in moist air"
+      ],
+      "correctIndex": 2,
+      "explanation": "The oxidation of sulphur dioxide to sulphur trioxide (used in the Contact Process) is a reversible reaction that reaches a dynamic equilibrium, unlike the other examples, which go to completion."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Increasing the concentration of reactants in a solution increases the rate of reaction mainly because",
+      "options": [
+        "it lowers the activation energy of the reaction",
+        "it increases the frequency of collisions between reacting particles",
+        "it changes the reaction mechanism entirely",
+        "it increases the temperature of the reaction mixture"
+      ],
+      "correctIndex": 1,
+      "explanation": "A higher concentration means more particles per unit volume, leading to more frequent effective collisions and hence a faster reaction rate."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A reaction should theoretically produce 20 g of product, but only 15 g is actually obtained. What is the percentage yield?",
+      "options": [
+        "80%",
+        "60%",
+        "75%",
+        "133%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Percentage yield = (actual yield/theoretical yield) x 100 = (15/20) x 100 = 75%."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What volume, in dm3, is occupied by 0.2 mole of a gas at s.t.p.? (Molar volume = 22.4 dm3/mol)",
+      "options": [
+        "22.4 dm3",
+        "4.48 dm3",
+        "44.8 dm3",
+        "2.24 dm3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volume = number of moles x molar volume = 0.2 x 22.4 = 4.48 dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the approximate density of carbon dioxide gas at s.t.p., in g/dm3? (CO2 molar mass = 44, molar volume = 22.4 dm3/mol)",
+      "options": [
+        "1.96 g/dm3",
+        "4.4 g/dm3",
+        "22.4 g/dm3",
+        "2.24 g/dm3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Density = molar mass/molar volume = 44/22.4 = 1.96 g/dm3."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Chlorine has two isotopes, Cl-35 (75% abundance) and Cl-37 (25% abundance). What is the relative atomic mass of chlorine?",
+      "options": [
+        "36.0",
+        "36.5",
+        "35.5",
+        "35.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Relative atomic mass = (35 x 0.75) + (37 x 0.25) = 26.25 + 9.25 = 35.5."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is a chemical property, not a physical property, of a substance?",
+      "options": [
+        "Melting point",
+        "Density",
+        "Flammability",
+        "Colour"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flammability describes how a substance reacts (burns) with oxygen, forming new substances, whereas density, melting point, and colour can be observed without any chemical change occurring."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The process by which molecules of a gas or liquid spontaneously spread out to fill the space available to them is called",
+      "options": [
+        "osmosis",
+        "effusion",
+        "diffusion",
+        "dialysis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diffusion is the net movement of particles from a region of higher concentration to lower concentration due to their random motion, until evenly spread throughout the space."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Dilute acids react with reactive metals such as zinc or magnesium to produce",
+      "options": [
+        "oxygen gas and a salt",
+        "only a salt, with no gas evolved",
+        "hydrogen gas and a salt",
+        "carbon dioxide and a salt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reactive metals displace hydrogen from dilute acids, forming a salt and releasing hydrogen gas, e.g., Zn + 2HCl -> ZnCl2 + H2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A strong acid is one that",
+      "options": [
+        "is always highly concentrated",
+        "always has a pH of exactly 7",
+        "ionises completely in aqueous solution",
+        "does not ionise at all in water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strong acids like HCl and H2SO4 dissociate almost completely into ions in water, unlike weak acids such as ethanoic acid, which only partially ionise."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The basicity of an acid refers to",
+      "options": [
+        "the number of replaceable hydrogen atoms per molecule of the acid",
+        "its strength as measured on the pH scale",
+        "the number of oxygen atoms in its formula",
+        "the number of hydroxide ions it produces in solution"
+      ],
+      "correctIndex": 0,
+      "explanation": "Basicity describes how many acidic (replaceable) hydrogen atoms an acid molecule has; for example, H2SO4 is dibasic, having two replaceable hydrogens."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An amphoteric oxide is one that can react chemically with",
+      "options": [
+        "only bases",
+        "both acids and bases",
+        "only acids",
+        "neither acids nor bases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amphoteric oxides, such as aluminium oxide and zinc oxide, can act as either an acid or a base, reacting with both acids and alkalis to form salts."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "An aqueous solution of ammonium chloride is slightly acidic because",
+      "options": [
+        "the ammonium ion hydrolyses in water to release H+ ions",
+        "it contains no water molecules",
+        "it is a salt of a strong acid and a strong base",
+        "the chloride ion hydrolyses in water to release OH- ions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ammonium chloride is a salt of a strong acid (HCl) and a weak base (NH3); the ammonium ion hydrolyses slightly, releasing H+ and making the solution acidic."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Hydrated copper(II) sulphate crystals, CuSO4.5H2O, are heated until all water of crystallisation is driven off. The resulting anhydrous salt is",
+      "options": [
+        "black in colour",
+        "white in colour",
+        "green in colour",
+        "still blue in colour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Removing the water of crystallisation turns blue hydrated copper(II) sulphate into white anhydrous copper(II) sulphate powder."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A 5.0 g sample of hydrated magnesium sulphate, MgSO4.xH2O, is heated to constant mass, losing 2.56 g of water and leaving 2.44 g of anhydrous MgSO4. (MgSO4 = 120, H2O = 18). What is the value of x?",
+      "options": [
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Moles of MgSO4 = 2.44/120 = 0.0203; moles of H2O = 2.56/18 = 0.1422. Ratio of H2O to MgSO4 = 0.1422/0.0203 is approximately 7, so x = 7, matching Epsom salt, MgSO4.7H2O."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the oxidation number of nitrogen in the nitrate ion, NO3-?",
+      "options": [
+        "+4",
+        "+5",
+        "-3",
+        "+3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Let nitrogen = x: x + 3(-2) = -1, so x - 6 = -1, giving x = +5."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What quantity of electricity (in coulombs) is required to deposit 5.4 g of silver from silver nitrate solution during electrolysis? (Ag = 108, 1 Faraday = 96500 C, Ag+ + e- -> Ag)",
+      "options": [
+        "1930 C",
+        "2412.5 C",
+        "4825 C",
+        "9650 C"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moles of Ag = 5.4/108 = 0.05 mol. Since one electron deposits one Ag atom, charge = 0.05 x 96500 = 4825 C."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "In the electrolysis of molten lead(II) bromide, PbBr2, using inert electrodes, the reaction occurring at the anode is",
+      "options": [
+        "Pb2+ + 2e- -> Pb",
+        "2Br- -> Br2 + 2e-",
+        "Br2 + 2e- -> 2Br-",
+        "2H2O -> O2 + 4H+ + 4e-"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the anode (positive electrode), bromide ions are oxidised (lose electrons) to form bromine gas, since molten PbBr2 has no water present."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Sodium metal is extracted industrially by electrolysis of",
+      "options": [
+        "aqueous sodium hydroxide solution",
+        "molten sodium oxide only",
+        "molten sodium chloride, in the Downs process",
+        "aqueous sodium chloride solution"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sodium is too reactive to extract by chemical reduction, so it is obtained by electrolysing molten sodium chloride in the industrial Downs process."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which method is used to extract a moderately reactive metal such as zinc or iron from its oxide ore?",
+      "options": [
+        "The metal is found native and needs no extraction",
+        "Thermal decomposition alone, with no reducing agent",
+        "Chemical reduction with carbon or carbon monoxide",
+        "Electrolysis of the molten oxide"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metals of moderate reactivity, like zinc and iron, are extracted by reducing their oxide ores with carbon or carbon monoxide, which is cheaper than electrolysis."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is a noble (inert) gas found in trace amounts in the atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Argon",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Argon makes up about 0.93% of the atmosphere and, as a noble gas, is chemically unreactive under ordinary conditions."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Anhydrous copper(II) sulphate is commonly used to test for the presence of water because, on contact with water, it turns from",
+      "options": [
+        "blue to white",
+        "white to blue",
+        "pink to blue",
+        "colourless to pink"
+      ],
+      "correctIndex": 1,
+      "explanation": "White anhydrous copper(II) sulphate absorbs water to reform hydrated blue copper(II) sulphate crystals, providing a simple visual test for water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Hydrogen gas is commonly prepared in the laboratory by reacting",
+      "options": [
+        "manganese(IV) oxide with concentrated hydrochloric acid",
+        "copper with dilute sulphuric acid",
+        "zinc granules with dilute hydrochloric acid",
+        "sodium chloride with water"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zinc, a reactive metal, displaces hydrogen from dilute hydrochloric acid: Zn + 2HCl -> ZnCl2 + H2, a standard laboratory preparation of hydrogen."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The characteristic laboratory test for hydrogen gas is that it",
+      "options": [
+        "turns damp litmus paper red then bleaches it",
+        "burns with a 'pop' sound when a lighted splint is introduced",
+        "turns limewater milky",
+        "relights a glowing splint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydrogen gas gives a characteristic squeaky 'pop' sound when ignited with a lighted splint, distinguishing it from oxygen and other common gases."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Reactivity of the halogens (Group VII elements) generally",
+      "options": [
+        "increases then decreases irregularly",
+        "remains constant down the group",
+        "decreases down the group",
+        "increases down the group"
+      ],
+      "correctIndex": 2,
+      "explanation": "Down Group VII, atomic radius increases and the outer shell is further from the nucleus, making it harder to attract an extra electron, so reactivity decreases."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Chlorine gas bubbled through potassium bromide solution displaces bromine because",
+      "options": [
+        "halogens never displace one another",
+        "chlorine is less electronegative than bromine",
+        "chlorine is more reactive (a stronger oxidising agent) than bromine",
+        "bromine is more reactive than chlorine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Being higher in Group VII, chlorine is a stronger oxidising agent than bromine and so displaces bromide ions to form bromine: Cl2 + 2KBr -> 2KCl + Br2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Oxygen gas is confirmed present in a test tube by testing with a",
+      "options": [
+        "lighted splint, which it extinguishes with a pop",
+        "glowing splint, which it relights",
+        "sample of limewater, which it turns milky",
+        "piece of damp red litmus paper, which it turns blue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen supports combustion, so a glowing splint inserted into a test tube of the gas will burst back into flame (relight)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Nitrogen gas is relatively unreactive at room temperature mainly because of",
+      "options": [
+        "the strong triple covalent bond between its two nitrogen atoms",
+        "its high solubility in water",
+        "its unusually large atomic radius",
+        "its very low density"
+      ],
+      "correctIndex": 0,
+      "explanation": "The N triple bond N in the N2 molecule has very high bond energy, requiring a lot of energy to break, which makes nitrogen gas chemically inert under normal conditions."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Diamond and graphite are both allotropes of carbon, yet graphite conducts electricity while diamond does not, because",
+      "options": [
+        "graphite contains more carbon atoms per gram than diamond",
+        "diamond contains metallic impurities that block conduction",
+        "graphite has delocalised electrons that can move freely within its layers, unlike diamond's fully bonded structure",
+        "diamond is denser than graphite"
+      ],
+      "correctIndex": 2,
+      "explanation": "In graphite, each carbon is bonded to only three others, leaving one delocalised electron per atom free to move and conduct electricity, unlike diamond, where all four electrons are localised in covalent bonds."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Carbon dioxide gas is confirmed by bubbling it through limewater, which turns",
+      "options": [
+        "milky (cloudy) due to the formation of insoluble calcium carbonate",
+        "brown due to an oxidation reaction",
+        "colourless and remains completely clear",
+        "blue due to the formation of a complex ion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbon dioxide reacts with calcium hydroxide (limewater) to form insoluble calcium carbonate, which clouds the solution: CO2 + Ca(OH)2 -> CaCO3 + H2O."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Rhombic sulphur and monoclinic sulphur are examples of",
+      "options": [
+        "isomers of sulphur",
+        "isotopes of sulphur",
+        "hydrates of sulphur",
+        "allotropes of sulphur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rhombic and monoclinic sulphur are different crystalline structural forms (allotropes) of the same element, sulphur, stable at different temperatures."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Sulphur dioxide gas can be identified by its ability to",
+      "options": [
+        "turn acidified potassium dichromate(VI) paper from orange to green",
+        "relight a glowing splint",
+        "produce a 'pop' sound with a lighted splint",
+        "turn limewater milky instantly and permanently"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sulphur dioxide is a reducing agent that reduces orange dichromate(VI) ions to green chromium(III) ions, providing a characteristic test."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "When a small piece of sodium metal is added to water, it",
+      "options": [
+        "dissolves completely with no chemical reaction",
+        "sinks immediately without reacting",
+        "reacts violently to produce oxygen gas",
+        "floats, moves rapidly across the surface, and reacts to liberate hydrogen gas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sodium is less dense than water and reacts vigorously with it, darting across the surface while releasing hydrogen gas and forming sodium hydroxide: 2Na + 2H2O -> 2NaOH + H2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Calcium oxide (quicklime) reacts with water to form calcium hydroxide (slaked lime) in a reaction that is",
+      "options": [
+        "highly exothermic",
+        "highly endothermic",
+        "not a chemical reaction at all",
+        "reversible only at very high pressure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reaction CaO + H2O -> Ca(OH)2 releases a large amount of heat, making it strongly exothermic, sometimes enough to make the water boil."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Aluminium oxide, Al2O3, is described as amphoteric because it reacts chemically with",
+      "options": [
+        "neither acids nor alkalis",
+        "both acids and alkalis to form salts",
+        "only acids to form salts",
+        "only alkalis to form salts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aluminium oxide reacts with acids to form aluminium salts and with alkalis to form aluminates, demonstrating its amphoteric nature."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Rusting of iron is best prevented by",
+      "options": [
+        "exposing the iron to more oxygen",
+        "storing the iron permanently in water",
+        "heating the iron continuously",
+        "coating the iron surface with paint, oil, or zinc (galvanising) to exclude air and moisture"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rusting requires both oxygen and water; coating iron with paint, oil, or a protective zinc layer (galvanising) excludes these and prevents corrosion."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A characteristic property of transition metals, distinguishing them from Group I and Group II metals, is that they",
+      "options": [
+        "exist only in the +1 oxidation state",
+        "are more reactive than sodium and potassium",
+        "commonly exhibit variable oxidation states and form coloured compounds",
+        "form only colourless compounds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transition metals typically show several oxidation states and form coloured compounds and ions, due to their partially filled d-orbitals, unlike the s-block metals."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Brass is an alloy composed mainly of",
+      "options": [
+        "copper and zinc",
+        "aluminium and copper",
+        "iron and carbon",
+        "copper and tin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brass is an alloy of copper and zinc, valued for its improved strength, workability, and corrosion resistance compared to pure copper."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Steel is an alloy of iron with a small, controlled percentage of",
+      "options": [
+        "sodium",
+        "carbon",
+        "aluminium",
+        "silver"
+      ],
+      "correctIndex": 1,
+      "explanation": "Steel is produced by adding a controlled small amount of carbon to iron, which greatly increases its hardness and strength compared to pure iron."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Ammonia gas can be identified by its characteristic pungent smell and its ability to",
+      "options": [
+        "relight a glowing splint",
+        "turn damp blue litmus paper red",
+        "produce a 'pop' sound with a lighted splint",
+        "turn damp red litmus paper blue"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ammonia is an alkaline gas that dissolves in the moisture on damp red litmus paper, turning it blue, which is a standard test for ammonia."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A homologous series is a group of organic compounds that",
+      "options": [
+        "all have exactly the same molecular formula",
+        "contain only carbon and hydrogen atoms",
+        "are all gases at room temperature",
+        "have the same general formula and similar chemical properties, differing by a CH2 unit between successive members"
+      ],
+      "correctIndex": 3,
+      "explanation": "Members of a homologous series share a common general formula and similar chemical behaviour, with each successive member differing by one CH2 unit in molecular formula and mass."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Structural isomers are compounds that have",
+      "options": [
+        "the same physical properties but different molecular formulas",
+        "the same molecular formula but different structural arrangements of atoms",
+        "the same number of carbon atoms only, with no other similarity",
+        "different molecular formulas but the same structural arrangement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Structural isomers share an identical molecular formula but differ in how their atoms are bonded and arranged, giving them different properties."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Alkanones (ketones) are characterised by which functional group?",
+      "options": [
+        "A carboxyl group, -COOH",
+        "A carbonyl group bonded to at least one hydrogen atom",
+        "A carbonyl group, C=O, bonded to two carbon atoms",
+        "A hydroxyl group, -OH"
+      ],
+      "correctIndex": 2,
+      "explanation": "In ketones, the carbonyl carbon is bonded to two other carbon atoms (as in propanone, CH3COCH3), distinguishing them from aldehydes, where it is bonded to at least one hydrogen."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Alkanals (aldehydes) contain the functional group",
+      "options": [
+        "-NH2",
+        "-CHO, a carbonyl carbon bonded to at least one hydrogen atom",
+        "-COOH",
+        "-OH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aldehydes are identified by the -CHO group, where the carbonyl carbon is always bonded to at least one hydrogen atom, usually at the end of the carbon chain."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which functional group characterises the amines?",
+      "options": [
+        "-COOH",
+        "-CHO",
+        "-OH",
+        "-NH2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Amines are organic derivatives of ammonia containing the amino group, -NH2, attached to a carbon chain, e.g., methylamine, CH3NH2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the IUPAC name of CH3-CH2-CH2-OH?",
+      "options": [
+        "Propan-2-ol",
+        "Butan-1-ol",
+        "Propan-1-ol",
+        "Ethanol"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is a three-carbon alcohol with the -OH group on the terminal (first) carbon, so it is named propan-1-ol."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the name of the ester formed from the reaction of ethanoic acid with methanol?",
+      "options": [
+        "Methyl ethanoate",
+        "Ethyl methanoate",
+        "Ethyl ethanoate",
+        "Methyl methanoate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The alcohol (methanol) provides the alkyl part of the name (methyl), and the acid (ethanoic acid) provides the '-oate' part, giving methyl ethanoate."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the general formula of the alkyne homologous series?",
+      "options": [
+        "CnH2n+2",
+        "CnH2n",
+        "CnHn",
+        "CnH2n-2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alkynes contain one carbon-carbon triple bond, giving the general formula CnH2n-2, four hydrogens fewer per carbon than the corresponding alkane."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Alkynes, like alkenes, decolourise bromine water because they contain",
+      "options": [
+        "only single bonds throughout the molecule",
+        "at least one carbon-carbon triple bond, which undergoes addition reactions",
+        "an aromatic benzene ring",
+        "a hydroxyl functional group"
+      ],
+      "correctIndex": 1,
+      "explanation": "The carbon-carbon triple bond in alkynes is a site of unsaturation that readily undergoes addition reactions with bromine, decolourising bromine water."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Benzene, C6H6, has a structure best described as",
+      "options": [
+        "a fully saturated six-membered ring with only single bonds",
+        "three completely separate, isolated double bonds",
+        "a planar ring of six carbon atoms with delocalised pi electrons above and below the ring",
+        "a straight chain of six carbon atoms with alternating fixed double bonds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzene's six carbon atoms form a planar hexagonal ring with delocalised pi electrons spread evenly above and below the ring, giving all C-C bonds equal length and extra stability."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Benzene is more resistant to addition reactions than a typical alkene mainly because of",
+      "options": [
+        "its very high molecular mass",
+        "the complete absence of pi electrons in its structure",
+        "its strongly ionic character",
+        "the delocalisation of its pi electrons around the ring, giving it extra stability"
+      ],
+      "correctIndex": 3,
+      "explanation": "The delocalised electron system in benzene lowers its overall energy (delocalisation/resonance stabilisation), making it favour substitution reactions over addition, unlike alkenes."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Alkanes react with chlorine gas in the presence of ultraviolet light via",
+      "options": [
+        "a neutralisation reaction",
+        "a condensation reaction, releasing water",
+        "a substitution reaction, replacing hydrogen atoms with chlorine atoms",
+        "an addition reaction across a carbon-carbon double bond"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since alkanes are saturated (no double bonds), chlorine substitutes for hydrogen atoms one at a time under UV light, forming chloroalkanes and hydrogen chloride."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Ethene reacts with hydrogen gas in the presence of a nickel catalyst to form",
+      "options": [
+        "ethane, via an addition reaction",
+        "ethanol",
+        "ethanoic acid",
+        "ethyne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hydrogenation adds hydrogen across the C=C double bond of ethene, using a nickel catalyst, to produce the saturated hydrocarbon ethane."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Ethene can be converted industrially to ethanol by reacting it with steam in the presence of",
+      "options": [
+        "an alkaline solution, via a hydrolysis reaction",
+        "concentrated sulphuric acid only, via a substitution reaction",
+        "a phosphoric acid catalyst, in an addition (hydration) reaction",
+        "a nickel catalyst, via an elimination reaction"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the catalytic hydration process, ethene and steam react over a phosphoric acid catalyst under pressure, adding water across the double bond to form ethanol."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Ethanol can be produced biologically from glucose by fermentation using",
+      "options": [
+        "bacteria, in the presence of excess oxygen",
+        "concentrated sulphuric acid",
+        "a nickel catalyst under high pressure",
+        "yeast (containing the enzyme zymase), in the absence of air"
+      ],
+      "correctIndex": 3,
+      "explanation": "During anaerobic fermentation, the zymase enzyme in yeast converts glucose into ethanol and carbon dioxide: C6H12O6 -> 2C2H5OH + 2CO2."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "When ethanol is oxidised by acidified potassium dichromate(VI), it forms first ethanal and then, on further oxidation,",
+      "options": [
+        "ethyl ethanoate",
+        "ethene",
+        "ethanoic acid",
+        "ethane"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ethanol is oxidised in stages: first to the aldehyde, ethanal, then further to the carboxylic acid, ethanoic acid, by the acidified dichromate(VI) oxidising agent."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Ethanol undergoes dehydration when heated with excess concentrated sulphuric acid or passed over hot aluminium oxide, forming",
+      "options": [
+        "ethane and water",
+        "ethyne and hydrogen",
+        "ethanoic acid",
+        "ethene and water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dehydration removes a molecule of water from ethanol, forming the unsaturated hydrocarbon ethene: C2H5OH -> C2H4 + H2O."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "A simple test to distinguish an alkanol from an alkanoic acid is to add a small amount of",
+      "options": [
+        "water, which dissolves both compounds equally well",
+        "sodium carbonate, which produces effervescence (carbon dioxide gas) only with the acid",
+        "bromine water, which decolourises with both compounds",
+        "universal indicator, which shows the same colour with both compounds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carboxylic acids react with carbonates to release carbon dioxide gas (effervescence), while neutral alkanols show no such reaction, providing a simple distinguishing test."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Catalytic cracking of long-chain hydrocarbons is the process of",
+      "options": [
+        "joining small hydrocarbon molecules into larger polymer chains",
+        "distilling crude oil into separate fractions",
+        "breaking large hydrocarbon molecules into smaller, more useful ones, including alkenes",
+        "removing sulphur impurities from crude oil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cracking breaks large, less useful hydrocarbon molecules from heavier fractions into smaller alkanes and alkenes, which are in greater industrial demand."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Cracking of hydrocarbon fractions from crude oil is carried out mainly because",
+      "options": [
+        "cracking increases the boiling point of the fractions produced",
+        "smaller hydrocarbons cannot be used as fuels at all",
+        "larger hydrocarbons burn more efficiently as fuel without modification",
+        "there is greater industrial demand for smaller, more volatile hydrocarbons like petrol than for larger ones"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fractional distillation of crude oil yields more heavy fractions than the market demands, so cracking converts the excess into smaller, more commercially valuable hydrocarbons such as petrol."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Soap is manufactured by heating animal or vegetable fat with concentrated sodium hydroxide solution in a process called",
+      "options": [
+        "fermentation, which produces an alcohol",
+        "cracking, which breaks the fat into smaller molecules",
+        "esterification, which forms an ester and water",
+        "saponification, which hydrolyses the fat into soap and glycerol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Saponification is the alkaline hydrolysis of a fat (triglyceride) by sodium hydroxide, producing soap (sodium salts of fatty acids) and glycerol as a by-product."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Carbohydrates are organic compounds composed of carbon, hydrogen, and oxygen, typically with hydrogen and oxygen present in the same ratio as in",
+      "options": [
+        "water (2:1)",
+        "ammonia",
+        "carbon dioxide",
+        "methane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbohydrates such as glucose, C6H12O6, have hydrogen and oxygen in a 2:1 ratio, the same ratio found in water, which is the basis of the name 'hydrate of carbon'."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Glucose can be identified as a reducing sugar by warming it with Fehling's solution, which changes colour from",
+      "options": [
+        "red to green",
+        "colourless to blue",
+        "blue to a brick-red precipitate",
+        "yellow to colourless"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reducing sugars like glucose reduce the blue copper(II) ions in Fehling's solution to a brick-red precipitate of copper(I) oxide on warming."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Proteins are natural polymers made up of monomer units called",
+      "options": [
+        "nucleotides",
+        "amino acids",
+        "simple sugars",
+        "fatty acids"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proteins are condensation polymers formed by linking many amino acid monomers together in long chains."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The bond linking amino acids together in a protein chain is called a",
+      "options": [
+        "glycosidic bond",
+        "hydrogen bond",
+        "peptide bond",
+        "ester bond"
+      ],
+      "correctIndex": 2,
+      "explanation": "A peptide bond forms between the carboxyl group of one amino acid and the amino group of another, releasing water in a condensation reaction."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Complete hydrolysis of a fat (triglyceride) yields",
+      "options": [
+        "glycerol and three fatty acid molecules",
+        "glucose and fructose only",
+        "ethanol and ethanoic acid",
+        "amino acids only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A triglyceride (fat) is an ester of glycerol and three fatty acids; hydrolysis breaks the ester bonds, releasing free glycerol and three fatty acid molecules."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The presence of starch in a food sample is confirmed by adding a few drops of",
+      "options": [
+        "iodine solution, which turns blue-black",
+        "limewater, which turns milky",
+        "Fehling's solution, which turns brick-red",
+        "bromine water, which decolourises"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iodine solution forms a characteristic blue-black complex with starch molecules, providing a simple and specific test for starch."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Which of the following is a naturally occurring polymer, unlike synthetic polymers such as polythene?",
+      "options": [
+        "Polystyrene",
+        "Nylon",
+        "Starch",
+        "Polyvinyl chloride (PVC)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Starch is a natural polymer made of many glucose units joined together, whereas PVC, polystyrene, and nylon are all synthetic, man-made polymers."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Butane, C4H10, has how many structural isomers?",
+      "options": [
+        "1",
+        "4",
+        "3",
+        "2 (n-butane and 2-methylpropane)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Butane exists as two structural isomers with the molecular formula C4H10: the straight-chain n-butane and the branched 2-methylpropane (isobutane)."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Complete combustion of an alkane in excess oxygen produces",
+      "options": [
+        "carbon monoxide and water only",
+        "carbon dioxide and hydrogen gas only",
+        "carbon dioxide and water only",
+        "carbon (soot) and water only"
+      ],
+      "correctIndex": 2,
+      "explanation": "With sufficient oxygen, alkanes burn completely to give carbon dioxide and water as the only products, e.g., CH4 + 2O2 -> CO2 + 2H2O."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "The main component of natural gas is",
+      "options": [
+        "propane",
+        "methane",
+        "butane",
+        "ethane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natural gas is predominantly methane (typically over 90%), with smaller amounts of ethane, propane, and other hydrocarbons."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "What is the IUPAC name of the branched alkane (CH3)2CH-CH2-CH3?",
+      "options": [
+        "2,2-Dimethylpropane",
+        "2-Methylpropane",
+        "2-Methylbutane",
+        "Pentane"
+      ],
+      "correctIndex": 2,
+      "explanation": "This C5H12 isomer has a methyl branch on the second carbon of a four-carbon (butane) chain, so it is named 2-methylbutane."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Methanol is added to ethanol to produce methylated spirit mainly in order to",
+      "options": [
+        "increase the boiling point of the ethanol",
+        "make the ethanol unfit for drinking (denature it), for industrial and tax purposes",
+        "make the ethanol react faster with acids",
+        "make the ethanol burn with a coloured flame"
+      ],
+      "correctIndex": 1,
+      "explanation": "Methanol and other additives are mixed with ethanol intended for industrial use to make it toxic and unpalatable (denatured), preventing its consumption as a beverage and avoiding alcohol duties."
+    },
+    {
+      "subject": "Chemistry",
+      "text": "Amines behave as weak bases in aqueous solution because the nitrogen atom's lone pair of electrons can",
+      "options": [
+        "form a coordinate bond with oxygen atoms only",
+        "accept a proton (H+) from water, forming an ammonium-type ion",
+        "repel hydroxide ions in solution",
+        "donate an electron to form a covalent bond with another amine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lone pair on the nitrogen atom of an amine can accept a proton from water, generating an alkylammonium ion and hydroxide ions, giving amines their weakly basic character."
+    }
+  ]
+}

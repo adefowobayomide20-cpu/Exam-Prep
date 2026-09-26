@@ -1,0 +1,1206 @@
+{
+  "subject": "History",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "History",
+      "text": "The archaeological culture, discovered in central Nigeria and famous for its distinctive terracotta sculptures, dating back over 2,000 years, is called the",
+      "options": [
+        "Nok culture",
+        "Ife culture",
+        "Igbo-Ukwu culture",
+        "Benin culture"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Nok culture, centred in the Jos Plateau area, is renowned for producing some of Africa's earliest known terracotta figures."
+    },
+    {
+      "subject": "History",
+      "text": "The ancient Yoruba city regarded as the cradle of Yoruba civilisation and famous for its naturalistic bronze and terracotta art is",
+      "options": [
+        "Igbo-Ukwu",
+        "Ife",
+        "Timbuktu",
+        "Nok"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ife (Ile-Ife) is traditionally regarded as the spiritual and cultural origin of the Yoruba people, known for its highly refined bronze and terracotta works."
+    },
+    {
+      "subject": "History",
+      "text": "The West African kingdom famous for its sophisticated bronze casting (using the lost-wax method) and powerful Oba-led monarchy is",
+      "options": [
+        "Benin",
+        "Ife",
+        "Songhai",
+        "Nok"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Benin Kingdom, ruled by the Oba, produced renowned bronze plaques and sculptures using the lost-wax casting technique."
+    },
+    {
+      "subject": "History",
+      "text": "The archaeological site in south-eastern Nigeria famous for its elaborate bronze artefacts, indicating a sophisticated bronze-casting tradition among the Igbo as early as the 9th century, is",
+      "options": [
+        "Ife",
+        "Nok",
+        "Igbo-Ukwu",
+        "Benin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Igbo-Ukwu is celebrated for its intricately decorated bronze objects, showing advanced metalworking skills long before European contact."
+    },
+    {
+      "subject": "History",
+      "text": "The Western Sudanic empire generally regarded as the earliest of the three great empires (Ghana, Mali, and Songhai) is",
+      "options": [
+        "Songhai",
+        "Kanem-Bornu",
+        "Mali",
+        "Ghana"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ancient Ghana (not the modern country) was the earliest of the three great Western Sudanic empires, flourishing before Mali and Songhai."
+    },
+    {
+      "subject": "History",
+      "text": "Ancient Ghana's wealth and power were built substantially on its control of the",
+      "options": [
+        "Indian Ocean spice trade",
+        "European wine trade",
+        "trans-Saharan trade in gold and salt",
+        "trans-Atlantic trade in slaves"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ghana's strategic location allowed it to control and tax the lucrative exchange of gold from the south for salt from the Sahara."
+    },
+    {
+      "subject": "History",
+      "text": "The Mali Empire reached the height of its wealth and international fame under the reign of",
+      "options": [
+        "Sunni Ali",
+        "Mansa Musa",
+        "Usman Dan Fodio",
+        "Askia Muhammad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mansa Musa's legendary wealth, especially demonstrated during his pilgrimage to Mecca, brought Mali international renown."
+    },
+    {
+      "subject": "History",
+      "text": "The famous city that became a major centre of Islamic learning and trade under the Mali and later Songhai empires is",
+      "options": [
+        "Ife",
+        "Kano",
+        "Timbuktu",
+        "Benin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Timbuktu flourished as a centre of scholarship, trade, and Islamic learning, home to famous institutions like the Sankore mosque and university."
+    },
+    {
+      "subject": "History",
+      "text": "The Songhai Empire, which succeeded Mali as the dominant power in the Western Sudan, reached its greatest extent under",
+      "options": [
+        "Askia Muhammad",
+        "Usman Dan Fodio",
+        "Sunni Ali",
+        "Mansa Musa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Askia Muhammad expanded and consolidated Songhai's administration, trade, and Islamic scholarship after succeeding Sunni Ali's dynasty."
+    },
+    {
+      "subject": "History",
+      "text": "The Songhai ruler credited with founding the empire's military and political dominance by expanding its territory through conquest was",
+      "options": [
+        "Askia Muhammad",
+        "Mansa Musa",
+        "Sunni Ali",
+        "Mansa Sundiata"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sunni Ali built Songhai into a powerful empire through extensive military campaigns before Askia Muhammad's dynasty later consolidated it."
+    },
+    {
+      "subject": "History",
+      "text": "The Songhai Empire eventually collapsed largely as a result of",
+      "options": [
+        "invasion by a Moroccan army equipped with firearms",
+        "a natural disaster that destroyed its cities",
+        "the abolition of the trans-Saharan trade",
+        "a peaceful transition of power to Mali"
+      ],
+      "correctIndex": 0,
+      "explanation": "In 1591, a Moroccan expedition using superior firearms defeated Songhai's forces, precipitating the empire's decline."
+    },
+    {
+      "subject": "History",
+      "text": "Which of the following best describes the socio-political institutions of the Western Sudanic empires (Ghana, Mali, Songhai)?",
+      "options": [
+        "Loose, acephalous village communities with no central authority",
+        "Direct rule imposed entirely by European colonisers",
+        "Centralised monarchies supported by provincial governors and organised armies",
+        "Purely nomadic societies without any fixed administrative structure"
+      ],
+      "correctIndex": 2,
+      "explanation": "These empires developed centralised systems of government, with kings/emperors, appointed provincial officials, and standing armies to maintain control."
+    },
+    {
+      "subject": "History",
+      "text": "The long-distance trade route connecting West Africa across the Sahara Desert to North Africa and the Mediterranean world is called the",
+      "options": [
+        "Indian Ocean trade",
+        "coastal (legitimate) trade",
+        "trans-Saharan trade",
+        "trans-Atlantic trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trans-Saharan trade linked West African kingdoms with North Africa via caravan routes across the Sahara."
+    },
+    {
+      "subject": "History",
+      "text": "The two commodities most closely associated with the classic trans-Saharan trade exchange are",
+      "options": [
+        "cocoa and rubber",
+        "palm oil and timber",
+        "tea and coffee",
+        "gold and salt"
+      ],
+      "correctIndex": 3,
+      "explanation": "West African gold was exchanged for Saharan salt, forming the core of the trans-Saharan trading system."
+    },
+    {
+      "subject": "History",
+      "text": "The North African nomadic people who played a central role as intermediaries in the trans-Saharan trade, guiding caravans across the desert, were the",
+      "options": [
+        "Yoruba",
+        "Berbers (Tuareg)",
+        "British",
+        "Portuguese"
+      ],
+      "correctIndex": 1,
+      "explanation": "Berber groups, including the Tuareg, were skilled desert traders and guides who facilitated caravan movement across the Sahara."
+    },
+    {
+      "subject": "History",
+      "text": "One major social and religious impact of the trans-Saharan trade on West African societies was the",
+      "options": [
+        "spread of Islam through contact with North African Muslim traders",
+        "abolition of traditional West African religions entirely",
+        "spread of the English language across the region",
+        "introduction of Christianity by European missionaries"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muslim traders and scholars travelling the trans-Saharan routes introduced and spread Islam widely across West Africa."
+    },
+    {
+      "subject": "History",
+      "text": "The transportation of enslaved Africans across the Atlantic Ocean to the Americas, mainly between the 16th and 19th centuries, is known as the",
+      "options": [
+        "trans-Atlantic slave trade",
+        "triangular alliance",
+        "legitimate commerce",
+        "trans-Saharan trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "The trans-Atlantic slave trade forcibly transported millions of Africans to the Americas to work primarily on plantations."
+    },
+    {
+      "subject": "History",
+      "text": "The trading system in which European ships carried manufactured goods to Africa, enslaved Africans to the Americas, and American produce back to Europe is called the",
+      "options": [
+        "indirect trade",
+        "triangular trade",
+        "trans-Saharan trade",
+        "legitimate commerce"
+      ],
+      "correctIndex": 1,
+      "explanation": "The triangular trade linked Europe, Africa, and the Americas in a three-legged trading circuit centred on the exchange of goods and enslaved people."
+    },
+    {
+      "subject": "History",
+      "text": "A major reason European nations engaged in the trans-Atlantic slave trade was to",
+      "options": [
+        "promote African self-government",
+        "obtain cheap forced labour for plantations in the Americas",
+        "encourage the growth of West African cities",
+        "spread Western education across Africa"
+      ],
+      "correctIndex": 1,
+      "explanation": "European colonisers needed a large, cheap labour force to work plantations (sugar, cotton, tobacco) in the Americas, driving demand for enslaved Africans."
+    },
+    {
+      "subject": "History",
+      "text": "Local West African participation in the trans-Atlantic slave trade often involved",
+      "options": [
+        "only European traders acting alone without any African involvement",
+        "some African rulers and merchants capturing or purchasing captives to sell to European traders",
+        "African governments abolishing the trade voluntarily from its outset",
+        "complete refusal by all African societies to engage with European traders"
+      ],
+      "correctIndex": 1,
+      "explanation": "Some West African states and merchants participated by supplying captives, often obtained through warfare or raiding, in exchange for European goods."
+    },
+    {
+      "subject": "History",
+      "text": "One devastating demographic consequence of the trans-Atlantic slave trade on West Africa was",
+      "options": [
+        "a sharp increase in the region's overall population",
+        "an immediate rise in industrialisation across the region",
+        "a significant loss of population, especially of young, able-bodied people",
+        "the complete disappearance of all West African kingdoms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Millions of West Africans, mostly young adults, were forcibly removed, depleting the labour force and distorting the population structure."
+    },
+    {
+      "subject": "History",
+      "text": "Nok culture artefacts are especially significant to historians because they provide evidence of",
+      "options": [
+        "the introduction of Islam into West Africa",
+        "early ironworking and artistic skill in West Africa well before European contact",
+        "the earliest form of the trans-Atlantic slave trade",
+        "the first contact between West Africa and Europe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nok terracottas, alongside evidence of iron smelting, show that sophisticated craftsmanship existed in West Africa over two thousand years ago."
+    },
+    {
+      "subject": "History",
+      "text": "Oral tradition and archaeology both suggest that Ife's importance in Yoruba history rests mainly on its role as",
+      "options": [
+        "the terminus of the trans-Saharan trade route",
+        "the capital of the Sokoto Caliphate",
+        "the spiritual and mythological centre from which the Yoruba believe their civilisation originated",
+        "the first European trading post in West Africa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yoruba oral tradition holds Ife as the site of creation and the origin of Yoruba kingship, giving it enduring spiritual significance."
+    },
+    {
+      "subject": "History",
+      "text": "Benin's political system under the Oba was strengthened by a hierarchy of chiefs that included the",
+      "options": [
+        "Uzama (kingmakers) and palace chiefs",
+        "British district officers",
+        "Oyo Mesi alone",
+        "Sokoto Waziri"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Benin monarchy was supported by hereditary Uzama chiefs and palace title-holders who assisted in governance and royal succession."
+    },
+    {
+      "subject": "History",
+      "text": "The Igbo-Ukwu bronzes are historically significant mainly because they demonstrate",
+      "options": [
+        "the founding of the Sokoto Caliphate",
+        "the first Igbo contact with the trans-Atlantic slave trade",
+        "the origin of the Benin kingdom",
+        "advanced metallurgical and artistic skill among the Igbo centuries before European arrival"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sophistication of Igbo-Ukwu bronze work, dated to around the 9th century, challenged earlier assumptions that West African metallurgy was a purely external import."
+    },
+    {
+      "subject": "History",
+      "text": "Ancient Ghana's ruling elite is generally believed to have practised",
+      "options": [
+        "Buddhism introduced from Asia",
+        "a combination of traditional religion with, later, growing Islamic influence among traders and officials",
+        "no religion of any kind",
+        "Christianity exclusively from its founding"
+      ],
+      "correctIndex": 1,
+      "explanation": "While the king and much of the population followed traditional religion, Islam gradually gained influence, especially among merchants and some officials."
+    },
+    {
+      "subject": "History",
+      "text": "The Mali Empire was founded and expanded significantly under the leadership of",
+      "options": [
+        "Askia Muhammad",
+        "Sunni Ali",
+        "Mansa Musa alone",
+        "Sundiata Keita"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sundiata Keita is traditionally credited as the founder of the Mali Empire, later expanded further under rulers such as Mansa Musa."
+    },
+    {
+      "subject": "History",
+      "text": "Mansa Musa's pilgrimage to Mecca in the 14th century is historically notable because",
+      "options": [
+        "it established the first trans-Atlantic trade route",
+        "it led to the immediate collapse of the Mali Empire",
+        "it marked Mali's conversion away from Islam",
+        "his lavish spending of gold along the route brought Mali international fame and attention"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mansa Musa's famously generous gold spending during his hajj drew the attention of the wider Islamic and Mediterranean world to Mali's wealth."
+    },
+    {
+      "subject": "History",
+      "text": "The University of Sankore, a renowned centre of Islamic scholarship in the Western Sudan, was located in",
+      "options": [
+        "Ife",
+        "Timbuktu",
+        "Kano",
+        "Benin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sankore, alongside its associated mosque, made Timbuktu a leading centre for Islamic education, law, and scholarship in West Africa."
+    },
+    {
+      "subject": "History",
+      "text": "A major factor contributing to the eventual decline of the Mali Empire was",
+      "options": [
+        "an alliance with Songhai against Ghana",
+        "a sudden conversion of its rulers to Christianity",
+        "the complete absence of any trade income",
+        "internal succession disputes and the weakening grip of the central government over distant provinces"
+      ],
+      "correctIndex": 3,
+      "explanation": "Like other large pre-modern empires, Mali weakened due to succession struggles and its difficulty maintaining control over far-flung territories."
+    },
+    {
+      "subject": "History",
+      "text": "Before its conquest by Sunni Ali, the town of Gao served the Songhai people mainly as",
+      "options": [
+        "a European coastal trading post",
+        "an early capital and trading centre along the Niger River",
+        "the seat of the Sokoto Caliphate",
+        "the capital of the Mali Empire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gao was an important early Songhai settlement and trade centre on the Niger River, later becoming the imperial capital."
+    },
+    {
+      "subject": "History",
+      "text": "The commodities carried southward across the Sahara in exchange for West African gold typically included",
+      "options": [
+        "palm oil and timber",
+        "enslaved Africans exclusively",
+        "salt, horses, and North African manufactured goods",
+        "cocoa and rubber"
+      ],
+      "correctIndex": 2,
+      "explanation": "Caravans travelling south brought salt (a scarce necessity in West Africa), horses, and manufactured items, exchanging them for gold and other goods."
+    },
+    {
+      "subject": "History",
+      "text": "The 'legitimate commerce' that eventually developed alongside and after the trans-Saharan and trans-Atlantic trades is best distinguished by its focus on",
+      "options": [
+        "trading only within West Africa, with no European involvement",
+        "trading in agricultural and natural produce rather than human beings",
+        "trading exclusively in enslaved people",
+        "the exclusive use of barter with no currency at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "Legitimate commerce marked a shift toward exporting goods such as palm oil rather than enslaved people, following abolition efforts."
+    },
+    {
+      "subject": "History",
+      "text": "The trans-Atlantic slave trade is generally considered to have operated most intensively between roughly",
+      "options": [
+        "the 16th and 19th centuries",
+        "the 20th and 21st centuries",
+        "the 1st and 3rd centuries",
+        "the 8th and 10th centuries"
+      ],
+      "correctIndex": 0,
+      "explanation": "The bulk of the trans-Atlantic slave trade took place from around the 1500s through to its formal abolition in the 1800s."
+    },
+    {
+      "subject": "History",
+      "text": "European maritime powers first began establishing coastal trading contact with West Africa, ahead of the trans-Atlantic slave trade era, mainly through",
+      "options": [
+        "British colonisation of the Sahara in the 10th century",
+        "Spanish settlement of the Niger Delta in the 8th century",
+        "French expeditions across the Sahara in the 12th century",
+        "Portuguese exploration voyages along the West African coast in the 15th century"
+      ],
+      "correctIndex": 3,
+      "explanation": "Portuguese navigators were the first Europeans to establish direct sea contact with West Africa in the 15th century, opening the coast to later European trade."
+    },
+    {
+      "subject": "History",
+      "text": "The 1804 jihad that led to the overthrow of the Hausa states and the establishment of the Sokoto Caliphate was led by",
+      "options": [
+        "Seku Ahmadu",
+        "El-Hadj Umar",
+        "Samori Toure",
+        "Usman Dan Fodio"
+      ],
+      "correctIndex": 3,
+      "explanation": "Usman Dan Fodio led the 1804 jihad against the Hausa rulers, resulting in the creation of the vast Sokoto Caliphate."
+    },
+    {
+      "subject": "History",
+      "text": "A major cause of the Usman Dan Fodio jihad of 1804 was",
+      "options": [
+        "a dispute over trans-Atlantic trade routes",
+        "a direct invasion by British colonial forces",
+        "the introduction of Christianity into Hausaland",
+        "opposition to the perceived un-Islamic practices and oppressive taxation of Hausa rulers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dan Fodio's movement arose partly from religious reform aims, condemning what he saw as un-Islamic practices and excessive taxation by Hausa rulers."
+    },
+    {
+      "subject": "History",
+      "text": "A major political impact of the Usman Dan Fodio jihad on Hausaland was the",
+      "options": [
+        "immediate colonisation of the region by Britain",
+        "creation of an entirely democratic system of government",
+        "replacement of Hausa kings with Fulani emirs under a centralised caliphate",
+        "abolition of Islam throughout the region"
+      ],
+      "correctIndex": 2,
+      "explanation": "Following the jihad, Fulani emirs replaced most Hausa rulers, and the conquered territories were organised under the centralised Sokoto Caliphate."
+    },
+    {
+      "subject": "History",
+      "text": "The Fulani jihad leader who established the Masina (Macina) Caliphate in the Niger Bend region was",
+      "options": [
+        "Seku Ahmadu",
+        "Samori Toure",
+        "Usman Dan Fodio",
+        "El-Hadj Umar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seku Ahmadu led a jihad that established the Masina Caliphate, a theocratic Fulani state in the Niger Bend region of present-day Mali."
+    },
+    {
+      "subject": "History",
+      "text": "The Islamic scholar and jihad leader who founded the Tukolor Empire in the mid-19th century was",
+      "options": [
+        "Samori Toure",
+        "Usman Dan Fodio",
+        "El-Hadj Umar (Umar Tal)",
+        "Seku Ahmadu"
+      ],
+      "correctIndex": 2,
+      "explanation": "El-Hadj Umar Tal led a jihad that built the extensive Tukolor Empire across parts of present-day Senegal, Guinea, and Mali."
+    },
+    {
+      "subject": "History",
+      "text": "A major factor that eventually led Britain to abolish its participation in the transatlantic slave trade was",
+      "options": [
+        "an agreement among all African kingdoms to end the trade",
+        "a total collapse of demand for slaves in the Americas",
+        "the discovery of gold in West Africa",
+        "growing humanitarian and religious opposition to the trade within Britain"
+      ],
+      "correctIndex": 3,
+      "explanation": "Abolitionist campaigns, driven by humanitarian, religious, and economic arguments, built pressure that led Britain to ban the slave trade in 1807."
+    },
+    {
+      "subject": "History",
+      "text": "Following the abolition of the slave trade, Britain and other powers promoted a new form of trade in West Africa known as",
+      "options": [
+        "indentured trade",
+        "legitimate commerce",
+        "the triangular trade",
+        "the trans-Saharan trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Legitimate commerce refers to trade in non-human commodities, such as palm oil, cocoa, and rubber, that replaced the slave trade."
+    },
+    {
+      "subject": "History",
+      "text": "Which commodity became especially important in legitimate commerce along the West African coast, particularly in the Niger Delta, during the 19th century?",
+      "options": [
+        "Salt",
+        "Gold dust only",
+        "Palm oil",
+        "Enslaved people"
+      ],
+      "correctIndex": 2,
+      "explanation": "Palm oil, used in Europe for soap and machine lubrication, became a major export commodity from the Niger Delta region after the slave trade's abolition."
+    },
+    {
+      "subject": "History",
+      "text": "Liberated Africans rescued from slave ships by British anti-slavery patrols were resettled mainly in",
+      "options": [
+        "Benin and Ife",
+        "Timbuktu and Kano",
+        "Sierra Leone (Freetown) and Liberia",
+        "Accra and Kumasi only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Freetown in Sierra Leone and, separately, Liberia became key settlements for freed and liberated Africans following the suppression of the slave trade."
+    },
+    {
+      "subject": "History",
+      "text": "The scramble for and eventual partition of West Africa by European powers in the late 19th century was driven mainly by",
+      "options": [
+        "the total absence of European interest in Africa",
+        "an invitation from West African kings for colonisation",
+        "a unanimous decision by West African states to unite under one ruler",
+        "economic, political, and strategic rivalries among European nations"
+      ],
+      "correctIndex": 3,
+      "explanation": "European powers competed for African territory to secure raw materials, markets, and strategic advantage over rival nations."
+    },
+    {
+      "subject": "History",
+      "text": "The conference held in 1884-1885, at which European powers agreed on rules for the partition of Africa, was the",
+      "options": [
+        "Yalta Conference",
+        "Vienna Congress",
+        "Paris Peace Conference",
+        "Berlin Conference"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Berlin Conference of 1884-1885 formalised the 'Scramble for Africa', setting out principles for European claims on African territory."
+    },
+    {
+      "subject": "History",
+      "text": "Which West African leader led a prolonged and determined military resistance against French expansion, building a large state in present-day Guinea and Mali?",
+      "options": [
+        "Jaja of Opobo",
+        "El-Hadj Umar",
+        "Samori Toure",
+        "Usman Dan Fodio"
+      ],
+      "correctIndex": 2,
+      "explanation": "Samori Toure led the Mandinka resistance against French colonial expansion, building and defending a substantial West African state before his eventual defeat."
+    },
+    {
+      "subject": "History",
+      "text": "The series of conflicts in the late 19th century in which the Ashanti (Asante) kingdom resisted British colonial expansion in the Gold Coast are known as the",
+      "options": [
+        "Nigerian Civil War",
+        "Yaa Asantewaa Rebellion only",
+        "Anglo-Ashanti Wars",
+        "Berlin Wars"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Anglo-Ashanti Wars were a series of conflicts between the Ashanti kingdom and Britain, reflecting sustained Ashanti resistance to colonisation."
+    },
+    {
+      "subject": "History",
+      "text": "The powerful trader and king of Opobo who resisted British attempts to control trade in the Niger Delta, and was eventually deported by the British, was",
+      "options": [
+        "King Jaja of Opobo",
+        "Yaa Asantewaa",
+        "Samori Toure",
+        "Usman Dan Fodio"
+      ],
+      "correctIndex": 0,
+      "explanation": "King Jaja built a powerful trading state at Opobo and resisted British efforts to bypass him and trade directly with the interior, leading to his deportation."
+    },
+    {
+      "subject": "History",
+      "text": "Indigenous resistance movements against European colonisation in West Africa generally combined",
+      "options": [
+        "total, unquestioning cooperation with Europeans",
+        "immediate and complete surrender in every case",
+        "the exclusive use of European weapons and tactics",
+        "military resistance and diplomatic negotiation"
+      ],
+      "correctIndex": 3,
+      "explanation": "African rulers and leaders used a mix of armed resistance, alliances, and negotiation in their varied responses to colonial encroachment."
+    },
+    {
+      "subject": "History",
+      "text": "After the 1804 jihad, the vast territory brought under Fulani control and organised into semi-autonomous emirates under a Sultan became known as the",
+      "options": [
+        "Oyo Empire",
+        "Tukolor Empire",
+        "Sokoto Caliphate",
+        "Masina Caliphate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Sokoto Caliphate, headed by the Sultan of Sokoto, united numerous emirates under a single overarching Islamic political structure."
+    },
+    {
+      "subject": "History",
+      "text": "A significant religious impact of the 19th-century jihads across the Western and Central Sudan was the",
+      "options": [
+        "abolition of Islam in favour of traditional religions",
+        "introduction of Christianity as the dominant religion",
+        "spread of the English language",
+        "strengthening and spread of orthodox Islamic practice and law"
+      ],
+      "correctIndex": 3,
+      "explanation": "The jihad movements sought to purify and spread Islamic practice, establishing Sharia-based governance across the territories they controlled."
+    },
+    {
+      "subject": "History",
+      "text": "One reason the abolition of the British slave trade in 1807 did not immediately end slave trading along the West African coast was that",
+      "options": [
+        "other European nations continued participating in the trade for some time afterward",
+        "all West African rulers refused to trade with any European power",
+        "Britain immediately colonised the whole coastline in 1807",
+        "the trans-Saharan trade completely replaced coastal trade overnight"
+      ],
+      "correctIndex": 0,
+      "explanation": "Although Britain banned the trade in 1807, other nations continued trading for years, and enforcement along the coast remained difficult."
+    },
+    {
+      "subject": "History",
+      "text": "The British naval squadron deployed along the West African coast after 1807 to intercept slave ships was known as the",
+      "options": [
+        "Gold Coast Regiment",
+        "Royal West African Frontier Force",
+        "Niger Coast Protectorate Force",
+        "West Africa Squadron (Preventive Squadron)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The West Africa Squadron patrolled the coast to intercept and suppress illegal slave-trading vessels following Britain's abolition of the trade."
+    },
+    {
+      "subject": "History",
+      "text": "The introduction of legitimate commerce is generally credited with encouraging",
+      "options": [
+        "a total return to subsistence farming with no external trade",
+        "the abandonment of the Niger Delta by all traders",
+        "the rise of new African merchant classes engaged in produce trade",
+        "the complete disappearance of coastal trading states"
+      ],
+      "correctIndex": 2,
+      "explanation": "As palm oil and other produce replaced slaves as the main export, new African trading elites emerged to manage this commerce with Europeans."
+    },
+    {
+      "subject": "History",
+      "text": "One major economic motive behind the European scramble for West Africa was the desire to",
+      "options": [
+        "secure raw materials and markets for European industries",
+        "prevent West Africans from practising agriculture",
+        "eliminate all forms of trade in the region",
+        "protect the trans-Saharan trade from decline"
+      ],
+      "correctIndex": 0,
+      "explanation": "Industrialising European nations sought guaranteed access to African raw materials and captive markets for their manufactured goods."
+    },
+    {
+      "subject": "History",
+      "text": "One major political motive behind the European scramble for Africa was",
+      "options": [
+        "rivalry among European powers for prestige and strategic advantage over one another",
+        "the total absence of competition among European states",
+        "a request from African kings for European protection",
+        "a joint European plan to unite all West African kingdoms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Competing European powers sought colonies partly to boost national prestige and strategic standing relative to their rivals."
+    },
+    {
+      "subject": "History",
+      "text": "The principle established at the Berlin Conference requiring a European power to demonstrate effective occupation before its claim to African territory would be recognised is known as the principle of",
+      "options": [
+        "association",
+        "indirect rule",
+        "effective occupation",
+        "assimilation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Berlin Conference required powers to show actual administrative control (effective occupation) of a territory, not just a claim, for it to be internationally recognised."
+    },
+    {
+      "subject": "History",
+      "text": "Following his prolonged resistance, Samori Toure was eventually",
+      "options": [
+        "captured by the French and sent into exile, where he died",
+        "made a French colonial governor",
+        "left completely undisturbed by any European power",
+        "granted independence for his empire by France"
+      ],
+      "correctIndex": 0,
+      "explanation": "Samori Toure was eventually captured by French forces in 1898 and exiled to Gabon, where he died two years later."
+    },
+    {
+      "subject": "History",
+      "text": "The Ashanti queen mother who led resistance against British rule in the early 20th century, notably in the War of the Golden Stool, was",
+      "options": [
+        "Moremi Ajasoro",
+        "Emotan of Benin",
+        "Amina of Zazzau",
+        "Yaa Asantewaa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yaa Asantewaa led Ashanti forces in the 1900 War of the Golden Stool, a notable act of resistance against British colonial demands."
+    },
+    {
+      "subject": "History",
+      "text": "The 'Golden Stool' that the British demanded to sit on, sparking the Ashanti War of 1900, was significant to the Ashanti as a",
+      "options": [
+        "simple item of royal furniture with no special meaning",
+        "gift originally given to the Ashanti by the British",
+        "trading token used in the palm oil trade",
+        "sacred symbol of the unity and soul of the Ashanti nation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Golden Stool was considered the spiritual embodiment of the Ashanti nation, making the British demand to sit on it deeply offensive."
+    },
+    {
+      "subject": "History",
+      "text": "Following his deportation by the British, King Jaja of Opobo was exiled to",
+      "options": [
+        "France",
+        "Liberia",
+        "the West Indies",
+        "Ethiopia"
+      ],
+      "correctIndex": 2,
+      "explanation": "King Jaja was deported and exiled to the West Indies after resisting British attempts to control Niger Delta trade directly."
+    },
+    {
+      "subject": "History",
+      "text": "The West African trading states of the Niger Delta, such as Opobo and Bonny, grew powerful in the 19th century mainly through their control of",
+      "options": [
+        "gold mining in the interior",
+        "the trans-Saharan gold trade",
+        "the Sokoto Caliphate's tax revenue",
+        "the palm oil trade with European merchants"
+      ],
+      "correctIndex": 3,
+      "explanation": "Delta trading states built wealth and influence as key middlemen in the palm oil trade between the interior and European buyers on the coast."
+    },
+    {
+      "subject": "History",
+      "text": "British colonial expansion into the interior of Nigeria in the late 19th century was significantly carried out through the activities of the",
+      "options": [
+        "Royal Niger Company",
+        "United Africa Company alone",
+        "West Africa Squadron",
+        "Sokoto Caliphate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Royal Niger Company, under a royal charter, administered and expanded British commercial and political influence in the Niger area before direct colonial rule."
+    },
+    {
+      "subject": "History",
+      "text": "The amalgamation of the Northern and Southern Protectorates of Nigeria into a single colony took place in the year",
+      "options": [
+        "1900",
+        "1960",
+        "1914",
+        "1922"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lord Lugard oversaw the 1914 amalgamation, merging the Northern and Southern Protectorates into the single colony and protectorate of Nigeria."
+    },
+    {
+      "subject": "History",
+      "text": "The British colonial administrator most closely associated with developing and implementing Indirect Rule in Northern Nigeria was",
+      "options": [
+        "David Livingstone",
+        "Winston Churchill",
+        "Cecil Rhodes",
+        "Lord Lugard"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frederick Lugard pioneered and refined the system of Indirect Rule, first in Northern Nigeria and later applying similar principles elsewhere."
+    },
+    {
+      "subject": "History",
+      "text": "Under colonial rule, taxation policies introduced by European administrations were often a major source of",
+      "options": [
+        "immediate economic prosperity for all Africans",
+        "complete elimination of pre-colonial forms of tribute",
+        "universal gratitude among all colonised peoples",
+        "local resentment and occasional revolt among the colonised population"
+      ],
+      "correctIndex": 3,
+      "explanation": "New and often burdensome colonial taxes, sometimes enforced through unfamiliar or unpopular chiefs, provoked resistance in various colonies."
+    },
+    {
+      "subject": "History",
+      "text": "The 1929 Aba Women's Riot in south-eastern Nigeria was triggered mainly by",
+      "options": [
+        "fears that colonial authorities intended to extend taxation to women",
+        "a dispute over trans-Saharan trade routes",
+        "the introduction of Christianity in the region",
+        "a conflict between Warrant Chiefs and the Sokoto Caliphate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Igbo women rose up against colonial Warrant Chiefs and the threat of new taxes, marking one of the most significant anti-colonial protests in Nigerian history."
+    },
+    {
+      "subject": "History",
+      "text": "The system of imposing unofficial 'Warrant Chiefs' among the Igbo, contrary to their traditional acephalous system, was mainly a British attempt to",
+      "options": [
+        "adapt Indirect Rule to a society that lacked a centralised chieftaincy structure",
+        "restore the pre-colonial Igbo monarchy",
+        "transfer power entirely to the Sokoto Caliphate",
+        "abolish all traditional Igbo institutions permanently"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since Igbo communities had no single traditional ruler, the British controversially appointed Warrant Chiefs to serve as local administrative agents."
+    },
+    {
+      "subject": "History",
+      "text": "The 'Christiansborg' and other European coastal forts and castles built along the West African coast originally served mainly as",
+      "options": [
+        "capitals of the Mali Empire",
+        "universities for training African scholars",
+        "trading posts, including for the slave trade, before becoming colonial administrative centres",
+        "centres of the trans-Saharan trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "European coastal forts began as trading posts, often central to the slave trade, before many were repurposed as colonial administrative headquarters."
+    },
+    {
+      "subject": "History",
+      "text": "The gradual replacement of the slave trade by legitimate commerce contributed to increased European interest in the West African interior mainly because",
+      "options": [
+        "the interior had no valuable resources at all",
+        "Europeans wanted direct access to the sources of produce like palm oil, bypassing African middlemen",
+        "African middlemen invited Europeans to settle permanently",
+        "Europeans lost all interest in West Africa after abolition"
+      ],
+      "correctIndex": 1,
+      "explanation": "As legitimate commerce grew, European traders sought to control production and trade routes directly, increasing pressure for territorial expansion inland."
+    },
+    {
+      "subject": "History",
+      "text": "One key difference between the Usman Dan Fodio jihad and the later 19th-century resistance movements against European colonisation is that the jihad was",
+      "options": [
+        "purely economic in motivation, with no religious element at all",
+        "identical in every respect to anti-colonial resistance",
+        "aimed only at Europeans, while later resistance targeted only Africans",
+        "a religiously motivated movement against fellow Africans, while resistance to Europeans was against foreign colonisers"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 1804 jihad targeted Hausa rulers on religious and political grounds, whereas later resistance movements were direct responses to foreign European conquest."
+    },
+    {
+      "subject": "History",
+      "text": "The Sokoto Caliphate's administrative structure divided its territory into several",
+      "options": [
+        "independent kingdoms with no central authority",
+        "emirates, each headed by an emir owing allegiance to the Sultan of Sokoto",
+        "British colonial provinces from its founding",
+        "French-style departments"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Caliphate was organised as a federation of emirates, each under an emir who acknowledged the overall authority of the Sultan of Sokoto."
+    },
+    {
+      "subject": "History",
+      "text": "A key long-term consequence of the 19th-century jihads for Hausaland was",
+      "options": [
+        "the entrenchment of Fulani political dominance over the region",
+        "the complete disappearance of the Hausa people",
+        "the immediate colonisation of Hausaland by France",
+        "the abolition of Islamic law throughout the region"
+      ],
+      "correctIndex": 0,
+      "explanation": "The jihads shifted political power from Hausa dynasties to Fulani ruling families, a change that shaped Northern Nigerian politics for generations."
+    },
+    {
+      "subject": "History",
+      "text": "The abolition of the British slave trade in 1807 was formalised through",
+      "options": [
+        "a decision of the Berlin Conference",
+        "an Act of the British Parliament",
+        "a treaty signed with the Sokoto Caliphate",
+        "an agreement among West African kings alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Slave Trade Act of 1807, passed by the British Parliament, made it illegal for British subjects to engage in the slave trade."
+    },
+    {
+      "subject": "History",
+      "text": "Early Nigerian political associations that laid the groundwork for constitutional nationalism included the",
+      "options": [
+        "Sokoto Caliphate and the Oyo Empire",
+        "Berlin Conference delegates",
+        "Trans-Saharan trading guilds",
+        "National Council of Nigeria and the Cameroons (NCNC), Action Group (AG), and Northern People's Congress (NPC)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The NCNC, AG, and NPC were major Nigerian political parties that mobilised support and negotiated constitutionally for self-government and independence."
+    },
+    {
+      "subject": "History",
+      "text": "In the Gold Coast (later Ghana), the early nationalist organisation that pressed for constitutional reform before Kwame Nkrumah's more radical party emerged was the",
+      "options": [
+        "United Gold Coast Convention (UGCC)",
+        "Convention People's Party (CPP)",
+        "Action Group (AG)",
+        "National Council of Nigeria and the Cameroons (NCNC)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The UGCC was an earlier, more moderate nationalist party in the Gold Coast, from which Nkrumah later broke away to form the more radical CPP."
+    },
+    {
+      "subject": "History",
+      "text": "Kwame Nkrumah's party, which pursued more radical and immediate demands for self-government in the Gold Coast, was the",
+      "options": [
+        "Action Group (AG)",
+        "Convention People's Party (CPP)",
+        "United Gold Coast Convention (UGCC)",
+        "Northern People's Congress (NPC)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nkrumah's CPP adopted a more assertive, mass-mobilisation approach demanding immediate self-government, distinguishing it from the more gradualist UGCC."
+    },
+    {
+      "subject": "History",
+      "text": "A common cause of democratic failure in several newly independent West African states was",
+      "options": [
+        "intense ethnic and regional rivalries undermining national unity",
+        "the total absence of any political parties",
+        "complete economic self-sufficiency from independence",
+        "an excess of political stability and consensus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deep-seated ethnic, regional, and religious divisions often strained fragile new democratic institutions in post-independence West Africa."
+    },
+    {
+      "subject": "History",
+      "text": "A frequent trigger for military intervention in the politics of newly independent African states was",
+      "options": [
+        "the total absence of any armed forces",
+        "allegations of corruption, electoral malpractice, and political instability",
+        "excessive and lasting economic prosperity",
+        "unanimous public satisfaction with civilian governments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Militaries in several countries justified coups by citing corruption, rigged elections, or general instability under civilian rule."
+    },
+    {
+      "subject": "History",
+      "text": "The Nigerian Civil War, fought largely over the attempted secession of the Eastern Region as the Republic of Biafra, took place between",
+      "options": [
+        "1960 and 1963",
+        "1999 and 2003",
+        "1967 and 1970",
+        "1979 and 1983"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Nigerian Civil War (Biafran War) lasted from 1967 to 1970, following the Eastern Region's declaration of independence as Biafra."
+    },
+    {
+      "subject": "History",
+      "text": "A major underlying cause of the Nigerian Civil War was",
+      "options": [
+        "a religious conflict originating in the 19th-century jihads",
+        "ethnic tension and mistrust following political crises and violence in the 1960s",
+        "a border dispute with a neighbouring country",
+        "a disagreement over trans-Saharan trade routes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deepening ethnic mistrust, political crises, coups, and violence against Igbo communities in the North contributed to the Eastern Region's secession attempt."
+    },
+    {
+      "subject": "History",
+      "text": "Structural Adjustment Programmes (SAP), adopted by many African countries from the 1980s, were mainly designed to",
+      "options": [
+        "immediately increase government subsidies on all goods",
+        "expand the trans-Saharan trade network",
+        "abolish taxation across the continent",
+        "restructure struggling economies through measures such as currency devaluation and reduced government spending"
+      ],
+      "correctIndex": 3,
+      "explanation": "SAPs, often promoted by the IMF and World Bank, sought to address economic crises through devaluation, subsidy removal, and reduced public expenditure."
+    },
+    {
+      "subject": "History",
+      "text": "Border disputes among post-independence West African states often arose because",
+      "options": [
+        "post-independence states had no shared colonial history",
+        "all colonial boundaries had been agreed upon by African kings beforehand",
+        "there had been no European colonisation of the region at all",
+        "colonial boundaries had been drawn without regard to existing ethnic and cultural groupings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Arbitrary colonial-era boundaries often split ethnic groups across different countries or merged rival groups within one country, fuelling later disputes."
+    },
+    {
+      "subject": "History",
+      "text": "Post-independence military interventions in West Africa often resulted in",
+      "options": [
+        "the suspension of the constitution and rule by decree",
+        "an increase in judicial independence",
+        "the immediate strengthening of parliamentary institutions",
+        "the abolition of all political parties permanently in every case"
+      ],
+      "correctIndex": 0,
+      "explanation": "Military governments typically suspended civilian constitutions and governed through decrees issued by the ruling military council."
+    },
+    {
+      "subject": "History",
+      "text": "A significant social effect of prolonged political instability and civil conflict in post-independence West Africa has been",
+      "options": [
+        "guaranteed political stability across the whole region",
+        "the total elimination of ethnic diversity",
+        "an automatic and immediate rise in national prosperity",
+        "large-scale displacement of people and disruption of economic development"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wars and instability have historically caused refugee crises, economic setbacks, and long-term development challenges in affected West African states."
+    },
+    {
+      "subject": "History",
+      "text": "One long-term political challenge facing many post-independence West African states has been",
+      "options": [
+        "maintaining a single political party by law in every country",
+        "avoiding any contact with international organisations",
+        "building durable democratic institutions capable of managing ethnic and religious diversity",
+        "eliminating all traditional rulers from society"
+      ],
+      "correctIndex": 2,
+      "explanation": "A recurring challenge has been constructing political systems robust enough to accommodate diverse ethnic and religious interests while sustaining democratic governance."
+    },
+    {
+      "subject": "History",
+      "text": "The transition from military to civilian rule in many West African countries in the late 20th century was often marked by",
+      "options": [
+        "new constitutions and organised elections to restore democratic government",
+        "a complete return to pre-colonial systems of government",
+        "the immediate unification of all West African states into one country",
+        "the permanent abolition of all constitutions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transitions to civilian rule typically involved drafting new constitutions and conducting elections to hand power back to elected governments."
+    },
+    {
+      "subject": "History",
+      "text": "The Northern People's Congress (NPC), a dominant party in pre-independence Northern Nigeria, drew most of its support from",
+      "options": [
+        "the Northern Region, especially among Hausa-Fulani and allied groups",
+        "the Eastern Region only",
+        "European settlers in Nigeria",
+        "the Western Region only"
+      ],
+      "correctIndex": 0,
+      "explanation": "The NPC was rooted in the Northern Region, reflecting the political interests of its Hausa-Fulani-dominated leadership and electorate."
+    },
+    {
+      "subject": "History",
+      "text": "The Action Group (AG), a major pre-independence Nigerian political party, drew most of its core support from",
+      "options": [
+        "the Western Region, particularly among the Yoruba",
+        "European colonial administrators",
+        "the Northern Region only",
+        "the Eastern Region exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Action Group was based primarily in Western Nigeria and closely associated with Yoruba political interests under leaders such as Obafemi Awolowo."
+    },
+    {
+      "subject": "History",
+      "text": "Nigeria's first post-independence Prime Minister, heading government under the parliamentary system, was",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Ahmadu Bello",
+        "Sir Abubakar Tafawa Balewa",
+        "Obafemi Awolowo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tafawa Balewa served as Nigeria's first Prime Minister from independence in 1960 until the 1966 military coup."
+    },
+    {
+      "subject": "History",
+      "text": "Nigeria's first indigenous President under the 1963 Republican Constitution was",
+      "options": [
+        "Abubakar Tafawa Balewa",
+        "Shehu Shagari",
+        "Yakubu Gowon",
+        "Nnamdi Azikiwe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nnamdi Azikiwe became Nigeria's first President in 1963 when the country became a republic, though the role was then largely ceremonial."
+    },
+    {
+      "subject": "History",
+      "text": "Ghana became the first sub-Saharan African colony to achieve independence, in the year",
+      "options": [
+        "1957",
+        "1963",
+        "1975",
+        "1960"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ghana (formerly the Gold Coast) gained independence in 1957 under Kwame Nkrumah, becoming a symbol of hope for African decolonisation."
+    },
+    {
+      "subject": "History",
+      "text": "Kwame Nkrumah, Ghana's first Prime Minister and later President, was a leading advocate of",
+      "options": [
+        "continued colonial rule in Africa",
+        "the permanent division of Africa into small states",
+        "Pan-Africanism and continental unity",
+        "isolation of Africa from world affairs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nkrumah was a prominent Pan-Africanist who championed African unity and the rapid decolonisation of the continent."
+    },
+    {
+      "subject": "History",
+      "text": "A common feature of the early post-independence coups in West Africa was that they were often carried out by",
+      "options": [
+        "international peacekeeping forces",
+        "traditional rulers restoring pre-colonial monarchies",
+        "foreign colonial armies seeking to reclaim their former colonies",
+        "young military officers citing corruption and mismanagement by civilian governments"
+      ],
+      "correctIndex": 3,
+      "explanation": "Many early coups were led by junior or mid-level military officers who justified their actions by pointing to corruption and poor governance."
+    },
+    {
+      "subject": "History",
+      "text": "The Nigerian Civil War formally ended in 1970 with",
+      "options": [
+        "a permanent partition of Nigeria into two nations",
+        "foreign military occupation of Nigeria",
+        "the surrender of Biafran forces and reintegration into a united Nigeria",
+        "the successful secession of Biafra as an independent country"
+      ],
+      "correctIndex": 2,
+      "explanation": "The war ended with Biafra's surrender in January 1970, and the federal government pursued a policy of 'no victor, no vanquished' in reintegrating the region."
+    },
+    {
+      "subject": "History",
+      "text": "The federal government's post-civil war policy toward the defeated Eastern Region was popularly summarised as",
+      "options": [
+        "'permanent partition'",
+        "'complete isolation'",
+        "'total surrender and punishment'",
+        "'no victor, no vanquished'"
+      ],
+      "correctIndex": 3,
+      "explanation": "General Yakubu Gowon's post-war reconciliation policy sought national healing rather than punishing the defeated region, under the slogan 'no victor, no vanquished'."
+    },
+    {
+      "subject": "History",
+      "text": "Structural Adjustment Programmes in Africa were closely associated with financial support and conditions set by",
+      "options": [
+        "the International Monetary Fund (IMF) and the World Bank",
+        "the African Union alone",
+        "the Commonwealth of Nations",
+        "the United Nations Security Council"
+      ],
+      "correctIndex": 0,
+      "explanation": "SAPs were typically adopted as conditions attached to loans and support from the IMF and World Bank during economic crises."
+    },
+    {
+      "subject": "History",
+      "text": "One notable criticism of Structural Adjustment Programmes in West Africa was that they often",
+      "options": [
+        "had no effect on government spending at all",
+        "immediately eliminated all unemployment",
+        "worsened poverty and social hardship in the short term due to subsidy cuts and currency devaluation",
+        "led to instant economic prosperity for all citizens"
+      ],
+      "correctIndex": 2,
+      "explanation": "Critics argued that austerity measures under SAPs, such as subsidy removal and devaluation, increased hardship for ordinary citizens, at least in the short run."
+    },
+    {
+      "subject": "History",
+      "text": "A key lesson often drawn from post-independence political instability in West Africa is the importance of",
+      "options": [
+        "inclusive governance that fairly represents diverse ethnic and regional interests",
+        "abolishing elections permanently",
+        "relying solely on military rule for stability",
+        "concentrating all power in a single ethnic group"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many analyses of post-independence crises emphasise that excluding or marginalising particular groups fuels instability, making inclusive governance essential."
+    }
+  ]
+}

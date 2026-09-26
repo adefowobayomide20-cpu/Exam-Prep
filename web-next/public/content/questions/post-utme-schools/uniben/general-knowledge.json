@@ -1,0 +1,414 @@
+{
+  "subject": "General Knowledge",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "General Knowledge",
+      "text": "The University of Benin (UNIBEN) is located in which state?",
+      "options": [
+        "Rivers State",
+        "Delta State",
+        "Anambra State",
+        "Edo State"
+      ],
+      "correctIndex": 3,
+      "explanation": "UNIBEN is located in Benin City, the capital of Edo State, and is one of Nigeria's first-generation federal universities."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year was the institution now known as the University of Benin founded?",
+      "options": [
+        "1970",
+        "1980",
+        "1948",
+        "1962"
+      ],
+      "correctIndex": 0,
+      "explanation": "The University of Benin traces its origin to 1970, when it was established as a full university, having started as an institute of technology in 1970 under federal government ownership."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Benin City, home to UNIBEN, was historically the capital of which powerful pre-colonial African kingdom?",
+      "options": [
+        "The Benin Kingdom (Benin Empire)",
+        "The Sokoto Caliphate",
+        "The Kanem-Bornu Empire",
+        "The Oyo Empire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Benin City was the historic capital of the Benin Kingdom (also called the Benin Empire), one of the oldest and most highly organised states in West African history."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What title is given to the traditional ruler of the Benin Kingdom?",
+      "options": [
+        "The Emir of Benin",
+        "The Sultan of Benin",
+        "The Oba of Benin",
+        "The Ooni of Benin"
+      ],
+      "correctIndex": 2,
+      "explanation": "The traditional ruler of the Benin Kingdom holds the title 'Oba of Benin', a position with a long unbroken royal lineage dating back many centuries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The Benin Bronzes, celebrated worldwide for their craftsmanship, were traditionally produced using which metalworking technique?",
+      "options": [
+        "3D printing",
+        "Lost-wax (cire perdue) casting",
+        "Cold hammering only",
+        "Sand moulding without wax"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Benin Bronzes were crafted using the lost-wax casting technique, a sophisticated method that produced highly detailed bronze and brass plaques and sculptures for the Benin royal court."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What were many of the Benin Bronzes originally created to depict or commemorate?",
+      "options": [
+        "Modern political elections",
+        "Agricultural produce prices",
+        "The history, rituals, and achievements of the Oba and the royal court",
+        "European colonial administrators exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "The bronzes and plaques served largely as historical and ceremonial records, depicting the Oba, chiefs, warriors, and important events of the Benin royal court."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year did British forces launch the punitive expedition that led to the looting of thousands of Benin Bronzes from the royal palace?",
+      "options": [
+        "1885",
+        "1914",
+        "1897",
+        "1960"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1897 British Punitive Expedition sacked Benin City and looted thousands of artefacts, including the Benin Bronzes, many of which ended up in Western museums."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which present-day Nigerian ethnic group is most closely associated with the historic Benin Kingdom and Benin City?",
+      "options": [
+        "The Ijaw people alone",
+        "The Hausa-Fulani people",
+        "The Edo (Bini) people",
+        "The Igbo people"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Edo (also called Bini) people are the principal ethnic group historically associated with the Benin Kingdom and the traditional custodians of its culture."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes a key reason UNIBEN is often referred to by the motto phrase 'Knowledge for Service'?",
+      "options": [
+        "It is the name of the university's founding vice-chancellor",
+        "It refers only to the university's teaching hospital",
+        "It was the original 1970 name of the institution",
+        "It reflects the university's stated mission of applying knowledge to serve society"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Knowledge for Service' is UNIBEN's official motto, reflecting its mission of producing graduates and research that serve national development."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Edo State, where UNIBEN is situated, shares a border with which of the following states?",
+      "options": [
+        "Kano State",
+        "Delta State",
+        "Borno State",
+        "Sokoto State"
+      ],
+      "correctIndex": 1,
+      "explanation": "Edo State shares a border with Delta State to the south and east, among other neighbouring states such as Kogi and Ondo."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the capital city of Edo State?",
+      "options": [
+        "Warri",
+        "Benin City",
+        "Auchi",
+        "Asaba"
+      ],
+      "correctIndex": 1,
+      "explanation": "Benin City serves as both the capital of Edo State and the historic seat of the Benin Kingdom."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The ancient Benin moats and walls, once among the largest man-made earthworks in the world, were built primarily for what purpose?",
+      "options": [
+        "Defence and demarcation of the kingdom's boundaries",
+        "Storage of trade goods only",
+        "Irrigation of farmland exclusively",
+        "Modern flood control planning"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Benin Walls and moats, known as the Iya, were extensive earthworks built largely for defensive purposes and to mark territorial boundaries within the kingdom."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a well-known annual festival celebrated by the Benin people, honouring the Oba and ancestral traditions?",
+      "options": [
+        "Igue Festival",
+        "Durbar Festival",
+        "Argungu Fishing Festival",
+        "Osun-Osogbo Festival"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Igue Festival is an important annual traditional festival of the Benin people, held to honour the Oba and renew the kingdom's spiritual and cultural bonds."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which arm of government in Nigeria is primarily responsible for interpreting laws and administering justice?",
+      "options": [
+        "The Judiciary",
+        "The Executive",
+        "The Legislature",
+        "The Civil Service"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Judiciary is the arm of government responsible for interpreting laws and adjudicating disputes, distinct from the law-making Legislature and law-enforcing Executive."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the Nigerian legislative chamber that represents individual constituencies at the federal level, alongside the Senate?",
+      "options": [
+        "House of Representatives",
+        "House of Assembly",
+        "National Council",
+        "Federal Council"
+      ],
+      "correctIndex": 0,
+      "explanation": "The House of Representatives, together with the Senate, forms Nigeria's bicameral National Assembly, with members representing federal constituencies."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following countries shares a land border with Nigeria?",
+      "options": [
+        "Cameroon",
+        "Kenya",
+        "South Africa",
+        "Ghana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria shares land borders with Cameroon, Niger, Chad, and Benin Republic; Ghana, South Africa, and Kenya are not bordering countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest desert in the world?",
+      "options": [
+        "The Sahara-Kalahari Desert",
+        "The Sahara Desert",
+        "The Gobi Desert",
+        "The Kalahari Desert"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Sahara Desert, spanning much of North Africa, is the largest hot desert in the world."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Independent National Electoral Commission (INEC)?",
+      "options": [
+        "Organising and supervising elections in Nigeria",
+        "Regulating the Nigerian banking sector",
+        "Managing Nigeria's foreign embassies",
+        "Enforcing traffic laws nationwide"
+      ],
+      "correctIndex": 0,
+      "explanation": "INEC is Nigeria's independent body responsible for organising, conducting, and supervising elections at the federal and state levels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a major cash crop historically associated with Edo State and the wider Niger Delta fringe region?",
+      "options": [
+        "Barley exclusively",
+        "Wheat exclusively",
+        "Rubber",
+        "Groundnut exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Edo State, particularly around Benin City, has long been associated with rubber cultivation and processing, alongside oil palm production."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the chemical symbol for oxygen?",
+      "options": [
+        "Og",
+        "O",
+        "O2",
+        "Ox"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen's chemical symbol is 'O', representing the element on the periodic table (the common gas is the diatomic molecule O2)."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mars is called the 'Red Planet' because of the iron oxide (rust) that gives its surface a reddish appearance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Nigeria's national football team commonly nicknamed?",
+      "options": [
+        "The Black Stars",
+        "The Indomitable Lions",
+        "The Super Eagles",
+        "The Elephants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nigeria's senior men's national football team is popularly known as the Super Eagles, distinct from Ghana's Black Stars and Cameroon's Indomitable Lions."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international body is primarily responsible for global public health coordination?",
+      "options": [
+        "The International Monetary Fund (IMF)",
+        "The United Nations (UN)",
+        "The World Trade Organization (WTO)",
+        "The World Health Organization (WHO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WHO is the United Nations agency specifically responsible for coordinating international public health matters."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a system of government headed by a king or queen whose powers are limited by a constitution?",
+      "options": [
+        "Theocracy",
+        "Absolute monarchy",
+        "Republic",
+        "Constitutional monarchy"
+      ],
+      "correctIndex": 3,
+      "explanation": "A constitutional monarchy is a system in which a monarch serves as head of state, but their powers are limited and defined by a constitution, unlike an absolute monarchy."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is an example of a non-communicable disease?",
+      "options": [
+        "Diabetes",
+        "Tuberculosis",
+        "Malaria",
+        "Cholera"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diabetes is a non-communicable (non-infectious) disease, unlike tuberculosis, malaria, and cholera, which are caused by infectious agents."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest country in the world by land area?",
+      "options": [
+        "Russia",
+        "China",
+        "Canada",
+        "United States"
+      ],
+      "correctIndex": 0,
+      "explanation": "Russia is the largest country in the world by land area, spanning parts of both Europe and Asia."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of a Vice-Chancellor in a Nigerian university, such as UNIBEN?",
+      "options": [
+        "Serving as the elected student union president",
+        "Serving as the chief executive and academic head of the university",
+        "Managing only the university's sports facilities",
+        "Serving as an external auditor of the university's accounts"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Vice-Chancellor is the chief executive and principal academic officer of a Nigerian university, responsible for its overall administration and academic direction."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regulatory body is responsible for accrediting academic programmes in Nigerian universities?",
+      "options": [
+        "The West African Examinations Council (WAEC)",
+        "The Joint Admissions and Matriculation Board (JAMB)",
+        "The Federal Ministry of Education alone, with no separate agency",
+        "The National Universities Commission (NUC)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The NUC is the regulatory body responsible for approving and accrediting academic programmes offered by Nigerian universities, ensuring they meet minimum quality standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of all goods and services produced within a country's borders in a given period?",
+      "options": [
+        "Gross Domestic Product (GDP)",
+        "Net National Income",
+        "Gross National Product (GNP)",
+        "Balance of Trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "GDP specifically measures the value of goods and services produced within a country's borders, regardless of the nationality of the producers."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian playwright and author was the first African to win the Nobel Prize in Literature?",
+      "options": [
+        "Cyprian Ekwensi",
+        "Chimamanda Ngozi Adichie",
+        "Chinua Achebe",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wole Soyinka won the Nobel Prize in Literature in 1986, becoming the first African laureate in that category."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does the abbreviation 'NAFDAC' stand for in the Nigerian context?",
+      "options": [
+        "Nigerian Agency for Food and Drug Coordination",
+        "National Authority for Food, Drugs, and Cosmetics",
+        "National Agency for Food and Drug Administration and Control",
+        "National Association for Drug and Chemical Control"
+      ],
+      "correctIndex": 2,
+      "explanation": "NAFDAC regulates and controls the manufacture, importation, and sale of food, drugs, and related products in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a persistent, sustained rise in the general price level of goods and services in an economy?",
+      "options": [
+        "Recession",
+        "Deflation",
+        "Inflation",
+        "Depreciation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inflation describes an ongoing, generalised increase in prices across an economy, the opposite of deflation."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary aim of the African Continental Free Trade Area (AfCFTA)?",
+      "options": [
+        "Regulating global internet governance",
+        "Coordinating African military alliances exclusively",
+        "Creating a single market for goods and services across African countries to boost intra-African trade",
+        "Restricting all trade between African nations"
+      ],
+      "correctIndex": 2,
+      "explanation": "AfCFTA aims to create a single continental market for goods and services, boosting intra-African trade by reducing tariffs and other trade barriers among member states."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a key function of the Central Bank of Nigeria (CBN) relating to currency?",
+      "options": [
+        "Running the national postal service",
+        "Issuing and regulating the country's currency (the Naira)",
+        "Managing Nigeria's road transport infrastructure",
+        "Setting the retail price of consumer goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "One of the CBN's core functions is the sole authority to issue and regulate Nigeria's legal tender currency, the Naira."
+    }
+  ]
+}

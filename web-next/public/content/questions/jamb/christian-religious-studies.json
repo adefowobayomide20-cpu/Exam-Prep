@@ -1,0 +1,2406 @@
+{
+  "subject": "Christian Religious Studies",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to the Genesis creation account, God created the world in",
+      "options": [
+        "one single day",
+        "seven days, resting on the eighth",
+        "six days, resting on the seventh",
+        "forty days and forty nights"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genesis 1-2 recounts God completing the work of creation in six days and resting on the seventh, which became the basis for the Sabbath."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to Genesis, the first man and woman created by God were",
+      "options": [
+        "Abraham and Sarah",
+        "Noah and his wife",
+        "Adam and Eve",
+        "Isaac and Rebekah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genesis identifies Adam and Eve as the first human beings created by God, placed in the Garden of Eden."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In the account of the Fall, Adam and Eve disobeyed God by",
+      "options": [
+        "refusing to name the animals",
+        "building an altar without God's instruction",
+        "eating the forbidden fruit from the tree of the knowledge of good and evil",
+        "leaving the Garden of Eden without permission"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genesis 3 describes Adam and Eve's disobedience in eating fruit from the one tree God had explicitly forbidden them to eat from, resulting in the Fall."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "As a direct consequence of the Fall, God pronounced punishment that included",
+      "options": [
+        "pain in childbirth for the woman and toil in labour for the man",
+        "the destruction of the entire earth by flood",
+        "the confusion of human languages",
+        "immediate physical death for both Adam and Eve"
+      ],
+      "correctIndex": 0,
+      "explanation": "God's judgement in Genesis 3 included increased pain in childbirth for Eve and difficult, toilsome labour on the cursed ground for Adam, along with their expulsion from Eden."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The sovereignty of God, as illustrated in the early narratives of Genesis, refers to God's",
+      "options": [
+        "dependence on human permission before acting",
+        "limited influence confined only to the nation of Israel",
+        "supreme power and authority over all creation and human affairs",
+        "absence from the affairs of the created world"
+      ],
+      "correctIndex": 2,
+      "explanation": "God's sovereignty is demonstrated throughout Genesis as His ultimate authority and control over creation, human history, and the unfolding of His purposes."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Joseph, one of the sons of Jacob, rose to a position of leadership in Egypt mainly through his ability to",
+      "options": [
+        "build the pyramids of Egypt",
+        "translate foreign languages for Pharaoh's court",
+        "interpret dreams, including Pharaoh's dreams about the coming famine",
+        "lead Egypt's army into successful battles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Joseph's God-given gift of dream interpretation, especially of Pharaoh's dreams predicting seven years of plenty followed by seven years of famine, led to his elevation to a position of great authority in Egypt."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Joseph's brothers initially mistreated him mainly out of",
+      "options": [
+        "anger at Joseph's disobedience to their father",
+        "a shared decision by their father to punish Joseph",
+        "fear that Joseph would leave the family permanently",
+        "jealousy over their father's favouritism and Joseph's dreams of ruling over them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Joseph's brothers resented him for Jacob's evident favouritism (symbolised by the coat of many colours) and for his dreams suggesting he would one day rule over them, leading them to sell him into slavery."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Moses was chosen by God to lead the Israelites out of slavery in",
+      "options": [
+        "Canaan",
+        "Assyria",
+        "Babylon",
+        "Egypt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Moses is the central figure in the Exodus narrative, called by God to lead the enslaved Israelites out of bondage in Egypt to the promised land."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "God first called Moses to his leadership mission through the appearance of",
+      "options": [
+        "a pillar of cloud by day",
+        "a rainbow in the sky",
+        "a burning bush that was not consumed by the fire",
+        "a dream during the night"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Exodus 3, God appears to Moses in a bush that burns without being consumed, calling him to lead the Israelites out of Egypt."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "After the death of Moses, God appointed which leader to lead the Israelites into the Promised Land?",
+      "options": [
+        "Joshua",
+        "Aaron",
+        "Samson",
+        "Gideon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joshua succeeded Moses as the leader of the Israelites, tasked with leading them across the Jordan River into the land of Canaan."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Under Joshua's leadership, the famous walls of which city collapsed after the Israelites marched around it?",
+      "options": [
+        "Bethlehem",
+        "Jericho",
+        "Nazareth",
+        "Jerusalem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Following God's specific instructions, the Israelites marched around Jericho for seven days, after which its walls miraculously collapsed, allowing them to conquer the city."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Gideon, one of the judges of Israel, is best known for",
+      "options": [
+        "defeating a much larger Midianite army with only 300 chosen men",
+        "building the first temple in Jerusalem",
+        "writing the book of Psalms",
+        "leading the Israelites out of Egyptian slavery"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gideon, guided by God, reduced his army to just 300 men to demonstrate that Israel's victory over the Midianites came through God's power, not human strength."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Before agreeing to lead Israel against the Midianites, Gideon sought confirmation from God through the sign of",
+      "options": [
+        "a rainbow in the sky",
+        "a fleece of wool that became wet or dry as he requested",
+        "the parting of the Red Sea",
+        "a burning bush"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gideon asked God for confirmation using a wool fleece, requesting it be wet with dew while the ground remained dry, and then the reverse, to be certain of God's call."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Samson, another judge of Israel, was famous for his",
+      "options": [
+        "leadership of Israel's priesthood",
+        "extraordinary physical strength, given by God through his Nazarite vow",
+        "skill in building the temple",
+        "wisdom in settling legal disputes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Samson possessed supernatural physical strength tied to his Nazarite vow, a key part of which was never cutting his hair, and which he used against Israel's enemies, the Philistines."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Samson's strength was ultimately compromised when",
+      "options": [
+        "he broke his vow by touching a dead body",
+        "he grew old and naturally weak",
+        "Delilah discovered the secret of his strength lay in his uncut hair and had it cut while he slept",
+        "he lost a wrestling match to a Philistine soldier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Delilah persistently pressed Samson until he revealed the true secret of his strength, allowing the Philistines to cut his hair while he slept and capture him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The period of the Judges in Israel's history was generally characterised by",
+      "options": [
+        "a repeating cycle of Israel's disobedience, oppression by enemies, repentance, and deliverance by a judge",
+        "a stable, centralised monarchy under a single king",
+        "complete abandonment of the worship of God by all Israelites",
+        "peaceful, uninterrupted prosperity with no conflict"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Book of Judges describes a recurring cycle: Israel turns from God, is oppressed by enemies, cries out in repentance, and God raises up a judge to deliver them, only for the cycle to repeat."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Saul, the first king of Israel, was anointed by the prophet",
+      "options": [
+        "Nathan",
+        "Isaiah",
+        "Samuel",
+        "Elijah"
+      ],
+      "correctIndex": 2,
+      "explanation": "The prophet Samuel anointed Saul as the first king of Israel at the people's request for a king like other nations."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Saul's disobedience to God, which ultimately cost him God's favour, involved",
+      "options": [
+        "abandoning his throne voluntarily",
+        "offering a sacrifice himself instead of waiting for Samuel, and later failing to fully destroy the Amalekites as commanded",
+        "refusing to fight against the Philistines at all",
+        "building an idol for the Israelites to worship"
+      ],
+      "correctIndex": 1,
+      "explanation": "Saul's repeated disobedience, including impatiently offering a sacrifice reserved for Samuel and sparing King Agag and the best of the Amalekite livestock against God's explicit command, led to his rejection as king."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "David, who succeeded Saul as king, first gained public recognition for",
+      "options": [
+        "defeating the Philistine giant Goliath in single combat",
+        "writing the entire book of Proverbs",
+        "leading the Israelites out of Egypt",
+        "building the first temple in Jerusalem"
+      ],
+      "correctIndex": 0,
+      "explanation": "David's victory over the giant Goliath, using only a sling and stones, brought him to national prominence and marked the beginning of his rise to kingship."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "David's rise to kingship was complicated by the jealousy and hostility of",
+      "options": [
+        "his own father, Jesse",
+        "the prophet Samuel, who opposed his anointing",
+        "the Philistine king, Achish",
+        "King Saul, who repeatedly sought to kill him"
+      ],
+      "correctIndex": 3,
+      "explanation": "Despite David's loyal service, Saul grew increasingly jealous of David's popularity and military success, repeatedly attempting to kill him before David eventually became king."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "A major moral failure in David's life as king involved",
+      "options": [
+        "his refusal to ever fight in battle",
+        "his abandonment of the worship of God entirely",
+        "his decision to divide the kingdom of Israel",
+        "his adultery with Bathsheba and the arranged death of her husband, Uriah"
+      ],
+      "correctIndex": 3,
+      "explanation": "David's affair with Bathsheba, followed by his arrangement to have her husband Uriah killed in battle to cover up the resulting pregnancy, stands as one of the most serious moral failures recorded of him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Solomon, David's son and successor, is best known for his",
+      "options": [
+        "role as a judge of Israel before the monarchy",
+        "exceptional wisdom, granted to him by God, and for building the first Temple in Jerusalem",
+        "military conquests across foreign lands",
+        "leadership of the Israelites during the Exodus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solomon famously asked God for wisdom to govern Israel well, and used his wealth and wisdom to construct the first Temple in Jerusalem as a permanent house of worship."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Despite his wisdom, Solomon's later reign was marked by a moral and spiritual lapse involving",
+      "options": [
+        "his abandonment of Jerusalem as the capital",
+        "his many foreign wives leading him into the worship of other gods",
+        "his rejection of all wealth and possessions",
+        "his complete refusal to build the Temple"
+      ],
+      "correctIndex": 1,
+      "explanation": "In his later years, Solomon's numerous foreign wives influenced him to build shrines and participate in the worship of foreign gods, a serious departure from exclusive devotion to God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The famous judgement in which Solomon proposed dividing a disputed baby in two to determine its true mother demonstrated his",
+      "options": [
+        "skill in temple architecture",
+        "wisdom in discerning truth and justice",
+        "ability to interpret dreams",
+        "military strategy in warfare"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solomon's clever proposal revealed the true mother, who begged for the baby's life to be spared rather than divided, showcasing the divine wisdom Solomon had been granted."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "After Solomon's death, the kingdom of Israel was divided mainly due to",
+      "options": [
+        "an agreement between Solomon's sons to rule jointly",
+        "a foreign invasion that split the territory",
+        "the harsh policies of his son Rehoboam, which led the northern tribes to rebel",
+        "a natural disaster separating the north from the south"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rehoboam's refusal to lighten the heavy burdens imposed by Solomon led the ten northern tribes to rebel and form the separate Kingdom of Israel, while Judah remained loyal to the Davidic line in the south."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Following the division of the kingdom, the northern kingdom retained the name",
+      "options": [
+        "Judah",
+        "Babylon",
+        "Israel",
+        "Assyria"
+      ],
+      "correctIndex": 2,
+      "explanation": "After the split following Solomon's reign, the ten northern tribes formed the Kingdom of Israel, while the southern tribes formed the Kingdom of Judah."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "King Ahab of Israel is particularly remembered for his idolatrous worship promoted through his wife",
+      "options": [
+        "Rebekah, the wife of Isaac",
+        "Delilah, who betrayed Samson",
+        "Jezebel, who promoted the worship of Baal",
+        "Bathsheba, the wife of Uriah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ahab's marriage to the Phoenician princess Jezebel led to widespread promotion of Baal worship in Israel, a central conflict in the narratives involving the prophet Elijah."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Elijah famously confronted the prophets of Baal in a dramatic contest on",
+      "options": [
+        "Mount of Olives",
+        "Mount Carmel",
+        "Mount Sinai",
+        "Mount Horeb only"
+      ],
+      "correctIndex": 1,
+      "explanation": "On Mount Carmel, Elijah challenged the prophets of Baal to a contest to call down fire from heaven, decisively demonstrating the power of the God of Israel over Baal."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "After his victory over the prophets of Baal, Elijah fled into the wilderness in fear of",
+      "options": [
+        "an approaching foreign army",
+        "King Ahab's direct attack",
+        "a severe famine in the land",
+        "Queen Jezebel's threat to kill him"
+      ],
+      "correctIndex": 3,
+      "explanation": "Despite his triumphant victory on Mount Carmel, Elijah fled in fear after Jezebel vowed to have him killed in retaliation for the deaths of her prophets."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Amos is particularly known for his messages concerning",
+      "options": [
+        "the rebuilding of the Jerusalem Temple",
+        "the coming birth of the Messiah",
+        "social justice and condemnation of the exploitation of the poor",
+        "the reign of King Solomon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amos's prophetic ministry strongly emphasised social justice, sharply condemning the wealthy for exploiting and oppressing the poor and vulnerable in Israelite society."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Hosea's own difficult marriage to an unfaithful wife was used symbolically to represent",
+      "options": [
+        "the friendship between David and Jonathan",
+        "the political alliance between Israel and Judah",
+        "Israel's unfaithfulness to God despite His enduring love and covenant faithfulness",
+        "the reconciliation between Jacob and Esau"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hosea's painful marital experience became a living illustration of Israel's spiritual unfaithfulness to God, while also demonstrating God's persistent, faithful love in seeking reconciliation."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Isaiah's call to prophetic ministry is described as occurring through a vision of",
+      "options": [
+        "God's glory in the Temple, attended by seraphim",
+        "a lion's den",
+        "a valley filled with dry bones",
+        "a burning bush in the wilderness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Isaiah chapter 6 describes his dramatic vision of God's holiness and glory in the Temple, attended by seraphim, following which he responds to God's call to be sent as a prophet."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jeremiah's Temple Sermon warned the people of Judah that",
+      "options": [
+        "God had abandoned Judah completely with no hope of restoration",
+        "their empty religious rituals would not protect them from judgement if they continued in disobedience and injustice",
+        "foreign nations would never threaten Jerusalem",
+        "the Temple would stand forever regardless of the people's behaviour"
+      ],
+      "correctIndex": 1,
+      "explanation": "In his Temple Sermon (Jeremiah 7), Jeremiah warned that the people's false confidence in the Temple's presence would not shield them from judgement if they persisted in injustice and idolatry."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jeremiah is often referred to as the 'weeping prophet' mainly because of his",
+      "options": [
+        "physical blindness throughout his ministry",
+        "constant conflict with King David",
+        "deep sorrow over Judah's persistent sin and the coming judgement he was called to announce",
+        "personal poverty and homelessness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jeremiah's prophetic ministry was marked by profound personal grief over the sins of his people and the painful judgement he foresaw and had to proclaim, earning him this well-known title."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Which prophet is most closely associated with warnings and messages directed at the northern kingdom of Israel, particularly concerning social injustice, alongside Amos?",
+      "options": [
+        "Jeremiah",
+        "Ezekiel",
+        "Hosea",
+        "Isaiah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hosea, like Amos, prophesied primarily to the northern kingdom of Israel, though his focus centred more on Israel's spiritual unfaithfulness to God, illustrated through his own marriage."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophets of the divided kingdom period, such as Amos, Hosea, Isaiah, and Jeremiah, generally shared a common message calling the people to",
+      "options": [
+        "military conquest of neighbouring nations",
+        "the construction of new pagan temples",
+        "the abolition of the monarchy entirely",
+        "repentance, social justice, and renewed faithfulness to God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Despite their different individual circumstances, these prophets consistently called Israel and Judah back to covenant faithfulness, genuine worship, and social justice."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Ezekiel's vision of the valley of dry bones symbolised",
+      "options": [
+        "the creation of the world by God",
+        "the crossing of the Red Sea by the Israelites",
+        "the future restoration and revival of Israel from its spiritual and national death in exile",
+        "the final destruction of Israel with no hope of restoration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ezekiel's vision (Ezekiel 37) of dry bones coming to life symbolised God's promise to restore and revive the nation of Israel, even after the devastation of exile."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Ezekiel ministered as a prophet primarily to the Israelites during their",
+      "options": [
+        "wandering in the wilderness after the Exodus",
+        "exile in Babylon",
+        "return from exile under Nehemiah",
+        "settlement in the Promised Land under Joshua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ezekiel prophesied among the Jewish exiles living in Babylon following the fall of Jerusalem, offering both warnings and messages of future hope and restoration."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Daniel demonstrated his unwavering faith in God most famously by",
+      "options": [
+        "surviving unharmed after being thrown into a den of lions for continuing to pray to God",
+        "interpreting the Ten Commandments for the exiles",
+        "building the second Temple in Jerusalem",
+        "leading the Israelites in battle against Babylon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Daniel's steadfast commitment to praying to God, despite a royal decree forbidding it, led to his being thrown into a lions' den, from which God miraculously delivered him unharmed."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Daniel and his three friends first demonstrated their faithfulness to God while in Babylon by",
+      "options": [
+        "refusing to learn the Babylonian language",
+        "leaving Babylon without royal permission",
+        "rebuilding the Temple in Jerusalem",
+        "refusing to eat the king's rich food and wine, choosing vegetables and water instead"
+      ],
+      "correctIndex": 3,
+      "explanation": "Daniel and his companions chose to maintain their religious dietary convictions by requesting simple food, trusting God rather than the richer provisions of the Babylonian royal table."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Nehemiah is best known in the Old Testament for his role in",
+      "options": [
+        "leading the Israelites out of Egyptian slavery",
+        "defeating the Philistines with 300 men",
+        "building the first Temple in Jerusalem",
+        "leading the rebuilding of the walls of Jerusalem after the exile"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nehemiah, serving as governor, organised and led the successful rebuilding of Jerusalem's broken walls after the Jewish exiles began returning from Babylon."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Nehemiah faced significant opposition to the rebuilding of Jerusalem's walls from enemies such as",
+      "options": [
+        "Saul and the Philistines",
+        "Pharaoh and his army",
+        "Ahab and Jezebel",
+        "Sanballat and Tobiah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nehemiah's rebuilding efforts were persistently opposed and mocked by local officials Sanballat and Tobiah, who attempted to intimidate and sabotage the work."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The period of Exile and Return in Old Testament history primarily involved the Israelites being taken captive to and later returning from",
+      "options": [
+        "Assyria only",
+        "Egypt",
+        "Babylon",
+        "Rome"
+      ],
+      "correctIndex": 2,
+      "explanation": "Following the fall of Jerusalem, the people of Judah were taken into exile in Babylon, from which they later began to return under leaders such as Ezra and Nehemiah."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "A key theological lesson emphasised through the Exile and Return narratives (Ezekiel, Daniel, Nehemiah) is that",
+      "options": [
+        "God permanently abandoned Israel with no possibility of restoration",
+        "the Israelites achieved their restoration entirely through their own military strength",
+        "God remains faithful to His people and can restore them even after judgement, provided they remain faithful to Him",
+        "exile was a purely political event with no spiritual significance"
+      ],
+      "correctIndex": 2,
+      "explanation": "These narratives collectively emphasise that even amid judgement and exile, God remains faithful to His covenant promises, offering restoration to those who remain faithful to Him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to the Gospels, Jesus was born in the town of",
+      "options": [
+        "Jerusalem",
+        "Nazareth",
+        "Bethlehem",
+        "Capernaum"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Gospels of Matthew and Luke record that Jesus was born in Bethlehem, fulfilling Old Testament prophecy concerning the birthplace of the Messiah."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus was baptised in the Jordan River by",
+      "options": [
+        "John the Baptist",
+        "Paul",
+        "Andrew",
+        "Peter"
+      ],
+      "correctIndex": 0,
+      "explanation": "John the Baptist baptised Jesus in the Jordan River, an event marked by the Holy Spirit descending like a dove and a voice from heaven affirming Jesus as God's Son."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Immediately after His baptism, Jesus was led by the Spirit into the wilderness, where He",
+      "options": [
+        "began His public ministry immediately",
+        "performed His first miracle",
+        "called His first disciples",
+        "was tempted by the devil for forty days"
+      ],
+      "correctIndex": 3,
+      "explanation": "Following His baptism, Jesus spent forty days fasting in the wilderness, during which He faced and overcame temptation from the devil."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "During His temptation in the wilderness, Jesus resisted the devil's temptations mainly by",
+      "options": [
+        "calling on the angels for immediate rescue",
+        "quoting Scripture in response to each temptation",
+        "performing a miracle to prove His power",
+        "arguing philosophically with the devil"
+      ],
+      "correctIndex": 1,
+      "explanation": "In each of the three temptations recorded, Jesus responded by quoting Old Testament Scripture, demonstrating reliance on God's word rather than succumbing to the devil's offers."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Transfiguration of Jesus, witnessed by Peter, James, and John, involved",
+      "options": [
+        "Jesus's appearance being radically changed to shine with divine glory, accompanied by Moses and Elijah",
+        "Jesus walking on water before His disciples",
+        "Jesus calming a violent storm at sea",
+        "Jesus raising Lazarus from the dead"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the Transfiguration, Jesus's appearance was gloriously transformed on a mountain, and He was seen conversing with Moses and Elijah, affirming His divine identity to the three witnessing disciples."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At the Transfiguration, a voice from a cloud declared concerning Jesus,",
+      "options": [
+        "'Behold the Lamb of God'",
+        "'This is my beloved Son; listen to him'",
+        "'It is finished'",
+        "'This is the King of the Jews'"
+      ],
+      "correctIndex": 1,
+      "explanation": "The divine voice at the Transfiguration echoed the declaration made at Jesus's baptism, affirming His identity as God's beloved Son and commanding the disciples to listen to Him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The birth of Jesus was announced to the shepherds by",
+      "options": [
+        "the wise men from the East",
+        "the Roman emperor Caesar Augustus",
+        "King Herod directly",
+        "an angel, accompanied by a heavenly host praising God"
+      ],
+      "correctIndex": 3,
+      "explanation": "Luke's Gospel records that an angel appeared to shepherds in the fields near Bethlehem to announce the birth of Jesus, followed by a multitude of the heavenly host praising God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to Matthew's Gospel, wise men (Magi) from the East came to worship the infant Jesus, guided by",
+      "options": [
+        "a dream alone, with no other guide",
+        "a message from King Herod",
+        "an angelic vision only",
+        "a star"
+      ],
+      "correctIndex": 3,
+      "explanation": "Matthew's Gospel describes the wise men following a star that led them to the place where the young child Jesus was, where they presented gifts of gold, frankincense, and myrrh."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "King Herod's reaction to the news of the birth of a 'King of the Jews' was to",
+      "options": [
+        "send gifts of gold and silver to the newborn Jesus",
+        "immediately abdicate his throne",
+        "order the massacre of infant boys in Bethlehem in an attempt to eliminate this perceived rival",
+        "welcome Jesus as the legitimate future king"
+      ],
+      "correctIndex": 2,
+      "explanation": "Threatened by the news of a newborn 'King of the Jews', Herod ordered the killing of infant boys in and around Bethlehem, though Jesus's family had already fled to Egypt to escape this danger."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Holy Spirit's descent upon Jesus at His baptism took the visible form of",
+      "options": [
+        "tongues of fire",
+        "a rainbow",
+        "a bright star",
+        "a dove"
+      ],
+      "correctIndex": 3,
+      "explanation": "All four Gospels describe the Holy Spirit descending on Jesus at His baptism in the visible form of a dove, confirming His anointing for ministry."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus's triumphal entry into Jerusalem, marking the beginning of Passion Week, involved Him riding on",
+      "options": [
+        "a donkey",
+        "a chariot",
+        "a camel",
+        "a war horse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus entered Jerusalem riding on a donkey, fulfilling Old Testament prophecy and symbolising His humble, peaceful kingship, as crowds welcomed Him with palm branches."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "During the Last Supper, Jesus instituted what has become known in Christian practice as",
+      "options": [
+        "the Feast of Tabernacles",
+        "Holy Communion (the Lord's Supper)",
+        "the Sabbath observance",
+        "the rite of baptism"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the Last Supper, Jesus shared bread and wine with His disciples, instituting the practice of Holy Communion as a remembrance of His body and blood given for them."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus was betrayed to the religious authorities by one of His own twelve disciples, named",
+      "options": [
+        "Peter",
+        "Thomas",
+        "Judas Iscariot",
+        "John"
+      ],
+      "correctIndex": 2,
+      "explanation": "Judas Iscariot betrayed Jesus to the chief priests for thirty pieces of silver, identifying Him with a kiss in the Garden of Gethsemane."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In the Garden of Gethsemane, Jesus prayed in deep anguish, asking that, if possible,",
+      "options": [
+        "His ministry be extended for many more years",
+        "His disciples be arrested in His place",
+        "the cup of suffering before Him be taken away, while submitting to God's will",
+        "the Roman authorities be immediately overthrown"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Gethsemane, Jesus expressed profound distress, asking God to remove the coming suffering if possible, yet ultimately submitting to God's will above His own."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus was crucified at a place called",
+      "options": [
+        "Mount Sinai",
+        "Golgotha (the place of the skull)",
+        "Mount Carmel",
+        "the Garden of Eden"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jesus was crucified at Golgotha, meaning 'the place of the skull', located just outside Jerusalem."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to the Gospels, Jesus was crucified under the authority of the Roman governor",
+      "options": [
+        "Herod Antipas alone",
+        "Caiaphas the High Priest",
+        "Pontius Pilate",
+        "Caesar Augustus directly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pontius Pilate, the Roman governor of Judea, ultimately authorised Jesus's crucifixion, despite initially finding no legal basis for the charges against Him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to the Gospel accounts, Jesus rose from the dead on the",
+      "options": [
+        "third day after His crucifixion",
+        "same day as His crucifixion",
+        "fortieth day after His crucifixion",
+        "seventh day after His crucifixion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Gospels consistently record that Jesus rose from the dead on the third day, discovered when women visited His tomb and found it empty."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The empty tomb of Jesus was first discovered by",
+      "options": [
+        "the chief priests and Pharisees",
+        "the Roman soldiers guarding the tomb",
+        "the eleven remaining disciples together",
+        "women, including Mary Magdalene, who had come to anoint His body"
+      ],
+      "correctIndex": 3,
+      "explanation": "According to the Gospel accounts, women, notably Mary Magdalene, were the first to discover the empty tomb, having come early in the morning to anoint Jesus's body."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Ascension of Jesus refers to the event in which He",
+      "options": [
+        "turned water into wine at a wedding",
+        "delivered the Sermon on the Mount",
+        "was arrested by the Roman soldiers",
+        "was taken up bodily into heaven in the presence of His disciples"
+      ],
+      "correctIndex": 3,
+      "explanation": "Forty days after His resurrection, Jesus ascended bodily into heaven while His disciples watched, as recorded in Luke and Acts."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Before His Ascension, Jesus gave His disciples what is commonly known as the Great Commission, instructing them to",
+      "options": [
+        "go and make disciples of all nations, baptising and teaching them",
+        "build a new temple to replace the one in Jerusalem",
+        "remain permanently in Jerusalem without ever leaving",
+        "avoid all contact with non-Jewish people"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the Great Commission (Matthew 28:19-20), Jesus commanded His disciples to spread His teachings to all nations, baptising new believers and teaching them to obey His commands."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Sermon on the Mount, a major body of Jesus's teaching, begins with a series of blessings known as the",
+      "options": [
+        "Ten Commandments",
+        "Parables of the Kingdom",
+        "Lord's Prayer",
+        "Beatitudes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Beatitudes (Matthew 5:3-12) open the Sermon on the Mount, pronouncing blessings on qualities such as humility, mercy, and peacemaking."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In the Sermon on the Mount, Jesus taught His followers to pray using the model prayer commonly known as the",
+      "options": [
+        "Lord's Prayer",
+        "Prayer of Elijah",
+        "Prayer of Solomon",
+        "Prayer of Nehemiah"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jesus taught His disciples the Lord's Prayer as a model for prayer, addressing God as Father and covering praise, provision, forgiveness, and guidance."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Sower, one of Jesus's parables of the Kingdom, primarily illustrates",
+      "options": [
+        "the coming destruction of Jerusalem",
+        "the importance of financial generosity",
+        "the different ways people respond to the message (word) of God",
+        "the relationship between Jews and Samaritans"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Parable of the Sower uses different types of soil to illustrate the varying receptiveness of people's hearts to the message of God's kingdom."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Prodigal Son primarily illustrates",
+      "options": [
+        "the importance of hard work in farming",
+        "God's readiness to forgive and welcome back a repentant sinner",
+        "the proper way to conduct a wedding feast",
+        "the dangers of lending money to strangers"
+      ],
+      "correctIndex": 1,
+      "explanation": "This well-known parable depicts a wayward son who squanders his inheritance but is joyfully welcomed back by his forgiving father, illustrating God's grace toward repentant sinners."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Good Samaritan primarily teaches about",
+      "options": [
+        "the dangers of travelling alone",
+        "the importance of Temple sacrifices",
+        "the qualifications required to become a priest",
+        "showing genuine love and compassion to one's neighbour, regardless of ethnic or social background"
+      ],
+      "correctIndex": 3,
+      "explanation": "In response to the question 'who is my neighbour?', Jesus's parable of the Good Samaritan illustrates that genuine neighbourly love crosses ethnic and social boundaries, exemplified by a despised Samaritan helping an injured stranger."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus's teaching on forgiveness, when Peter asked how many times he should forgive a brother who sinned against him, emphasised",
+      "options": [
+        "forgiving without limit, rather than counting a fixed number of times",
+        "forgiving only close family members",
+        "never forgiving those who repeatedly sin",
+        "forgiving only up to seven times and no more"
+      ],
+      "correctIndex": 0,
+      "explanation": "When Jesus responded to forgive 'seventy times seven', He was emphasising that forgiveness should be limitless, not a matter of counting a fixed, finite number of offences."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus's teaching concerning wealth, as illustrated in the account of the rich young ruler, warned that",
+      "options": [
+        "material possessions guarantee spiritual blessing",
+        "attachment to wealth can be a serious obstacle to fully following God",
+        "only the wealthy can enter the Kingdom of God",
+        "wealth is always evil and must be entirely rejected by every believer"
+      ],
+      "correctIndex": 1,
+      "explanation": "When the rich young ruler could not bring himself to give up his wealth to follow Jesus, Jesus used the encounter to warn how difficult it can be for those attached to riches to fully commit to God's kingdom."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Golden Rule, taught by Jesus in the Sermon on the Mount, instructs believers to",
+      "options": [
+        "avoid association with those of different social status",
+        "always seek revenge against those who wrong them",
+        "do to others what they would want others to do to them",
+        "give to the poor only when convenient"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Golden Rule (Matthew 7:12) summarises a core ethical principle of Jesus's teaching: treating others as one would wish to be treated oneself."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus's teaching on love for one's enemies instructed His followers to",
+      "options": [
+        "seek revenge against anyone who wrongs them",
+        "love their enemies and pray for those who persecute them",
+        "only show kindness to those who first show kindness to them",
+        "avoid all contact with people outside their own community"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a radical departure from conventional wisdom, Jesus taught His followers to actively love and pray for their enemies, rather than merely tolerating or retaliating against them."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Talents primarily teaches about",
+      "options": [
+        "faithful stewardship and responsible use of the gifts and resources God entrusts to individuals",
+        "the dangers of travelling to foreign lands",
+        "the correct way to conduct a Jewish wedding feast",
+        "the importance of building large houses"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Parable of the Talents illustrates the expectation that believers should faithfully and productively use whatever gifts, opportunities, or resources God has entrusted to them."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Lost Sheep primarily illustrates",
+      "options": [
+        "God's great joy in seeking out and finding even a single repentant sinner",
+        "the economic value of livestock in ancient Israel",
+        "the dangers faced by shepherds in the wilderness",
+        "the importance of large flocks for wealth"
+      ],
+      "correctIndex": 0,
+      "explanation": "This parable depicts a shepherd who leaves ninety-nine sheep to search for one that is lost, illustrating God's deep concern and joy over the recovery of even a single repentant sinner."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus's teaching in the Beatitude 'Blessed are the peacemakers' emphasises that peacemakers",
+      "options": [
+        "shall never face any conflict in life",
+        "shall be called children of God",
+        "are exempt from all earthly suffering",
+        "shall inherit great material wealth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Among the Beatitudes, Jesus declares that those who actively work to make peace will be recognised and blessed as children of God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The event known as Pentecost, marking the beginning of the Church, involved",
+      "options": [
+        "the calling of the twelve apostles",
+        "the crucifixion of Jesus",
+        "the Transfiguration of Jesus",
+        "the Holy Spirit descending upon the disciples, enabling them to speak in various languages"
+      ],
+      "correctIndex": 3,
+      "explanation": "On the day of Pentecost, the Holy Spirit descended upon the gathered disciples with visible signs, empowering them to speak in different languages and marking the birth of the Christian Church."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Following Pentecost, the early believers in Jerusalem were known for their communal life, which included",
+      "options": [
+        "refusing to associate with fellow believers of different backgrounds",
+        "living in complete isolation from one another",
+        "abandoning all forms of communal worship",
+        "sharing their possessions and meeting together regularly for teaching, fellowship, and prayer"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Book of Acts describes the early church's distinctive communal life, marked by the sharing of resources, devotion to the apostles' teaching, fellowship, breaking of bread, and prayer."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The appointment of the first deacons in the early church, including Stephen, arose mainly to address",
+      "options": [
+        "a disagreement over where to build the first church building",
+        "a complaint about the unfair daily distribution of food to widows",
+        "a theological dispute about the divinity of Christ",
+        "a conflict between the apostles over leadership succession"
+      ],
+      "correctIndex": 1,
+      "explanation": "The apostles appointed seven men, including Stephen, as deacons specifically to ensure the fair daily distribution of food to widows, resolving a complaint within the growing community."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Stephen, one of the first deacons, became significant in early church history as the first",
+      "options": [
+        "Roman governor to convert to Christianity",
+        "Christian martyr, stoned to death for his faith",
+        "Gentile convert to Christianity",
+        "author of a New Testament epistle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stephen was stoned to death by an angry crowd after boldly proclaiming his faith before the Jewish council, making him traditionally regarded as the first Christian martyr."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Apostle Paul's conversion to Christianity occurred while he was travelling to",
+      "options": [
+        "Antioch, to begin his first missionary journey",
+        "Damascus, to persecute Christians there",
+        "Rome, to stand trial before Caesar",
+        "Jerusalem, to be baptised by Peter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paul (then known as Saul) experienced a dramatic encounter with the risen Christ on the road to Damascus, where he had been travelling with the intent of persecuting Christians."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's missionary journeys were primarily aimed at",
+      "options": [
+        "spreading the Gospel and establishing new churches among Gentile communities across the Roman Empire",
+        "restoring the physical Temple in Jerusalem",
+        "conquering foreign territories for Rome",
+        "translating the entire Old Testament into Greek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paul undertook several extensive missionary journeys throughout the Roman Empire, preaching the Gospel and establishing Christian communities, particularly among Gentile populations."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Council of Jerusalem, described in Acts 15, was convened primarily to address the question of",
+      "options": [
+        "the appointment of a new Roman emperor",
+        "the construction of a new temple building",
+        "whether Gentile converts to Christianity needed to observe Jewish law, such as circumcision",
+        "the exact date on which Easter should be celebrated"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Council of Jerusalem addressed the significant early controversy over whether Gentile believers needed to adopt Jewish customs like circumcision, ultimately deciding they did not need to fully observe Mosaic law."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Peter played a significant role in opening the Church to Gentile believers through his encounter with the Roman centurion",
+      "options": [
+        "Pontius Pilate",
+        "Cornelius",
+        "Agrippa",
+        "Felix"
+      ],
+      "correctIndex": 1,
+      "explanation": "Peter's vision and subsequent visit to Cornelius, a Gentile Roman centurion, and the Holy Spirit's evident work in Cornelius's household, was a pivotal moment opening the church's mission to Gentiles."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The early church faced significant persecution, notably under Jewish authorities and later under which Roman emperor known for his brutal persecution of Christians?",
+      "options": [
+        "Julius Caesar",
+        "Nero",
+        "Augustus",
+        "Constantine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Roman Emperor Nero is particularly remembered in Christian history for his severe and brutal persecution of Christians, notably following the great fire of Rome."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The growth of the early church, as described in the Book of Acts, is generally attributed to",
+      "options": [
+        "the political enforcement of Christianity by Rome",
+        "financial incentives offered to new converts",
+        "the power of the Holy Spirit working through the apostles' preaching and the believers' faithful witness",
+        "military conquest by Christian armies"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rapid expansion of the early church is consistently attributed in Acts to the empowering work of the Holy Spirit through bold preaching, miracles, and the faithful witness and unity of believers."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Barnabas played a significant role in the early church mainly by",
+      "options": [
+        "mentoring and vouching for Paul, and later accompanying him on missionary journeys",
+        "leading the Jerusalem Council's opposition to Gentile inclusion",
+        "serving as the first bishop of Rome",
+        "authoring the Gospel of Luke"
+      ],
+      "correctIndex": 0,
+      "explanation": "Barnabas notably vouched for Paul's genuine conversion to the initially wary apostles and later became a close missionary companion to Paul on his early journeys."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The term 'apostle', used to describe key early Christian leaders like Peter and Paul, generally refers to",
+      "options": [
+        "a member of the Jewish Sanhedrin",
+        "one sent out with a specific mission, particularly to spread the Gospel message",
+        "a Roman government official",
+        "a purely honorary title with no specific responsibility"
+      ],
+      "correctIndex": 1,
+      "explanation": "The term 'apostle' derives from a word meaning 'one who is sent', referring to those specifically commissioned to spread the Gospel and establish the early Christian church."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Jerusalem Council's final decision regarding Gentile believers, communicated in a letter, asked them to abstain from",
+      "options": [
+        "all forms of manual labour",
+        "food sacrificed to idols, blood, meat of strangled animals, and sexual immorality",
+        "participating in any form of communal worship",
+        "eating meat of any kind whatsoever"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Council's letter to Gentile believers requested they observe a few key restrictions, without imposing the full burden of Mosaic law, representing an important compromise for church unity."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Which of the following best describes the overall significance of the Council of Jerusalem for the early church?",
+      "options": [
+        "It abolished the practice of baptism for new converts",
+        "It ended all future missionary activity by the apostles",
+        "It preserved unity in the church while affirming that salvation is by grace and not dependent on adherence to Jewish law",
+        "It led to the permanent division between Jewish and Gentile Christians"
+      ],
+      "correctIndex": 2,
+      "explanation": "This landmark decision helped preserve unity within the rapidly growing and diversifying early church, affirming that acceptance by God comes through grace and faith rather than strict adherence to Jewish ceremonial law."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Epistle of James places strong emphasis on the relationship between",
+      "options": [
+        "genuine faith and good works, teaching that faith without works is dead",
+        "the political organisation of the Roman Empire",
+        "the proper structure of Old Testament sacrifices",
+        "the exact date of Christ's second coming"
+      ],
+      "correctIndex": 0,
+      "explanation": "James famously teaches that authentic faith must be demonstrated through corresponding good works, arguing that faith without accompanying action is essentially dead or ineffective."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Epistles of Peter place significant emphasis on believers' civic responsibility, teaching Christians to",
+      "options": [
+        "avoid all interaction with non-believers in society",
+        "submit to and respect governing authorities as part of their Christian witness",
+        "actively rebel against all forms of civil government",
+        "ignore the laws of the state entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Peter's epistles encourage believers to respect and submit to civil authorities as part of living out their faith honourably within society, even under difficult political circumstances."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The virtue of humility, emphasised throughout the New Testament epistles, is best understood as",
+      "options": [
+        "having no confidence or self-worth at all",
+        "refusing to ever express one's own opinions",
+        "having a modest view of oneself and valuing the needs and interests of others",
+        "avoiding any position of leadership or responsibility"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biblical humility involves a balanced, modest self-assessment combined with genuine regard and concern for the wellbeing and interests of others, rather than self-deprecation or passivity."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Christian virtue of forgiveness, as taught throughout the epistles, is grounded primarily in",
+      "options": [
+        "the idea that forgiveness is unnecessary among true believers",
+        "the expectation that wrongdoers must first earn forgiveness through good deeds",
+        "the belief that forgiveness should only be extended to family members",
+        "the example of God's own forgiveness of believers through Christ"
+      ],
+      "correctIndex": 3,
+      "explanation": "New Testament teaching consistently roots the Christian obligation to forgive others in the model of God's own gracious forgiveness extended to believers through Christ."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The relationship between faith and works, as discussed in the Epistle of James, is best summarised as",
+      "options": [
+        "true, living faith naturally produces good works as evidence of its genuineness",
+        "faith and works are entirely unrelated concepts",
+        "good works can exist independently, with no connection to a person's beliefs",
+        "works alone are sufficient for salvation, without any need for faith"
+      ],
+      "correctIndex": 0,
+      "explanation": "James's teaching is best understood not as opposing salvation by faith, but as insisting that authentic, saving faith will inevitably express itself through visible good works."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Civic responsibility, as taught in the epistles concerning Christians and the state, generally includes",
+      "options": [
+        "refusing to pay any taxes to a secular government",
+        "avoiding all forms of civic participation entirely",
+        "paying taxes, respecting laws, and praying for those in authority",
+        "actively working to overthrow all forms of civil government"
+      ],
+      "correctIndex": 2,
+      "explanation": "New Testament teaching, notably in Romans 13 and 1 Peter 2, encourages believers to fulfil civic duties such as paying taxes, obeying just laws, and praying for governing authorities."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The virtue of faith, as a central theme in the epistles (e.g., Hebrews 11), is best understood as",
+      "options": [
+        "blind acceptance of any claim without careful consideration",
+        "confident trust in God and His promises, even without complete physical evidence",
+        "reliance solely on one's own abilities and resources",
+        "a purely intellectual assent with no impact on behaviour"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biblical faith, as illustrated by the examples in Hebrews 11, involves a confident trust and reliance on God's character and promises, even when they cannot be fully seen or proven in the present."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Which of the following best summarises the teaching on love found throughout the New Testament epistles?",
+      "options": [
+        "Love is a selfless, active commitment to the wellbeing of others, modelled on Christ's own sacrificial love",
+        "Love is primarily an emotional feeling with no practical action required",
+        "Love should be reserved exclusively for close family members",
+        "Love is optional for genuine believers and not a central Christian virtue"
+      ],
+      "correctIndex": 0,
+      "explanation": "The epistles, notably 1 Corinthians 13, describe Christian love as a practical, selfless, and active commitment to others' good, deeply rooted in the model of Christ's own sacrificial love."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The application of Christian virtues to statehood and governance, as reflected in the epistles, suggests that believers should",
+      "options": [
+        "seek to establish a Christian government by force",
+        "engage responsibly and honourably with civil society while maintaining their ultimate loyalty to God",
+        "ignore all ethical considerations when engaging in civic life",
+        "completely withdraw from all engagement with civil society and government"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epistles generally encourage believers to be conscientious, honourable participants in civil society and governance, while always recognising their ultimate allegiance is to God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Epistle of James also emphasises practical wisdom, teaching believers to be",
+      "options": [
+        "entirely silent in the face of injustice",
+        "quick to anger in defence of their beliefs",
+        "quick to speak and slow to listen",
+        "quick to listen, slow to speak, and slow to anger"
+      ],
+      "correctIndex": 3,
+      "explanation": "James 1:19 offers this well-known practical guidance for believers' conduct in relationships and communication, emphasising patience and restraint in speech and temper."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "After the Flood, God set the rainbow in the sky as a sign of His covenant that He would",
+      "options": [
+        "give Noah dominion over all nations",
+        "grant Noah eternal life",
+        "always protect Noah's descendants from famine",
+        "never again destroy all life on earth by a flood"
+      ],
+      "correctIndex": 3,
+      "explanation": "Genesis 9:12-16 records the rainbow as the sign of God's covenant promise never again to destroy the earth by a flood."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "God's covenant with Noah after the Flood was made with",
+      "options": [
+        "only the nation of Israel",
+        "Noah, his descendants, and every living creature on earth",
+        "only Noah and his three sons",
+        "only the animals that survived the flood"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genesis 9:9-10 specifies that God's covenant was established with Noah, his offspring, and every living creature that came out of the ark."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In His covenant with Abraham, God promised to",
+      "options": [
+        "make him king over Egypt",
+        "grant him the throne of Israel",
+        "give him victory over the Philistines",
+        "make him a great nation and give his descendants the land of Canaan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Genesis 12 and 15 record God's covenant promises to Abraham of numerous descendants and the land of Canaan as an inheritance."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The sign God gave Abraham as the mark of His covenant was",
+      "options": [
+        "the building of an altar in Canaan",
+        "circumcision of every male",
+        "the offering of a lamb each year",
+        "the wearing of special garments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genesis 17:10-11 establishes circumcision as the physical sign of the covenant between God and Abraham's descendants."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "God tested Abraham's faith and obedience by commanding him to",
+      "options": [
+        "fight against the kings who captured Lot",
+        "offer his son Isaac as a sacrifice on a mountain in Moriah",
+        "leave his homeland without any provision",
+        "give up all his flocks and herds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genesis 22 recounts God testing Abraham by commanding him to sacrifice Isaac, though God provided a ram as a substitute at the last moment."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At Bethel, Jacob had a vision of",
+      "options": [
+        "a chariot of fire taking Elijah to heaven",
+        "a burning bush that was not consumed",
+        "a valley full of dry bones",
+        "a ladder reaching to heaven with angels ascending and descending"
+      ],
+      "correctIndex": 3,
+      "explanation": "Genesis 28:12 describes Jacob's dream at Bethel of a ladder connecting earth to heaven, with angels moving upon it, after which God renewed the covenant promise to him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jacob's name was changed to Israel after he",
+      "options": [
+        "reconciled with his uncle Laban",
+        "wrestled all night with a divine being at Peniel",
+        "defeated his brother Esau in battle",
+        "built an altar at Bethel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genesis 32:24-28 describes Jacob wrestling until daybreak with a divine being, after which his name was changed to Israel, meaning 'he struggles with God'."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "While imprisoned in Egypt, Joseph correctly interpreted the dreams of",
+      "options": [
+        "Pharaoh himself",
+        "Pharaoh's cupbearer and baker",
+        "his own brothers",
+        "the captain of the guard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genesis 40 records Joseph interpreting the dreams of Pharaoh's imprisoned cupbearer and baker, correctly predicting the restoration of one and the execution of the other."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When Joseph finally revealed his identity to his brothers in Egypt, he told them not to be distressed because",
+      "options": [
+        "Pharaoh had ordered their release from guilt",
+        "he had already forgiven their father Jacob",
+        "God had sent him ahead of them to preserve life during the famine",
+        "he no longer considered them his brothers"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Genesis 45:5-8, Joseph reassures his brothers that God used their actions for good, sending him ahead to preserve many lives during the famine."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The ten plagues that God brought upon Egypt were primarily intended to",
+      "options": [
+        "test the faith of the Israelites",
+        "punish the Egyptians for building the pyramids",
+        "destroy Egypt's agriculture permanently",
+        "compel Pharaoh to let the Israelites leave Egyptian slavery"
+      ],
+      "correctIndex": 3,
+      "explanation": "Exodus 7-12 describes the plagues as God's judgement on Egypt and the means by which Pharaoh was ultimately compelled to release the Israelites from slavery."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "During the first Passover in Egypt, the Israelites were instructed to apply the blood of a lamb to their doorposts so that",
+      "options": [
+        "the plague of death on the firstborn would pass over their houses",
+        "the Nile would not turn to blood in their homes",
+        "the Egyptians would recognise them as slaves",
+        "they would be protected from the plague of locusts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exodus 12:13 explains that the lamb's blood on the doorposts served as a sign for the Lord to pass over Israelite homes during the final plague, sparing their firstborn."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "As the Israelites fled Egypt, God enabled them to cross the sea by",
+      "options": [
+        "guiding them around the sea entirely",
+        "causing the sea to freeze over",
+        "dividing the waters so they could cross on dry ground",
+        "providing boats for the entire nation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Exodus 14:21-22 describes God parting the Red Sea through a strong east wind, allowing the Israelites to cross on dry ground while the pursuing Egyptian army was later destroyed."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In the wilderness, God provided the Israelites with daily food in the form of",
+      "options": [
+        "milk and honey directly from heaven",
+        "manna and quail",
+        "figs and olives",
+        "bread and wine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exodus 16 records God's provision of manna each morning and quail for the wandering Israelites in the wilderness."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At Mount Sinai, God established His covenant with Israel by giving Moses",
+      "options": [
+        "the Ten Commandments as the foundation of the law",
+        "the names of the twelve tribes",
+        "the plans for the Ark of the Covenant only",
+        "a new set of sacrificial animals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exodus 20 records God giving Moses the Ten Commandments at Mount Sinai, forming the core of the covenant law between God and Israel."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "While Moses was on Mount Sinai receiving the law, the Israelites persuaded Aaron to make",
+      "options": [
+        "a bronze serpent for healing",
+        "a golden calf for them to worship",
+        "a new altar for sacrifices",
+        "a copy of the Ark of the Covenant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exodus 32 describes how the impatient Israelites pressured Aaron into fashioning a golden calf, which they worshipped in violation of the covenant they had just made with God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Ark of the Covenant, central to Israel's worship, primarily housed",
+      "options": [
+        "the rod that turned into a serpent",
+        "the tablets of the Ten Commandments",
+        "the bones of Joseph",
+        "Aaron's priestly garments"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Ark of the Covenant primarily contained the stone tablets of the Ten Commandments, symbolising God's presence and covenant with Israel (Exodus 25:16)."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When Moses sent twelve spies to explore Canaan, only two of them - Caleb and Joshua - urged the people to",
+      "options": [
+        "wait another forty years before entering Canaan",
+        "build permanent settlements in the wilderness",
+        "return immediately to Egypt",
+        "trust God and proceed to take possession of the land"
+      ],
+      "correctIndex": 3,
+      "explanation": "Numbers 13-14 records that while ten spies gave a discouraging report, Caleb and Joshua alone urged Israel to trust God's promise and take the land."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Rahab of Jericho assisted the Israelite conquest of Canaan by",
+      "options": [
+        "leading the Israelite army into the city",
+        "warning King Ahab of the coming invasion",
+        "hiding the two spies sent by Joshua and helping them escape",
+        "providing food for the wandering Israelites"
+      ],
+      "correctIndex": 2,
+      "explanation": "Joshua 2 records how Rahab hid the two Israelite spies in Jericho and helped them escape, in exchange for the promise of safety for her family."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Deborah, the only female judge mentioned in the Bible, led Israel to victory over Canaanite forces alongside the military commander",
+      "options": [
+        "Gideon",
+        "Othniel",
+        "Ehud",
+        "Barak"
+      ],
+      "correctIndex": 3,
+      "explanation": "Judges 4 describes Deborah, a prophetess and judge, summoning Barak to lead Israel's army against Sisera's Canaanite forces, resulting in victory."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Canaanite general Sisera, defeated in battle in the time of Deborah, was ultimately killed by",
+      "options": [
+        "Deborah herself",
+        "Gideon's soldiers",
+        "Jael, who drove a tent peg through his temple",
+        "Barak, in single combat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Judges 4:21 records that Jael killed the fleeing Sisera by driving a tent peg through his temple while he slept in her tent."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Samuel's mother, Hannah, dedicated him to the Lord's service after",
+      "options": [
+        "being instructed by the priest Eli to do so",
+        "praying fervently for a son and vowing to give him to God",
+        "receiving a direct command through a burning bush",
+        "losing all her other children"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 Samuel 1 recounts Hannah's earnest prayer for a son and her vow to dedicate him to the Lord's service, a vow she fulfilled after Samuel's birth."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "As a boy serving in the temple under the priest Eli, Samuel first received God's call",
+      "options": [
+        "while tending sheep in the fields",
+        "through a dream about seven years of famine",
+        "at night, hearing his name called until Eli helped him recognise it was the Lord",
+        "through a vision of a ladder to heaven"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 Samuel 3 describes young Samuel hearing his name called repeatedly at night, until Eli discerned it was the Lord and instructed Samuel how to respond."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "David's close friendship with Jonathan, Saul's son, was marked especially by",
+      "options": [
+        "constant rivalry over the throne of Israel",
+        "a shared plot to overthrow Saul",
+        "Jonathan's refusal to ever help David",
+        "a covenant of loyalty, with Jonathan protecting David from Saul's anger"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 Samuel 18-20 describes the deep covenant friendship between David and Jonathan, with Jonathan repeatedly protecting David from Saul's murderous jealousy."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Nathan confronted David over his sin with Bathsheba by telling a parable about",
+      "options": [
+        "a rich man who stole a poor man's only lamb",
+        "a shepherd who lost one of a hundred sheep",
+        "a servant who was forgiven a great debt",
+        "a farmer who scattered seed on different soils"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 Samuel 12 records Nathan's parable of a rich man who took a poor man's beloved ewe lamb, which exposed David's guilt regarding Uriah and Bathsheba."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At the dedication of the newly built Temple, Solomon's prayer chiefly",
+      "options": [
+        "requested victory over all of Israel's remaining enemies",
+        "asked for the restoration of the tribes lost to Egypt",
+        "sought forgiveness for his father David's sins alone",
+        "asked God to hear the prayers of His people offered towards the Temple"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 Kings 8 records Solomon's dedicatory prayer asking that God would hear and answer the prayers of Israel and even foreigners directed towards the Temple."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "King Ahab's desire for Naboth's vineyard led to Naboth's death after Queen Jezebel",
+      "options": [
+        "bribed Naboth's own sons to kill him",
+        "sent soldiers to attack Naboth's family directly",
+        "poisoned Naboth's food",
+        "arranged false witnesses to accuse Naboth of blasphemy so he could be stoned"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 Kings 21 recounts how Jezebel orchestrated false accusations of blasphemy against Naboth, leading to his stoning so Ahab could seize his vineyard."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Elisha became Elijah's successor as prophet after",
+      "options": [
+        "Elijah's mantle fell to him as Elijah was taken up to heaven in a whirlwind",
+        "he built the second Temple",
+        "he was anointed by King Ahab",
+        "he defeated the prophets of Baal on Mount Carmel"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 Kings 2 describes Elisha receiving Elijah's mantle, symbolising his succession, as Elijah was taken up to heaven in a whirlwind with a chariot of fire."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Elisha's servant Gehazi was struck with leprosy as punishment for",
+      "options": [
+        "worshipping Baal in secret",
+        "stealing from a widow's jar of oil",
+        "refusing to serve Elisha any longer",
+        "deceitfully accepting silver and garments from Naaman after Elisha had refused any payment"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 Kings 5:20-27 recounts Gehazi's greedy deception of Naaman for silver and clothing, for which Elisha pronounced that Naaman's leprosy would cling to Gehazi and his descendants."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Syrian commander Naaman was healed of his leprosy after he",
+      "options": [
+        "obeyed Elisha's instruction to dip seven times in the Jordan River",
+        "fasted for forty days in the wilderness",
+        "offered a great sacrifice at the Temple in Jerusalem",
+        "was anointed with oil by the king of Israel"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 Kings 5 records that Naaman was healed of leprosy only after reluctantly obeying Elisha's instruction to wash seven times in the Jordan River."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Elijah's earthly life ended when he was",
+      "options": [
+        "killed by King Ahab's soldiers",
+        "buried honourably in Jerusalem",
+        "stoned to death by the people of Israel",
+        "taken up to heaven in a whirlwind by a chariot of fire"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 Kings 2:11 describes Elijah being taken up into heaven in a whirlwind, with a chariot and horses of fire appearing before Elisha."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "King Josiah's religious reforms in Judah were sparked chiefly by the discovery of",
+      "options": [
+        "the Ark of the Covenant, long thought lost",
+        "a vision given directly to Josiah in a dream",
+        "a letter from the prophet Jeremiah",
+        "the Book of the Law during repairs to the Temple"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 Kings 22 records that Josiah's sweeping reforms began after the Book of the Law was discovered during Temple repairs, prompting national repentance."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "As part of his reforms, King Josiah restored the observance of",
+      "options": [
+        "circumcision, which had been entirely forgotten",
+        "the Feast of Tabernacles for the first time in Israel's history",
+        "the offering of firstfruits, previously unknown in Israel",
+        "the Passover, celebrated on a scale not seen since the days of the judges"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 Kings 23:21-23 records Josiah's restoration of the Passover celebration on an unprecedented scale, following his removal of idolatrous practices from Judah."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The fall of Jerusalem and the beginning of the Babylonian exile occurred during the reign of",
+      "options": [
+        "Solomon, at the height of his wealth",
+        "Hezekiah, following an Assyrian invasion",
+        "Josiah, shortly after his reforms",
+        "Zedekiah, the last king of Judah"
+      ],
+      "correctIndex": 3,
+      "explanation": "2 Kings 25 records that Jerusalem fell to the Babylonians and the Temple was destroyed during the reign of Zedekiah, Judah's last king, marking the start of the exile."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When God called Jonah to preach against the wickedness of Nineveh, Jonah initially responded by",
+      "options": [
+        "obeying immediately without hesitation",
+        "fleeing in the opposite direction by ship toward Tarshish",
+        "preaching a message of destruction without any warning",
+        "asking God to send someone else instead"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jonah 1:3 records that instead of obeying God's call to Nineveh, Jonah attempted to flee by sea toward Tarshish, in the opposite direction."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "After being thrown overboard during a storm, Jonah was",
+      "options": [
+        "swallowed by a great fish and remained inside it for three days and three nights",
+        "washed ashore immediately near Nineveh",
+        "drowned as punishment for his disobedience",
+        "rescued by sailors who turned back for him"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jonah 1:17 describes God providing a great fish to swallow Jonah, who remained inside it for three days and nights before being brought to dry land."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When Jonah finally delivered God's message to Nineveh, the city's response was to",
+      "options": [
+        "repent in sackcloth and fasting, from the king down to the common people",
+        "ignore the warning entirely, resulting in the city's destruction",
+        "kill Jonah for prophesying against them",
+        "reject the message and expel Jonah from the city"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jonah 3 records the remarkable repentance of Nineveh, with the king and all the people fasting and turning from their evil ways in response to Jonah's warning."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jonah became angry after God spared Nineveh because",
+      "options": [
+        "God had not fulfilled a separate promise made to him",
+        "the people of Nineveh had mocked him publicly",
+        "he had been promised a reward for their destruction",
+        "he resented God's mercy being extended to Israel's enemies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jonah 4 reveals that Jonah was displeased and angry precisely because God's compassionate mercy spared Nineveh, a nation Jonah considered Israel's enemy."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In one of his visions, Amos saw the Lord standing beside a wall holding a",
+      "options": [
+        "burning fire consuming the land",
+        "basket of ripe fruit, symbolising that the end had come",
+        "swarm of locusts devouring the crops",
+        "plumb line, symbolising God's standard of judgement for Israel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Amos 7:7-9 describes the vision of the plumb line, symbolising that Israel would be measured against God's standard of righteousness and found wanting."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Amos's famous call for justice declared that it should",
+      "options": [
+        "'be established only through Temple sacrifices'",
+        "'roll down like waters, and righteousness like an ever-flowing stream'",
+        "'wait until the coming of the Messiah'",
+        "'be administered solely by the king's court'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amos 5:24 contains this well-known declaration demanding genuine justice and righteousness rather than empty religious ritual."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "God commanded the prophet Hosea to marry",
+      "options": [
+        "Gomer, a woman characterised by unfaithfulness, as a living illustration of Israel's relationship with God",
+        "a widow, in order to provide for her financially",
+        "a foreign princess to seal a political alliance",
+        "a woman from the tribe of Levi only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hosea 1:2 records God's command that Hosea marry Gomer, whose unfaithfulness would mirror Israel's spiritual unfaithfulness to God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Micah summarised what the Lord requires of His people as",
+      "options": [
+        "to act justly, love mercy, and walk humbly with God",
+        "to build grand temples in every city",
+        "to conquer surrounding nations militarily",
+        "to offer burnt offerings and sacrifices continually"
+      ],
+      "correctIndex": 0,
+      "explanation": "Micah 6:8 famously summarises true religion as acting justly, loving mercy, and walking humbly with God, above mere ritual sacrifice."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Isaiah's prophecy of the 'suffering servant' describes one who would be",
+      "options": [
+        "exalted immediately without any suffering",
+        "crowned as an earthly conquering king",
+        "sent to destroy Israel's enemies by military force",
+        "wounded for the transgressions of others and bear their sins"
+      ],
+      "correctIndex": 3,
+      "explanation": "Isaiah 53 describes the suffering servant who would be pierced and wounded for the transgressions of others, a passage Christians understand as pointing to Christ."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Isaiah's prophecy that 'a virgin shall conceive and bear a son' names the child",
+      "options": [
+        "Emmanuel Josiah",
+        "Jedidiah",
+        "Melchizedek",
+        "Immanuel, meaning 'God with us'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Isaiah 7:14 gives the child the name Immanuel, meaning 'God with us', a prophecy Christians associate with the birth of Jesus in Matthew 1:23."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "During a severe drought, God provided for the prophet Elijah at the Kerith Ravine through",
+      "options": [
+        "an angel who cooked food for him",
+        "a widow who fed him from her own storeroom in Jerusalem",
+        "manna falling from heaven each morning",
+        "ravens that brought him bread and meat"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 Kings 17:4-6 describes God commanding ravens to bring Elijah bread and meat morning and evening while he hid at the Kerith Ravine."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The prophet Elisha performed a notable miracle for a Shunammite woman by",
+      "options": [
+        "multiplying her jar of oil to pay off her debts",
+        "raising her son back to life after he had died",
+        "healing her of a lifelong illness",
+        "giving her husband a prophetic dream"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 Kings 4 records Elisha raising the Shunammite woman's son back to life after the boy had died suddenly, in reward for her earlier hospitality to the prophet."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus called His first disciples, Peter and Andrew, while they were",
+      "options": [
+        "tending sheep in the fields near Bethlehem",
+        "casting their nets into the Sea of Galilee as fishermen",
+        "collecting taxes at a toll booth",
+        "worshipping in the synagogue at Capernaum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matthew 4:18-19 records Jesus calling Peter and Andrew as they cast their nets into the sea, promising to make them 'fishers of men'."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus performed His first recorded miracle at a wedding in Cana by",
+      "options": [
+        "healing the bridegroom's servant",
+        "turning water into wine",
+        "multiplying loaves and fishes",
+        "calming a sudden storm"
+      ],
+      "correctIndex": 1,
+      "explanation": "John 2:1-11 describes Jesus turning water into wine at a wedding in Cana of Galilee, described as the first of His miraculous signs."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When Nicodemus, a Pharisee, came to Jesus at night, Jesus taught him that a person must",
+      "options": [
+        "offer sacrifices continually at the Temple",
+        "keep the entire Mosaic law perfectly",
+        "be born again to see the Kingdom of God",
+        "become a member of the Sanhedrin"
+      ],
+      "correctIndex": 2,
+      "explanation": "John 3:3 records Jesus's teaching to Nicodemus that spiritual rebirth is essential for entering the Kingdom of God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At Jacob's well, Jesus spoke with a Samaritan woman and revealed to her that",
+      "options": [
+        "only Jews could receive the water of life",
+        "He was the Messiah she was waiting for",
+        "she needed to travel to Jerusalem to worship properly",
+        "she must first convert fully to Judaism"
+      ],
+      "correctIndex": 1,
+      "explanation": "John 4:25-26 records Jesus explicitly identifying Himself as the Messiah to the Samaritan woman, also teaching that true worship is in spirit and truth, not tied to a specific location."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus fed a crowd of about five thousand people using",
+      "options": [
+        "five loaves of bread and two fish",
+        "manna that fell from heaven",
+        "seven loaves and a few small fish",
+        "twelve baskets of grain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Matthew 14:13-21 records Jesus multiplying five loaves and two fish to feed the crowd, with twelve baskets of leftovers gathered afterward."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "During a night storm on the Sea of Galilee, Jesus demonstrated His power over nature by",
+      "options": [
+        "creating a bridge of ice across the sea",
+        "walking on the water toward His disciples' boat",
+        "summoning a rescue boat from the shore",
+        "causing the boat to fly above the waves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matthew 14:25-33 describes Jesus walking on the water to reach His disciples' boat during a storm, also enabling Peter briefly to walk on water toward Him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When a violent storm threatened to sink the disciples' boat, Jesus calmed it by",
+      "options": [
+        "instructing the disciples to row harder",
+        "rebuking the wind and saying to the sea, 'Peace, be still'",
+        "praying silently until the storm passed naturally",
+        "throwing cargo overboard to stabilise the boat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mark 4:39 records Jesus rebuking the wind and commanding the sea to be still, immediately producing a great calm and amazing His disciples."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "A paralysed man was healed by Jesus after his friends brought him to Jesus by",
+      "options": [
+        "leaving him at the Pool of Bethesda",
+        "bringing him to the synagogue on the Sabbath",
+        "lowering him through a hole made in the roof because of the crowd",
+        "carrying him on a stretcher through the front door"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mark 2:1-12 describes friends lowering a paralysed man through a roof opening to reach Jesus, who both forgave his sins and healed him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When a man with leprosy approached Jesus for healing, Jesus responded by",
+      "options": [
+        "sending him directly to the priests without healing him first",
+        "instructing him to wash seven times in the Jordan",
+        "refusing to touch him but healing him from a distance",
+        "touching him and declaring 'Be clean', instantly healing him"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mark 1:40-42 records Jesus compassionately touching the leper and healing him immediately, then instructing him to show himself to the priest as the law required."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "A Roman centurion's faith impressed Jesus when he said that Jesus need only",
+      "options": [
+        "offer a sacrifice on the servant's behalf",
+        "pray publicly in the synagogue for the servant",
+        "'say the word' for his servant to be healed, without needing to visit in person",
+        "come and lay hands physically on the servant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matthew 8:8-10 records the centurion's remarkable faith that Jesus could heal simply by speaking a word, which Jesus praised as greater than any faith found in Israel."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus demonstrated His power over death by raising Lazarus, who had already",
+      "options": [
+        "died of an illness Jesus had failed to prevent",
+        "just died moments earlier",
+        "been dead and in the tomb for four days",
+        "been declared dead but was merely unconscious"
+      ],
+      "correctIndex": 2,
+      "explanation": "John 11:39-44 records that Lazarus had been in the tomb four days before Jesus called him back to life, demonstrating His power even over decay and death."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jairus, a synagogue leader, sought Jesus's help because",
+      "options": [
+        "his household had been struck by famine",
+        "his young daughter was dying and later died before Jesus arrived",
+        "his wife had been afflicted with a bleeding disorder",
+        "his son had been possessed by an unclean spirit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mark 5:22-24, 35-42 records Jairus pleading for his dying daughter, who died before Jesus arrived but whom Jesus then raised back to life."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At the town of Nain, Jesus was moved with compassion and raised to life",
+      "options": [
+        "the only son of a widow, during his funeral procession",
+        "the daughter of a synagogue ruler",
+        "his friend Lazarus",
+        "a beggar who had died at the town gate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Luke 7:11-15 describes Jesus encountering a funeral procession for a widow's only son at Nain and raising the young man back to life out of compassion for his mother."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When Martha complained that her sister Mary was not helping with household tasks, Jesus responded that Mary had",
+      "options": [
+        "been wrong to neglect her domestic duties",
+        "been told to immediately return to help Martha",
+        "been favoured unfairly over her sister",
+        "chosen the better part by sitting and listening to His teaching"
+      ],
+      "correctIndex": 3,
+      "explanation": "Luke 10:38-42 records Jesus gently correcting Martha's anxiety, affirming that Mary's choice to sit and listen to His teaching was the 'better part'."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Unforgiving Servant teaches that believers who have been forgiven by God should",
+      "options": [
+        "likewise forgive others who owe them a debt or wrong",
+        "avoid lending to others altogether",
+        "demand full repayment from those who wrong them",
+        "only forgive those who ask multiple times"
+      ],
+      "correctIndex": 0,
+      "explanation": "Matthew 18:23-35 tells of a servant forgiven a huge debt who refused to forgive a much smaller debt owed to him, illustrating the necessity of forgiving others as God forgives us."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Ten Virgins (bridesmaids) primarily teaches the importance of",
+      "options": [
+        "being spiritually prepared and watchful for the Lord's coming",
+        "sharing resources generously with others",
+        "the proper customs of a Jewish wedding",
+        "showing hospitality to wedding guests"
+      ],
+      "correctIndex": 0,
+      "explanation": "Matthew 25:1-13 tells of five wise virgins who kept extra oil for their lamps and five foolish ones who did not, teaching believers to remain spiritually prepared for Christ's return."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In the Parable of the Pharisee and the Tax Collector, the tax collector was justified before God because he",
+      "options": [
+        "listed his good deeds before God in prayer",
+        "offered a large sacrifice at the Temple",
+        "humbly acknowledged his sinfulness and asked for God's mercy",
+        "compared himself favourably to the Pharisee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Luke 18:9-14 contrasts the self-righteous Pharisee with the humble tax collector, whose simple prayer for mercy resulted in him being justified rather than the Pharisee."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Mustard Seed illustrates that the Kingdom of God",
+      "options": [
+        "will never expand beyond Israel",
+        "requires great wealth to establish",
+        "is hidden permanently from human understanding",
+        "begins small but grows into something great"
+      ],
+      "correctIndex": 3,
+      "explanation": "Matthew 13:31-32 compares the Kingdom of God to a tiny mustard seed that grows into a large tree, illustrating its small beginnings and eventual great expansion."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Workers in the Vineyard illustrates that",
+      "options": [
+        "God's grace is generous and not based on human notions of fairness regarding effort",
+        "only the first workers hired deserve a full wage",
+        "workers should always be paid strictly according to hours worked",
+        "landowners should exploit workers for maximum profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Matthew 20:1-16 tells of a landowner who pays all workers the same wage regardless of when they were hired, illustrating the generosity of God's grace beyond human standards of fairness."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Parable of the Rich Fool warns against",
+      "options": [
+        "the dangers of farming without proper planning",
+        "storing up earthly wealth while neglecting one's relationship with God",
+        "refusing to build barns for one's harvest",
+        "lending money to those who cannot repay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Luke 12:16-21 tells of a rich man who built bigger barns to store his abundant harvest but died that very night, illustrating the folly of prioritising wealth over readiness to meet God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In the Parable of the Great Banquet (Wedding Feast), those originally invited who refused to come represent",
+      "options": [
+        "those who reject God's invitation, making way for others, including outcasts, to be invited",
+        "the priests who administered the Temple sacrifices",
+        "the Gentile nations who never received an invitation",
+        "the faithful remnant who alone will enter the Kingdom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Luke 14:15-24 tells of invited guests who make excuses and refuse to attend, so the host instead invites the poor, crippled, and marginalised, illustrating the rejection of God's invitation by some and its extension to others."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "At Caesarea Philippi, Peter famously declared to Jesus,",
+      "options": [
+        "'You are the King of the Jews'",
+        "'You are the Christ, the Son of the living God'",
+        "'You are a great prophet like Moses'",
+        "'You are Elijah returned to earth'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matthew 16:16 records Peter's confession at Caesarea Philippi, recognising Jesus as the Christ, the Son of the living God."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "When asked which was the greatest commandment, Jesus replied that it was to",
+      "options": [
+        "observe the Sabbath without exception",
+        "love the Lord with all one's heart, soul, and mind, and love one's neighbour as oneself",
+        "obey the Roman civil authorities without question",
+        "offer sacrifices continually at the Temple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Matthew 22:37-39 records Jesus summarising the entire law and prophets in the twin commandments to love God completely and to love one's neighbour as oneself."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Jesus expressed righteous anger by overturning tables in the Temple courts because",
+      "options": [
+        "the Pharisees had removed the Ark of the Covenant",
+        "the Temple had not been rebuilt after the exile",
+        "the priests had refused Him entry",
+        "merchants and money changers had turned a house of prayer into a den of thieves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Matthew 21:12-13 records Jesus driving out the merchants and money changers, declaring that they had turned God's house of prayer into a den of robbers."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "During Jesus's trial, Peter denied knowing Jesus",
+      "options": [
+        "never, remaining faithful throughout the trial",
+        "only after being tortured by Roman soldiers",
+        "three times before the rooster crowed, just as Jesus had predicted",
+        "once, before quickly being arrested himself"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matthew 26:69-75 records Peter denying Jesus three times in the courtyard before the rooster crowed, fulfilling Jesus's earlier prediction."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Before His crucifixion, Jesus was brought before the Jewish council (Sanhedrin), presided over by the high priest",
+      "options": [
+        "Annas alone",
+        "Herod Antipas",
+        "Pontius Pilate",
+        "Caiaphas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Matthew 26:57 records that Jesus was brought before Caiaphas, the high priest, and the assembled Sanhedrin, where He was accused of blasphemy."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The disciple Thomas initially refused to believe Jesus had risen until he",
+      "options": [
+        "heard testimony from all the other disciples together",
+        "received a direct vision from an angel",
+        "could see and touch the wounds in Jesus's hands and side",
+        "saw Jesus ascend into heaven"
+      ],
+      "correctIndex": 2,
+      "explanation": "John 20:24-28 records Thomas's insistence on physically seeing and touching Jesus's wounds before believing, until Jesus appeared and invited him to do so."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "On the road to Emmaus, two disciples recognised the risen Jesus when He",
+      "options": [
+        "broke bread with them at the table",
+        "ascended before their eyes",
+        "called them each by name",
+        "revealed the nail marks in His hands"
+      ],
+      "correctIndex": 0,
+      "explanation": "Luke 24:30-31 describes the two disciples' eyes being opened to recognise the risen Jesus at the moment He broke bread with them."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The apostle Philip led an Ethiopian court official to faith in Christ by",
+      "options": [
+        "translating the Torah into his native language",
+        "performing a miraculous sign before him",
+        "healing him of a physical ailment",
+        "explaining that the prophecy of Isaiah 53 the eunuch was reading pointed to Jesus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Acts 8:26-38 records Philip explaining that the suffering servant passage in Isaiah 53 pointed to Jesus, leading the Ethiopian eunuch to believe and be baptised."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Ananias and Sapphira died suddenly in the early church after",
+      "options": [
+        "publicly denying their faith in Christ",
+        "lying to the Holy Spirit about the amount they received from selling their property",
+        "opposing the apostles' preaching in the Temple",
+        "refusing to share any of their possessions with the church"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acts 5:1-10 recounts how Ananias and Sapphira died after deceitfully claiming to give the full proceeds of a land sale while secretly withholding part of it, thereby lying to the Holy Spirit."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Apostle Paul's teaching in Romans that a person is justified by faith means that",
+      "options": [
+        "one is made right with God through faith in Christ, not by works of the law",
+        "good works alone are sufficient for salvation",
+        "salvation is earned entirely through obedience to the Mosaic law",
+        "only Jewish believers can be justified before God"
+      ],
+      "correctIndex": 0,
+      "explanation": "Romans 3:28 and 5:1 teach that justification (being declared righteous before God) comes through faith in Christ rather than through works of the law."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In Romans 6, Paul answers the question 'Shall we go on sinning so that grace may increase?' by declaring",
+      "options": [
+        "'By no means! We died to sin; how can we live in it any longer?'",
+        "'Yes, since grace covers every sin regardless of behaviour'",
+        "'Only if one has never been baptised'",
+        "'It does not matter, since the law has been abolished'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Romans 6:1-2 has Paul emphatically rejecting the idea that grace is a licence to continue sinning, since believers have died to sin through their union with Christ."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's declaration in Romans 8:1 assures believers that",
+      "options": [
+        "all believers must still fear final judgement equally with unbelievers",
+        "condemnation is avoided only through continual sacrifice",
+        "the law remains the only path to acceptance with God",
+        "there is now no condemnation for those who are in Christ Jesus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Romans 8:1 offers this foundational assurance of freedom from condemnation for those united with Christ, a cornerstone of New Testament teaching on grace."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's teaching on spiritual gifts in 1 Corinthians 12 emphasises that",
+      "options": [
+        "spiritual gifts are reserved only for apostles",
+        "only the gift of tongues indicates genuine faith",
+        "every believer must possess the identical spiritual gift",
+        "the gifts are diverse but come from the same Spirit, given for the common good of the church"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 Corinthians 12:4-7 teaches that though spiritual gifts vary widely, they originate from the same Spirit and are given to benefit the whole church community."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's metaphor of the church as 'the body of Christ' in 1 Corinthians 12 illustrates that",
+      "options": [
+        "only certain believers are truly essential to the church",
+        "each believer functions entirely independently of others",
+        "believers, though different in function, are interdependent members of one unified body",
+        "the church should be organised like a strict hierarchy of authority"
+      ],
+      "correctIndex": 2,
+      "explanation": "Paul uses the analogy of a human body with many interdependent parts to illustrate the unity-in-diversity of believers functioning together as the body of Christ."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul concludes his famous discourse on love in 1 Corinthians 13 by declaring that of faith, hope, and love,",
+      "options": [
+        "faith is superior to the other two",
+        "the greatest of these is love",
+        "all three are of exactly equal significance with no priority",
+        "hope will ultimately replace both faith and love"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 Corinthians 13:13 concludes that while faith, hope, and love all endure, love is declared the greatest of the three virtues."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's teaching on Christian giving in 2 Corinthians 9 emphasises that believers should give",
+      "options": [
+        "cheerfully and not reluctantly or under compulsion",
+        "solely to fellow believers within their own local congregation",
+        "only the exact tenth required under the Mosaic law",
+        "only when they have surplus wealth remaining"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 Corinthians 9:7 teaches that God loves a cheerful giver, encouraging believers to give generously and willingly rather than out of reluctance or compulsion."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "According to Galatians 5, the fruit of the Spirit includes",
+      "options": [
+        "love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control",
+        "wealth, health, and worldly success",
+        "wisdom, knowledge, prophecy, tongues, and miracles",
+        "strict adherence to circumcision and dietary laws"
+      ],
+      "correctIndex": 0,
+      "explanation": "Galatians 5:22-23 lists the fruit of the Spirit as these nine Christlike character qualities that grow in a believer's life through the Holy Spirit."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In Ephesians 6, Paul instructs believers to put on the 'full armour of God' primarily in order to",
+      "options": [
+        "prepare for literal warfare against Israel's enemies",
+        "protect themselves from physical illness",
+        "defend themselves against Roman soldiers",
+        "stand firm against the schemes of the devil in spiritual conflict"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ephesians 6:11-13 uses the imagery of a soldier's armour to describe the spiritual resources believers need to withstand the devil's schemes."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's appeal for unity in Ephesians 4 urges believers to maintain",
+      "options": [
+        "the unity of the Spirit through the bond of peace",
+        "strict uniformity in every personal opinion",
+        "competition to determine the most important members",
+        "separation between different spiritual gift bearers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ephesians 4:3 calls believers to make every effort to keep the unity of the Spirit through the bond of peace, despite their diversity of gifts and backgrounds."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Philippians 2 describes the humility of Christ, who, though He was in the form of God,",
+      "options": [
+        "refused to associate with sinners or outcasts",
+        "emptied Himself, taking the form of a servant, and humbled Himself to death on a cross",
+        "demanded worship from all people during His earthly life",
+        "avoided suffering entirely during His ministry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Philippians 2:6-8 describes Christ's profound humility in emptying Himself of His divine privileges, taking on human form, and submitting even to death on a cross."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's teaching on contentment in Philippians 4 states that he has learned to be content",
+      "options": [
+        "solely while he was imprisoned for the gospel",
+        "by depending entirely on the generosity of others",
+        "only when his material needs are fully met",
+        "in whatever circumstances he finds himself, through Christ who strengthens him"
+      ],
+      "correctIndex": 3,
+      "explanation": "Philippians 4:11-13 records Paul's testimony that he learned contentment in every circumstance, relying on the strength Christ provides."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Colossians 1 describes Christ as",
+      "options": [
+        "the image of the invisible God, in whom all things were created and hold together",
+        "merely one of many prophets sent by God",
+        "a created being subordinate to the angels",
+        "only significant for His earthly moral teaching"
+      ],
+      "correctIndex": 0,
+      "explanation": "Colossians 1:15-17 presents an exalted view of Christ as the image of the invisible God, through whom and for whom all things were created, and in whom all things hold together."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's teaching on the Lord's return in 1 Thessalonians 4 describes believers who are alive at Christ's coming as being",
+      "options": [
+        "required to die before entering the Kingdom",
+        "left behind to endure further tribulation alone",
+        "caught up together with the risen dead to meet the Lord in the air",
+        "unaware of any change occurring at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 Thessalonians 4:16-17 describes the dead in Christ rising first, followed by living believers being caught up together with them to meet the Lord in the air."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul warns in 1 Thessalonians 5 that the Day of the Lord will come",
+      "options": [
+        "like a thief in the night, unexpectedly",
+        "only after a long period of visible warning signs",
+        "at a precisely predictable, calculated date",
+        "exclusively upon unbelieving Gentile nations"
+      ],
+      "correctIndex": 0,
+      "explanation": "1 Thessalonians 5:2 warns that the Day of the Lord will arrive suddenly and unexpectedly, like a thief in the night, urging believers to remain spiritually alert."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In 1 Timothy 3, Paul outlines the qualifications for overseers (elders) in the church, requiring that they be",
+      "options": [
+        "unmarried, so as to devote themselves fully to ministry",
+        "above reproach, faithful to one wife, self-controlled, and able to teach",
+        "recent converts, to bring fresh perspective to leadership",
+        "wealthy landowners with significant social standing"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 Timothy 3:1-7 lists the moral and character qualifications required of church overseers, including being above reproach, faithful in marriage, and able to teach sound doctrine."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul encourages Timothy to endure hardship as a Christian minister by comparing him to",
+      "options": [
+        "a king ruling without opposition",
+        "a good soldier of Christ Jesus who does not get entangled in civilian affairs",
+        "a farmer who need not work hard for a harvest",
+        "a merchant seeking easy profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "2 Timothy 2:3-4 uses the image of a soldier single-mindedly devoted to his commanding officer to encourage Timothy's steadfast endurance in ministry."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Paul's teaching to Timothy regarding Scripture affirms that",
+      "options": [
+        "only the words of Jesus in the Gospels carry divine authority",
+        "Scripture is a purely human record with no divine origin",
+        "all Scripture is God-breathed and useful for teaching, rebuking, correcting, and training in righteousness",
+        "the Old Testament law has no further relevance for believers"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 Timothy 3:16 affirms the divine inspiration and practical usefulness of Scripture for teaching, correction, and equipping believers for righteous living."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "In his letter to Philemon, Paul appeals on behalf of",
+      "options": [
+        "Timothy, requesting his release from prison",
+        "Onesimus, a runaway slave, urging Philemon to receive him back as a brother in Christ",
+        "Titus, seeking his appointment as a bishop",
+        "the church at Colossae, requesting financial support"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paul's short letter to Philemon pleads for the runaway slave Onesimus to be welcomed back not merely as a slave but as a beloved brother in Christ."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Epistle to the Hebrews describes Jesus as",
+      "options": [
+        "one who never faced any form of temptation",
+        "a priest inferior to the Levitical priesthood",
+        "a figure entirely separate from the Old Testament sacrificial system",
+        "a great high priest who sympathises with human weakness, having been tempted in every way"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hebrews 4:14-15 presents Jesus as a great high priest who, though without sin, can sympathise with human weaknesses because He was tempted in every way as we are."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Hebrews 11, often called the 'faith chapter', commends Noah for his faith because he",
+      "options": [
+        "built an ark to save his family, though he had never seen a flood before",
+        "led Israel out of Egyptian slavery",
+        "left his homeland without knowing his destination",
+        "offered his son Isaac as a sacrifice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hebrews 11:7 commends Noah's faith in building the ark in obedience to God's warning about things not yet seen, resulting in the salvation of his household."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "First Peter encourages believers facing persecution by teaching that",
+      "options": [
+        "believers should retaliate against their persecutors",
+        "suffering for doing good, when it is God's will, is better than suffering for doing wrong",
+        "suffering indicates a lack of genuine faith",
+        "true faith guarantees a life free from all suffering"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 Peter 3:17 teaches that it is better, if it is God's will, to suffer for doing good than for doing evil, encouraging perseverance in righteous conduct despite persecution."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "Second Peter warns the church chiefly about the danger of",
+      "options": [
+        "false teachers who would secretly introduce destructive heresies",
+        "excessive generosity toward the poor",
+        "the return of Old Testament dietary laws",
+        "abandoning fellowship with other believers"
+      ],
+      "correctIndex": 0,
+      "explanation": "2 Peter 2:1 warns that, just as there were false prophets among the people of Israel, false teachers would arise within the church, secretly introducing destructive heresies."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "The Apostle John's first epistle declares that believers can know and demonstrate the truth of the gospel because",
+      "options": [
+        "only apostles were capable of truly loving others",
+        "love is merely a human emotion unrelated to faith",
+        "love is optional in the Christian life",
+        "God is love, and this love is revealed by sending His Son so that we might live through Him"
+      ],
+      "correctIndex": 3,
+      "explanation": "1 John 4:8-9 declares that God is love, made manifest in sending His Son so that believers might live through Him."
+    },
+    {
+      "subject": "Christian Religious Studies",
+      "text": "First John assures believers that",
+      "options": [
+        "only public confession before the entire church leads to forgiveness",
+        "confession of sin is unnecessary once a person becomes a believer",
+        "if we confess our sins, God is faithful and just to forgive us and cleanse us from all unrighteousness",
+        "sins committed after conversion can never be forgiven"
+      ],
+      "correctIndex": 2,
+      "explanation": "1 John 1:9 offers this well-known assurance that confessing sin results in God's faithful and just forgiveness and cleansing."
+    }
+  ]
+}

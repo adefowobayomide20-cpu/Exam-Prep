@@ -1,0 +1,1206 @@
+{
+  "subject": "Igbo",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdaume so n'otu ndakọrịta ụdaume (vowel harmony set) na 'i'?",
+      "options": [
+        "ị",
+        "ọ",
+        "o",
+        "a"
+      ],
+      "correctIndex": 0,
+      "explanation": "In Igbo vowel harmony, vowels group into two sets by tongue root position; 'i' pairs with 'ị' in usage patterns learners must distinguish."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Olee ihe kpatara akara olu (tone marks) ji dị mkpa n'ederede Igbo?",
+      "options": [
+        "N'ihi na olu dị iche iche nwere ike ime ka otu mkpụrụedemede pụta ihe abụọ ma ọ bụ karịa",
+        "N'ihi na ha na-eme ka akwụkwọ dị mma ile anya naanị",
+        "N'ihi na ha na-egosi ọnụọgụ",
+        "N'ihi na ha bụ mkpụrụedemede"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tone is contrastive in Igbo, meaning the same sequence of letters can carry different meanings depending on the tone pattern, which is why tone marks matter."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu okwu Igbo abụọ a na-esi n'olu ha mata ọdịiche n'ihe ha pụtara, ọ bụ ezie na e dere ha otu ụzọ n'edemede na-enweghị akara olu?",
+      "options": [
+        "Ụlọ na aka",
+        "Mmiri na anụ",
+        "Akwụ (palm nut) na akwụ (bed)",
+        "Egwu na ọzọ"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Akwụ' is a classic Igbo example of tonal minimal pairs, where identical spelling without tone marks can represent distinct words such as palm nut and bed, depending on tone."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị mgbochiume (consonant) a na-akpọ 'gb' n'ụtọasụsụ ụdaasụsụ Igbo?",
+      "options": [
+        "Njikọ okwu",
+        "Mgbochiume abụọ jikọrọ ọnụ (digraph) na-egosipụta otu ụda",
+        "Ụdaume nkeji",
+        "Akara olu"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Gb', like 'gh', 'kp', 'nw' and 'ny', is a digraph in the Igbo alphabet — two letters representing a single distinct consonant sound."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mgbanwe ụda mkpụrụokwu na-eme mgbe mkpụrụokwu abụọ zutere n'ọnụ n'ekwuwa okwu (elision/assimilation)?",
+      "options": [
+        "Nchịkọta okwu",
+        "Mmegharị ụda",
+        "Akara nkwụsi",
+        "Nnochi aha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Assimilation and elision describe how adjoining sounds influence and sometimes merge with each other in fluent Igbo speech."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Olu ole bụ isi ka ọ bara n'usoro olu Igbo, ewezuga olu agbadaba (downstep)?",
+      "options": [
+        "Naanị otu",
+        "Anọ kpamkpam",
+        "Iri",
+        "Abụọ: olu elu na olu ala"
+      ],
+      "correctIndex": 3,
+      "explanation": "Igbo tone is fundamentally binary: high and low, with downstep recognised as a derived variant of high tone rather than a fully separate basic tone."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mgbochiume nsi-imi na-eguzo n'ọnọdụ ụdaume n'okwu dịka 'nne'?",
+      "options": [
+        "Ụdaume ochie",
+        "Akara olu",
+        "Mgbochiume mkpụrụedemede (syllabic consonant)",
+        "Mbuuzo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nasal consonants like 'n' and 'm' can serve as the nucleus of a syllable in Igbo, standing in for a vowel."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'asụsụ Igbo, olee otu e si ekwu okwu 'akwa' iji pụta 'cloth' karịa 'egg' ma e dee ya n'enweghị akara olu?",
+      "options": [
+        "Ọ dịghị ụzọ e si ama ọdịiche ha",
+        "E ji ọnụọgụ mkpụrụedemede dị iche iche dee ya",
+        "E ji olu (tone) dị iche iche kpọọ ya",
+        "E ji mgbochiume dị iche iche dee ya"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Akwa' is another commonly cited Igbo tonal minimal-pair word: identical spelling but distinct meanings (egg, cloth, cry, bridge) distinguished by tone alone."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akụkụ ụdaasụsụ na-elebara anya n'otu e si esite n'ọnụ mmadụ mepụta ụda?",
+      "options": [
+        "Ụtọasụsụ",
+        "Ụdaasụsụ (phonetics)",
+        "Ọdịnala",
+        "Agụmagụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phonetics (ụdaasụsụ) is the branch of study focused on how speech sounds are physically produced, transmitted, and perceived."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu nkọwa kacha zie ezi maka mkpụrụedemede mmechi (closed syllable) n'asụsụ Igbo?",
+      "options": [
+        "Mkpụrụedemede na-akwụsị na mgbochiume",
+        "Mkpụrụedemede nwere naanị akara olu",
+        "Mkpụrụedemede na-enweghị mgbochiume ọ bụla",
+        "Mkpụrụedemede na-akwụsị na ụdaume mgbe niile"
+      ],
+      "correctIndex": 0,
+      "explanation": "A closed syllable ends in a consonant sound, in contrast with the open (CV) syllable pattern that dominates ordinary Igbo words."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ usoro nyocha ụda okwu iji chọpụta ụda dị iche iche pụrụ iche n'otu asụsụ?",
+      "options": [
+        "Njirimara mkpụrụokwu",
+        "Agụmagụ ọnụ",
+        "Usoro ụdaasụsụ (phonology)",
+        "Ụtọasụsụ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phonology is the systematic study of how sounds pattern and function meaningfully within a specific language, distinct from the physical study of sounds (phonetics)."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe kpatara ọtụtụ okwu Igbo nwere naanị otu ma ọ bụ mkpụrụedemede abụọ n'ọtụtụ ọnọdụ?",
+      "options": [
+        "N'ihi na Igbo bụ asụsụ nwere mkpụrụedemede CV dị mfe na-emeghachi onwe ya",
+        "N'ihi na Igbo enweghị ụdaume",
+        "N'ihi na ọ bụ asụsụ ọhụrụ",
+        "N'ihi na Igbo enweghị mgbochiume"
+      ],
+      "correctIndex": 0,
+      "explanation": "The prevalence of simple, repeating CV syllable structures is a well-known structural feature contributing to the relatively short average word length in Igbo."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu usoro mkpụrụedemede a na-eji ede Igbo izugbe taa?",
+      "options": [
+        "Usoro Lepsius kpamkpam",
+        "Usoro Ndịmele",
+        "Usoro Latịn nke oge ochie",
+        "Usoro Onwu"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Onwu orthography, adopted officially in 1961, remains the standard writing system used for modern standard Igbo."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ okwu abụọ e jikọtara ọnụ iji mepụta otu okwu ọhụrụ nwere ihe ọ pụtara, dịka 'ụlọ' na 'akwụkwọ' bụ 'ụlọakwụkwọ'?",
+      "options": [
+        "Mgbakwunye okwu",
+        "Akara olu",
+        "Mkpụrụokwu e ji (loan word)",
+        "Mkpụrụokwu jikọrọ ọnụ (compound word)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ụlọakwụkwọ' (school) exemplifies Igbo compounding, where two independent words combine to form a new word with a distinct meaning."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mkpụrụokwu ndị dịka 'sukuu', 'motọ', na 'kọmputa' e webatara n'asụsụ Igbo?",
+      "options": [
+        "Mkpụrụokwu e ji (loan words)",
+        "Mgbakwunye ihu",
+        "Akara nkwụsi",
+        "Mkpụrụokwu jikọrọ ọnụ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Words like 'sukuu' (school), 'motọ' (motor) and 'kọmputa' (computer) are loan words absorbed into Igbo, mostly from English, and adapted to Igbo sound patterns."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu mgbakwunye a na-etinye n'ihu mkpụrụokwu iji gbanwee ma ọ bụ kwado ihe ọ pụtara (prefix)?",
+      "options": [
+        "Njikọ okwu",
+        "Mgbakwunye azụ (suffix)",
+        "Nnochi aha",
+        "Mgbakwunye ihu (prefix)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A prefix (mgbakwunye ihu) is attached to the beginning of a root word, one of the two main affix positions in Igbo morphology alongside the suffix."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Site n'okwu mgbagwoju 'ọzụzụ', kedu mkpụrụokwu (root) a na-esi eleta ya?",
+      "options": [
+        "Ọzụ",
+        "Zụ",
+        "Ụzụ",
+        "Zụzụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "The verb root '-zụ-' (to train/rear) underlies derived and reduplicated forms such as 'ọzụzụ' (training/rearing) in Igbo morphology."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ okwu ọdịnaala dị iche na mpaghara Igbo dị iche iche na-akọwa otu ihe, dịka 'ji' na mpaghara ụfọdụ, ebe mpaghara ọzọ nwere aha ọzọ?",
+      "options": [
+        "Mgbakwunye azụ",
+        "Mkpụrụokwu olumba (dialect word)",
+        "Mkpụrụokwu e ji",
+        "Akara olu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Igbo has many regional dialects, and dialect words reflect the natural variation in vocabulary used across different Igbo-speaking areas for the same concept."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Olee ihe a na-eji akọwa 'mkpụrụokwu' n'ụzọ dị mfe n'asụsụ Igbo?",
+      "options": [
+        "Naanị mkpụrụedemede otu",
+        "Naanị njikọ okwu",
+        "Otu mgbọrọgwụ okwu ma ọ bụ ngwakọta okwu nwere ihe ọ pụtara",
+        "Naanị akara olu"
+      ],
+      "correctIndex": 2,
+      "explanation": "A word (mkpụrụokwu) is a basic meaningful unit of language, whether a single root or a combination of morphemes."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu isi ihe kpatara e ji ahazi okwu Igbo n'akwụkwọ ọkọwa okwu (dictionary) n'usoro mkpụrụedemede?",
+      "options": [
+        "Ka a kwụsị iji ụdaume",
+        "Ka okwu niile dịrị otu ogologo",
+        "Ka o mee ka ịchọta okwu dị mfe na ngwa ngwa",
+        "Ka a hapụ akara olu niile"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alphabetical ordering in dictionaries makes it fast and predictable for users to locate any given word."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ okwu Igbo na-egosi otu ihe ma ọ bụ omume n'ụzọ dị nro, karịa nkọwa ozugbo (idiomatic expression)?",
+      "options": [
+        "Ilu (proverb)",
+        "Mbem",
+        "Agwụgwa (riddle)",
+        "Akpaokwu (idiom)"
+      ],
+      "correctIndex": 3,
+      "explanation": "An idiom (akpaokwu) is a fixed expression whose figurative meaning differs from a literal, word-for-word reading, distinct from a proverb which usually carries a moral lesson."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu mkpụrụokwu a ga-eji dochie 'nnukwu' n'ahịrịokwu, ma ihe ọ pụtara ghara ịgbanwe nke ukwuu?",
+      "options": [
+        "Ọma",
+        "Ọjọọ",
+        "Nta",
+        "Ukwu"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ukwu' (as in 'ukwu ukwu' / large) functions as a near-synonym of 'nnukwu' (big/great) in describing size."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ọdịiche dị n'etiti 'ilu' na 'akpaokwu' n'asụsụ Igbo?",
+      "options": [
+        "Ilu adịghị enwe isi ihe",
+        "Akpaokwu bụ naanị maka ụmụaka",
+        "Ilu na-ebukarị ozizi omume ma ọ bụ amamihe, ebe akpaokwu bụ naanị nkebiokwu nwere ihe ọ pụtara na-abụghị nke ozugbo",
+        "Ha bụ otu ihe kpamkpam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proverbs (ilu) typically encode a moral lesson or wisdom, while idioms (akpaokwu) are fixed figurative phrases without necessarily carrying moral instruction."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akwụkwọ e ji achọpụta ihe okwu Igbo pụtara na Bekee ma ọ bụ asụsụ ọzọ?",
+      "options": [
+        "Akwụkwọ ọkọwa okwu (dictionary)",
+        "Akwụkwọ akụkọ ifo",
+        "Akwụkwọ mbem",
+        "Akwụkwọ ozi"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dictionary (akwụkwọ ọkọwa okwu) provides the meanings, and often translations, of words in a language."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu klaasị okwu (mkpọaha) so n'ime ndị a: 'nwoke', 'ụlọ', 'echiche'?",
+      "options": [
+        "Ha niile bụ ngwaa",
+        "Ha niile bụ mkpọaha (nouns)",
+        "Ha niile bụ njikọ okwu",
+        "Ha niile bụ nkọwa"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nwoke' (man), 'ụlọ' (house) and 'echiche' (thought/idea) are all nouns, naming a person, a place/thing, and an abstract idea respectively."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ahịrịokwu 'Nwata ahụ na-agba ọsọ', kedu okwu bụ ngwaa (verb)?",
+      "options": [
+        "Ahụ",
+        "Ọsọ",
+        "Nwata",
+        "Na-agba"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Na-agba' (is running) is the verb phrase expressing the ongoing action performed by the subject 'nwata ahụ'."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu klaasị okwu 'ọma' bụ n'ahịrịokwu 'nwanyị ọma ahụ bịara'?",
+      "options": [
+        "Mbuuzo",
+        "Ngwaa",
+        "Nkwuwa",
+        "Nkọwa (adjective)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ọma' (good) describes the noun 'nwanyị' (woman), functioning as an adjective."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ okwu na-anọchi anya mkpọaha iji zere ịkwụghachi aha ahụ ugboro ugboro?",
+      "options": [
+        "Nnochi aha (pronoun)",
+        "Nkwuwa",
+        "Njikọ okwu",
+        "Mbuuzo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pronoun (nnochi aha), like 'ọ', 'ha', or 'anyị', substitutes for a noun to avoid repetition."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ahịrịokwu 'O bikere n'elu oche', kedu klaasị okwu 'n'elu' bụ?",
+      "options": [
+        "Mbuuzo (preposition)",
+        "Ngwaa",
+        "Njikọ okwu",
+        "Nkọwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "'N'elu' (on top of) shows the spatial relationship between the subject and 'oche' (chair), making it a preposition."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu njikọ okwu a ga-eji jikọta ahịrịokwu abụọ ndị a: 'Ọ dara ụra ___ a kpọrọ ya oku'?",
+      "options": [
+        "ma ọ bụrụ",
+        "mana",
+        "na",
+        "ka"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Mana' (but) correctly links the contrasting clauses of falling asleep and being called, expressing contrast."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ahịrịokwu na-ajụ ajụjụ, dịka 'Kedu ebe ị na-aga?'",
+      "options": [
+        "Ahịrịokwu jikọrọ ọnụ",
+        "Ahịrịokwu iwu",
+        "Ahịrịokwu akụkọ",
+        "Ahịrịokwu ajụjụ (interrogative sentence)"
+      ],
+      "correctIndex": 3,
+      "explanation": "An interrogative sentence is used to ask a question, marked in Igbo by question words such as 'kedu' or a rising tone pattern."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị ahịrịokwu bụ 'Mechie ụzọ ahụ!'?",
+      "options": [
+        "Ahịrịokwu ajụjụ",
+        "Ahịrịokwu jikọrọ ọnụ",
+        "Ahịrịokwu iwu (imperative sentence)",
+        "Ahịrịokwu akụkọ"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Mechie ụzọ ahụ!' (Close the door!) issues a direct command, characteristic of an imperative sentence."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ụtọasụsụ Igbo, kedu ọnọdụ mkpọaha na-anọ n'ahịrịokwu dị mfe dịka 'Chidi ___ akpụkpọụkwụ'?",
+      "options": [
+        "Njikọ okwu",
+        "Ihe a na-arụ ọrụ na ya (object)",
+        "Onye ọrụ (subject)",
+        "Mbuuzo"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Chidi' functions as the subject (onye ọrụ), the one performing the action, at the start of a typical Igbo SVO sentence."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mgbanwe ngwaa iji gosipụta na omume ahụ emeela n'oge gara aga (past tense)?",
+      "options": [
+        "Mgbanwe ajụjụ",
+        "Mgbanwe oge gara aga (past tense marking)",
+        "Mgbanwe nkọwa",
+        "Mgbanwe iwu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Igbo verbs take tense/aspect markers to indicate when an action occurred, including markers used for completed past actions."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ nkebi ụtọasụsụ na-elebara anya n'usoro mkpụrụokwu si emepụta ọzọ (word formation)?",
+      "options": [
+        "Nhazi ahịrịokwu (syntax)",
+        "Nhazi okwu (morphology)",
+        "Ụdaasụsụ",
+        "Agụmagụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Morphology studies how words are formed and structured from smaller meaningful units such as roots and affixes."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ahịrịokwu na-adaberekarị n'ahịrịokwu ọzọ iji zuo ezu (complex sentence)?",
+      "options": [
+        "Ahịrịokwu iwu",
+        "Ahịrịokwu dị mfe",
+        "Ahịrịokwu jikọrọ ọnụ",
+        "Ahịrịokwu mgbagwoju (complex sentence)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A complex sentence contains a main clause and at least one dependent clause that relies on the main clause for full meaning."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ahịrịokwu 'Ha na-eri nri', kedu okwu bụ ihe a na-arụ ọrụ na ya (object)?",
+      "options": [
+        "Ọ dịghị",
+        "Nri",
+        "Na-eri",
+        "Ha"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nri' (food) receives the action of eating, making it the object of the verb 'na-eri' (are eating)."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mgbakwunye e tinyere n'azụ mkpụrụokwu iji gbanwee ọnọdụ ya (suffix)?",
+      "options": [
+        "Mgbakwunye ihu (prefix)",
+        "Mgbakwunye azụ (suffix)",
+        "Njikọ okwu",
+        "Nnochi aha"
+      ],
+      "correctIndex": 1,
+      "explanation": "A suffix (mgbakwunye azụ) attaches to the end of a root word, one of the two principal affix positions in Igbo."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ịgụta edemede iji ghọta ya (comprehension), gịnị bụ isi ihe a na-achọ n'aka onye na-agụ ya?",
+      "options": [
+        "Ịghọta isi ozi na nkọwa dị n'edemede ma zaa ajụjụ ndị metụtara ya",
+        "Ịmata naanị aha onye dere ya",
+        "Ịtụgharị ya gaa n'asụsụ ọzọ",
+        "Ịgụ okwu niile n'isi"
+      ],
+      "correctIndex": 0,
+      "explanation": "The primary goal of comprehension practice is to understand a passage's content and details well enough to answer related questions accurately."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị edemede na-akọ ihe mere eme n'usoro (narrative essay)?",
+      "options": [
+        "Edemede ịrụ ụka",
+        "Edemede nkọwa",
+        "Edemede akụkọ (narrative essay)",
+        "Akwụkwọ ozi"
+      ],
+      "correctIndex": 2,
+      "explanation": "A narrative essay recounts events in a sequence, typically with a beginning, middle, and end."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị edemede a na-eji akọwapụta onye, ebe, ma ọ bụ ihe n'ụzọ zuru ezu iji mee ka onye na-agụ ya hụ ya n'anya uche?",
+      "options": [
+        "Edemede ịrụ ụka",
+        "Edemede nkọwa (descriptive essay)",
+        "Edemede akụkọ",
+        "Akwụkwọ ozi"
+      ],
+      "correctIndex": 1,
+      "explanation": "A descriptive essay uses vivid detail to help the reader form a clear mental picture of a person, place, or thing."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ide akwụkwọ ozi obere (informal letter) n'asụsụ Igbo, gịnị ka a na-ejikarị amalite ya?",
+      "options": [
+        "Naanị isi okwu",
+        "Naanị mbibi ugwu",
+        "Naanị akara olu",
+        "Ekele na aha onye e degaara akwụkwọ ozi ahụ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Igbo letters conventionally open with a greeting and an address to the recipient before moving to the main message."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu nkà kacha mkpa maka ide edemede zuru oke n'asụsụ Igbo?",
+      "options": [
+        "Ide n'enweghị akara olu ọ bụla",
+        "Nhazi echiche n'usoro doro anya na iji ụtọasụsụ ziri ezi",
+        "Ide n'enweghị nhazi ọ bụla",
+        "Iji naanị mkpụrụokwu Bekee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good essay writing requires clear, logical organisation of ideas along with correct grammar."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Mgbe a na-agụ otu edemede ọgụgụ isi, gịnị bụ ụzọ kacha mma iji chọpụta azịza ajụjụ ma ị na-echedoghị echiche?",
+      "options": [
+        "Ịzaghachi site na ntụle aha onwe gị",
+        "Ịlaghachi azụ gụọ akụkụ metụtara ajụjụ ahụ ọzọ",
+        "Ịchọpụta azịza site n'echiche onwe gị naanị",
+        "Ịzipụ ajụjụ ahụ n'efu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Re-reading the relevant section of the passage before answering is the most reliable way to confirm the correct answer."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ nkọwa nkenke nke isi ihe dị n'otu edemede ogologo?",
+      "options": [
+        "Njikọ okwu",
+        "Nchịkọta (summary)",
+        "Akara olu",
+        "Nnochi aha"
+      ],
+      "correctIndex": 1,
+      "explanation": "A summary (nchịkọta) briefly captures the essential main points of a longer text without every minor detail."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị edemede na-egosipụta echiche onye na-ede ya ma jiri ihe akaebe kwado ya (argumentative essay)?",
+      "options": [
+        "Edemede akụkọ",
+        "Akwụkwọ ozi",
+        "Edemede ịrụ ụka (argumentative essay)",
+        "Edemede nkọwa"
+      ],
+      "correctIndex": 2,
+      "explanation": "An argumentative essay presents and supports a clear position on an issue using logical reasoning and evidence."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ide akwụkwọ ozi gọọmentị/azụmahịa (formal letter) n'Igbo, gịnị dị iche na akwụkwọ ozi obere?",
+      "options": [
+        "Ọ na-achọkarị okwu na usoro nkwanye ùgwù karịa",
+        "Ọ dịghị mkpa ekele ọ bụla",
+        "Ọ na-adịkarị mkpụmkpụ karịa akwụkwọ ozi obere",
+        "Ọ naghị enwe onye a na-edegara ya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Formal letters typically demand more careful, respectful, and structured language compared to informal letters to friends or family."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe kpatara a na-agba mbọ ịmụta ụtọasụsụ ziri ezi tupu e wee mụọ ide edemede n'asụsụ Igbo?",
+      "options": [
+        "N'ihi na ọ dịghị mkpa n'ọmụmụ asụsụ",
+        "N'ihi na akara olu adịghị emetụta ụtọasụsụ",
+        "N'ihi na ụtọasụsụ ziri ezi na-eme ka echiche pụta ìhè nke ọma n'edemede",
+        "N'ihi na ụtọasụsụ bụ naanị maka mgbako"
+      ],
+      "correctIndex": 2,
+      "explanation": "A solid grasp of grammar helps writers express ideas clearly and correctly in their essays."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu nkọwa kacha zie ezi maka Agụmagụ Ọnụ n'omenala Igbo?",
+      "options": [
+        "Agụmagụ e dere n'akwụkwọ kpọmkwem",
+        "Agụmagụ e siri na mba ọzọ tụgharịa",
+        "Agụmagụ e si n'ọnụ na-agbasa site n'ọgbọ ruo n'ọgbọ, n'edeghị ede ya",
+        "Ihe ọmụmụ mgbako naanị"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oral literature (Agụmagụ Ọnụ) is transmitted verbally across generations rather than through writing."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akụkọ ọdịnala na-akọwa mmalite ụwa ma ọ bụ ihe omimi banyere chi na mmụọ?",
+      "options": [
+        "Nkọmịrịkọ (myth)",
+        "Mbem (chant)",
+        "Agwụgwa (riddle)",
+        "Nkọkịrịkọ (legend)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Myths (nkọmịrịkọ) explain the origins of the world or supernatural phenomena in Igbo oral tradition."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akụkọ ọdịnala metụtara ndị dị ike ma ọ bụ ihe omume mere n'oge gara aga, nke ndị mmadụ na-ekwenyekarị na e nwere eziokwu dị na ya?",
+      "options": [
+        "Nkọkịrịkọ (legend)",
+        "Agwụgwa",
+        "Nkọmịrịkọ (myth)",
+        "Mbem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Legends (nkọkịrịkọ) recount notable figures or events believed to hold a kernel of historical truth."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akụkọ ifo na-abụkarị maka anụmanụ dị iche iche na-ekwu okwu dịka mmadụ (dịka Mbekwu na Odum)?",
+      "options": [
+        "Egwu ọdịnala",
+        "Mbem",
+        "Akụkọ ifo (folktale)",
+        "Nkọmịrịkọ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Igbo folktales (akụkọ ifo) frequently feature anthropomorphised animal characters such as the tortoise (Mbekwu/Mbe) and lion (Odum), teaching moral lessons through their adventures."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'akụkọ ifo Igbo, kedu anụmanụ a maara nke ọma dịka onye aghụghọ na onye amamihe (trickster) n'akụkọ ọtụtụ?",
+      "options": [
+        "Enyi (elephant)",
+        "Ọkụkọ (fowl)",
+        "Agụ (leopard)",
+        "Mbekwu (mbe/tortoise)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tortoise (mbekwu/mbe) is the archetypal trickster figure in Igbo folktales, known for cunning and cleverness that often gets it into and out of trouble."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ajụjụ nwere ọkịkọ nke a na-eji egwuri egwu iji nwalee amamihe na uche ọsọ ọsọ?",
+      "options": [
+        "Nkọmịrịkọ",
+        "Mbem",
+        "Agwụgwa (riddle)",
+        "Egwu ọdịnala"
+      ],
+      "correctIndex": 2,
+      "explanation": "Riddles (agwụgwa) are a traditional guessing game designed to test cleverness and quick thinking."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ abụ ọdịnala nke a na-abụkarị n'oge mmemme, ọrụ ubi, ma ọ bụ n'egwuregwu ụmụaka?",
+      "options": [
+        "Nkọmịrịkọ",
+        "Nkọkịrịkọ",
+        "Egwu ọdịnala (traditional song)",
+        "Ụtọasụsụ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional songs (egwu ọdịnala) accompany festivals, communal work, and children's play in Igbo culture."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ okwu amamihe dị mkpụmkpụ ndị okenye na-ejikarị akụziri ụmụ ntị (ilu)?",
+      "options": [
+        "Mbem",
+        "Ilu (proverb)",
+        "Agwụgwa",
+        "Akụkọ ifo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proverbs (ilu) are short, wise sayings elders use to teach and pass on values and wisdom."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'ilu Igbo a ma ama, 'Ọ bụrụ na anyanwụ apụọ, ọ ga-acha nkịta ọcha ọcha' na-akọwapụta gịnị?",
+      "options": [
+        "Nkịta niile bụ ọcha",
+        "Eziokwu ga-apụta ìhè n'agbanyeghị mgbe ọ ga-adị",
+        "Nkịta na-acha ọcha n'ihi anyanwụ",
+        "Ọ dịghị isi ihe ọ pụtara"
+      ],
+      "correctIndex": 1,
+      "explanation": "This proverb-style saying is a common way Igbo proverbs use natural imagery to teach that truth or reality eventually becomes clear, regardless of delay."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu isi ọrụ ilu (proverbs) na-arụ n'ikwu okwu n'ọdịnala Igbo?",
+      "options": [
+        "Ọ na-eme ka okwu doo anya, mee ka ọ dị ike, wee gosipụta amamihe onye na-ekwu okwu",
+        "Ọ na-egbochi ekwuru okwu",
+        "Ọ bụ naanị maka ntụrụndụ ụmụaka",
+        "Ọ dịghị ọrụ ọ na-arụ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proverbs enrich speech, add persuasive weight, and demonstrate the speaker's wisdom and command of the culture."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu oge a na-akpọkarị agwụgwa (riddles) n'omenala Igbo ochie?",
+      "options": [
+        "N'abalị, mgbe ọrụ ehihie gwụsịrị",
+        "Naanị n'oge ememme ọlụlụ di na nwunye",
+        "Naanị n'oge mbido afọ ọhụrụ",
+        "Naanị n'ehihie n'oge ọrụ ubi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Riddle-telling sessions traditionally happened at night, providing entertainment and mental exercise after the day's work."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ọrụ ndị okenye (elders) na-arụkarị n'ịgbasa agụmagụ ọnụ n'obodo Igbo?",
+      "options": [
+        "Ha na-elekwasị anya naanị n'azụmahịa",
+        "Ha na-akọrọ ụmụaka na ndị na-eto eto akụkọ ifo, ilu, na amamihe ọdịnala",
+        "Ha na-akọwakarị naanị akụkọ mba ofesi",
+        "Ha anaghị etinye aka n'agụmagụ ọnụ ma ọ bụla"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elders serve as the traditional custodians and transmitters of oral literature, passing folktales, proverbs, and wisdom to younger generations."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị egwu ọdịnala Igbo a na-eji anabata ndị ọbịa ma ọ bụ mee ememme dị iche iche, jiri ọdụdụ egwu na ihe egwu ọdịnala?",
+      "options": [
+        "Egwu na Ọdụdụ Ọdịnala (traditional music and dance)",
+        "Agwụgwa naanị",
+        "Nnochi aha",
+        "Nkọmịrịkọ naanị"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traditional music and dance are central to welcoming guests and celebrating festivals in Igbo communities."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Gịnị bụ isi ọdịiche dị n'etiti nkọmịrịkọ (myth) na nkọkịrịkọ (legend)?",
+      "options": [
+        "Nkọkịrịkọ bụ naanị maka egwu ntụrụndụ",
+        "Nkọmịrịkọ bụ naanị maka abụ",
+        "Nkọmịrịkọ na-emetụta ihe omimi na chi, ebe nkọkịrịkọ na-emetụtakarị ndị mmadụ ma ọ bụ ihe omume dị n'akụkọ ihe mere eme",
+        "Ha abụọ bụ otu ihe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Myths deal with supernatural or divine explanations, while legends focus more on human figures or events with a claimed historical basis."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe ga-eme ma ọ bụrụ na a ghara ịchekwa agụmagụ ọnụ site n'ọgbọ ruo n'ọgbọ?",
+      "options": [
+        "A ga-enwe agụmagụ ọnụ karịa mbụ",
+        "A ga-efu ọtụtụ ọdịnala na amamihe ndị dị mkpa nke ọdịnala ahụ",
+        "Ọdịnala ahụ ga-adịgide na-enweghị mgbanwe ọ bụla",
+        "Ọ dịghị ihe ga-emeru omenala ahụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without deliberate transmission across generations, much valuable oral tradition and cultural wisdom risks being permanently lost."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mkpịsị akụkọ ifo na-emesịkarị egosi omume ọjọọ ka a taa ya ahụhụ, ebe omume ọma ka a kwụghachi ụgwọ ọma?",
+      "options": [
+        "Akara olu",
+        "Nkuzi omume (moral lesson)",
+        "Isi ihe abụ",
+        "Njikọ okwu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Igbo folktales typically end with a clear moral lesson, rewarding good behaviour and punishing bad conduct."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị nkà a na-achọkarị n'aka onye na-akọ akụkọ ifo n'ihu ọha (oral performer) ka akụkọ ya na-atọ ndị na-ege ntị ụtọ?",
+      "options": [
+        "Ikike iji olu na omume ahụ mee ka akụkọ ahụ dị mma ma dọrọ mmasị",
+        "Ikike ịkpọ egwu ọ bụla na-enweghị olu",
+        "Ikike ide akwụkwọ ozi",
+        "Ikike gụọ akwụkwọ dị elu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Skilled oral performers use vocal expression, gesture, and audience interaction (often call-and-response) to make storytelling engaging."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ọrụ egwu ubi (farm/work songs) na-arụ n'omenala Igbo?",
+      "options": [
+        "Ọ na-akwalite ume ndị ọrụ ma na-eme ka ọrụ ọha dịrị mma",
+        "Ọ metụtara ndụmọdụ azụmahịa naanị",
+        "Ọ metụtara mgbanwe ihu igwe naanị",
+        "Ọ na-akụzi mgbako naanị"
+      ],
+      "correctIndex": 0,
+      "explanation": "Farm work songs energise labourers and help coordinate communal effort, making shared work more efficient and enjoyable."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ nkatakọtọ (chorus/refrain) a na-eji na-azaghachi n'egwu ọdịnala ma ọ bụ n'akụkọ ifo?",
+      "options": [
+        "Akara nkwụsi",
+        "Mbuuzo",
+        "Ọsọ okwu (call and response)",
+        "Nnochi aha"
+      ],
+      "correctIndex": 2,
+      "explanation": "Call-and-response is a defining performance feature of Igbo oral tradition, where a leader's line is answered by a group's refrain."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe kpatara e ji akpọ agwụgwa (riddles) 'egwuregwu okwu' n'asụsụ Bekee?",
+      "options": [
+        "N'ihi na ọ bụ egwuregwu na-eji okwu chọpụta amamihe onye na-aza ya",
+        "N'ihi na e ji ya achọ ego",
+        "N'ihi na a naghị eji ya eme ihe ọ bụla",
+        "N'ihi na ọ bụ naanị maka ndị ọka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Riddles are essentially a verbal 'word game' testing cleverness through language rather than physical skill."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ agụmagụ e dere n'akwụkwọ, dị ka akụkọ, egwuregwu, na abụ e dere ede?",
+      "options": [
+        "Nkọmịrịkọ naanị",
+        "Agwụgwa naanị",
+        "Agụmagụ Ọnụ (oral literature)",
+        "Agụmagụ Edere Ede (written literature)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Written literature (Agụmagụ Edere Ede) refers to literary works recorded in text form, distinct from orally transmitted traditions."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu onye e ji ama dịka otu n'ime ndị mbụ dere akwụkwọ akụkọ Igbo a maara nke ọma, dịka 'Omenụkọ'?",
+      "options": [
+        "Cyprian Ekwensi",
+        "Chinụa Achebe",
+        "Wole Soyinka",
+        "Pita Nwana"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pita Nwana is widely credited as the author of 'Omenụkọ', one of the earliest and most influential Igbo-language novels."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị agụmagụ edere ede a na-akpọ nke a na-eme dịka egwuregwu ihu ọha, nwere ndị ọrụnnọgbu na-ekwu okwu (drama)?",
+      "options": [
+        "Egwuregwu (drama)",
+        "Akwụkwọ ozi",
+        "Akụkọ (prose/novel)",
+        "Uri (poetry)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drama (egwuregwu) is a literary genre written to be performed, featuring characters speaking dialogue, distinct from prose and poetry."
+    },
+    {
+      "subject": "Igbo",
+      "text": "N'agụmagụ edere ede, kedu ihe a na-akpọ isi ozi ma ọ bụ echiche bụ isi nke onye edemede na-achọ ịkọwa n'ime akwụkwọ ya?",
+      "options": [
+        "Isi ihe (theme)",
+        "Njirimara mkpụrụokwu",
+        "Nkọmịrịkọ",
+        "Agwụgwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "The theme (isi ihe) is the central underlying message or idea an author conveys through a literary work."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ndị mmadụ dị iche iche na-eme ihe n'ime otu akụkọ ma ọ bụ egwuregwu?",
+      "options": [
+        "Akara olu",
+        "Isi ihe",
+        "Ndị ọrụnnọgbu n'akụkọ (characters)",
+        "Ọdịnala"
+      ],
+      "correctIndex": 2,
+      "explanation": "Characters are the individuals who participate in and drive the events of a narrative or dramatic work."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akụkọ e dere ede n'akwụkwọ ogologo nwere isi ihe na ndị ọrụnnọgbu zuru oke (novel)?",
+      "options": [
+        "Ilu",
+        "Agwụgwa",
+        "Akụkọ ogologo (novel)",
+        "Mbem (chant)"
+      ],
+      "correctIndex": 2,
+      "explanation": "A novel (akụkọ ogologo) is an extended fictional prose narrative with developed characters and plot."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ọrụ JAMB/Ule ule si etinye n'usoro mmụta banyere agụmagụ edere ede Igbo?",
+      "options": [
+        "Ọ na-ekwu naanị maka mgbako",
+        "Ọ na-elebara anya naanị na akụkọ mba ọzọ",
+        "Ọ naghị enwe ihe ọ bụla metụtara agụmagụ edere ede",
+        "Ọ na-ahọpụta akwụkwọ akụkọ, egwuregwu, na abụ ụfọdụ ka ụmụ akwụkwọ mụọ maka ule"
+      ],
+      "correctIndex": 3,
+      "explanation": "Examination bodies prescribe specific Igbo prose, drama, and poetry texts that candidates are expected to study."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu nkà dị mkpa maka nyocha (analysis) nke otu akụkọ ma ọ bụ egwuregwu e dere ede n'asụsụ Igbo?",
+      "options": [
+        "Ikike ịkpọ akwụkwọ ozi",
+        "Ikike ide uri naanị",
+        "Ikike ịgụ akwụkwọ ngwa ngwa n'enweghị nghọta",
+        "Ikike ịchọpụta isi ihe, ndị ọrụnnọgbu, na ọnọdụ akụkọ ahụ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective literary analysis requires identifying a text's theme, characters, and setting for deeper understanding."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Gịnị bụ isi ọdịiche dị n'etiti agụmagụ ọnụ na agụmagụ edere ede?",
+      "options": [
+        "Agụmagụ ọnụ na-emetụta naanị mgbako",
+        "Agụmagụ ọnụ ka a na-agbasa site n'ọnụ, ebe agụmagụ edere ede ka a na-edekọ n'akwụkwọ",
+        "Ọ dịghị ọdịiche dị n'etiti ha",
+        "Agụmagụ edere ede bụ naanị maka mmemme ọlụlụ di na nwunye"
+      ],
+      "correctIndex": 1,
+      "explanation": "The core distinction lies in mode of preservation: oral literature is passed down verbally while written literature is recorded in text."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị agụmagụ edere ede a na-eji ahịrịokwu dị nro na akara ụda mee ka echiche pụta ìhè n'ụzọ dị mma (poetry)?",
+      "options": [
+        "Akwụkwọ ozi",
+        "Uri (poetry)",
+        "Egwuregwu",
+        "Akụkọ ogologo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poetry (uri) uses carefully crafted, often rhythmic language to express ideas and emotions in a compact, artistic form."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ usoro alụmdi na nwunye n'ọdịnala Igbo, nke gụnyere ịkwụ ụgwọ ọlụlụ?",
+      "options": [
+        "Ịgụ aha",
+        "Echichi",
+        "Alụmdi na nwunye ọdịnala (traditional marriage institution)",
+        "Ibi ugwu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional Igbo marriage (alụmdi na nwunye) involves formal family negotiations, including the payment of bride price (ịkwụ ụgwọ ọlụlụ)."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mmemme e ji enye nwa ọhụrụ aha ya n'ọdịnala Igbo?",
+      "options": [
+        "Ibi ugwu",
+        "Alụmdi na nwunye",
+        "Ịgụ aha (naming ceremony)",
+        "Echichi"
+      ],
+      "correctIndex": 2,
+      "explanation": "The naming ceremony (ịgụ aha) formally gives a newborn their name, usually accompanied by prayers and celebration."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ọchịchị ọdịnala Igbo nke a na-ahọpụta ndị okenye ma ọ bụ eze n'obodo iji chịa obodo dịka omenala si dị?",
+      "options": [
+        "Ọchịchị nde ọzọ naanị",
+        "Ọ dịghị ọchịchị ọdịnala",
+        "Ọchịchị ndị ọka mmụta naanị",
+        "Ọchịchị Ala/Ọha na Eze (traditional council/monarchy system)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Many Igbo communities are traditionally governed by a council of elders (Ọha na Eze) or a traditional ruler, depending on local custom."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ akwa mgba nwoke ma ọ bụ nwaanyị na-eyi n'oge emume ọdịnala dị mkpa dịka mmanwụ?",
+      "options": [
+        "Uwe ndị sistọ",
+        "Uwe ọdịnala/akwa omenala (traditional attire)",
+        "Uwe akwụkwọ",
+        "Uwe ndị ọrụ ụlọ ọrụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traditional attire (akwa omenala) is worn during significant cultural events such as masquerade festivals and title-taking ceremonies."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mmemme nzuzo dị mkpa n'omenala Igbo ebe mmadụ na-eyiri uwe ma na-anọchite anya mmụọ ndị nna nna ha (dịka na ememme Ahịajiọkụ ma ọ bụ ememme mkpọmasị)?",
+      "options": [
+        "Ịgụ aha",
+        "Ọzọ",
+        "Mmụọ/mmanwụ (masquerade)",
+        "Echichi"
+      ],
+      "correctIndex": 2,
+      "explanation": "The masquerade (mmụọ/mmanwụ) tradition, in which performers embody ancestral or spiritual figures, is a central feature of many Igbo festivals."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ememme owuwe ihe ubi a na-eme kwa afọ n'ọtụtụ obodo Igbo iji kelee ihe ubi ọhụrụ, dịka ji?",
+      "options": [
+        "Ememme mmiri ozuzo",
+        "Ememme ịgba mba",
+        "Ememme Iri Ji (New Yam Festival)",
+        "Ememme ọlụlụ di"
+      ],
+      "correctIndex": 2,
+      "explanation": "The New Yam Festival (Iri Ji/Iwa Ji) is an annual harvest celebration held across many Igbo communities to mark the yam harvest with thanksgiving."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ nsọpụrụ ndị Igbo na-enye chi ha, mmụọ ha, na ndị nna nna ha nwụrụ anwụ n'omenala ochie?",
+      "options": [
+        "Nsọpụrụ ndị ọka mmụta naanị",
+        "Nsọpụrụ ndị ọzọ naanị",
+        "Nsọpụrụ ndịichie na chi (ancestral and spiritual reverence)",
+        "Ọ dịghị nsọpụrụ ọ bụla dị"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional Igbo religion and culture place great importance on honouring ancestors (ndịichie) and spiritual/deity figures (chi/arụsị)."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ omenala mbụ e ji anabata onye ọbịa n'ụlọ Igbo, dịka ịnye ya mmiri ma ọ bụ ọjị?",
+      "options": [
+        "Ịgụ aha",
+        "Nnabata ọbịa (hospitality customs)",
+        "Echichi",
+        "Alụmdi na nwunye"
+      ],
+      "correctIndex": 1,
+      "explanation": "Igbo hospitality customs, such as offering water or kola nut (ọjị) to guests, reflect deeply held cultural values of welcome and respect."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ọji (kola nut) na-anọchi anya ya n'omenala Igbo mgbe a na-agọ ya n'ihu ọbịa?",
+      "options": [
+        "Ọ bụ naanị ihe ahịa",
+        "Ọ dịghị isi ihe ọ na-anọchi anya ya",
+        "Nnabata, udo, na nkwanye ùgwù",
+        "Ọ bụ naanị nri"
+      ],
+      "correctIndex": 2,
+      "explanation": "The breaking and sharing of kola nut (ọjị) symbolises welcome, peace, and mutual respect in Igbo tradition, and is often accompanied by prayers."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ usoro ọzọ (title-taking) n'omenala Igbo?",
+      "options": [
+        "Usoro alụmdi na nwunye naanị",
+        "Usoro ịkọ akụkọ ifo naanị",
+        "Usoro ime ọmụmụ naanị",
+        "Usoro e si enweta ọkwa ùgwù n'obodo site n'ịgba mbọ na ịrụ ọrụ maka ọha"
+      ],
+      "correctIndex": 3,
+      "explanation": "Title-taking (ịgba ọzọ or similar systems) is a traditional process by which a person earns social status and honour within the community."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ihe onwunwe ala e ji egosi na ala bụ ihe kacha dị mkpa n'omenala Igbo, karịsịa n'ọrụ ubi?",
+      "options": [
+        "Anyanwụ bụ naanị chi a na-akpọku",
+        "Ala bụ chi/nne ala (Earth deity/land reverence)",
+        "Mmiri bụ chi kachasị elu",
+        "Ọ dịghị nsọpụrụ e nyere ala"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ala (the Earth deity) holds a central place in traditional Igbo cosmology, especially given the community's strong dependence on farming and land."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ ọmarịcha ihe owuwu ụlọ ọdịnala Igbo bụ isi ebe emume obodo na-ebe (dịka mmemme mmadụ ọha)?",
+      "options": [
+        "Ilo/ama obodo (village square)",
+        "Ụlọ ahịa",
+        "Ụlọ ọrụ mmiri",
+        "Ụlọikpe naanị"
+      ],
+      "correctIndex": 0,
+      "explanation": "The village square (ilo/ama) traditionally serves as the community's central gathering place for festivals, meetings, and important events."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ omenala ịkwa ozu na Igbo, nke gụnyere ememme e ji akwanyere onye nwụrụ anwụ ùgwù?",
+      "options": [
+        "Ememme Iri Ji",
+        "Ịgụ aha",
+        "Alụmdi na nwunye",
+        "Ikwa ozu (burial/funeral rites)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Burial and funeral rites (ikwa ozu) are elaborate traditional ceremonies performed to honour the deceased and mark their transition to ancestorhood."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu isi mkpa mmadụ ji akpọ aha ụmụ ya n'ọdịnala Igbo dịka 'Chukwuemeka' ma ọ bụ 'Ngozi'?",
+      "options": [
+        "Aha ndị a na-ahọpụta na-enweghị ihe ọ pụtara",
+        "Aha niile na-egosi ọrụ mmadụ na-arụ",
+        "Aha ndị a na-egosipụtakarị ekele, ekpere, ma ọ bụ echiche banyere Chineke ma ọ bụ ihe gbasara ọmụmụ nwa",
+        "Aha niile a na-esi n'asụsụ Bekee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Igbo personal names are often meaningful, frequently expressing gratitude, prayer, or circumstances surrounding a child's birth, as with 'Chukwuemeka' (God has done well) or 'Ngozi' (blessing)."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu nzukọ na-elekọta ọganihu na mgbasa asụsụ Igbo n'ọzụzụ akwụkwọ na mgbasa ozi n'oge a?",
+      "options": [
+        "WAEC naanị",
+        "Society for Promoting Igbo Language and Culture (SPILC)",
+        "NUC naanị",
+        "NNPC"
+      ],
+      "correctIndex": 1,
+      "explanation": "SPILC is a recognised body actively working to promote and preserve the Igbo language and culture in contemporary Nigeria."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe UNESCO kwuru maka ọdịdị asụsụ Igbo n'ọtụtụ nyocha e mere na mmalite narị afọ 21?",
+      "options": [
+        "Ọ kwuru na Igbo bụ asụsụ ọhụrụ na Naịjirịa",
+        "Ọ kwuru na Igbo bụ asụsụ kachasị ọtụtụ ndị na-asụ ya n'ụwa",
+        "E nwere nchegbu banyere mbelata ọmụmụ ya n'ụlọ, na-eme ka ndị nkụzi na ndị mmụta chọọ ịgbasi ya mbọ",
+        "Ọ kwuru na Igbo enweghị nsogbu ọ bụla"
+      ],
+      "correctIndex": 2,
+      "explanation": "Concerns about declining intergenerational transmission of Igbo at home have prompted renewed advocacy for its promotion in schools and media."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu teknụzụ ndị a na-eji taa nyere aka gbasaa mmụta na iji asụsụ Igbo, dịka ngwa mkpanaka na weebụsaịtị?",
+      "options": [
+        "Ngwa mọbaịl na weebụsaịtị mmụta asụsụ Igbo",
+        "Igwe ndozi ụgbọ ala naanị",
+        "Igwe ọrụ ubi kpọmkwem",
+        "Ọ dịghị teknụzụ a na-eji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mobile apps and websites are increasingly used to teach and promote the Igbo language among younger and diaspora learners."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ụdị mgbasa ozi (media) na-enyekarị aka ịgbasa asụsụ Igbo n'ụlọ ọrụ redio na telivishọn n'oge a?",
+      "options": [
+        "Naanị mgbasa ozi asụsụ ọzọ",
+        "Mmemme redio na telivishọn e ji Igbo mee (Igbo-language broadcasts)",
+        "Ọ dịghị mgbasa ozi Igbo dị",
+        "Naanị akwụkwọ akụkọ Bekee"
+      ],
+      "correctIndex": 1,
+      "explanation": "A number of Nigerian radio and television stations continue to run dedicated Igbo-language programming, helping sustain everyday use of the language."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu isi nsogbu ndị ọka mmụta asụsụ na-ekwukarị maka mbelata iji asụsụ Igbo n'ebe ụmụaka nọ na obodo ukwu?",
+      "options": [
+        "Ọtụtụ nne na nna na-ejikarị Bekee na ụmụ ha na-ekwurịta okwu n'ụlọ",
+        "Ọ dịghị nsogbu ọ bụla dị",
+        "Ndị mmụta Igbo abaghị ọtụtụ",
+        "Ọ dịghị asụsụ Bekee dị na Naịjirịa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Linguists commonly cite the growing preference for English in urban home communication as a key driver behind declining Igbo fluency among children."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe ndị ọrụ akwụkwọ na-eme iji kwalite mmụta asụsụ Igbo n'ime ụlọ akwụkwọ Naịjirịa n'oge a?",
+      "options": [
+        "Itinye asụsụ Igbo dịka otu asụsụ a na-akụziri ụmụ akwụkwọ na ndị ọzọ dịka ndị so na jamb elective",
+        "Ịkwụsị ule Igbo n'ụlọ akwụkwọ",
+        "Iwepụ Igbo n'usoro mmụta kpamkpam",
+        "Iji naanị Bekee kụziere ihe niile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Igbo continues to be taught as a subject in Nigerian schools and is offered as an elective subject in examinations such as JAMB and Post-UTME screenings."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ọrụ ndị na-ede n'ederede dijitalụ (dịka Facebook na WhatsApp) na-arụ n'ịgbasa asụsụ Igbo n'oge a?",
+      "options": [
+        "Ha na-enyere aka ka ndị na-asụ Igbo dee ma kparịtaa ụka n'asụsụ ahụ n'ịntanetị",
+        "Ha na-egbochi mmasị mmadụ n'Igbo",
+        "Ha adịghị enye ohere ọ bụla iji Igbo",
+        "Ha bụ naanị maka ndị na-asụ Bekee"
+      ],
+      "correctIndex": 0,
+      "explanation": "Social media platforms have become an important informal space for writing and using Igbo in everyday digital communication."
+    },
+    {
+      "subject": "Igbo",
+      "text": "Kedu ihe a na-akpọ mmemme ememme ọdịnala Igbo a na-eme kwa afọ, nke na-adọtakarị ndị njem si mba ofesi bịa hụ omenala Igbo?",
+      "options": [
+        "Ọ dịghị ememme ọdịnala Igbo dị",
+        "Ememme Krismas naanị",
+        "Ememme Sallah naanị",
+        "Ememme Iri Ji na ememme ọdịnala ndị ọzọ (annual cultural festivals)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Annual cultural festivals such as the New Yam Festival remain prominent, drawing both local participants and visitors interested in Igbo heritage."
+    }
+  ]
+}

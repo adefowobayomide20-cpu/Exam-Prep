@@ -1,0 +1,414 @@
+{
+  "subject": "General Knowledge",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "General Knowledge",
+      "text": "Ladoke Akintola University of Technology (LAUTECH) is located in which town?",
+      "options": [
+        "Oyo town",
+        "Iseyin",
+        "Ibadan",
+        "Ogbomoso"
+      ],
+      "correctIndex": 3,
+      "explanation": "LAUTECH's main campus is located in Ogbomoso, a historic Yoruba town in Oyo State."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "LAUTECH was named in honour of which prominent Nigerian political figure?",
+      "options": [
+        "Chief Ladoke Akintola",
+        "Dr Nnamdi Azikiwe",
+        "Chief Obafemi Awolowo",
+        "Alhaji Ahmadu Bello"
+      ],
+      "correctIndex": 0,
+      "explanation": "The university is named after Chief Samuel Ladoke Akintola, a former Premier of the Western Region of Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What position did Chief Ladoke Akintola, the university's namesake, hold in the old Western Region?",
+      "options": [
+        "Prime Minister of Nigeria",
+        "Sardauna of Sokoto",
+        "Governor-General of Nigeria",
+        "Premier of the Western Region"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chief S.L. Akintola served as Premier of the Western Region of Nigeria in the years leading up to the country's first military coup in 1966."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "LAUTECH was originally established as a joint venture between which two state governments before later reforms?",
+      "options": [
+        "Oyo State and Ogun State",
+        "Oyo State and Kwara State",
+        "Oyo State and Osun State",
+        "Oyo State and Ondo State"
+      ],
+      "correctIndex": 2,
+      "explanation": "LAUTECH was founded in 1990 as a jointly owned institution of the old Oyo State, and continued as a joint venture between Oyo and Osun States after Osun's creation in 1991, until later ownership changes."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian state is Ogbomoso, the host town of LAUTECH, located in?",
+      "options": [
+        "Osun State",
+        "Ondo State",
+        "Oyo State",
+        "Kwara State"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ogbomoso is one of the largest towns in Oyo State, located in south-western Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Ogbomoso is historically notable as an important town within which pre-colonial Yoruba empire's sphere of influence?",
+      "options": [
+        "The Benin Empire",
+        "The Old Oyo Empire",
+        "The Sokoto Caliphate",
+        "The Kanem-Bornu Empire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ogbomoso developed as a significant Yoruba town within the historical sphere of the Old Oyo Empire, one of the most powerful pre-colonial West African states."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the capital city of Oyo State?",
+      "options": [
+        "Iseyin",
+        "Ogbomoso",
+        "Oyo town",
+        "Ibadan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ibadan is the capital and largest city of Oyo State, and also one of the largest cities in West Africa by population."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What academic focus is LAUTECH primarily known for, as reflected in its name?",
+      "options": [
+        "Maritime studies exclusively",
+        "Theology and religious studies",
+        "Fine arts and music",
+        "Technology and applied sciences"
+      ],
+      "correctIndex": 3,
+      "explanation": "LAUTECH, as its name indicates, was established with a strong focus on technology, engineering, and applied science programmes."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The Old Oyo Empire, historically linked to the Ogbomoso area, was ruled by a monarch bearing which traditional title?",
+      "options": [
+        "Emir",
+        "Obi",
+        "Alaafin",
+        "Oba"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ruler of the Old Oyo Empire held the title of Alaafin, one of the most prestigious traditional titles among the Yoruba."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regulatory body is responsible for accrediting academic programmes in Nigerian universities, including LAUTECH?",
+      "options": [
+        "The Federal Ministry of Education alone, with no separate agency",
+        "The Joint Admissions and Matriculation Board (JAMB)",
+        "The West African Examinations Council (WAEC)",
+        "The National Universities Commission (NUC)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The NUC is the regulatory body responsible for approving and accrediting academic programmes offered by Nigerian universities, ensuring they meet minimum quality standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of a Vice-Chancellor in a Nigerian university, such as LAUTECH?",
+      "options": [
+        "Serving as the elected student union president",
+        "Serving as an external auditor of the university's accounts",
+        "Managing only the university's sports facilities",
+        "Serving as the chief executive and academic head of the university"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Vice-Chancellor is the chief executive and principal academic officer of a Nigerian university, responsible for its overall administration and academic direction."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which arm of government in Nigeria is primarily responsible for making laws?",
+      "options": [
+        "The Civil Service",
+        "The Judiciary",
+        "The Executive",
+        "The Legislature"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Legislature (the National Assembly at federal level) is the arm of government responsible for making laws, distinct from the law-interpreting Judiciary and law-enforcing Executive."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following countries shares a land border with Nigeria?",
+      "options": [
+        "Cameroon",
+        "South Africa",
+        "Ghana",
+        "Kenya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria shares land borders with Cameroon, Niger, Chad, and Benin Republic; Ghana, South Africa, and Kenya are not bordering countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the longest river in Nigeria?",
+      "options": [
+        "River Kaduna",
+        "River Ogun",
+        "River Benue",
+        "River Niger"
+      ],
+      "correctIndex": 3,
+      "explanation": "The River Niger, after which the country is named, is the longest river in Nigeria and one of the major rivers in West Africa."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Independent National Electoral Commission (INEC)?",
+      "options": [
+        "Enforcing traffic laws nationwide",
+        "Organising and supervising elections in Nigeria",
+        "Managing Nigeria's foreign embassies",
+        "Regulating the Nigerian banking sector"
+      ],
+      "correctIndex": 1,
+      "explanation": "INEC is Nigeria's independent body responsible for organising, conducting, and supervising elections at the federal and state levels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a major cash crop historically associated with Oyo State and the wider south-western Nigeria region?",
+      "options": [
+        "Tea exclusively",
+        "Rubber exclusively",
+        "Groundnut exclusively",
+        "Cocoa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cocoa has historically been a major cash crop cultivated across south-western Nigeria, including areas within Oyo State, contributing significantly to the region's economy."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the chemical symbol for oxygen?",
+      "options": [
+        "Om",
+        "O2",
+        "O",
+        "Ox"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oxygen's chemical symbol is simply 'O', as assigned on the periodic table of elements."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Saturn",
+        "Jupiter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mars is commonly called the 'Red Planet' due to iron oxide (rust) on its surface, which gives it a reddish appearance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Nigeria's national football team commonly nicknamed?",
+      "options": [
+        "The Super Eagles",
+        "The Indomitable Lions",
+        "The Elephants",
+        "The Black Stars"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria's senior men's national football team is popularly known as the Super Eagles, distinct from Ghana's Black Stars and Cameroon's Indomitable Lions."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international body is primarily responsible for maintaining international peace and security?",
+      "options": [
+        "The World Health Organization (WHO)",
+        "The International Monetary Fund (IMF)",
+        "The World Trade Organization (WTO)",
+        "The United Nations (UN)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The UN is the international organisation primarily responsible for maintaining global peace and security, alongside fostering international cooperation."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a system of government in which power is shared between a central authority and constituent states or regions?",
+      "options": [
+        "Absolute monarchy",
+        "Federalism",
+        "Confederation exclusively",
+        "Unitary system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Federalism is a system of government in which power is constitutionally divided between a central government and constituent states, as practised in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Nigerian Police Force?",
+      "options": [
+        "Interpreting the Nigerian constitution",
+        "Maintaining law and order and enforcing criminal law",
+        "Managing the country's monetary policy",
+        "Making laws for the federation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Nigerian Police Force is the primary law enforcement agency responsible for maintaining public order and enforcing criminal law across the country."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is an example of a non-communicable disease?",
+      "options": [
+        "Diabetes",
+        "Cholera",
+        "Measles",
+        "Tuberculosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diabetes is a non-communicable (non-infectious) disease related to the body's regulation of blood sugar, unlike tuberculosis, cholera, and measles, which are infectious."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest continent in the world by land area?",
+      "options": [
+        "Asia",
+        "North America",
+        "Africa",
+        "Europe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asia is the largest continent in the world both by land area and by population."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is generally credited with leading the Sokoto Jihad in the early 19th century, later founding the Sokoto Caliphate?",
+      "options": [
+        "Usman Aliyu",
+        "Muhammadu Bello",
+        "Uthman Dan Fodio",
+        "Ahmadu Bello"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uthman Dan Fodio led the Sokoto Jihad in the early 19th century, a religious and political reform movement that resulted in the founding of the Sokoto Caliphate."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of the executive arm of government?",
+      "options": [
+        "Making laws for the country",
+        "Auditing government accounts exclusively",
+        "Implementing and enforcing laws",
+        "Interpreting the constitution exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "The executive arm, headed by a President or Governor, is primarily responsible for implementing and enforcing the laws made by the legislature."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which vitamin deficiency is most commonly associated with the disease rickets in children?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rickets, a condition causing weak or soft bones in children, is most commonly associated with a deficiency of Vitamin D."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of all goods and services produced within a country's borders in a given period?",
+      "options": [
+        "Balance of Trade",
+        "Net National Income",
+        "Gross National Product (GNP)",
+        "Gross Domestic Product (GDP)"
+      ],
+      "correctIndex": 3,
+      "explanation": "GDP specifically measures the value of goods and services produced within a country's borders, regardless of the nationality of the producers."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian author wrote the celebrated novel 'Things Fall Apart'?",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Cyprian Ekwensi",
+        "Chimamanda Ngozi Adichie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chinua Achebe wrote 'Things Fall Apart' (1958), one of the most widely read and celebrated African novels in modern literary history."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does the abbreviation 'JAMB' stand for in the Nigerian education context?",
+      "options": [
+        "Joint Assessment and Moderation Bureau",
+        "Joint Academic Management Body",
+        "Junior Admissions and Monitoring Board",
+        "Joint Admissions and Matriculation Board"
+      ],
+      "correctIndex": 3,
+      "explanation": "JAMB conducts the Unified Tertiary Matriculation Examination (UTME) and coordinates admissions into Nigerian tertiary institutions."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a persistent, sustained rise in the general price level of goods and services in an economy?",
+      "options": [
+        "Deflation",
+        "Inflation",
+        "Recession",
+        "Depreciation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inflation describes an ongoing, generalised increase in prices across an economy, reducing the purchasing power of money over time."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary aim of the Economic Community of West African States (ECOWAS)?",
+      "options": [
+        "Promoting economic integration and cooperation among West African countries",
+        "Regulating global internet governance",
+        "Coordinating only military alliances in West Africa",
+        "Restricting all trade between West African nations"
+      ],
+      "correctIndex": 0,
+      "explanation": "ECOWAS aims to promote economic integration, free movement of people, and regional cooperation among its West African member states."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a major indigenous language widely spoken in Oyo State, including in Ogbomoso and Ibadan?",
+      "options": [
+        "Hausa",
+        "Igbo",
+        "Efik",
+        "Yoruba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yoruba is the predominant indigenous language spoken across Oyo State, including in towns such as Ogbomoso and Ibadan."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the legal document that formally establishes the rules and structure of governance for a country?",
+      "options": [
+        "Communique",
+        "Manifesto",
+        "Gazette",
+        "Constitution"
+      ],
+      "correctIndex": 3,
+      "explanation": "A constitution is the fundamental legal document that establishes the framework, powers, and limits of a country's system of governance."
+    }
+  ]
+}

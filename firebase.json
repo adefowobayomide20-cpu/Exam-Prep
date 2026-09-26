@@ -7,62 +7,31 @@
   "storage": {
     "rules": "storage.rules"
   },
-  "hosting": {
-    "public": "build/web",
-    "ignore": ["firebase.json", "**/.*", "!**/.well-known/**", "**/node_modules/**", "**/*.symbols"],
-    "rewrites": [
+  "hosting": [
+    {
+      "target": "flutter",
+      "public": "build/web",
+      "ignore": ["firebase.json", "**/.*", "!**/.well-known/**", "**/node_modules/**", "**/*.symbols"],
+      "rewrites": [{"source": "**", "destination": "/index.html"}],
+      "headers": [
+        {
+          "source": "/index.html",
+          "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+        }
+      ]
+    },
+    {
+      "target": "webnext",
+      "source": "web-next",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "headers": [
       {
-        "source": "**",
-        "destination": "/index.html"
+        "source": "/firebase-messaging-sw.js",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
       }
-    ],
-    "headers": [
-      {
-        "source": "/index.html",
-        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
-      },
-      {
-        "source": "/flutter_bootstrap.js",
-        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
-      },
-      {
-        "source": "/version.json",
-        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
-      },
-      {
-        "source": "/pwa_install.js",
-        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
-      },
-      {
-        "source": "/manifest.json",
-        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
-      },
-      {
-        "source": "/main.dart.@(js|wasm|mjs)",
-        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
-      },
-      {
-        "source": "/canvaskit/**",
-        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
-      },
-      {
-        "source": "/assets/**",
-        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
-      },
-      {
-        "source": "/icons/**",
-        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
-      },
-      {
-        "source": "/.well-known/apple-app-site-association",
-        "headers": [{"key": "Content-Type", "value": "application/json"}]
-      },
-      {
-        "source": "/.well-known/assetlinks.json",
-        "headers": [{"key": "Content-Type", "value": "application/json"}]
-      }
-    ]
-  },
+      ]
+    }
+  ],
   "functions": [
     {
       "source": "functions",

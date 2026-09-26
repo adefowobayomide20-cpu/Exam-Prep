@@ -1,0 +1,1206 @@
+{
+  "subject": "Economics",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "Economics",
+      "text": "Economics is best defined as the study of",
+      "options": [
+        "how banks lend money to customers",
+        "how governments print money",
+        "how companies advertise their products",
+        "how people and society choose to use scarce resources to satisfy unlimited wants"
+      ],
+      "correctIndex": 3,
+      "explanation": "Economics studies the allocation of limited (scarce) resources to meet the unlimited wants of individuals and society."
+    },
+    {
+      "subject": "Economics",
+      "text": "The economic problem arises fundamentally because",
+      "options": [
+        "banks refuse to give out loans",
+        "prices of goods are always too high",
+        "human wants are unlimited while resources to satisfy them are limited",
+        "governments refuse to print enough money"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scarcity — the gap between limited resources and unlimited wants — is the basic economic problem faced by every society."
+    },
+    {
+      "subject": "Economics",
+      "text": "The act of selecting one alternative out of several competing uses for a scarce resource is called",
+      "options": [
+        "scarcity",
+        "opportunity cost",
+        "choice",
+        "scale of preference"
+      ],
+      "correctIndex": 2,
+      "explanation": "Because resources are scarce, individuals and societies must make a choice about how to allocate them among competing uses."
+    },
+    {
+      "subject": "Economics",
+      "text": "The value of the next best alternative forgone when a choice is made is called",
+      "options": [
+        "scarcity",
+        "opportunity cost",
+        "scale of preference",
+        "choice"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opportunity cost measures what is given up (the best alternative) when one option is chosen over another."
+    },
+    {
+      "subject": "Economics",
+      "text": "An arrangement of a consumer's wants in order of importance, from the most pressing to the least pressing, is called a",
+      "options": [
+        "scale of preference",
+        "demand schedule",
+        "opportunity cost",
+        "supply schedule"
+      ],
+      "correctIndex": 0,
+      "explanation": "A scale of preference ranks wants by urgency, helping an individual decide which wants to satisfy first given limited resources."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economic system in which resources are owned and allocated mainly by private individuals through the market is called",
+      "options": [
+        "a traditional economy",
+        "capitalism (free market/free enterprise economy)",
+        "a mixed economy",
+        "socialism (command economy)"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a capitalist (free market) economy, private individuals and firms own resources, and prices set by market forces guide allocation decisions."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economic system in which resources are owned and allocated mainly by the state or government is called",
+      "options": [
+        "socialism (command/planned economy)",
+        "a traditional economy",
+        "capitalism",
+        "a mixed economy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under socialism, the government owns key resources and directs production and distribution through central planning rather than market forces."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economic system that combines features of both private enterprise and government control/ownership of resources is called a",
+      "options": [
+        "socialist economy",
+        "capitalist economy",
+        "traditional economy",
+        "mixed economy"
+      ],
+      "correctIndex": 3,
+      "explanation": "A mixed economy allows both private and public ownership, blending market forces with government intervention."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economic system in which production and distribution are guided mainly by customs and inherited practices, with little role for markets or central planning, is called a",
+      "options": [
+        "traditional economy",
+        "socialist economy",
+        "capitalist economy",
+        "mixed economy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traditional economies rely on custom, heritage, and long-established practices to decide what, how, and for whom to produce."
+    },
+    {
+      "subject": "Economics",
+      "text": "One advantage of a free market (capitalist) economy is that it",
+      "options": [
+        "guarantees equal distribution of income to all citizens",
+        "eliminates unemployment completely",
+        "removes the need for prices altogether",
+        "encourages efficiency and innovation through competition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Competition among private firms in a free market economy tends to drive efficiency, innovation, and consumer choice."
+    },
+    {
+      "subject": "Economics",
+      "text": "One disadvantage of a socialist (command) economy is that it",
+      "options": [
+        "relies entirely on foreign aid",
+        "may reduce individual incentive and innovation due to lack of private ownership",
+        "always leads to hyperinflation",
+        "cannot provide any public goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without private ownership and profit incentives, individuals and firms in a command economy may have less motivation to innovate or work efficiently."
+    },
+    {
+      "subject": "Economics",
+      "text": "The branch of economic reasoning that starts from general principles and applies them to specific situations is called",
+      "options": [
+        "inductive reasoning",
+        "positive economics",
+        "deductive reasoning",
+        "normative economics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deductive reasoning moves from general economic theories/laws to explain or predict specific outcomes."
+    },
+    {
+      "subject": "Economics",
+      "text": "The branch of economic reasoning that starts from specific observations and builds up general theories or conclusions is called",
+      "options": [
+        "deductive reasoning",
+        "positive economics",
+        "normative economics",
+        "inductive reasoning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inductive reasoning derives general economic principles from patterns observed in specific real-world data."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economic statement that describes 'what is' and can be tested against facts is called",
+      "options": [
+        "normative economics",
+        "deductive economics",
+        "positive economics",
+        "welfare economics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive economics deals with objective, factual statements that can be verified or refuted by evidence."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economic statement that expresses an opinion about 'what ought to be' is called",
+      "options": [
+        "inductive economics",
+        "positive economics",
+        "normative economics",
+        "deductive economics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Normative economics involves value judgments about what economic policy or outcomes should be, rather than objective facts."
+    },
+    {
+      "subject": "Economics",
+      "text": "The law of demand states that, all things being equal,",
+      "options": [
+        "demand always equals supply at every price",
+        "quantity demanded is unrelated to price",
+        "as the price of a good rises, the quantity demanded also rises",
+        "as the price of a good falls, the quantity demanded rises, and vice versa"
+      ],
+      "correctIndex": 3,
+      "explanation": "The law of demand describes an inverse relationship between price and quantity demanded, holding other factors constant."
+    },
+    {
+      "subject": "Economics",
+      "text": "A table showing the various quantities of a commodity that consumers are willing and able to buy at different prices is called a",
+      "options": [
+        "supply schedule",
+        "scale of preference",
+        "demand schedule",
+        "price index"
+      ],
+      "correctIndex": 2,
+      "explanation": "A demand schedule tabulates the relationship between price levels and the corresponding quantity demanded."
+    },
+    {
+      "subject": "Economics",
+      "text": "A graphical representation showing the relationship between the price of a good and the quantity demanded is called the",
+      "options": [
+        "supply curve",
+        "demand curve",
+        "Lorenz curve",
+        "production possibility curve"
+      ],
+      "correctIndex": 1,
+      "explanation": "The demand curve plots price against quantity demanded, typically sloping downward due to the law of demand."
+    },
+    {
+      "subject": "Economics",
+      "text": "A movement along a demand curve, caused only by a change in the price of the good itself, is called a",
+      "options": [
+        "change in demand",
+        "change in quantity demanded",
+        "change in supply",
+        "shift in the supply curve"
+      ],
+      "correctIndex": 1,
+      "explanation": "A change in quantity demanded refers strictly to movement along the same demand curve due to a price change of that good."
+    },
+    {
+      "subject": "Economics",
+      "text": "An entire shift of the demand curve, caused by factors other than the price of the good itself (such as income or tastes), is called a",
+      "options": [
+        "change in demand",
+        "change in quantity demanded",
+        "change in quantity supplied",
+        "movement along the demand curve"
+      ],
+      "correctIndex": 0,
+      "explanation": "A change in demand shifts the whole curve, reflecting changes in factors like income, tastes, or the price of related goods."
+    },
+    {
+      "subject": "Economics",
+      "text": "The responsiveness of quantity demanded to a change in the price of a good is called",
+      "options": [
+        "cross elasticity of demand",
+        "price elasticity of demand",
+        "income elasticity of demand",
+        "elasticity of supply"
+      ],
+      "correctIndex": 1,
+      "explanation": "Price elasticity of demand measures how much quantity demanded changes in response to a change in a good's own price."
+    },
+    {
+      "subject": "Economics",
+      "text": "Price elasticity of demand is calculated as",
+      "options": [
+        "percentage change in price divided by percentage change in quantity demanded",
+        "change in total revenue divided by change in price",
+        "change in supply divided by change in demand",
+        "percentage change in quantity demanded divided by percentage change in price"
+      ],
+      "correctIndex": 3,
+      "explanation": "This formula measures the sensitivity of quantity demanded to price changes, expressed as a ratio of percentage changes."
+    },
+    {
+      "subject": "Economics",
+      "text": "If a small change in price leads to a proportionately larger change in quantity demanded, demand is said to be",
+      "options": [
+        "elastic",
+        "unitary elastic",
+        "inelastic",
+        "perfectly inelastic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elastic demand means quantity demanded is highly responsive to price changes, with the percentage change in quantity exceeding the percentage change in price."
+    },
+    {
+      "subject": "Economics",
+      "text": "If a change in price leads to a proportionately smaller change in quantity demanded, demand is said to be",
+      "options": [
+        "inelastic",
+        "elastic",
+        "unitary elastic",
+        "perfectly elastic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inelastic demand means quantity demanded responds only slightly to price changes, common for necessities with few substitutes."
+    },
+    {
+      "subject": "Economics",
+      "text": "The responsiveness of quantity demanded to a change in consumers' income is called",
+      "options": [
+        "elasticity of supply",
+        "price elasticity of demand",
+        "income elasticity of demand",
+        "cross elasticity of demand"
+      ],
+      "correctIndex": 2,
+      "explanation": "Income elasticity of demand measures how quantity demanded changes as consumer income rises or falls."
+    },
+    {
+      "subject": "Economics",
+      "text": "For a normal good, income elasticity of demand is",
+      "options": [
+        "always greater than one",
+        "negative, since demand falls as income rises",
+        "positive, since demand rises as income rises",
+        "always exactly zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "Normal goods have positive income elasticity because demand for them increases as consumers' incomes increase."
+    },
+    {
+      "subject": "Economics",
+      "text": "For an inferior good, income elasticity of demand is",
+      "options": [
+        "always exactly one",
+        "positive, since demand rises as income rises",
+        "negative, since demand falls as income rises",
+        "always undefined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inferior goods have negative income elasticity because consumers buy less of them as their incomes rise, switching to better alternatives."
+    },
+    {
+      "subject": "Economics",
+      "text": "The responsiveness of the quantity demanded of one good to a change in the price of another good is called",
+      "options": [
+        "elasticity of supply",
+        "income elasticity of demand",
+        "cross elasticity of demand",
+        "price elasticity of demand"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cross elasticity of demand measures how the quantity demanded of one good changes when the price of a related good changes."
+    },
+    {
+      "subject": "Economics",
+      "text": "For two goods that are complements (such as bread and butter), cross elasticity of demand is",
+      "options": [
+        "infinite",
+        "zero",
+        "negative",
+        "positive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Complementary goods have negative cross elasticity: a rise in the price of one reduces demand for the other, since they are used together."
+    },
+    {
+      "subject": "Economics",
+      "text": "The law of supply states that, all things being equal,",
+      "options": [
+        "as the price of a good rises, the quantity supplied also rises, and vice versa",
+        "supply is unrelated to price",
+        "as the price of a good rises, the quantity supplied falls",
+        "supply always equals demand"
+      ],
+      "correctIndex": 0,
+      "explanation": "The law of supply describes a direct (positive) relationship between price and quantity supplied, holding other factors constant."
+    },
+    {
+      "subject": "Economics",
+      "text": "A table showing the various quantities of a commodity that producers are willing to sell at different prices is called a",
+      "options": [
+        "demand schedule",
+        "price index",
+        "supply schedule",
+        "scale of preference"
+      ],
+      "correctIndex": 2,
+      "explanation": "A supply schedule tabulates the relationship between price levels and the corresponding quantity supplied."
+    },
+    {
+      "subject": "Economics",
+      "text": "An entire shift of the supply curve, caused by factors other than price (such as production costs or technology), is called a",
+      "options": [
+        "change in quantity supplied",
+        "change in supply",
+        "movement along the supply curve",
+        "change in quantity demanded"
+      ],
+      "correctIndex": 1,
+      "explanation": "A change in supply shifts the whole curve, reflecting factors like input costs, technology, or the number of producers in the market."
+    },
+    {
+      "subject": "Economics",
+      "text": "The responsiveness of quantity supplied to a change in the price of a good is called",
+      "options": [
+        "price elasticity of supply",
+        "price elasticity of demand",
+        "cross elasticity of demand",
+        "income elasticity of demand"
+      ],
+      "correctIndex": 0,
+      "explanation": "Price elasticity of supply measures how quantity supplied responds to changes in the good's own price."
+    },
+    {
+      "subject": "Economics",
+      "text": "The point at which the quantity demanded of a good exactly equals the quantity supplied is called",
+      "options": [
+        "shortage",
+        "equilibrium",
+        "elasticity",
+        "surplus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Market equilibrium occurs where the demand and supply curves intersect, determining the equilibrium price and quantity."
+    },
+    {
+      "subject": "Economics",
+      "text": "A situation where the quantity demanded exceeds the quantity supplied at a given price is called a",
+      "options": [
+        "glut",
+        "equilibrium",
+        "shortage (excess demand)",
+        "surplus (excess supply)"
+      ],
+      "correctIndex": 2,
+      "explanation": "A shortage occurs when consumers wish to buy more than producers supply at the prevailing price, pushing price up toward equilibrium."
+    },
+    {
+      "subject": "Economics",
+      "text": "A legally imposed price above which a commodity may not be sold, aimed at protecting producers, is called a",
+      "options": [
+        "subsidised price",
+        "minimum price (price floor)",
+        "market equilibrium price",
+        "maximum price (price ceiling)"
+      ],
+      "correctIndex": 1,
+      "explanation": "A price floor (minimum price) is set above the equilibrium price to guarantee producers a certain return, often creating a persistent surplus."
+    },
+    {
+      "subject": "Economics",
+      "text": "A legally imposed price above which a commodity may not be sold, aimed at protecting consumers, is called a",
+      "options": [
+        "minimum price (price floor)",
+        "market equilibrium price",
+        "free market price",
+        "maximum price (price ceiling)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A price ceiling (maximum price) is set below the equilibrium price to keep essential goods affordable, but it often creates a shortage."
+    },
+    {
+      "subject": "Economics",
+      "text": "The four traditional factors of production are",
+      "options": [
+        "land, money, banks, and government",
+        "capital, interest, wages, and rent",
+        "land, labour, capital, and entrepreneur",
+        "labour, tax, trade, and profit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Economics identifies land, labour, capital, and entrepreneurship as the basic resources combined to produce goods and services."
+    },
+    {
+      "subject": "Economics",
+      "text": "The reward paid to the factor of production 'land' is called",
+      "options": [
+        "profit",
+        "rent",
+        "wages",
+        "interest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rent is the payment made for the use of land and other natural resources."
+    },
+    {
+      "subject": "Economics",
+      "text": "The reward paid to the factor of production 'labour' is called",
+      "options": [
+        "interest",
+        "profit",
+        "rent",
+        "wages (or salary)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wages (or salaries) are payments made to workers for their labour services."
+    },
+    {
+      "subject": "Economics",
+      "text": "The reward paid to the factor of production 'capital' is called",
+      "options": [
+        "profit",
+        "interest",
+        "wages",
+        "rent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interest is the payment made for the use of capital, such as money borrowed or invested."
+    },
+    {
+      "subject": "Economics",
+      "text": "The reward paid to the factor of production 'entrepreneur' is called",
+      "options": [
+        "profit",
+        "interest",
+        "wages",
+        "rent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Profit is the reward an entrepreneur earns for organising other factors of production and bearing business risk."
+    },
+    {
+      "subject": "Economics",
+      "text": "The law of diminishing returns states that as more units of a variable factor are added to a fixed factor,",
+      "options": [
+        "output will eventually increase at a decreasing rate",
+        "total cost will always fall",
+        "output will always fall immediately",
+        "output will always increase at a constant rate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The law of diminishing returns applies in the short run, where adding more of a variable input to fixed inputs eventually yields smaller and smaller additions to output."
+    },
+    {
+      "subject": "Economics",
+      "text": "Breaking down a production process into separate, specialised tasks performed by different workers is called",
+      "options": [
+        "opportunity cost",
+        "diminishing returns",
+        "division of labour",
+        "economies of scale"
+      ],
+      "correctIndex": 2,
+      "explanation": "Division of labour splits work into specialised tasks, which can raise efficiency and productivity."
+    },
+    {
+      "subject": "Economics",
+      "text": "One advantage of division of labour is that it",
+      "options": [
+        "removes all forms of unemployment",
+        "guarantees full employment in an economy",
+        "increases efficiency and output through specialisation",
+        "eliminates the need for factors of production"
+      ],
+      "correctIndex": 2,
+      "explanation": "By allowing workers to focus on tasks they are skilled at, division of labour tends to raise overall productivity."
+    },
+    {
+      "subject": "Economics",
+      "text": "Costs that do not change with the level of output in the short run, such as rent, are called",
+      "options": [
+        "variable costs",
+        "marginal costs",
+        "fixed costs",
+        "total costs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fixed costs remain constant regardless of how much (or little) is produced in the short run."
+    },
+    {
+      "subject": "Economics",
+      "text": "Costs that change directly with the level of output, such as raw materials, are called",
+      "options": [
+        "fixed costs",
+        "sunk costs",
+        "average fixed costs",
+        "variable costs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Variable costs rise and fall with the quantity of output produced, unlike fixed costs."
+    },
+    {
+      "subject": "Economics",
+      "text": "Total cost is calculated as",
+      "options": [
+        "total revenue minus total cost",
+        "fixed costs minus variable costs",
+        "fixed costs plus variable costs",
+        "average cost times price"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total cost combines both the constant fixed costs and the output-dependent variable costs of production."
+    },
+    {
+      "subject": "Economics",
+      "text": "The cost of producing one additional unit of output is called",
+      "options": [
+        "fixed cost",
+        "total cost",
+        "average cost",
+        "marginal cost"
+      ],
+      "correctIndex": 3,
+      "explanation": "Marginal cost measures the extra cost incurred from producing one more unit of a good."
+    },
+    {
+      "subject": "Economics",
+      "text": "Total cost divided by the quantity of output produced gives the",
+      "options": [
+        "marginal cost",
+        "total revenue",
+        "average cost",
+        "fixed cost"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average (total) cost is the cost per unit of output, found by dividing total cost by quantity produced."
+    },
+    {
+      "subject": "Economics",
+      "text": "The total amount of money a firm receives from selling its output is called",
+      "options": [
+        "marginal cost",
+        "average cost",
+        "total revenue",
+        "total cost"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total revenue equals the price per unit multiplied by the quantity of units sold."
+    },
+    {
+      "subject": "Economics",
+      "text": "The additional revenue earned from selling one more unit of output is called",
+      "options": [
+        "average revenue",
+        "marginal revenue",
+        "marginal cost",
+        "total revenue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marginal revenue measures the change in total revenue resulting from selling one extra unit."
+    },
+    {
+      "subject": "Economics",
+      "text": "A market structure in which there are many buyers and sellers, homogeneous products, and free entry and exit is called",
+      "options": [
+        "monopoly",
+        "oligopoly",
+        "perfect competition",
+        "monopolistic competition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perfect competition is characterised by many small firms selling identical products, with no single firm able to influence market price."
+    },
+    {
+      "subject": "Economics",
+      "text": "Under perfect competition, an individual firm is described as a",
+      "options": [
+        "price maker",
+        "price fixer",
+        "price taker",
+        "price controller"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since firms in perfect competition are small relative to the market and sell identical goods, they must accept the market-determined price."
+    },
+    {
+      "subject": "Economics",
+      "text": "A market structure in which a single firm is the sole supplier of a good or service, with no close substitutes, is called a",
+      "options": [
+        "oligopoly",
+        "perfect competition",
+        "monopoly",
+        "monopolistic competition"
+      ],
+      "correctIndex": 2,
+      "explanation": "A monopoly exists when one firm dominates the entire market for a product with no close substitutes available."
+    },
+    {
+      "subject": "Economics",
+      "text": "A market structure with many firms selling similar but slightly differentiated products is called",
+      "options": [
+        "monopoly",
+        "monopolistic competition",
+        "perfect competition",
+        "oligopoly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Monopolistic competition features many sellers offering differentiated products (through branding, quality, etc.), giving each some pricing power."
+    },
+    {
+      "subject": "Economics",
+      "text": "A market structure dominated by a small number of large firms, often interdependent in their pricing and output decisions, is called",
+      "options": [
+        "monopoly",
+        "perfect competition",
+        "monopolistic competition",
+        "oligopoly"
+      ],
+      "correctIndex": 3,
+      "explanation": "In an oligopoly, a few large firms dominate the market, and each firm's decisions significantly affect and are affected by its rivals."
+    },
+    {
+      "subject": "Economics",
+      "text": "The total monetary value of all final goods and services produced within a country's borders in a given period is called",
+      "options": [
+        "Personal Income",
+        "Gross National Product (GNP)",
+        "Gross Domestic Product (GDP)",
+        "Net National Product (NNP)"
+      ],
+      "correctIndex": 2,
+      "explanation": "GDP measures output produced within a country's geographical boundaries, regardless of who owns the resources used."
+    },
+    {
+      "subject": "Economics",
+      "text": "The total monetary value of goods and services produced by a country's nationals, both at home and abroad, is called",
+      "options": [
+        "Gross Domestic Product (GDP)",
+        "Net Domestic Product (NDP)",
+        "Disposable Income",
+        "Gross National Product (GNP)"
+      ],
+      "correctIndex": 3,
+      "explanation": "GNP measures output produced by a country's citizens and businesses regardless of location, unlike GDP which is location-based."
+    },
+    {
+      "subject": "Economics",
+      "text": "GNP minus depreciation (capital consumption allowance) gives the",
+      "options": [
+        "Gross Domestic Product (GDP)",
+        "Personal Income",
+        "Disposable Income",
+        "Net National Product (NNP)"
+      ],
+      "correctIndex": 3,
+      "explanation": "NNP adjusts GNP for the wear and tear (depreciation) of capital equipment used in production during the period."
+    },
+    {
+      "subject": "Economics",
+      "text": "The income actually received by individuals before personal taxes are deducted is called",
+      "options": [
+        "National Income",
+        "Gross Domestic Product",
+        "Disposable Income",
+        "Personal Income"
+      ],
+      "correctIndex": 3,
+      "explanation": "Personal income is the total income received by households from all sources, before personal income tax is deducted."
+    },
+    {
+      "subject": "Economics",
+      "text": "Personal Income minus personal income taxes gives",
+      "options": [
+        "National Income",
+        "Disposable Income",
+        "Gross National Product",
+        "Net National Product"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disposable income is what individuals actually have available to spend or save after taxes have been deducted."
+    },
+    {
+      "subject": "Economics",
+      "text": "The method of measuring national income by adding up all incomes earned by factors of production is called the",
+      "options": [
+        "income method",
+        "expenditure method",
+        "value-added method",
+        "output (product) method"
+      ],
+      "correctIndex": 0,
+      "explanation": "The income approach sums wages, rent, interest, and profit earned by all factors of production in the economy."
+    },
+    {
+      "subject": "Economics",
+      "text": "The method of measuring national income by adding up all spending on final goods and services is called the",
+      "options": [
+        "output method",
+        "income method",
+        "value-added method",
+        "expenditure method"
+      ],
+      "correctIndex": 3,
+      "explanation": "The expenditure approach sums consumption, investment, government spending, and net exports to measure national income."
+    },
+    {
+      "subject": "Economics",
+      "text": "The method of measuring national income by adding up the value of output produced by all sectors of the economy is called the",
+      "options": [
+        "expenditure method",
+        "income method",
+        "circular flow method",
+        "output (product) method"
+      ],
+      "correctIndex": 3,
+      "explanation": "The output approach totals the value added by each industry or sector to avoid double-counting intermediate goods."
+    },
+    {
+      "subject": "Economics",
+      "text": "Counting the value of a good more than once at different stages of production when measuring national income is called the problem of",
+      "options": [
+        "inflation",
+        "deflation",
+        "depreciation",
+        "double counting"
+      ],
+      "correctIndex": 3,
+      "explanation": "Double counting inflates national income figures by including the value of intermediate goods multiple times; using value-added avoids this."
+    },
+    {
+      "subject": "Economics",
+      "text": "Money can be best described as",
+      "options": [
+        "a good that cannot be exchanged for other goods",
+        "an asset that always loses its value over time",
+        "any object used only for decoration",
+        "anything generally acceptable as a medium of exchange"
+      ],
+      "correctIndex": 3,
+      "explanation": "Money serves as a widely accepted medium of exchange, facilitating trade without requiring a double coincidence of wants."
+    },
+    {
+      "subject": "Economics",
+      "text": "The function of money that allows it to be used to buy goods and services directly is called",
+      "options": [
+        "medium of exchange",
+        "standard for deferred payment",
+        "unit of account",
+        "store of value"
+      ],
+      "correctIndex": 0,
+      "explanation": "As a medium of exchange, money is accepted in transactions for goods and services, replacing the need for barter."
+    },
+    {
+      "subject": "Economics",
+      "text": "The function of money that allows prices of different goods to be compared using a common measure is called",
+      "options": [
+        "medium of exchange",
+        "store of value",
+        "standard for deferred payment",
+        "unit of account (measure of value)"
+      ],
+      "correctIndex": 3,
+      "explanation": "As a unit of account, money provides a common standard for expressing and comparing the value of different goods and services."
+    },
+    {
+      "subject": "Economics",
+      "text": "The function of money that allows wealth to be saved and used at a later date is called",
+      "options": [
+        "unit of account",
+        "legal tender",
+        "medium of exchange",
+        "store of value"
+      ],
+      "correctIndex": 3,
+      "explanation": "Money serves as a store of value, allowing purchasing power to be preserved over time (though inflation can erode this)."
+    },
+    {
+      "subject": "Economics",
+      "text": "The desire to hold money for day-to-day transactions such as buying food and paying bills is called the",
+      "options": [
+        "transactionary motive for holding money",
+        "store of value motive",
+        "precautionary motive for holding money",
+        "speculative motive for holding money"
+      ],
+      "correctIndex": 0,
+      "explanation": "The transactionary motive reflects the need to hold cash to cover routine, everyday spending."
+    },
+    {
+      "subject": "Economics",
+      "text": "The desire to hold money to meet unforeseen or emergency expenses is called the",
+      "options": [
+        "precautionary motive for holding money",
+        "unit of account motive",
+        "transactionary motive for holding money",
+        "speculative motive for holding money"
+      ],
+      "correctIndex": 0,
+      "explanation": "The precautionary motive reflects holding extra cash as a buffer against unexpected needs or emergencies."
+    },
+    {
+      "subject": "Economics",
+      "text": "The desire to hold money in order to take advantage of expected future changes in interest rates or asset prices is called the",
+      "options": [
+        "transactionary motive for holding money",
+        "precautionary motive for holding money",
+        "store of value motive",
+        "speculative motive for holding money"
+      ],
+      "correctIndex": 3,
+      "explanation": "The speculative motive involves holding money to invest later when conditions (such as interest rates or prices) become more favourable."
+    },
+    {
+      "subject": "Economics",
+      "text": "A bank that accepts deposits from the public and grants short- to medium-term loans is called a",
+      "options": [
+        "commercial bank",
+        "merchant bank",
+        "central bank",
+        "development bank"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commercial banks are the primary retail banks that handle deposits, withdrawals, and lending for individuals and businesses."
+    },
+    {
+      "subject": "Economics",
+      "text": "The bank responsible for issuing a country's currency and controlling the overall money supply is the",
+      "options": [
+        "commercial bank",
+        "merchant bank",
+        "development bank",
+        "central bank"
+      ],
+      "correctIndex": 3,
+      "explanation": "The central bank has the sole authority to issue legal tender currency and implement monetary policy for the whole economy."
+    },
+    {
+      "subject": "Economics",
+      "text": "Central bank actions aimed at controlling the money supply and interest rates to influence the economy are called",
+      "options": [
+        "monetary policy",
+        "trade policy",
+        "fiscal policy",
+        "incomes policy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monetary policy involves tools like interest rates and open market operations, used by the central bank to manage money supply and economic activity."
+    },
+    {
+      "subject": "Economics",
+      "text": "A persistent, sustained rise in the general price level of goods and services in an economy is called",
+      "options": [
+        "deflation",
+        "stagnation",
+        "disinflation",
+        "inflation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inflation reduces the purchasing power of money as prices rise generally across the economy over time."
+    },
+    {
+      "subject": "Economics",
+      "text": "Inflation caused by too much money chasing too few goods, i.e., excess aggregate demand, is called",
+      "options": [
+        "demand-pull inflation",
+        "cost-push inflation",
+        "structural inflation",
+        "imported inflation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Demand-pull inflation arises when total demand in the economy outstrips the available supply of goods and services, driving prices up."
+    },
+    {
+      "subject": "Economics",
+      "text": "Inflation caused by rising production costs, such as wages or raw material prices, being passed on to consumers is called",
+      "options": [
+        "deflation",
+        "hyperinflation",
+        "cost-push inflation",
+        "demand-pull inflation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cost-push inflation occurs when increased costs of production lead firms to raise prices to maintain profit margins."
+    },
+    {
+      "subject": "Economics",
+      "text": "Government revenue collected directly from individuals and businesses, such as personal income tax and company tax, is called",
+      "options": [
+        "direct tax",
+        "value-added tax on imports only",
+        "subsidy",
+        "indirect tax"
+      ],
+      "correctIndex": 0,
+      "explanation": "Direct taxes are levied directly on the income or wealth of individuals and firms and cannot easily be shifted to another party."
+    },
+    {
+      "subject": "Economics",
+      "text": "Government revenue collected on goods and services, such as excise duty and import duty, is called",
+      "options": [
+        "indirect tax",
+        "direct tax",
+        "personal income tax",
+        "company tax"
+      ],
+      "correctIndex": 0,
+      "explanation": "Indirect taxes are levied on goods and services and can often be passed on, at least in part, from sellers to buyers through prices."
+    },
+    {
+      "subject": "Economics",
+      "text": "The economic principle stating that a tax should be proportional to a taxpayer's ability to pay is the canon of",
+      "options": [
+        "convenience",
+        "economy",
+        "certainty",
+        "equity (ability to pay)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The canon of equity requires that taxes be fair, generally taking more from those with a greater capacity to pay."
+    },
+    {
+      "subject": "Economics",
+      "text": "The economic principle stating that the amount, time, and manner of tax payment should be clear to the taxpayer is the canon of",
+      "options": [
+        "economy",
+        "convenience",
+        "certainty",
+        "equity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The canon of certainty requires that taxpayers know exactly how much tax to pay, when, and how, without arbitrary changes."
+    },
+    {
+      "subject": "Economics",
+      "text": "The economic principle stating that taxes should be collected in a manner and at a time convenient to the taxpayer is the canon of",
+      "options": [
+        "equity",
+        "economy",
+        "certainty",
+        "convenience"
+      ],
+      "correctIndex": 3,
+      "explanation": "The canon of convenience ensures the method and timing of tax collection are easy and suitable for the taxpayer, such as deducting tax at source."
+    },
+    {
+      "subject": "Economics",
+      "text": "The economic principle stating that the cost of collecting a tax should be low relative to the revenue it generates is the canon of",
+      "options": [
+        "equity",
+        "economy",
+        "certainty",
+        "convenience"
+      ],
+      "correctIndex": 1,
+      "explanation": "The canon of economy requires that the administrative cost of collecting a tax should not be excessive compared to the revenue raised."
+    },
+    {
+      "subject": "Economics",
+      "text": "A budget in which planned government expenditure exceeds planned government revenue is called a",
+      "options": [
+        "surplus budget",
+        "deficit budget",
+        "balanced budget",
+        "zero budget"
+      ],
+      "correctIndex": 1,
+      "explanation": "A deficit budget occurs when a government plans to spend more than it expects to collect in revenue, requiring borrowing to cover the gap."
+    },
+    {
+      "subject": "Economics",
+      "text": "A budget in which planned government revenue exceeds planned government expenditure is called a",
+      "options": [
+        "deficit budget",
+        "supplementary budget",
+        "surplus budget",
+        "balanced budget"
+      ],
+      "correctIndex": 2,
+      "explanation": "A surplus budget occurs when a government expects to collect more revenue than it plans to spend."
+    },
+    {
+      "subject": "Economics",
+      "text": "A budget in which planned government revenue exactly equals planned government expenditure is called a",
+      "options": [
+        "zero-based budget",
+        "deficit budget",
+        "surplus budget",
+        "balanced budget"
+      ],
+      "correctIndex": 3,
+      "explanation": "A balanced budget occurs when total planned revenue equals total planned expenditure, with neither a surplus nor a deficit."
+    },
+    {
+      "subject": "Economics",
+      "text": "The theory stating that a country should specialise in producing goods it can make relatively more efficiently than others, and trade for the rest, is called the theory of",
+      "options": [
+        "protectionism",
+        "absolute advantage only",
+        "balance of payments",
+        "comparative cost (comparative advantage)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The theory of comparative advantage shows that countries gain from trade by specialising in goods they produce at a relatively lower opportunity cost."
+    },
+    {
+      "subject": "Economics",
+      "text": "The ratio of the prices a country receives for its exports to the prices it pays for its imports is called the",
+      "options": [
+        "balance of payments",
+        "terms of trade",
+        "exchange rate",
+        "balance of trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terms of trade compare export prices to import prices, indicating how much a country can import for a given quantity of exports."
+    },
+    {
+      "subject": "Economics",
+      "text": "Government policy of restricting imports through tariffs, quotas, or other barriers to shield domestic industries from foreign competition is called",
+      "options": [
+        "specialisation",
+        "free trade",
+        "protectionism",
+        "entrepot trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Protectionism uses trade barriers to protect local producers from cheaper or more competitive foreign goods."
+    },
+    {
+      "subject": "Economics",
+      "text": "A policy that allows goods and services to move between countries without tariffs, quotas, or other restrictions is called",
+      "options": [
+        "autarky",
+        "free trade",
+        "exchange control",
+        "protectionism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Free trade removes barriers to international trade, allowing goods and services to be exchanged based purely on market forces."
+    },
+    {
+      "subject": "Economics",
+      "text": "A deliberate reduction in the official value of a country's currency in terms of other currencies is called",
+      "options": [
+        "devaluation",
+        "deflation",
+        "appreciation",
+        "revaluation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Devaluation lowers a currency's official exchange rate, typically to make exports cheaper and imports more expensive."
+    },
+    {
+      "subject": "Economics",
+      "text": "A deliberate increase in the official value of a country's currency in terms of other currencies is called",
+      "options": [
+        "inflation",
+        "revaluation",
+        "devaluation",
+        "depreciation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Revaluation raises a currency's official exchange rate, typically making exports more expensive and imports cheaper."
+    },
+    {
+      "subject": "Economics",
+      "text": "Economic growth is best defined as",
+      "options": [
+        "a sustained increase in a country's real output (real GDP) over time",
+        "a fall in the unemployment rate only",
+        "a rise in the general price level",
+        "an increase in a country's population only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Economic growth measures the expansion of an economy's productive capacity and output over a sustained period."
+    },
+    {
+      "subject": "Economics",
+      "text": "Economic development is a broader concept than economic growth because it also includes",
+      "options": [
+        "only the increase in a country's population",
+        "only the increase in a country's GDP",
+        "only the value of a country's exports",
+        "improvements in living standards, health, education, and general welfare"
+      ],
+      "correctIndex": 3,
+      "explanation": "Economic development covers qualitative improvements in well-being (health, education, equality) beyond just growth in output."
+    },
+    {
+      "subject": "Economics",
+      "text": "A common characteristic of most developing countries is",
+      "options": [
+        "very high per capita income",
+        "very high levels of industrialisation",
+        "heavy dependence on the export of primary (agricultural or mineral) products",
+        "very low population growth rates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many developing economies rely significantly on exporting raw agricultural or mineral commodities rather than finished manufactured goods."
+    },
+    {
+      "subject": "Economics",
+      "text": "The regional body established mainly to promote economic integration and free movement of goods and people among West African states is",
+      "options": [
+        "the World Trade Organization (WTO)",
+        "the African Union (AU)",
+        "the International Monetary Fund (IMF)",
+        "the Economic Community of West African States (ECOWAS)"
+      ],
+      "correctIndex": 3,
+      "explanation": "ECOWAS was established to promote economic cooperation, free trade, and integration among West African countries."
+    },
+    {
+      "subject": "Economics",
+      "text": "The international financial institution that primarily provides short-term financial assistance to countries facing balance of payments problems is the",
+      "options": [
+        "World Trade Organization (WTO)",
+        "African Development Bank (AfDB)",
+        "International Monetary Fund (IMF)",
+        "World Bank"
+      ],
+      "correctIndex": 2,
+      "explanation": "The IMF offers financial support and policy advice to member countries experiencing balance of payments difficulties."
+    },
+    {
+      "subject": "Economics",
+      "text": "The international financial institution that primarily provides long-term loans for development and reconstruction projects is the",
+      "options": [
+        "World Trade Organization (WTO)",
+        "World Bank",
+        "Central Bank",
+        "International Monetary Fund (IMF)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The World Bank funds long-term development projects such as infrastructure, education, and health, unlike the IMF's shorter-term focus."
+    }
+  ]
+}

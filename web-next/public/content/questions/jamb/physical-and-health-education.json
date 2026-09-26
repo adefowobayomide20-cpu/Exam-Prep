@@ -1,0 +1,2431 @@
+{
+  "subject": "Physical and Health Education",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Physical and Health Education",
+      "text": "Physical Education is best defined as an educational process that primarily uses",
+      "options": [
+        "physical activity as a means to develop the total fitness and well-being of an individual",
+        "only theoretical study of sports history with no practical activity",
+        "purely academic classroom instruction with no physical activity",
+        "only competitive professional sports training"
+      ],
+      "correctIndex": 0,
+      "explanation": "Physical Education uses purposeful physical activity as an educational tool to develop the physical, mental, social, and emotional well-being of individuals."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following is a recognised general aim of Physical Education?",
+      "options": [
+        "Discouraging any form of physical activity",
+        "Eliminating team sports from the curriculum",
+        "Promoting physical fitness, health, and the development of motor skills",
+        "Focusing exclusively on producing professional athletes"
+      ],
+      "correctIndex": 2,
+      "explanation": "A core aim of Physical Education is to promote overall physical fitness, health, and the development of fundamental motor skills, benefiting all participants, not just aspiring professional athletes."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Recreation, as it relates to Physical Education, refers to",
+      "options": [
+        "medical treatment for sports injuries",
+        "purely academic study with no physical component",
+        "activities pursued during leisure time for enjoyment, relaxation, and personal fulfilment",
+        "mandatory competitive sports training with no leisure element"
+      ],
+      "correctIndex": 2,
+      "explanation": "Recreation encompasses activities people choose to engage in during their free time for enjoyment, relaxation, and personal satisfaction, often incorporating physical activity."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following is a recognised career pathway within the field of Physical Education and sports?",
+      "options": [
+        "Accounting",
+        "Pharmacy",
+        "Civil engineering",
+        "Sports coaching"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sports coaching is a well-established career pathway within Physical Education, alongside other options such as sports administration, physiotherapy, and PE teaching."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The history of organised Physical Education is often traced back significantly to the practices of",
+      "options": [
+        "ancient Greece, particularly through the Olympic Games",
+        "purely indoor academic study with no physical activity",
+        "modern 21st-century fitness trends exclusively",
+        "only 20th-century professional sports leagues"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ancient Greek civilisation, notably through the ancient Olympic Games, is widely regarded as a foundational historical influence on the development of organised physical education and competitive sport."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best describes an objective of Physical Education related to social development?",
+      "options": [
+        "Fostering teamwork, cooperation, and fair play through group physical activities",
+        "Encouraging students to avoid all interaction with peers",
+        "Discouraging sportsmanship and fair competition",
+        "Focusing exclusively on individual, solitary activities with no team component"
+      ],
+      "correctIndex": 0,
+      "explanation": "A key social objective of Physical Education is to develop important interpersonal skills such as teamwork, cooperation, and fair play, often cultivated through group and team-based physical activities."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Sprint events in track athletics typically cover distances of",
+      "options": [
+        "10km, half-marathon, and marathon distances",
+        "only distances beyond 10,000m",
+        "800m, 1500m, and 5000m",
+        "100m, 200m, and 400m"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sprint events are short-distance races, typically covering 100m, 200m, and 400m, requiring maximum speed over a relatively brief duration."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Middle-distance events in track athletics typically include races such as",
+      "options": [
+        "800m and 1500m",
+        "the marathon (42.195km)",
+        "the long jump and high jump",
+        "100m and 200m sprints"
+      ],
+      "correctIndex": 0,
+      "explanation": "Middle-distance races, such as the 800m and 1500m, require a combination of speed and endurance, positioned between short sprints and longer distance events."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Long-distance events in track athletics typically include races such as",
+      "options": [
+        "the 400m hurdles",
+        "5000m, 10,000m, and the marathon",
+        "100m and 200m sprints",
+        "the 4x100m relay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Long-distance track and road events, such as the 5000m, 10,000m, and marathon, primarily test an athlete's aerobic endurance over extended distances."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Hurdles, a track event in athletics, require athletes to",
+      "options": [
+        "run a set distance while jumping over a series of fixed barriers",
+        "throw a heavy metal ball as far as possible",
+        "jump over a bar set at increasing heights",
+        "pass a baton to teammates in sequence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hurdle races require athletes to sprint a specified distance while clearing a series of evenly spaced barriers (hurdles) without knocking them down."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In relay races, an important element of track athletics, competitors must",
+      "options": [
+        "jump over a series of hurdles individually",
+        "throw an implement rather than run",
+        "complete the entire race individually with no baton exchange",
+        "pass a baton to the next teammate within a designated exchange zone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Relay races require team members to successfully pass a baton to the next runner within a specifically marked exchange zone, with the race disqualified if the exchange occurs outside this zone."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The standard distance of the 4x100m relay refers to",
+      "options": [
+        "four athletes running 100m simultaneously side by side with no baton exchange",
+        "four separate races of 100m each scored independently",
+        "a single athlete running 400m alone",
+        "four athletes each running 100m, for a total combined distance of 400m"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 4x100m relay involves a team of four athletes, each running a 100m leg and passing the baton to the next teammate, for a total combined race distance of 400m."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A false start in a track race occurs when",
+      "options": [
+        "a runner finishes the race in first place",
+        "a runner leaves the starting blocks before the starting signal is given",
+        "a runner clears a hurdle successfully",
+        "a runner successfully passes the baton in a relay"
+      ],
+      "correctIndex": 1,
+      "explanation": "A false start occurs when an athlete begins moving from the starting blocks before the official starting signal (gun or similar) is given, which can result in disqualification under current rules."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which official in track athletics is primarily responsible for determining the order in which runners finish a race?",
+      "options": [
+        "The starter",
+        "The timekeeper exclusively, with no role in determining placing",
+        "The judge (or photo-finish official)",
+        "The groundskeeper"
+      ],
+      "correctIndex": 2,
+      "explanation": "Judges (often assisted by photo-finish technology) are responsible for determining the precise finishing order of competitors in a track race."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The long jump, a field event in athletics, requires athletes to",
+      "options": [
+        "jump over a horizontal bar for maximum height",
+        "throw a heavy implement for maximum distance",
+        "sprint down a runway and jump for maximum horizontal distance into a sand pit",
+        "run a fixed distance as quickly as possible"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the long jump, athletes sprint along a runway before jumping from a take-off board, aiming to achieve the maximum horizontal distance before landing in a sand pit."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The high jump, a field event in athletics, requires athletes to",
+      "options": [
+        "jump over a horizontal bar set at increasing heights without knocking it down",
+        "jump for maximum horizontal distance",
+        "sprint a fixed distance",
+        "throw an implement for maximum distance"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the high jump, athletes attempt to clear a horizontal bar set at progressively increasing heights, with the winner being the athlete who clears the greatest height without dislodging the bar."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The triple jump, a field event in athletics, is characterised by a sequence of",
+      "options": [
+        "throwing an implement three times in succession",
+        "a hop, a step, and a jump, performed in a single continuous motion",
+        "a single maximal jump only",
+        "three separate identical jumps with rest in between"
+      ],
+      "correctIndex": 1,
+      "explanation": "The triple jump requires athletes to perform a specific sequence of a hop, a step, and a final jump in one continuous, fluid motion, aiming for maximum combined horizontal distance."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The shot put, a throwing field event in athletics, requires athletes to",
+      "options": [
+        "jump over a horizontal bar",
+        "throw a discus-shaped implement using a spinning technique",
+        "push (rather than throw with a swinging motion) a heavy spherical metal ball for maximum distance",
+        "throw a javelin using a running approach"
+      ],
+      "correctIndex": 2,
+      "explanation": "The shot put requires athletes to 'put' (push) a heavy spherical metal ball from the shoulder, rather than throwing it with a swinging arm motion, aiming for maximum distance."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The discus throw, a field event in athletics, involves athletes",
+      "options": [
+        "jumping over a bar set at increasing heights",
+        "running with a javelin before releasing it",
+        "pushing a heavy spherical ball from the shoulder",
+        "spinning within a circle before releasing a flat, disc-shaped implement for maximum distance"
+      ],
+      "correctIndex": 3,
+      "explanation": "The discus throw involves athletes performing a rotational spinning technique within a throwing circle before releasing the flat, disc-shaped implement for maximum distance."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The javelin throw, a field event in athletics, involves athletes",
+      "options": [
+        "spinning within a circle before releasing a discus",
+        "jumping into a sand pit for maximum distance",
+        "running along an approach runway before throwing a spear-like implement for maximum distance",
+        "pushing a heavy ball from the shoulder"
+      ],
+      "correctIndex": 2,
+      "explanation": "The javelin throw requires athletes to build speed along a running approach before releasing the spear-like javelin implement, aiming for maximum throwing distance."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In football (soccer), a standard match is officiated primarily by",
+      "options": [
+        "a single umpire with no assistants",
+        "a referee, assisted by assistant referees (linesmen)",
+        "a scorekeeper with no on-field authority",
+        "a panel of judges scoring style points"
+      ],
+      "correctIndex": 1,
+      "explanation": "Football matches are officiated by a central referee, who has ultimate authority over the game, assisted by assistant referees (linesmen) who help monitor the sidelines, offside calls, and other aspects of play."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In football, an offside offence generally occurs when an attacking player is",
+      "options": [
+        "nearer to the opponent's goal line than both the ball and the second-last defender when the ball is played to them",
+        "taking a corner kick",
+        "positioned anywhere on their own half of the pitch",
+        "in possession of the ball inside their own penalty area"
+      ],
+      "correctIndex": 0,
+      "explanation": "The offside rule in football penalises an attacking player who is nearer to the opponent's goal line than both the ball and the second-last defender at the moment the ball is played to them, subject to specific exceptions."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In basketball, a standard game is typically divided into",
+      "options": [
+        "innings, similar to baseball",
+        "four quarters",
+        "three periods",
+        "two halves only, with no quarters"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standard basketball games (such as under FIBA or NBA rules) are typically divided into four quarters, though specific quarter lengths can vary between different competition levels and organisations."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In basketball, a 'travelling' violation occurs when a player",
+      "options": [
+        "takes an illegal number of steps while holding the ball without dribbling",
+        "successfully makes a three-point shot",
+        "passes the ball to a teammate legally",
+        "commits a foul against an opposing player"
+      ],
+      "correctIndex": 0,
+      "explanation": "Travelling is a basketball violation that occurs when a player holding the ball takes an excessive number of steps without dribbling it, resulting in a turnover to the opposing team."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In volleyball, a team is generally allowed a maximum of how many touches to return the ball across the net (not counting a block)?",
+      "options": [
+        "One touch only",
+        "Unlimited touches",
+        "Five touches",
+        "Three touches"
+      ],
+      "correctIndex": 3,
+      "explanation": "In standard volleyball rules, a team is permitted a maximum of three touches (not including a block contact) to return the ball successfully over the net to the opposing side."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In volleyball, which skill is primarily used to initiate play at the start of each rally?",
+      "options": [
+        "The set",
+        "The serve",
+        "The block",
+        "The dig"
+      ],
+      "correctIndex": 1,
+      "explanation": "The serve is the skill used to put the ball into play at the beginning of each rally in volleyball, typically performed from behind the back boundary line."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In handball, players are generally permitted to hold the ball for a maximum of how many seconds before passing, dribbling, or shooting?",
+      "options": [
+        "One minute",
+        "There is no time limit at all",
+        "Thirty seconds",
+        "Three seconds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Handball rules typically limit players to holding the ball for a maximum of three seconds without dribbling, passing, or shooting, encouraging fast-paced play."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In hockey (field hockey), players use which part of the stick to legally play the ball?",
+      "options": [
+        "Only the rounded (back) side of the stick",
+        "Any part of the body other than the stick",
+        "Only the flat side of the stick",
+        "Either side of the stick, flat or rounded"
+      ],
+      "correctIndex": 2,
+      "explanation": "Field hockey rules require players to play the ball using only the flat side of the stick; using the rounded back side to strike the ball is an infringement."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In cricket, a standard team consists of how many players on the field at one time?",
+      "options": [
+        "Six players",
+        "Fifteen players",
+        "Eleven players",
+        "Nine players"
+      ],
+      "correctIndex": 2,
+      "explanation": "A standard cricket team fields eleven players at any given time, following the traditional format of the game."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In cricket, a batsman is given 'out' via a 'bowled' dismissal when",
+      "options": [
+        "the batsman scores a boundary (four or six runs)",
+        "the batsman successfully completes a run",
+        "the fielding team appeals unsuccessfully",
+        "the bowler's delivery hits and dislodges the bails from the batsman's wicket"
+      ],
+      "correctIndex": 3,
+      "explanation": "A 'bowled' dismissal in cricket occurs when the bowler's delivery directly strikes the batsman's wicket and dislodges the bails, resulting in the batsman being given out."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In tennis, a standard singles match is generally won by a player who wins",
+      "options": [
+        "the majority of sets, typically best-of-three or best-of-five sets depending on the competition",
+        "a single point only",
+        "exactly one game with no further requirement",
+        "the coin toss before the match begins"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tennis matches are generally decided by winning the majority of sets played, commonly in a best-of-three format for most competitions, or best-of-five in some major men's tournaments."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In badminton, players use a racket to strike which type of projectile?",
+      "options": [
+        "A hockey ball",
+        "A shuttlecock",
+        "A tennis ball",
+        "A table tennis ball"
+      ],
+      "correctIndex": 1,
+      "explanation": "Badminton is played using a lightweight shuttlecock, struck with a racket, distinguishing it from tennis (ball) and other racket sports."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In table tennis, players must allow the ball to bounce how many times on their side of the table before returning it, under normal rally conditions?",
+      "options": [
+        "Exactly once",
+        "Not at all, it must be volleyed directly",
+        "Twice",
+        "Three times"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under standard table tennis rules, the ball must bounce exactly once on a player's side of the table before they legally return it to the opponent's side."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In basketball, a successful shot made from beyond the designated arc is awarded how many points?",
+      "options": [
+        "Two points, the same as any other shot",
+        "One point",
+        "Five points",
+        "Three points"
+      ],
+      "correctIndex": 3,
+      "explanation": "A successful field goal made from beyond the three-point arc in basketball is awarded three points, compared to two points for shots made inside the arc."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Floor activities, a component of gymnastics, are typically performed",
+      "options": [
+        "on a padded mat, involving a sequence of tumbling and balance movements without additional apparatus",
+        "exclusively on a raised balance beam",
+        "exclusively using a vaulting box",
+        "exclusively on parallel bars"
+      ],
+      "correctIndex": 0,
+      "explanation": "Floor exercises in gymnastics are performed on a padded mat, combining tumbling, balance, and flexibility movements without the use of additional apparatus."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The vaulting box, a piece of gymnastics apparatus, is primarily used for",
+      "options": [
+        "balance beam routines exclusively",
+        "performing vaulting movements, where an athlete runs, springs off a board, and executes movements over the box",
+        "floor tumbling exclusively",
+        "rhythmic ribbon exercises exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vaulting box (or vaulting horse/table) is used for vaulting exercises, in which an athlete sprints toward the apparatus, springs off a springboard, and performs specific movements while passing over it."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Parallel bars, a piece of apparatus used in artistic gymnastics, primarily require athletes to",
+      "options": [
+        "run and jump over a raised bar",
+        "throw an implement for distance",
+        "perform swinging, balancing, and strength movements while supporting themselves between two raised, parallel bars",
+        "perform floor tumbling exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parallel bars require gymnasts to perform a sequence of swinging, balancing, and strength-based movements while supporting their body weight between two raised, parallel horizontal bars."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Rhythmic gymnastics is particularly distinguished from artistic gymnastics by its incorporation of",
+      "options": [
+        "exclusive use of parallel bars",
+        "handheld apparatus such as ribbons, hoops, and balls, combined with dance-like movements",
+        "the complete absence of any music accompaniment",
+        "exclusive use of the vaulting box"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rhythmic gymnastics distinctively incorporates handheld apparatus, such as ribbons, hoops, balls, and clubs, combined with expressive, dance-like movements, typically performed to music."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Traditional folk dances, an important component of dance within Physical Education, are generally characterised by",
+      "options": [
+        "steps identical across all cultures worldwide with no local variation",
+        "movements and steps rooted in the cultural traditions and history of a particular community",
+        "movements exclusively performed using gymnastics apparatus",
+        "purely modern, internationally standardised dance steps with no cultural connection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traditional folk dances reflect and preserve the specific cultural heritage, customs, and history of the particular community or region from which they originate."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best describes a key physical benefit of participating in gymnastics and dance activities?",
+      "options": [
+        "Improved flexibility, balance, coordination, and overall body control",
+        "Decreased overall physical fitness",
+        "No measurable physical benefit whatsoever",
+        "Exclusive development of upper body strength with no other benefit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Regular participation in gymnastics and dance activities helps develop important physical attributes, including flexibility, balance, coordination, and overall body control."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Long bones, a type of bone found in the human skeletal system, are typically found in locations such as the",
+      "options": [
+        "vertebrae exclusively",
+        "wrist and ankle exclusively",
+        "arms and legs (e.g., the femur and humerus)",
+        "skull"
+      ],
+      "correctIndex": 2,
+      "explanation": "Long bones, characterised by their length exceeding their width, are typically found in the limbs, such as the femur (thigh bone) and humerus (upper arm bone)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Short bones, a type of bone found in the human skeletal system, are typically found in locations such as the",
+      "options": [
+        "skull",
+        "ribs",
+        "wrist (carpals) and ankle (tarsals)",
+        "arms and legs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Short bones are roughly cube-shaped and are typically found in areas requiring stability and limited movement, such as the carpal bones of the wrist and tarsal bones of the ankle."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Flat bones, a type of bone found in the human skeletal system, are typically found in locations such as the",
+      "options": [
+        "fingers and toes",
+        "skull and ribs",
+        "wrist and ankle",
+        "upper arm and thigh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flat bones, characterised by their thin, often curved shape, are typically found in areas requiring protection of internal organs, such as the skull (protecting the brain) and the ribs (protecting the chest cavity)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A ball-and-socket joint, a type of joint in the human body, permits movement",
+      "options": [
+        "in only one plane, like a door hinge",
+        "only in a rotating motion around a single axis",
+        "with almost no movement at all",
+        "in almost all directions, as seen at the shoulder and hip"
+      ],
+      "correctIndex": 3,
+      "explanation": "A ball-and-socket joint, where a rounded bone head fits into a cup-like socket, allows the widest range of movement of any joint type, as seen at the shoulder and hip."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A hinge joint, a type of joint in the human body, permits movement",
+      "options": [
+        "with no movement at all",
+        "in all directions, as seen at the shoulder",
+        "in one plane only, similar to a door hinge, as seen at the elbow and knee",
+        "only a gliding motion between flat bone surfaces"
+      ],
+      "correctIndex": 2,
+      "explanation": "A hinge joint allows movement (flexion and extension) in a single plane, similar to the mechanical action of a door hinge, as seen at the elbow and knee joints."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Flexion, a type of joint movement, refers to",
+      "options": [
+        "moving a limb away from the midline of the body",
+        "rotating a limb around its own axis",
+        "increasing the angle between two body parts at a joint",
+        "decreasing the angle between two body parts at a joint, such as bending the elbow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Flexion describes a joint movement that decreases the angle between connected body segments, such as bending the arm at the elbow."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Extension, a type of joint movement, refers to",
+      "options": [
+        "decreasing the angle between two body parts at a joint",
+        "moving a limb toward the midline of the body",
+        "rotating a limb around its own axis",
+        "increasing the angle between two body parts at a joint, such as straightening the elbow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Extension describes a joint movement that increases the angle between connected body segments, such as straightening a previously bent arm at the elbow, the opposite of flexion."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Abduction, a type of joint movement, refers to",
+      "options": [
+        "moving a limb or body part toward the midline of the body",
+        "decreasing the angle at a joint",
+        "rotating a limb around its own axis",
+        "moving a limb or body part away from the midline of the body"
+      ],
+      "correctIndex": 3,
+      "explanation": "Abduction describes a movement that takes a limb or body part away from the central midline of the body, such as raising an arm out to the side."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Skeletal (voluntary) muscles, a type of muscle in the human body, are characterised by being",
+      "options": [
+        "incapable of contracting or producing any movement",
+        "under entirely involuntary control, such as the heart muscle",
+        "found exclusively within the walls of internal organs",
+        "under conscious, voluntary control, and typically attached to bones to produce movement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Skeletal muscles are voluntary muscles, meaning they can be consciously controlled, and are typically attached to bones via tendons, enabling deliberate body movement."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Regular exercise generally affects skeletal muscle fibres by",
+      "options": [
+        "increasing their size (hypertrophy) and improving their strength and endurance capacity",
+        "converting all muscle fibres into bone tissue",
+        "causing them to permanently shrink and weaken",
+        "having no measurable effect on muscle tissue whatsoever"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consistent exercise, particularly resistance training, generally leads to muscle fibre hypertrophy (increased size) and improved overall strength and endurance capacity."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following is an example of a joint movement classified as rotation?",
+      "options": [
+        "Turning the head from side to side",
+        "Straightening the elbow",
+        "Raising the arm out to the side",
+        "Bending the knee"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rotation describes a joint movement in which a body part turns around its own longitudinal axis, such as turning the head from side to side at the neck."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The human heart is best described as a",
+      "options": [
+        "component of the digestive system",
+        "purely passive storage organ for blood with no pumping function",
+        "structure responsible for filtering air in the lungs",
+        "muscular pump responsible for circulating blood throughout the body"
+      ],
+      "correctIndex": 3,
+      "explanation": "The heart is a powerful, muscular organ that rhythmically contracts to pump blood throughout the circulatory system, delivering oxygen and nutrients to body tissues."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The human heart consists of how many main chambers?",
+      "options": [
+        "Six chambers",
+        "Two chambers only",
+        "Three chambers only",
+        "Four (two atria and two ventricles)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The human heart has four chambers: two upper chambers (the left and right atria) and two lower chambers (the left and right ventricles)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Oxygenated blood, pumped from the left ventricle of the heart, is transported throughout the body primarily via the",
+      "options": [
+        "pulmonary veins exclusively",
+        "aorta and systemic arteries",
+        "vena cava exclusively",
+        "pulmonary artery exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen-rich blood leaves the heart's left ventricle via the aorta, the body's largest artery, which branches into systemic arteries supplying oxygenated blood throughout the body."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Deoxygenated blood returning from the body to the heart enters primarily through the",
+      "options": [
+        "vena cava, into the right atrium",
+        "pulmonary veins, into the left atrium",
+        "aorta, into the left ventricle",
+        "coronary arteries exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deoxygenated blood returning from body tissues enters the heart's right atrium via the vena cava (the superior and inferior vena cava), before being pumped onward to the lungs for reoxygenation."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Breathing (respiration mechanics) involves the coordinated action primarily of the",
+      "options": [
+        "digestive system muscles",
+        "skeletal muscles of the arms exclusively",
+        "diaphragm and intercostal muscles",
+        "heart muscle exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Breathing mechanics rely on the coordinated contraction and relaxation of the diaphragm (a large muscle beneath the lungs) and the intercostal muscles between the ribs, changing the volume of the chest cavity."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "During inhalation, the diaphragm generally",
+      "options": [
+        "has no role in the breathing process",
+        "relaxes and domes upward, decreasing chest cavity volume",
+        "contracts and flattens, increasing the volume of the chest cavity to draw air into the lungs",
+        "stops moving entirely"
+      ],
+      "correctIndex": 2,
+      "explanation": "During inhalation, the diaphragm contracts and moves downward, flattening its dome shape and increasing the volume of the chest cavity, which draws air into the lungs."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Oxygen debt, a physiological concept in exercise science, refers to",
+      "options": [
+        "the additional oxygen the body requires after strenuous exercise to restore normal metabolic conditions",
+        "a permanent, irreversible reduction in lung capacity",
+        "the complete absence of any oxygen in the bloodstream",
+        "the total amount of oxygen inhaled during a single breath"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oxygen debt refers to the extra oxygen consumption needed after intense exercise to help the body recover, replenish energy stores, and clear metabolic by-products such as lactic acid."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Aerobic exercise is characterised by activities that are",
+      "options": [
+        "performed at a moderate intensity over a sustained period, primarily using oxygen to produce energy",
+        "performed without any cardiovascular involvement whatsoever",
+        "purely stationary with no movement involved",
+        "extremely short and intense, relying on energy production without oxygen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aerobic exercise involves sustained, moderate-intensity activity (such as jogging or swimming) in which the body primarily uses oxygen to generate the energy needed for continued effort."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Anaerobic exercise is characterised by activities that are",
+      "options": [
+        "always performed for durations exceeding one hour",
+        "long, sustained, moderate-intensity efforts using oxygen throughout",
+        "short, intense bursts of effort, where energy is produced without sufficient oxygen supply",
+        "purely passive with no muscular exertion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anaerobic exercise involves brief, high-intensity bursts of effort (such as sprinting or heavy weightlifting), during which the body's energy demands exceed the available oxygen supply, relying on alternative energy pathways."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best illustrates the difference between aerobic and anaerobic exercise?",
+      "options": [
+        "Both long-distance running and 100m sprints are identical in their energy production",
+        "Long-distance running is anaerobic, while sprinting is aerobic",
+        "Long-distance running is primarily aerobic, while a 100m sprint is primarily anaerobic",
+        "Neither activity involves any form of energy production"
+      ],
+      "correctIndex": 2,
+      "explanation": "Long-distance running relies primarily on sustained aerobic (oxygen-based) energy production, while a short, maximal-effort 100m sprint relies primarily on rapid anaerobic energy pathways."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Regular cardiovascular (aerobic) exercise generally has which effect on the heart over time?",
+      "options": [
+        "It has no effect whatsoever on cardiovascular function",
+        "It can strengthen the heart muscle, improving its efficiency in pumping blood",
+        "It permanently weakens the heart muscle",
+        "It stops the heart from beating regularly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consistent aerobic exercise training generally strengthens the heart muscle over time, improving its pumping efficiency and overall cardiovascular fitness."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A sprain, a common sports injury, refers to",
+      "options": [
+        "an injury to a ligament, typically caused by overstretching or tearing",
+        "a break in a bone",
+        "a break in the skin causing bleeding",
+        "an injury to a muscle or tendon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sprain specifically involves damage to a ligament (the connective tissue linking bones at a joint), typically from overstretching or partial/complete tearing due to sudden twisting or impact."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A strain, a common sports injury, refers to",
+      "options": [
+        "a break in a bone",
+        "a dislocation of a joint",
+        "an injury to a ligament specifically",
+        "an injury to a muscle or tendon, typically caused by overstretching or overexertion"
+      ],
+      "correctIndex": 3,
+      "explanation": "A strain involves damage to a muscle or tendon, often resulting from overstretching, overexertion, or sudden excessive force during physical activity."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A dislocation, a sports injury affecting a joint, occurs when",
+      "options": [
+        "the skin is cut, causing bleeding",
+        "a muscle is torn or overstretched",
+        "the bones forming a joint are forced out of their normal alignment",
+        "a ligament is overstretched without bone displacement"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dislocation occurs when the bones that form a joint are displaced from their normal anatomical position, often requiring prompt medical attention to safely realign them."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A fracture, a serious injury affecting bone, refers to",
+      "options": [
+        "a minor bruise with no bone involvement",
+        "a break or crack in a bone",
+        "an injury limited to a muscle only",
+        "an injury limited to a ligament only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fracture specifically refers to a break, crack, or other structural disruption of a bone, ranging in severity from a hairline crack to a complete break."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A muscle cramp, a common exercise-related condition, is best described as",
+      "options": [
+        "a permanent loss of muscle function",
+        "a break in the bone underlying the muscle",
+        "a type of skin injury causing bleeding",
+        "a sudden, involuntary, and often painful muscle contraction"
+      ],
+      "correctIndex": 3,
+      "explanation": "A muscle cramp is a sudden, involuntary, and often painful contraction of a muscle, which can occur during or after physical exertion, sometimes related to fatigue, dehydration, or electrolyte imbalance."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "When managing external bleeding as a first aid measure, the initial recommended action is generally to",
+      "options": [
+        "apply direct, firm pressure to the wound using a clean cloth or dressing",
+        "vigorously massage the surrounding area",
+        "immediately remove any embedded object from the wound",
+        "submerge the wound in cold water for an extended period"
+      ],
+      "correctIndex": 0,
+      "explanation": "Applying direct, firm pressure to a bleeding wound with a clean cloth or dressing is a fundamental first aid technique to help control and reduce blood loss."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Cardiopulmonary Resuscitation (CPR) is an emergency procedure primarily used when a person",
+      "options": [
+        "has a common cold",
+        "is not breathing and has no detectable pulse, to help maintain blood circulation and oxygen delivery",
+        "has a mild muscle cramp",
+        "has a minor cut requiring a simple bandage"
+      ],
+      "correctIndex": 1,
+      "explanation": "CPR is a critical emergency procedure performed when someone's breathing and heartbeat have stopped, using chest compressions (and often rescue breaths) to manually maintain blood circulation and oxygen delivery until further medical help arrives."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The R.I.C.E. method (Rest, Ice, Compression, Elevation) is a common first aid approach primarily used for managing",
+      "options": [
+        "soft tissue injuries such as sprains and strains",
+        "common respiratory infections",
+        "severe open fractures requiring surgery",
+        "cardiac arrest requiring CPR"
+      ],
+      "correctIndex": 0,
+      "explanation": "The R.I.C.E. method is a widely recommended initial first aid approach for managing soft tissue injuries like sprains and strains, helping to reduce pain, swelling, and further tissue damage."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A balanced diet is best described as one that",
+      "options": [
+        "eliminates all forms of carbohydrates entirely",
+        "provides all the essential nutrients in appropriate proportions needed for good health",
+        "consists of only a single type of food eaten exclusively",
+        "contains excessive amounts of sugar and fat with no other nutrients"
+      ],
+      "correctIndex": 1,
+      "explanation": "A balanced diet supplies all essential nutrient classes (carbohydrates, proteins, fats, vitamins, minerals, water) in the correct proportions needed to maintain good health."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Carbohydrates, a major class of food nutrients, primarily function to",
+      "options": [
+        "provide essential fatty acids exclusively",
+        "build and repair body tissues, as the primary function",
+        "provide the body's main and most readily available source of energy",
+        "regulate body processes as the primary function, like a hormone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbohydrates serve as the body's primary and most readily accessible source of energy, fuelling everyday physical and mental activity."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Proteins, a major class of food nutrients, primarily function to",
+      "options": [
+        "provide bulk (fibre) to aid digestion, as their primary function",
+        "serve as the body's primary and most readily available energy source",
+        "supply essential vitamins exclusively",
+        "build, repair, and maintain body tissues"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proteins are essential for building, repairing, and maintaining body tissues, including muscles, and also play roles in enzyme and hormone production."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Fats (lipids), a major class of food nutrients, primarily function to",
+      "options": [
+        "regulate blood sugar levels as their primary function",
+        "provide the body's primary source of dietary fibre",
+        "provide a concentrated source of energy and support the absorption of fat-soluble vitamins",
+        "build muscle tissue as their primary function"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fats provide a highly concentrated source of energy and are necessary for the absorption of fat-soluble vitamins (A, D, E, and K), among other important physiological functions."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Vitamins, a class of essential nutrients required in small amounts, primarily function to",
+      "options": [
+        "serve as the body's primary source of energy",
+        "provide the majority of the body's caloric intake",
+        "build significant amounts of muscle tissue",
+        "regulate various body processes and support overall metabolic function"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vitamins are required in relatively small quantities but play essential roles in regulating numerous body processes and supporting overall metabolic health."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Minerals, a class of essential nutrients, are important for functions such as",
+      "options": [
+        "providing the majority of the body's dietary fibre",
+        "bone development (calcium) and oxygen transport in the blood (iron)",
+        "serving as the body's primary source of energy",
+        "regulating body temperature exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Minerals serve various essential physiological roles, such as calcium supporting bone development and strength, and iron being essential for oxygen transport within red blood cells."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Water, though not a traditional 'food' nutrient, is essential for the body mainly because it",
+      "options": [
+        "provides significant caloric energy",
+        "is only needed in very small, negligible amounts",
+        "regulates body temperature, transports nutrients, and supports numerous vital physiological processes",
+        "builds muscle tissue directly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water is essential for regulating body temperature, transporting nutrients and waste products, and supporting virtually all vital physiological processes, despite providing no caloric energy itself."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "An eating disorder, a serious health condition related to nutrition, is best described as",
+      "options": [
+        "a condition that has no impact on physical health",
+        "a temporary, harmless change in appetite",
+        "simply a strong personal preference for a particular type of food",
+        "a psychological condition characterised by abnormal or disturbed eating habits that negatively affect health"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eating disorders are serious psychological conditions involving abnormal or disturbed eating patterns (such as anorexia nervosa or bulimia) that can significantly harm physical and mental health."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Anorexia nervosa, an example of an eating disorder, is generally characterised by",
+      "options": [
+        "excessive, uncontrolled overeating with no associated distress",
+        "a purely physical condition with no psychological component",
+        "a complete absence of any body image concerns",
+        "severe restriction of food intake, often driven by an intense fear of gaining weight"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anorexia nervosa is characterised by severely restricted food intake, often driven by an intense fear of weight gain and a distorted perception of body image."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best represents general dietary advice for maintaining good personal health?",
+      "options": [
+        "Eating only one type of food exclusively for extended periods",
+        "Consuming a varied, balanced diet alongside adequate hydration and regular physical activity",
+        "Completely eliminating all classes of nutrients from the diet",
+        "Avoiding water intake as much as possible"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maintaining good personal health is generally best supported by a varied and balanced diet, adequate hydration, and regular physical activity, working together to support overall well-being."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Malaria, a communicable disease of significant concern in Nigeria, is primarily transmitted through",
+      "options": [
+        "airborne respiratory droplets",
+        "the bite of an infected female Anopheles mosquito",
+        "contaminated water sources exclusively",
+        "direct person-to-person contact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Malaria is caused by Plasmodium parasites transmitted to humans through the bite of infected female Anopheles mosquitoes, making mosquito control a key prevention strategy."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "HIV/AIDS, a significant communicable disease, is primarily transmitted through",
+      "options": [
+        "airborne respiratory droplets, similar to the common cold",
+        "contact with infected bodily fluids, such as blood or through unprotected sexual contact",
+        "casual social contact, such as shaking hands",
+        "contaminated food alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "HIV is primarily transmitted through contact with certain infected bodily fluids, notably through unprotected sexual contact, sharing contaminated needles, or from mother to child during childbirth or breastfeeding."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Tuberculosis (TB), a significant communicable disease, primarily affects which part of the body?",
+      "options": [
+        "Exclusively the skin",
+        "The lungs, though it can also affect other organs",
+        "Exclusively the digestive system",
+        "Exclusively the bones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tuberculosis is a bacterial infection that primarily affects the lungs, though it can also spread to and affect other organs in more severe cases."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Tuberculosis is primarily transmitted between people through",
+      "options": [
+        "direct skin contact alone",
+        "insect bites",
+        "contaminated water sources",
+        "airborne respiratory droplets, such as from coughing or sneezing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuberculosis spreads primarily through airborne respiratory droplets released when an infected person coughs, sneezes, or speaks, making it a highly contagious airborne disease."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Cholera, a significant communicable disease, is primarily transmitted through",
+      "options": [
+        "airborne respiratory droplets",
+        "consumption of water or food contaminated with the cholera bacterium",
+        "direct skin-to-skin contact alone",
+        "insect bites"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cholera is caused by ingesting water or food contaminated with the bacterium Vibrio cholerae, making safe water supply and sanitation crucial for prevention."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "COVID-19, a significant communicable disease, is primarily transmitted through",
+      "options": [
+        "contaminated water sources exclusively",
+        "genetic inheritance from parents",
+        "respiratory droplets and aerosols released when an infected person breathes, talks, coughs, or sneezes",
+        "insect bites exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "COVID-19, caused by the SARS-CoV-2 virus, spreads primarily through respiratory droplets and aerosols released when an infected person breathes, talks, coughs, or sneezes."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following is a recommended general prevention measure against communicable respiratory diseases such as tuberculosis and COVID-19?",
+      "options": [
+        "Practising good respiratory hygiene, such as covering coughs and sneezes",
+        "Deliberately sharing personal items with infected individuals",
+        "Avoiding all forms of vaccination",
+        "Ignoring any recommended public health guidelines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Good respiratory hygiene practices, such as covering coughs and sneezes and practising proper hand hygiene, are important general measures for reducing the spread of airborne communicable diseases."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Hypertension (high blood pressure), a significant non-communicable disease, refers to a condition in which",
+      "options": [
+        "red blood cell shape becomes abnormally sickle-shaped",
+        "blood sugar levels are consistently too low",
+        "the force of blood against artery walls is consistently too high",
+        "abnormal cell growth forms a malignant tumour"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hypertension is a chronic condition characterised by persistently elevated blood pressure, which can increase the risk of serious complications such as heart disease and stroke if left unmanaged."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Diabetes, a significant non-communicable disease, is primarily characterised by",
+      "options": [
+        "an infection caused by a virus",
+        "an infection caused by a bacterium",
+        "the body's inability to properly regulate blood glucose (sugar) levels",
+        "an abnormally low blood pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diabetes is a chronic metabolic condition in which the body cannot effectively regulate blood glucose levels, either due to insufficient insulin production or ineffective insulin use."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Cancer, a significant non-communicable disease, is generally characterised by",
+      "options": [
+        "the uncontrolled growth and spread of abnormal cells within the body",
+        "a bacterial infection of the respiratory system",
+        "a temporary and easily reversible imbalance in blood pressure",
+        "a viral infection transmitted through mosquito bites"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cancer is fundamentally characterised by the uncontrolled growth and potential spread of abnormal cells, which can disrupt normal body function and, in some cases, spread to other parts of the body."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Sickle Cell Anaemia, a significant genetically inherited non-communicable disease particularly prevalent in Nigeria, is characterised by",
+      "options": [
+        "a condition caused exclusively by poor diet",
+        "red blood cells taking on an abnormal, rigid, sickle (crescent) shape",
+        "a bacterial infection of the lungs",
+        "an infection caused by a mosquito-borne parasite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sickle Cell Anaemia is a genetically inherited blood disorder in which red blood cells become abnormally rigid and sickle (crescent) shaped, impairing their ability to carry oxygen efficiently and causing various health complications."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best distinguishes a communicable disease from a non-communicable disease?",
+      "options": [
+        "A communicable disease can be transmitted from person to person (or via a vector), while a non-communicable disease generally cannot",
+        "Both types of disease are always transmitted in exactly the same way",
+        "There is no meaningful distinction between the two categories",
+        "A non-communicable disease can be transmitted from person to person, while a communicable disease cannot"
+      ],
+      "correctIndex": 0,
+      "explanation": "The fundamental distinction lies in transmissibility: communicable diseases can spread between individuals (directly, or via a vector like a mosquito), whereas non-communicable diseases (like hypertension or diabetes) generally arise from other factors, such as genetics or lifestyle, and cannot be 'caught' from another person."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Alcohol abuse, a significant substance abuse concern, can lead to health effects including",
+      "options": [
+        "no significant health risks whatsoever",
+        "liver damage and impaired cognitive and motor function",
+        "enhanced athletic performance with no negative effects",
+        "improved liver function over time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chronic alcohol abuse is associated with serious health consequences, including liver damage (such as cirrhosis) and impaired cognitive and motor functioning."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Tobacco use, a significant substance abuse concern, is particularly associated with an increased risk of",
+      "options": [
+        "improved lung capacity and cardiovascular health",
+        "no significant long-term health consequences",
+        "lung cancer and various respiratory and cardiovascular diseases",
+        "enhanced athletic performance with no health risks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tobacco use is a well-established major risk factor for lung cancer and a range of other serious respiratory and cardiovascular diseases."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Narcotics, a category of drugs subject to abuse, are generally characterised by their",
+      "options": [
+        "role as an essential daily nutrient",
+        "complete safety with no risk of dependency or harm",
+        "exclusive use as performance-enhancing supplements",
+        "potential to cause dependency and significantly impair physical and mental functioning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Narcotic drugs, when abused, carry a significant risk of dependency (addiction) and can severely impair both physical health and mental/cognitive functioning."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Performance-enhancing drugs (doping), when used by athletes, are generally prohibited in competitive sport mainly because they",
+      "options": [
+        "provide an unfair advantage and can pose serious risks to the athlete's health",
+        "are required by international sports regulations",
+        "have no effect whatsoever on athletic performance",
+        "are completely safe and universally permitted in all competitions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Performance-enhancing drugs are banned in competitive sport primarily because they create an unfair competitive advantage and often carry significant risks to the athlete's long-term health."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The use of performance-enhancing drugs (doping) in sport can result in which of the following consequences for an athlete's career?",
+      "options": [
+        "An automatic upgrade in competition ranking",
+        "Automatic guaranteed victory with no possible penalty",
+        "No consequences whatsoever, even if detected",
+        "Disqualification, suspension, or a permanent ban from competition if detected"
+      ],
+      "correctIndex": 3,
+      "explanation": "Athletes found to have used banned performance-enhancing substances typically face serious sporting sanctions, including disqualification from results, suspension, or even a permanent ban from competition."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best describes a general strategy for preventing drug and substance abuse, particularly among young people?",
+      "options": [
+        "Providing no information at all about the risks involved",
+        "Actively promoting the use of performance-enhancing drugs in youth sports",
+        "Encouraging early and unrestricted exposure to addictive substances",
+        "Education about the risks and harmful effects of drug and substance abuse"
+      ],
+      "correctIndex": 3,
+      "explanation": "Providing clear, accurate education about the risks and harmful effects of drug and substance abuse is a widely recognised and important preventive strategy, particularly for young people."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A safe and reliable water supply is important for community health mainly because it helps",
+      "options": [
+        "increase the spread of airborne respiratory diseases",
+        "cause an increase in non-communicable diseases exclusively",
+        "have no meaningful impact on public health",
+        "prevent waterborne diseases such as cholera and typhoid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Access to safe, clean water is essential for preventing waterborne diseases like cholera and typhoid, which spread through contaminated water sources."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Proper waste disposal systems are important for community health mainly because they help",
+      "options": [
+        "increase the breeding of disease-carrying pests and organisms",
+        "have no impact on public health whatsoever",
+        "are only relevant to industrial factories, not residential communities",
+        "prevent the spread of disease-causing organisms and reduce environmental contamination"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective waste disposal systems help prevent the accumulation of waste that can breed disease-carrying pests and contaminate the environment, protecting overall community health."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Pollution control measures are important for community health mainly because they help",
+      "options": [
+        "reduce harmful exposure to contaminated air, water, and soil",
+        "have no relevance to human health outcomes",
+        "increase the concentration of harmful pollutants in the environment",
+        "exclusively benefit wildlife with no impact on human communities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pollution control measures aim to limit the release of harmful substances into the air, water, and soil, directly reducing human exposure to environmental health hazards."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The World Health Organization (WHO), an important international health agency, is primarily responsible for",
+      "options": [
+        "regulating the food and drug industries of a single specific country",
+        "manufacturing pharmaceutical products for individual countries",
+        "providing direct primary healthcare exclusively within Nigeria",
+        "coordinating international public health efforts and providing global health guidance"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WHO is a specialised United Nations agency responsible for coordinating international public health initiatives and providing global guidance and leadership on health matters."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which distinction most accurately separates the 'narrow' traditional view of Physical Education from its 'modern' encyclopaedic scope?",
+      "options": [
+        "The modern view expands beyond mere physical training to embrace health education, recreation, dance, and aquatics as integrated components",
+        "The modern view restricts Physical Education strictly to competitive interschool sports",
+        "The narrow view includes intramural and extramural programmes while the modern view excludes them",
+        "There is no meaningful distinction; both views are identical in practice"
+      ],
+      "correctIndex": 0,
+      "explanation": "The modern, encyclopaedic conception of Physical Education broadens the traditional 'physical training' focus to integrate health education, recreation, dance, gymnastics, and aquatics as interconnected components of total human development."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In Ancient Greece, the Olympic Games and associated gymnastic training were primarily organised to",
+      "options": [
+        "provide purely recreational entertainment devoid of religious or civic meaning",
+        "honour the gods, prepare citizens physically and militarily, and celebrate ideals of balanced body and mind (kalokagathia)",
+        "train soldiers exclusively for professional standing armies",
+        "satisfy trade guild requirements for craftsmen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ancient Greek physical culture combined religious festival, civic pride, military preparedness, and the philosophical ideal of a harmonious, balanced development of body and mind."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Physical training in Ancient Rome differed markedly from the Greek approach chiefly because Roman practice",
+      "options": [
+        "emphasised aesthetic and intellectual balance over utilitarian ends",
+        "banned all forms of public physical contests",
+        "was almost entirely utilitarian, geared toward military conditioning and gladiatorial spectacle rather than holistic education",
+        "focused solely on women's participation in athletics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whereas the Greeks pursued a philosophical ideal of balanced body-and-mind development, Roman physical activity was largely utilitarian, oriented toward military fitness and public gladiatorial entertainment."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Clark Hetherington's 'New Physical Education' philosophy is best remembered for classifying the objectives of Physical Education into which four domains?",
+      "options": [
+        "Organic, psychomotor, cognitive, and aesthetic objectives only",
+        "Physical fitness, offensive skill, defensive skill, and endurance objectives only",
+        "Military, religious, vocational, and recreational objectives",
+        "Organic (physical), psychomotor (neuromuscular), character (civic-moral), and intellectual (mental) objectives"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hetherington's influential framework identified organic, psychomotor, character, and intellectual development as the four fundamental objectives that Physical Education should serve."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Dudley Allen Sargent's most notable contribution to the field of Physical Education was his pioneering work in",
+      "options": [
+        "anthropometric measurement and the individualised prescription of exercise based on a person's physical assessment",
+        "banning competitive sport from school curricula",
+        "establishing the modern Olympic Games",
+        "codifying the rules of association football"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sargent developed systematic anthropometric measurement techniques and advocated prescribing exercise programmes tailored to an individual's specific physical assessment and needs."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Thomas Wood's philosophy, encapsulated in the phrase 'education through the physical' rather than 'education of the physical', emphasised that",
+      "options": [
+        "physical activity has no bearing on cognitive or social learning",
+        "physical activity should serve as a medium for total personality development, not merely a means of training the body in isolation",
+        "only elite athletes benefit from Physical Education",
+        "Physical Education should be entirely separate from the general school curriculum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wood argued that physical activity should be used as an educational medium to develop the whole person -- socially, mentally, and morally -- rather than treating the body as an isolated object of training."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "John Dewey's progressive education philosophy influenced Physical Education mainly by promoting the idea that",
+      "options": [
+        "learning occurs best through rote memorisation of rules and regulations",
+        "children should be excluded from decision-making in physical activities",
+        "children learn most effectively through direct experience and purposeful activity, supporting play and movement as valid vehicles for learning",
+        "Physical Education should be reserved only for military academies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dewey's experiential, 'learning by doing' philosophy reinforced the value of play and physical activity as legitimate, purposeful avenues for a child's total educational development."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best exemplifies the 'character/social' objective of Physical Education, as distinct from the organic or psychomotor objectives?",
+      "options": [
+        "Improved cardiovascular endurance from repeated interval training",
+        "Increased muscular strength from resistance training",
+        "Refined balance and coordination during a gymnastic routine",
+        "Development of cooperation, sportsmanship, leadership, and fair play through team games"
+      ],
+      "correctIndex": 3,
+      "explanation": "The character/social objective concerns traits such as cooperation, discipline, leadership, and sportsmanship cultivated through participation, distinct from purely physiological (organic) or skill-based (psychomotor) gains."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Naturalism, as a philosophical orientation applied to Physical Education, primarily advocates that",
+      "options": [
+        "activities and play should follow the natural interests, instincts, and developmental readiness of the learner rather than adult-imposed formalism",
+        "physical activities should be rigidly standardised regardless of a child's developmental stage or interest",
+        "only indoor, apparatus-based gymnastics should be taught",
+        "competition should be entirely abolished from all programmes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naturalism emphasises designing physical activity around the learner's natural instincts, interests, and stage of development rather than imposing rigid, formal adult structures."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The modern Olympic Games, revived in 1896, are most directly credited to the efforts of",
+      "options": [
+        "Clark Hetherington",
+        "Baron Pierre de Coubertin",
+        "Thomas Wood",
+        "Dudley Sargent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baron Pierre de Coubertin is credited with reviving the ancient Olympic tradition, founding the International Olympic Committee and organising the first modern Games in Athens in 1896."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In pre-colonial Nigerian society, traditional wrestling, canoe regattas, and hunting expeditions served Physical Education-related purposes chiefly by",
+      "options": [
+        "providing purely religious ritual with no bearing on physical skill",
+        "being restricted exclusively to royalty for private entertainment",
+        "developing physical fitness, courage, and social cohesion while marking rites of passage within the community",
+        "replacing formal education entirely in traditional society"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional Nigerian physical activities such as wrestling and regattas built fitness, courage, and communal identity, and often functioned as rites of passage integrated into the community's social fabric."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which statement most accurately distinguishes the 'aims' from the 'objectives' of Physical Education?",
+      "options": [
+        "Aims and objectives are entirely synonymous with no distinction in scope",
+        "Objectives apply only to elite athletes while aims apply only to beginners",
+        "Aims concern only mental development while objectives concern only physical development",
+        "Aims are broad, long-term statements of overall purpose, while objectives are specific, measurable outcomes derived from those aims"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aims represent broad, overarching statements of purpose for a programme, whereas objectives are the specific, measurable, and attainable outcomes designed to fulfil those broader aims."
+    },
+    {
+      "subline": null,
+      "subject": "Physical and Health Education",
+      "text": "A key rationale for including dance and aquatics within the broadened scope of modern Physical Education curricula is that they",
+      "options": [
+        "extend the range of movement experiences, fitness benefits, and safety skills beyond traditional competitive team sports",
+        "have no measurable physical or health benefits and are included purely for entertainment",
+        "are only appropriate for professional athletes",
+        "were historically excluded from all ancient civilisations' physical culture"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dance and aquatics broaden movement experience, contribute to fitness, coordination, and rhythm, and in the case of swimming, impart essential water-safety skills, complementing traditional competitive sports."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best describes the psychomotor objective of Physical Education?",
+      "options": [
+        "The cultivation of moral values such as honesty and fair play",
+        "The development of neuromuscular skills such as coordination, balance, agility, and efficient movement patterns",
+        "The strengthening of the cardiovascular and respiratory systems alone",
+        "The acquisition of theoretical knowledge about sports history"
+      ],
+      "correctIndex": 1,
+      "explanation": "The psychomotor objective specifically targets neuromuscular skill development -- coordination, balance, agility, and efficient, purposeful movement patterns."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The axial skeleton, one of the two major divisions of the human skeletal system, is composed of the",
+      "options": [
+        "upper and lower limbs together with the pectoral and pelvic girdles",
+        "carpals, tarsals, and phalanges only",
+        "skull, vertebral column, ribs, and sternum",
+        "clavicle and scapula only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The axial skeleton comprises the skull, vertebral column, ribs, and sternum, forming the central axis of the body, while the appendicular skeleton comprises the limbs and girdles."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Synovial fluid, found within the cavity of freely movable (synovial) joints, primarily functions to",
+      "options": [
+        "transport oxygen directly to muscle fibres",
+        "stimulate bone growth at the epiphyseal plate",
+        "regulate the joint's blood pressure",
+        "lubricate the joint, reduce friction between articulating bone surfaces, and supply nutrients to the articular cartilage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Synovial fluid lubricates synovial joints, minimises friction between the articulating bone surfaces, and helps nourish the avascular articular cartilage."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The joint between the atlas and axis vertebrae at the top of the spinal column, which permits the rotational 'no' head movement, is best classified as a",
+      "options": [
+        "pivot joint",
+        "hinge joint",
+        "ball-and-socket joint",
+        "saddle joint"
+      ],
+      "correctIndex": 0,
+      "explanation": "The atlanto-axial joint is a pivot joint, allowing rotational movement of the head, such as shaking the head to indicate 'no'."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The carpometacarpal joint at the base of the thumb, which allows the thumb to oppose the fingers, is classified anatomically as a",
+      "options": [
+        "hinge joint",
+        "saddle joint",
+        "pivot joint",
+        "gliding (plane) joint"
+      ],
+      "correctIndex": 1,
+      "explanation": "The joint at the base of the thumb is a saddle joint, a shape permitting the wide range of motion, including opposition, characteristic of the human thumb."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "During elbow flexion performed by the biceps brachii, the triceps brachii acts as the",
+      "options": [
+        "synergist, assisting the biceps in producing the same movement",
+        "fixator, stabilising the shoulder joint only",
+        "antagonist, relaxing while the biceps (the agonist) contracts to produce the movement",
+        "prime mover, generating the primary force for flexion"
+      ],
+      "correctIndex": 2,
+      "explanation": "In antagonistic muscle pairs, the triceps brachii (antagonist) relaxes and lengthens while the biceps brachii (agonist/prime mover) contracts to produce elbow flexion."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "An isometric muscle contraction is best described as one in which the muscle",
+      "options": [
+        "shortens while generating tension, producing visible joint movement",
+        "lengthens under tension while controlling a movement, such as lowering a weight",
+        "is completely relaxed with no tension developed",
+        "generates tension and develops force without any appreciable change in its length or visible joint movement"
+      ],
+      "correctIndex": 3,
+      "explanation": "An isometric contraction generates muscular tension without a change in muscle length or visible movement at the joint, as when pushing against an immovable object."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "When a weightlifter slowly lowers a barbell under control, the primary muscles acting are undergoing which type of contraction?",
+      "options": [
+        "Eccentric contraction, as the muscle lengthens while still generating tension",
+        "Concentric contraction, as the muscle shortens",
+        "Isometric contraction, as the muscle length remains constant",
+        "Isokinetic contraction at a fixed, machine-controlled speed only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lowering a weight under control involves an eccentric contraction, in which the muscle lengthens while still producing tension to control the movement."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Blood pressure readings are expressed as two values, for example 120/80 mmHg. The lower value (80) represents the",
+      "options": [
+        "systolic pressure, generated when the ventricles contract",
+        "diastolic pressure, the pressure in the arteries when the heart relaxes between beats",
+        "pulse rate in beats per minute",
+        "stroke volume of the left ventricle"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lower reading is the diastolic pressure, representing arterial pressure while the heart muscle relaxes between contractions; the higher reading (systolic) reflects pressure during ventricular contraction."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Cardiac output is best defined as",
+      "options": [
+        "the resting heart rate measured over one minute",
+        "the maximum oxygen uptake achievable during exercise",
+        "the total volume of blood ejected by the left ventricle in one minute, calculated as heart rate multiplied by stroke volume",
+        "the total blood volume contained within the entire circulatory system"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cardiac output equals heart rate multiplied by stroke volume, representing the total volume of blood the heart pumps out per minute."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A well-conditioned athlete typically exhibits a lower resting heart rate than an untrained individual mainly because regular aerobic training leads to",
+      "options": [
+        "a smaller, weaker heart with reduced stroke volume",
+        "complete cessation of the need for cardiac contraction",
+        "a permanent increase in resting blood pressure",
+        "cardiac hypertrophy and increased stroke volume, allowing the same cardiac output to be achieved with fewer beats per minute"
+      ],
+      "correctIndex": 3,
+      "explanation": "Training-induced cardiac hypertrophy increases stroke volume (the volume of blood ejected per beat), so the heart can maintain adequate cardiac output at a lower resting heart rate."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Tidal volume, a key measure in respiratory physiology, refers to",
+      "options": [
+        "the volume of air inhaled or exhaled in a single normal, resting breath",
+        "the maximum volume of air that can be forcibly exhaled after a maximum inhalation",
+        "the total lung capacity including residual volume",
+        "the volume of air remaining in the lungs after maximal expiration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tidal volume is the amount of air moved into or out of the lungs during a single normal breath at rest, distinct from vital capacity or residual volume."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Gas exchange between inhaled air and the bloodstream occurs primarily at the",
+      "options": [
+        "bronchioles, via active transport mechanisms",
+        "alveoli, through diffusion across their thin, richly capillarised walls",
+        "trachea, through mucus-lined ciliated cells",
+        "diaphragm, through direct muscular contraction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The alveoli are tiny air sacs surrounded by capillaries; their thin walls and large surface area allow oxygen and carbon dioxide to diffuse efficiently between the air and the blood."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "During inhalation, the diaphragm contracts and flattens, which primarily causes",
+      "options": [
+        "a decrease in thoracic cavity volume and a rise in internal air pressure, forcing air out of the lungs",
+        "complete cessation of airflow into or out of the lungs",
+        "an increase in thoracic cavity volume, lowering internal air pressure below atmospheric pressure so that air flows into the lungs",
+        "direct contraction of the alveoli to actively pull in air"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diaphragmatic contraction enlarges the thoracic cavity, reducing internal pressure below atmospheric pressure, which draws air into the lungs (Boyle's Law in action)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "'Oxygen debt' following intense anaerobic exercise refers to",
+      "options": [
+        "a permanent reduction in an individual's maximum lung capacity",
+        "the total oxygen consumed throughout an entire exercise session",
+        "a medical condition requiring hospitalisation",
+        "the volume of oxygen required after exercise to restore the body to its resting physiological state and clear accumulated lactic acid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oxygen debt describes the extra oxygen consumed during recovery to restore ATP and phosphocreatine stores and metabolise accumulated lactic acid built up during intense anaerobic effort."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which scenario best illustrates the practical distinction between aerobic and anaerobic exercise?",
+      "options": [
+        "A marathon runner sustaining a steady moderate pace for two hours relies mainly on aerobic metabolism, whereas a 100m sprinter relies predominantly on anaerobic metabolism",
+        "Both marathon running and 100m sprinting rely exclusively on anaerobic metabolism",
+        "A marathon runner relies on anaerobic metabolism while a sprinter relies on aerobic metabolism",
+        "Aerobic and anaerobic metabolism are interchangeable terms with no physiological difference"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prolonged, moderate-intensity activities like marathon running are sustained by aerobic (oxygen-dependent) metabolism, while brief, maximal-intensity efforts like sprinting rely predominantly on anaerobic energy pathways."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The reflex arc, a fundamental unit of nervous system function relevant to rapid movement responses in sport, typically follows which sequence?",
+      "options": [
+        "Effector, motor neuron, spinal cord, sensory neuron, receptor",
+        "Receptor, sensory neuron, spinal cord (relay), motor neuron, effector",
+        "Motor neuron, receptor, effector, sensory neuron",
+        "Effector, receptor, spinal cord, sensory neuron"
+      ],
+      "correctIndex": 1,
+      "explanation": "A reflex arc begins at a receptor, travels via a sensory neuron to the spinal cord (often through a relay neuron), then out via a motor neuron to an effector (muscle), producing a rapid, involuntary response."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "An athlete with a somatotype classified as ectomorphic would typically be characterised by which physical profile, making them well suited to endurance events such as long-distance running?",
+      "options": [
+        "A short, stocky, heavily muscled frame with a low centre of gravity",
+        "A rounded frame with a high proportion of body fat and a soft physique",
+        "A linear, slender frame with narrow shoulders, low body fat, and limited muscle bulk",
+        "A broad, muscular frame excelling primarily in power and strength events"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ectomorphs are characterised by a lean, slender, linear build with minimal fat and muscle mass, a physique often advantageous for endurance-based activities."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A mesomorphic somatotype, often associated with success in power and sprint events, is characterised primarily by",
+      "options": [
+        "a slender frame with minimal muscle development",
+        "a soft, rounded physique with a high proportion of stored body fat",
+        "an absence of any distinguishable muscular development",
+        "a well-developed, muscular physique with broad shoulders, a narrow waist, and low body fat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mesomorphs possess a naturally muscular, athletic build with broad shoulders and low body fat, often conferring advantages in strength- and power-based sports."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "An endomorphic somatotype is primarily characterised by",
+      "options": [
+        "a rounded body shape with a relatively high proportion of body fat and a soft musculature",
+        "a lean, fragile frame with very low body fat",
+        "extreme muscularity with minimal fat storage",
+        "unusually long limbs relative to torso length"
+      ],
+      "correctIndex": 0,
+      "explanation": "Endomorphs typically present a rounder body shape with higher body fat storage and a softer muscular definition compared to mesomorphs or ectomorphs."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Scoliosis, a postural defect of the spine, is best defined as",
+      "options": [
+        "an exaggerated outward (posterior) curvature of the thoracic spine, producing a hunchback appearance",
+        "an abnormal lateral (sideways) curvature of the vertebral column",
+        "an exaggerated inward (anterior) curvature of the lumbar spine",
+        "a flattening of the medial longitudinal arch of the foot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scoliosis is characterised by an abnormal sideways curvature of the spine, distinguishing it from kyphosis (excessive outward thoracic curve) and lordosis (excessive inward lumbar curve)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Kyphosis, a postural defect distinct from scoliosis and lordosis, refers specifically to",
+      "options": [
+        "a lateral curvature of the spine visible from behind",
+        "an excessive inward curvature of the lumbar spine, causing the abdomen to protrude",
+        "an excessive outward (posterior) curvature of the thoracic region of the spine, producing a rounded, hunchback appearance",
+        "a lateral deviation of the big toe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kyphosis is an exaggerated outward curvature of the thoracic spine, resulting in a rounded or hunched upper back, distinct from the lateral curve of scoliosis or the inward curve of lordosis."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Lordosis, a postural defect affecting the lower back, is best described as",
+      "options": [
+        "an abnormal lateral curvature of the spine",
+        "an exaggerated outward curvature of the upper (thoracic) spine",
+        "a collapse of the transverse arch of the foot",
+        "an exaggerated inward (anterior) curvature of the lumbar spine, often causing the abdomen and buttocks to protrude"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lordosis involves an excessive inward curve of the lumbar (lower back) region, often causing the abdomen and buttocks to protrude forward and backward respectively."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Flatfoot (pes planus), a common postural/structural defect, is characterised by",
+      "options": [
+        "the collapse or absence of the medial longitudinal arch, causing the entire sole to make contact with the ground",
+        "an abnormally high medial longitudinal arch of the foot",
+        "a lateral curvature of the vertebral column",
+        "an inward rotation of the knee joints (knock-knees)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flatfoot involves the flattening or collapse of the medial longitudinal arch, so that most or all of the sole of the foot contacts the ground while standing."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which corrective approach is most appropriate for a mild, non-structural (postural) case of kyphosis identified in a school-age child?",
+      "options": [
+        "Immediate spinal surgery in all cases",
+        "Targeted postural and strengthening exercises for the back extensor muscles, combined with attention to correct sitting and standing posture",
+        "Complete avoidance of all physical activity",
+        "Prescription of anabolic steroids to build back muscle rapidly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mild postural kyphosis is typically managed through targeted corrective exercises strengthening the back extensors and improving postural habits, reserving surgery for severe structural cases."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In biomechanics, the principle of stability states that an object (such as a rugby player in a defensive stance) becomes more stable when it has",
+      "options": [
+        "a high centre of gravity and a narrow base of support",
+        "a centre of gravity located entirely outside the base of support",
+        "a low centre of gravity and a wide base of support, with the line of gravity falling within the base",
+        "no base of support at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stability is enhanced by lowering the centre of gravity, widening the base of support, and keeping the line of gravity within that base -- principles athletes exploit in stances such as a wrestler's crouch."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Newton's Third Law of Motion, stating that every action produces an equal and opposite reaction, is best illustrated in sport by which example?",
+      "options": [
+        "A ball continuing in a straight line unless acted upon by an external force",
+        "A heavier shot put requiring more force to achieve the same acceleration as a lighter one",
+        "An athlete's body remaining at rest until a force is applied",
+        "A sprinter pushing backward against the starting blocks, propelling their body forward"
+      ],
+      "correctIndex": 3,
+      "explanation": "Newton's Third Law is demonstrated when a sprinter's foot pushes backward against the blocks (action), and the blocks push the sprinter's body forward with equal and opposite force (reaction)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "During the sprint start in track athletics, an athlete's initial acceleration off the blocks is most improved by",
+      "options": [
+        "maintaining a low, forward-leaning body position and driving powerfully with both legs through full extension",
+        "standing fully upright immediately upon the gun to maximise stride length",
+        "looking upward and backward to check competitors' positions",
+        "starting with the front foot fully extended and the rear foot flat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Optimal sprint starts require a low, forward-leaning drive phase with powerful, complete leg extension from the blocks to maximise horizontal acceleration before gradually rising to an upright running posture."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In middle-distance track events such as the 800m and 1500m, tactical pacing is critical mainly because athletes must",
+      "options": [
+        "sprint at maximum speed for the entire race distance without variation",
+        "balance aerobic and anaerobic energy contributions, conserving energy for a decisive finishing kick while maintaining competitive positioning",
+        "avoid overtaking any competitor at any point in the race",
+        "complete the race using only anaerobic energy pathways"
+      ],
+      "correctIndex": 1,
+      "explanation": "Middle-distance running demands a blend of aerobic endurance and anaerobic capacity; successful athletes pace themselves to conserve energy for a strong finishing kick while staying tactically well positioned."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The steeplechase, a distinctive long/middle-distance track event, is primarily characterised by",
+      "options": [
+        "athletes running on an indoor track exclusively with no obstacles",
+        "a race run entirely underwater",
+        "competitors negotiating fixed barriers and a water jump interspersed along the race distance",
+        "a relay format involving four runners passing a baton"
+      ],
+      "correctIndex": 2,
+      "explanation": "The steeplechase requires athletes to clear fixed barriers and a water jump at intervals around the track, distinguishing it from standard flat middle/long-distance races."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In a 4x400m relay, unlike the 4x100m relay, incoming and outgoing runners typically perform which type of baton exchange, given the greater fatigue and spacing involved?",
+      "options": [
+        "A blind exchange, where the receiving runner does not look back at the baton",
+        "No exchange is required in the 4x400m relay",
+        "An exchange performed entirely outside the marked takeover zone",
+        "A visual exchange, where the receiving runner looks back to watch the baton into their hand"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because runners in the 4x400m relay are typically more fatigued and speeds are lower than in the 4x100m, a visual exchange -- where the receiver watches the baton into their hand -- is commonly used for greater reliability."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "According to World Athletics rules, the baton exchange in relay races must be completed entirely within",
+      "options": [
+        "a designated 20-metre takeover zone marked on the track",
+        "the first 10 metres of the entire track",
+        "any point along the entire back straight",
+        "a zone determined solely by the head coach before the race"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relay baton exchanges must occur within a marked 20-metre takeover zone; a baton passed outside this zone results in disqualification."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In the long jump, a competitor's attempt is ruled a 'foul' (no jump) chiefly when the athlete",
+      "options": [
+        "lands beyond the marked sand pit boundary only",
+        "oversteps the takeoff board, with any part of the foot extending beyond its front edge into the plasticine indicator before jumping",
+        "takes fewer than three steps in the approach run",
+        "jumps using a foot other than their preferred takeoff foot"
+      ],
+      "correctIndex": 1,
+      "explanation": "A long jump attempt is declared a foul if the athlete's foot breaks the vertical plane of the takeoff board's front edge, as registered on the adjoining indicator board, regardless of how far the jump itself measures."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The 'Fosbury Flop' technique revolutionised which field event by having athletes clear the bar backwards, landing on their upper back and shoulders?",
+      "options": [
+        "The long jump",
+        "The triple jump",
+        "The high jump",
+        "The pole vault"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Fosbury Flop, popularised by Dick Fosbury, is a high jump technique in which the athlete clears the bar head-first and backwards, landing on the upper back, and remains the dominant technique in elite high jump today."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The triple jump is officially defined by a specific sequence of movements. Which sequence correctly describes it?",
+      "options": [
+        "Three consecutive jumps performed off alternating feet with no fixed order",
+        "A jump, followed by a hop, followed by a step, in any order chosen by the athlete",
+        "A single jump performed three times in succession by three different athletes",
+        "A hop, followed by a step, followed by a jump, with the hop landing on the same foot used for takeoff"
+      ],
+      "correctIndex": 3,
+      "explanation": "The triple jump comprises a hop (landing on the same foot that took off), a step (landing on the opposite foot), and a final jump into the pit -- performed in that fixed sequence."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In the shot put, which rule governs how the implement must be legally released to ensure a valid attempt?",
+      "options": [
+        "The shot must be 'put' -- pushed from the shoulder with one hand, without dropping behind the shoulder line during the delivery",
+        "The shot must be thrown using a full arm swing from behind the body, similar to a discus throw",
+        "The shot may be thrown using either hand or both hands simultaneously from any position",
+        "The shot must be released after a full 360-degree spin identical to the discus technique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shot put rules require the shot to be 'put' (pushed) from the shoulder using one hand, without the athlete allowing the implement to drop behind the line of the shoulders during the delivery action."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In the javelin throw, a valid, measurable attempt specifically requires that the javelin",
+      "options": [
+        "lands anywhere within the throwing sector, regardless of orientation",
+        "lands within the marked sector with its metal tip striking the ground first, ahead of any other part of the implement",
+        "is thrown using a full circular spinning technique similar to the discus",
+        "be released while standing entirely outside the runway"
+      ],
+      "correctIndex": 1,
+      "explanation": "A javelin throw is only counted as valid if the metal tip strikes the ground first within the marked sector; the flat landing of the shaft on the ground invalidates the attempt."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The decathlon, a multi-event athletics competition for men, consists of how many events contested over two days?",
+      "options": [
+        "Seven events",
+        "Twelve events",
+        "Ten events",
+        "Five events"
+      ],
+      "correctIndex": 2,
+      "explanation": "The decathlon comprises ten track and field events contested over two consecutive days, testing an athlete's versatility across sprints, jumps, throws, and endurance running."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In a standard football (soccer) match, which of the following situations does NOT constitute an offside offence, despite the attacker being in an offside position?",
+      "options": [
+        "The attacker receives the ball directly from a teammate's through pass while ahead of the second-last defender",
+        "The attacker actively interferes with an opponent's ability to play the ball while offside",
+        "The attacker gains an advantage by playing a ball that rebounded off the goalpost while offside",
+        "The attacker receives the ball directly from a corner kick, throw-in, or goal kick"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under the Laws of the Game, a player cannot be penalised for offside if they receive the ball directly from a corner kick, throw-in, or goal kick, even if positioned beyond the second-last defender."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In football, the key distinction between a direct free kick and an indirect free kick is that",
+      "options": [
+        "a goal may be scored straight from a direct free kick without the ball touching another player, whereas a goal from an indirect free kick requires the ball to touch another player first",
+        "an indirect free kick can score directly while a direct free kick cannot",
+        "both types of free kicks are identical in every respect",
+        "a direct free kick may only be taken by the goalkeeper"
+      ],
+      "correctIndex": 0,
+      "explanation": "A direct free kick allows a goal to be scored directly against the opposing team, while a goal from an indirect free kick can only count if the ball touches another player (of either team) before entering the goal."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Under current standard FIFA competition rules, the maximum number of substitutions permitted per team during normal time in most top-level matches is",
+      "options": [
+        "three substitutions",
+        "five substitutions",
+        "unlimited substitutions with no cap",
+        "two substitutions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Following amendments widely adopted after 2020, most top-level competitions permit up to five substitutions per team during the normal 90 minutes of play, typically within a limited number of stoppages."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In basketball, the shot clock -- a rule requiring a team to attempt a shot within a set time after gaining possession -- is generally set, under FIBA rules, at",
+      "options": [
+        "10 seconds",
+        "45 seconds",
+        "24 seconds",
+        "8 seconds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under FIBA and most professional basketball rules, a team must attempt a shot that at least hits the rim within 24 seconds of gaining possession, or a shot-clock violation is called."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In basketball, the '8-second rule' specifically requires that a team",
+      "options": [
+        "complete a shot attempt within 8 seconds of gaining possession",
+        "hold the ball for at least 8 seconds before attempting a shot",
+        "substitute a player at least once every 8 seconds",
+        "advance the ball from its backcourt into the frontcourt within 8 seconds of gaining possession"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 8-second rule requires a team to move the ball from its own backcourt across the half-court line into the frontcourt within 8 seconds of gaining possession, or a violation is called."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In basketball, which of the following best distinguishes a 'technical foul' from an ordinary 'personal foul'?",
+      "options": [
+        "A technical foul involves unsportsmanlike conduct, dissent, or a rule violation unrelated to normal physical contact during play, whereas a personal foul involves illegal physical contact against an opponent",
+        "A personal foul is always more severe and results in ejection, while a technical foul carries no penalty",
+        "There is no distinction; both terms describe identical infractions",
+        "A technical foul can only be committed by a coach, never by a player"
+      ],
+      "correctIndex": 0,
+      "explanation": "A personal foul arises from illegal physical contact with an opponent during play, while a technical foul penalises unsportsmanlike conduct, dissent toward officials, or procedural violations not involving normal player contact."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In volleyball, the specialised defensive player known as the 'libero' is subject to which distinctive rule?",
+      "options": [
+        "The libero may serve, block, and attack the ball from anywhere on the court like any other player",
+        "The libero wears a different-coloured uniform, cannot block or attack the ball above net height from the front zone, and has restricted service rights depending on the rule set in use",
+        "The libero must always be the team captain",
+        "The libero is prohibited from ever touching the ball during a match"
+      ],
+      "correctIndex": 1,
+      "explanation": "The libero is a designated defensive specialist who wears a contrasting uniform and is restricted from blocking or completing an attack hit above the top of the net from the front zone, with limited serving permitted under current rules."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A standard volleyball set (excluding a potential deciding fifth set) is won by the first team to reach",
+      "options": [
+        "21 points, requiring a two-point advantage",
+        "15 points with no minimum winning margin required",
+        "25 points, requiring at least a two-point advantage over the opponent",
+        "30 points with sudden-death scoring at 29-29"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard volleyball sets are played to 25 points (15 points in a deciding fifth set), with the set won only if the leading team has at least a two-point advantage."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In badminton, a standard match is generally contested as",
+      "options": [
+        "the best of five 15-point games",
+        "a single game played to 30 points",
+        "the best of three games, each played to 11 points",
+        "the best of three games, each played to 21 points with a two-point winning margin required (subject to a cap)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Standard badminton matches are played as the best of three games, with each game won by the first side to reach 21 points, requiring at least a two-point lead (up to a maximum cap of 30 points)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A key equipment distinction in badminton is that the shuttlecock, unlike a ball used in tennis or table tennis, is characterised by",
+      "options": [
+        "a conical shape with a rounded cork or synthetic base and a skirt of feathers (or synthetic material) that causes rapid aerodynamic deceleration",
+        "a solid rubber sphere with no feathers or synthetic skirt",
+        "a perfectly spherical shape identical to a tennis ball but smaller",
+        "a hollow celluloid or plastic sphere used exclusively outdoors"
+      ],
+      "correctIndex": 0,
+      "explanation": "The shuttlecock's conical feathered (or synthetic) skirt attached to a rounded base creates high aerodynamic drag, causing it to decelerate rapidly in flight -- a distinctive feature not shared by balls used in tennis or table tennis."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In team handball, a field player who receives the ball is permitted to hold it and take a maximum of how many steps before passing, dribbling, or shooting?",
+      "options": [
+        "Five steps",
+        "Three steps",
+        "Two steps",
+        "No limit on steps as long as the ball is not dribbled"
+      ],
+      "correctIndex": 1,
+      "explanation": "In handball, a player may take a maximum of three steps while holding the ball before they must pass, shoot, dribble, or release it, or a 'steps' violation is called."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In field hockey, players are permitted to play the ball legally using only which part of the stick?",
+      "options": [
+        "Either the flat face or the rounded back edge of the stick, interchangeably",
+        "Only the rounded back edge of the stick",
+        "Only the flat (non-rounded) face of the stick",
+        "Any part of the stick, including the handle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Field hockey rules restrict legal play to the flat face of the stick; deliberately playing the ball with the rounded back edge results in a foul."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In cricket, a batsman is given out 'leg before wicket' (LBW) essentially when",
+      "options": [
+        "the batsman's leg touches the boundary rope while running",
+        "the batsman is struck by the ball anywhere on the body while standing outside the crease",
+        "the fielding team appeals after the batsman completes a run",
+        "the ball strikes the batsman's leg pad and, in the umpire's judgement, would otherwise have gone on to hit the stumps, subject to specified conditions"
+      ],
+      "correctIndex": 3,
+      "explanation": "An LBW dismissal occurs when the ball strikes part of the batsman's body (typically the leg) in line with the stumps, and the umpire judges that the ball would have gone on to hit the stumps, subject to specific conditions in the Laws of Cricket."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In tennis, when a set reaches a score of 6-6 games, play is typically decided by which mechanism under standard modern rules?",
+      "options": [
+        "A tiebreak game, generally won by the first player to reach 7 points with at least a two-point lead",
+        "The set continues indefinitely until one player leads by two clear games with no tiebreak",
+        "The match is immediately declared a draw",
+        "The set is awarded to whichever player won the most total points"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under standard modern rules, a set reaching 6-6 in games is typically decided by a tiebreak game, won by the first player to reach 7 points with a minimum two-point advantage."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best distinguishes the role of a 'referee' from that of a 'linesman/assistant referee' in football officiating?",
+      "options": [
+        "The linesman has final authority over all decisions, overriding the referee",
+        "The referee has overall authority to make final decisions on the pitch, while the assistant referee/linesman primarily signals offside, throw-ins, and out-of-play situations to assist the referee",
+        "Both officials have completely identical powers and duties",
+        "Only the linesman may award penalty kicks"
+      ],
+      "correctIndex": 1,
+      "explanation": "The referee holds ultimate authority to make and enforce decisions during a match, while assistant referees (linesmen) support by signalling matters such as offside, ball out of play, and throw-ins/corners."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A standard FIFA-regulation football pitch for international adult matches must have a length and width falling within which approximate range?",
+      "options": [
+        "Length 30-50 metres; width 20-30 metres",
+        "Length 200-250 metres; width 100-150 metres",
+        "Length 90-120 metres; width 45-90 metres",
+        "Fixed dimensions of exactly 50 by 30 metres with no permitted variation"
+      ],
+      "correctIndex": 2,
+      "explanation": "FIFA regulations specify a football pitch length of 90-120 metres and a width of 45-90 metres for international matches, with stricter ranges applying to international fixtures specifically."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A basketball hoop (rim) is regulated to be mounted at a standard height above the playing floor of",
+      "options": [
+        "2.44 metres (8 feet)",
+        "3.66 metres (12 feet)",
+        "2.13 metres (7 feet)",
+        "3.05 metres (10 feet)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The basketball rim is standardised at a height of 3.05 metres (10 feet) above the playing surface in virtually all levels of organised competition."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "In gymnastics, a forward roll is technically distinguished from a backward roll mainly by the",
+      "options": [
+        "direction of body rotation relative to the direction of travel, and the corresponding hand/head placement used to protect the neck during rotation",
+        "use of apparatus only in the forward roll and none in the backward roll",
+        "requirement that only the backward roll be performed on a balance beam",
+        "complete absence of any tucking of the body in a forward roll"
+      ],
+      "correctIndex": 0,
+      "explanation": "A forward roll rotates the body forward over a tucked head with hands placed ahead to guide the rotation, while a backward roll rotates backward, requiring the hands to be placed beside the head to push off and protect the neck."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The balance beam, an apparatus used in women's artistic gymnastics, is officially set at a standard height and width of approximately",
+      "options": [
+        "500 cm high and 100 cm wide",
+        "125 cm high and 10 cm wide",
+        "10 cm high and 125 cm wide",
+        "No standard dimensions are specified for this apparatus"
+      ],
+      "correctIndex": 1,
+      "explanation": "The competition balance beam is approximately 125 cm above the floor and only about 10 cm wide, demanding exceptional balance, precision, and core control from gymnasts."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The front crawl (freestyle) swimming stroke is technically distinguished from breaststroke chiefly by its",
+      "options": [
+        "simultaneous, symmetrical arm pull with a whip-like frog kick performed underwater throughout",
+        "complete absence of any leg kick",
+        "alternating overarm arm recovery combined with a continuous flutter kick, generally the fastest recognised competitive stroke",
+        "requirement that swimmers remain submerged for the entire length of the pool"
+      ],
+      "correctIndex": 2,
+      "explanation": "Front crawl (freestyle) uses an alternating overarm recovery with a continuous flutter kick and is the fastest of the competitive strokes, unlike breaststroke's simultaneous symmetrical arm pull and frog kick."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The butterfly stroke in competitive swimming is characterised by which distinctive combination of movements?",
+      "options": [
+        "An alternating overarm recovery paired with a flutter kick",
+        "Swimming on the back with an alternating arm and leg action",
+        "A frog-like breaststroke kick combined with an alternating arm stroke",
+        "A simultaneous, symmetrical over-water arm recovery combined with a simultaneous 'dolphin' kick of both legs together"
+      ],
+      "correctIndex": 3,
+      "explanation": "Butterfly requires both arms to recover simultaneously over the water while both legs perform a synchronised undulating dolphin kick, making it one of the most physically demanding competitive strokes."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "When attempting a water rescue of a struggling swimmer without entering the water, the recommended first-aid priority for a bystander is to",
+      "options": [
+        "attempt a reach, throw, or wade-assisted rescue using an object such as a pole, rope, or flotation device before considering direct contact",
+        "dive in immediately regardless of personal swimming ability or training",
+        "wait for the swimmer to reach the poolside unaided in every circumstance",
+        "shout instructions only, with no attempt to provide any physical aid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water safety protocol prioritises 'reach or throw, don't go' -- using poles, ropes, or flotation devices to assist a struggling swimmer from land before a trained rescuer considers entering the water directly."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Rhythmic gymnastics is distinguished from artistic gymnastics primarily by its incorporation of",
+      "options": [
+        "apparatus such as the vaulting horse and parallel bars",
+        "handheld apparatus such as ribbon, hoop, ball, and clubs performed to music, without tumbling on hard apparatus",
+        "exclusively male competitors performing on the pommel horse",
+        "swimming-based movement sequences"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rhythmic gymnastics combines dance-like movement with handheld apparatus (ribbon, hoop, ball, clubs, rope) performed to music, distinguishing it from the apparatus-based tumbling of artistic gymnastics."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A well-balanced diet suitable for an endurance athlete in the days before a major competition typically emphasises which nutritional strategy, commonly known as carbohydrate loading?",
+      "options": [
+        "Drastically reducing all food intake to lower body weight before competition",
+        "Eliminating carbohydrates entirely in favour of pure protein intake",
+        "Progressively increasing carbohydrate intake in the days before competition to maximise glycogen stores in the muscles and liver",
+        "Consuming only fats in the 48 hours preceding competition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbohydrate loading involves strategically increasing carbohydrate consumption in the days before an endurance event to maximise glycogen stores, delaying fatigue during prolonged exercise."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A 'complete protein' source, important for athletes' muscle repair and growth, is best defined as one that",
+      "options": [
+        "contains only carbohydrates with no amino acids present",
+        "lacks several essential amino acids, as typically found in most animal products",
+        "is defined solely by its total caloric content rather than amino acid composition",
+        "contains all nine essential amino acids in adequate proportions, such as those found in eggs, meat, fish, and dairy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Complete proteins supply all nine essential amino acids in adequate amounts; common sources include eggs, meat, fish, and dairy, whereas many single plant sources are 'incomplete' proteins."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Scurvy, a deficiency disease affecting connective tissue and gum health, results specifically from a prolonged deficiency of",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B1 (thiamine)",
+        "Calcium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scurvy results from a prolonged deficiency of Vitamin C, which is essential for collagen synthesis; symptoms include bleeding gums, joint pain, and poor wound healing."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Rickets, a bone deformity disease common in children, arises primarily from a deficiency of",
+      "options": [
+        "Vitamin C alone",
+        "Vitamin D and calcium, impairing proper bone mineralisation",
+        "Protein alone, with no involvement of minerals or vitamins",
+        "Vitamin B12 exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rickets results from inadequate Vitamin D and calcium, impairing bone mineralisation in growing children and leading to soft, weakened, and deformed bones."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Iron-deficiency anaemia, a condition that can significantly reduce an athlete's aerobic performance, occurs because insufficient iron impairs the body's ability to",
+      "options": [
+        "absorb dietary fats efficiently",
+        "produce sufficient white blood cells to fight infection",
+        "synthesise adequate haemoglobin, reducing the blood's oxygen-carrying capacity",
+        "regulate blood clotting after injury"
+      ],
+      "correctIndex": 2,
+      "explanation": "Iron is essential for haemoglobin synthesis; a deficiency reduces the oxygen-carrying capacity of red blood cells, causing fatigue and diminished aerobic exercise performance."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Anabolic steroids, a class of substances banned under most sporting anti-doping codes, are prohibited mainly because they",
+      "options": [
+        "have no measurable physiological effect on the athlete's body",
+        "are only used to treat minor colds and coughs",
+        "are legal nutritional supplements freely available to all competitors",
+        "artificially enhance muscle mass and strength beyond what natural training achieves, providing an unfair competitive advantage while posing serious health risks"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anabolic steroids mimic testosterone to artificially boost muscle mass and strength, conferring an unfair advantage while carrying serious risks such as cardiovascular disease, liver damage, and hormonal disruption."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Stimulant doping agents such as amphetamines are banned in competitive sport primarily because they",
+      "options": [
+        "artificially mask fatigue, increase alertness and heart rate, and can enable athletes to push beyond safe physiological limits, risking cardiovascular harm",
+        "have no impact on alertness, heart rate, or fatigue perception",
+        "are required as a routine part of daily athletic nutrition",
+        "only affect an athlete's sense of taste"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stimulants like amphetamines mask fatigue and heighten alertness and heart rate, allowing athletes to exceed safe physiological limits, which creates an unfair advantage and significant cardiovascular risk."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Chronic alcohol abuse impairs athletic performance and safety most directly by",
+      "options": [
+        "improving reaction time and fine motor coordination",
+        "impairing coordination, reaction time, and judgement, while also disrupting sleep and long-term liver and cardiovascular health",
+        "enhancing endurance capacity during prolonged exercise",
+        "having no measurable effect on the nervous system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alcohol depresses central nervous system function, impairing coordination, reaction time, and judgement, disrupts restorative sleep, and causes long-term damage to the liver and cardiovascular system."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Chronic tobacco/cigarette smoking is particularly associated with a significantly increased risk of which condition, given its direct impact on the respiratory system?",
+      "options": [
+        "Improved lung capacity and enhanced aerobic performance",
+        "Complete immunity to all respiratory infections",
+        "Chronic bronchitis, emphysema, and lung cancer due to damage of the airways and alveoli",
+        "Enhanced haemoglobin oxygen-carrying capacity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tobacco smoke damages the airway lining and alveoli over time, substantially increasing the risk of chronic bronchitis, emphysema, and lung cancer, and impairing overall respiratory efficiency."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "An open (compound) fracture is distinguished from a closed (simple) fracture chiefly by the fact that in an open fracture",
+      "options": [
+        "the bone is merely bruised with no actual break occurring",
+        "the bone bends and partially cracks without fully breaking, as seen typically in children",
+        "there is no pain or swelling present at all",
+        "the broken bone penetrates through the skin, creating an open wound with a risk of infection"
+      ],
+      "correctIndex": 3,
+      "explanation": "An open (compound) fracture involves the broken bone piercing through the skin, creating an open wound and a significant risk of infection, unlike a closed fracture where the skin remains intact."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A greenstick fracture, a type of bone injury seen predominantly in children, is best described as one in which the bone",
+      "options": [
+        "bends and cracks incompletely on one side without breaking all the way through, due to the relative flexibility of a child's bone",
+        "breaks completely into two separate fragments",
+        "shatters into multiple small fragments at the point of impact",
+        "dislocates entirely from its adjoining joint"
+      ],
+      "correctIndex": 0,
+      "explanation": "A greenstick fracture occurs when a still-pliable, immature bone bends and cracks on one side without breaking completely through, a pattern seen mainly in children due to their more flexible bone structure."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following most accurately distinguishes a sprain from a strain as sports injuries?",
+      "options": [
+        "A sprain and a strain refer to the exact same type of tissue damage",
+        "A sprain involves damage to a ligament connecting bone to bone at a joint, while a strain involves damage to a muscle or its tendon",
+        "A sprain always involves a complete bone fracture, while a strain never does",
+        "A strain refers only to injuries of the skin, while a sprain refers only to injuries of bone"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sprain is an injury to a ligament (connecting bone to bone) typically at a joint, whereas a strain involves overstretching or tearing of a muscle or its tendon (connecting muscle to bone)."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "A joint dislocation is best distinguished from a sprain by the fact that a dislocation involves",
+      "options": [
+        "only minor stretching of a ligament with the joint surfaces remaining fully aligned",
+        "damage exclusively to skeletal muscle tissue with no joint involvement",
+        "the complete displacement of bone ends from their normal position within a joint, so that the articulating surfaces are no longer in proper contact",
+        "no pain, swelling, or loss of function whatsoever"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dislocation occurs when the bones forming a joint are forced out of their normal alignment so the articulating surfaces are no longer properly in contact, which is more severe than the ligament stretching seen in a sprain."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The R.I.C.E. protocol (Rest, Ice, Compression, Elevation) is the recommended immediate first-aid management specifically for",
+      "options": [
+        "severe open fractures requiring surgical intervention only",
+        "cardiac arrest, in place of CPR",
+        "choking, in place of the Heimlich manoeuvre",
+        "acute soft-tissue injuries such as sprains and strains, to limit swelling and control pain in the initial hours after injury"
+      ],
+      "correctIndex": 3,
+      "explanation": "R.I.C.E. -- Rest, Ice, Compression, Elevation -- is the standard immediate first-aid approach for acute soft-tissue injuries like sprains and strains, aimed at minimising swelling and pain in the first 24-72 hours."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "When performing adult CPR (cardiopulmonary resuscitation) according to widely taught guidelines, the recommended ratio of chest compressions to rescue breaths for a single rescuer is generally",
+      "options": [
+        "30 compressions to 2 breaths",
+        "15 compressions to 1 breath",
+        "5 compressions to 5 breaths",
+        "50 compressions to 10 breaths"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard adult CPR guidelines for a single rescuer recommend cycles of 30 chest compressions followed by 2 rescue breaths, repeated until help arrives or the person recovers."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The recovery position, taught in basic first aid, is primarily used for an unconscious but breathing casualty in order to",
+      "options": [
+        "restrain the casualty from any movement whatsoever",
+        "keep the airway open and reduce the risk of choking on vomit or the tongue obstructing the throat while awaiting further help",
+        "perform chest compressions more effectively",
+        "stimulate the casualty back into full consciousness immediately"
+      ],
+      "correctIndex": 1,
+      "explanation": "The recovery position keeps an unconscious, breathing casualty's airway clear, reducing the risk of choking on vomit or airway obstruction by the tongue, while medical help is awaited."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "The Heimlich manoeuvre (abdominal thrusts) is a first-aid technique specifically used to treat a person who is",
+      "options": [
+        "experiencing a cardiac arrest with no pulse",
+        "suffering a simple ankle sprain",
+        "choking, with a foreign object obstructing their airway",
+        "experiencing a nosebleed"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Heimlich manoeuvre uses forceful abdominal thrusts to dislodge a foreign object obstructing a choking person's airway, restoring normal breathing."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following correctly groups diseases according to their principal mode of transmission: malaria as vector-borne, tuberculosis as airborne, and cholera as waterborne?",
+      "options": [
+        "Malaria is spread by airborne droplets, tuberculosis by mosquito vectors, and cholera by direct skin contact",
+        "All three diseases are transmitted exclusively through contaminated water sources",
+        "All three diseases share an identical mode of transmission via mosquito vectors",
+        "Malaria is transmitted via the bite of an infected female Anopheles mosquito (vector-borne), tuberculosis primarily via airborne respiratory droplets, and cholera primarily via contaminated water or food"
+      ],
+      "correctIndex": 3,
+      "explanation": "Malaria is a vector-borne disease transmitted by infected Anopheles mosquitoes, tuberculosis spreads mainly via airborne respiratory droplets, and cholera is primarily a waterborne disease spread through contaminated water or food."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Sickle cell anaemia, a genetically inherited condition prevalent in Nigeria, follows a recessive inheritance pattern such that two parents who are both carriers (genotype AS) have, on average, what probability of producing a child with the full disease genotype (SS)?",
+      "options": [
+        "Approximately 25 percent (1 in 4) probability for each pregnancy",
+        "Zero probability; carriers can never have an affected child",
+        "Approximately 50 percent (1 in 2) probability for each pregnancy",
+        "100 percent probability for each pregnancy"
+      ],
+      "correctIndex": 0,
+      "explanation": "When both parents are AS carriers, Mendelian inheritance predicts an average of 25% AA (normal), 50% AS (carrier), and 25% SS (affected) offspring for each pregnancy, though outcomes vary randomly per individual pregnancy."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best distinguishes a communicable disease from a non-communicable disease in terms of underlying cause?",
+      "options": [
+        "Both types of disease are always caused by transmissible pathogens",
+        "A communicable disease is caused by a transmissible pathogen (such as a virus, bacterium, or parasite) and can spread between individuals, whereas a non-communicable disease typically arises from genetic, lifestyle, or environmental factors and does not spread person-to-person",
+        "Non-communicable diseases are always more contagious than communicable diseases",
+        "There is no meaningful distinction between the two categories"
+      ],
+      "correctIndex": 1,
+      "explanation": "Communicable diseases result from pathogens capable of transmission between individuals, whereas non-communicable diseases (such as hypertension, diabetes, or cancer) generally result from genetic, lifestyle, or environmental factors and do not spread from person to person."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Immunisation (vaccination) serves as a key public health strategy against communicable diseases mainly because it",
+      "options": [
+        "directly cures an existing active infection instantly",
+        "eliminates the need for any other hygiene or sanitation practices",
+        "stimulates the immune system to develop protective antibodies in advance, reducing the likelihood or severity of future infection by a specific pathogen",
+        "is effective only against non-communicable diseases"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vaccination primes the immune system to recognise and respond rapidly to a specific pathogen, reducing the likelihood of infection or the severity of disease upon future exposure."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Air pollution from vehicle exhaust and industrial emissions is a significant public health concern chiefly because it can",
+      "options": [
+        "have no measurable effect on human respiratory or cardiovascular health",
+        "only affect plant life with no impact on human beings",
+        "improve overall air quality by increasing oxygen concentration",
+        "contribute to respiratory diseases, cardiovascular problems, and long-term environmental harm such as acid rain and climate change"
+      ],
+      "correctIndex": 3,
+      "explanation": "Air pollution from vehicle and industrial emissions contributes to respiratory and cardiovascular disease in humans and drives broader environmental harms such as acid rain and climate change."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Hypertension, a major non-communicable disease risk factor, is generally defined by which of the following blood pressure characteristics?",
+      "options": [
+        "A persistently elevated arterial blood pressure, generally considered to be at or above 140/90 mmHg on repeated measurement",
+        "A persistently and abnormally low arterial blood pressure reading",
+        "A blood pressure reading that fluctuates only during vigorous exercise and never at rest",
+        "A condition defined exclusively by an abnormal heart rate with no reference to blood pressure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypertension is characterised by a persistently elevated arterial blood pressure, conventionally defined as readings at or above 140/90 mmHg on repeated measurement, increasing risk for stroke and heart disease."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Type 2 diabetes mellitus, a significant non-communicable disease, is primarily characterised by",
+      "options": [
+        "the complete absence of insulin production from birth",
+        "insulin resistance and/or relative insulin deficiency, leading to chronically elevated blood glucose levels",
+        "an excessively low blood glucose level that resolves without treatment",
+        "a disease exclusively affecting the respiratory system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Type 2 diabetes typically involves insulin resistance in body tissues combined with a relative deficiency in insulin production, resulting in chronically elevated blood glucose levels."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Anorexia nervosa and bulimia nervosa are both classified as eating disorders, but they are distinguished from one another chiefly by the fact that bulimia typically involves",
+      "options": [
+        "a total, sustained refusal to eat any food whatsoever with no binge-eating episodes",
+        "no psychological component at all, unlike anorexia",
+        "recurrent episodes of binge eating followed by compensatory behaviours such as self-induced vomiting, whereas anorexia is characterised primarily by severe self-imposed food restriction and an intense fear of weight gain",
+        "exclusively affecting male athletes and never female athletes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bulimia nervosa is characterised by cycles of binge eating followed by compensatory behaviours (such as vomiting or excessive exercise), while anorexia nervosa centres on severe voluntary food restriction driven by an intense fear of gaining weight."
+    },
+    {
+      "subject": "Physical and Health Education",
+      "text": "Which of the following best describes the appropriate first-aid management of a suspected fracture at the scene of a sports injury, prior to professional medical care?",
+      "options": [
+        "Forcefully realign the bone into its normal anatomical position immediately",
+        "Encourage the casualty to continue playing to 'walk it off'",
+        "Apply vigorous massage directly to the suspected fracture site",
+        "Immobilise the injured limb in the position found using an improvised splint, avoiding unnecessary movement, and seek urgent medical attention"
+      ],
+      "correctIndex": 3,
+      "explanation": "Correct first-aid management for a suspected fracture involves immobilising the limb as found, using a splint if available, avoiding unnecessary movement of the injured area, and arranging urgent medical attention -- never attempting to realign the bone."
+    }
+  ]
+}

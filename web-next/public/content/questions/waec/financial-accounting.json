@@ -1,0 +1,1206 @@
+{
+  "subject": "Financial Accounting",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "Financial Accounting",
+      "text": "Accounting is best defined as the process of",
+      "options": [
+        "transporting goods to the final consumer",
+        "manufacturing goods for sale",
+        "advertising a company's products",
+        "recording, classifying, summarizing, and interpreting financial transactions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Accounting systematically records business transactions and presents them in a form useful for decision-making."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The main purpose of financial accounting is to provide information mainly to",
+      "options": [
+        "customers about the price of goods only",
+        "government about the population of a country",
+        "banks about the exchange rate of currencies",
+        "owners, managers, and other interested parties about the financial performance of a business"
+      ],
+      "correctIndex": 3,
+      "explanation": "Financial accounting produces reports for owners, managers, creditors, government, and other stakeholders to assess performance and position."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting concept which assumes a business will continue operating for the foreseeable future is the",
+      "options": [
+        "going concern concept",
+        "accrual concept",
+        "consistency concept",
+        "prudence concept"
+      ],
+      "correctIndex": 0,
+      "explanation": "The going concern concept assumes the business will continue to operate normally and not be forced to liquidate in the near future."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting concept requiring revenue and expenses to be recorded when they are earned or incurred, not necessarily when cash changes hands, is the",
+      "options": [
+        "materiality concept",
+        "prudence concept",
+        "going concern concept",
+        "accrual (matching) concept"
+      ],
+      "correctIndex": 3,
+      "explanation": "The accrual concept matches revenues to the period they are earned and expenses to the period they are incurred, regardless of cash movement."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting concept that requires a business to use the same accounting methods from one period to the next is the",
+      "options": [
+        "consistency concept",
+        "prudence concept",
+        "entity concept",
+        "accrual concept"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consistency ensures accounting methods are applied uniformly over time so that financial statements remain comparable across periods."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting concept advising that revenue should not be recorded until reasonably certain, but all foreseeable losses should be provided for, is the",
+      "options": [
+        "materiality concept",
+        "consistency concept",
+        "prudence (conservatism) concept",
+        "going concern concept"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prudence ensures that assets and profits are not overstated, and losses/liabilities are not understated, in financial statements."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting concept concerned with items significant enough to influence the decisions of users of accounts is the",
+      "options": [
+        "consistency concept",
+        "entity concept",
+        "going concern concept",
+        "materiality concept"
+      ],
+      "correctIndex": 3,
+      "explanation": "Materiality allows minor items to be treated in the most convenient way, while significant items must be accurately reported."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting concept stating that every transaction has two effects on the accounting equation is the",
+      "options": [
+        "dual aspect concept",
+        "materiality concept",
+        "prudence concept",
+        "entity concept"
+      ],
+      "correctIndex": 0,
+      "explanation": "The dual aspect concept underlies double-entry bookkeeping: every transaction affects at least two accounts."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The accounting equation is correctly expressed as",
+      "options": [
+        "Liabilities = Assets + Capital",
+        "Capital = Assets + Liabilities",
+        "Assets = Liabilities + Capital",
+        "Assets = Capital - Liabilities"
+      ],
+      "correctIndex": 2,
+      "explanation": "The fundamental accounting equation states that a business's assets are financed either by liabilities (what it owes) or capital (owner's investment)."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "If a business has assets of ₦500,000 and liabilities of ₦200,000, its capital is",
+      "options": [
+        "₦300,000",
+        "₦500,000",
+        "₦200,000",
+        "₦700,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using Assets = Liabilities + Capital: 500,000 = 200,000 + Capital, so Capital = 300,000."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "In the ledger, accounts are broadly classified into",
+      "options": [
+        "debit and credit accounts only",
+        "personal, real, and nominal accounts",
+        "current and fixed accounts only",
+        "assets and liabilities only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ledger accounts are traditionally grouped into personal (people/organisations), real (assets), and nominal (income/expenses) accounts."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An account relating to individuals, firms, or organisations that the business deals with is called a",
+      "options": [
+        "suspense account",
+        "personal account",
+        "real account",
+        "nominal account"
+      ],
+      "correctIndex": 1,
+      "explanation": "Personal accounts record transactions with specific people or entities, such as debtors and creditors."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An account relating to tangible and intangible assets of a business is called a",
+      "options": [
+        "control account",
+        "real account",
+        "personal account",
+        "nominal account"
+      ],
+      "correctIndex": 1,
+      "explanation": "Real accounts track assets such as cash, buildings, machinery, and goodwill."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An account relating to expenses, losses, incomes, and gains is called a",
+      "options": [
+        "personal account",
+        "nominal account",
+        "real account",
+        "suspense account"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nominal accounts record items that affect the profit and loss of a business, such as rent expense or sales revenue."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Under the double-entry rule for personal accounts, the receiver of a benefit is",
+      "options": [
+        "ignored",
+        "credited",
+        "debited",
+        "balanced off immediately"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rule for personal accounts is: debit the receiver, credit the giver."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Under the double-entry rule for real accounts, what comes into the business is",
+      "options": [
+        "ignored",
+        "debited",
+        "written off",
+        "credited"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rule for real accounts is: debit what comes in, credit what goes out."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Under the double-entry rule for nominal accounts, all expenses and losses are",
+      "options": [
+        "debited",
+        "balanced to zero",
+        "credited",
+        "ignored"
+      ],
+      "correctIndex": 0,
+      "explanation": "The rule for nominal accounts is: debit all expenses and losses, credit all incomes and gains."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The book in which transactions are first recorded, before being posted to the ledger, is called a",
+      "options": [
+        "trial balance",
+        "control account",
+        "balance sheet",
+        "book of prime (original) entry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Books of prime entry, such as journals and the cash book, are where transactions are first recorded chronologically."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The book of prime entry used to record credit sales of goods to customers is the",
+      "options": [
+        "sales journal (sales day book)",
+        "purchases journal",
+        "general journal",
+        "cash book"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sales journal records all credit sales made to customers before they are posted to individual customer accounts."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The book of prime entry used to record credit purchases of goods for resale is the",
+      "options": [
+        "petty cash book",
+        "purchases journal (purchases day book)",
+        "sales journal",
+        "cash book"
+      ],
+      "correctIndex": 1,
+      "explanation": "The purchases journal records all credit purchases of goods intended for resale."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The book of prime entry used to record goods returned by customers to the business is the",
+      "options": [
+        "general journal",
+        "purchases returns journal",
+        "sales returns (returns inwards) journal",
+        "cash book"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sales returns journal records goods that customers send back to the business, also called returns inwards."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The book of prime entry used to record goods the business returns to its suppliers is the",
+      "options": [
+        "sales returns journal",
+        "cash book",
+        "petty cash book",
+        "purchases returns (returns outwards) journal"
+      ],
+      "correctIndex": 3,
+      "explanation": "The purchases returns journal records goods the business sends back to suppliers, also called returns outwards."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The book of prime entry used to record transactions that do not fit into any other specialised journal, such as opening entries and correction of errors, is the",
+      "options": [
+        "cash book",
+        "sales journal",
+        "general (journal proper)",
+        "purchases journal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The general journal (journal proper) records miscellaneous entries like opening balances, error corrections, and non-routine adjustments."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A cash book that records both cash and bank transactions in two separate columns is called a",
+      "options": [
+        "petty cash book",
+        "three-column cash book",
+        "single-column cash book",
+        "two-column cash book"
+      ],
+      "correctIndex": 3,
+      "explanation": "A two-column cash book has separate columns for cash and bank transactions on both the debit and credit sides."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A cash book with columns for cash, bank, and discount is called a",
+      "options": [
+        "single-column cash book",
+        "two-column cash book",
+        "three-column cash book",
+        "analytical cash book"
+      ],
+      "correctIndex": 2,
+      "explanation": "The three-column cash book adds a discount column (allowed on the debit side, received on the credit side) to the cash and bank columns."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Discount given to a debtor for prompt payment, recorded on the debit side of the cash book, is called",
+      "options": [
+        "trade discount",
+        "cash discount received",
+        "discount allowed",
+        "discount received"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discount allowed is given by the business to its customers for early payment, reducing the amount received."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Discount received from a creditor for prompt payment, recorded on the credit side of the cash book, is called",
+      "options": [
+        "discount allowed",
+        "discount received",
+        "bulk discount",
+        "trade discount"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount received is given to the business by its suppliers for early payment, reducing the amount paid out."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The system of maintaining a small cash fund, periodically reimbursed to restore it to a fixed amount, is called the",
+      "options": [
+        "double entry system",
+        "imprest system",
+        "single entry system",
+        "consignment system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under the imprest system, a fixed float is given to the petty cashier and topped up periodically to match the amount spent."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The petty cash book is mainly used to record",
+      "options": [
+        "large capital purchases such as machinery",
+        "small, day-to-day cash expenses such as postage and stationery",
+        "credit purchases from suppliers",
+        "credit sales to customers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The petty cash book records minor recurring expenses that are impractical to pay by cheque or record in the main cash book."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Cash paid into the bank is recorded on the",
+      "options": [
+        "credit side of the bank column only",
+        "debit side of both cash and bank columns",
+        "debit side of the cash column only",
+        "debit side of the bank column and credit side of the cash column in the cash book"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cash-to-bank lodgement is a contra entry: debit bank (money coming into the bank) and credit cash (money leaving the till)."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A trial balance is best described as",
+      "options": [
+        "a statement showing a firm's profit for the year",
+        "a book of prime entry for cash transactions",
+        "a list of ledger balances showing whether total debits equal total credits",
+        "a statement showing a firm's assets and liabilities only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The trial balance checks the arithmetical accuracy of the ledger by confirming that total debit balances equal total credit balances."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An error where a transaction is completely omitted from the books is called an error of",
+      "options": [
+        "original entry",
+        "principle",
+        "commission",
+        "omission"
+      ],
+      "correctIndex": 3,
+      "explanation": "An error of omission occurs when a transaction is not recorded at all, so it does not affect the trial balance's agreement."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An error where a transaction is entered in the correct class of account but the wrong person's account is called an error of",
+      "options": [
+        "commission",
+        "omission",
+        "principle",
+        "original entry"
+      ],
+      "correctIndex": 0,
+      "explanation": "An error of commission occurs when the right type of account is used, but the wrong specific account (e.g., wrong customer) is debited or credited."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An error where a transaction is entered against the fundamental rules of accounting, such as capital expenditure treated as revenue expenditure, is called an error of",
+      "options": [
+        "principle",
+        "original entry",
+        "omission",
+        "commission"
+      ],
+      "correctIndex": 0,
+      "explanation": "An error of principle occurs when an item is recorded in the wrong class of account altogether, breaching accounting rules."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An error where the wrong figure is used for both the debit and credit entries of a transaction is called an error of",
+      "options": [
+        "principle",
+        "original entry",
+        "complete reversal",
+        "commission"
+      ],
+      "correctIndex": 1,
+      "explanation": "An error of original entry occurs when an incorrect amount is entered for a transaction, but the double entry is still balanced."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An error where the debit and credit entries of a transaction are entered on the wrong sides of the correct accounts is called an error of",
+      "options": [
+        "complete reversal of entries",
+        "original entry",
+        "omission",
+        "commission"
+      ],
+      "correctIndex": 0,
+      "explanation": "Complete reversal happens when the correct accounts are used but the debit and credit sides are switched."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Which of the following errors would cause a trial balance to disagree?",
+      "options": [
+        "Treating a capital expense as a revenue expense",
+        "Posting only one side of a transaction to the ledger",
+        "Recording a transaction in the wrong personal account",
+        "Omitting a transaction entirely from the books"
+      ],
+      "correctIndex": 1,
+      "explanation": "A one-sided entry directly breaks the equality of total debits and credits, causing the trial balance to disagree, unlike the other listed errors."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An account opened temporarily to record the difference when a trial balance fails to balance is called a",
+      "options": [
+        "real account",
+        "nominal account",
+        "control account",
+        "suspense account"
+      ],
+      "correctIndex": 3,
+      "explanation": "A suspense account temporarily holds the trial balance difference until the underlying errors are found and corrected."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Expenses paid in the current period but relating to the next accounting period are called",
+      "options": [
+        "outstanding expenses",
+        "prepaid expenses (prepayments)",
+        "accrued expenses",
+        "capital expenses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prepayments are expenses paid in advance of the period they relate to, and are treated as an asset in the balance sheet."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Expenses incurred in the current period but not yet paid are called",
+      "options": [
+        "accrued expenses (accruals)",
+        "prepaid expenses",
+        "capital expenses",
+        "drawings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Accrued expenses are costs that have been incurred but not yet paid, and are treated as a liability in the balance sheet."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The reduction in the value of a fixed asset due to wear and tear, age, or obsolescence is called",
+      "options": [
+        "provision for doubtful debts",
+        "depreciation",
+        "amortisation of goodwill",
+        "appreciation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Depreciation systematically allocates the cost of a fixed asset as an expense over its useful life."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The method of depreciation that charges an equal amount of depreciation each year over an asset's useful life is the",
+      "options": [
+        "straight-line method",
+        "reducing balance method",
+        "sum-of-the-years method",
+        "revaluation method"
+      ],
+      "correctIndex": 0,
+      "explanation": "The straight-line method spreads depreciation evenly, calculated as (Cost - Residual Value) / Useful Life."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The method of depreciation that charges a fixed percentage on the asset's book value each year, resulting in higher charges in earlier years, is the",
+      "options": [
+        "units of production method",
+        "straight-line method",
+        "revaluation method",
+        "reducing (diminishing) balance method"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reducing balance method applies a constant rate to the asset's remaining book value, so depreciation charges decrease over time."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Debts owed to a business that are considered irrecoverable and are written off are called",
+      "options": [
+        "discount allowed",
+        "accrued income",
+        "prepaid expenses",
+        "bad debts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bad debts arise when a customer is unable or unwilling to pay, and the amount is written off as an expense."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An estimated amount set aside to cover debts that may become uncollectible in the future is called",
+      "options": [
+        "bad debts written off",
+        "provision for doubtful debts",
+        "discount allowed",
+        "accrued expenses"
+      ],
+      "correctIndex": 1,
+      "explanation": "A provision for doubtful debts is a prudent estimate of debts that might not be collected, reducing the receivables to a realistic value."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The account that shows the gross profit or gross loss made from buying and selling goods during a period is the",
+      "options": [
+        "capital account",
+        "balance sheet",
+        "profit and loss account",
+        "trading account"
+      ],
+      "correctIndex": 3,
+      "explanation": "The trading account calculates gross profit (or loss) as sales minus cost of goods sold."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Gross profit is calculated as",
+      "options": [
+        "Cost of Goods Sold - Sales",
+        "Sales - Cost of Goods Sold",
+        "Sales + Cost of Goods Sold",
+        "Sales - Total Expenses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gross profit measures the profit made purely from trading activities, before deducting operating expenses."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The cost of goods sold is calculated as",
+      "options": [
+        "Closing Stock - Opening Stock",
+        "Opening Stock - Purchases + Closing Stock",
+        "Opening Stock + Purchases - Closing Stock",
+        "Sales - Gross Profit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cost of goods sold reflects the value of stock actually sold, found by adding purchases to opening stock and subtracting what remains unsold."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The account that shows the net profit or net loss of a business after deducting operating expenses from gross profit is the",
+      "options": [
+        "profit and loss account (statement of profit or loss)",
+        "manufacturing account",
+        "trading account",
+        "balance sheet"
+      ],
+      "correctIndex": 0,
+      "explanation": "The profit and loss account deducts expenses such as rent, salaries, and depreciation from gross profit to arrive at net profit."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Net profit is calculated as",
+      "options": [
+        "Gross Profit + Cost of Goods Sold",
+        "Sales - Purchases",
+        "Gross Profit - Operating Expenses + Other Income",
+        "Total Assets - Total Liabilities"
+      ],
+      "correctIndex": 2,
+      "explanation": "Net profit reflects overall profitability after accounting for all operating expenses and additional incomes, starting from gross profit."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A statement showing a business's assets, liabilities, and capital at a specific point in time is called a",
+      "options": [
+        "balance sheet (statement of financial position)",
+        "trading account",
+        "profit and loss account",
+        "cash flow statement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The balance sheet is a snapshot of what a business owns (assets), owes (liabilities), and the owner's stake (capital) on a given date."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Assets that are expected to be converted into cash, sold, or used up within one year are called",
+      "options": [
+        "contingent assets",
+        "fixed (non-current) assets",
+        "current assets",
+        "intangible assets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Current assets, such as stock, debtors, and cash, are short-term resources expected to be used within the normal operating cycle."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Assets held for long-term use in the business, such as land, buildings, and machinery, are called",
+      "options": [
+        "fixed (non-current) assets",
+        "contra assets",
+        "current assets",
+        "current liabilities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fixed assets are long-term resources used to generate income over multiple accounting periods, not intended for resale."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Cash or goods withdrawn by the owner of a business for personal use are called",
+      "options": [
+        "accrued income",
+        "capital",
+        "prepaid expenses",
+        "drawings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drawings reduce the owner's capital, as they represent resources taken out of the business for personal use."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The amount invested by the owner into the business, plus retained profits less drawings, represents the",
+      "options": [
+        "capital",
+        "current liabilities",
+        "fixed assets",
+        "gross profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Capital reflects the owner's residual claim on the business's assets after all liabilities have been deducted."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A bank reconciliation statement is prepared mainly to",
+      "options": [
+        "record credit sales to customers",
+        "explain the difference between the cash book balance and the bank statement balance",
+        "determine the value of closing stock",
+        "calculate the net profit of a business"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bank reconciliation identifies and explains timing differences and errors between a firm's cash book and the bank's own records."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Cheques issued by a business but not yet presented to the bank for payment are called",
+      "options": [
+        "uncredited lodgements",
+        "dishonoured cheques",
+        "standing order payments",
+        "unpresented cheques"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unpresented cheques have been written and recorded in the cash book but have not yet been cashed by the payee at the bank."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Cheques or cash paid into the bank by a business but not yet recorded (credited) on the bank statement are called",
+      "options": [
+        "unpresented cheques",
+        "dishonoured cheques",
+        "bank charges",
+        "uncredited lodgements (deposits in transit)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uncredited lodgements have been deposited and recorded in the cash book but the bank has not yet processed and shown them on the statement."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Charges deducted directly by the bank for services rendered, which appear on the bank statement before being entered in the cash book, are called",
+      "options": [
+        "dishonoured cheques",
+        "uncredited lodgements",
+        "bank charges",
+        "standing orders"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bank charges are fees the bank deducts automatically; the business only learns of them from the bank statement and records them afterward."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A regular, fixed payment instruction given by a customer to their bank to pay a third party is called a",
+      "options": [
+        "direct debit",
+        "bank charge",
+        "dishonoured cheque",
+        "standing order"
+      ],
+      "correctIndex": 3,
+      "explanation": "A standing order is a fixed instruction to the bank to pay a set amount at regular intervals to a specified payee."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A cheque that a bank refuses to honour, usually due to insufficient funds, is called a",
+      "options": [
+        "uncredited lodgement",
+        "standing order",
+        "dishonoured cheque",
+        "unpresented cheque"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dishonoured cheque is returned unpaid by the bank, requiring the amount to be reversed in the drawer's cash book."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The cash book balance is adjusted for items such as bank charges and standing orders to produce the",
+      "options": [
+        "adjusted cash book balance",
+        "trading account balance",
+        "trial balance",
+        "bank statement balance"
+      ],
+      "correctIndex": 0,
+      "explanation": "The adjusted cash book incorporates items the bank already knows about but the business has not yet recorded, arriving at the true cash book balance."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A sales ledger control account is mainly used to",
+      "options": [
+        "calculate the depreciation of fixed assets",
+        "record cash purchases only",
+        "verify the accuracy of the total balances of individual debtors' accounts",
+        "determine the cost of goods sold"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sales ledger control account summarises all transactions with debtors, and its closing balance should match the total of individual debtor balances."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A purchases ledger control account is mainly used to",
+      "options": [
+        "verify the accuracy of the total balances of individual creditors' accounts",
+        "record cash sales only",
+        "record fixed asset purchases only",
+        "calculate gross profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "The purchases ledger control account summarises all transactions with creditors, and its closing balance should match the total of individual creditor balances."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "In a sales ledger control account, cash received from debtors is recorded on the",
+      "options": [
+        "credit side",
+        "both sides equally",
+        "debit side",
+        "neither side"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cash received from debtors reduces what they owe, so it is credited to the sales ledger control account, which normally has a debit balance."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "In a purchases ledger control account, credit purchases from suppliers are recorded on the",
+      "options": [
+        "credit side",
+        "both sides equally",
+        "debit side",
+        "neither side"
+      ],
+      "correctIndex": 0,
+      "explanation": "Credit purchases increase what the business owes to suppliers, so they are credited to the purchases ledger control account."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Control accounts help to",
+      "options": [
+        "eliminate the need for a trial balance",
+        "replace the need for books of prime entry",
+        "locate errors quickly by isolating them to a particular ledger",
+        "calculate a company's net asset value"
+      ],
+      "correctIndex": 2,
+      "explanation": "By summarising a whole ledger in one account, control accounts help pinpoint which ledger contains an error when totals disagree."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A partnership is generally defined as an association of persons carrying on business together with a view to",
+      "options": [
+        "making and sharing profit",
+        "eliminating competition in an industry",
+        "avoiding taxation",
+        "reducing the number of employees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Partnerships exist for two or more people to combine resources and skills in a joint business venture aimed at profit."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Where partners contribute capital that remains fixed unless additional capital is introduced or withdrawn, and profit-related entries pass through a separate account, the firm is using",
+      "options": [
+        "fixed capital accounts (with current accounts)",
+        "no capital accounts at all",
+        "a single capital account only",
+        "fluctuating capital accounts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under fixed capital accounts, capital balances stay constant while drawings, interest, salaries, and profit shares are recorded in separate current accounts."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Where all partnership transactions, including profit shares and drawings, are recorded directly in one capital account per partner, the firm is using",
+      "options": [
+        "current accounts only",
+        "fixed capital accounts",
+        "fluctuating capital accounts",
+        "a control account"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fluctuating capital accounts combine everything into a single account per partner, so the balance changes (fluctuates) every period."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The account used to distribute a partnership's net profit among the partners, after adjusting for salaries and interest, is called the",
+      "options": [
+        "suspense account",
+        "control account",
+        "trading account",
+        "profit and loss appropriation account"
+      ],
+      "correctIndex": 3,
+      "explanation": "The appropriation account shows how the net profit is shared out among partners after salaries, interest on capital, and interest on drawings are accounted for."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "In the absence of a partnership agreement, interest on partners' capital is",
+      "options": [
+        "allowed at 5% per annum",
+        "allowed at the bank lending rate",
+        "allowed at 10% per annum",
+        "not allowed"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under the Partnership Act, if there is no agreement, no interest is allowed on capital contributed by partners."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Interest charged on a partner's drawings is meant to",
+      "options": [
+        "reduce a partner's total capital contribution",
+        "compensate the firm for money withdrawn before it is due",
+        "increase the total profit available for appropriation",
+        "reward a partner for working harder than others"
+      ],
+      "correctIndex": 1,
+      "explanation": "Interest on drawings discourages partners from withdrawing cash early and compensates the firm for the funds' reduced availability."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A fixed amount paid to a partner for their extra effort or specific role in the business, before profit sharing, is called a",
+      "options": [
+        "partner's drawing",
+        "partner's salary",
+        "goodwill",
+        "interest on capital"
+      ],
+      "correctIndex": 1,
+      "explanation": "A partner's salary rewards additional responsibilities or work input and is deducted before the remaining profit is shared."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The intangible value of a business's reputation, customer base, and trading advantages above its net tangible assets is called",
+      "options": [
+        "goodwill",
+        "drawings",
+        "capital",
+        "provision for depreciation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Goodwill represents the extra value a business commands due to its reputation, location, and customer loyalty, beyond its physical assets."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "When a new partner is admitted into a partnership, goodwill is usually revalued because",
+      "options": [
+        "the new partner automatically becomes the managing partner",
+        "capital accounts must always remain fixed",
+        "the new partner should compensate the old partners for the firm's existing reputation and future profit-earning potential",
+        "the business must always be dissolved first"
+      ],
+      "correctIndex": 2,
+      "explanation": "Goodwill valuation on admission ensures new partners pay fairly for the advantages built up by the existing partners before joining."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "When a partner retires from a firm, their share of goodwill is normally",
+      "options": [
+        "credited to their capital account and debited to the remaining partners in their new profit-sharing ratio",
+        "written off completely with no compensation",
+        "transferred directly to the bank account",
+        "ignored in the final accounts"
+      ],
+      "correctIndex": 0,
+      "explanation": "On retirement, the retiring partner is compensated for their share of goodwill, usually borne by the continuing partners."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The complete winding up of a partnership business, where assets are sold and liabilities settled, is called",
+      "options": [
+        "appropriation",
+        "dissolution",
+        "incorporation",
+        "amalgamation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dissolution is the process of closing down a partnership entirely, realising its assets, and paying off its liabilities."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "On dissolution of a partnership, the account used to record the sale of assets and settlement of liabilities is called the",
+      "options": [
+        "realisation account",
+        "control account",
+        "current account",
+        "appropriation account"
+      ],
+      "correctIndex": 0,
+      "explanation": "The realisation account records the disposal of assets and payment of liabilities, with any resulting profit or loss shared among partners."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "On dissolution, if the sale of assets realises more than their book value, the resulting profit is",
+      "options": [
+        "kept entirely by the managing partner",
+        "paid to the firm's creditors only",
+        "returned to customers as a refund",
+        "shared among the partners in their profit-sharing ratio"
+      ],
+      "correctIndex": 3,
+      "explanation": "Any profit or loss on realisation during dissolution is distributed among partners according to their agreed profit-sharing ratio."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A partner who contributes capital and shares in profits but does not take part in the day-to-day management of the firm is called a",
+      "options": [
+        "nominal partner",
+        "sleeping (dormant) partner",
+        "quasi partner",
+        "active partner"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sleeping partner invests capital and shares profits/losses but stays out of active management of the business."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The document evidencing part-ownership of a limited liability company, issued in exchange for the shareholder's capital contribution, is called a",
+      "options": [
+        "bond",
+        "share",
+        "cheque",
+        "debenture"
+      ],
+      "correctIndex": 1,
+      "explanation": "A share represents a unit of ownership in a company, entitling the holder to dividends and voting rights, depending on the class of share."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "When shares are issued at exactly their nominal (face) value, they are said to be issued",
+      "options": [
+        "ex-dividend",
+        "at a premium",
+        "at a discount",
+        "at par"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shares issued at par are sold for exactly their stated nominal value, with no extra amount added or deducted."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "When shares are issued for more than their nominal (face) value, the excess is called a",
+      "options": [
+        "goodwill",
+        "share premium",
+        "share discount",
+        "debenture interest"
+      ],
+      "correctIndex": 1,
+      "explanation": "A share premium arises when investors pay more than the nominal value for shares, often reflecting the company's strong prospects."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "When shares are issued for less than their nominal (face) value, they are said to be issued",
+      "options": [
+        "at face value",
+        "at a premium",
+        "at a discount",
+        "at par"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shares issued at a discount are sold below their nominal value, though this is subject to strict legal restrictions."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A long-term loan capital instrument issued by a company, carrying a fixed rate of interest and not conferring ownership rights, is called a",
+      "options": [
+        "bonus share",
+        "ordinary share",
+        "debenture",
+        "preference share"
+      ],
+      "correctIndex": 2,
+      "explanation": "Debentures represent borrowed (loan) capital, unlike shares, which represent ownership; debenture holders are creditors, not owners."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Unlike ordinary shareholders, debenture holders receive",
+      "options": [
+        "a fixed rate of interest, payable whether or not the company makes a profit",
+        "a share of the company's net assets before any other claim",
+        "a variable dividend depending on profit levels only",
+        "voting rights at the company's annual general meeting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Debenture interest is a fixed obligation of the company and must be paid regardless of whether profits are made, unlike ordinary dividends."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Bookkeeping in which only a single entry, rather than a complete double entry, is made for each transaction is called",
+      "options": [
+        "double entry system",
+        "control account system",
+        "imprest system",
+        "single entry (incomplete records) system"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under incomplete records, not every transaction is recorded with a corresponding debit and credit, so records are less than a full double-entry system."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Where a business keeps incomplete records, the opening and closing capital can be found by preparing a",
+      "options": [
+        "manufacturing account",
+        "trial balance",
+        "statement of affairs",
+        "bank reconciliation statement"
+      ],
+      "correctIndex": 2,
+      "explanation": "A statement of affairs, similar in form to a balance sheet, is used to estimate capital at a point in time from incomplete records."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Under incomplete records, profit for the period can be estimated using the formula",
+      "options": [
+        "Sales - Cost of Goods Sold",
+        "Total Assets - Total Liabilities only",
+        "Cash Received - Cash Paid",
+        "Closing Capital + Drawings - Additional Capital Introduced - Opening Capital"
+      ],
+      "correctIndex": 3,
+      "explanation": "Profit is derived by comparing capital at the start and end of the period, adjusting for drawings taken out and additional capital put in."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Under incomplete records, total credit sales for the period can be estimated by preparing a",
+      "options": [
+        "total creditors account",
+        "total debtors (sales ledger) account",
+        "manufacturing account",
+        "trading account"
+      ],
+      "correctIndex": 1,
+      "explanation": "A total debtors account reconstructs credit sales figures using known opening/closing debtor balances, cash received, and other adjustments."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "Under incomplete records, total credit purchases for the period can be estimated by preparing a",
+      "options": [
+        "profit and loss account",
+        "trading account",
+        "total debtors account",
+        "total creditors (purchases ledger) account"
+      ],
+      "correctIndex": 3,
+      "explanation": "A total creditors account reconstructs credit purchases using known opening/closing creditor balances, cash paid, and other adjustments."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An organisation set up not to make a profit but to provide services to its members, such as a sports club, is called a",
+      "options": [
+        "partnership",
+        "public limited company",
+        "not-for-profit (non-trading) organisation",
+        "sole proprietorship"
+      ],
+      "correctIndex": 2,
+      "explanation": "Not-for-profit organisations, like clubs and societies, exist to serve their members' interests rather than to generate profit for owners."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A summary of cash actually received and paid by a club during a period, similar to a cash book summary, is called a",
+      "options": [
+        "appropriation account",
+        "receipts and payments account",
+        "income and expenditure account",
+        "trading account"
+      ],
+      "correctIndex": 1,
+      "explanation": "The receipts and payments account records only actual cash movements, without adjusting for accruals or prepayments."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "A statement prepared for a club, on the accrual basis, showing whether it made a surplus or deficit for the period, is called an",
+      "options": [
+        "receipts and payments account",
+        "trading account",
+        "income and expenditure account",
+        "manufacturing account"
+      ],
+      "correctIndex": 2,
+      "explanation": "The income and expenditure account is the not-for-profit equivalent of a profit and loss account, prepared on an accrual basis."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "In a not-for-profit organisation, the equivalent of capital, representing accumulated surpluses over the years, is called the",
+      "options": [
+        "accumulated fund",
+        "trading capital",
+        "share capital",
+        "goodwill"
+      ],
+      "correctIndex": 0,
+      "explanation": "The accumulated fund is built up from surpluses (and reduced by deficits) over time, similar to retained earnings in a trading business."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "An account prepared by a manufacturing business to determine the total cost of goods produced during a period is called the",
+      "options": [
+        "profit and loss account",
+        "manufacturing account",
+        "trading account",
+        "appropriation account"
+      ],
+      "correctIndex": 1,
+      "explanation": "The manufacturing account calculates the production cost of goods manufactured, which then feeds into the trading account as cost of goods sold."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "In a manufacturing account, the cost of materials and labour directly traceable to production is classified as",
+      "options": [
+        "factory overhead",
+        "indirect cost",
+        "administrative cost",
+        "prime (direct) cost"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prime cost consists of direct materials, direct labour, and direct expenses that can be directly attributed to production."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "The total production cost of goods completed during the period, transferred to the trading account, is called the",
+      "options": [
+        "gross profit",
+        "cost of production (of finished goods)",
+        "prime cost",
+        "factory overheads"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cost of production combines prime cost and factory overheads, adjusted for work-in-progress, to give the cost of goods manufactured."
+    },
+    {
+      "subject": "Financial Accounting",
+      "text": "If manufactured goods are transferred to the trading account at a value higher than their production cost, the difference represents a",
+      "options": [
+        "manufacturing loss",
+        "capital gain",
+        "trading loss",
+        "manufacturing profit"
+      ],
+      "correctIndex": 3,
+      "explanation": "A manufacturing profit arises when goods are valued for transfer at more than they actually cost to produce, reflecting an internal 'mark-up'."
+    }
+  ]
+}

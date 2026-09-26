@@ -1,0 +1,43 @@
+{
+  "subject": "mathematics",
+  "label": "Mathematics",
+  "department": "core",
+  "topics": [
+    {
+      "id": "ss1-t1-w1",
+      "class": "ss1",
+      "term": 1,
+      "week": 1,
+      "title": "Number Base System",
+      "objectives": [
+        "Convert numbers from base 10 to other bases (2, 5, 8)",
+        "Convert numbers from other bases back to base 10",
+        "Add and subtract numbers in a given base"
+      ]
+    },
+    {
+      "id": "ss1-t1-w2",
+      "class": "ss1",
+      "term": 1,
+      "week": 2,
+      "title": "Indices",
+      "objectives": [
+        "State and apply the laws of indices",
+        "Simplify expressions involving positive, negative, and zero indices",
+        "Solve simple equations involving indices"
+      ]
+    },
+    {
+      "id": "ss1-t1-w3",
+      "class": "ss1",
+      "term": 1,
+      "week": 3,
+      "title": "Logarithms",
+      "objectives": [
+        "Relate logarithms to indices",
+        "Use logarithm tables for multiplication and division",
+        "Apply the laws of logarithms to simplify expressions"
+      ]
+    }
+  ]
+}

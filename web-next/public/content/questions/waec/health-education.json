@@ -1,0 +1,1206 @@
+{
+  "subject": "Health Education",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "Health Education",
+      "text": "The body system made up of bones, providing structural support and protection for internal organs, is called the",
+      "options": [
+        "skeletal system",
+        "circulatory system",
+        "nervous system",
+        "muscular system"
+      ],
+      "correctIndex": 0,
+      "explanation": "The skeletal system provides the body's structural framework, protecting internal organs and supporting movement in conjunction with muscles."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A joint that allows movement in only one plane, similar to the action of a door hinge, such as the elbow or knee, is called a",
+      "options": [
+        "hinge joint",
+        "gliding joint",
+        "pivot joint",
+        "ball-and-socket joint"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hinge joints, such as the elbow and knee, allow movement in a single plane, similar to the back-and-forth motion of a door hinge."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A joint that allows movement in multiple directions, formed by a rounded bone end fitting into a cup-shaped socket, such as the hip or shoulder, is called a",
+      "options": [
+        "hinge joint",
+        "gliding joint",
+        "pivot joint",
+        "ball-and-socket joint"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ball-and-socket joints, found at the hip and shoulder, allow a wide range of movement in multiple directions."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The tough, flexible connective tissue that cushions joints and gives shape to structures like the ear and nose is called",
+      "options": [
+        "cartilage",
+        "ligament",
+        "tendon",
+        "bone marrow"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cartilage is a flexible connective tissue that cushions joints and provides structural support in areas like the ears and nose."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The strong, fibrous connective tissue that attaches bone to bone, stabilising joints, is called a",
+      "options": [
+        "ligament",
+        "tendon",
+        "cartilage",
+        "muscle fibre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ligaments connect bone to bone, providing stability and preventing excessive movement at a joint."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The strong, fibrous connective tissue that attaches muscle to bone, allowing movement when the muscle contracts, is called a",
+      "options": [
+        "muscle fibre",
+        "ligament",
+        "tendon",
+        "cartilage"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tendons connect muscles to bones, transmitting the force of muscle contraction to produce movement at a joint."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A postural defect characterised by an excessive outward (rounded) curvature of the upper spine is called",
+      "options": [
+        "lordosis",
+        "arthritis",
+        "kyphosis",
+        "scoliosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kyphosis is an abnormal, excessive outward curvature of the upper spine, sometimes referred to as a 'hunchback' posture."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A postural defect characterised by an excessive inward curvature of the lower spine is called",
+      "options": [
+        "scoliosis",
+        "lordosis",
+        "arthritis",
+        "kyphosis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lordosis is an abnormal, excessive inward curvature of the lower (lumbar) spine, sometimes called 'swayback'."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A postural defect characterised by an abnormal sideways curvature of the spine is called",
+      "options": [
+        "arthritis",
+        "scoliosis",
+        "lordosis",
+        "kyphosis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scoliosis is an abnormal sideways curvature of the spine, which can develop during childhood growth spurts."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key corrective habit for preventing postural defects is to",
+      "options": [
+        "carry heavy bags on only one shoulder every day",
+        "maintain correct sitting and standing posture, and avoid carrying heavy loads unevenly",
+        "always slouch when sitting for long periods",
+        "avoid all forms of physical activity entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maintaining good posture and avoiding uneven heavy loads are key habits that help prevent the development of postural defects over time."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The muscular organ responsible for pumping blood throughout the body is the",
+      "options": [
+        "liver",
+        "kidney",
+        "heart",
+        "lung"
+      ],
+      "correctIndex": 2,
+      "explanation": "The heart is the muscular pump at the centre of the circulatory system, driving blood throughout the body."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Blood vessels that carry oxygenated blood away from the heart to the rest of the body are called",
+      "options": [
+        "capillaries",
+        "arteries",
+        "lymph vessels",
+        "veins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arteries carry oxygen-rich blood away from the heart to tissues throughout the body (with the exception of the pulmonary artery)."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Blood vessels that carry deoxygenated blood back toward the heart are called",
+      "options": [
+        "arteries",
+        "veins",
+        "capillaries",
+        "lymph vessels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Veins return deoxygenated blood back toward the heart (with the exception of the pulmonary vein)."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The smallest blood vessels, where the exchange of oxygen, nutrients, and waste products occurs between blood and body tissues, are called",
+      "options": [
+        "veins",
+        "capillaries",
+        "arteries",
+        "lymph vessels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capillaries are tiny, thin-walled vessels where the actual exchange of gases, nutrients, and waste occurs between blood and surrounding tissues."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The straw-coloured liquid component of blood, in which blood cells are suspended, is called",
+      "options": [
+        "leukocytes",
+        "erythrocytes",
+        "plasma",
+        "platelets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plasma is the liquid portion of blood, carrying nutrients, hormones, and waste products, and suspending the blood's various cells."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Red blood cells, responsible for transporting oxygen throughout the body, are called",
+      "options": [
+        "erythrocytes",
+        "plasma",
+        "leukocytes",
+        "platelets"
+      ],
+      "correctIndex": 0,
+      "explanation": "Erythrocytes (red blood cells) contain haemoglobin, which binds and transports oxygen throughout the body."
+    },
+    {
+      "subject": "Health Education",
+      "text": "White blood cells, primarily responsible for defending the body against infection, are called",
+      "options": [
+        "platelets",
+        "plasma",
+        "erythrocytes",
+        "leukocytes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Leukocytes (white blood cells) form a key part of the immune system, defending the body against infections and foreign invaders."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Small cell fragments in the blood responsible for clotting to stop bleeding are called",
+      "options": [
+        "platelets",
+        "leukocytes",
+        "erythrocytes",
+        "plasma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Platelets are small cell fragments that clump together and initiate blood clotting to prevent excessive bleeding after an injury."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The organ primarily responsible for filtering waste products from the blood and producing urine is the",
+      "options": [
+        "kidney",
+        "lung",
+        "liver",
+        "heart"
+      ],
+      "correctIndex": 0,
+      "explanation": "The kidneys filter waste products and excess substances from the blood, producing urine to be eliminated from the body."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The tiny functional filtering units within the kidney, responsible for producing urine, are called",
+      "options": [
+        "nephrons",
+        "neurons",
+        "alveoli",
+        "villi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nephrons are the microscopic filtering units within each kidney, responsible for processing blood and producing urine."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The largest internal organ, responsible for functions including detoxification, bile production, and nutrient processing, is the",
+      "options": [
+        "heart",
+        "pancreas",
+        "liver",
+        "kidney"
+      ],
+      "correctIndex": 2,
+      "explanation": "The liver performs numerous vital functions, including detoxifying harmful substances, producing bile, and processing nutrients absorbed from digestion."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Waste products and excess water are also eliminated from the body through small openings in the skin called",
+      "options": [
+        "villi",
+        "alveoli",
+        "pores (via sweat)",
+        "nephrons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Skin pores release sweat, which helps eliminate certain waste products and excess water, while also regulating body temperature."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A gland located at the base of the brain, often called the 'master gland' because it regulates many other endocrine glands, is the",
+      "options": [
+        "thyroid gland",
+        "pituitary gland",
+        "adrenal gland",
+        "pancreas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pituitary gland is often called the 'master gland' because its hormones regulate the activity of many other endocrine glands in the body."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A gland located in the neck that regulates the body's metabolic rate through hormone production is the",
+      "options": [
+        "pituitary gland",
+        "thyroid gland",
+        "pancreas",
+        "adrenal gland"
+      ],
+      "correctIndex": 1,
+      "explanation": "The thyroid gland produces hormones that regulate the body's overall metabolic rate."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A gland that produces insulin, a hormone essential for regulating blood glucose levels, is the",
+      "options": [
+        "thyroid gland",
+        "pancreas",
+        "pituitary gland",
+        "adrenal gland"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pancreas produces insulin, a hormone that helps regulate blood glucose levels by facilitating its uptake into cells."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Glands located above each kidney, responsible for producing hormones involved in the stress response, are the",
+      "options": [
+        "pancreas",
+        "thyroid gland",
+        "pituitary gland",
+        "adrenal glands"
+      ],
+      "correctIndex": 3,
+      "explanation": "The adrenal glands, situated above the kidneys, produce hormones such as adrenaline, central to the body's stress response."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The basic functional unit of the nervous system, responsible for transmitting electrical and chemical signals, is called a",
+      "options": [
+        "erythrocyte",
+        "leukocyte",
+        "nephron",
+        "neuron"
+      ],
+      "correctIndex": 3,
+      "explanation": "Neurons are specialised cells that transmit electrical and chemical signals throughout the nervous system."
+    },
+    {
+      "subject": "Health Education",
+      "text": "An automatic, involuntary response to a stimulus, occurring without conscious thought, is called a",
+      "options": [
+        "voluntary action",
+        "reflex action",
+        "digestive process",
+        "circulatory process"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reflex actions are rapid, automatic responses to stimuli that occur without requiring conscious thought, such as pulling a hand away from something hot."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Good personal hygiene of the skin generally involves",
+      "options": [
+        "avoiding all forms of washing to preserve natural oils",
+        "never changing clothing regardless of activity",
+        "applying substances that clog pores intentionally",
+        "regular washing to remove dirt, sweat, and dead skin cells"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regular washing helps maintain healthy skin by removing dirt, excess sweat, and dead skin cells, reducing the risk of skin problems."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Good dental hygiene generally involves",
+      "options": [
+        "regular brushing and flossing to remove food particles and plaque",
+        "ignoring dental check-ups indefinitely",
+        "consuming only sugary foods with no other dietary considerations",
+        "avoiding brushing entirely to protect tooth enamel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Regular brushing and flossing help remove food particles and plaque, preventing tooth decay and gum disease."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Good eye care generally involves",
+      "options": [
+        "staring directly at bright light sources for extended periods",
+        "rubbing the eyes vigorously with dirty hands",
+        "ignoring any changes in vision indefinitely",
+        "protecting the eyes from strain and injury, and having regular check-ups"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protecting the eyes from strain, injury, and harmful exposure, along with regular check-ups, supports good long-term eye health."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Good ear care generally involves",
+      "options": [
+        "regularly inserting sharp objects deep into the ear canal",
+        "keeping the outer ear clean and avoiding inserting sharp objects into the ear canal",
+        "ignoring any pain or discharge from the ear indefinitely",
+        "exposing the ears to extremely loud noise without protection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gently cleaning the outer ear and avoiding inserting objects into the ear canal helps prevent injury and infection."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Good hand hygiene, particularly regular handwashing, is important mainly because it",
+      "options": [
+        "increases the spread of germs significantly",
+        "has no effect on disease transmission at all",
+        "is only necessary once a week",
+        "helps prevent the spread of germs and infectious disease"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regular handwashing is one of the most effective ways to reduce the spread of germs and prevent infectious disease transmission."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Good foot care generally involves",
+      "options": [
+        "keeping feet clean and dry, and wearing properly fitting footwear",
+        "wearing ill-fitting shoes regardless of comfort",
+        "avoiding all forms of foot hygiene",
+        "ignoring any foot pain or injury indefinitely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Keeping feet clean, dry, and properly protected with well-fitting footwear helps prevent infections and other foot problems."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The system responsible for coordinating rapid responses to stimuli using electrical signals throughout the body is the",
+      "options": [
+        "nervous system",
+        "excretory system",
+        "endocrine system",
+        "digestive system"
+      ],
+      "correctIndex": 0,
+      "explanation": "The nervous system coordinates rapid responses to internal and external stimuli using electrical and chemical signals transmitted through neurons."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A disease-causing microorganism, such as a virus, bacterium, fungus, or protozoan, is called a",
+      "options": [
+        "antibody",
+        "vector",
+        "antigen",
+        "pathogen"
+      ],
+      "correctIndex": 3,
+      "explanation": "A pathogen is any microorganism capable of causing disease, including viruses, bacteria, fungi, and protozoa."
+    },
+    {
+      "subject": "Health Education",
+      "text": "An organism, such as a mosquito, that transmits a pathogen from one host to another is called a",
+      "options": [
+        "pathogen",
+        "antibody",
+        "antigen",
+        "vector"
+      ],
+      "correctIndex": 3,
+      "explanation": "A vector, such as the Anopheles mosquito for malaria, transmits disease-causing pathogens between hosts."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Malaria is caused by a parasite belonging to the genus Plasmodium, transmitted to humans through the bite of an infected",
+      "options": [
+        "female Anopheles mosquito",
+        "housefly",
+        "tick",
+        "tsetse fly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Malaria is transmitted through the bite of an infected female Anopheles mosquito, which carries the Plasmodium parasite."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A common symptom of malaria includes",
+      "options": [
+        "recurring fever, chills, and headache",
+        "loss of all body hair",
+        "instant, painless recovery with no symptoms",
+        "immediate and permanent paralysis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Malaria commonly presents with recurring fevers, chills, headache, and general body weakness."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key method for controlling the spread of malaria is",
+      "options": [
+        "avoiding all forms of mosquito control measures",
+        "using insecticide-treated bed nets and eliminating mosquito breeding sites",
+        "ignoring fever symptoms indefinitely",
+        "encouraging stagnant water collection near homes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insecticide-treated bed nets and eliminating stagnant water (mosquito breeding sites) are key strategies for controlling malaria transmission."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Typhoid fever is caused by a type of bacteria, transmitted mainly through",
+      "options": [
+        "airborne droplets alone",
+        "contaminated food and water",
+        "direct skin contact alone",
+        "mosquito bites"
+      ],
+      "correctIndex": 1,
+      "explanation": "Typhoid fever is caused by Salmonella typhi bacteria, primarily transmitted through consumption of contaminated food or water."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key preventive measure against typhoid fever is",
+      "options": [
+        "consuming unwashed raw food regularly",
+        "ignoring proper handwashing after using the toilet",
+        "drinking untreated water from any available source",
+        "ensuring safe drinking water and proper food hygiene"
+      ],
+      "correctIndex": 3,
+      "explanation": "Safe drinking water and good food hygiene practices are essential in preventing the transmission of typhoid fever."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Tuberculosis is caused by a bacterium primarily affecting the",
+      "options": [
+        "kidneys exclusively",
+        "skin exclusively",
+        "lungs",
+        "eyes exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tuberculosis primarily affects the lungs, though it can also affect other body organs in some cases."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Tuberculosis is mainly transmitted through",
+      "options": [
+        "direct skin contact only",
+        "mosquito bites only",
+        "contaminated water sources only",
+        "airborne droplets from an infected person's cough or sneeze"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuberculosis spreads mainly through airborne droplets released when an infected person coughs or sneezes."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Cholera is caused by a bacterium that leads to severe diarrhoea and dehydration, transmitted mainly through",
+      "options": [
+        "airborne droplets",
+        "contaminated water and food",
+        "mosquito bites",
+        "direct skin contact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cholera bacteria spread mainly through water and food contaminated with faecal matter from infected individuals."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key treatment for cholera, addressing its most dangerous immediate effect, is",
+      "options": [
+        "withholding all fluids from the patient",
+        "avoiding any medical treatment entirely",
+        "oral rehydration therapy to replace lost fluids and salts",
+        "administering only pain relief medication with no rehydration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oral rehydration therapy addresses the severe dehydration caused by cholera, replacing the fluids and salts lost through diarrhoea."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Measles is a highly contagious viral disease primarily transmitted through",
+      "options": [
+        "airborne droplets and direct contact with infected respiratory secretions",
+        "insect bites of any kind",
+        "mosquito bites only",
+        "contaminated water sources only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Measles spreads through airborne droplets and direct contact with respiratory secretions from an infected person."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key preventive measure against measles is",
+      "options": [
+        "exposing unvaccinated children intentionally to infected individuals",
+        "routine childhood immunisation (vaccination)",
+        "avoiding all forms of vaccination",
+        "consuming raw meat regularly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Routine immunisation is highly effective at preventing measles and is a cornerstone of childhood vaccination programmes."
+    },
+    {
+      "subject": "Health Education",
+      "text": "HIV (Human Immunodeficiency Virus) primarily attacks and weakens the",
+      "options": [
+        "digestive system",
+        "skeletal system",
+        "respiratory system alone",
+        "immune system"
+      ],
+      "correctIndex": 3,
+      "explanation": "HIV attacks the immune system, progressively weakening the body's ability to fight infections, and can lead to AIDS if untreated."
+    },
+    {
+      "subject": "Health Education",
+      "text": "HIV can be transmitted through",
+      "options": [
+        "mosquito bites",
+        "unprotected sexual contact, contaminated blood, and mother-to-child transmission",
+        "casual contact such as hugging or shaking hands",
+        "sharing meals with an infected person"
+      ],
+      "correctIndex": 1,
+      "explanation": "HIV transmission occurs through specific routes, including unprotected sexual contact, contaminated blood, and from mother to child, but not through casual everyday contact."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Sexually transmitted infections (STIs) are generally best prevented through",
+      "options": [
+        "avoiding all forms of protection during sexual activity",
+        "safe sexual practices, including the correct use of condoms",
+        "sharing personal items with infected individuals",
+        "ignoring symptoms of any infection indefinitely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Safe sexual practices, including consistent and correct condom use, significantly reduce the risk of transmitting sexually transmitted infections."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Diseases that develop gradually and are generally not caused by an infectious pathogen, such as hypertension and diabetes, are classified as",
+      "options": [
+        "airborne diseases",
+        "communicable diseases",
+        "vector-borne diseases",
+        "non-communicable diseases"
+      ],
+      "correctIndex": 3,
+      "explanation": "Non-communicable diseases, such as hypertension, diabetes, and many cancers, are not caused by infectious agents and generally develop over a longer period."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Hypertension (persistently high blood pressure) is a significant risk factor for",
+      "options": [
+        "malaria transmission",
+        "stroke and heart disease",
+        "improved kidney filtration only",
+        "tuberculosis infection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uncontrolled hypertension significantly increases the risk of serious complications, including stroke and various forms of heart disease."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Diabetes mellitus is a condition characterised by the body's inability to properly regulate",
+      "options": [
+        "body temperature only",
+        "oxygen levels in the blood only",
+        "blood pressure levels only",
+        "blood glucose (sugar) levels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diabetes mellitus involves the body's impaired ability to regulate blood glucose levels, due to problems with insulin production or use."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Sickle cell anaemia is an inherited condition affecting the shape and function of",
+      "options": [
+        "the pancreas only",
+        "white blood cells only",
+        "platelets only",
+        "red blood cells"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sickle cell anaemia is a genetic condition causing red blood cells to become abnormally shaped, impairing their ability to carry oxygen effectively."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Cancer is generally characterised by",
+      "options": [
+        "a purely psychological condition with no physical basis",
+        "the uncontrolled growth and division of abnormal cells",
+        "a temporary, self-resolving infection",
+        "an entirely reversible condition requiring no medical attention"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cancer involves the uncontrolled growth and division of abnormal cells, which can invade surrounding tissues and spread throughout the body."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Asthma is a chronic condition primarily affecting the",
+      "options": [
+        "excretory system exclusively",
+        "airways of the respiratory system",
+        "digestive system exclusively",
+        "skeletal system exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asthma causes inflammation and narrowing of the airways, leading to breathing difficulties, wheezing, and coughing."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Access to pure, clean drinking water in a community is important mainly to",
+      "options": [
+        "increase the spread of waterborne disease intentionally",
+        "replace the need for proper sanitation entirely",
+        "prevent waterborne diseases such as cholera and typhoid",
+        "have no meaningful impact on community health"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clean drinking water is essential for preventing waterborne diseases such as cholera and typhoid within a community."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Proper sewage processing within a community is important mainly to",
+      "options": [
+        "increase the risk of disease transmission intentionally",
+        "eliminate the need for any clean water supply",
+        "have no effect on public health outcomes",
+        "prevent contamination of water sources and reduce disease transmission"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective sewage processing prevents human waste from contaminating water sources, reducing the risk of disease transmission within a community."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Effective solid waste disposal strategies in a community help to",
+      "options": [
+        "eliminate the need for any environmental regulation",
+        "have no bearing on community health or environment",
+        "increase the accumulation of disease-carrying pests",
+        "reduce breeding sites for disease vectors and prevent environmental pollution"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper solid waste disposal reduces breeding sites for pests and vectors, helping to prevent both disease transmission and environmental pollution."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Atmospheric (air) pollution control measures are important mainly to",
+      "options": [
+        "have no significant impact on public health",
+        "increase the prevalence of respiratory illness intentionally",
+        "reduce respiratory illnesses and protect overall community health",
+        "eliminate the need for community health education"
+      ],
+      "correctIndex": 2,
+      "explanation": "Controlling air pollution helps reduce the incidence of respiratory illnesses and supports the overall health of a community."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The international organisation primarily responsible for coordinating global public health matters is the",
+      "options": [
+        "United Nations Children's Fund (UNICEF)",
+        "National Agency for Food and Drug Administration and Control (NAFDAC)",
+        "World Trade Organization (WTO)",
+        "World Health Organization (WHO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WHO is the United Nations agency specifically responsible for coordinating international public health efforts and policy."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The international organisation primarily focused on protecting the rights and wellbeing of children worldwide, including health initiatives, is",
+      "options": [
+        "UNICEF",
+        "NAFDAC",
+        "WHO",
+        "WTO"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNICEF focuses specifically on protecting children's rights and wellbeing globally, including health, nutrition, and education initiatives."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The Nigerian regulatory agency primarily responsible for the safety and quality of food and drugs is",
+      "options": [
+        "WTO",
+        "WHO",
+        "UNICEF",
+        "NAFDAC"
+      ],
+      "correctIndex": 3,
+      "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates the safety and quality of food, drugs, and related products in Nigeria."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Fungal infections are among the pathogens studied in relation to communicable disease because they can cause conditions such as",
+      "options": [
+        "sickle cell anaemia only",
+        "ringworm and athlete's foot",
+        "hypertension and diabetes only",
+        "malaria and typhoid only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungal pathogens are responsible for various infections, including ringworm and athlete's foot, distinct from bacterial or viral diseases."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key approach to resolving conflicts in a healthy manner is to",
+      "options": [
+        "avoid all communication and let tension build indefinitely",
+        "communicate openly and seek mutually acceptable solutions",
+        "refuse to consider the other party's perspective at all",
+        "respond with immediate aggression in every situation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Healthy conflict resolution involves open communication and a genuine effort to find solutions acceptable to all parties involved."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A healthy technique for managing stress includes",
+      "options": [
+        "regular physical activity, relaxation techniques, and adequate rest",
+        "increasing substance use to cope with stress",
+        "avoiding all forms of physical activity and rest",
+        "ignoring stress indefinitely without any coping strategy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Effective stress management often combines regular physical activity, relaxation techniques, and sufficient rest to help the body and mind cope with pressure."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Managing psychological anxiety in a healthy way often involves",
+      "options": [
+        "seeking support from trusted individuals or professionals when needed",
+        "ignoring persistent anxiety symptoms indefinitely",
+        "relying solely on harmful substances to cope",
+        "isolating oneself completely from all social support"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seeking appropriate support from trusted individuals or mental health professionals is an important, healthy strategy for managing persistent anxiety."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Puberty is generally characterised by",
+      "options": [
+        "a permanent halt in physical growth and development",
+        "no physical changes of any kind",
+        "physical, hormonal, and emotional changes marking the transition to sexual maturity",
+        "changes that occur only in early childhood"
+      ],
+      "correctIndex": 2,
+      "explanation": "Puberty involves significant physical, hormonal, and emotional changes as an individual transitions from childhood toward sexual maturity."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The menstrual cycle refers to the",
+      "options": [
+        "monthly hormonal and physiological process preparing the female body for potential pregnancy",
+        "process unrelated to female reproductive health",
+        "process exclusive to male reproductive physiology",
+        "single event occurring only once in a lifetime"
+      ],
+      "correctIndex": 0,
+      "explanation": "The menstrual cycle is a recurring monthly process involving hormonal changes that prepare the female body for potential pregnancy."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Fertilization occurs when",
+      "options": [
+        "no biological process takes place at all",
+        "a sperm cell successfully unites with an egg (ovum) cell",
+        "two egg cells combine without any sperm involvement",
+        "a sperm cell fails to reach any egg cell"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fertilization is the biological process in which a sperm cell unites with an egg cell, forming the beginning of a new individual."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Antenatal care refers to the",
+      "options": [
+        "healthcare provided to a woman during pregnancy to monitor her health and that of the developing baby",
+        "care unrelated to pregnancy or childbirth",
+        "care provided exclusively after childbirth",
+        "care provided only to newborn infants"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antenatal care involves regular healthcare check-ups during pregnancy, monitoring the health of both the mother and the developing foetus."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Immunization timelines for children are important mainly to",
+      "options": [
+        "have no bearing on a child's health outcomes",
+        "ensure vaccines are given at the optimal age for effective protection against disease",
+        "eliminate the need for any future healthcare visits",
+        "delay all forms of disease protection indefinitely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Following recommended immunization timelines ensures children receive vaccines at ages when they are most effective in providing protection against disease."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Family planning methods are generally used by couples to",
+      "options": [
+        "eliminate any choice regarding family size",
+        "make informed choices about the timing and number of children they have",
+        "avoid any consideration of family health and resources",
+        "increase the risk of unintended pregnancy intentionally"
+      ],
+      "correctIndex": 1,
+      "explanation": "Family planning allows couples to make informed decisions about when to have children and how many, considering health, resources, and personal circumstances."
+    },
+    {
+      "subject": "Health Education",
+      "text": "When evaluating health-related advertisements, consumers should generally",
+      "options": [
+        "critically assess claims rather than accepting them without question",
+        "accept all claims made in an advertisement without any scrutiny",
+        "avoid seeking any further information about a product",
+        "ignore any concerns about a product's safety or efficacy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Critically evaluating health advertisements, rather than accepting claims uncritically, helps consumers make safer, more informed decisions."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Checking a food or drug product's expiry date before use is important mainly to",
+      "options": [
+        "guarantee the product will remain safe indefinitely regardless of date",
+        "avoid consuming products that may have degraded or become unsafe",
+        "have no bearing on the product's safety",
+        "increase the shelf life of the product artificially"
+      ],
+      "correctIndex": 1,
+      "explanation": "Checking expiry dates helps consumers avoid using products that may have degraded in quality or become unsafe for consumption."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Food adulteration refers to the",
+      "options": [
+        "process of properly preserving food using approved methods",
+        "addition of harmful, inferior, or non-declared substances to food products",
+        "process of enriching food with beneficial nutrients only",
+        "labelling of food products with accurate ingredient information"
+      ],
+      "correctIndex": 1,
+      "explanation": "Food adulteration involves adding harmful or inferior substances to food, often to reduce costs or increase quantity deceptively, posing health risks to consumers."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A balanced nutrient profile in one's diet is important mainly to",
+      "options": [
+        "eliminate the need for any variety in food choices",
+        "have no bearing on overall health outcomes",
+        "guarantee immunity from all forms of disease",
+        "support overall health and prevent nutrient deficiencies or excesses"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maintaining a balanced nutrient profile supports overall health and helps prevent both nutrient deficiencies and the health risks of excessive intake."
+    },
+    {
+      "subject": "Health Education",
+      "text": "The use of a drug for its intended medical purpose, as prescribed, is generally described as",
+      "options": [
+        "drug misuse",
+        "drug dependency",
+        "drug adulteration",
+        "drug use"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drug use refers to taking a substance for its intended, legitimate medical purpose, typically as prescribed or recommended."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Using a drug in a way not intended or recommended, such as taking a higher dose than prescribed, is generally described as",
+      "options": [
+        "drug rehabilitation",
+        "drug use",
+        "drug misuse",
+        "drug dependency"
+      ],
+      "correctIndex": 2,
+      "explanation": "Drug misuse refers to using a substance in a manner not intended or recommended, such as exceeding the prescribed dosage."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A condition in which an individual has developed a strong physical or psychological need to continue using a drug is called",
+      "options": [
+        "drug dependency (addiction)",
+        "drug rehabilitation",
+        "drug misuse only",
+        "drug use"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drug dependency (addiction) describes a strong physical or psychological compulsion to continue using a substance, often despite negative consequences."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Excessive alcohol consumption can have significant physiological effects, including damage to the",
+      "options": [
+        "skeletal system exclusively",
+        "skin exclusively",
+        "hair and nails exclusively",
+        "liver and nervous system"
+      ],
+      "correctIndex": 3,
+      "explanation": "Excessive alcohol consumption can cause significant damage to organs such as the liver, as well as harmful effects on the nervous system."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Tobacco use is strongly associated with an increased risk of",
+      "options": [
+        "lung cancer and other respiratory diseases",
+        "improved lung function with no health risks",
+        "reduced risk of all forms of cancer",
+        "stronger immune system function"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tobacco use significantly increases the risk of lung cancer and various other respiratory diseases, among other serious health effects."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Stimulant drugs generally have the physiological effect of",
+      "options": [
+        "permanently curing anxiety with no side effects",
+        "having no effect on the nervous system at all",
+        "inducing immediate, deep sleep in all users",
+        "increasing alertness, heart rate, and energy levels temporarily"
+      ],
+      "correctIndex": 3,
+      "explanation": "Stimulant drugs typically increase alertness, heart rate, and perceived energy levels temporarily, though often with significant health risks."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Narcotic drugs generally have the physiological effect of",
+      "options": [
+        "increasing alertness and physical energy dramatically",
+        "having no impact on pain perception whatsoever",
+        "guaranteeing complete safety with no risk of dependency",
+        "reducing pain perception and inducing sedation, with significant risk of dependency"
+      ],
+      "correctIndex": 3,
+      "explanation": "Narcotics reduce pain perception and induce sedation, but carry a significant risk of dependency and other serious health consequences with misuse."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A structured process designed to help individuals overcome substance dependency and return to healthy functioning is called",
+      "options": [
+        "immunization",
+        "antenatal care",
+        "adulteration",
+        "rehabilitation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rehabilitation programmes provide structured support to help individuals overcome substance dependency and rebuild healthy, functional lives."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key step in supporting someone recovering from substance dependency is",
+      "options": [
+        "encouraging continued substance use to avoid withdrawal symptoms",
+        "providing consistent emotional support and encouraging professional treatment",
+        "ignoring the individual's need for any form of assistance",
+        "isolating the individual completely from all support systems"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consistent emotional support, alongside encouragement to pursue professional treatment, plays a vital role in helping individuals recover from substance dependency."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Emotional health is best described as a state in which an individual can generally",
+      "options": [
+        "experience only positive emotions with no capacity for difficulty",
+        "avoid any form of social interaction entirely",
+        "manage their emotions constructively and maintain healthy relationships",
+        "suppress all emotional expression permanently"
+      ],
+      "correctIndex": 2,
+      "explanation": "Good emotional health involves the ability to manage emotions constructively, cope with challenges, and maintain healthy relationships with others."
+    },
+    {
+      "subject": "Health Education",
+      "text": "During puberty, hormonal changes in males typically lead to",
+      "options": [
+        "the onset of the menstrual cycle",
+        "deepening of the voice and growth of facial hair",
+        "a permanent halt in physical growth",
+        "no physical changes of any kind"
+      ],
+      "correctIndex": 1,
+      "explanation": "Puberty in males is typically marked by hormonal changes leading to physical developments such as voice deepening and facial hair growth."
+    },
+    {
+      "subject": "Health Education",
+      "text": "During puberty, hormonal changes in females typically lead to",
+      "options": [
+        "growth of facial hair as the primary change",
+        "no physical changes of any kind",
+        "deepening of the voice as the primary change",
+        "the onset of the menstrual cycle and breast development"
+      ],
+      "correctIndex": 3,
+      "explanation": "Puberty in females is typically marked by hormonal changes leading to physical developments such as the onset of menstruation and breast development."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Tracking one's menstrual cycle can be useful mainly for",
+      "options": [
+        "understanding fertility patterns and planning for family planning or pregnancy",
+        "determining blood type",
+        "eliminating the need for any healthcare visits",
+        "predicting unrelated illnesses with no connection to reproduction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tracking the menstrual cycle helps individuals understand their fertility patterns, which can support family planning decisions or efforts to conceive."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key component of antenatal care is",
+      "options": [
+        "discontinuing all forms of prenatal nutrition",
+        "ignoring any warning signs of complications during pregnancy",
+        "avoiding all medical check-ups until after childbirth",
+        "regular monitoring of the mother's and baby's health throughout pregnancy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Antenatal care involves regular check-ups to monitor the health and development of both mother and baby throughout the course of pregnancy."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Common family planning methods include",
+      "options": [
+        "approaches that ignore individual health considerations entirely",
+        "options limited to a single universal method for all couples",
+        "barrier methods, hormonal methods, and natural methods",
+        "methods that guarantee an identical outcome for every couple"
+      ],
+      "correctIndex": 2,
+      "explanation": "Family planning encompasses a range of methods, including barrier methods (like condoms), hormonal methods, and natural methods, allowing couples to choose what suits their needs."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key sign of healthy stress management is the ability to",
+      "options": [
+        "remain in a state of heightened stress indefinitely",
+        "ignore the physical symptoms of stress entirely",
+        "recover and return to a balanced emotional state after a stressful event",
+        "avoid all forms of stress permanently, in every situation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Healthy stress management is reflected in the ability to recover and return to emotional balance after experiencing a stressful event, rather than remaining in prolonged distress."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Peer pressure can influence young people to engage in substance abuse mainly through",
+      "options": [
+        "strong, consistent parental guidance alone",
+        "an absence of any social interaction",
+        "complete indifference to social relationships",
+        "a desire for social acceptance or fear of exclusion from a group"
+      ],
+      "correctIndex": 3,
+      "explanation": "Peer pressure often influences behaviour through a desire for social acceptance or fear of being excluded from a social group, which can contribute to risky behaviours like substance abuse."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key long-term health consequence of chronic alcohol abuse is",
+      "options": [
+        "liver cirrhosis",
+        "enhanced physical fitness with no downsides",
+        "stronger immune system function",
+        "improved liver function"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chronic alcohol abuse can lead to serious long-term liver damage, including cirrhosis, a scarring of liver tissue that impairs its function."
+    },
+    {
+      "subject": "Health Education",
+      "text": "Family life education aims mainly to",
+      "options": [
+        "discourage all forms of family formation",
+        "eliminate the need for any health education",
+        "ignore the importance of reproductive health entirely",
+        "prepare individuals for responsible relationships, parenting, and family roles"
+      ],
+      "correctIndex": 3,
+      "explanation": "Family life education helps prepare individuals for responsible relationships, parenting, and the various roles and responsibilities within family life."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A healthy coping strategy for managing grief or loss includes",
+      "options": [
+        "suppressing all emotions related to the loss permanently",
+        "seeking support from family, friends, or counselling services",
+        "turning to substance abuse as the primary coping method",
+        "avoiding any acknowledgement of the loss indefinitely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Seeking support from trusted family, friends, or professional counselling is a healthy strategy for coping with grief and loss."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A community health worker's role in reproductive health education often includes",
+      "options": [
+        "educating individuals and families about antenatal care, family planning, and safe childbirth practices",
+        "focusing exclusively on unrelated economic issues",
+        "discouraging any form of healthcare engagement",
+        "providing no information related to reproductive health"
+      ],
+      "correctIndex": 0,
+      "explanation": "Community health workers often play a key role in educating individuals and families about important reproductive health topics, including antenatal care and family planning."
+    },
+    {
+      "subject": "Health Education",
+      "text": "A key aspect of building resilience in emotional health is",
+      "options": [
+        "developing effective coping strategies to adapt to adversity and setbacks",
+        "relying entirely on others to manage all personal difficulties",
+        "suppressing every emotional response indefinitely",
+        "avoiding every possible challenge or setback in life"
+      ],
+      "correctIndex": 0,
+      "explanation": "Resilience involves developing effective coping strategies that allow an individual to adapt positively in the face of adversity and setbacks."
+    }
+  ]
+}

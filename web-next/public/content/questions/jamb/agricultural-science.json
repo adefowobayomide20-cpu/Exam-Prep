@@ -1,0 +1,2406 @@
+{
+  "subject": "Agricultural Science",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Agricultural Science",
+      "text": "Agriculture can be broadly defined as the",
+      "options": [
+        "process of extracting minerals from the earth",
+        "deliberate cultivation of crops and rearing of animals for human use",
+        "manufacturing of industrial machinery",
+        "study of wild plants in their natural habitat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agriculture encompasses the purposeful growing of crops and raising of livestock to provide food, fibre, and other products for human needs."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a branch of agriculture concerned specifically with the study of soil?",
+      "options": [
+        "Animal husbandry",
+        "Agricultural economics",
+        "Pedology (soil science)",
+        "Agronomy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pedology, or soil science, specifically studies soil formation, classification, and properties, distinct from agronomy (crop production) and animal husbandry."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Subsistence farming is best described as farming carried out mainly to",
+      "options": [
+        "export produce to other countries",
+        "generate maximum profit through large-scale sale of produce",
+        "produce food for the farmer's family with little or no surplus for sale",
+        "supply raw materials to large industries"
+      ],
+      "correctIndex": 2,
+      "explanation": "Subsistence farming is small-scale, aimed at feeding the farming household, unlike commercial farming, which is large-scale and profit-driven."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Commercial farming differs from subsistence farming mainly in that commercial farming is carried out",
+      "options": [
+        "on a small scale, mainly to feed the farmer's household",
+        "on a large scale, primarily for profit and sale of produce",
+        "without the use of modern machinery",
+        "only for the cultivation of food crops"
+      ],
+      "correctIndex": 1,
+      "explanation": "Commercial farming is characterised by large-scale production, mechanisation, and market-oriented output, distinguishing it from small-scale subsistence farming."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agriculture contributes to the Nigerian economy mainly by",
+      "options": [
+        "being the sole source of the country's electricity",
+        "providing food, raw materials for industry, employment, and foreign exchange earnings",
+        "serving only as a source of government tax revenue",
+        "replacing the need for a manufacturing sector entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agriculture supports the economy through food security, supplying raw materials (e.g., cotton, cocoa) to industries, generating employment, and earning foreign exchange through exports."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following best describes agronomy as a branch of agriculture?",
+      "options": [
+        "The economics of farm business",
+        "The study and management of livestock",
+        "The science of crop production and soil management",
+        "The engineering of farm machinery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Agronomy focuses specifically on crop cultivation practices and the management of soils to optimise crop yield and quality."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which branch of agriculture deals with the breeding, feeding, and management of farm animals?",
+      "options": [
+        "Agronomy",
+        "Forestry",
+        "Horticulture",
+        "Animal husbandry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Animal husbandry (livestock production) covers the practical aspects of raising farm animals, including breeding, nutrition, housing, and health management."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Horticulture is a branch of agriculture concerned with the cultivation of",
+      "options": [
+        "cereal crops only",
+        "fruits, vegetables, and ornamental plants",
+        "forest trees for timber",
+        "livestock for meat production"
+      ],
+      "correctIndex": 1,
+      "explanation": "Horticulture specifically deals with intensively cultivated plants such as fruits, vegetables, flowers, and ornamentals, as distinct from broad-acre agronomy."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agricultural extension services are primarily aimed at",
+      "options": [
+        "regulating international agricultural trade",
+        "selling farm produce directly to consumers",
+        "providing loans exclusively to large-scale industrial farms",
+        "transferring improved farming knowledge and techniques from researchers to farmers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Extension services bridge the gap between agricultural research institutions and farmers, disseminating new techniques and information to improve farm productivity."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is an importance of agriculture to a nation's industrial development?",
+      "options": [
+        "It supplies raw materials such as cotton, rubber, and palm oil to agro-based industries",
+        "It provides direct funding to build factories",
+        "It eliminates the need for any manufacturing sector",
+        "It replaces the need for import and export activities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many industries (textiles, food processing, rubber manufacturing) rely directly on agricultural raw materials, linking agriculture closely to industrial growth."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The rainforest ecological zone of West Africa is characterised mainly by",
+      "options": [
+        "high rainfall and dense, tall evergreen vegetation",
+        "extremely short daylight hours year-round",
+        "permanently frozen ground",
+        "very low rainfall and sparse, thorny vegetation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The rainforest belt receives abundant, well-distributed rainfall throughout the year, supporting tall, dense, multi-layered evergreen forest vegetation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which crop is most commonly associated with the rainforest ecological zone of Nigeria?",
+      "options": [
+        "Millet",
+        "Groundnut",
+        "Cotton",
+        "Cocoa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cocoa thrives in the warm, humid conditions and high rainfall of the rainforest zone, making it a major cash crop of that region in Nigeria."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The Guinea savanna ecological zone is characterised by",
+      "options": [
+        "moderate rainfall with a mix of grassland and scattered trees",
+        "the highest rainfall of all ecological zones",
+        "permanent snow cover",
+        "vegetation consisting only of mangrove swamps"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Guinea savanna, occupying much of Nigeria's middle belt, has moderate rainfall supporting a mixture of tall grasses and scattered deciduous trees."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which crop is predominantly cultivated in the Sudan and Sahel savanna zones due to their low rainfall?",
+      "options": [
+        "Cocoa",
+        "Oil palm",
+        "Millet",
+        "Rubber"
+      ],
+      "correctIndex": 2,
+      "explanation": "Millet is drought-tolerant and well-suited to the low, erratic rainfall of the Sudan and Sahel savanna zones in northern Nigeria."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The mangrove swamp ecological zone is found mainly",
+      "options": [
+        "in the far northern semi-arid regions",
+        "in areas with the lowest rainfall in the country",
+        "along the coastline, where fresh and salt water mix",
+        "at high elevations in mountainous areas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mangrove swamps occur in coastal areas influenced by tidal, brackish water, supporting salt-tolerant mangrove vegetation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Rainfall is a critical climatic factor in agriculture mainly because it",
+      "options": [
+        "determines soil colour but not crop yield",
+        "only affects livestock and not crop production",
+        "directly determines the amount of water available for crop growth and the choice of crops grown",
+        "has no significant effect on crop distribution"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rainfall amount and distribution strongly influence which crops can be successfully grown in a given ecological zone, from drought-tolerant millet to high-rainfall cocoa."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Temperature as an environmental factor affects crop and livestock production mainly by influencing",
+      "options": [
+        "the political boundaries of farmland",
+        "the type of currency used in agricultural trade",
+        "the price of farm produce in the market",
+        "the rate of physiological processes such as photosynthesis, respiration, and growth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Temperature directly affects metabolic and physiological processes in plants and animals, with each species having an optimal temperature range for growth and productivity."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following ecological zones in West Africa generally has the lowest annual rainfall?",
+      "options": [
+        "Sahel savanna",
+        "Rainforest",
+        "Mangrove swamp",
+        "Guinea savanna"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Sahel savanna, bordering the Sahara Desert, receives the least rainfall among West Africa's major ecological zones, supporting sparse grass and thorny shrubs."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Light intensity and duration (photoperiod) affect crop production mainly by influencing",
+      "options": [
+        "the mineral content of the soil",
+        "the breed of livestock best suited to an area",
+        "the rate of photosynthesis and the timing of flowering in some crops",
+        "the pH of rainwater"
+      ],
+      "correctIndex": 2,
+      "explanation": "Photoperiod-sensitive crops flower only when day length matches specific requirements, and light intensity directly drives the rate of photosynthesis."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Relative humidity, an important climatic factor, refers to the",
+      "options": [
+        "amount of water vapour present in the air relative to the maximum it can hold at that temperature",
+        "total volume of rainfall received annually",
+        "temperature of the soil at a given depth",
+        "speed of prevailing winds in a region"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relative humidity measures the air's water vapour content as a percentage of the maximum possible at a given temperature, affecting evaporation, transpiration, and disease spread."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A cutlass (machete) is classified as a",
+      "options": [
+        "type of farm machinery for planting",
+        "simple hand tool used for clearing land and harvesting",
+        "irrigation device",
+        "primary tillage implement pulled by a tractor"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cutlass is a basic manually operated hand tool used for tasks like clearing vegetation, weeding, and harvesting some crops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The plough is primarily used in farm operations for",
+      "options": [
+        "primary tillage, to break and turn over the soil",
+        "irrigating farmland",
+        "harvesting mature grain crops",
+        "spraying pesticides on crops"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ploughing is the first major tillage operation, breaking up and inverting the soil to bury crop residues and prepare a suitable seedbed."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Harrowing is a secondary tillage operation carried out mainly to",
+      "options": [
+        "harvest root crops",
+        "dig deep drainage channels",
+        "apply fertiliser to the soil",
+        "break up large soil clods left after ploughing and create a finer tilth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Harrowing follows ploughing, further pulverising the soil into a finer, more uniform tilth suitable for planting seeds."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A tractor in modern agriculture is mainly used to",
+      "options": [
+        "provide power for pulling and operating various farm implements",
+        "measure soil pH",
+        "irrigate crops directly",
+        "store harvested grains"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tractors serve as the primary power source on mechanised farms, pulling ploughs, harrows, planters, and other implements to perform various operations."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A combine harvester is a machine designed to perform which combination of operations simultaneously?",
+      "options": [
+        "Ploughing, harrowing, and ridging",
+        "Reaping (cutting), threshing, and cleaning of grain crops",
+        "Milking, feeding, and housing of livestock",
+        "Planting, weeding, and spraying"
+      ],
+      "correctIndex": 1,
+      "explanation": "A combine harvester combines several harvesting operations, cutting the crop, separating grain from stalks (threshing), and cleaning the grain, all in one pass."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Regular maintenance of farm machinery, such as changing engine oil and greasing moving parts, is important mainly to",
+      "options": [
+        "prolong the machine's useful life and prevent breakdowns",
+        "increase the purchase cost of the machine",
+        "reduce the machine's fuel efficiency",
+        "eliminate the need for skilled operators"
+      ],
+      "correctIndex": 0,
+      "explanation": "Routine maintenance reduces wear, prevents costly breakdowns, and extends the operational lifespan of expensive farm machinery."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A hoe is a simple farm tool primarily used for",
+      "options": [
+        "weeding, making ridges, and light tillage",
+        "deep ploughing of large fields",
+        "spraying chemicals over a wide area",
+        "harvesting tree crops"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hoe is a versatile hand tool used for shallow cultivation tasks such as weeding, making ridges or mounds, and planting."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A ridger, whether animal-drawn or tractor-mounted, is used mainly to",
+      "options": [
+        "measure the moisture content of soil",
+        "form ridges or mounds in preparation for planting certain crops",
+        "harvest cereal crops",
+        "spray insecticides on growing crops"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ridging creates raised soil ridges that improve drainage and aeration, commonly used for crops like yam, cassava, and maize before planting."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is classified as a secondary tillage implement?",
+      "options": [
+        "Mould-board plough",
+        "Disc plough",
+        "Harrow",
+        "Sub-soiler"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primary tillage implements (mould-board plough, disc plough, sub-soiler) perform the initial deep soil-breaking, while the harrow performs secondary tillage to refine the seedbed."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Irrigation equipment such as sprinklers is used on farms mainly to",
+      "options": [
+        "supply water to crops in areas or seasons with insufficient rainfall",
+        "measure the depth of the water table",
+        "harvest water-loving crops like rice",
+        "remove excess water from waterlogged fields"
+      ],
+      "correctIndex": 0,
+      "explanation": "Irrigation systems, including sprinklers, artificially supply water to crops when natural rainfall is inadequate, ensuring consistent crop growth."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Soil is formed mainly through the process of",
+      "options": [
+        "photosynthesis in plants",
+        "combustion of organic matter",
+        "weathering of parent rock material over a long period",
+        "condensation of atmospheric water vapour"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soil formation (pedogenesis) results from the physical, chemical, and biological weathering of parent rock, combined with the addition of organic matter over time."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The soil profile is best described as the",
+      "options": [
+        "horizontal spread of soil across a farm",
+        "total weight of soil in a given area",
+        "vertical arrangement of distinct layers (horizons) from the surface down to the parent rock",
+        "chemical composition of soil water only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A soil profile shows the sequence of horizons (typically topsoil, subsoil, and parent material) that develop as soil forms over time."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The topsoil (A horizon) is generally the most fertile layer of soil mainly because it",
+      "options": [
+        "consists mainly of unweathered parent rock",
+        "is the layer furthest from plant roots",
+        "lacks any nutrients accessible to plants",
+        "contains the highest concentration of organic matter and living organisms"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topsoil accumulates decomposed organic matter (humus) and hosts the most biological activity, making it the most fertile and productive soil layer for crop growth."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Soil texture refers to the",
+      "options": [
+        "colour of the soil",
+        "relative proportion of sand, silt, and clay particles in the soil",
+        "arrangement of soil particles into aggregates",
+        "depth of the soil profile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soil texture describes the proportions of differently sized mineral particles (sand, silt, clay), which strongly influence water retention, drainage, and aeration."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Soil structure refers to the",
+      "options": [
+        "proportion of sand and clay in the soil",
+        "chemical elements present in the soil",
+        "depth to the water table",
+        "arrangement of individual soil particles into aggregates (crumbs or clods)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soil structure describes how individual soil particles clump together into larger aggregates, affecting porosity, aeration, and root penetration."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A loamy soil, considered ideal for most crops, contains a balanced mixture of",
+      "options": [
+        "only sand and gravel",
+        "only clay particles",
+        "sand, silt, and clay",
+        "only organic matter with no mineral particles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loam soils combine the drainage benefits of sand, the nutrient and water retention of clay, and the moderate properties of silt, making them ideal for most crops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Soil water available for plant uptake, held in the small pore spaces against gravity, is called",
+      "options": [
+        "gravitational water",
+        "hygroscopic water",
+        "water vapour",
+        "capillary water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Capillary water is held in small soil pores by surface tension against the pull of gravity, making it the main source of water available for plant absorption."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Nitrogen, an essential plant nutrient, is important mainly for",
+      "options": [
+        "vegetative growth and the formation of proteins and chlorophyll",
+        "increasing the sweetness of fruit",
+        "improving fruit colour only",
+        "strengthening cell walls only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nitrogen is a key component of amino acids, proteins, and chlorophyll, driving leafy vegetative growth in plants; deficiency causes yellowing (chlorosis) of leaves."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is an organic manure used to improve soil fertility?",
+      "options": [
+        "Urea fertiliser",
+        "NPK fertiliser",
+        "Single superphosphate",
+        "Farmyard manure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Farmyard manure, composed of decomposed animal dung and plant residue, is an organic source of nutrients and organic matter, unlike synthetic inorganic fertilisers like urea and NPK."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The main advantage of inorganic (chemical) fertilisers over organic manures is that inorganic fertilisers",
+      "options": [
+        "improve soil structure more effectively than organic manure",
+        "are always cheaper than organic manure",
+        "supply nutrients in concentrated, readily available forms that act quickly",
+        "add significant organic matter to the soil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inorganic fertilisers provide specific nutrients in concentrated, soluble forms for rapid plant uptake, though they don't improve soil structure or add organic matter like manures do."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In the nitrogen cycle, the process by which nitrogen gas in the atmosphere is converted to ammonia by certain bacteria is called",
+      "options": [
+        "nitrogen fixation",
+        "ammonification",
+        "denitrification",
+        "nitrification"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nitrogen fixation, carried out by bacteria such as Rhizobium (often in legume root nodules) or Azotobacter, converts inert atmospheric nitrogen into usable ammonia compounds."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Nitrification is the process by which",
+      "options": [
+        "atmospheric nitrogen is fixed into ammonia",
+        "ammonia is converted into nitrites and then nitrates by soil bacteria",
+        "nitrates are converted back into atmospheric nitrogen gas",
+        "organic nitrogen compounds are broken down into ammonia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nitrifying bacteria (Nitrosomonas and Nitrobacter) oxidise ammonia stepwise into nitrites and then nitrates, the form of nitrogen most readily absorbed by plant roots."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Denitrification, generally undesirable for soil fertility, is the process by which",
+      "options": [
+        "atmospheric nitrogen is converted into ammonia",
+        "nitrites are converted into nitrates",
+        "organic matter decomposes into humus",
+        "nitrates are converted back into atmospheric nitrogen gas by certain bacteria"
+      ],
+      "correctIndex": 3,
+      "explanation": "Denitrifying bacteria, active in poorly aerated (waterlogged) soils, convert valuable nitrates back into gaseous nitrogen, which escapes to the atmosphere, reducing soil nitrogen availability."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Soil pH is important in agriculture mainly because it affects the",
+      "options": [
+        "availability of plant nutrients in the soil",
+        "amount of rainfall an area receives",
+        "colour of the topsoil only",
+        "depth of the soil profile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soil pH strongly influences the chemical forms and solubility of nutrients, so extreme acidity or alkalinity can make essential nutrients unavailable to plants even if present in the soil."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Liming (adding calcium compounds) is a common practice used to",
+      "options": [
+        "improve soil drainage in clay soils only",
+        "reduce soil acidity and raise soil pH",
+        "add nitrogen to the soil",
+        "increase soil acidity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agricultural lime neutralises excess soil acidity by supplying calcium (and often magnesium) compounds, raising pH to a range more favourable for most crops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Soil erosion is best described as the",
+      "options": [
+        "chemical weathering of parent rock",
+        "addition of organic matter to the topsoil",
+        "removal and displacement of topsoil by agents such as water and wind",
+        "compaction of soil due to heavy machinery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soil erosion occurs when the fertile topsoil is detached and carried away by erosive agents like flowing water or wind, especially on bare or poorly managed land."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Crops are broadly classified based on their use into categories such as",
+      "options": [
+        "tropical crops only",
+        "annual crops only",
+        "food crops, cash crops, and fibre crops",
+        "monocotyledons only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crops can be classified by their primary use, e.g., food crops (maize, rice) for consumption, cash crops (cocoa, cotton) mainly for sale, and fibre crops (cotton, jute) for textiles."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Cereal crops, such as maize, rice, and millet, belong to which plant family?",
+      "options": [
+        "Solanaceae",
+        "Malvaceae",
+        "Gramineae (Poaceae)",
+        "Leguminosae (Fabaceae)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cereals are grasses belonging to the family Gramineae (also called Poaceae), characterised by narrow leaves and grain-bearing inflorescences."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Leguminous crops, such as cowpea and groundnut, are agriculturally valuable mainly because they",
+      "options": [
+        "cannot be intercropped with cereals",
+        "are resistant to all pests and diseases",
+        "fix atmospheric nitrogen into the soil through root nodule bacteria",
+        "require no fertiliser of any kind"
+      ],
+      "correctIndex": 2,
+      "explanation": "Legumes host nitrogen-fixing Rhizobium bacteria in root nodules, enriching the soil with nitrogen, which benefits both the legume and subsequent crops in rotation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is classified as a root and tuber crop?",
+      "options": [
+        "Maize",
+        "Cotton",
+        "Cassava",
+        "Cowpea"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cassava, along with yam and sweet potato, is grown for its starchy underground root or tuber, distinguishing it from cereal, legume, and fibre crops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The correct order of operations in maize husbandry typically begins with",
+      "options": [
+        "land preparation, followed by planting, weeding, fertiliser application, and harvesting",
+        "fertiliser application before land preparation",
+        "harvesting before land preparation",
+        "weeding before planting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proper crop husbandry follows a logical sequence: preparing the land first, then planting, followed by weeding and fertilising during growth, and finally harvesting at maturity."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Crop rotation, the practice of growing different crops in succession on the same land, is beneficial mainly because it",
+      "options": [
+        "eliminates the need for fertiliser permanently",
+        "guarantees the same yield every season regardless of soil condition",
+        "helps control pests/diseases and maintains soil fertility",
+        "requires no planning of what to grow next"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rotating crops (e.g., alternating cereals with legumes) disrupts pest and disease cycles specific to one crop and helps balance nutrient use and replenishment in the soil."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Crop improvement through selective breeding aims mainly to develop varieties with",
+      "options": [
+        "higher yield, disease resistance, and better quality",
+        "permanently fixed genetic traits that never change",
+        "no need for water or sunlight",
+        "smaller root systems for easier harvesting only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plant breeding programs select and cross parent plants to combine desirable traits such as high yield, pest/disease resistance, and improved nutritional or market quality."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Weeds are undesirable in crop fields mainly because they",
+      "options": [
+        "attract only beneficial insects",
+        "add significant organic matter that boosts yield",
+        "compete with crops for nutrients, water, light, and space",
+        "improve soil structure more than crops do"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weeds reduce crop yield and quality by competing directly with cultivated crops for essential growth resources like sunlight, water, and soil nutrients."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Chemical control of weeds is achieved mainly through the application of",
+      "options": [
+        "fungicides",
+        "insecticides",
+        "herbicides",
+        "nematicides"
+      ],
+      "correctIndex": 2,
+      "explanation": "Herbicides are chemicals specifically formulated to kill or suppress unwanted plant growth (weeds) without excessively harming the crop."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a common method of pest control in crop production?",
+      "options": [
+        "Use of insecticides",
+        "Liming the soil",
+        "Use of herbicides",
+        "Deep ploughing to bury seeds only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insecticides are chemicals specifically used to kill or control insect pests that damage crops, distinct from herbicides (for weeds) and fungicides (for fungal diseases)."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Crop diseases caused by fungi, such as blight, are typically controlled by applying",
+      "options": [
+        "rodenticides",
+        "fungicides",
+        "insecticides",
+        "herbicides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungicides are chemical agents specifically designed to prevent or eliminate fungal infections in crops, such as blights, rusts, and mildews."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is an example of a biological method of pest control?",
+      "options": [
+        "Introducing natural predators or parasites of the pest",
+        "Applying synthetic herbicides",
+        "Burning the affected crop field",
+        "Spraying broad-spectrum chemical insecticides"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biological control uses natural enemies (predators, parasites, or pathogens) of a pest species to reduce its population, an environmentally friendly alternative to chemical control."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Forestry, as it relates to agriculture, is primarily concerned with the",
+      "options": [
+        "cultivation of only food crops",
+        "rearing of livestock in forest reserves exclusively",
+        "management and conservation of forest resources for timber and other products",
+        "processing of dairy products"
+      ],
+      "correctIndex": 2,
+      "explanation": "Forestry involves the sustainable management of trees and forest ecosystems, providing timber, fuelwood, and other products while supporting conservation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Afforestation refers to the",
+      "options": [
+        "planting of trees in an area that previously had no forest cover",
+        "burning of forest vegetation for farmland",
+        "cutting down of trees in an existing forest",
+        "harvesting of mature timber trees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Afforestation involves establishing new forest cover on land that was not previously forested, as opposed to deforestation, which removes existing forest."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Deforestation, the large-scale clearing of forests, commonly leads to",
+      "options": [
+        "improved water retention in the soil",
+        "higher local rainfall in all cases",
+        "increased soil fertility permanently",
+        "soil erosion and loss of biodiversity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Removing forest cover exposes soil to erosion by wind and rain and destroys habitats, leading to significant loss of biodiversity and long-term land degradation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following crops is classified as a fibre crop?",
+      "options": [
+        "Groundnut",
+        "Cotton",
+        "Yam",
+        "Tomato"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cotton is cultivated primarily for the fibre surrounding its seeds, used in the textile industry, distinguishing it from food and tuber crops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Intercropping, the practice of growing two or more crops on the same piece of land simultaneously, is beneficial mainly because it",
+      "options": [
+        "requires no consideration of compatible crop combinations",
+        "eliminates the need for weeding",
+        "maximises the use of land, light, and nutrients, and can reduce pest/disease spread",
+        "always doubles the yield of each individual crop"
+      ],
+      "correctIndex": 2,
+      "explanation": "Intercropping compatible crops (e.g., maize with legumes) makes efficient use of available space, light, and soil nutrients, and can help disrupt pest and disease cycles."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Mixed cropping differs from mixed farming in that mixed cropping involves",
+      "options": [
+        "growing more than one crop on the same land at the same time, without livestock",
+        "keeping only one type of livestock",
+        "growing only a single crop species",
+        "rearing livestock together with crop production on the same farm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mixed cropping refers strictly to combining multiple crop species on the same land, while mixed farming combines both crop production and livestock rearing on the same farm."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The best time to harvest a cereal crop like maize is generally when the",
+      "options": [
+        "grains have reached physiological maturity and moisture content has dropped sufficiently",
+        "plant is still flowering",
+        "field has just been irrigated",
+        "seedlings have just emerged"
+      ],
+      "correctIndex": 0,
+      "explanation": "Harvesting at physiological maturity, once grain moisture content has dropped to an appropriate level, minimises losses and ensures good storage quality."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which factor is most important in determining the appropriate spacing between crop plants during planting?",
+      "options": [
+        "The colour of the crop's flowers",
+        "The nationality of the farmer",
+        "The growth habit and mature size of the crop",
+        "The time of day planting is done"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plant spacing is determined by how large and how the crop grows (e.g., spreading vs. upright), ensuring adequate access to light, water, and nutrients without overcrowding."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Farm animals are broadly classified based on their digestive system into",
+      "options": [
+        "male and female only",
+        "large and small animals only",
+        "domestic and wild animals only",
+        "ruminants and non-ruminants"
+      ],
+      "correctIndex": 3,
+      "explanation": "A key classification in animal husbandry distinguishes ruminants (e.g., cattle, goats, with a four-chambered stomach) from non-ruminants (e.g., pigs, poultry, with a simple stomach)."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Ruminant animals, such as cattle, are able to digest fibrous plant material efficiently mainly due to",
+      "options": [
+        "chewing food only once before swallowing",
+        "microbial fermentation in their specialised, multi-chambered stomach (notably the rumen)",
+        "having exceptionally long intestines only",
+        "producing large amounts of saliva alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rumen houses microorganisms that ferment and break down cellulose in plant fibre, a process non-ruminant animals cannot perform as efficiently."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The reproductive organ in the female mammal where fertilisation of the egg typically occurs is the",
+      "options": [
+        "ovary",
+        "uterus",
+        "oviduct (fallopian tube)",
+        "vagina"
+      ],
+      "correctIndex": 2,
+      "explanation": "In mammals, sperm typically meets and fertilises the egg within the oviduct before the resulting zygote moves to the uterus for implantation and development."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Colostrum, the first milk produced by a mammal after giving birth, is especially important for the newborn because it",
+      "options": [
+        "is rich in antibodies that provide passive immunity against disease",
+        "is identical in composition to regular milk",
+        "contains no nutritional value",
+        "is toxic and should be avoided"
+      ],
+      "correctIndex": 0,
+      "explanation": "Colostrum contains high concentrations of maternal antibodies, giving the newborn crucial passive immunity before its own immune system fully develops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A balanced livestock ration should supply which combination of nutrients?",
+      "options": [
+        "Carbohydrates, proteins, fats, vitamins, minerals, and water in appropriate proportions",
+        "Only carbohydrates in large quantities",
+        "Only minerals and vitamins",
+        "Only protein and water"
+      ],
+      "correctIndex": 0,
+      "explanation": "A properly balanced ration supplies all essential nutrient classes in the correct proportions needed for the animal's growth, maintenance, and production needs."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a major function of protein in livestock nutrition?",
+      "options": [
+        "Growth and repair of body tissues",
+        "Providing the main source of energy under normal conditions",
+        "Regulating body temperature directly",
+        "Insulating the body against cold"
+      ],
+      "correctIndex": 0,
+      "explanation": "Protein supplies amino acids essential for building and repairing muscle and other body tissues, distinct from carbohydrates and fats, which serve mainly as energy sources."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In poultry management, the practice of providing artificial heat to day-old chicks is called",
+      "options": [
+        "vaccination",
+        "culling",
+        "brooding",
+        "debeaking"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brooding provides supplementary heat (via a brooder) to young chicks that cannot yet regulate their own body temperature, crucial for their survival in early weeks."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Debeaking in poultry management is carried out mainly to",
+      "options": [
+        "increase egg production directly",
+        "prevent diseases transmitted through water",
+        "prevent injurious pecking and cannibalism among birds",
+        "improve the taste of poultry meat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Debeaking (trimming part of the beak) reduces the damage caused by pecking behaviour and cannibalism, which can occur especially in crowded poultry housing."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Culling in livestock management refers to the",
+      "options": [
+        "process of feeding animals a balanced diet",
+        "vaccination of animals against disease",
+        "breeding of animals for desirable traits",
+        "removal of unproductive, sick, or undesirable animals from the herd or flock"
+      ],
+      "correctIndex": 3,
+      "explanation": "Culling improves overall herd/flock quality and productivity by systematically removing animals that are unproductive, diseased, or otherwise undesirable for breeding or production."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a common ectoparasite affecting cattle?",
+      "options": [
+        "Tapeworm",
+        "Liver fluke (as an adult, found internally)",
+        "Roundworm",
+        "Tick"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ticks attach to the external body surface of cattle, feeding on blood, making them ectoparasites, unlike internal (endo-) parasites such as roundworms and tapeworms."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Foot and mouth disease, a highly contagious viral disease, primarily affects",
+      "options": [
+        "poultry exclusively",
+        "only animals with a single-toed hoof, like horses",
+        "fish only",
+        "cloven-hoofed animals such as cattle, sheep, and goats"
+      ],
+      "correctIndex": 3,
+      "explanation": "Foot and mouth disease specifically affects cloven-hoofed livestock, causing blisters on the mouth and feet, and is of major economic concern in cattle, sheep, and goats."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Newcastle disease is a major viral disease affecting",
+      "options": [
+        "poultry",
+        "pigs",
+        "cattle",
+        "fish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Newcastle disease is a highly contagious and often fatal viral disease specifically affecting domestic and wild birds, particularly devastating in poultry flocks."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Vaccination of livestock is carried out mainly to",
+      "options": [
+        "stimulate the animal's immune system to protect it against specific diseases",
+        "increase the animal's body weight directly",
+        "provide the animal with essential nutrients",
+        "improve the taste of the animal's meat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vaccines expose the immune system to a harmless form of a pathogen, triggering an immune response that provides protection against future infection by that disease."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Aquaculture refers to the",
+      "options": [
+        "processing of fish into canned products only",
+        "capture of wild fish from open oceans",
+        "study of ocean currents",
+        "controlled cultivation and farming of fish and other aquatic organisms"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aquaculture involves the deliberate breeding, rearing, and harvesting of fish and other aquatic organisms under controlled conditions, distinct from capture fisheries in the wild."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A fish pond used in aquaculture should ideally have which characteristic for good fish growth?",
+      "options": [
+        "Adequate depth, good water quality, and sufficient dissolved oxygen",
+        "Very high salt concentration regardless of fish species",
+        "Completely stagnant water with no aeration",
+        "No access to sunlight at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "Successful fish farming requires ponds with appropriate depth, clean water free of harmful pollutants, and sufficient dissolved oxygen to support healthy fish growth."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a major breed of cattle commonly reared in Nigeria for both milk and meat?",
+      "options": [
+        "White Fulani",
+        "Yorkshire",
+        "Rhode Island Red",
+        "Large White"
+      ],
+      "correctIndex": 0,
+      "explanation": "White Fulani is a well-known indigenous Nigerian cattle breed valued as a dual-purpose breed for both milk and meat production."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a common breed of pig reared for pork production?",
+      "options": [
+        "Large White",
+        "White Fulani",
+        "West African Dwarf",
+        "Rhode Island Red"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Large White is a well-known commercial pig breed valued for its fast growth rate and lean meat production."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Farm animal housing is important mainly because it",
+      "options": [
+        "replaces the need for veterinary care",
+        "guarantees higher market prices for produce",
+        "eliminates the need for feeding entirely",
+        "protects animals from adverse weather, predators, and helps in disease control"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper housing shields livestock from harsh weather and predators while also making it easier to manage feeding, hygiene, and disease prevention."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The gestation period is best defined as the",
+      "options": [
+        "period an animal spends being weaned",
+        "time taken for an egg to be laid",
+        "period between hatching and maturity in birds",
+        "duration of pregnancy from conception to birth in a mammal"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gestation period refers specifically to the length of pregnancy in mammals, varying by species (e.g., about 280 days in cattle, 114 days in pigs)."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a common method of livestock identification used on farms?",
+      "options": [
+        "Ear tagging",
+        "Brooding",
+        "Debeaking",
+        "Culling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ear tagging attaches a numbered or coded tag to an animal's ear, allowing individual animals to be identified and tracked for breeding, health, and production records."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The factors of production in agriculture typically include",
+      "options": [
+        "only land and labour",
+        "land, labour, capital, and management",
+        "only capital and machinery",
+        "only government subsidies"
+      ],
+      "correctIndex": 1,
+      "explanation": "As with general economics, agricultural production depends on land (natural resources), labour (human effort), capital (funds/equipment), and management/entrepreneurship to combine them efficiently."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Land, as a factor of agricultural production, is unique in that it is",
+      "options": [
+        "the only factor required for production",
+        "easily created in unlimited amounts",
+        "fixed in supply and cannot be increased in total quantity",
+        "identical in quality and fertility everywhere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike capital or labour, the total physical quantity of land is fixed, though its productivity can be improved through better management practices."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A land tenure system refers to the",
+      "options": [
+        "method of measuring the size of a farm",
+        "process of preparing land for planting",
+        "type of crop grown on a particular piece of land",
+        "set of rules and customs governing the ownership, use, and transfer of land"
+      ],
+      "correctIndex": 3,
+      "explanation": "Land tenure systems define how land rights are allocated, held, and transferred within a society, significantly influencing farmers' access to land for agricultural use."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The Land Use Act in Nigeria was enacted mainly to",
+      "options": [
+        "transfer all farmland to the federal government directly",
+        "abolish all forms of private land ownership permanently",
+        "vest the ownership and control of land in state governments, held in trust for the people",
+        "prevent any form of land use for agriculture"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Land Use Act of 1978 vested all land in each state in the governor, to be held in trust and administered for the common benefit of the people, affecting land access for farming."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agricultural credit refers to",
+      "options": [
+        "funds borrowed by farmers to finance their farming activities",
+        "government taxes collected from farmers",
+        "the price paid by consumers for farm produce",
+        "the total value of a farmer's harvested produce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Agricultural credit provides farmers with the necessary capital, often borrowed from banks or cooperatives, to purchase inputs and finance production before returns from sales come in."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agricultural marketing involves all activities related to the",
+      "options": [
+        "application of fertiliser to farmland",
+        "actual cultivation of crops on the farm",
+        "breeding of improved livestock varieties",
+        "movement of farm produce from the point of production to the final consumer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Agricultural marketing covers the full chain of assembling, grading, transporting, storing, and selling farm produce until it reaches the final consumer."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Farm records are important mainly because they help the farmer to",
+      "options": [
+        "eliminate the need for farm labour",
+        "monitor farm performance, costs, and profitability over time",
+        "avoid the need for any government regulation",
+        "guarantee immunity from crop failure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Keeping accurate farm records allows a farmer to track income, expenses, yields, and other key indicators, supporting better decision-making and financial planning."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Farm accounting specifically involves the",
+      "options": [
+        "application of pesticides to control pests",
+        "breeding selection of superior livestock",
+        "physical planting and harvesting of crops",
+        "systematic recording and analysis of a farm's financial transactions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Farm accounting focuses on tracking income, expenditure, assets, and liabilities of the farm business, essential for assessing profitability and planning."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following best describes the role of agricultural extension agents?",
+      "options": [
+        "Manufacturing farm machinery and equipment",
+        "Collecting taxes from farmers on behalf of government",
+        "Educating farmers on improved practices and linking them with research findings",
+        "Setting the market price of agricultural produce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Extension agents serve as a vital link between agricultural research institutions and farmers, teaching improved techniques and helping farmers adopt beneficial innovations."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Cooperative societies in agriculture mainly benefit farmers by",
+      "options": [
+        "guaranteeing fixed government-set prices for all produce",
+        "eliminating all competition among farmers permanently",
+        "pooling resources for better access to credit, inputs, and markets",
+        "replacing the need for individual farm management"
+      ],
+      "correctIndex": 2,
+      "explanation": "Agricultural cooperatives allow farmers to combine resources and bargaining power, improving access to credit, farm inputs, machinery, and better market prices."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Capital, as a factor of agricultural production, refers to",
+      "options": [
+        "the entrepreneurial skill of the farm manager",
+        "man-made resources such as money, machinery, and buildings used in farming",
+        "the natural fertility of the soil",
+        "the physical effort provided by farm workers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capital represents man-made inputs (funds, tools, equipment, buildings) used alongside land and labour to carry out agricultural production."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The reward for the use of capital as a factor of production is called",
+      "options": [
+        "profit",
+        "rent",
+        "wages",
+        "interest"
+      ],
+      "correctIndex": 3,
+      "explanation": "In economics, each factor of production earns a specific reward: land earns rent, labour earns wages, capital earns interest, and entrepreneurship/management earns profit."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The reward for the use of land as a factor of production is called",
+      "options": [
+        "rent",
+        "interest",
+        "wages",
+        "profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rent is the payment made for the use of land, distinguishing it from interest (reward for capital) and wages (reward for labour)."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The role of the entrepreneur (farm manager) in agricultural production is mainly to",
+      "options": [
+        "provide only the physical machinery used",
+        "perform all manual labour on the farm personally",
+        "own all the land used in production",
+        "organise and combine the other factors of production and bear the risk of the enterprise"
+      ],
+      "correctIndex": 3,
+      "explanation": "The entrepreneur coordinates land, labour, and capital into productive use, making key decisions and bearing the financial risk of the farming enterprise, earning profit as a reward."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agriculture is often described as a science, an art, and a business because it involves",
+      "options": [
+        "only the manual labour of farmers with no scientific input",
+        "the application of scientific knowledge, practical skills, and profit-oriented management",
+        "government regulation alone with no farmer involvement",
+        "purely theoretical study with no practical application"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agriculture applies scientific principles (science), requires practical skill in carrying out operations (art), and is managed to achieve profit like any enterprise (business)."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agricultural engineering, as a branch of agriculture, is mainly concerned with",
+      "options": [
+        "the marketing of farm produce",
+        "the design and application of machinery, structures, and equipment used in farming",
+        "the study of farm animal diseases",
+        "the breeding of improved crop varieties"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agricultural engineering applies engineering principles to farm machinery, irrigation systems, farm structures, and processing equipment, distinct from agronomy or animal science."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "One major importance of agriculture in rural communities is that it",
+      "options": [
+        "discourages the growth of rural markets",
+        "is practised only by people with university education",
+        "eliminates the need for any form of rural infrastructure",
+        "provides employment and a source of livelihood for the majority of rural dwellers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Agriculture remains the dominant occupation and source of income for most rural populations in developing countries such as Nigeria."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In agricultural ecology, biotic factors are best described as",
+      "options": [
+        "non-living components such as temperature and rainfall",
+        "living components of the environment, such as plants, animals, and micro-organisms, that affect crop and livestock production",
+        "man-made structures found on the farm",
+        "the chemical composition of farm soil only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Biotic factors are the living organisms in an ecosystem, including pests, weeds, pollinators, and micro-organisms, that interact with and influence crops and livestock."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Abiotic factors in an agricultural ecosystem refer to",
+      "options": [
+        "the farmer's management decisions",
+        "non-living physical and chemical components such as temperature, rainfall, and soil minerals",
+        "living organisms such as pests and weeds",
+        "market prices of farm produce"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abiotic factors are the non-living elements of the environment, including climate and soil properties, that influence the growth and distribution of crops and livestock."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Mitosis, a type of cell division important in living organisms, mainly results in",
+      "options": [
+        "two daughter cells genetically identical to the parent cell, enabling growth and repair",
+        "four daughter cells with half the chromosome number of the parent cell",
+        "the formation of gametes for sexual reproduction",
+        "the permanent fusion of two separate cells"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mitosis produces two genetically identical daughter cells from one parent cell, the basis for growth, tissue repair, and asexual reproduction in organisms."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Meiosis is a type of cell division that is important mainly because it",
+      "options": [
+        "produces gametes with half the chromosome number, maintaining a constant chromosome number across generations",
+        "occurs only in plant root tips",
+        "produces cells identical to the parent cell for tissue growth",
+        "combines two separate organisms into one"
+      ],
+      "correctIndex": 0,
+      "explanation": "Meiosis halves the chromosome number during gamete formation, so that when two gametes fuse at fertilisation, the normal chromosome number is restored in the offspring."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Mendel's law of segregation states that",
+      "options": [
+        "the two alleles for a trait separate from each other during gamete formation, with each gamete receiving only one allele",
+        "dominant alleles are always destroyed during meiosis",
+        "different genes for different traits always assort independently of each other",
+        "all offspring must show a blend of both parents' traits"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mendel's law of segregation explains that paired alleles separate during meiosis so each gamete carries only one allele of a gene pair, later reunited at fertilisation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In a genetic cross, a dominant allele is one that",
+      "options": [
+        "never appears in the offspring of a cross",
+        "is always inherited from the mother only",
+        "expresses its trait in the phenotype whenever it is present, masking the recessive allele",
+        "is only expressed when paired with another dominant allele"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dominant allele produces its phenotypic effect even in the heterozygous state, masking the effect of the recessive allele on the other chromosome."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In a monohybrid cross between two heterozygous parents (Aa x Aa), the expected phenotypic ratio of offspring is",
+      "options": [
+        "3 dominant : 1 recessive",
+        "9 dominant : 3 recessive",
+        "1 dominant : 3 recessive",
+        "1 dominant : 1 recessive"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crossing two heterozygous individuals for a single gene (Aa x Aa) typically produces offspring in a 3:1 ratio of dominant to recessive phenotypes."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In a dihybrid cross between two individuals heterozygous for two independently assorting genes, the expected phenotypic ratio of offspring is",
+      "options": [
+        "9:3:3:1",
+        "1:1:1:1",
+        "3:1",
+        "1:2:1"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dihybrid cross (AaBb x AaBb) involving two independently assorting gene pairs typically yields offspring in the classic 9:3:3:1 phenotypic ratio."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The genotype of an organism refers to its",
+      "options": [
+        "genetic constitution, that is, the actual alleles it carries for a trait",
+        "total body weight at maturity",
+        "outward, observable physical appearance",
+        "geographic location of origin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genotype describes the specific alleles an organism possesses for a given gene, while phenotype describes the observable expression of those genes."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Certified seeds are considered a superior farm input mainly because they",
+      "options": [
+        "can be planted at any time of the year regardless of climate",
+        "require no soil preparation before planting",
+        "are guaranteed to be genetically pure, high-yielding, and free from disease and weed contamination",
+        "are always cheaper than uncertified seeds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Certified seeds are produced and inspected under quality control standards, ensuring genetic purity, high germination rate, and freedom from seed-borne diseases and weeds."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Agrochemicals, as farm inputs, include products such as",
+      "options": [
+        "farm buildings and storage silos",
+        "seeds and planting materials only",
+        "fertilisers, herbicides, and insecticides used to boost yield and control pests",
+        "tractors and ploughs used for tillage"
+      ],
+      "correctIndex": 2,
+      "explanation": "Agrochemicals are manufactured chemical inputs, such as fertilisers and pesticides, used to supply nutrients or control pests, weeds, and diseases in crop production."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The Operation Feed the Nation programme, launched by the Nigerian government, was aimed primarily at",
+      "options": [
+        "banning the importation of all agricultural machinery",
+        "establishing private commercial banks across the country",
+        "encouraging citizens to engage in food production to achieve national food self-sufficiency",
+        "regulating the price of imported manufactured goods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operation Feed the Nation was a national programme launched to mobilise citizens toward increased food crop production and reduce dependence on food imports."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The FADAMA programme in Nigeria was primarily established to",
+      "options": [
+        "improve rural livelihoods by developing irrigation and providing support for farmers along floodplain areas",
+        "regulate the exportation of cash crops only",
+        "construct urban housing estates",
+        "provide scholarships for agricultural students abroad"
+      ],
+      "correctIndex": 0,
+      "explanation": "FADAMA is a World Bank-assisted programme that supports farmers in floodplain (fadama) areas through irrigation infrastructure, inputs, and rural livelihood improvement."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Non-governmental organisations (NGOs) contribute to agricultural development mainly by",
+      "options": [
+        "printing the country's currency for agricultural trade",
+        "providing training, funding, and technical support to farmers, often in underserved areas",
+        "setting national import and export tariffs",
+        "enforcing land tenure laws in rural communities"
+      ],
+      "correctIndex": 1,
+      "explanation": "NGOs often complement government efforts by offering farmer training, micro-credit, and technical assistance, particularly in rural or underserved agricultural communities."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The Green Revolution refers to a period of agricultural reform mainly aimed at",
+      "options": [
+        "converting farmland into industrial estates",
+        "increasing crop yields through improved varieties, fertiliser use, and irrigation",
+        "banning the use of any modern farm inputs",
+        "reducing the amount of land available for cultivation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Green Revolution promoted high-yielding crop varieties combined with fertilisers, irrigation, and mechanisation to substantially raise agricultural productivity."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Igneous rock, one of the major parent materials from which soil is formed, originates from",
+      "options": [
+        "the compression of layers of sediment over time",
+        "the alteration of existing rock by heat and pressure",
+        "the cooling and solidification of molten magma or lava",
+        "the decomposition of plant and animal remains"
+      ],
+      "correctIndex": 2,
+      "explanation": "Igneous rocks, such as granite and basalt, form when molten magma or lava cools and solidifies, and they serve as an important parent material for soil formation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Physical weathering differs from chemical weathering of rocks in that physical weathering involves",
+      "options": [
+        "the addition of organic matter to weathered rock",
+        "the action of living organisms only",
+        "a change in the chemical composition of the rock through reactions such as oxidation",
+        "the mechanical breakdown of rock into smaller particles without changing its chemical composition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Physical (mechanical) weathering breaks rocks into smaller fragments through processes like temperature changes and frost action, without altering their chemical make-up, unlike chemical weathering."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Gravitational water in the soil is best described as water that",
+      "options": [
+        "moves freely downward through the large soil pores under the pull of gravity",
+        "is tightly bound to soil particles and unavailable to plants",
+        "is held permanently in the smallest soil pores",
+        "exists only as water vapour in soil air spaces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gravitational water drains freely through the larger soil pores due to gravity and is generally not retained long enough to be fully utilised by plant roots."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Hygroscopic water in the soil refers to water that is",
+      "options": [
+        "tightly held as a thin film around soil particles and largely unavailable for plant uptake",
+        "the main source of water absorbed by plant roots",
+        "found only in waterlogged soils",
+        "freely draining through large pore spaces under gravity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hygroscopic water is held so tightly by adhesive forces around soil particles that it is essentially unavailable to plants, unlike the more available capillary water."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Field capacity refers to the amount of water",
+      "options": [
+        "remaining in the soil after excess gravitational water has drained away",
+        "present in the soil immediately after a rainfall event",
+        "required to saturate the entire soil profile permanently",
+        "lost from the soil through evaporation alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Field capacity is the water content of soil after free drainage of gravitational water has stopped, representing the maximum water available for plant use."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The permanent wilting point of soil is the moisture level at which",
+      "options": [
+        "soil is completely saturated with water",
+        "soil nutrients become most available to plants",
+        "plants can no longer extract sufficient water and remain wilted even after watering",
+        "gravitational water begins to drain rapidly"
+      ],
+      "correctIndex": 2,
+      "explanation": "At the permanent wilting point, the remaining soil water is held so tightly that plant roots cannot extract it, causing the plant to remain wilted even under favourable conditions."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Contour ploughing, a soil conservation practice, helps to control erosion mainly by",
+      "options": [
+        "removing all vegetation cover from sloping land",
+        "creating furrows across the slope that slow down and trap surface run-off",
+        "increasing the speed of water flow down a slope",
+        "compacting the soil to prevent water infiltration entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ploughing along the natural contour of a slope, rather than up and down it, creates ridges that slow run-off and reduce soil loss on hilly farmland."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Terracing, as a method of soil erosion control, involves",
+      "options": [
+        "removing topsoil completely from hilly land",
+        "planting a single crop species across a whole hillside",
+        "constructing a series of levelled platforms on a slope to reduce the speed of water run-off",
+        "digging deep vertical channels down a slope"
+      ],
+      "correctIndex": 2,
+      "explanation": "Terracing transforms a steep slope into a series of flat steps, reducing the velocity of run-off and thereby minimising soil erosion on hilly terrain."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Cover cropping is a soil conservation practice that mainly helps to",
+      "options": [
+        "protect the soil surface from the direct impact of rain and reduce erosion",
+        "prevent any organic matter from entering the soil",
+        "eliminate the need for crop rotation permanently",
+        "increase the rate of soil erosion on bare land"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cover crops shield the soil surface from the direct impact of raindrops and wind, reducing splash erosion and run-off while often adding organic matter."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In the carbon cycle, green plants remove carbon dioxide from the atmosphere mainly through the process of",
+      "options": [
+        "photosynthesis",
+        "combustion",
+        "decomposition",
+        "respiration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Photosynthesis is the process by which green plants absorb atmospheric carbon dioxide and convert it, using sunlight, into organic compounds such as glucose."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Carbon dioxide is returned to the atmosphere in the carbon cycle mainly through processes such as",
+      "options": [
+        "photosynthesis in green plants",
+        "nitrogen fixation by root nodule bacteria",
+        "respiration of living organisms and decomposition of organic matter",
+        "absorption of nitrates by plant roots"
+      ],
+      "correctIndex": 2,
+      "explanation": "Respiration by plants and animals, along with the decomposition of dead organic matter by micro-organisms, releases carbon dioxide back into the atmosphere, completing the carbon cycle."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Phosphorus is an essential plant nutrient mainly important for",
+      "options": [
+        "increasing the water content of the soil",
+        "the formation of chlorophyll and leafy growth",
+        "root development and flowering/fruiting",
+        "controlling soil pH directly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phosphorus promotes strong root development, and flowering and fruit formation, whereas nitrogen is primarily linked to vegetative (leafy) growth and chlorophyll formation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Potassium, an essential macronutrient, is important in plants mainly for",
+      "options": [
+        "primarily driving chlorophyll formation",
+        "improving disease resistance and the overall quality and strength of plant tissue",
+        "fixing atmospheric nitrogen in the soil",
+        "forming the bulk of plant proteins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Potassium strengthens plant tissues, improves resistance to disease and lodging, and regulates water balance within the plant, distinct from nitrogen's role in vegetative growth."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Macronutrients differ from micronutrients in plant nutrition in that macronutrients are required",
+      "options": [
+        "in relatively large quantities, such as nitrogen, phosphorus, and potassium",
+        "exclusively by animals and not by plants",
+        "only during the seedling stage of a plant's life",
+        "only in trace amounts, such as zinc and boron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Macronutrients (e.g., nitrogen, phosphorus, potassium) are needed by plants in large amounts, while micronutrients (e.g., zinc, boron, iron) are needed only in trace quantities."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Compost is prepared mainly by",
+      "options": [
+        "storing fresh animal dung without any decomposition",
+        "burning crop residues completely to ash",
+        "mixing inorganic fertilisers with water",
+        "allowing plant and animal waste to decompose under controlled conditions into a nutrient-rich manure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Composting is the controlled decomposition of organic materials such as crop residues and animal waste, producing a nutrient-rich organic manure for soil improvement."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Green manuring involves the practice of",
+      "options": [
+        "spraying green-coloured pesticides on crops",
+        "harvesting mature crops for animal feed",
+        "ploughing young, green plants directly into the soil to decompose and improve fertility",
+        "applying only inorganic fertiliser to growing crops"
+      ],
+      "correctIndex": 2,
+      "explanation": "Green manuring incorporates fresh, green plant material (often legumes) directly into the soil, where it decomposes and enriches the soil with organic matter and nutrients."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Broadcasting, as a method of planting, involves",
+      "options": [
+        "placing seeds individually in holes at fixed spacing",
+        "transplanting seedlings from a nursery bed",
+        "scattering seeds randomly and evenly over the entire prepared seedbed",
+        "sowing seeds in continuous rows using a drill"
+      ],
+      "correctIndex": 2,
+      "explanation": "Broadcasting scatters seeds by hand or machine over the whole field surface, commonly used for crops like rice and some pasture grasses, unlike row planting or dibbling."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Seed dormancy refers to a condition in which a viable seed",
+      "options": [
+        "fails to germinate even under favourable environmental conditions until the dormancy is broken",
+        "loses its ability to ever germinate",
+        "requires no water at all to germinate",
+        "germinates immediately regardless of environmental conditions"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dormant seed is alive and viable but will not germinate until specific internal or external conditions, such as scarification or after-ripening, allow dormancy to be broken."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Propagation of plants using stem cuttings is an example of",
+      "options": [
+        "sexual propagation through seeds",
+        "vegetative (asexual) propagation",
+        "propagation through spores only",
+        "propagation using pollen grains"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using stem cuttings to grow new plants is a form of vegetative propagation, producing genetically identical plants without the use of seeds or fertilisation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Weevils are a major concern in the storage of cereal grains mainly because they",
+      "options": [
+        "bore into and feed on stored grains, causing significant post-harvest losses",
+        "improve the germination rate of stored seeds",
+        "prevent fungal growth in grain stores",
+        "add nutritional value to stored grains"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weevils are common storage pests that bore into grains such as maize and rice, causing considerable quantity and quality losses if not properly controlled."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A traditional crib used for storing maize is designed mainly to",
+      "options": [
+        "cook the maize while in storage",
+        "keep maize permanently wet for easier processing",
+        "prevent any air from reaching the stored grain",
+        "allow good ventilation and reduce moisture, thereby preventing mould and pest damage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cribs are raised, well-ventilated structures that allow air to circulate through the stored maize cobs, reducing moisture content and limiting mould and pest infestation."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The gizzard in the digestive system of poultry functions mainly to",
+      "options": [
+        "grind and break down food, often with the help of small stones (grit)",
+        "absorb digested nutrients into the bloodstream",
+        "produce digestive enzymes for protein breakdown",
+        "temporarily store food before digestion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The muscular gizzard grinds food, often aided by ingested grit, compensating for the bird's lack of teeth and preparing food for further digestion."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In the stomach of a ruminant such as cattle, the four compartments in the correct order that food passes through are the",
+      "options": [
+        "rumen, reticulum, omasum, and abomasum",
+        "abomasum, omasum, reticulum, and rumen",
+        "reticulum, abomasum, rumen, and omasum",
+        "omasum, rumen, abomasum, and reticulum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ingested feed passes sequentially through the rumen (fermentation), reticulum (further breakdown and cud formation), omasum (water absorption), and finally the abomasum (true glandular stomach)."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Air sacs, found in the respiratory system of birds, function mainly to",
+      "options": [
+        "produce eggs within the reproductive tract",
+        "regulate the bird's body temperature through sweating",
+        "store air and improve the efficiency of gas exchange in the lungs",
+        "digest food more efficiently"
+      ],
+      "correctIndex": 2,
+      "explanation": "Air sacs act as bellows that push air continuously through the lungs, allowing for a highly efficient, one-way flow of air that supports the high metabolic demands of flight and growth."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The testes in the male reproductive system of livestock are primarily responsible for",
+      "options": [
+        "storing fertilised eggs during pregnancy",
+        "producing eggs (ova) for reproduction",
+        "producing milk for offspring",
+        "producing sperm cells and the male hormone testosterone"
+      ],
+      "correctIndex": 3,
+      "explanation": "The testes are the primary male reproductive organs, producing both sperm cells through spermatogenesis and testosterone, the principal male sex hormone."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The oestrus cycle in female livestock refers to the",
+      "options": [
+        "process by which milk is produced after birth",
+        "stage at which an animal is weaned from its mother",
+        "period during which an animal is exclusively pregnant",
+        "recurring series of physiological changes associated with reproduction, including the period of sexual receptivity (heat)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The oestrus cycle describes the recurring reproductive cycle in female mammals, including the period of heat (oestrus) when the female is receptive to mating."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Artificial insemination is a livestock breeding technique valued mainly because it allows",
+      "options": [
+        "widespread use of semen from genetically superior males without the need for natural mating",
+        "farmers to avoid feeding their breeding animals",
+        "elimination of all inherited diseases automatically",
+        "animals to reproduce without any reproductive organs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Artificial insemination allows semen from a single genetically superior sire to be used to breed many females across different locations, improving herd genetics without natural mating."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A deficiency of Vitamin A in livestock commonly results in",
+      "options": [
+        "improved reproductive performance",
+        "soft, brittle bones and rickets",
+        "night blindness and poor growth",
+        "excessive weight gain"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin A is essential for vision and epithelial tissue health, so its deficiency commonly causes night blindness, poor growth, and increased susceptibility to infection in livestock."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A deficiency of calcium in laying hens commonly results in",
+      "options": [
+        "thin or soft-shelled eggs and weakened bones",
+        "increased fertility of eggs",
+        "improved feather quality",
+        "faster growth rate in chicks"
+      ],
+      "correctIndex": 0,
+      "explanation": "Calcium is essential for eggshell formation and skeletal strength, so a deficiency in laying hens leads to soft or thin-shelled eggs and weakened bone structure."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The Pearson square method is a technique commonly used in animal nutrition to",
+      "options": [
+        "diagnose parasitic infections in livestock",
+        "determine the age of an animal from its teeth",
+        "calculate the proportions of two feed ingredients needed to achieve a desired nutrient level in a ration",
+        "measure the body weight of livestock"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Pearson square is a simple mathematical method used to calculate the correct proportions of two or more feed ingredients required to formulate a ration with a target nutrient content."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Roughages differ from concentrates in livestock feeds in that roughages",
+      "options": [
+        "can only be fed to poultry and not to ruminants",
+        "are low in fibre but very high in energy and protein content",
+        "must always be provided in powdered form",
+        "are bulky feeds with high fibre content and relatively low nutrient density"
+      ],
+      "correctIndex": 3,
+      "explanation": "Roughages, such as hay and grass, are bulky and high in fibre but comparatively low in energy and protein, while concentrates are nutrient-dense with low fibre content."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Silage is prepared mainly by",
+      "options": [
+        "storing green, chopped forage under anaerobic conditions to ferment and preserve it for feeding",
+        "drying green forage completely under the sun before storage",
+        "grinding dry grains into a fine powder",
+        "boiling forage crops before feeding to livestock"
+      ],
+      "correctIndex": 0,
+      "explanation": "Silage making preserves green fodder by packing it tightly to exclude air, allowing controlled fermentation that maintains its nutritional value for later feeding, especially in the dry season."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Hay making, a method of preserving forage, mainly involves",
+      "options": [
+        "boiling green forage to kill harmful bacteria",
+        "cutting and sun-drying green forage to a low moisture content for storage",
+        "fermenting green forage in an airtight container",
+        "freezing green forage for long-term storage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hay is made by cutting forage at the right growth stage and drying it under the sun until its moisture content is low enough to prevent spoilage during storage."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The deep litter system of poultry housing involves",
+      "options": [
+        "housing birds exclusively in underground pits",
+        "confining each bird individually in a small elevated wire cage",
+        "allowing birds to roam freely without any form of housing",
+        "keeping birds on a floor covered with absorbent material such as wood shavings or straw"
+      ],
+      "correctIndex": 3,
+      "explanation": "In the deep litter system, birds are raised on the floor of a house covered with litter material like wood shavings, which absorbs droppings and provides a comfortable surface."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The battery cage system of poultry housing is characterised mainly by",
+      "options": [
+        "allowing birds unrestricted access to open pasture",
+        "housing birds on a floor with deep litter material",
+        "keeping birds in individual wire cages, often arranged in tiers, to ease management and egg collection",
+        "keeping birds exclusively outdoors without shelter"
+      ],
+      "correctIndex": 2,
+      "explanation": "The battery cage system confines individual birds (mainly layers) in wire cages stacked in tiers, simplifying feeding, egg collection, and disease control, though it limits movement."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Disinfection of livestock housing and equipment is carried out mainly to",
+      "options": [
+        "improve the genetic quality of the herd",
+        "increase the nutritional value of animal feed",
+        "reduce the labour required for feeding animals",
+        "destroy disease-causing organisms and reduce the risk of infection"
+      ],
+      "correctIndex": 3,
+      "explanation": "Disinfection uses chemical agents to kill pathogenic micro-organisms on surfaces and equipment, reducing disease transmission risk within a livestock facility."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Liver fluke is classified as an endoparasite of livestock mainly because it",
+      "options": [
+        "lives and feeds inside the body of its host, particularly the liver and bile ducts",
+        "attaches to and feeds on the external skin surface of the host",
+        "is a type of bacteria rather than a parasitic worm",
+        "lives freely in the soil without any host"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liver fluke is an internal (endo-) parasite that resides within the liver and bile ducts of its host, unlike ectoparasites such as ticks that live on the outer body surface."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Coccidiosis, a common disease of poultry caused by a protozoan parasite, mainly affects the",
+      "options": [
+        "intestinal lining, causing bloody diarrhoea and poor growth",
+        "skeletal system, causing brittle bones",
+        "respiratory system, causing severe coughing",
+        "reproductive system, causing complete infertility"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coccidiosis is caused by protozoan parasites that damage the intestinal lining of birds, resulting in bloody diarrhoea, poor feed conversion, and reduced growth or death if untreated."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Mastitis, a common disease in dairy cattle, is characterised mainly by",
+      "options": [
+        "inflammation of the respiratory tract",
+        "swelling of the joints, causing lameness",
+        "inflammation of the udder, often reducing milk yield and quality",
+        "loss of appetite with no other symptoms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mastitis is an inflammation of the mammary gland (udder), usually caused by bacterial infection, leading to reduced milk yield and altered milk quality in dairy cattle."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Trypanosomiasis, a serious disease of cattle in tropical Africa, is transmitted mainly by the bite of the",
+      "options": [
+        "tick",
+        "housefly",
+        "tsetse fly",
+        "mosquito"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trypanosomiasis (nagana) is caused by trypanosome parasites transmitted through the bite of the tsetse fly, significantly limiting cattle rearing in tsetse-infested regions of Africa."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Which of the following is a common system used for rearing fish in aquaculture?",
+      "options": [
+        "Deep litter houses on dry land",
+        "Earthen ponds, concrete tanks, and floating cages",
+        "Underground burrows dug by the farmer",
+        "Battery cages suspended in the air"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fish are commonly reared in earthen ponds, concrete or plastic tanks, or floating/fixed cages placed in larger water bodies, each system suited to different scales of production."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Smoking, as a method of fish processing, is used mainly to",
+      "options": [
+        "kill the fish before it can be harvested",
+        "increase the moisture content of fresh fish",
+        "add colour to fish without affecting its shelf life",
+        "reduce moisture content and preserve fish for a longer shelf life"
+      ],
+      "correctIndex": 3,
+      "explanation": "Smoking dehydrates fish and deposits preservative compounds from the smoke, inhibiting microbial growth and significantly extending the fish's shelf life."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Apiculture, the practice of bee-keeping, is valued mainly for the production of",
+      "options": [
+        "honey and beeswax",
+        "wool and hide",
+        "milk and meat",
+        "eggs and feathers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apiculture focuses on rearing honeybee colonies primarily to harvest honey and beeswax, along with benefits like pollination of crops."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A typical honeybee colony is organised into three main castes, namely",
+      "options": [
+        "the queen, larvae, and pupae only",
+        "the queen, worker bees, and drones",
+        "male bees, female bees, and eggs",
+        "workers, eggs, and honeycombs"
+      ],
+      "correctIndex": 1,
+      "explanation": "A honeybee colony consists of a single reproductive queen, numerous sterile female worker bees that perform colony tasks, and male drones whose main role is to mate with a queen."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Weaning in livestock management refers to the",
+      "options": [
+        "process of introducing a bull to a herd of cows",
+        "gradual withdrawal of young animals from dependence on their mother's milk to solid feed",
+        "vaccination of young animals against disease",
+        "removal of horns from young cattle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weaning is the process of transitioning young animals from a milk-based diet to solid feed, marking their nutritional independence from the mother."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Castration of male livestock is carried out mainly to",
+      "options": [
+        "cure existing bacterial infections",
+        "increase the animal's fertility",
+        "reduce aggressiveness and improve meat quality by preventing unwanted breeding",
+        "improve the animal's ability to reproduce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Castration removes the testes of male animals not intended for breeding, reducing aggressive behaviour and often improving growth rate and meat quality."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "According to the law of demand, when the price of a commodity rises while other factors remain constant, the quantity demanded will generally",
+      "options": [
+        "rise sharply before falling",
+        "fall",
+        "remain exactly the same",
+        "rise"
+      ],
+      "correctIndex": 1,
+      "explanation": "The law of demand states that, all else being equal, an increase in the price of a commodity leads to a decrease in the quantity consumers are willing to buy."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "According to the law of supply, when the price of an agricultural commodity rises while other factors remain constant, the quantity supplied by producers will generally",
+      "options": [
+        "remain unchanged",
+        "decrease",
+        "increase",
+        "fall to zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "The law of supply states that, all else being equal, producers are willing to supply more of a commodity as its price rises, due to the higher potential profit."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The law of diminishing returns in agricultural production states that as more units of a variable input (e.g., fertiliser) are added to a fixed input (e.g., land),",
+      "options": [
+        "output will continue to increase at a constant rate indefinitely",
+        "the additional output gained from each extra unit will eventually decrease",
+        "total output will decrease immediately from the very first unit added",
+        "the fixed input becomes unnecessary for further production"
+      ],
+      "correctIndex": 1,
+      "explanation": "The law of diminishing returns states that, beyond a certain point, adding more of a variable input to a fixed input yields progressively smaller increases in output."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The elasticity of demand for an agricultural product measures",
+      "options": [
+        "the distance the product travels from farm to market",
+        "the total quantity of the product available in the market",
+        "how responsive the quantity demanded is to a change in the product's price",
+        "the number of farmers producing the product"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elasticity of demand quantifies how much the quantity demanded of a good changes in response to a change in its price, indicating whether demand is elastic or inelastic."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In a competitive market, the equilibrium price of a farm product is the price at which",
+      "options": [
+        "supply always exceeds demand indefinitely",
+        "the government fixes prices regardless of demand or supply",
+        "demand always exceeds supply indefinitely",
+        "the quantity demanded by consumers equals the quantity supplied by producers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Market equilibrium occurs where the demand and supply curves intersect, meaning the quantity buyers wish to purchase exactly matches the quantity sellers wish to offer at that price."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Middlemen in agricultural marketing perform the important function of",
+      "options": [
+        "providing veterinary services to livestock farmers",
+        "setting national agricultural policy",
+        "linking farmers with consumers by buying, transporting, and distributing produce",
+        "growing crops on behalf of the farmer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Middlemen bridge the gap between producers and final consumers by assembling, transporting, storing, and distributing agricultural produce through the marketing chain."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Grading and standardisation, as marketing functions, mainly involve",
+      "options": [
+        "storing produce until prices become favourable",
+        "transporting produce from the farm to the market",
+        "sorting farm produce into uniform classes based on quality, size, or other set standards",
+        "advertising produce to potential buyers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Grading sorts produce into categories based on defined quality standards (e.g., size, ripeness), helping to ensure fair pricing and consistent quality for buyers."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Storage, as a marketing function, benefits farmers mainly by",
+      "options": [
+        "allowing produce to be held until market conditions or prices become more favourable",
+        "reducing the total quantity of produce available for sale",
+        "eliminating the need for any form of transportation",
+        "guaranteeing that produce will never spoil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Storage bridges the gap between harvest time and the time of sale, allowing farmers to avoid glut periods of low prices and sell when demand and prices are more favourable."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Transportation, as a marketing function, is important mainly because it",
+      "options": [
+        "determines the biological maturity of the crop",
+        "eliminates the need for storage facilities",
+        "moves agricultural produce from areas of production to areas of demand",
+        "increases the nutritional value of the produce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transportation creates place utility by physically moving produce from surplus production areas to markets or consumers where it is needed, often over considerable distances."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The individual method of agricultural extension, such as a farm visit, is most useful mainly because it",
+      "options": [
+        "requires no direct interaction between the agent and the farmer",
+        "reaches the largest possible number of farmers at the lowest cost",
+        "allows the extension agent to address a specific farmer's unique problems directly",
+        "is always cheaper than group or mass methods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Individual methods, such as farm and home visits, allow the extension agent to give personalised advice tailored to a specific farmer's circumstances and problems."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Field demonstrations are a group method of agricultural extension used mainly to",
+      "options": [
+        "replace the need for individual farm visits entirely",
+        "collect taxes from farmers in a community",
+        "practically show a group of farmers how to apply a new technique or technology",
+        "broadcast general farming tips to an entire region via radio"
+      ],
+      "correctIndex": 2,
+      "explanation": "Demonstrations allow extension agents to show a group of farmers, through practical hands-on example, how an improved practice or technology works and its benefits."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Mass methods of agricultural extension, such as radio and television broadcasts, are particularly useful mainly because they",
+      "options": [
+        "can quickly reach a very large number of farmers spread over a wide area",
+        "are only effective for farmers who can read and write",
+        "provide highly personalised advice tailored to one farmer",
+        "require face-to-face interaction with every farmer reached"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mass media methods can disseminate general farming information to a very large and geographically dispersed audience simultaneously, though they lack the personalised touch of individual methods."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Farm budgeting mainly involves",
+      "options": [
+        "measuring the physical size of farmland",
+        "planning expected income and expenditure for a farm business over a given period",
+        "recording only the crops harvested during a season",
+        "diagnosing diseases affecting farm animals"
+      ],
+      "correctIndex": 1,
+      "explanation": "A farm budget is a financial plan estimating anticipated income and expenses, helping the farmer allocate resources efficiently and evaluate the profitability of planned activities."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Depreciation of farm assets, such as machinery, refers to the",
+      "options": [
+        "gradual reduction in the value of an asset over time due to wear and tear or obsolescence",
+        "increase in the market value of an asset over time",
+        "amount of interest charged on a farm loan",
+        "total replacement cost of a new machine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Depreciation accounts for the loss in value of a durable asset like a tractor over its useful life, due to factors such as wear, age, and obsolescence."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Family labour differs from hired labour on a farm mainly in that family labour",
+      "options": [
+        "cannot be used for any farm operations",
+        "is usually unpaid or informally compensated and provided by household members",
+        "is exclusively used on large commercial farms",
+        "always requires a formal, legally binding wage contract"
+      ],
+      "correctIndex": 1,
+      "explanation": "Family labour is typically supplied by household members without a formal wage arrangement, common on subsistence and small-scale farms, unlike hired labour which is paid a wage."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In farm cost analysis, a fixed cost is one that",
+      "options": [
+        "only applies to the cost of seeds and fertiliser",
+        "remains constant regardless of the level of output produced, such as land rent",
+        "changes directly in proportion to the level of output produced",
+        "is incurred only after the produce has been sold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fixed costs, such as rent on land or depreciation on buildings, remain constant in the short run regardless of how much is produced, unlike variable costs such as seeds or labour, which change with output."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A rational farm manager aiming to maximise profit will generally continue production up to the point where",
+      "options": [
+        "total cost is completely eliminated",
+        "the additional revenue from one more unit of output equals the additional cost of producing it",
+        "total revenue is exactly zero",
+        "all available land has been used regardless of cost"
+      ],
+      "correctIndex": 1,
+      "explanation": "Profit is maximised at the point where marginal revenue equals marginal cost; producing beyond this point would add more to cost than to revenue, reducing overall profit."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In farm surveying, a measuring tape or chain is used mainly to",
+      "options": [
+        "determine the exact chemical composition of the soil",
+        "measure the moisture content of harvested grain",
+        "measure horizontal distances between points on a farm",
+        "determine the direction of true north"
+      ],
+      "correctIndex": 2,
+      "explanation": "A measuring tape or surveyor's chain is a basic tool used to measure linear distances on the ground when carrying out a farm survey."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A magnetic compass is used in farm surveying mainly to",
+      "options": [
+        "determine directions and bearings between survey points",
+        "measure rainfall received on the farm",
+        "test the fertility of the soil",
+        "measure the exact area of a plot of land"
+      ],
+      "correctIndex": 0,
+      "explanation": "A compass determines directions and bearings, essential for accurately plotting the layout and boundaries of farmland during a survey."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "When siting a farmstead, one of the most important factors to consider is",
+      "options": [
+        "the political affiliation of nearby landowners",
+        "the availability of a nearby cinema",
+        "the exact number of trees present on the site",
+        "proximity to a reliable water source and good road access"
+      ],
+      "correctIndex": 3,
+      "explanation": "A good farmstead site should have easy access to water for domestic and farm use, as well as good roads for transporting inputs and produce, among other planning considerations."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Fencing around a farmstead or field is important mainly because it helps to",
+      "options": [
+        "improve the taste of crops grown within it",
+        "keep out stray animals and unauthorised persons, protecting crops and livestock",
+        "eliminate the need for any form of irrigation",
+        "increase the fertility of the enclosed soil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fencing provides a physical barrier that protects crops and livestock from stray animals, pests, and unauthorised access, contributing to farm security."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Human power remains an important source of farm power, especially on small-scale farms, mainly because it",
+      "options": [
+        "is readily available and requires no special fuel or complex machinery",
+        "requires no rest or food to sustain the worker",
+        "can perform large-scale mechanised operations faster than a tractor",
+        "is always more efficient than animal or mechanical power"
+      ],
+      "correctIndex": 0,
+      "explanation": "Human labour remains a widely accessible power source, especially where mechanisation is limited, though it is generally slower and less efficient for large-scale operations than animal or mechanical power."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Draught animals, such as oxen, are used on many farms as a source of power mainly for",
+      "options": [
+        "producing eggs for sale",
+        "generating electricity for farm buildings",
+        "providing milk exclusively",
+        "pulling implements such as ploughs and carts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Draught animals like oxen and donkeys provide animal power used to pull farm implements such as ploughs, harrows, and carts, particularly where mechanisation is limited."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Mechanical power, supplied mainly by internal combustion engines in tractors, is valued in modern agriculture mainly because it",
+      "options": [
+        "is always cheaper to acquire than animal power",
+        "requires no maintenance once purchased",
+        "performs farm operations faster and with greater capacity than human or animal power",
+        "eliminates the need for any form of fuel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mechanical power from engines allows farm operations to be completed much faster and on a larger scale than relying solely on human or animal labour, though it requires fuel and maintenance."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Diesel engines are commonly preferred over petrol engines in farm tractors mainly because diesel engines",
+      "options": [
+        "cannot generate enough power for tillage operations",
+        "run only on electricity rather than fuel",
+        "are generally more fuel-efficient and durable under heavy farm workloads",
+        "require spark plugs to ignite the fuel-air mixture"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diesel engines are valued in tractors for their durability, torque, and fuel efficiency under the heavy, sustained workloads typical of farm operations, compared to petrol engines."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Tissue culture, a biotechnology technique, is used mainly to",
+      "options": [
+        "measure the pH of farm soil",
+        "control weeds using chemical herbicides",
+        "breed livestock through natural mating only",
+        "produce large numbers of genetically identical, disease-free plantlets from a small piece of plant tissue"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tissue culture propagates plants by growing small explants of plant tissue in a sterile nutrient medium, rapidly producing numerous genetically identical and disease-free plantlets."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Genetic engineering in agriculture mainly involves",
+      "options": [
+        "the traditional cross-breeding of two different plant varieties",
+        "the mechanical harvesting of genetically identical crops",
+        "the physical grafting of one plant onto another",
+        "the direct manipulation of an organism's genes to introduce desirable traits"
+      ],
+      "correctIndex": 3,
+      "explanation": "Genetic engineering directly alters an organism's DNA, often by inserting specific genes, to confer desired traits such as pest resistance, faster growth, or improved nutritional content."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Biotechnology has been applied in agriculture to develop crop varieties that are mainly",
+      "options": [
+        "dependent solely on organic manure for growth",
+        "incapable of producing any seeds",
+        "unable to be consumed by humans",
+        "resistant to specific pests, diseases, or environmental stresses"
+      ],
+      "correctIndex": 3,
+      "explanation": "Modern agricultural biotechnology has produced crop varieties engineered for traits such as pest and disease resistance, herbicide tolerance, and improved drought tolerance."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "The use of Global Positioning System (GPS) technology in precision farming mainly helps farmers to",
+      "options": [
+        "accurately map fields and apply inputs such as fertiliser at precise locations and rates",
+        "replace the need for any soil testing",
+        "manually water crops without any equipment",
+        "eliminate the need for farm labour entirely"
+      ],
+      "correctIndex": 0,
+      "explanation": "GPS technology enables precise mapping of field variability, allowing farmers to apply water, fertiliser, and other inputs at the right location and rate, reducing waste and improving efficiency."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "Precision farming is best described as an agricultural management approach that",
+      "options": [
+        "applies a uniform, fixed amount of input across an entire farm regardless of variability",
+        "relies solely on traditional manual methods without any technology",
+        "uses technology and data to apply the right input, in the right amount, at the right place and time",
+        "focuses only on livestock production and ignores crops"
+      ],
+      "correctIndex": 2,
+      "explanation": "Precision farming uses technologies such as GPS, sensors, and data analysis to tailor input application to the specific needs of different parts of a field, improving efficiency and reducing waste."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A seed drill, used in mechanised planting, is designed mainly to",
+      "options": [
+        "remove weeds from between crop rows",
+        "place seeds at a uniform depth and spacing in rows",
+        "spray pesticides evenly over a field",
+        "harvest mature grain crops"
+      ],
+      "correctIndex": 1,
+      "explanation": "A seed drill (planter) sows seeds mechanically at a consistent depth and row spacing, improving planting uniformity and efficiency compared to manual broadcasting."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A knapsack sprayer, commonly used on small farms, is a device designed mainly to",
+      "options": [
+        "harvest root crops from the soil",
+        "apply liquid pesticides or herbicides to crops in a fine mist",
+        "irrigate large fields with a constant flow of water",
+        "till the soil before planting"
+      ],
+      "correctIndex": 1,
+      "explanation": "A knapsack sprayer is a portable, back-carried device that applies pesticides, herbicides, or foliar fertilisers to crops as a fine spray, well-suited to small-scale farming."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A silo, as a farm structure, is used mainly for",
+      "options": [
+        "processing raw milk into cheese",
+        "the storage of grains or silage in bulk",
+        "grinding grains into flour",
+        "housing livestock during the rainy season"
+      ],
+      "correctIndex": 1,
+      "explanation": "A silo is a tall, cylindrical storage structure designed to hold large quantities of grain or fermented fodder (silage), protecting it from moisture and pests."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "In farm land measurement, one hectare is equivalent to an area of",
+      "options": [
+        "10,000 square metres",
+        "1,000 square metres",
+        "100,000 square metres",
+        "100 square metres"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hectare is a standard unit of land area equal to 10,000 square metres, commonly used to express the size of farms and fields."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "A theodolite is a surveying instrument used mainly to",
+      "options": [
+        "test the pH level of farm soil",
+        "weigh harvested farm produce",
+        "measure the moisture content of soil samples",
+        "measure horizontal and vertical angles accurately"
+      ],
+      "correctIndex": 3,
+      "explanation": "A theodolite is a precision optical instrument used in land surveying to measure horizontal and vertical angles, essential for accurate mapping and layout of land."
+    },
+    {
+      "subject": "Agricultural Science",
+      "text": "When operating farm machinery such as tractors and power tillers, it is important for the operator to observe safety precautions mainly to",
+      "options": [
+        "increase the fuel consumption of the machine",
+        "reduce the working life of the machinery",
+        "prevent accidents and injuries to the operator and other farm workers",
+        "avoid the need for any form of training"
+      ],
+      "correctIndex": 2,
+      "explanation": "Following safety precautions, such as proper training, using protective gear, and following operating manuals, reduces the risk of accidents and injuries when operating farm machinery."
+    }
+  ]
+}

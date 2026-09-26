@@ -1,0 +1,486 @@
+{
+  "subject": "General Knowledge",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "General Knowledge",
+      "text": "Obafemi Awolowo University (OAU) is located in which town in Osun State?",
+      "options": [
+        "Osogbo",
+        "Ikire",
+        "Ede",
+        "Ile-Ife"
+      ],
+      "correctIndex": 3,
+      "explanation": "OAU is located in Ile-Ife, a historic town in Osun State, south-western Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What was Obafemi Awolowo University originally named when it was founded in 1962?",
+      "options": [
+        "University of Osun",
+        "University of Ife",
+        "Ife Federal University",
+        "Yoruba National University"
+      ],
+      "correctIndex": 1,
+      "explanation": "The institution was established in 1962 as the University of Ife before being renamed in 1987."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year was the University of Ife officially renamed Obafemi Awolowo University?",
+      "options": [
+        "1987",
+        "1962",
+        "1999",
+        "1975"
+      ],
+      "correctIndex": 0,
+      "explanation": "The university was renamed Obafemi Awolowo University in 1987 in honour of Chief Obafemi Awolowo, a prominent Nigerian statesman."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "After whom is Obafemi Awolowo University named?",
+      "options": [
+        "Ahmadu Bello",
+        "Chief Obafemi Awolowo",
+        "Herbert Macaulay",
+        "Nnamdi Azikiwe"
+      ],
+      "correctIndex": 1,
+      "explanation": "The university is named after Chief Obafemi Awolowo, a Nigerian nationalist and the first Premier of the Western Region."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Ile-Ife, home to OAU, is traditionally regarded by the Yoruba people as what?",
+      "options": [
+        "The capital of the old Northern Region",
+        "The cradle of Yoruba civilization",
+        "The site of the first Nigerian parliament",
+        "The location of Nigeria's first seaport"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ile-Ife holds deep cultural and historical significance as the traditional cradle of Yoruba civilization, according to Yoruba oral history and tradition."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which traditional ruler is the recognised paramount monarch based in Ile-Ife?",
+      "options": [
+        "The Ooni of Ife",
+        "The Oba of Benin",
+        "The Alaafin of Oyo",
+        "The Emir of Kano"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Ooni of Ife is the traditional monarch of Ile-Ife and one of the most revered traditional rulers among the Yoruba people."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "OAU's main campus is widely noted for which distinctive architectural feature?",
+      "options": [
+        "Colonial Gothic-style buildings",
+        "A campus built solely of mud brick huts",
+        "Modernist campus architecture and design",
+        "Entirely underground lecture halls"
+      ],
+      "correctIndex": 2,
+      "explanation": "OAU is well known for its distinctive modernist campus architecture, designed in the 1960s and often cited as a landmark of Nigerian architectural design."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which UNESCO World Heritage Site, associated with Yoruba religion and culture, is located in Osun State?",
+      "options": [
+        "Sungbo's Eredo",
+        "Sukur Cultural Landscape",
+        "Nok Terracotta Site",
+        "Osun-Osogbo Sacred Grove"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Osun-Osogbo Sacred Grove, located along the banks of the Osun River in Osogbo, was inscribed as a UNESCO World Heritage Site in 2005."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which river is closely associated with the Osun-Osogbo Sacred Grove and its annual festival?",
+      "options": [
+        "Niger River",
+        "Osun River",
+        "Ogun River",
+        "Benue River"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Osun-Osogbo Sacred Grove sits along the Osun River, and the annual Osun-Osogbo Festival celebrates the river goddess Osun."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the capital city of Osun State?",
+      "options": [
+        "Osogbo",
+        "Ile-Ife",
+        "Ilesa",
+        "Ede"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osogbo is the capital of Osun State, while Ile-Ife remains historically and culturally significant as the seat of the Ooni."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Osun State was carved out of which larger state in 1991?",
+      "options": [
+        "Oyo State",
+        "Ondo State",
+        "Kwara State",
+        "Ogun State"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osun State was created in August 1991 out of the former Oyo State during Nigeria's state creation exercise under General Ibrahim Babangida."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which ethnic group forms the predominant population of Osun State and Ile-Ife?",
+      "options": [
+        "Igbo",
+        "Hausa",
+        "Ijaw",
+        "Yoruba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Osun State, including Ile-Ife, is predominantly inhabited by the Yoruba ethnic group."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regulatory body is responsible for accrediting academic programmes in Nigerian universities, including OAU?",
+      "options": [
+        "The Federal Ministry of Education alone, with no separate agency",
+        "The West African Examinations Council (WAEC)",
+        "The Joint Admissions and Matriculation Board (JAMB)",
+        "The National Universities Commission (NUC)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The NUC is the regulatory body responsible for approving and accrediting academic programmes offered by Nigerian universities, ensuring they meet minimum quality standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of a Vice-Chancellor in a Nigerian university, such as OAU?",
+      "options": [
+        "Serving as the chief executive and academic head of the university",
+        "Serving as the elected student union president",
+        "Serving as an external auditor of the university's accounts",
+        "Managing only the university's sports facilities"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Vice-Chancellor is the chief executive and principal academic officer of a Nigerian university, responsible for its overall administration and academic direction."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which arm of government in Nigeria is primarily responsible for interpreting laws and administering justice?",
+      "options": [
+        "The Executive",
+        "The Civil Service",
+        "The Legislature",
+        "The Judiciary"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Judiciary is the arm of government responsible for interpreting laws and adjudicating disputes, distinct from the law-making Legislature and law-enforcing Executive."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following countries shares a land border with Nigeria?",
+      "options": [
+        "Cameroon",
+        "South Africa",
+        "Ghana",
+        "Kenya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria shares land borders with Niger, Chad, Cameroon, and Benin Republic; Ghana, South Africa, and Kenya are not bordering countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest desert in the world?",
+      "options": [
+        "Sonoran Desert",
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Gobi Desert"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Sahara Desert, spanning much of North Africa, is the largest hot desert in the world."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Independent National Electoral Commission (INEC)?",
+      "options": [
+        "Organising and supervising elections in Nigeria",
+        "Regulating the Nigerian banking sector",
+        "Enforcing traffic laws nationwide",
+        "Managing Nigeria's foreign embassies"
+      ],
+      "correctIndex": 0,
+      "explanation": "INEC is Nigeria's independent body responsible for organising, conducting, and supervising elections at the federal and state levels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which cash crop has historically been a major export associated with Yoruba land, including areas around Osun State?",
+      "options": [
+        "Cocoa",
+        "Coffee",
+        "Tea",
+        "Wool"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cocoa has historically been one of the most significant cash crops cultivated in south-western Nigeria, including areas around Osun State."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the chemical symbol for oxygen?",
+      "options": [
+        "Og",
+        "O",
+        "O2",
+        "Ox"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen's chemical symbol is simply 'O' on the periodic table."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Mars",
+        "Venus",
+        "Saturn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mars is known as the 'Red Planet' due to iron oxide (rust) on its surface, giving it a reddish appearance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Nigeria's national football team commonly nicknamed?",
+      "options": [
+        "The Super Eagles",
+        "The Indomitable Lions",
+        "The Elephants",
+        "The Black Stars"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria's senior men's national football team is popularly known as the Super Eagles, distinct from Ghana's Black Stars and Cameroon's Indomitable Lions."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international body is primarily responsible for setting global standards and rules for international trade?",
+      "options": [
+        "The United Nations (UN)",
+        "The World Trade Organization (WTO)",
+        "The International Monetary Fund (IMF)",
+        "The World Health Organization (WHO)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The WTO is the international organisation specifically responsible for establishing and enforcing global rules governing trade between nations."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a system of government headed by a king or queen whose powers are limited by a constitution?",
+      "options": [
+        "Absolute monarchy",
+        "Republic",
+        "Constitutional monarchy",
+        "Theocracy"
+      ],
+      "correctIndex": 2,
+      "explanation": "A constitutional monarchy is a system in which a monarch serves as head of state, but their powers are limited and defined by a constitution, unlike an absolute monarchy."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is an example of a non-communicable disease?",
+      "options": [
+        "Cholera",
+        "Malaria",
+        "Diabetes",
+        "Tuberculosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diabetes is a non-communicable disease, unlike tuberculosis, malaria, and cholera, which are infectious (communicable) diseases."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest country in the world by land area?",
+      "options": [
+        "China",
+        "Canada",
+        "United States",
+        "Russia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Russia is the largest country in the world by land area, spanning parts of both Europe and Asia."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is generally credited with leading the Sokoto Jihad in the early 19th century, later founding the Sokoto Caliphate?",
+      "options": [
+        "Ahmadu Bello",
+        "Uthman Dan Fodio",
+        "Muhammadu Bello",
+        "Usman Aliyu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uthman Dan Fodio led the Sokoto Jihad in the early 19th century, a religious and political reform movement that resulted in the founding of the Sokoto Caliphate."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of the legislative arm of government?",
+      "options": [
+        "Implementing and enforcing laws",
+        "Auditing government accounts exclusively",
+        "Interpreting the constitution exclusively",
+        "Making laws for the country"
+      ],
+      "correctIndex": 3,
+      "explanation": "The legislative arm, such as Nigeria's National Assembly, is primarily responsible for making laws, distinct from the executive that enforces them."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which vitamin deficiency is most commonly associated with the disease rickets?",
+      "options": [
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rickets is a disease affecting bone development in children, most commonly caused by a deficiency of Vitamin D."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of all goods and services produced within a country's borders in a given period?",
+      "options": [
+        "Balance of Trade",
+        "Gross Domestic Product (GDP)",
+        "Net National Income",
+        "Gross National Product (GNP)"
+      ],
+      "correctIndex": 1,
+      "explanation": "GDP specifically measures the value of goods and services produced within a country's borders, regardless of the nationality of the producers."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian playwright and author was the first African to win the Nobel Prize in Literature?",
+      "options": [
+        "Chimamanda Ngozi Adichie",
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Cyprian Ekwensi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wole Soyinka won the Nobel Prize in Literature in 1986, becoming the first African laureate in that category."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does the abbreviation 'NAFDAC' stand for in the Nigerian context?",
+      "options": [
+        "National Agency for Food and Drug Administration and Control",
+        "National Authority for Food, Drugs, and Cosmetics",
+        "Nigerian Agency for Food and Drug Coordination",
+        "National Association for Drug and Chemical Control"
+      ],
+      "correctIndex": 0,
+      "explanation": "NAFDAC regulates and controls the manufacture, importation, and sale of food, drugs, and related products in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a persistent, sustained rise in the general price level of goods and services in an economy?",
+      "options": [
+        "Depreciation",
+        "Deflation",
+        "Inflation",
+        "Recession"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inflation describes an ongoing, generalised increase in prices across an economy, reducing the purchasing power of money."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary aim of the African Continental Free Trade Area (AfCFTA)?",
+      "options": [
+        "Coordinating African military alliances exclusively",
+        "Restricting all trade between African nations",
+        "Regulating global internet governance",
+        "Creating a single market for goods and services across African countries to boost intra-African trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "AfCFTA aims to create a single continental market for goods and services, boosting intra-African trade by reducing tariffs and other trade barriers among member states."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a key function of the Central Bank of Nigeria (CBN) relating to currency?",
+      "options": [
+        "Setting the retail price of consumer goods",
+        "Managing Nigeria's road transport infrastructure",
+        "Issuing and regulating the country's currency (the Naira)",
+        "Running the national postal service"
+      ],
+      "correctIndex": 2,
+      "explanation": "One of the CBN's core functions is the sole authority to issue and regulate Nigeria's legal tender currency, the Naira."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary purpose of the World Health Organization (WHO)?",
+      "options": [
+        "Coordinating global monetary policy",
+        "Regulating international trade tariffs",
+        "Coordinating international public health efforts and setting health standards",
+        "Managing international postal services"
+      ],
+      "correctIndex": 2,
+      "explanation": "WHO is a specialised United Nations agency focused on international public health, coordinating responses to health emergencies and setting global health standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is the largest producer of crude oil in Africa, based on long-established historical ranking?",
+      "options": [
+        "Egypt",
+        "Ghana",
+        "Kenya",
+        "Nigeria"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria has long been recognised as one of Africa's leading crude oil producers, historically ranking as the continent's largest producer for extended periods."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the practice of a country restricting imports through tariffs or quotas to protect domestic industries?",
+      "options": [
+        "Liberalisation",
+        "Protectionism",
+        "Globalisation",
+        "Free trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Protectionism refers to government policies that restrict international trade, such as tariffs and quotas, to shield domestic industries from foreign competition."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Yoruba deity (Orisa) is traditionally associated with the Osun River and the Osun-Osogbo festival?",
+      "options": [
+        "Osun",
+        "Ogun",
+        "Obatala",
+        "Sango"
+      ],
+      "correctIndex": 0,
+      "explanation": "The river goddess Osun is the deity traditionally celebrated at the annual Osun-Osogbo festival held at the sacred grove."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the legal document that formally establishes the rules and structure of governance for a country?",
+      "options": [
+        "Communique",
+        "Constitution",
+        "Gazette",
+        "Manifesto"
+      ],
+      "correctIndex": 1,
+      "explanation": "A constitution is the fundamental legal document that establishes the framework, powers, and limits of a country's system of governance."
+    }
+  ]
+}

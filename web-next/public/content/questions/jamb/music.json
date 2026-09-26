@@ -1,0 +1,2418 @@
+{
+  "subject": "Music",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Music",
+      "text": "The treble clef, also known as the G clef, is primarily used for notating",
+      "options": [
+        "only percussion instruments",
+        "lower-pitched instruments, such as the double bass or bass voice",
+        "only rhythm without specific pitch",
+        "higher-pitched instruments and voices, such as the violin or soprano voice"
+      ],
+      "correctIndex": 3,
+      "explanation": "The treble (G) clef is used for higher-range instruments and voices, with its curl centring on the second line of the staff, marking the pitch G above middle C."
+    },
+    {
+      "subject": "Music",
+      "text": "The bass clef, also known as the F clef, is primarily used for notating",
+      "options": [
+        "lower-pitched instruments and voices, such as the cello or bass voice",
+        "only unpitched percussion",
+        "only vocal soprano parts",
+        "only the highest-pitched instruments"
+      ],
+      "correctIndex": 0,
+      "explanation": "The bass (F) clef is used for lower-range instruments and voices, with its two dots surrounding the fourth line of the staff, marking the pitch F below middle C."
+    },
+    {
+      "subject": "Music",
+      "text": "The C clef, a movable clef used in music notation, centres middle C on",
+      "options": [
+        "always the bottom line of the staff",
+        "whichever line the clef symbol is positioned on, such as alto or tenor clef placement",
+        "a line outside the staff entirely",
+        "always the top line of the staff"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike the fixed treble and bass clefs, the C clef is movable, and wherever its centre point is placed on the staff indicates the position of middle C, as seen in alto and tenor clef usage."
+    },
+    {
+      "subject": "Music",
+      "text": "In the treble clef, the notes on the lines from bottom to top are commonly remembered using the mnemonic",
+      "options": [
+        "Every Good Boy Does Fine (E, G, B, D, F)",
+        "All Cows Eat Grass",
+        "Face (F, A, C, E)",
+        "Good Boys Do Fine Always"
+      ],
+      "correctIndex": 0,
+      "explanation": "The treble clef's five lines, from bottom to top, represent E, G, B, D, F, commonly remembered with the mnemonic 'Every Good Boy Does Fine'."
+    },
+    {
+      "subject": "Music",
+      "text": "In the treble clef, the notes in the spaces from bottom to top spell out the word",
+      "options": [
+        "GBDFA",
+        "EGBDF",
+        "FACE (F, A, C, E)",
+        "ACEG"
+      ],
+      "correctIndex": 2,
+      "explanation": "The four spaces of the treble clef staff, from bottom to top, represent F, A, C, E, conveniently spelling the word 'FACE'."
+    },
+    {
+      "subject": "Music",
+      "text": "In the bass clef, the notes on the lines from bottom to top are commonly remembered using the mnemonic",
+      "options": [
+        "Face",
+        "Good Boys Do Fine Always (G, B, D, F, A)",
+        "Every Good Boy Does Fine",
+        "All Cows Eat Grass"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bass clef's five lines, from bottom to top, represent G, B, D, F, A, commonly remembered with the mnemonic 'Good Boys Do Fine Always'."
+    },
+    {
+      "subject": "Music",
+      "text": "In the bass clef, the notes in the spaces from bottom to top spell out",
+      "options": [
+        "All Cows Eat Grass (A, C, E, G)",
+        "Every Good Boy Does Fine",
+        "Good Boys Do Fine Always",
+        "Face"
+      ],
+      "correctIndex": 0,
+      "explanation": "The four spaces of the bass clef staff, from bottom to top, represent A, C, E, G, commonly remembered with the mnemonic 'All Cows Eat Grass'."
+    },
+    {
+      "subject": "Music",
+      "text": "Middle C, an important reference pitch in music notation, is typically notated using",
+      "options": [
+        "a note that cannot be notated at all",
+        "the top line of the treble staff",
+        "a ledger line, since it falls outside the five main lines of both the treble and bass staff",
+        "the bottom line of the bass staff"
+      ],
+      "correctIndex": 2,
+      "explanation": "Middle C sits between the treble and bass staves, and is notated using a short ledger line either just below the treble staff or just above the bass staff."
+    },
+    {
+      "subject": "Music",
+      "text": "A ledger line in music notation is used to",
+      "options": [
+        "show the dynamics (loudness) of a passage",
+        "indicate a change of key signature",
+        "indicate the tempo of a piece",
+        "extend the staff to notate pitches that fall above or below its five main lines"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ledger lines are short additional lines added above or below the staff to accommodate notes whose pitch falls outside the standard five-line range."
+    },
+    {
+      "subject": "Music",
+      "text": "The grand staff, commonly used in piano music, combines which two clefs?",
+      "options": [
+        "The treble clef and a C clef only",
+        "Two bass clefs",
+        "Two treble clefs",
+        "The treble clef and the bass clef"
+      ],
+      "correctIndex": 3,
+      "explanation": "The grand staff joins the treble and bass clefs together (typically with a brace), allowing the wide pitch range of the piano to be notated clearly across both staves."
+    },
+    {
+      "subject": "Music",
+      "text": "A whole note (semibreve) typically receives how many beats in common time (4/4)?",
+      "options": [
+        "One beat",
+        "Half a beat",
+        "Four beats",
+        "Two beats"
+      ],
+      "correctIndex": 2,
+      "explanation": "In common time (4/4), a whole note (semibreve) receives four full beats, the longest standard note duration in that context."
+    },
+    {
+      "subject": "Music",
+      "text": "A half note (minim) typically receives how many beats in common time (4/4)?",
+      "options": [
+        "Four beats",
+        "Half a beat",
+        "Two beats",
+        "One beat"
+      ],
+      "correctIndex": 2,
+      "explanation": "A half note (minim) receives two beats in common time, half the duration of a whole note."
+    },
+    {
+      "subject": "Music",
+      "text": "A quarter note (crotchet) typically receives how many beats in common time (4/4)?",
+      "options": [
+        "Four beats",
+        "Two beats",
+        "Half a beat",
+        "One beat"
+      ],
+      "correctIndex": 3,
+      "explanation": "A quarter note (crotchet) receives one full beat in common time, often serving as the basic reference beat unit."
+    },
+    {
+      "subject": "Music",
+      "text": "An eighth note (quaver) typically receives how many beats in common time (4/4)?",
+      "options": [
+        "Two beats",
+        "Half a beat",
+        "A quarter of a beat",
+        "One beat"
+      ],
+      "correctIndex": 1,
+      "explanation": "An eighth note (quaver) receives half a beat in common time, with two eighth notes equalling one quarter note."
+    },
+    {
+      "subject": "Music",
+      "text": "A rest in music notation indicates",
+      "options": [
+        "a change in tempo",
+        "a change in key signature",
+        "a specific duration of silence corresponding to a particular note value",
+        "an increase in volume"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rests are symbols indicating silence for a specific, measured duration, directly corresponding to the note value durations (whole rest, half rest, quarter rest, etc.)."
+    },
+    {
+      "subject": "Music",
+      "text": "A time signature such as 4/4 indicates that",
+      "options": [
+        "there are four beats per measure, with the quarter note receiving one beat",
+        "there are four different instruments required",
+        "there are four measures in the entire piece",
+        "the piece must be played four times"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a 4/4 time signature, the top number (4) indicates the number of beats per measure, and the bottom number (4) indicates that the quarter note represents one beat."
+    },
+    {
+      "subject": "Music",
+      "text": "A simple meter, such as 2/4, 3/4, or 4/4, is characterised by",
+      "options": [
+        "having no regular beat pattern at all",
+        "each beat being divisible into three equal subdivisions",
+        "each beat being divisible into two equal subdivisions",
+        "always having exactly five beats per measure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Simple meters (like 2/4, 3/4, 4/4) are defined by beats that naturally subdivide into two equal parts, distinguishing them from compound meters."
+    },
+    {
+      "subject": "Music",
+      "text": "A compound meter, such as 6/8, 9/8, or 12/8, is characterised by",
+      "options": [
+        "each beat being divisible into three equal subdivisions",
+        "having no time signature at all",
+        "each beat being divisible into two equal subdivisions",
+        "always being played very slowly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compound meters (like 6/8, 9/8, 12/8) feature beats that naturally divide into three equal parts, unlike the two-part subdivision found in simple meters."
+    },
+    {
+      "subject": "Music",
+      "text": "Syncopation, a rhythmic device in music, refers to",
+      "options": [
+        "always accenting the first beat of every measure",
+        "eliminating all rhythmic variation from a piece",
+        "placing emphasis or accent on normally weak or unexpected beats",
+        "playing every note at exactly the same volume"
+      ],
+      "correctIndex": 2,
+      "explanation": "Syncopation creates rhythmic interest and tension by shifting emphasis away from the strong, expected beats onto weaker or off-beat positions."
+    },
+    {
+      "subject": "Music",
+      "text": "A triplet, a rhythmic device in music notation, refers to",
+      "options": [
+        "three different time signatures used simultaneously",
+        "three musicians playing the same note",
+        "a group of three notes played in the time normally taken by two notes of the same value",
+        "a group of three separate measures"
+      ],
+      "correctIndex": 2,
+      "explanation": "A triplet compresses three notes into the rhythmic space that would normally accommodate only two notes of that value, indicated by a small '3' bracket over the notes."
+    },
+    {
+      "subject": "Music",
+      "text": "A dotted note in music notation indicates that the note's duration is",
+      "options": [
+        "increased by half of its original value",
+        "doubled entirely",
+        "reduced by half",
+        "unaffected, since the dot has no rhythmic meaning"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dot placed after a note extends its duration by half of the note's original value, e.g., a dotted half note equals a half note plus a quarter note (three beats total in common time)."
+    },
+    {
+      "subject": "Music",
+      "text": "A tie in music notation is used to",
+      "options": [
+        "indicate a rest between two notes",
+        "join two notes of the same pitch, combining their durations into one continuous sound",
+        "raise the pitch of a note by a semitone",
+        "indicate a change of instrument"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tie is a curved line connecting two notes of identical pitch, indicating that they should be played as a single sustained sound with combined duration, without a new articulation."
+    },
+    {
+      "subject": "Music",
+      "text": "A major scale is characterised by a specific pattern of intervals, generally expressed as",
+      "options": [
+        "half, whole, half, whole, half, whole, half",
+        "whole, whole, whole, whole, whole, whole, whole",
+        "whole, half, whole, whole, half, whole, whole",
+        "whole, whole, half, whole, whole, whole, half"
+      ],
+      "correctIndex": 3,
+      "explanation": "The major scale follows the specific interval pattern of whole-whole-half-whole-whole-whole-half steps, giving it its characteristic bright, stable sound."
+    },
+    {
+      "subject": "Music",
+      "text": "The natural minor scale is characterised by a specific pattern of intervals, generally expressed as",
+      "options": [
+        "whole, whole, whole, half, whole, whole, half",
+        "half, whole, whole, half, whole, whole, half",
+        "whole, whole, half, whole, whole, whole, half",
+        "whole, half, whole, whole, half, whole, whole"
+      ],
+      "correctIndex": 3,
+      "explanation": "The natural minor scale follows the interval pattern whole-half-whole-whole-half-whole-whole, giving it its characteristic darker, more melancholic sound compared to the major scale."
+    },
+    {
+      "subject": "Music",
+      "text": "The harmonic minor scale differs from the natural minor scale mainly by",
+      "options": [
+        "raising the seventh scale degree by a semitone",
+        "lowering the sixth scale degree only when descending",
+        "raising the second scale degree",
+        "lowering the third scale degree"
+      ],
+      "correctIndex": 0,
+      "explanation": "The harmonic minor scale raises the seventh degree of the natural minor scale by a semitone, creating a stronger pull toward the tonic and a distinctive augmented second interval."
+    },
+    {
+      "subject": "Music",
+      "text": "The melodic minor scale is distinctive because it",
+      "options": [
+        "raises both the sixth and seventh degrees when ascending, but reverts to the natural minor when descending",
+        "has no distinguishing features from the harmonic minor scale",
+        "is identical to the major scale in every respect",
+        "lowers the second scale degree only"
+      ],
+      "correctIndex": 0,
+      "explanation": "The melodic minor scale traditionally raises its sixth and seventh degrees when ascending (to smooth the melodic line toward the tonic) but uses the natural minor form when descending."
+    },
+    {
+      "subject": "Music",
+      "text": "A key signature with no sharps or flats corresponds to which major key?",
+      "options": [
+        "F major",
+        "G major",
+        "C major",
+        "D major"
+      ],
+      "correctIndex": 2,
+      "explanation": "C major is the only major key with no sharps or flats in its key signature, using only the natural (white) piano keys."
+    },
+    {
+      "subject": "Music",
+      "text": "A key signature with one sharp corresponds to which major key?",
+      "options": [
+        "F major",
+        "C major",
+        "D major",
+        "G major"
+      ],
+      "correctIndex": 3,
+      "explanation": "G major has one sharp (F#) in its key signature, following the standard order in which sharps are added progressively to key signatures."
+    },
+    {
+      "subject": "Music",
+      "text": "How many sharps are in the key signature of a major key with five sharps?",
+      "options": [
+        "Six sharps, corresponding to F# major",
+        "Five sharps, corresponding to E major",
+        "Five sharps, corresponding to B major",
+        "Four sharps, corresponding to E major"
+      ],
+      "correctIndex": 2,
+      "explanation": "A key signature with five sharps corresponds to B major, following the cycle of fifths progression of sharp key signatures (C, G, D, A, E, B)."
+    },
+    {
+      "subject": "Music",
+      "text": "How many flats are in the key signature of a major key with five flats?",
+      "options": [
+        "Five flats, corresponding to Gb major",
+        "Four flats, corresponding to Ab major",
+        "Five flats, corresponding to Db major",
+        "Six flats, corresponding to Gb major"
+      ],
+      "correctIndex": 2,
+      "explanation": "A key signature with five flats corresponds to Db major, following the cycle of fourths progression of flat key signatures (F, Bb, Eb, Ab, Db)."
+    },
+    {
+      "subject": "Music",
+      "text": "An interval in music refers to",
+      "options": [
+        "the duration of a note",
+        "the distance in pitch between two notes",
+        "the timbre of an instrument",
+        "the volume of a note"
+      ],
+      "correctIndex": 1,
+      "explanation": "An interval measures the pitch distance between two notes, described by both a numerical size (e.g., third, fifth) and a quality (e.g., major, minor, perfect)."
+    },
+    {
+      "subject": "Music",
+      "text": "The inversion of an interval is achieved by",
+      "options": [
+        "playing both notes simultaneously instead of separately",
+        "changing the key signature of the piece",
+        "doubling the duration of both notes",
+        "moving the lower note up an octave, or the higher note down an octave"
+      ],
+      "correctIndex": 3,
+      "explanation": "Interval inversion is achieved by relocating one of the two notes by an octave, which systematically changes both the numerical size and quality of the resulting interval."
+    },
+    {
+      "subject": "Music",
+      "text": "When a major third is inverted, it becomes a",
+      "options": [
+        "major sixth",
+        "perfect fifth",
+        "minor third",
+        "minor sixth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inverting a major third produces a minor sixth; as a general rule, inverting an interval changes major to minor (and vice versa) while the interval numbers sum to nine (3 + 6 = 9)."
+    },
+    {
+      "subject": "Music",
+      "text": "When a perfect fifth is inverted, it becomes a",
+      "options": [
+        "perfect fourth diminished",
+        "major fourth",
+        "minor fifth",
+        "perfect fourth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inverting a perfect fifth produces a perfect fourth; perfect intervals remain perfect when inverted, with the interval numbers summing to nine (5 + 4 = 9)."
+    },
+    {
+      "subject": "Music",
+      "text": "A triad in root position consists of",
+      "options": [
+        "a root note, a third above it, and a fifth above the root, stacked in that order",
+        "only two notes played together",
+        "four notes stacked in thirds",
+        "a root note repeated three times at different octaves"
+      ],
+      "correctIndex": 0,
+      "explanation": "A triad in root position is built with the root note as the lowest note, followed by the third and fifth stacked above it in ascending order."
+    },
+    {
+      "subject": "Music",
+      "text": "A major triad is built using which combination of intervals from the root?",
+      "options": [
+        "Two major thirds",
+        "A major third followed by a minor third",
+        "Two minor thirds",
+        "A minor third followed by a major third"
+      ],
+      "correctIndex": 1,
+      "explanation": "A major triad consists of a major third between the root and third, and a minor third between the third and fifth, giving it its characteristic bright sound."
+    },
+    {
+      "subject": "Music",
+      "text": "A minor triad is built using which combination of intervals from the root?",
+      "options": [
+        "A major third followed by a minor third",
+        "Two major thirds",
+        "A minor third followed by a major third",
+        "Two minor thirds"
+      ],
+      "correctIndex": 2,
+      "explanation": "A minor triad consists of a minor third between the root and third, and a major third between the third and fifth, giving it its characteristic darker sound."
+    },
+    {
+      "subject": "Music",
+      "text": "A dominant seventh chord is built by adding which interval to a major triad?",
+      "options": [
+        "A minor seventh above the root",
+        "A major seventh above the root",
+        "A perfect fifth above the root",
+        "An octave above the root"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dominant seventh chord adds a minor seventh interval above the root to a major triad, creating the characteristic tension associated with dominant harmony."
+    },
+    {
+      "subject": "Music",
+      "text": "A perfect cadence (authentic cadence) in music harmony typically involves the chord progression",
+      "options": [
+        "IV to I (subdominant to tonic)",
+        "I to V (tonic to dominant)",
+        "ii to V (supertonic to dominant)",
+        "V to I (dominant to tonic)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A perfect (authentic) cadence moves from the dominant (V) chord to the tonic (I) chord, creating a strong, conclusive sense of resolution."
+    },
+    {
+      "subject": "Music",
+      "text": "An imperfect cadence in music harmony typically ends on which chord?",
+      "options": [
+        "The dominant (V) chord",
+        "The submediant (vi) chord only",
+        "The tonic (I) chord",
+        "The subdominant (IV) chord only"
+      ],
+      "correctIndex": 0,
+      "explanation": "An imperfect cadence ends on the dominant (V) chord, creating a sense of being unresolved or 'left hanging', in contrast to the resolution of a perfect cadence."
+    },
+    {
+      "subject": "Music",
+      "text": "A plagal cadence in music harmony typically involves the chord progression",
+      "options": [
+        "IV to I (subdominant to tonic)",
+        "I to V (tonic to dominant)",
+        "V to I (dominant to tonic)",
+        "V to vi (dominant to submediant)"
+      ],
+      "correctIndex": 0,
+      "explanation": "A plagal cadence moves from the subdominant (IV) chord to the tonic (I) chord, often referred to as the 'Amen cadence' due to its common use at the end of hymns."
+    },
+    {
+      "subject": "Music",
+      "text": "An interrupted cadence in music harmony typically involves the chord progression",
+      "options": [
+        "IV to I (subdominant to tonic)",
+        "V to vi (dominant to submediant), deceiving the expected resolution to the tonic",
+        "V to I (dominant to tonic)",
+        "I to IV (tonic to subdominant)"
+      ],
+      "correctIndex": 1,
+      "explanation": "An interrupted (deceptive) cadence resolves the dominant (V) chord to the submediant (vi) instead of the expected tonic (I), creating a surprising, unresolved effect."
+    },
+    {
+      "subject": "Music",
+      "text": "Four-part harmony writing in Western music traditionally refers to arranging music for which four voice parts?",
+      "options": [
+        "Alto, Tenor, Baritone, and Bass",
+        "Soprano, Alto, Tenor, and Bass (SATB)",
+        "Soprano, Mezzo-soprano, Tenor, and Baritone",
+        "Soprano, Alto, Baritone, and Bass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Four-part harmony, common in choral and hymn writing, is traditionally arranged for Soprano, Alto, Tenor, and Bass (SATB) voice parts."
+    },
+    {
+      "subject": "Music",
+      "text": "In four-part harmony writing, parallel fifths and parallel octaves between voices are generally",
+      "options": [
+        "avoided, as they can weaken the independence of the individual voice parts",
+        "required in every single chord progression",
+        "irrelevant to voice leading considerations",
+        "the primary goal of harmonic writing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traditional voice-leading rules in four-part harmony discourage parallel fifths and octaves between voices, as they can diminish the sense of independent melodic movement in each part."
+    },
+    {
+      "subject": "Music",
+      "text": "A dominant seventh chord is built on which scale degree of a key?",
+      "options": [
+        "The sixth degree (submediant)",
+        "The fourth degree (subdominant)",
+        "The fifth degree (dominant)",
+        "The first degree (tonic)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The dominant seventh chord is constructed on the fifth scale degree of a key, combining the dominant triad with an added minor seventh, and typically resolves to the tonic."
+    },
+    {
+      "subject": "Music",
+      "text": "A cadence in music refers to",
+      "options": [
+        "the specific instrument used to perform a piece",
+        "the tempo marking at the beginning of a piece",
+        "a harmonic progression that creates a sense of resolution or closure at the end of a musical phrase",
+        "the dynamic level of a passage"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cadence is a chord progression that concludes a musical phrase or section, providing varying degrees of resolution or continuation depending on its type."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following triads would be built on the tonic (I) of a major key?",
+      "options": [
+        "A major triad",
+        "A triad with no third",
+        "A diminished triad",
+        "An augmented triad exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a major key, the tonic (I) chord is naturally a major triad, built using the scale's own major third and perfect fifth above the tonic note."
+    },
+    {
+      "subject": "Music",
+      "text": "The Medieval period of Western art music history is generally associated with",
+      "options": [
+        "the emergence of the symphony orchestra",
+        "early Christian liturgical music, including Gregorian chant",
+        "the rise of jazz and blues",
+        "the invention of the piano"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Medieval period, the earliest era of Western art music history, is closely associated with monophonic sacred music, particularly Gregorian chant used in Christian liturgy."
+    },
+    {
+      "subject": "Music",
+      "text": "The Renaissance period of Western art music is generally characterised by",
+      "options": [
+        "the exclusive use of electronic instruments",
+        "the invention of the modern symphony orchestra",
+        "the dominance of atonal composition techniques",
+        "the increasing use of polyphony (multiple independent melodic lines) in both sacred and secular music"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Renaissance era saw significant development of polyphonic textures, with multiple independent vocal or instrumental lines woven together in both sacred choral music and secular songs."
+    },
+    {
+      "subject": "Music",
+      "text": "Johann Sebastian Bach, a major composer of the Baroque period, is particularly renowned for his mastery of",
+      "options": [
+        "electronic music production",
+        "atonal twelve-tone composition",
+        "complex counterpoint and fugue composition",
+        "the invention of jazz improvisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bach is celebrated as one of history's greatest masters of counterpoint, particularly in his fugues, which weave multiple independent melodic lines together with remarkable complexity and skill."
+    },
+    {
+      "subject": "Music",
+      "text": "George Frideric Handel, another major composer of the Baroque period, is particularly renowned for his",
+      "options": [
+        "development of twelve-tone technique",
+        "invention of the modern piano",
+        "oratorios, including the famous work 'Messiah'",
+        "compositions for electronic synthesizer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Handel is especially celebrated for his oratorios, most famously 'Messiah', which remains one of the most frequently performed choral works in Western classical music."
+    },
+    {
+      "subject": "Music",
+      "text": "The Classical period of Western art music, following the Baroque era, is particularly associated with which composers?",
+      "options": [
+        "Haydn, Mozart, and Beethoven (early works)",
+        "Chopin and Schubert exclusively",
+        "Only 20th-century composers",
+        "Bach and Handel exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Classical period is closely associated with Joseph Haydn, Wolfgang Amadeus Mozart, and the early compositional output of Ludwig van Beethoven, emphasising clarity, balance, and formal structure."
+    },
+    {
+      "subject": "Music",
+      "text": "The Classical period of Western music, compared to the Baroque period, is generally characterised by",
+      "options": [
+        "the exclusive use of electronic instruments",
+        "much denser and more complex counterpoint than the Baroque",
+        "simpler, clearer melodic lines and more balanced formal structures",
+        "the complete absence of any melody"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Classical era favoured clearer, more homophonic textures with balanced phrase structures, contrasting with the denser contrapuntal complexity often found in Baroque music."
+    },
+    {
+      "subject": "Music",
+      "text": "Franz Schubert, a prominent composer of the Romantic period, is particularly renowned for his contributions to the genre of",
+      "options": [
+        "the art song (Lied)",
+        "electronic music",
+        "the twelve-tone technique",
+        "traditional African drumming"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schubert is especially celebrated for his mastery of the German art song (Lied), setting poetry to expressive vocal melodies accompanied by piano."
+    },
+    {
+      "subject": "Music",
+      "text": "Frederic Chopin, another prominent composer of the Romantic period, is particularly renowned for his compositions for",
+      "options": [
+        "unaccompanied choir exclusively",
+        "electronic synthesizer",
+        "full symphony orchestra exclusively",
+        "solo piano"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chopin is celebrated almost exclusively for his substantial and influential body of solo piano works, including nocturnes, etudes, and mazurkas."
+    },
+    {
+      "subject": "Music",
+      "text": "The Romantic period of Western art music, compared to the Classical period, is generally characterised by",
+      "options": [
+        "simpler, more restrained emotional expression",
+        "the complete rejection of melody",
+        "exclusive use of a cappella vocal music",
+        "greater emotional expressiveness, expanded harmonic language, and larger orchestral forces"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Romantic era emphasised heightened emotional expression, more adventurous harmony, and often larger orchestral ensembles compared to the more restrained Classical period."
+    },
+    {
+      "subject": "Music",
+      "text": "The Modern period of Western art music, generally spanning the 20th century onward, is characterised by",
+      "options": [
+        "exclusive reliance on Baroque-era forms",
+        "significant experimentation with new harmonic, rhythmic, and structural approaches, including atonality",
+        "a strict return to only Medieval compositional techniques",
+        "the complete absence of any musical innovation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Modern period is marked by extensive musical experimentation, including atonality, new rhythmic structures, and innovative approaches that broke from traditional tonal harmony."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following correctly orders the major Western art music eras chronologically, from earliest to most recent?",
+      "options": [
+        "Baroque, Medieval, Classical, Renaissance, Modern, Romantic",
+        "Medieval, Renaissance, Baroque, Classical, Romantic, Modern",
+        "Classical, Baroque, Medieval, Renaissance, Romantic, Modern",
+        "Modern, Romantic, Classical, Baroque, Renaissance, Medieval"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard chronological sequence of major Western art music eras is Medieval, Renaissance, Baroque, Classical, Romantic, and Modern."
+    },
+    {
+      "subject": "Music",
+      "text": "The fugue, a significant compositional form of the Baroque period, is characterised by",
+      "options": [
+        "purely improvised music with no set structure",
+        "music composed for electronic instruments only",
+        "a single unaccompanied melody with no imitation",
+        "a single melodic theme (subject) introduced and imitated across multiple independent voices"
+      ],
+      "correctIndex": 3,
+      "explanation": "A fugue develops a central musical theme (the subject) by introducing it successively in different voices, which imitate and interweave with one another in intricate counterpoint."
+    },
+    {
+      "subject": "Music",
+      "text": "The symphony, a major musical form especially prominent in the Classical and Romantic periods, is typically written for",
+      "options": [
+        "electronic synthesizer only",
+        "unaccompanied vocal choir only",
+        "a solo unaccompanied instrument",
+        "a full orchestra, usually in multiple movements"
+      ],
+      "correctIndex": 3,
+      "explanation": "A symphony is a substantial orchestral work typically composed in several movements, showcasing the combined forces and varied timbres of a full orchestra."
+    },
+    {
+      "subject": "Music",
+      "text": "Ludwig van Beethoven is historically significant partly because his compositional style is often seen as",
+      "options": [
+        "belonging exclusively to the Baroque period",
+        "belonging exclusively to the Modern period",
+        "bridging the Classical and Romantic periods",
+        "having no historical significance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beethoven's early works reflect Classical-era conventions, while his later compositions display increasingly Romantic characteristics, making him a pivotal transitional figure between the two eras."
+    },
+    {
+      "subject": "Music",
+      "text": "Gregorian chant, a hallmark of Medieval sacred music, is characterised by",
+      "options": [
+        "monophonic (single melodic line) vocal music, typically unaccompanied and used in Christian liturgy",
+        "electronic sound synthesis",
+        "purely instrumental music with no vocal component",
+        "complex four-part harmony with orchestral accompaniment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gregorian chant consists of a single, unaccompanied melodic line (monophony), traditionally sung in Latin as part of Christian liturgical worship during the Medieval period."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following composers is most closely associated with the Classical period's development of the symphony and string quartet, earning him the nickname 'Father of the Symphony'?",
+      "options": [
+        "Franz Schubert",
+        "Frederic Chopin",
+        "Johann Sebastian Bach",
+        "Joseph Haydn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Joseph Haydn made such extensive and influential contributions to the development of the symphony and string quartet forms that he earned the honorific title 'Father of the Symphony'."
+    },
+    {
+      "subject": "Music",
+      "text": "Idiophones, a category of traditional African musical instruments, are instruments that produce sound primarily by",
+      "options": [
+        "the vibration of a stretched membrane",
+        "the vibration of air within a tube",
+        "the vibration of a stretched string",
+        "the vibration of the instrument's own body, such as when struck, shaken, or scraped"
+      ],
+      "correctIndex": 3,
+      "explanation": "Idiophones generate sound through the vibration of the instrument's own solid material, as in instruments like bells, rattles, and xylophones, without needing strings, membranes, or air columns."
+    },
+    {
+      "subject": "Music",
+      "text": "Aerophones, another category of traditional African musical instruments, are instruments that produce sound primarily through",
+      "options": [
+        "the vibration of the instrument's own solid body",
+        "the vibration of a stretched membrane",
+        "vibrating columns of air, as in flutes and horns",
+        "the vibration of a stretched string"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aerophones produce sound through the vibration of air, typically within a tube or chamber, as found in wind instruments such as flutes, horns, and whistles."
+    },
+    {
+      "subject": "Music",
+      "text": "Chordophones, another category of traditional African musical instruments, are instruments that produce sound primarily through",
+      "options": [
+        "vibrating columns of air",
+        "the vibration of stretched strings, as in the kora or musical bow",
+        "the vibration of a stretched membrane",
+        "the vibration of the instrument's own solid body"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chordophones generate sound through the vibration of one or more stretched strings, as seen in traditional African instruments like the kora and various musical bows."
+    },
+    {
+      "subject": "Music",
+      "text": "Membranophones, another category of traditional African musical instruments, are instruments that produce sound primarily through",
+      "options": [
+        "the vibration of a stretched membrane, as in drums",
+        "vibrating columns of air",
+        "the vibration of stretched strings",
+        "the vibration of the instrument's own solid body"
+      ],
+      "correctIndex": 0,
+      "explanation": "Membranophones produce sound through the vibration of a stretched membrane (skin or similar material) typically stretched over a frame or shell, as in various types of drums."
+    },
+    {
+      "subject": "Music",
+      "text": "In traditional African society, music commonly serves functions beyond entertainment, including",
+      "options": [
+        "communication, storytelling, religious/ritual practice, and marking important life events",
+        "no function beyond simple background noise",
+        "purely decorative purposes with no social function",
+        "exclusively commercial entertainment for profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traditional African music serves multiple important social functions, including communication (e.g., talking drums), storytelling, religious and ceremonial practices, and marking significant life events such as births, marriages, and funerals."
+    },
+    {
+      "subject": "Music",
+      "text": "Call-and-response, a common structural element in African traditional music, involves",
+      "options": [
+        "a single performer playing an entire piece with no interaction",
+        "purely instrumental music with no vocal element at all",
+        "simultaneous, unrelated performances by multiple unconnected groups",
+        "a leader singing or playing a phrase, which is then answered by a group or chorus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Call-and-response is a foundational structural technique in African music, where a lead singer or instrumentalist presents a musical phrase that is answered or echoed by a group, creating an interactive musical dialogue."
+    },
+    {
+      "subject": "Music",
+      "text": "Polyrhythm, a significant structural element in African traditional music, refers to",
+      "options": [
+        "the complete absence of any rhythmic structure",
+        "the simultaneous combination of two or more contrasting rhythmic patterns",
+        "the use of only a single, unchanging rhythm throughout a piece",
+        "a rhythm played by only one instrument at a time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Polyrhythm involves layering multiple distinct rhythmic patterns simultaneously, creating rich, complex rhythmic textures characteristic of much traditional African music."
+    },
+    {
+      "subject": "Music",
+      "text": "The talking drum, a notable African membranophone, is particularly significant for its ability to",
+      "options": [
+        "mimic the tonal patterns of spoken language, allowing it to convey messages",
+        "function exclusively as a stringed instrument",
+        "produce only a single fixed pitch with no variation",
+        "produce sound without being struck or played"
+      ],
+      "correctIndex": 0,
+      "explanation": "The talking drum's pitch can be varied by squeezing the cords or strings attached to its membrane, allowing skilled players to imitate the tonal patterns of spoken language and communicate specific messages."
+    },
+    {
+      "subject": "Music",
+      "text": "The xylophone, a common idiophone found in various African musical traditions, produces different pitches by",
+      "options": [
+        "blowing air through tubes of varying length",
+        "using wooden bars of varying lengths, which are struck to produce different pitches",
+        "stretching strings of varying tension",
+        "stretching a membrane of varying tightness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xylophones use a series of wooden bars of differing lengths (and often differing thicknesses), each producing a distinct pitch when struck, typically arranged in a scale."
+    },
+    {
+      "subject": "Music",
+      "text": "The kora, a notable West African chordophone, is best described as a",
+      "options": [
+        "21-string harp-lute, traditionally played by griots (jelis) in West Africa",
+        "wooden xylophone with metal keys",
+        "type of drum found in East Africa",
+        "wind instrument made from animal horn"
+      ],
+      "correctIndex": 0,
+      "explanation": "The kora is a distinctive 21-string instrument combining features of a harp and lute, traditionally played by West African griots (jelis) who serve as musician-historians and storytellers."
+    },
+    {
+      "subject": "Music",
+      "text": "Griots (jelis), found in various West African cultures, traditionally serve as",
+      "options": [
+        "religious leaders exclusively, with no musical role",
+        "government tax collectors",
+        "purely instrument makers with no performance role",
+        "musician-historians who preserve and transmit oral history and genealogy through music"
+      ],
+      "correctIndex": 3,
+      "explanation": "Griots hold a specialised hereditary role as musician-historians, using song and instrumental accompaniment (often the kora) to preserve and pass down oral history, genealogy, and cultural knowledge."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following best describes the role of drumming ensembles in many traditional African communities?",
+      "options": [
+        "Functioning only as a form of punishment",
+        "Providing rhythmic accompaniment for dance, ritual, and communal social occasions",
+        "Serving purely as background noise with no social significance",
+        "Being restricted exclusively to private, solitary performance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drumming ensembles play a central role in African communal life, providing essential rhythmic accompaniment for dances, rituals, celebrations, and various important social occasions."
+    },
+    {
+      "subject": "Music",
+      "text": "In African traditional music, the concept of 'community participation' is often reflected through",
+      "options": [
+        "music that discourages any form of audience interaction",
+        "music performed exclusively by a single isolated musician with no audience involvement",
+        "call-and-response structures that actively involve the audience or group in the performance",
+        "recorded music with no live performance element"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many African musical traditions emphasise communal participation, with call-and-response structures actively drawing the audience or community into the musical performance rather than positioning them as passive listeners."
+    },
+    {
+      "subject": "Music",
+      "text": "Which classification best describes a set of tuned drums or a marimba-like instrument struck to produce different pitches?",
+      "options": [
+        "Chordophone",
+        "Idiophone",
+        "Aerophone",
+        "Membranophone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Instruments like tuned drums, xylophones, and marimbas that produce sound through the vibration of their own solid material when struck are classified as idiophones."
+    },
+    {
+      "subject": "Music",
+      "text": "Fela Sowande, a pioneering figure in Nigerian art music, is particularly recognised for",
+      "options": [
+        "pioneering Nigerian reggae music",
+        "inventing the talking drum",
+        "founding the Fuji music genre",
+        "combining Western classical compositional techniques with traditional Yoruba musical elements"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fela Sowande is celebrated as a pioneering Nigerian composer who skilfully blended Western classical music training with traditional Yoruba musical idioms, helping establish modern Nigerian art music."
+    },
+    {
+      "subject": "Music",
+      "text": "Harcourt Whyte, another pioneering figure in Nigerian art music, is particularly recognised for his contributions to",
+      "options": [
+        "Nigerian choral music composition",
+        "the development of Afrobeat",
+        "pioneering Nigerian Fuji music",
+        "the invention of the kora"
+      ],
+      "correctIndex": 0,
+      "explanation": "Harcourt Whyte made significant contributions to Nigerian choral music, composing numerous choral works that have become important parts of the Nigerian art music repertoire."
+    },
+    {
+      "subject": "Music",
+      "text": "Akin Euba, another significant figure in Nigerian art music, is particularly known for developing the concept of",
+      "options": [
+        "the talking drum tradition",
+        "Afrobeat",
+        "'African pianism', integrating African musical elements into piano composition",
+        "Fuji music"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akin Euba is recognised for pioneering the concept of 'African pianism', a compositional approach that incorporates traditional African musical characteristics, such as rhythmic complexity, into piano music."
+    },
+    {
+      "subject": "Music",
+      "text": "Laz Ekwueme, another notable figure in Nigerian art music, is particularly recognised as a",
+      "options": [
+        "inventor of the Fuji music genre",
+        "pioneer of Nigerian Afrobeat music",
+        "prominent composer, musicologist, and choral conductor",
+        "founder of Nigerian reggae"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laz Ekwueme made substantial contributions to Nigerian art music as a composer, respected musicologist, and accomplished choral conductor."
+    },
+    {
+      "subject": "Music",
+      "text": "Nigerian art music, as pioneered by figures like Fela Sowande and Akin Euba, is generally characterised by",
+      "options": [
+        "an exclusive focus on unaccompanied vocal music",
+        "the fusion of Western classical compositional techniques with indigenous Nigerian musical elements",
+        "the exclusive use of electronic instruments",
+        "the complete rejection of any Western musical influence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigerian art music is generally defined by its thoughtful integration of Western classical compositional methods with indigenous Nigerian melodic, rhythmic, and cultural elements."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following best describes the significance of pioneers like Fela Sowande and Harcourt Whyte to Nigerian music history?",
+      "options": [
+        "They helped establish and legitimise a distinctly Nigerian tradition of composed art music",
+        "They exclusively performed traditional folk music with no innovation",
+        "They had no lasting impact on Nigerian music",
+        "They focused solely on popular dance music"
+      ],
+      "correctIndex": 0,
+      "explanation": "These pioneering figures played a foundational role in establishing a respected tradition of Nigerian art music, demonstrating how indigenous musical elements could be thoughtfully combined with formal compositional techniques."
+    },
+    {
+      "subject": "Music",
+      "text": "Choral music has played a particularly significant role in Nigerian art music, notably advanced through the work of",
+      "options": [
+        "Fela Kuti exclusively",
+        "King Sunny Ade exclusively",
+        "Harcourt Whyte and Laz Ekwueme",
+        "Ebenezer Obey exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Choral composition has been a particularly significant strand of Nigerian art music, with figures like Harcourt Whyte and Laz Ekwueme making substantial contributions to this tradition."
+    },
+    {
+      "subject": "Music",
+      "text": "The concept of 'African pianism', associated with Akin Euba, specifically involves",
+      "options": [
+        "composing exclusively for orchestra with no piano involvement",
+        "adapting African rhythmic and melodic characteristics for solo piano composition",
+        "using only Western classical piano techniques with no African influence",
+        "abandoning the piano entirely in favour of traditional instruments"
+      ],
+      "correctIndex": 1,
+      "explanation": "African pianism represents a deliberate compositional approach that translates distinctly African musical characteristics, such as complex rhythms and melodic patterns, into piano repertoire."
+    },
+    {
+      "subject": "Music",
+      "text": "Nigerian art music composers generally sought to demonstrate that",
+      "options": [
+        "only Western musical traditions were worth studying",
+        "traditional Nigerian music had no artistic value",
+        "composed music was incompatible with African musical heritage",
+        "indigenous Nigerian musical traditions could be meaningfully expressed through formal, composed musical structures"
+      ],
+      "correctIndex": 3,
+      "explanation": "A central achievement of Nigerian art music pioneers was demonstrating that indigenous musical traditions and formal compositional techniques could be successfully and meaningfully combined."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following musicians is most closely associated with pioneering choral compositions that incorporate traditional Igbo musical elements?",
+      "options": [
+        "Akin Euba",
+        "King Sunny Ade",
+        "Fela Sowande",
+        "Harcourt Whyte"
+      ],
+      "correctIndex": 3,
+      "explanation": "Harcourt Whyte, of Igbo heritage, is particularly noted for choral compositions that draw on traditional Igbo musical elements within a Western choral framework."
+    },
+    {
+      "subject": "Music",
+      "text": "The academic study and documentation of Nigerian music, advanced by figures such as Laz Ekwueme, is best described as",
+      "options": [
+        "exclusively focused on popular music charts",
+        "musicology, the scholarly study of music",
+        "a field unrelated to music entirely",
+        "purely performance-based training with no scholarly component"
+      ],
+      "correctIndex": 1,
+      "explanation": "Musicology involves the scholarly, academic study of music, including its history, theory, and cultural context — a field to which figures like Laz Ekwueme made significant contributions in the Nigerian context."
+    },
+    {
+      "subject": "Music",
+      "text": "Which best describes the broader significance of studying Nigerian art music and its pioneers within the JAMB Music syllabus?",
+      "options": [
+        "It has no connection to the broader history of music",
+        "It helps students appreciate the historical development and richness of formally composed Nigerian music alongside Western and traditional African music",
+        "It focuses exclusively on foreign musical traditions with no relevance to Nigeria",
+        "It is limited only to popular music genres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Studying Nigerian art music and its pioneering figures gives students a fuller appreciation of the rich, diverse musical heritage of Nigeria, situated alongside Western art music and traditional African music traditions."
+    },
+    {
+      "subject": "Music",
+      "text": "Highlife, a popular Nigerian and Ghanaian music genre, developed with significant influence from",
+      "options": [
+        "Indian classical music",
+        "purely traditional Nigerian drumming with no Western influence",
+        "American country music",
+        "Western dance band instrumentation blended with indigenous West African rhythms and melodies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Highlife emerged in West Africa through the fusion of Western instruments and dance band formats (such as guitars and horns) with indigenous West African melodic and rhythmic sensibilities."
+    },
+    {
+      "subject": "Music",
+      "text": "Juju music, a popular Nigerian music genre, is particularly associated with the prominent use of",
+      "options": [
+        "the talking drum and electric guitar, blended with Yoruba musical traditions",
+        "orchestral strings exclusively",
+        "electronic synthesizers exclusively, with no traditional instruments",
+        "bagpipes and traditional Scottish instruments"
+      ],
+      "correctIndex": 0,
+      "explanation": "Juju music is characterised by its distinctive combination of the talking drum and electric guitar, rooted in Yoruba musical traditions, popularised by artists such as King Sunny Ade."
+    },
+    {
+      "subject": "Music",
+      "text": "Fuji music, a popular Nigerian music genre, evolved significantly from",
+      "options": [
+        "Western classical opera",
+        "American jazz exclusively",
+        "Yoruba Muslim 'were' (wake-up call) music traditionally performed during Ramadan",
+        "Nigerian art music composed by Fela Sowande"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fuji music traces its roots to the traditional Yoruba Muslim 'were' music, historically performed to wake worshippers for pre-dawn meals during Ramadan, later evolving into a distinct popular genre."
+    },
+    {
+      "subject": "Music",
+      "text": "Afrobeat, a popular Nigerian music genre, was significantly pioneered by",
+      "options": [
+        "Bob Marley",
+        "Harcourt Whyte",
+        "Fela Anikulapo Kuti, combining highlife, jazz, funk, and traditional African rhythms with socio-political lyrics",
+        "King Sunny Ade exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fela Anikulapo Kuti is widely credited as the pioneering figure of Afrobeat, blending highlife, jazz, funk, and traditional African rhythmic elements with strongly socio-politically charged lyrics."
+    },
+    {
+      "subject": "Music",
+      "text": "Reggae music, though originating in Jamaica rather than Nigeria, is characterised musically by",
+      "options": [
+        "a distinctive offbeat rhythm guitar pattern (the 'skank') and a relaxed tempo",
+        "purely orchestral instrumentation with no guitar or bass",
+        "a strict, fast-paced marching band rhythm",
+        "the complete absence of any rhythmic pulse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reggae is musically defined by its characteristic offbeat guitar/keyboard rhythm pattern (often called the 'skank') and typically relaxed, moderate tempo."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following musicians is most closely associated with the popularisation of Juju music internationally?",
+      "options": [
+        "Ebenezer Obey (alongside Sunny Ade, but the most internationally recognised pioneer is Ade)",
+        "Bob Marley",
+        "Fela Kuti",
+        "King Sunny Ade"
+      ],
+      "correctIndex": 3,
+      "explanation": "King Sunny Ade is widely recognised as one of the most internationally successful and influential pioneers in popularising Juju music beyond Nigeria."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following best describes a defining lyrical characteristic of Fela Kuti's Afrobeat music?",
+      "options": [
+        "Purely romantic love songs with no social commentary",
+        "Lyrics focused exclusively on religious worship",
+        "Instrumental music with no lyrics at all",
+        "Strong socio-political commentary, often criticising government corruption and social injustice"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fela Kuti's Afrobeat is particularly renowned for its bold socio-political lyrical content, frequently criticising government corruption, social injustice, and other pressing societal issues."
+    },
+    {
+      "subject": "Music",
+      "text": "Highlife music, as a genre, is generally distinguished from Fuji music mainly by its",
+      "options": [
+        "use exclusively of electronic synthesizers",
+        "strong incorporation of Western dance band instruments, such as guitars, horns, and drum kits",
+        "origins specifically tied to Islamic religious practice",
+        "complete reliance on unaccompanied vocal chanting only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike Fuji's roots in Yoruba Muslim wake-up call traditions and largely percussion-based instrumentation, highlife prominently incorporates Western dance band instruments like guitars, horns, and drum kits."
+    },
+    {
+      "subject": "Music",
+      "text": "Bob Marley, a pioneering figure of reggae music, played a significant role in",
+      "options": [
+        "popularising reggae music internationally and infusing it with messages of social justice and Rastafarian spirituality",
+        "founding the Nigerian Afrobeat genre",
+        "composing Nigerian art music choral works",
+        "pioneering Nigerian Fuji music"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bob Marley was instrumental in bringing reggae music to a global audience, infusing his music with themes of social justice, resistance, and Rastafarian spiritual beliefs."
+    },
+    {
+      "subject": "Music",
+      "text": "The evolution of popular Nigerian music genres like Highlife, Juju, Fuji, and Afrobeat generally reflects",
+      "options": [
+        "a complete rejection of any traditional Nigerian musical elements",
+        "an exclusive reliance on foreign musical styles with no indigenous input",
+        "the creative blending of indigenous Nigerian musical traditions with various external musical influences over time",
+        "the total absence of any historical development or change"
+      ],
+      "correctIndex": 2,
+      "explanation": "The development of these popular Nigerian genres illustrates a recurring pattern of creatively fusing indigenous musical traditions with external influences (Western instrumentation, jazz, funk, etc.) to produce distinctive new styles."
+    },
+    {
+      "subject": "Music",
+      "text": "Which popular music genre is most closely linked historically to Yoruba Islamic religious practices during the fasting month of Ramadan?",
+      "options": [
+        "Fuji",
+        "Reggae",
+        "Highlife",
+        "Afrobeat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fuji music has its historical roots specifically in the Yoruba Muslim 'were' tradition of waking worshippers for pre-dawn meals during Ramadan, distinguishing its origin from the other listed genres."
+    },
+    {
+      "subject": "Music",
+      "text": "Ebenezer Obey, alongside King Sunny Ade, is a significant figure closely associated with which popular Nigerian music genre?",
+      "options": [
+        "Fuji music",
+        "Reggae",
+        "Afrobeat",
+        "Juju music"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ebenezer Obey, together with King Sunny Ade, is widely recognised as one of the most influential and successful pioneers of Juju music in Nigeria."
+    },
+    {
+      "subject": "Music",
+      "text": "The alto clef, a C clef used chiefly by the viola, places middle C on",
+      "options": [
+        "the bottom line of the staff",
+        "the middle (third) line of the staff",
+        "the top line of the staff",
+        "a ledger line above the staff"
+      ],
+      "correctIndex": 1,
+      "explanation": "The alto clef centres its symbol on the middle line of the staff, indicating that this line represents middle C; it is the standard clef for the viola."
+    },
+    {
+      "subject": "Music",
+      "text": "The tenor clef, another C clef used for the upper register of instruments such as the cello, bassoon, and trombone, places middle C on",
+      "options": [
+        "the second line of the staff",
+        "the top line of the staff",
+        "the bottom line of the staff",
+        "the fourth line of the staff"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tenor clef centres its symbol on the fourth line of the staff, marking middle C there; it is used for high passages in cello, bassoon, and tenor trombone parts to avoid excessive ledger lines."
+    },
+    {
+      "subject": "Music",
+      "text": "In 6/8 time, a bar containing six eighth notes is normally beamed and conducted as",
+      "options": [
+        "two compound beats, each subdividing into three eighth notes",
+        "six separate beats of equal weight",
+        "three simple beats, each subdividing into two eighth notes",
+        "one single undivided beat"
+      ],
+      "correctIndex": 0,
+      "explanation": "6/8 is a compound duple metre: its six eighth notes group into two main beats (each a dotted quarter note in feel), with each beat subdividing naturally into three eighth notes."
+    },
+    {
+      "subject": "Music",
+      "text": "Although 3/4 and 6/8 can both contain six eighth notes per bar, the essential difference between them is that",
+      "options": [
+        "3/4 has no time signature while 6/8 does",
+        "3/4 groups the eighth notes into three simple beats of two, whereas 6/8 groups them into two compound beats of three",
+        "6/8 can only be played slowly while 3/4 cannot",
+        "there is no meaningful difference between the two"
+      ],
+      "correctIndex": 1,
+      "explanation": "3/4 is a simple triple metre with three beats each divisible by two, while 6/8 is a compound duple metre with two beats each divisible by three; the beat grouping, not the note count, defines the distinction."
+    },
+    {
+      "subject": "Music",
+      "text": "The relative minor of a major key is found by",
+      "options": [
+        "building a new scale starting a minor third below the major tonic, sharing the same key signature",
+        "raising the tonic by a semitone",
+        "lowering the tonic by a perfect fifth",
+        "using the same tonic note but changing the key signature"
+      ],
+      "correctIndex": 0,
+      "explanation": "A relative minor key shares an identical key signature with its major counterpart but takes as its tonic the note a minor third below (equivalently, the sixth scale degree of the major scale)."
+    },
+    {
+      "subject": "Music",
+      "text": "The relative major of A minor, which has no sharps or flats in its key signature, is",
+      "options": [
+        "F major",
+        "C major",
+        "G major",
+        "D major"
+      ],
+      "correctIndex": 1,
+      "explanation": "A minor is the relative minor of C major; both share a key signature with no sharps or flats, differing only in tonic and characteristic scale pattern."
+    },
+    {
+      "subject": "Music",
+      "text": "Unlike a relative minor key, a parallel minor key is formed by",
+      "options": [
+        "sharing an identical key signature with the major key",
+        "using a completely unrelated tonic and key signature",
+        "raising the major key's tonic by a major third",
+        "keeping the same tonic note as the major key but altering the key signature to reflect the minor mode"
+      ],
+      "correctIndex": 3,
+      "explanation": "A parallel minor retains the same tonic pitch as its major counterpart (e.g., C major and C minor) but requires a different key signature, unlike a relative minor which shares the signature but changes tonic."
+    },
+    {
+      "subject": "Music",
+      "text": "A key signature of four sharps and a key signature of eight flats can, in equal temperament, represent enharmonically equivalent keys because",
+      "options": [
+        "enharmonic keys sound at identical pitches despite being notated and spelled differently",
+        "sharps and flats never produce equivalent pitches",
+        "eight flats is an invalid key signature",
+        "four sharps always sounds a semitone lower than any flat key"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enharmonic keys, such as C# major (seven sharps) and Db major (five flats), produce identical pitches in equal temperament despite differing in notation and spelling; the specific numbers must still correspond to genuinely equivalent pitch classes."
+    },
+    {
+      "subject": "Music",
+      "text": "The interval between the fourth and seventh scale degrees of a major scale (e.g., F to B in C major) is called a",
+      "options": [
+        "perfect fourth",
+        "diminished fifth",
+        "augmented fourth (tritone)",
+        "minor seventh"
+      ],
+      "correctIndex": 2,
+      "explanation": "The interval from the fourth to the seventh degree of a major scale spans three whole tones, forming an augmented fourth, also known as a tritone; its enharmonic equivalent, the diminished fifth, spans the same number of semitones but is spelled differently."
+    },
+    {
+      "subject": "Music",
+      "text": "A tritone is unusual among intervals in that it",
+      "options": [
+        "is the only interval that cannot be inverted",
+        "divides the octave exactly in half and can be spelled as either an augmented fourth or a diminished fifth",
+        "always sounds identical to a perfect fifth",
+        "exists only in minor scales"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tritone divides the octave into two equal halves of six semitones, and depending on musical spelling and context, it is notated as either an augmented fourth or a diminished fifth."
+    },
+    {
+      "subject": "Music",
+      "text": "A compound interval such as a major ninth is best understood as",
+      "options": [
+        "a minor seventh reduced by an octave",
+        "a major second plus an octave",
+        "identical in every respect to a simple major second",
+        "a perfect fifth doubled"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compound intervals exceed an octave; a major ninth is equivalent to a major second with an additional octave added, retaining the same letter-name relationship as its simple counterpart."
+    },
+    {
+      "subject": "Music",
+      "text": "A diminished triad is constructed by stacking which combination of thirds above the root?",
+      "options": [
+        "A major third followed by a minor third",
+        "Two major thirds",
+        "A minor third followed by a major third",
+        "Two minor thirds"
+      ],
+      "correctIndex": 3,
+      "explanation": "A diminished triad consists of two stacked minor thirds, producing a diminished (flattened) fifth above the root and a characteristically unstable, tense sound."
+    },
+    {
+      "subject": "Music",
+      "text": "An augmented triad is constructed by stacking which combination of thirds above the root?",
+      "options": [
+        "Two minor thirds",
+        "A minor third followed by a major third",
+        "A major third followed by a minor third",
+        "Two major thirds"
+      ],
+      "correctIndex": 3,
+      "explanation": "An augmented triad consists of two stacked major thirds, producing an augmented (sharpened) fifth above the root and a distinctive unresolved, floating quality."
+    },
+    {
+      "subject": "Music",
+      "text": "When a triad is in first inversion, commonly notated as a six-three chord, the bass note is the",
+      "options": [
+        "third of the chord",
+        "root of the chord",
+        "fifth of the chord",
+        "seventh of the chord"
+      ],
+      "correctIndex": 0,
+      "explanation": "In first inversion, the third of the triad is placed in the bass, while the root and fifth are found above it; this is figured as a six-three (6/3) chord in figured bass notation."
+    },
+    {
+      "subject": "Music",
+      "text": "When a triad is in second inversion, commonly notated as a six-four chord, the bass note is the",
+      "options": [
+        "root of the chord",
+        "fifth of the chord",
+        "third of the chord",
+        "seventh of the chord"
+      ],
+      "correctIndex": 1,
+      "explanation": "In second inversion, the fifth of the triad is placed in the bass, with the root and third above it; this is figured as a six-four (6/4) chord in figured bass notation."
+    },
+    {
+      "subject": "Music",
+      "text": "In a major key, the triad built on the seventh scale degree (the leading-tone triad) is naturally",
+      "options": [
+        "diminished",
+        "augmented",
+        "major",
+        "minor"
+      ],
+      "correctIndex": 0,
+      "explanation": "The seventh-degree triad in a major key is built from a minor third stacked on another minor third relative to the scale, producing a naturally diminished triad (vii°)."
+    },
+    {
+      "subject": "Music",
+      "text": "In a natural minor key, the triad built on the second scale degree (the supertonic) is naturally",
+      "options": [
+        "major",
+        "diminished",
+        "augmented",
+        "minor"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the natural minor scale, the supertonic triad (ii) is built entirely from the scale's own notes and results in a diminished triad, just as the leading-tone triad does in a major key."
+    },
+    {
+      "subject": "Music",
+      "text": "In a major key, which scale-degree triads are naturally minor?",
+      "options": [
+        "The tonic, subdominant, and dominant (I, IV, V)",
+        "Only the tonic (I)",
+        "The leading-tone triad alone (vii)",
+        "The supertonic, mediant, and submediant (ii, iii, vi)"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a major key, the supertonic (ii), mediant (iii), and submediant (vi) triads are naturally minor, while the tonic, subdominant, and dominant are naturally major, and the leading-tone triad is diminished."
+    },
+    {
+      "subject": "Music",
+      "text": "An additive (irregular) time signature such as 5/4 or 7/8 is typically performed by",
+      "options": [
+        "ignoring the time signature entirely during performance",
+        "converting it automatically into 4/4 for ease of performance",
+        "treating every beat as exactly equal in weight with no internal grouping",
+        "grouping the beats into unequal clusters, such as 2+3 or 3+2+2, rather than uniform simple or compound groupings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Irregular or additive metres like 5/4 or 7/8 are typically subdivided into asymmetrical groupings (e.g., 2+3 or 3+2+2), which performers must internalise to accurately convey the metre's characteristic pulse."
+    },
+    {
+      "subject": "Music",
+      "text": "The chromatic scale is best defined as a scale that",
+      "options": [
+        "proceeds entirely by whole tones with no semitones",
+        "uses only five pitches per octave",
+        "proceeds by semitones, including all twelve pitches within an octave",
+        "is identical to the major scale in every key"
+      ],
+      "correctIndex": 2,
+      "explanation": "The chromatic scale comprises all twelve pitches within an octave, each separated by a semitone, encompassing every note available in the standard equal-tempered system."
+    },
+    {
+      "subject": "Music",
+      "text": "The whole-tone scale, notably exploited by composers such as Debussy, is characterised by",
+      "options": [
+        "alternating whole and half steps throughout",
+        "a scale consisting entirely of whole-tone (major second) steps, with no semitones",
+        "using only four pitches per octave",
+        "an identical interval pattern to the natural minor scale"
+      ],
+      "correctIndex": 1,
+      "explanation": "The whole-tone scale is built entirely from whole-tone (major second) intervals, producing an ambiguous, floating tonal quality that lacks the half-step pull found in major or minor scales."
+    },
+    {
+      "subject": "Music",
+      "text": "A pentatonic scale, widely used across many world music traditions including much traditional African and Asian music, is characterised by",
+      "options": [
+        "using twelve pitches per octave",
+        "using exactly seven pitches with two required semitones",
+        "being identical in structure to the chromatic scale",
+        "using five pitches per octave, commonly avoiding semitone steps"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pentatonic scales use five pitches per octave and, in their most common forms, avoid semitone intervals, giving them a distinctive open, consonant quality found widely in traditional musics around the world."
+    },
+    {
+      "subject": "Music",
+      "text": "Moving around the circle of fifths in the sharp direction, the major key a perfect fifth above C major is",
+      "options": [
+        "F major",
+        "D major",
+        "G major",
+        "A major"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moving a perfect fifth above C leads to G, which becomes the next major key in the sharp direction of the circle of fifths, adding one sharp (F#) to its key signature."
+    },
+    {
+      "subject": "Music",
+      "text": "A double sharp in music notation raises a note's pitch by",
+      "options": [
+        "one whole tone (two semitones) above its natural pitch",
+        "one semitone above its natural pitch",
+        "a full octave",
+        "one semitone below its natural pitch"
+      ],
+      "correctIndex": 0,
+      "explanation": "A double sharp raises a note by two semitones (a whole tone) above its natural pitch, distinct from a single sharp, which raises it by only one semitone."
+    },
+    {
+      "subject": "Music",
+      "text": "A double flat in music notation lowers a note's pitch by",
+      "options": [
+        "one semitone below its natural pitch",
+        "a full octave",
+        "one whole tone (two semitones) below its natural pitch",
+        "one semitone above its natural pitch"
+      ],
+      "correctIndex": 2,
+      "explanation": "A double flat lowers a note by two semitones (a whole tone) below its natural pitch, distinct from a single flat, which lowers it by only one semitone."
+    },
+    {
+      "subject": "Music",
+      "text": "Basso continuo, a defining performance practice of the Baroque period, refers to",
+      "options": [
+        "a fixed melodic theme repeated unchanged throughout an entire movement",
+        "a purely vocal technique with no instrumental accompaniment",
+        "a Classical-era orchestral seating arrangement",
+        "a continuous harmonic bass line, typically realised by a keyboard instrument and a bass instrument, from which chords are improvised"
+      ],
+      "correctIndex": 3,
+      "explanation": "Basso continuo was a standard Baroque practice in which a bass line (often played by harpsichord or organ together with a cello or bassoon) provided a harmonic foundation over which chords were realised or improvised."
+    },
+    {
+      "subject": "Music",
+      "text": "Terraced dynamics, a characteristic feature of Baroque instrumental music (especially associated with the harpsichord), refers to",
+      "options": [
+        "a smooth, continuous crescendo and diminuendo across a phrase",
+        "abrupt shifts between two dynamic levels, without gradual gradation, largely due to the limitations of instruments like the harpsichord",
+        "the total absence of dynamic contrast",
+        "dynamics controlled entirely by the conductor's hand gestures"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terraced dynamics describes the Baroque tendency toward sudden shifts between loud and soft, rather than gradual swells, partly a result of instruments such as the harpsichord being unable to vary volume through touch alone."
+    },
+    {
+      "subject": "Music",
+      "text": "Sonata form, a structural framework central to much Classical-era instrumental music, is generally organised into which three main sections?",
+      "options": [
+        "Prelude, fugue, and coda",
+        "Exposition, development, and recapitulation",
+        "Verse, chorus, and bridge",
+        "Overture, aria, and recitative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sonata form typically unfolds in three principal sections: the exposition (presenting the main themes), the development (exploring and transforming those themes), and the recapitulation (restating the exposition, usually resolved in the home key)."
+    },
+    {
+      "subject": "Music",
+      "text": "Wolfgang Amadeus Mozart's operatic output, a significant part of his legacy, includes the celebrated work",
+      "options": [
+        "'Die Zauberflote' (The Magic Flute)",
+        "'Messiah'",
+        "'The Rite of Spring'",
+        "'St Matthew Passion'"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Die Zauberflote' (The Magic Flute) is one of Mozart's most celebrated operas, blending elements of singspiel with profound musical and dramatic depth; the other listed works belong to Handel, Stravinsky, and Bach respectively."
+    },
+    {
+      "subject": "Music",
+      "text": "Beethoven's Symphony No. 9, notable for its innovative final movement, is particularly distinguished by its",
+      "options": [
+        "complete absence of any orchestral instruments",
+        "use of electronic instruments unavailable at the time",
+        "incorporation of vocal soloists and a full chorus, setting Schiller's 'Ode to Joy'",
+        "being composed exclusively for solo piano"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beethoven's Ninth Symphony broke new ground by incorporating vocal soloists and a chorus into its final movement, famously setting Friedrich Schiller's poem 'Ode to Joy', an unprecedented step for a symphonic work at the time."
+    },
+    {
+      "subject": "Music",
+      "text": "Igor Stravinsky's ballet 'The Rite of Spring', a landmark of Modern-era music, is particularly noted for its",
+      "options": [
+        "strict adherence to conventional Classical-era harmony",
+        "radical rhythmic complexity and dissonant harmony, which famously provoked a riotous audience reaction at its 1913 premiere",
+        "simple, conventional melodic writing with no rhythmic innovation",
+        "exclusive use of unaccompanied solo voice"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The Rite of Spring' is renowned for its groundbreaking rhythmic complexity, irregular accents, and harsh dissonances, which so startled audiences that its 1913 Paris premiere famously erupted into a near-riot."
+    },
+    {
+      "subject": "Music",
+      "text": "Atonality, a significant development within Modern-era Western art music, refers to music that",
+      "options": [
+        "strictly follows traditional major and minor key relationships",
+        "is performed without any instruments at all",
+        "is defined by an unusually slow tempo",
+        "deliberately avoids establishing a clear tonal centre or home key"
+      ],
+      "correctIndex": 3,
+      "explanation": "Atonal music deliberately avoids a clear tonal centre, breaking from the traditional major/minor key system that had governed Western art music through the Baroque, Classical, and Romantic periods."
+    },
+    {
+      "subject": "Music",
+      "text": "Arnold Schoenberg's twelve-tone (serial) technique, an influential Modern-era compositional method, organises pitch by",
+      "options": [
+        "arranging all twelve chromatic pitches into a fixed row (series) that is systematically used to generate the piece's melodic and harmonic material",
+        "using only the notes of a single major scale",
+        "relying exclusively on improvisation with no fixed structure",
+        "limiting the composition to only five pitches"
+      ],
+      "correctIndex": 0,
+      "explanation": "Twelve-tone technique organises a composition around a fixed ordering (row) of all twelve chromatic pitches, which is then manipulated (through transposition, inversion, retrograde, etc.) to generate the musical material, avoiding traditional tonal hierarchy."
+    },
+    {
+      "subject": "Music",
+      "text": "The oratorio, a large-scale genre especially associated with Handel, differs from opera principally in that it",
+      "options": [
+        "requires elaborate stage sets and costumed acting",
+        "is typically performed without staging, costumes, or acting, usually on a sacred or biblical subject",
+        "is always composed for solo piano only",
+        "never includes a chorus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike opera, an oratorio is generally performed in concert form, without staging, costumes, or dramatic action, and typically draws its narrative from sacred or biblical subject matter, as in Handel's 'Messiah'."
+    },
+    {
+      "subject": "Music",
+      "text": "The term 'programme music', which flourished particularly in the Romantic period, describes instrumental music that",
+      "options": [
+        "follows strict Baroque contrapuntal rules with no expressive intent",
+        "is composed with no reference to anything beyond the notes themselves",
+        "is intended to depict or evoke a specific extra-musical narrative, scene, or idea",
+        "can only be performed by a solo vocalist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Programme music is instrumental music composed to evoke or narrate a specific extra-musical idea, story, or scene, a genre that flourished particularly in the Romantic era with composers such as Berlioz and Liszt."
+    },
+    {
+      "subject": "Music",
+      "text": "Absolute music, a concept often contrasted with programme music, refers to music that",
+      "options": [
+        "must always depict a specific story or scene",
+        "exists purely for its own musical structure and content, without any intended extra-musical narrative or reference",
+        "was composed exclusively during the Medieval period",
+        "can only be performed on electronic instruments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absolute music is valued and understood purely in terms of its own musical structures, forms, and content, without reference to an extra-musical story or programme, contrasting directly with programme music."
+    },
+    {
+      "subject": "Music",
+      "text": "Joseph Haydn's contribution to the string quartet genre is historically significant primarily because he",
+      "options": [
+        "invented the electronic synthesizer",
+        "established the classic four-movement structure and formal conventions that shaped the string quartet for generations of later composers",
+        "composed exclusively for unaccompanied solo violin",
+        "rejected the string quartet format entirely in favour of vocal music"
+      ],
+      "correctIndex": 1,
+      "explanation": "Haydn's extensive and influential body of string quartets helped codify the genre's now-standard four-movement structure and formal conventions, profoundly shaping how later composers approached the medium."
+    },
+    {
+      "subject": "Music",
+      "text": "In comparing Baroque and Classical approaches to texture, Baroque music generally favoured a ________ texture, while Classical music generally favoured a ________ texture.",
+      "options": [
+        "monophonic; polyphonic",
+        "homophonic; polyphonic",
+        "polyphonic; homophonic",
+        "atonal; monophonic"
+      ],
+      "correctIndex": 2,
+      "explanation": "Baroque music generally emphasised dense polyphonic textures with multiple independent melodic lines, whereas the Classical period favoured clearer homophonic textures, typically a single melodic line supported by accompanying harmony."
+    },
+    {
+      "subject": "Music",
+      "text": "Fela Sowande's celebrated orchestral work 'African Suite' is significant chiefly for",
+      "options": [
+        "blending Yoruba melodic material and rhythmic sensibility with a Western orchestral idiom",
+        "being composed entirely using twelve-tone serial technique with no African references",
+        "being written exclusively for solo talking drum",
+        "having no connection whatsoever to Nigerian musical traditions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fela Sowande's 'African Suite' exemplifies his approach to Nigerian art music, weaving Yoruba melodic and rhythmic material into a work scored for Western string orchestra."
+    },
+    {
+      "subject": "Music",
+      "text": "Akin Euba's scholarly and compositional work is particularly notable for introducing the term",
+      "options": [
+        "'African pianism'",
+        "'musique concrete'",
+        "'basso continuo'",
+        "'terraced dynamics'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Akin Euba coined and developed the concept of 'African pianism' to describe a compositional approach adapting African rhythmic and melodic sensibilities to solo piano writing, distinguishing his contribution from unrelated Western terms like musique concrete or basso continuo."
+    },
+    {
+      "subject": "Music",
+      "text": "Compared to Fela Sowande's generation, Akin Euba is generally considered to represent",
+      "options": [
+        "an earlier, entirely separate musical tradition with no connection to Nigerian art music",
+        "a later generation of Nigerian art music composers who further developed the fusion of African and Western idioms, notably through theoretical writing",
+        "a composer working exclusively in traditional Fuji music",
+        "a purely European composer with no African heritage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akin Euba is generally regarded as part of a later generation of Nigerian art music composers, building on the foundational work of pioneers like Fela Sowande while also contributing significant musicological scholarship on African art music."
+    },
+    {
+      "subject": "Music",
+      "text": "Which best distinguishes Harcourt Whyte's musical contribution from that of Fela Sowande?",
+      "options": [
+        "Whyte composed exclusively for full symphony orchestra, while Sowande wrote only choral music",
+        "There is no meaningful difference between their contributions",
+        "Whyte focused primarily on choral music rooted in Igbo idioms, while Sowande is best known for orchestral and organ works rooted in Yoruba idioms",
+        "Whyte pioneered Afrobeat, while Sowande pioneered Fuji music"
+      ],
+      "correctIndex": 2,
+      "explanation": "Harcourt Whyte is primarily celebrated for choral compositions drawing on Igbo musical idioms, whereas Fela Sowande is best known for orchestral and organ works incorporating Yoruba musical elements, reflecting differing regional and stylistic emphases."
+    },
+    {
+      "subject": "Music",
+      "text": "Laz Ekwueme's scholarly contributions to Nigerian music are particularly notable for his work in",
+      "options": [
+        "the invention of the electric guitar",
+        "founding the Fuji music genre",
+        "the theoretical analysis and documentation of Nigerian indigenous music systems, alongside choral composition and conducting",
+        "producing exclusively secular Afrobeat recordings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laz Ekwueme is recognised not only as a composer and choral conductor but also as a musicologist who contributed significantly to the theoretical study and documentation of Nigerian indigenous musical systems."
+    },
+    {
+      "subject": "Music",
+      "text": "The term 'neo-African art music' is sometimes used by scholars to describe compositions that",
+      "options": [
+        "reject any use of Western notation or instruments",
+        "are composed exclusively for traditional instruments with no notation at all",
+        "have no relationship whatsoever to African musical heritage",
+        "merge traditional African musical materials and aesthetics with Western compositional techniques and notation"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Neo-African art music' describes a compositional approach, exemplified by figures such as Fela Sowande and Akin Euba, that consciously merges traditional African musical materials with Western notational and compositional frameworks."
+    },
+    {
+      "subject": "Music",
+      "text": "Which statement best distinguishes 'art music' from 'popular music' within the Nigerian musical context?",
+      "options": [
+        "Art music is always faster in tempo than popular music",
+        "Popular music is always notated in full orchestral score, while art music never is",
+        "Art music is typically formally composed and notated, often blending indigenous elements with Western techniques, while popular music (such as Highlife or Juju) is generally created for broad social entertainment and commercial performance",
+        "There is no meaningful distinction between the two categories"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nigerian art music, as developed by figures like Sowande, Whyte, Euba, and Ekwueme, is typically formally composed and notated, whereas popular genres like Highlife and Juju are generally oriented toward broad social entertainment and commercial performance."
+    },
+    {
+      "subject": "Music",
+      "text": "The Baroque concerto grosso form is distinguished by its contrast between",
+      "options": [
+        "a solo vocalist and an unaccompanied choir",
+        "electronic and acoustic instruments",
+        "two identical full orchestras with no distinction in role",
+        "a small group of soloists (concertino) and the larger full ensemble (ripieno/tutti)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The concerto grosso, a prominent Baroque form associated with composers like Handel and Corelli, contrasts a small group of soloists (the concertino) against the larger ensemble (the ripieno or tutti)."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following best characterises the melodic style typically favoured in Classical-era music, as compared to the Baroque?",
+      "options": [
+        "Balanced, symmetrical phrases, often organised into clear antecedent-consequent (question-answer) structures",
+        "Long, continuously spun-out melodic lines with little internal punctuation",
+        "The complete absence of any discernible melody",
+        "Melodies built exclusively from twelve-tone rows"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classical-era melodies typically favoured clear, symmetrical phrase structures, often built from balanced antecedent-consequent pairs, contrasting with the more continuously unfolding melodic lines characteristic of Baroque music."
+    },
+    {
+      "subject": "Music",
+      "text": "Robert Schumann and Johannes Brahms, both significant Romantic-era composers, are generally noted for",
+      "options": [
+        "rejecting any emotional expression in their compositions",
+        "expanding harmonic language and expressive depth while often maintaining strong ties to Classical formal structures",
+        "composing exclusively for unaccompanied talking drum ensembles",
+        "pioneering twelve-tone serial technique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Composers such as Schumann and Brahms expanded the emotional and harmonic vocabulary of the Romantic era while, particularly in Brahms's case, maintaining a notable respect for Classical formal structures inherited from composers like Beethoven."
+    },
+    {
+      "subject": "Music",
+      "text": "Impressionism in music, associated especially with Claude Debussy, is generally characterised by",
+      "options": [
+        "strict adherence to functional tonal harmony with no ambiguity",
+        "exclusively fast, rhythmically rigid dance forms",
+        "blurred tonality, use of whole-tone and pentatonic scales, and evocative, colouristic orchestration suggesting mood or atmosphere over clear narrative",
+        "complete rejection of any orchestral colour"
+      ],
+      "correctIndex": 2,
+      "explanation": "Musical Impressionism, exemplified by Debussy, favours blurred or ambiguous tonality, unconventional scales such as the whole-tone and pentatonic, and richly colouristic orchestration aimed at suggesting atmosphere and mood."
+    },
+    {
+      "subject": "Music",
+      "text": "Which pairing correctly matches each composer with the musical era most closely associated with him?",
+      "options": [
+        "Bach - Romantic; Chopin - Baroque",
+        "Beethoven - Medieval; Handel - Modern",
+        "Stravinsky - Renaissance; Mozart - Modern",
+        "Handel - Baroque; Chopin - Romantic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Handel is firmly associated with the Baroque period, while Chopin belongs to the Romantic era; the other pairings in this question misattribute composers to eras in which they did not work."
+    },
+    {
+      "subject": "Music",
+      "text": "Apala, a Yoruba popular music genre with roots in Islamic devotional practice, is particularly associated with the pioneering musician",
+      "options": [
+        "Haruna Ishola",
+        "Fela Anikulapo Kuti",
+        "King Sunny Ade",
+        "Ebenezer Obey"
+      ],
+      "correctIndex": 0,
+      "explanation": "Haruna Ishola is widely regarded as the foremost pioneer and populariser of Apala music, a Yoruba genre that, like Fuji, has origins connected to Islamic devotional traditions."
+    },
+    {
+      "subject": "Music",
+      "text": "The Apala genre is traditionally distinguished instrumentally by its heavy reliance on",
+      "options": [
+        "percussion instruments such as the sekere (gourd rattle) and agidigbo, generally without electric guitar",
+        "the electric guitar and drum kit, with almost no percussion",
+        "a full Western symphony orchestra",
+        "unaccompanied solo piano"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apala traditionally features percussion-driven instrumentation, particularly the sekere (beaded gourd rattle) and the agidigbo (a large lamellophone/thumb piano), generally without the electric guitar prominent in Juju music."
+    },
+    {
+      "subject": "Music",
+      "text": "Waka music, a Yoruba popular genre historically performed predominantly by female Muslim vocalists and closely associated with artists such as Salawa Abeni, is best described as",
+      "options": [
+        "an instrumental-only genre with no vocal content",
+        "a Western classical vocal form",
+        "an exclusively Christian liturgical genre",
+        "a vocal genre with Islamic devotional roots, typically accompanied by percussion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Waka music is a Yoruba vocal genre rooted in Islamic devotional practice, historically associated with female singers such as Salawa Abeni, and typically accompanied by percussion instruments rather than melodic Western instruments."
+    },
+    {
+      "subject": "Music",
+      "text": "The agidigbo, a traditional Yoruba instrument prominent in Apala music, is best classified as",
+      "options": [
+        "an aerophone, since it is blown like a horn",
+        "an idiophone (specifically a lamellophone), since its plucked metal or wooden tongues vibrate to produce pitch",
+        "a membranophone, since it has a stretched drumhead",
+        "a chordophone, since it uses tuned strings"
+      ],
+      "correctIndex": 1,
+      "explanation": "The agidigbo is a large lamellophone (a type of idiophone) with plucked tongues of metal or wood attached to a resonating box, producing pitched tones without any membrane, string, or air column being the primary sound source."
+    },
+    {
+      "subject": "Music",
+      "text": "The sekere, a beaded gourd rattle widely used in Yoruba traditional and popular music, is classified as",
+      "options": [
+        "a chordophone",
+        "an aerophone",
+        "a membranophone",
+        "an idiophone"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sekere produces sound through the vibration of its own solid gourd body and the beads striking its surface, making it a classic example of an idiophone rather than a drum, string, or wind instrument."
+    },
+    {
+      "subject": "Music",
+      "text": "The dundun ensemble, a family of variably-pitched hourglass 'talking' drums central to Yoruba traditional music, belongs to which instrument classification?",
+      "options": [
+        "Idiophone",
+        "Aerophone",
+        "Membranophone",
+        "Chordophone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The dundun family of hourglass-shaped talking drums produces sound through the vibration of a stretched membrane (skin), squeezed by cords under the player's arm to vary pitch, classifying them as membranophones."
+    },
+    {
+      "subject": "Music",
+      "text": "The bata drum ensemble, traditionally associated with Yoruba religious worship of the orisa Sango, is best classified as",
+      "options": [
+        "a family of stringed chordophones",
+        "a set of double-headed, cone-shaped membranophones",
+        "a set of wind-blown aerophones",
+        "a family of struck metal idiophones only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bata drums are double-headed, cone-shaped membranophones traditionally used in Yoruba religious contexts, particularly in worship associated with the orisa Sango, and typically played in ensembles of varying sizes."
+    },
+    {
+      "subject": "Music",
+      "text": "The algaita, a reed wind instrument used in Hausa traditional and royal court music of northern Nigeria, is classified as",
+      "options": [
+        "a chordophone",
+        "a membranophone",
+        "an idiophone",
+        "an aerophone"
+      ],
+      "correctIndex": 3,
+      "explanation": "The algaita is a double-reed wind instrument, related to the oboe, whose sound is produced by a vibrating column of air, classifying it as an aerophone."
+    },
+    {
+      "subject": "Music",
+      "text": "The goje, a traditional single-stringed bowed instrument found among the Hausa people, is classified as",
+      "options": [
+        "an idiophone",
+        "an aerophone",
+        "a chordophone",
+        "a membranophone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The goje is a traditional bowed lute with a single string stretched across a resonating body, and it is classified as a chordophone since its sound derives from the vibration of the string."
+    },
+    {
+      "subject": "Music",
+      "text": "The kakaki, a very long straight metal trumpet traditionally used in Hausa royal court ceremonies, produces sound through",
+      "options": [
+        "the vibration of a stretched membrane at one end",
+        "the vibration of internal strings",
+        "the buzzing of the player's lips setting a column of air into vibration",
+        "the striking of its own metal body"
+      ],
+      "correctIndex": 2,
+      "explanation": "Like other trumpets, the kakaki produces sound when the player's buzzing lips excite the column of air within its long metal tube, classifying it as an aerophone (specifically a natural, valveless trumpet)."
+    },
+    {
+      "subject": "Music",
+      "text": "The balafon, a West African wooden-keyed percussion instrument fitted with gourd resonators beneath each key, is most accurately classified as",
+      "options": [
+        "a chordophone, similar to the kora",
+        "a membranophone, similar to a drum",
+        "an aerophone, similar to a flute",
+        "an idiophone, a relative of the xylophone family"
+      ],
+      "correctIndex": 3,
+      "explanation": "The balafon is a member of the xylophone family, with tuned wooden bars struck to produce pitch and gourd resonators beneath amplifying the sound, making it an idiophone rather than a drum, string, or wind instrument."
+    },
+    {
+      "subject": "Music",
+      "text": "In the standard Western orchestral classification system (as opposed to the Hornbostel-Sachs system), instruments are generally grouped into which four families?",
+      "options": [
+        "Strings, woodwind, brass, and percussion",
+        "Idiophones, aerophones, chordophones, and membranophones",
+        "Solo, chamber, choral, and orchestral",
+        "Major, minor, diminished, and augmented"
+      ],
+      "correctIndex": 0,
+      "explanation": "The conventional Western orchestral classification divides instruments into strings, woodwind, brass, and percussion, a system distinct from (though related to) the more universally applicable Hornbostel-Sachs scheme of idiophones, aerophones, chordophones, and membranophones."
+    },
+    {
+      "subject": "Music",
+      "text": "Although commonly made of metal, the saxophone and modern flute are both classified within the orchestral woodwind family primarily because",
+      "options": [
+        "they are always painted a particular colour",
+        "they were both invented before any brass instruments",
+        "they can only be played by seated orchestral musicians",
+        "their sound-producing mechanism (a vibrating reed for the saxophone, or an air stream split across an edge for the flute) follows the woodwind tradition, regardless of the material used to build them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Orchestral family classification is based on how sound is produced rather than the instrument's material; the saxophone uses a single reed and the flute uses an air stream split across an edge, both woodwind mechanisms, despite frequently being constructed from metal."
+    },
+    {
+      "subject": "Music",
+      "text": "Despite its name, the French horn belongs to the brass family rather than the woodwind family because its sound is produced by",
+      "options": [
+        "the buzzing of the player's lips against a metal mouthpiece, exciting the air column within its tubing",
+        "a double reed vibrating in the mouthpiece",
+        "a vibrating string stretched across its body",
+        "a single reed similar to that of a clarinet"
+      ],
+      "correctIndex": 0,
+      "explanation": "The French horn is classified as brass because, like the trumpet and trombone, its tone is generated by the player's lips buzzing against a cup-shaped metal mouthpiece, exciting the air column, regardless of any 'horn' naming convention."
+    },
+    {
+      "subject": "Music",
+      "text": "The timpani (kettledrums), a staple of the Western orchestral percussion section, are distinctive among most drums because they",
+      "options": [
+        "produce sound entirely without any membrane",
+        "can be tuned to specific, definite pitches, unlike most unpitched percussion instruments",
+        "are classified as chordophones due to internal strings",
+        "cannot be played as part of an orchestra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike most percussion instruments, which produce indefinite pitch, timpani can be tuned to specific pitches by adjusting the tension of their membrane, allowing them to fulfil distinct harmonic roles within orchestral writing."
+    },
+    {
+      "subject": "Music",
+      "text": "Within orchestral percussion writing, instruments are commonly divided into 'pitched' and 'unpitched' categories; which of the following pairs correctly places one instrument in each category?",
+      "options": [
+        "Snare drum (pitched); xylophone (unpitched)",
+        "Xylophone (pitched); snare drum (unpitched)",
+        "Triangle (pitched); glockenspiel (unpitched)",
+        "Bass drum (pitched); marimba (unpitched)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The xylophone produces definite, tuned pitches and is therefore a pitched percussion instrument, while the snare drum produces indefinite pitch and is classified as unpitched percussion."
+    },
+    {
+      "subject": "Music",
+      "text": "The ogene, a hand-held metal bell used among the Igbo people (notably in highlife ensembles and traditional ceremonies), is classified as",
+      "options": [
+        "an aerophone",
+        "a membranophone",
+        "an idiophone",
+        "a chordophone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ogene bell produces sound through the vibration of its own solid metal body when struck, making it an idiophone, distinct from drums, strings, or wind instruments."
+    },
+    {
+      "subject": "Music",
+      "text": "Work songs, one important function of traditional African music, are primarily intended to",
+      "options": [
+        "entertain paying audiences at formal concerts",
+        "accompany only funeral rites",
+        "coordinate the rhythm and pace of communal manual labour, such as farming or rowing",
+        "serve exclusively as lullabies for infants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work songs traditionally help synchronise and energise the rhythm of communal manual labour, such as farming, pounding, or rowing, illustrating music's practical social function beyond entertainment."
+    },
+    {
+      "subject": "Music",
+      "text": "Dirges, another important category of traditional African vocal music, are specifically performed to",
+      "options": [
+        "celebrate a marriage ceremony",
+        "accompany harvest festivals exclusively",
+        "mourn the dead and accompany funeral rites",
+        "coordinate manual labour tasks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dirges are mournful songs specifically associated with death and funeral rites, expressing grief and honouring the deceased within many African musical traditions."
+    },
+    {
+      "subject": "Music",
+      "text": "Praise singing, a widespread tradition across many African societies (often performed by griots or similarly specialised musicians), primarily functions to",
+      "options": [
+        "extol the virtues, lineage, and achievements of individuals, families, or rulers",
+        "criticise and mock important community leaders",
+        "accompany only children's games",
+        "provide purely instrumental background music with no vocal or textual content"
+      ],
+      "correctIndex": 0,
+      "explanation": "Praise singing traditionally celebrates and honours the achievements, lineage, and status of individuals, families, or rulers, often performed by specialised musicians such as griots who preserve genealogical and historical knowledge."
+    },
+    {
+      "subject": "Music",
+      "text": "Which best distinguishes Highlife from Afrobeat in terms of typical musical emphasis?",
+      "options": [
+        "Highlife has no melodic content whatsoever, while Afrobeat is purely melodic with no rhythm",
+        "Afrobeat originated centuries before Highlife",
+        "Highlife generally emphasises melodic dance band instrumentation, while Afrobeat emphasises extended jazz-funk-influenced grooves paired with socio-political lyrics",
+        "There is no meaningful musical difference between the two genres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Highlife typically centres on melodic Western dance-band instrumentation (guitars, horns) with West African rhythmic sensibilities, while Afrobeat, pioneered by Fela Kuti, layers extended jazz- and funk-influenced grooves with pointed socio-political lyrical content."
+    },
+    {
+      "subject": "Music",
+      "text": "A heterophonic texture, occasionally found in traditional African ensemble performance, occurs when",
+      "options": [
+        "multiple performers simultaneously play or sing slightly different, ornamented versions of essentially the same melody",
+        "a single unaccompanied melodic line is performed with absolutely no variation",
+        "only percussion instruments are permitted to perform",
+        "four independent, harmonically unrelated melodies are performed with no shared material"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heterophony occurs when multiple performers render the same underlying melody simultaneously but with individual embellishments or slight variations, a texture found in various traditional musical practices, including some African ensemble performance."
+    },
+    {
+      "subject": "Music",
+      "text": "The cross-rhythm technique found extensively in West African drumming, in which two or more conflicting rhythmic groupings (such as a pattern in three against a pattern in two) occur simultaneously, is most precisely described as",
+      "options": [
+        "monophony",
+        "a complete absence of rhythmic organisation",
+        "homophony",
+        "a specific and structured form of polyrhythm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cross-rhythm is a structured type of polyrhythm in which contrasting rhythmic groupings (for example, three-against-two) are deliberately superimposed, a technique fundamental to much West African drumming and its diasporic musical descendants."
+    },
+    {
+      "subject": "Music",
+      "text": "Which of the following instrument groupings correctly places all three instruments within the same Hornbostel-Sachs classification?",
+      "options": [
+        "Dundun, kakaki, and kora (all aerophones)",
+        "Sekere, ogene, and talking drum (all idiophones)",
+        "Balafon, algaita, and timpani (all membranophones)",
+        "Kora, goje, and violin (all chordophones)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The kora, goje, and violin are all string instruments that generate sound through vibrating strings, correctly grouping them together as chordophones; the other listed groupings mix instruments from different classification categories."
+    },
+    {
+      "subject": "Music",
+      "text": "A half cadence, which many musicians treat as synonymous with an imperfect cadence, is best described as a progression that",
+      "options": [
+        "ends on the tonic (I) chord in root position with the tonic note in the melody",
+        "moves from the subdominant directly to the tonic",
+        "moves from the dominant to the submediant",
+        "ends on the dominant (V) chord, leaving the phrase sounding harmonically unresolved"
+      ],
+      "correctIndex": 3,
+      "explanation": "A half cadence (often used interchangeably with 'imperfect cadence') ends on the dominant chord, creating a sense of pause or expectation rather than final resolution."
+    },
+    {
+      "subject": "Music",
+      "text": "A 'perfect authentic cadence', the strongest and most conclusive form of the V-I progression, additionally requires that",
+      "options": [
+        "the dominant chord must appear in second inversion",
+        "the final tonic chord must include an added seventh",
+        "both chords appear in root position and the tonic note is present in the highest (melodic) voice at the final chord",
+        "the progression must be repeated exactly three times"
+      ],
+      "correctIndex": 2,
+      "explanation": "A perfect authentic cadence requires both the dominant and tonic chords to be in root position, with the tonic pitch sounding in the topmost voice of the final chord, distinguishing it from a merely 'imperfect' authentic cadence where these conditions are not fully met."
+    },
+    {
+      "subject": "Music",
+      "text": "The cadential six-four chord, a common device in Classical and Romantic harmony immediately preceding a cadence, is best understood as",
+      "options": [
+        "a dominant seventh chord in root position",
+        "a plagal cadence in first inversion",
+        "an unrelated chromatic chord with no cadential function",
+        "a tonic chord in second inversion that functions harmonically as an embellishment of the dominant, typically resolving to a root-position dominant chord"
+      ],
+      "correctIndex": 3,
+      "explanation": "The cadential six-four is a tonic triad in second inversion (with the fifth in the bass) that, despite its tonic spelling, functions as a decorative prolongation of dominant harmony, typically resolving directly to a root-position V chord before the final tonic."
+    },
+    {
+      "subject": "Music",
+      "text": "A passing tone, a common type of non-chord (non-harmonic) tone, is best defined as a note that",
+      "options": [
+        "is struck simultaneously with the chord tones and never resolves",
+        "must always be the root of the next chord",
+        "fills in the melodic space between two chord tones a third apart, moving stepwise and unaccented",
+        "can only occur in the bass voice"
+      ],
+      "correctIndex": 2,
+      "explanation": "A passing tone connects two chord tones a third apart by stepwise motion, typically falling on a weak beat, and does not belong to the underlying harmony of the moment."
+    },
+    {
+      "subject": "Music",
+      "text": "A suspension, a non-chord tone technique widely used in tonal harmony, is created by",
+      "options": [
+        "sounding a note that leaps by a large interval with no preparation",
+        "eliminating a note from the texture entirely",
+        "preparing a chord tone in one harmony, holding it over (suspending it) as the harmony changes so it becomes dissonant, then resolving it down by step",
+        "playing all voices in strict parallel motion"
+      ],
+      "correctIndex": 2,
+      "explanation": "A suspension involves three stages: preparation (as a consonance), suspension (held over into a new harmony, becoming dissonant), and resolution (typically stepping down to a consonance), creating expressive harmonic tension."
+    },
+    {
+      "subject": "Music",
+      "text": "An appoggiatura, an ornamental non-chord tone often approached by leap and resolved by step, is generally distinguished from a passing tone by",
+      "options": [
+        "typically occurring on a strong (accented) beat, creating an accented dissonance before resolving",
+        "always occurring only in unaccompanied solo music",
+        "never resolving to a chord tone",
+        "being approached and left by the same melodic interval"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unlike the typically unaccented passing tone, an appoggiatura is usually placed on a strong beat, creating a pronounced accented dissonance that then resolves stepwise into the underlying harmony."
+    },
+    {
+      "subject": "Music",
+      "text": "A sequence, as a compositional device, refers to",
+      "options": [
+        "a melodic or harmonic pattern immediately repeated at a different pitch level",
+        "a single note sustained indefinitely with no repetition",
+        "the exact repetition of a pattern at precisely the same pitch",
+        "a random, unrelated series of notes with no discernible pattern"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sequence involves restating a melodic or harmonic pattern at a new pitch level (higher or lower), preserving its basic contour and intervallic relationships while providing a sense of forward motion."
+    },
+    {
+      "subject": "Music",
+      "text": "An ostinato, frequently found in both Western art music and traditional African drumming, refers to",
+      "options": [
+        "a single note played only once at the very start of a piece",
+        "a rhythmic or melodic pattern that is persistently repeated, often underpinning other musical material above it",
+        "a technique for tuning an instrument",
+        "a term describing purely improvised, non-repetitive music"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ostinato is a short musical pattern (melodic, rhythmic, or both) that is persistently repeated, often forming a foundational layer beneath other developing musical material."
+    },
+    {
+      "subject": "Music",
+      "text": "A trill, a common musical ornament, is executed by",
+      "options": [
+        "playing two notes simultaneously and holding them",
+        "sliding continuously between two pitches with no distinct steps",
+        "rapidly alternating between a principal note and the note immediately above it",
+        "abruptly stopping a note before its full value is heard"
+      ],
+      "correctIndex": 2,
+      "explanation": "A trill is executed by rapidly alternating between a written principal note and the diatonic or chromatic note immediately above it, producing a shimmering ornamental effect."
+    },
+    {
+      "subject": "Music",
+      "text": "A mordent, another common musical ornament, is distinguished from a trill mainly by",
+      "options": [
+        "consisting of only a single, brief alternation between the principal note and an adjacent note before returning, rather than sustained rapid alternation",
+        "requiring an entirely different instrument to perform",
+        "always being performed more slowly than a written whole note",
+        "never returning to the principal note"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unlike a trill's sustained rapid alternation, a mordent consists of a single quick alternation between the principal note and an adjacent note (above or below), before returning promptly to the principal note."
+    },
+    {
+      "subject": "Music",
+      "text": "A tierce de Picardie (Picardy third) refers to the harmonic practice of",
+      "options": [
+        "raising the second scale degree at a cadence",
+        "ending a piece or section in a minor key with a major tonic chord instead of the expected minor tonic chord",
+        "using only diminished chords throughout an entire piece",
+        "ending a major-key piece with a minor subdominant chord"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Picardy third is the practice, common in Baroque and earlier music, of concluding a piece or section that is otherwise in a minor key with a major tonic chord, achieved by raising the minor third to a major third."
+    },
+    {
+      "subject": "Music",
+      "text": "Modulation, as a harmonic process in tonal music, refers to",
+      "options": [
+        "a change in the tempo of a piece with no harmonic implication",
+        "the exact repetition of a melody at the same pitch",
+        "a permanent, irreversible change in a piece's time signature only",
+        "a shift from one key to another within a piece, often facilitated by a pivot chord common to both keys"
+      ],
+      "correctIndex": 3,
+      "explanation": "Modulation describes the process of moving from one tonal centre (key) to another within a composition, frequently achieved smoothly through a pivot chord that functions diatonically in both the original and new keys."
+    },
+    {
+      "subject": "Music",
+      "text": "A secondary dominant, a common chromatic harmonic device in tonal music, is best described as",
+      "options": [
+        "any chord that never resolves",
+        "a chord built exclusively from the notes of the tonic triad",
+        "a term describing a second, identical dominant chord played simultaneously with the first",
+        "a dominant-type chord that resolves not to the main tonic, but to a scale degree other than the tonic, temporarily 'tonicising' it"
+      ],
+      "correctIndex": 3,
+      "explanation": "A secondary dominant is a dominant-functioning chord (such as V of V) that temporarily resolves to and emphasises a scale degree other than the main tonic, briefly treating that degree as a local tonic."
+    },
+    {
+      "subject": "Music",
+      "text": "Binary form, a common structural framework in Baroque instrumental music (particularly dance movements), is organised into",
+      "options": [
+        "four contrasting, unrelated sections with no repetition",
+        "a single continuous section with no internal division",
+        "two main sections, often labelled A and B, each typically repeated",
+        "five sections arranged as a rondo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Binary form divides a piece into two main sections (A and B), commonly each repeated, with the first section often modulating away from the tonic and the second returning to it."
+    },
+    {
+      "subject": "Music",
+      "text": "Ternary form, another common structural framework, is organised into",
+      "options": [
+        "three sections following an A-B-A pattern, in which the opening material returns after a contrasting middle section",
+        "two identical sections with no contrast",
+        "a single unbroken section",
+        "seven contrasting sections with no repetition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ternary form follows an A-B-A structure, presenting an opening section, a contrasting middle section, and then a return of the original material, providing both contrast and satisfying formal symmetry."
+    },
+    {
+      "subject": "Music",
+      "text": "Rondo form, frequently used for the final movements of Classical-era symphonies and concertos, is characterised by",
+      "options": [
+        "a single theme that never returns after its first statement",
+        "a recurring main theme (refrain) that alternates with contrasting episodes, such as A-B-A-C-A",
+        "purely improvised material with no fixed structure",
+        "exactly two sections repeated indefinitely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rondo form features a recurring principal theme (the refrain) that alternates with contrasting episodes, producing patterns such as A-B-A-C-A, commonly used in lively Classical-era finales."
+    },
+    {
+      "subject": "Music",
+      "text": "Theme and variations form, used by composers such as Haydn, Mozart, and Beethoven, involves",
+      "options": [
+        "presenting an initial theme, followed by a series of sections that each transform or embellish that theme in a different way",
+        "a single, unchanging theme repeated identically many times with no alteration",
+        "a series of unrelated melodies with no shared thematic material",
+        "the complete absence of any melodic material"
+      ],
+      "correctIndex": 0,
+      "explanation": "Theme and variations form presents an initial melodic theme, followed by a sequence of variations that each alter the theme through changes in rhythm, harmony, texture, ornamentation, or mode, while retaining a recognisable link to the original."
+    },
+    {
+      "subject": "Music",
+      "text": "Transposition, a common technique in music, refers to",
+      "options": [
+        "shifting a passage of music to a different pitch level while preserving its intervallic relationships",
+        "changing only the dynamics of a passage",
+        "reversing the order of notes in a melody",
+        "altering the rhythm of a passage while keeping the pitches fixed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transposition moves a passage of music up or down to a new pitch level, preserving the exact pattern of intervals between notes, commonly used to accommodate different instrument ranges or vocal comfort."
+    },
+    {
+      "subject": "Music",
+      "text": "The term 'tessitura' refers to",
+      "options": [
+        "the specific tempo marking indicated at the start of a piece",
+        "a type of cadence found only in choral music",
+        "the general pitch range in which a particular voice or instrumental part lies most comfortably and is used most often",
+        "the total duration of a musical work"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tessitura describes the comfortable, most frequently used pitch range for a given voice or instrument within a piece, which may differ from its absolute outer range of possible notes."
+    },
+    {
+      "subject": "Music",
+      "text": "Word painting (or madrigalism), a technique especially prominent in Renaissance vocal music, refers to the practice of",
+      "options": [
+        "musically illustrating the meaning of the text, such as setting the word 'ascending' to a rising melodic line",
+        "using purely instrumental music with no text at all",
+        "repeating the same note throughout an entire piece regardless of text",
+        "avoiding any connection between music and text meaning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Word painting (madrigalism) involves shaping the music to reflect the literal meaning of the text being set, such as using a descending melodic line for words evoking falling or death, a technique especially favoured by Renaissance madrigal composers."
+    },
+    {
+      "subject": "Music",
+      "text": "In aural (ear-training) practice, a major triad heard in isolation is generally distinguished from a minor triad by its",
+      "options": [
+        "identical sound in every respect, since major and minor triads cannot be distinguished by ear",
+        "brighter, more consonant and stable quality, compared to the minor triad's characteristically darker, more subdued quality",
+        "requirement of being played only on stringed instruments",
+        "having four notes instead of three"
+      ],
+      "correctIndex": 1,
+      "explanation": "Although both are built from stacked thirds, a major triad's major third above the root generally produces a brighter, more open quality, while a minor triad's minor third produces a comparatively darker, more subdued sound, a distinction ear-training exercises aim to sharpen."
+    },
+    {
+      "subject": "Music",
+      "text": "In aural interval recognition, a perfect fifth is often distinguished from a tritone (augmented fourth/diminished fifth) by",
+      "options": [
+        "the perfect fifth's markedly consonant, stable quality, contrasted with the tritone's inherently dissonant and unstable, restless quality",
+        "the tritone's smoother, more consonant sound compared to the open, stable perfect fifth",
+        "having an identical number of semitones in both cases",
+        "the perfect fifth being impossible to hear on any instrument"
+      ],
+      "correctIndex": 0,
+      "explanation": "The perfect fifth (seven semitones) has a notably open, stable, consonant quality, whereas the tritone (six semitones) has a distinctly dissonant, unstable, and restless character, making the two intervals aurally quite distinguishable despite their close proximity in size."
+    },
+    {
+      "subject": "Music",
+      "text": "When practising chord-progression dictation, a I-IV-V-I progression in a major key is generally recognised by ear as",
+      "options": [
+        "remaining on the tonic chord throughout with no harmonic movement",
+        "a progression that only occurs in minor keys",
+        "a progression consisting entirely of diminished chords",
+        "moving from tonic, to subdominant, to dominant, and back to tonic, producing a strong overall sense of harmonic departure and eventual resolution"
+      ],
+      "correctIndex": 3,
+      "explanation": "The I-IV-V-I progression is among the most fundamental in tonal harmony, moving from the stable tonic through the subdominant and dominant before returning home, and is widely used as a foundational aural-training example."
+    },
+    {
+      "subject": "Music",
+      "text": "A deceptive cadence used for aural analysis purposes is most easily recognised by ear because it",
+      "options": [
+        "always sounds identical to a perfect authentic cadence",
+        "sets up the strong expectation of resolution to the tonic (via V) but instead resolves unexpectedly to another chord, typically the submediant",
+        "never involves the dominant chord at all",
+        "can only occur in compound time signatures"
+      ],
+      "correctIndex": 1,
+      "explanation": "A deceptive (interrupted) cadence is recognisable aurally because the dominant chord creates a strong expectation of resolving to the tonic, which is then subverted when the progression moves instead to an unexpected chord, most commonly the submediant."
+    },
+    {
+      "subject": "Music",
+      "text": "In rhythmic dictation exercises, a dotted rhythm (such as a dotted eighth note followed by a sixteenth note) is aurally distinguished from an even pair of eighth notes by its",
+      "options": [
+        "identical, undifferentiated rhythmic feel",
+        "complete absence of any audible rhythm",
+        "requirement of a much slower overall tempo",
+        "distinctly uneven, 'long-short' rhythmic quality, as opposed to the even, balanced feel of two equal eighth notes"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dotted rhythm produces a distinctly uneven 'long-short' effect, clearly differentiable by ear from the balanced, even quality of two equal eighth notes, an important distinction in rhythmic dictation training."
+    },
+    {
+      "subject": "Music",
+      "text": "A plagal cadence is distinguished from a perfect (authentic) cadence mainly in that it",
+      "options": [
+        "always sounds more harmonically unresolved than an imperfect cadence",
+        "can only be performed by a solo instrument, never a choir",
+        "moves from the subdominant (IV) to the tonic (I), rather than from the dominant (V) to the tonic (I)",
+        "requires the dominant seventh chord to be omitted entirely from the piece"
+      ],
+      "correctIndex": 2,
+      "explanation": "While a perfect cadence resolves from the dominant (V) to the tonic (I), a plagal cadence instead moves from the subdominant (IV) to the tonic (I), producing a gentler, still-conclusive close often heard as the 'Amen' at the end of hymns."
+    }
+  ]
+}

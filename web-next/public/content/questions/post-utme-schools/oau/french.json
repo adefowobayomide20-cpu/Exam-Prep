@@ -1,0 +1,1206 @@
+{
+  "subject": "French",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nD'ou vient Amina ?",
+      "options": [
+        "D'une grande ville pres de Lagos",
+        "D'un village pres de Kano",
+        "D'une ville universitaire en France",
+        "D'un petit village pres d'Ibadan"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage opens with 'Amina vient d'un petit village situe pres d'Ibadan', naming her origin directly."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nQuel est le reve d'Amina depuis son enfance ?",
+      "options": [
+        "Devenir agricultrice",
+        "Devenir enseignante",
+        "Devenir medecin",
+        "Devenir avocate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The text states 'elle reve de devenir medecin afin d'aider les habitants de sa region', identifying her childhood dream."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nPourquoi Amina veut-elle devenir medecin, selon le texte ?",
+      "options": [
+        "Pour gagner beaucoup d'argent rapidement",
+        "Pour aider les habitants de sa region, ou les hopitaux sont rares",
+        "Pour suivre les traces de ses parents",
+        "Pour voyager a l'etranger"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage explains she wants to help people in her area 'ou les hopitaux sont rares' (where hospitals are rare)."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nComment Amina a-t-elle obtenu une place a l'universite ?",
+      "options": [
+        "Grace a un concours de beaute",
+        "Par l'intermediaire d'un oncle riche",
+        "En payant des frais tres eleves",
+        "Grace a une bourse, apres de tres bons resultats"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text says she 'a obtenu une bourse pour etudier la medecine' after finishing secondary school with excellent results."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nQuelle est la profession des parents d'Amina ?",
+      "options": [
+        "Agriculteurs",
+        "Commercants",
+        "Medecins",
+        "Enseignants"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage describes 'Ses parents, qui sont agriculteurs' (her parents, who are farmers)."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nQue fait Amina pendant ses vacances, d'apres le texte ?",
+      "options": [
+        "Elle se repose sans rien faire",
+        "Elle voyage a l'etranger",
+        "Elle travaille dans un hopital de Lagos",
+        "Elle soigne gratuitement les malades de son village"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage states 'Amina passe ses vacances a soigner gratuitement les malades de son village'."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nQuel est l'espoir final exprime par Amina a la fin du texte ?",
+      "options": [
+        "Qu'elle quitte son village pour toujours",
+        "Que ses parents cessent d'etre agriculteurs",
+        "Que moins de gens meurent de maladies faciles a soigner",
+        "Qu'elle devienne riche grace a la medecine"
+      ],
+      "correctIndex": 2,
+      "explanation": "The final sentence expresses her hope that fewer people will die from easily treatable illnesses because of her work."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nComment les parents d'Amina ont-ils reagi a sa reussite, selon le texte ?",
+      "options": [
+        "Ils etaient decus par son choix",
+        "Ils etaient tres fiers d'elle",
+        "Ils s'y sont opposes fermement",
+        "Ils etaient indifferents"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage says her parents 'etaient tres fiers d'elle', despite knowing the studies would be long and difficult."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nDans la phrase 'meme s'ils savaient que les etudes seraient longues et difficiles', l'expression 'meme si' introduit une idee de",
+      "options": [
+        "cause",
+        "consequence",
+        "but",
+        "concession"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Meme si' introduces a concession — an idea acknowledged despite being an obstacle, similar to 'although' in English."
+    },
+    {
+      "subject": "French",
+      "text": "Amina vient d'un petit village situe pres d'Ibadan. Depuis son enfance, elle reve de devenir medecin afin d'aider les habitants de sa region, ou les hopitaux sont rares. Apres avoir termine ses etudes secondaires avec de tres bons resultats, elle a obtenu une bourse pour etudier la medecine a l'universite. Ses parents, qui sont agriculteurs, etaient tres fiers d'elle, meme s'ils savaient que les etudes seraient longues et difficiles. Aujourd'hui, Amina passe ses vacances a soigner gratuitement les malades de son village, en attendant de terminer sa formation. Elle espere qu'un jour, grace a son travail, moins de gens mourront de maladies faciles a soigner.\n\nQuel est le theme principal de ce texte ?",
+      "options": [
+        "La determination d'une jeune fille a aider sa communaute par la medecine",
+        "L'histoire de la ville d'Ibadan",
+        "Les difficultes financieres des universites",
+        "La vie quotidienne des agriculteurs nigerians"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage centers on Amina's determination to become a doctor and help her community despite challenges."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nOu se trouve le marche decrit dans le texte ?",
+      "options": [
+        "A Abuja",
+        "A Ibadan",
+        "A Oshodi, a Lagos",
+        "A Kano"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage opens with 'Le marche d'Oshodi est l'un des plus grands marches de Lagos'."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nQue peut-on trouver au marche d'Oshodi, selon le texte ?",
+      "options": [
+        "Seulement des produits alimentaires",
+        "Des livres et des fournitures scolaires",
+        "Uniquement des vetements et des chaussures",
+        "Des vetements, des fruits, des legumes, des appareils electroniques et des pieces de voiture"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text lists these items directly: 'des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture'."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nA quelle heure les commercants arrivent-ils au marche ?",
+      "options": [
+        "Vers midi",
+        "Tard dans la soiree",
+        "Pendant la nuit",
+        "Tres tot le matin"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage states commerçants 'arrivent tres tot' every morning to set up before customers arrive."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nComment le texte decrit-il l'ambiance du marche ?",
+      "options": [
+        "Triste et vide",
+        "Organisee et sans bruit",
+        "Bruyante et animee",
+        "Calme et silencieuse"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage describes the atmosphere as 'toujours bruyante et animee' (always noisy and lively)."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nPourquoi beaucoup de familles preferent-elles ce marche aux grands centres commerciaux ?",
+      "options": [
+        "Le marche est climatise",
+        "Il y a moins de monde",
+        "Les prix y sont plus bas et on peut negocier",
+        "Les produits y sont de meilleure qualite"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage explains families prefer the market because 'les prix y sont plus bas et on peut souvent negocier avec le vendeur'."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nQue font les vendeurs pour attirer l'attention des passants ?",
+      "options": [
+        "Ils distribuent des cadeaux gratuits",
+        "Ils restent silencieux",
+        "Ils chantent des chansons",
+        "Ils crient"
+      ],
+      "correctIndex": 3,
+      "explanation": "The text says vendors 'crient pour attirer l'attention des passants' (shout to attract passers-by)."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nLe mot 'etals' dans le texte se refere probablement a",
+      "options": [
+        "des tables ou des stands de vente",
+        "des maisons privees",
+        "des bureaux administratifs",
+        "des voitures garees"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Etals' refers to market stalls or stands where vendors display and sell their goods."
+    },
+    {
+      "subject": "French",
+      "text": "Le marche d'Oshodi est l'un des plus grands marches de Lagos. On y trouve de tout : des vetements, des fruits, des legumes, des appareils electroniques et meme des pieces de voiture. Chaque matin, des milliers de commercants arrivent tres tot pour installer leurs etals avant l'arrivee des premiers clients. L'ambiance y est toujours bruyante et animee, avec des vendeurs qui crient pour attirer l'attention des passants. Malgre la chaleur et la foule, beaucoup de familles preferent ce marche aux grands centres commerciaux, car les prix y sont plus bas et on peut souvent negocier avec le vendeur.\n\nQuel est le theme general de ce texte ?",
+      "options": [
+        "La vie et l'ambiance d'un grand marche a Lagos",
+        "Les problemes de circulation a Lagos",
+        "L'histoire politique du Nigeria",
+        "La construction de nouveaux centres commerciaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "The passage as a whole describes the daily life and lively atmosphere of the Oshodi market."
+    },
+    {
+      "subject": "French",
+      "text": "Complete correctement : 'Marie et moi, ___ allons au marche ensemble.'",
+      "options": [
+        "elle",
+        "nous",
+        "vous",
+        "ils"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Marie et moi' together form a first-person plural subject, requiring the pronoun 'nous'."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez le pronom relatif correct : 'Voici la maison ___ j'habite.'",
+      "options": [
+        "dont",
+        "que",
+        "ou",
+        "qui"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ou' is used as a relative pronoun of place, meaning 'where', linking 'la maison' to the place someone lives."
+    },
+    {
+      "subject": "French",
+      "text": "Quel pronom complement remplace 'a mes amis' dans 'Je parle a mes amis' ?",
+      "options": [
+        "Eux",
+        "Lui",
+        "Les",
+        "Leur"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Leur' is the indirect object pronoun used to replace a plural noun introduced by 'a', here 'a mes amis'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'C'est MOI qui ai raison', le mot souligne est un pronom",
+      "options": [
+        "relatif",
+        "personnel tonique (accentue)",
+        "possessif",
+        "demonstratif"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Moi' here is a stressed (tonic) personal pronoun, used for emphasis after 'c'est'."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez l'adjectif possessif correct : '___ soeur habite a Ibadan.' (a moi, feminin singulier)",
+      "options": [
+        "Ton",
+        "Ma",
+        "Mon",
+        "Mes"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ma' is the feminine singular possessive adjective agreeing with the feminine noun 'soeur'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel pronom demonstratif complete la phrase : '___ qui travaille dur reussira.'",
+      "options": [
+        "Celui",
+        "Ce",
+        "Ceux",
+        "Celle-ci"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Celui' (masculine singular demonstrative pronoun) means 'the one', matching the generic singular subject implied here."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez la bonne preposition : 'Elle vient ___ Nigeria.'",
+      "options": [
+        "de",
+        "du",
+        "de la",
+        "au"
+      ],
+      "correctIndex": 1,
+      "explanation": "Country names that are masculine, like 'le Nigeria', require the contraction 'du' (de + le) to express origin."
+    },
+    {
+      "subject": "French",
+      "text": "Quel article convient : '___ eau que je bois est fraiche.'",
+      "options": [
+        "Les",
+        "L'",
+        "Le",
+        "La"
+      ],
+      "correctIndex": 1,
+      "explanation": "Before a vowel sound like 'eau', the definite article elides to 'l'', regardless of the noun's gender."
+    },
+    {
+      "subject": "French",
+      "text": "Identifiez la fonction du mot souligne : 'Il a repondu RAPIDEMENT a la question.'",
+      "options": [
+        "Adjectif qualificatif",
+        "Nom commun",
+        "Adverbe de maniere",
+        "Pronom indefini"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Rapidement' describes how the action of answering was done, making it an adverb of manner."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez le pronom interrogatif correct : '___ est le directeur de cette ecole ?'",
+      "options": [
+        "Ou",
+        "Que",
+        "Qui",
+        "Quoi"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Qui' is used to ask about a person as the subject of the sentence, here identifying the school's director."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'Donne-le-MOI', le pronom souligne est place",
+      "options": [
+        "avant le sujet",
+        "apres le verbe, a l'imperatif affirmatif",
+        "au milieu du verbe",
+        "avant le verbe, a l'imperatif negatif"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the affirmative imperative, object pronouns follow the verb and are attached with hyphens, as in 'donne-le-moi'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel pronom possessif remplace 'leurs livres' (masculin pluriel) ?",
+      "options": [
+        "Les leurs",
+        "La leur",
+        "Les siens",
+        "Le leur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Les leurs' is the plural possessive pronoun corresponding to 'leurs livres', agreeing in number with the plural noun replaced."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez l'adjectif indefini correct : '___ eleves ont reussi l'examen.'",
+      "options": [
+        "Chaque",
+        "Aucun",
+        "Plusieurs",
+        "Chacun"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Plusieurs' (several) is an indefinite adjective that agrees with a plural noun like 'eleves', unlike 'chaque' or 'aucun', which are singular."
+    },
+    {
+      "subject": "French",
+      "text": "Dans 'Je pense a toi', quel pronom tonique remplace correctement 'toi' si l'on parle d'un groupe (vous) ?",
+      "options": [
+        "Vous",
+        "Elles",
+        "Eux",
+        "Nous"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vous' is the tonic (stressed) form used after prepositions like 'a' when addressing more than one person or formally."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la nature du mot souligne : 'Il y a BEAUCOUP d'etudiants dans la salle.'",
+      "options": [
+        "Nom commun",
+        "Pronom demonstratif",
+        "Adjectif qualificatif",
+        "Adverbe de quantite"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Beaucoup' is an adverb of quantity, expressing a large amount, here modifying the noun phrase 'd'etudiants'."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'aller' au present avec 'je' :",
+      "options": [
+        "Je vas",
+        "J'allais",
+        "J'irai",
+        "Je vais"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Aller' is irregular; its first-person singular present form is 'je vais'."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'venir' au present avec 'ils' :",
+      "options": [
+        "Ils venent",
+        "Ils viens",
+        "Ils venons",
+        "Ils viennent"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Venir' is irregular in the plural third person, taking the form 'ils viennent' in the present tense."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez 'manger' au passe compose avec 'elle' :",
+      "options": [
+        "Elle est mangee",
+        "Elle mangeait",
+        "Elle a mange",
+        "Elle mangera"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Manger' takes the auxiliary 'avoir' in the passe compose: 'elle a mange'."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez 'partir' au passe compose avec 'nous' (masculin) :",
+      "options": [
+        "Nous partons",
+        "Nous sommes partis",
+        "Nous avons parti",
+        "Nous partions"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Partir' is a verb of movement conjugated with 'etre' in the passe compose, agreeing with the subject: 'nous sommes partis'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte de 'faire' au present avec 'vous' ?",
+      "options": [
+        "Vous font",
+        "Vous faisez",
+        "Vous fais",
+        "Vous faites"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Faire' is irregular; the second-person plural present form is 'vous faites', not the regular '-ez' ending."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'pouvoir' au present avec 'tu' :",
+      "options": [
+        "Tu pouves",
+        "Tu peux",
+        "Tu pouvez",
+        "Tu peut"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pouvoir' is irregular; its second-person singular present form is 'tu peux'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le futur simple du verbe 'etre' avec 'je' ?",
+      "options": [
+        "Je serai",
+        "Je serais",
+        "Je suis",
+        "J'etais"
+      ],
+      "correctIndex": 0,
+      "explanation": "The future stem of 'etre' is irregular ('ser-'), giving 'je serai' in the futur simple."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'vouloir' a l'imparfait avec 'nous' :",
+      "options": [
+        "Nous voulions",
+        "Nous voudrons",
+        "Nous voulons",
+        "Nous voulussions"
+      ],
+      "correctIndex": 0,
+      "explanation": "The imparfait is formed from the 'nous' present stem plus imparfait endings; 'voulons' becomes 'voulions' for 'nous'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte de l'imperatif de 'etre' pour 'tu' ?",
+      "options": [
+        "Serais",
+        "Etais",
+        "Sois",
+        "Es"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Etre' has an irregular imperative form for 'tu': 'sois' (be)."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'savoir' au present avec 'je' :",
+      "options": [
+        "Je save",
+        "Je saurai",
+        "Je sais",
+        "Je sait"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Savoir' is irregular; its first-person singular present form is 'je sais'."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez 'finir' au futur simple avec 'ils' :",
+      "options": [
+        "Ils finissent",
+        "Ils finiront",
+        "Ils finiraient",
+        "Ils finissaient"
+      ],
+      "correctIndex": 1,
+      "explanation": "The futur simple of regular -ir verbs is formed from the infinitive plus endings: 'ils finiront'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du conditionnel present de 'avoir' avec 'vous' ?",
+      "options": [
+        "Vous auriez",
+        "Vous avez",
+        "Vous aviez",
+        "Vous aurez"
+      ],
+      "correctIndex": 0,
+      "explanation": "The conditional is formed from the future stem 'aur-' plus imparfait endings, giving 'vous auriez'."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'se lever' au present avec 'elles' :",
+      "options": [
+        "Elles se leve",
+        "Elles se levons",
+        "Elles se levez",
+        "Elles se levent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reflexive verb 'se lever' conjugates like a regular -er verb with the reflexive pronoun agreeing with the subject: 'elles se levent'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le participe passe du verbe 'prendre' ?",
+      "options": [
+        "Pris",
+        "Prendé",
+        "Prendu",
+        "Pri"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Prendre' has an irregular past participle: 'pris', used in compound tenses like 'j'ai pris'."
+    },
+    {
+      "subject": "French",
+      "text": "Conjuguez 'devoir' au present avec 'nous' :",
+      "options": [
+        "Nous doivent",
+        "Nous devrons",
+        "Nous devons",
+        "Nous devez"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Devoir' is irregular; its first-person plural present form is 'nous devons'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la bonne forme du subjonctif present de 'faire' avec 'que je' ?",
+      "options": [
+        "Que je fasse",
+        "Que je faisais",
+        "Que je ferai",
+        "Que je fais"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Faire' has an irregular subjunctive stem 'fass-', giving 'que je fasse' in the present subjunctive."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez a la forme negative : 'Il mange du riz.'",
+      "options": [
+        "Il non mange de riz.",
+        "Il mange pas de riz.",
+        "Il ne mange pas du riz.",
+        "Il ne mange pas de riz."
+      ],
+      "correctIndex": 3,
+      "explanation": "In negative sentences, the partitive article 'du' becomes 'de' after 'ne...pas', giving 'il ne mange pas de riz'."
+    },
+    {
+      "subject": "French",
+      "text": "Transformez a la voix passive : 'Le professeur corrige les devoirs.'",
+      "options": [
+        "Les devoirs sont corriges par le professeur.",
+        "Le professeur est corrige par les devoirs.",
+        "Les devoirs ont corrige le professeur.",
+        "Les devoirs corrigent le professeur."
+      ],
+      "correctIndex": 0,
+      "explanation": "In the passive voice, the object 'les devoirs' becomes the subject, and the agent 'le professeur' follows 'par'."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez a la forme interrogative avec inversion : 'Tu aimes le chocolat.'",
+      "options": [
+        "Aimes-tu le chocolat ?",
+        "Tu aimes-tu le chocolat ?",
+        "Aime tu le chocolat ?",
+        "Est-ce tu aimes le chocolat ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inversion questions swap subject and verb order and add a hyphen: 'Aimes-tu le chocolat ?'"
+    },
+    {
+      "subject": "French",
+      "text": "Transformez au discours indirect : Il dit : 'Je suis fatigue.'",
+      "options": [
+        "Il dit que je suis fatigue.",
+        "Il dit il est fatigue.",
+        "Il dit qu'il est fatigue.",
+        "Il a dit je suis fatigue."
+      ],
+      "correctIndex": 2,
+      "explanation": "In reported speech, 'je' becomes 'il' and the conjunction 'que' introduces the reported clause: 'il dit qu'il est fatigue'."
+    },
+    {
+      "subject": "French",
+      "text": "Reliez les deux phrases avec un pronom relatif : 'J'ai un livre. Ce livre est interessant.'",
+      "options": [
+        "J'ai un livre qui est interessant.",
+        "J'ai un livre ou est interessant.",
+        "J'ai un livre que est interessant.",
+        "J'ai un livre dont est interessant."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Qui' replaces the subject 'ce livre' in the second clause, correctly joining the two sentences."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez au pluriel : 'Le cheval blanc court vite.'",
+      "options": [
+        "Les chevaux blancs courent vite.",
+        "Les chevals blancs courent vite.",
+        "Le chevaux blancs courent vite.",
+        "Les chevaux blanc court vite."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cheval' has an irregular plural 'chevaux', and the adjective 'blanc' and verb 'court' must also agree/adjust in the plural."
+    },
+    {
+      "subject": "French",
+      "text": "Transformez a la forme emphatique : 'Je veux ce livre.'",
+      "options": [
+        "Je veux, c'est ce livre.",
+        "C'est ce livre que je veux.",
+        "C'est moi qui veux ce livre.",
+        "Ce livre, je veux."
+      ],
+      "correctIndex": 1,
+      "explanation": "The emphatic structure 'C'est... que' highlights the object 'ce livre' by fronting it with 'c'est...que'."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez a la forme negative : 'Elle a deja fini son travail.'",
+      "options": [
+        "Elle a pas deja fini son travail.",
+        "Elle n'a jamais deja fini son travail.",
+        "Elle n'a pas encore fini son travail.",
+        "Elle a fini pas encore son travail."
+      ],
+      "correctIndex": 2,
+      "explanation": "The negation of 'deja' (already) in a compound tense is expressed by 'ne...pas encore' (not yet)."
+    },
+    {
+      "subject": "French",
+      "text": "Transformez au futur proche : 'Nous visitons le musee.'",
+      "options": [
+        "Nous visitions le musee.",
+        "Nous avons visite le musee.",
+        "Nous visiterons le musee bientot pas.",
+        "Nous allons visiter le musee."
+      ],
+      "correctIndex": 3,
+      "explanation": "The futur proche is formed with the present tense of 'aller' plus an infinitive: 'nous allons visiter'."
+    },
+    {
+      "subject": "French",
+      "text": "Reecrivez en remplaçant le nom souligne par un pronom : 'Il regarde LA TELEVISION chaque soir.'",
+      "options": [
+        "Il la regarde chaque soir.",
+        "Il les regarde chaque soir.",
+        "Il lui regarde chaque soir.",
+        "Il le regarde chaque soir."
+      ],
+      "correctIndex": 0,
+      "explanation": "'La television' is feminine singular, so it is replaced by the direct object pronoun 'la', placed before the verb."
+    },
+    {
+      "subject": "French",
+      "text": "Mettez a la forme comparative de superiorite : 'Ali est intelligent. Musa est intelligent.' (Ali > Musa)",
+      "options": [
+        "Ali est plus intelligent que Musa.",
+        "Ali est le plus intelligent que Musa.",
+        "Ali est aussi intelligent que Musa.",
+        "Ali est moins intelligent que Musa."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Plus...que' expresses superiority in comparisons, correctly showing Ali is more intelligent than Musa."
+    },
+    {
+      "subject": "French",
+      "text": "Transformez a l'imperatif : 'Tu dois fermer la porte.'",
+      "options": [
+        "Fermer la porte tu dois.",
+        "Fermes la porte.",
+        "Ferme la porte.",
+        "Tu fermes la porte."
+      ],
+      "correctIndex": 2,
+      "explanation": "The imperative of a regular -er verb for 'tu' drops the final 's' from the present tense form: 'ferme la porte'."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez la forme correcte : 'Une ___ voiture.' (nouveau)",
+      "options": [
+        "nouveau",
+        "nouvelles",
+        "nouveaux",
+        "nouvelle"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Nouveau' becomes 'nouvelle' before a feminine singular noun like 'voiture'."
+    },
+    {
+      "subject": "French",
+      "text": "Accordez l'adjectif : 'Des maisons ___.' (blanc)",
+      "options": [
+        "blanc",
+        "blancs",
+        "blanche",
+        "blanches"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Blanc' agrees with the feminine plural noun 'maisons', becoming 'blanches'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le feminin de 'acteur' ?",
+      "options": [
+        "Actrise",
+        "Acteure",
+        "Actrice",
+        "Acteuse"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Acteur' has an irregular feminine form 'actrice', following the -teur/-trice pattern."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le pluriel de 'un journal' ?",
+      "options": [
+        "Des journale",
+        "Des journals",
+        "Des journeaux",
+        "Des journaux"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nouns ending in '-al' typically form their plural in '-aux': 'un journal' becomes 'des journaux'."
+    },
+    {
+      "subject": "French",
+      "text": "Accordez le participe passe : 'Les lettres qu'elle a ___ sont sur la table.' (ecrire)",
+      "options": [
+        "ecrite",
+        "ecrites",
+        "ecrit",
+        "ecris"
+      ],
+      "correctIndex": 1,
+      "explanation": "With avoir, the past participle agrees with a preceding direct object; 'que' refers to 'les lettres' (feminine plural), giving 'ecrites'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le feminin de l'adjectif 'beau' ?",
+      "options": [
+        "Beaus",
+        "Beau",
+        "Beaux",
+        "Belle"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Beau' has the irregular feminine form 'belle', used before a feminine noun."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez la forme correcte : 'Ces ___ enfants sont polis.' (petit)",
+      "options": [
+        "petit",
+        "petits",
+        "petites",
+        "petite"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Petit' agrees with the masculine plural noun 'enfants', becoming 'petits'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le pluriel de 'un oeil' ?",
+      "options": [
+        "Des yeuls",
+        "Des oeils",
+        "Des yeux",
+        "Des oeuils"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Oeil' has a completely irregular plural form: 'des yeux'."
+    },
+    {
+      "subject": "French",
+      "text": "Accordez : 'Elle est ___ de son succes.' (fier)",
+      "options": [
+        "fieres",
+        "fier",
+        "fiere",
+        "fiers"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Fier' becomes 'fiere' to agree with the feminine subject 'elle'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le feminin de 'directeur' ?",
+      "options": [
+        "Directrice",
+        "Directeure",
+        "Directeuse",
+        "Directrise"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Directeur' follows the -teur/-trice pattern, giving the feminine form 'directrice'."
+    },
+    {
+      "subject": "French",
+      "text": "Choisissez la forme correcte : 'Les fleurs sont ___.' (frais)",
+      "options": [
+        "fraîches et frais",
+        "fraiche",
+        "fraiches",
+        "frais"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Frais' has the irregular feminine form 'fraiche', which becomes plural 'fraiches' to agree with 'fleurs'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le pluriel de 'un travail' ?",
+      "options": [
+        "Des travaus",
+        "Des travaux",
+        "Des travails",
+        "Des traval"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Travail' has an irregular plural: 'des travaux', unlike the regular '-s' pattern."
+    },
+    {
+      "subject": "French",
+      "text": "Accordez l'adjectif possessif : '___ amies sont gentilles.' (mon/ma/mes, feminin pluriel)",
+      "options": [
+        "Mon",
+        "Mes",
+        "Ma",
+        "Sa"
+      ],
+      "correctIndex": 1,
+      "explanation": "The possessive adjective agrees in number with the plural noun 'amies', giving 'mes amies' regardless of gender in the plural."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le feminin de l'adjectif 'sportif' ?",
+      "options": [
+        "Sportive",
+        "Sportife",
+        "Sportifs",
+        "Sportif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adjectives ending in '-if' generally change to '-ive' in the feminine: 'sportif' becomes 'sportive'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel mot contient le son nasal [ɑ̃] comme dans 'dans' ?",
+      "options": [
+        "Fini",
+        "Enfant",
+        "Petit",
+        "Livre"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Enfant' contains the nasal vowel [ɑ̃], produced through the letters 'en' and 'an', similar to the sound in 'dans'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans quel mot la lettre finale 's' est-elle prononcee ?",
+      "options": [
+        "Chats",
+        "Fils",
+        "Livres",
+        "Amis"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 'fils' (son), the final 's' is exceptionally pronounced, unlike most French words where a final 's' is silent."
+    },
+    {
+      "subject": "French",
+      "text": "Quel mot contient un son [u] comme dans 'nous' ?",
+      "options": [
+        "Vous",
+        "Vin",
+        "Vu",
+        "Vent"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vous' contains the vowel sound [u], spelled 'ou', matching the sound heard in 'nous'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle lettre est generalement muette a la fin du mot 'petit' ?",
+      "options": [
+        "I",
+        "T",
+        "E",
+        "P"
+      ],
+      "correctIndex": 1,
+      "explanation": "The final 't' in 'petit' is silent in standard pronunciation, unless followed by a vowel in liaison (e.g., 'petit ami')."
+    },
+    {
+      "subject": "French",
+      "text": "Quel mot illustre la liaison obligatoire ?",
+      "options": [
+        "Les / chats",
+        "Un / livre",
+        "Les_amis",
+        "Deux / femmes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liaison is obligatory between 'les' and a following vowel-initial word, pronounced 'lez‿amis'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel son la combinaison de lettres 'ch' represente-t-elle generalement en francais ?",
+      "options": [
+        "[ʃ] comme dans 'chat'",
+        "[g] comme dans 'gare'",
+        "[k] comme dans 'kilo'",
+        "[s] comme dans 'sac'"
+      ],
+      "correctIndex": 0,
+      "explanation": "In standard French, 'ch' is typically pronounced [ʃ], the 'sh' sound, as in 'chat' (cat)."
+    },
+    {
+      "subject": "French",
+      "text": "Quel mot contient le son nasal [ɛ̃] comme dans 'vin' ?",
+      "options": [
+        "Paix",
+        "Pomme",
+        "Pain",
+        "Poule"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Pain' contains the nasal vowel [ɛ̃], spelled 'ain', producing a sound similar to that in 'vin'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans le mot 'hotel', la lettre 'h' est",
+      "options": [
+        "prononcee comme en anglais",
+        "aspiree fortement",
+        "toujours accentuee",
+        "muette (h muet)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Most French words beginning with 'h' have a silent 'h muet', allowing elision, as in 'l'hotel'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel mot rime phonetiquement avec 'beau' ?",
+      "options": [
+        "Chateau",
+        "Bonne",
+        "Belle",
+        "Boule"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Beau' and 'chateau' both end with the vowel sound [o], making them rhyme phonetically."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la particularite phonetique de l'accent circonflexe dans 'fenetre' ?",
+      "options": [
+        "Il transforme la voyelle en consonne",
+        "Il rend la lettre muette",
+        "Il indique toujours une nasalisation",
+        "Il peut indiquer une voyelle historiquement plus longue mais souvent prononcee comme un 'e' ouvert"
+      ],
+      "correctIndex": 3,
+      "explanation": "The circumflex accent in 'fenetre' often marks a historically lost 's' and is pronounced as an open 'e' sound in modern French."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la capitale de la France ?",
+      "options": [
+        "Marseille",
+        "Paris",
+        "Nice",
+        "Lyon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paris is the capital and largest city of France, its political and cultural center."
+    },
+    {
+      "subject": "French",
+      "text": "Quel fleuve traverse la ville de Paris ?",
+      "options": [
+        "La Loire",
+        "La Seine",
+        "La Garonne",
+        "Le Rhone"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Seine river flows through the heart of Paris, past landmarks such as the Eiffel Tower and Notre-Dame."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la monnaie utilisee en France ?",
+      "options": [
+        "Le franc",
+        "La livre sterling",
+        "L'euro",
+        "Le dollar"
+      ],
+      "correctIndex": 2,
+      "explanation": "France, as a member of the eurozone, uses the euro as its official currency."
+    },
+    {
+      "subject": "French",
+      "text": "Quel pays d'Afrique de l'Ouest a le francais comme langue officielle et partage une frontiere avec le Nigeria ?",
+      "options": [
+        "La Sierra Leone",
+        "Le Liberia",
+        "Le Benin",
+        "Le Ghana"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benin, a French-speaking country, shares a border with Nigeria and uses French as its official language."
+    },
+    {
+      "subject": "French",
+      "text": "Comment appelle-t-on l'ensemble des pays ou le francais est parle officiellement ou couramment ?",
+      "options": [
+        "L'anglophonie",
+        "La latinophonie",
+        "La francophonie",
+        "L'europhonie"
+      ],
+      "correctIndex": 2,
+      "explanation": "'La francophonie' refers to the community of French-speaking countries and regions across the world."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le monument le plus celebre de Paris, construit pour l'Exposition universelle de 1889 ?",
+      "options": [
+        "L'Arc de Triomphe",
+        "Notre-Dame de Paris",
+        "La tour Eiffel",
+        "Le Louvre"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Eiffel Tower was built for the 1889 World's Fair and remains Paris's most iconic monument."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle fete nationale francaise est celebree le 14 juillet ?",
+      "options": [
+        "Noel",
+        "La fete du travail",
+        "La fete de la musique",
+        "La fete nationale (prise de la Bastille)"
+      ],
+      "correctIndex": 3,
+      "explanation": "14 July commemorates the storming of the Bastille in 1789 and is celebrated as France's national day."
+    },
+    {
+      "subject": "French",
+      "text": "Quel musee parisien abrite le tableau de la Joconde ?",
+      "options": [
+        "Le Louvre",
+        "Le musee d'Orsay",
+        "Le musee Rodin",
+        "Le Centre Pompidou"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Mona Lisa (la Joconde) is housed in the Louvre Museum in Paris."
+    },
+    {
+      "subject": "French",
+      "text": "Quel pays d'Afrique du Nord, ancienne colonie francaise, est connu pour sa proximite avec l'Europe et son usage du francais dans l'administration ?",
+      "options": [
+        "La Somalie",
+        "Le Maroc",
+        "L'Egypte",
+        "Le Kenya"
+      ],
+      "correctIndex": 1,
+      "explanation": "Morocco, a former French protectorate, retains French as an important language in administration, business, and education."
+    },
+    {
+      "subject": "French",
+      "text": "Quel plat est traditionnellement associe a la gastronomie francaise ?",
+      "options": [
+        "Le coq au vin",
+        "Le sushi",
+        "Le couscous marocain",
+        "Le jollof rice"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Coq au vin' (chicken cooked in wine) is a classic French dish, a staple of traditional French cuisine."
+    },
+    {
+      "subject": "French",
+      "text": "Quel ecrivain francais est l'auteur des 'Miserables' ?",
+      "options": [
+        "Voltaire",
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Victor Hugo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Victor Hugo, a major 19th-century French writer, is the author of the classic novel 'Les Miserables'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle organisation regroupe plusieurs pays francophones pour promouvoir la langue et la culture francaises dans le monde ?",
+      "options": [
+        "L'ONU",
+        "L'Union africaine",
+        "La CEDEAO",
+        "L'Organisation internationale de la Francophonie (OIF)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The OIF is the international body that unites French-speaking countries to promote the French language and shared cultural values."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle ville francaise est reputee pour ses vignobles et sa production de vin de renommee mondiale ?",
+      "options": [
+        "Rennes",
+        "Bordeaux",
+        "Lille",
+        "Strasbourg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bordeaux is world-famous for its extensive vineyards and high-quality wine production."
+    },
+    {
+      "subject": "French",
+      "text": "Quel pays francophone d'Afrique de l'Ouest est le voisin direct du Nigeria a l'ouest, connu pour son ancienne capitale Porto-Novo ?",
+      "options": [
+        "Le Benin",
+        "Le Togo",
+        "Le Cameroun",
+        "Le Niger"
+      ],
+      "correctIndex": 0,
+      "explanation": "Benin, whose official capital is Porto-Novo, lies directly to the west of Nigeria and is Francophone."
+    },
+    {
+      "subject": "French",
+      "text": "Comment dit-on 'bonjour' de maniere informelle en francais familier, souvent utilisee entre amis ?",
+      "options": [
+        "Pardon",
+        "Au revoir",
+        "Adieu",
+        "Salut"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Salut' is an informal greeting used casually among friends, unlike the more formal 'bonjour'."
+    }
+  ]
+}

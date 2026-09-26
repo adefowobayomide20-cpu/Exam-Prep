@@ -1,0 +1,2478 @@
+{
+  "subject": "Computer Studies",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Computer Studies",
+      "text": "The Abacus, one of the earliest known calculating devices, primarily works by",
+      "options": [
+        "using beads on rods to represent and manipulate numbers",
+        "storing electronic data on a magnetic disk",
+        "processing instructions using a central processing unit",
+        "connecting to other devices via a network"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Abacus is an ancient manual calculating device that uses beads sliding along rods or in grooves to represent numbers and perform arithmetic calculations."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Napier's Bones, an early calculating device, was primarily designed to assist with",
+      "options": [
+        "storing digital photographs",
+        "processing text documents",
+        "connecting to the internet",
+        "multiplication and division calculations"
+      ],
+      "correctIndex": 3,
+      "explanation": "Napier's Bones, invented by John Napier, consisted of numbered rods used to simplify and speed up multiplication and division calculations."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Pascaline, an early mechanical calculating device, was invented by",
+      "options": [
+        "John Napier",
+        "Ada Lovelace",
+        "Blaise Pascal",
+        "Charles Babbage"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Pascaline was a mechanical calculator invented by the French mathematician Blaise Pascal, capable of performing addition and subtraction."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Analytical Engine, an important precursor to the modern computer, was designed by",
+      "options": [
+        "Bill Gates",
+        "Blaise Pascal",
+        "Charles Babbage",
+        "John Napier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charles Babbage designed the Analytical Engine, a mechanical general-purpose computing device considered a significant conceptual precursor to modern computers, though it was never fully built in his lifetime."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "First generation computers, an early era of computing technology, primarily used which technology for their circuitry?",
+      "options": [
+        "Integrated circuits",
+        "Microprocessors",
+        "Transistors",
+        "Vacuum tubes"
+      ],
+      "correctIndex": 3,
+      "explanation": "First generation computers (roughly the 1940s-1950s) relied on vacuum tubes for their electronic circuitry, making them large, power-hungry, and prone to frequent failure."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Second generation computers marked a significant advancement by replacing vacuum tubes with",
+      "options": [
+        "Microprocessors",
+        "Artificial intelligence chips",
+        "Integrated circuits",
+        "Transistors"
+      ],
+      "correctIndex": 3,
+      "explanation": "Second generation computers (roughly the late 1950s-1960s) used transistors instead of vacuum tubes, resulting in smaller, faster, more reliable, and more energy-efficient machines."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Third generation computers are particularly characterised by the introduction of",
+      "options": [
+        "Transistors as the primary new innovation",
+        "Integrated circuits",
+        "Vacuum tubes",
+        "Artificial intelligence"
+      ],
+      "correctIndex": 1,
+      "explanation": "Third generation computers (roughly the 1960s-1970s) introduced integrated circuits, which combined multiple transistors onto a single chip, further improving speed, size, and reliability."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Fourth generation computers are particularly characterised by the introduction of",
+      "options": [
+        "Vacuum tubes",
+        "Transistors as the primary new innovation",
+        "Integrated circuits as the primary new innovation",
+        "Microprocessors"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fourth generation computers (from the 1970s onward) introduced the microprocessor, which integrated an entire CPU onto a single chip, enabling the development of personal computers."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Fifth generation computers are generally associated with advancements in",
+      "options": [
+        "artificial intelligence and parallel processing",
+        "the initial invention of integrated circuits",
+        "the initial invention of the vacuum tube",
+        "the initial invention of the transistor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fifth generation computing is generally associated with the development of artificial intelligence, natural language processing, and advanced parallel processing capabilities."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A mainframe computer is best described as a",
+      "options": [
+        "a specialised device used exclusively for gaming",
+        "small, portable computer designed for individual personal use",
+        "large, powerful computer capable of supporting many users and processing vast amounts of data simultaneously",
+        "the fastest and most powerful category of computer, used for complex scientific calculations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mainframe computers are large-scale systems designed to support numerous simultaneous users and process massive volumes of data, commonly used by large organisations such as banks."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A supercomputer is best described as",
+      "options": [
+        "an outdated computer technology no longer in use",
+        "a small, portable computer designed for individual use",
+        "the fastest and most powerful category of computer, used for highly complex computational tasks",
+        "a computer designed exclusively for basic word processing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Supercomputers represent the pinnacle of computing power and speed, used for extremely demanding computational tasks such as weather forecasting, scientific simulations, and complex modelling."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A microcomputer (personal computer), as a category of computer, is best described as",
+      "options": [
+        "a large computer supporting hundreds of simultaneous users",
+        "a computer that predates the mainframe computer",
+        "a small computer designed for individual use, such as a desktop or laptop",
+        "the fastest category of computer used for scientific research"
+      ],
+      "correctIndex": 2,
+      "explanation": "Microcomputers, commonly known as personal computers, are relatively small, affordable computers designed for use by a single individual, such as desktops and laptops."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A minicomputer, as a category of computer, is generally described as",
+      "options": [
+        "a computer used exclusively for supercomputing tasks",
+        "the smallest possible computing device",
+        "a computer that only existed before the first generation of computers",
+        "a mid-sized computer, more powerful than a microcomputer but smaller and less powerful than a mainframe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Minicomputers occupy a middle ground in computing power and size, being more capable than personal microcomputers but smaller and less powerful than large mainframe systems."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Central Processing Unit (CPU) is often referred to as the",
+      "options": [
+        "output device used to display results",
+        "input device used to enter data",
+        "primary storage device of the computer",
+        "'brain' of the computer, responsible for executing instructions"
+      ],
+      "correctIndex": 3,
+      "explanation": "The CPU is the core component responsible for interpreting and executing instructions, coordinating nearly all computer operations, earning it the common nickname 'the brain of the computer'."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Arithmetic Logic Unit (ALU), a component of the CPU, is primarily responsible for",
+      "options": [
+        "controlling input and output devices",
+        "managing network connections",
+        "storing data permanently",
+        "performing arithmetic calculations and logical operations"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ALU is the part of the CPU that carries out arithmetic operations (addition, subtraction, etc.) and logical operations (comparisons, such as AND/OR/NOT)."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Control Unit (CU), a component of the CPU, is primarily responsible for",
+      "options": [
+        "storing data on a hard disk",
+        "connecting to the internet",
+        "performing arithmetic calculations",
+        "directing and coordinating the operations of the computer's other components"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Control Unit manages and coordinates the activities of the CPU and other computer components, directing the flow of data and instructions through the system."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Registers, found within the CPU, are best described as",
+      "options": [
+        "external devices used for printing documents",
+        "large permanent storage devices for saving files long-term",
+        "small, extremely fast storage locations used to hold data temporarily during processing",
+        "devices used to connect to a computer network"
+      ],
+      "correctIndex": 2,
+      "explanation": "Registers are very small but extremely fast storage locations built directly into the CPU, used to hold data and instructions temporarily during immediate processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Random Access Memory (RAM), a type of primary memory, is characterised by being",
+      "options": [
+        "volatile, meaning its contents are lost when the computer is powered off",
+        "used exclusively for permanent long-term file storage",
+        "non-volatile, retaining data permanently even without power",
+        "a type of secondary storage device"
+      ],
+      "correctIndex": 0,
+      "explanation": "RAM is volatile memory, meaning any data stored in it is lost once the computer loses power, unlike non-volatile storage such as a hard disk."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Read-Only Memory (ROM), a type of primary memory, is characterised by being",
+      "options": [
+        "non-volatile, retaining its data even when the computer is powered off",
+        "a type of secondary storage exclusively",
+        "writable and easily modified by regular users during normal use",
+        "volatile, losing its data when the computer is powered off"
+      ],
+      "correctIndex": 0,
+      "explanation": "ROM is non-volatile memory that retains its stored data (typically essential startup instructions) even when the computer is powered off, unlike RAM."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Hard Disk Drive (HDD), a common secondary storage device, stores data using",
+      "options": [
+        "magnetic storage on spinning disks (platters)",
+        "flash memory chips with no moving parts",
+        "optical laser technology exclusively",
+        "volatile memory chips"
+      ],
+      "correctIndex": 0,
+      "explanation": "HDDs store data magnetically on rotating platters, using a mechanical read/write head to access the stored information, distinguishing them from solid-state storage technologies."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Solid State Drive (SSD), a modern secondary storage device, differs from a traditional HDD mainly by",
+      "options": [
+        "being significantly slower than a traditional HDD",
+        "storing data only temporarily, losing it when powered off",
+        "using flash memory with no moving mechanical parts, generally making it faster and more durable",
+        "using magnetic spinning disks exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "SSDs use flash memory chips rather than mechanical spinning disks, generally offering faster data access speeds, improved durability, and quieter operation compared to traditional HDDs."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Optical discs, such as CDs and DVDs, store data using",
+      "options": [
+        "magnetic storage on spinning platters",
+        "volatile electronic memory",
+        "laser technology to read and write data on a reflective disc surface",
+        "flash memory chips"
+      ],
+      "correctIndex": 2,
+      "explanation": "Optical storage media use laser light to read and, in writable formats, burn data onto the reflective surface of a disc."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A flash drive (USB drive), a portable secondary storage device, stores data using",
+      "options": [
+        "volatile RAM chips only",
+        "optical laser technology",
+        "solid-state flash memory technology",
+        "magnetic spinning disks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flash drives use solid-state flash memory chips to store data persistently, offering a compact, portable, and durable storage solution with no moving parts."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The keyboard, mouse, and scanner are all examples of",
+      "options": [
+        "output devices, used to display or present processed data",
+        "storage devices, used to save data permanently",
+        "input devices, used to enter data or commands into a computer",
+        "processing devices, used to execute instructions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keyboards, mice, and scanners are classified as input devices because they allow users to enter data, commands, or images into the computer system."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A monitor, printer, and plotter are all examples of",
+      "options": [
+        "input devices, used to enter data into a computer",
+        "storage devices, used to save data",
+        "output devices, used to present or display processed data to the user",
+        "processing devices, used to execute instructions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Monitors, printers, and plotters are classified as output devices, since they present or produce processed information for the user to view or use, such as on-screen display or printed documents."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A CRT (Cathode Ray Tube) monitor differs from an LCD or LED monitor mainly by being",
+      "options": [
+        "identical in technology to LCD monitors",
+        "a type of printer rather than a display device",
+        "larger, heavier, and using older vacuum-tube-based display technology",
+        "smaller, thinner, and using modern flat-panel display technology"
+      ],
+      "correctIndex": 2,
+      "explanation": "CRT monitors use older, bulkier vacuum-tube display technology, in contrast to the slim, flat-panel LCD and LED display technologies used in modern monitors."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An impact printer produces printed output by",
+      "options": [
+        "physically striking an inked ribbon against paper",
+        "spraying tiny droplets of liquid ink onto paper",
+        "fusing toner powder onto paper using heat",
+        "using laser technology with no physical contact with the paper"
+      ],
+      "correctIndex": 0,
+      "explanation": "Impact printers, such as dot-matrix printers, create printed characters by physically striking pins or hammers against an inked ribbon, pressing the ink onto the paper."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A non-impact printer, such as an inkjet or laser printer, produces printed output",
+      "options": [
+        "using only magnetic storage technology",
+        "using only mechanical typewriter-style keys",
+        "by physically striking an inked ribbon against the paper",
+        "without any physical striking mechanism, using methods such as ink spraying or laser/toner fusing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Non-impact printers, including inkjet and laser printers, produce output without any physical striking mechanism, instead using techniques such as spraying liquid ink or fusing toner with heat."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A plotter, a specialised output device, is primarily used for",
+      "options": [
+        "producing high-quality technical drawings, blueprints, and large-format graphics",
+        "capturing scanned images",
+        "connecting to a computer network",
+        "typing text documents"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plotters are specialised output devices designed to produce precise vector-based technical drawings, architectural blueprints, and large-format graphics, often using pens or ink."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "System software is best described as software that",
+      "options": [
+        "cannot be run on any modern computer",
+        "is designed exclusively for end-user tasks like word processing",
+        "manages and controls computer hardware, providing a platform for application software to run",
+        "is used exclusively for playing video games"
+      ],
+      "correctIndex": 2,
+      "explanation": "System software, most notably the operating system, manages the computer's hardware resources and provides the underlying platform on which application software operates."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An operating system's memory management function primarily involves",
+      "options": [
+        "creating spreadsheets for data analysis",
+        "printing documents to a connected printer",
+        "allocating and managing the computer's memory resources among running programs",
+        "designing graphics for presentations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Memory management is a core operating system function, responsible for efficiently allocating and tracking the use of the computer's memory (RAM) among all currently running programs."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An operating system's file management function primarily involves",
+      "options": [
+        "performing complex mathematical calculations for the user",
+        "connecting the computer to a network",
+        "organising, storing, retrieving, and naming files and folders on storage devices",
+        "creating video game graphics"
+      ],
+      "correctIndex": 2,
+      "explanation": "File management is a fundamental operating system function that organises how files and folders are created, stored, named, retrieved, and deleted on storage devices."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An operating system's device control function primarily involves",
+      "options": [
+        "designing presentation slides",
+        "performing spreadsheet calculations",
+        "managing communication between the computer and connected hardware devices, such as printers and keyboards",
+        "creating word processing documents"
+      ],
+      "correctIndex": 2,
+      "explanation": "Device control (or device management) is an operating system function that coordinates communication between the computer's hardware components and the software requesting their services."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following is an example of a widely used desktop/laptop operating system?",
+      "options": [
+        "Microsoft Excel",
+        "Windows",
+        "PowerPoint",
+        "Microsoft Word"
+      ],
+      "correctIndex": 1,
+      "explanation": "Windows is a widely used operating system for desktop and laptop computers, distinguishing it from application software like Word, Excel, and PowerPoint, which run on top of an operating system."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "macOS, a widely used operating system, is developed by",
+      "options": [
+        "Apple",
+        "Google",
+        "IBM",
+        "Microsoft"
+      ],
+      "correctIndex": 0,
+      "explanation": "macOS is the operating system developed by Apple specifically for use on its Macintosh computers."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Linux, a widely used operating system, is particularly notable for being",
+      "options": [
+        "developed and owned exclusively by Microsoft",
+        "unable to run on any personal computer",
+        "exclusively used on mobile smartphones",
+        "open-source, meaning its source code is freely available for modification and distribution"
+      ],
+      "correctIndex": 3,
+      "explanation": "Linux is a prominent example of open-source software, with its underlying source code freely available for anyone to view, modify, and distribute, unlike many proprietary operating systems."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Android, a widely used operating system, is primarily designed for",
+      "options": [
+        "supercomputers exclusively",
+        "large mainframe computers exclusively",
+        "mobile devices such as smartphones and tablets",
+        "desktop computers exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Android is a mobile operating system, developed primarily by Google, designed specifically for use on smartphones, tablets, and other mobile devices."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best describes the relationship between an operating system and application software?",
+      "options": [
+        "Application software must be installed before any operating system",
+        "Application software controls the operating system directly with no dependency",
+        "The operating system manages hardware resources and provides a platform on which application software runs",
+        "The operating system and application software are entirely unrelated"
+      ],
+      "correctIndex": 2,
+      "explanation": "Application software depends on the underlying operating system to manage hardware resources and provide the necessary platform and services for it to function."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following operating system functions is primarily responsible for ensuring multiple programs can run without interfering with each other's use of the processor?",
+      "options": [
+        "Device control exclusively",
+        "File management",
+        "Process management (process scheduling)",
+        "Printing management exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Process management (including process scheduling) is the operating system function responsible for coordinating how the CPU's processing time is shared among multiple running programs."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Application software is best described as software designed to",
+      "options": [
+        "boot up the computer when it is first switched on",
+        "help users perform specific tasks, such as word processing or creating spreadsheets",
+        "function only as an operating system",
+        "manage and control the computer's hardware resources directly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Application software is designed to help end-users accomplish specific practical tasks, distinguishing it from system software, which manages the underlying hardware."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A word processor, a common type of application software, is primarily used for",
+      "options": [
+        "creating slideshow presentations",
+        "creating, editing, and formatting text documents",
+        "performing complex numerical calculations in a grid layout",
+        "managing large collections of structured data"
+      ],
+      "correctIndex": 1,
+      "explanation": "Word processors, such as Microsoft Word, are specifically designed for creating, editing, and formatting text-based documents."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A spreadsheet program, a common type of application software, is primarily used for",
+      "options": [
+        "creating and editing text documents",
+        "organising data into rows and columns and performing numerical calculations",
+        "designing slideshow presentations",
+        "managing complex, structured databases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Spreadsheet programs, such as Microsoft Excel, organise data into a grid of rows and columns, enabling numerical calculations, data analysis, and the creation of charts."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Database Management System (DBMS), a common type of application software, is primarily used for",
+      "options": [
+        "performing simple arithmetic calculations only",
+        "designing presentation slides",
+        "storing, organising, and managing large collections of structured data",
+        "creating text documents"
+      ],
+      "correctIndex": 2,
+      "explanation": "A DBMS is specifically designed to efficiently store, organise, retrieve, and manage large volumes of structured data, such as customer records or inventory information."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Presentation software, a common type of application software, is primarily used for",
+      "options": [
+        "editing digital photographs exclusively",
+        "performing complex spreadsheet calculations",
+        "creating slideshows to visually communicate information to an audience",
+        "managing structured databases"
+      ],
+      "correctIndex": 2,
+      "explanation": "Presentation software, such as Microsoft PowerPoint, is designed to help users create slide-based presentations to visually communicate information to an audience."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following is an example of a widely used spreadsheet application?",
+      "options": [
+        "Microsoft Word",
+        "Adobe Photoshop",
+        "Microsoft PowerPoint",
+        "Microsoft Excel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Microsoft Excel is one of the most widely used spreadsheet applications, distinguishing it from word processors (Word), presentation software (PowerPoint), and image editing software (Photoshop)."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best describes the primary purpose of application software, as distinct from system software?",
+      "options": [
+        "Controlling network hardware such as routers exclusively",
+        "Booting the computer's operating system",
+        "Enabling users to accomplish specific practical tasks",
+        "Directly managing the computer's internal hardware components"
+      ],
+      "correctIndex": 2,
+      "explanation": "The defining purpose of application software is to help users accomplish specific, practical tasks (such as writing documents or managing data), unlike system software, which manages underlying hardware and provides the operating platform."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following would be classified as application software rather than system software?",
+      "options": [
+        "A word processing program",
+        "The Android operating system",
+        "The Windows operating system",
+        "The Linux operating system"
+      ],
+      "correctIndex": 0,
+      "explanation": "A word processing program is application software designed for a specific user task, distinguishing it from operating systems like Windows, Linux, and Android, which are system software."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Antivirus software, a type of utility software, is primarily designed to",
+      "options": [
+        "detect, prevent, and remove malicious software such as viruses and malware",
+        "manage large databases",
+        "design presentation slides",
+        "create text documents"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antivirus software specifically scans for, detects, and removes malicious software (malware) such as computer viruses, protecting the system from harmful threats."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A disk defragmenter, a type of utility software, is primarily used to",
+      "options": [
+        "design presentation slides",
+        "reorganise fragmented data on a storage disk to improve access speed and efficiency",
+        "manage a structured database",
+        "create and edit text documents"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disk defragmentation utilities reorganise fragmented file data scattered across a storage disk into more contiguous locations, generally improving file access speed and overall system performance."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A file compression utility is primarily used to",
+      "options": [
+        "manage a database of customer records",
+        "reduce the size of files, making them easier to store or transmit",
+        "increase the resolution of digital images",
+        "create presentation slideshows"
+      ],
+      "correctIndex": 1,
+      "explanation": "File compression utilities reduce the storage size of files by encoding data more efficiently, making files easier and faster to store, transfer, or share."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Utility software, as a category, is generally distinguished from application software by its focus on",
+      "options": [
+        "managing only network hardware devices",
+        "performing specific maintenance or support tasks that help keep the computer system running efficiently",
+        "directly replacing the operating system entirely",
+        "helping users perform general creative or productivity tasks like writing or designing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Utility software focuses on specific system maintenance, optimisation, or support tasks (like antivirus protection or disk defragmentation), rather than the broader productivity or creative tasks handled by typical application software."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following is an example of utility software?",
+      "options": [
+        "A word processor",
+        "An antivirus program",
+        "A presentation program",
+        "A spreadsheet program"
+      ],
+      "correctIndex": 1,
+      "explanation": "An antivirus program is a classic example of utility software, focused on system protection and maintenance, unlike word processors, spreadsheets, and presentation programs, which are application software."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "File compression utilities commonly produce compressed files using formats such as",
+      "options": [
+        "JPEG or PNG exclusively",
+        "DOCX or XLSX exclusively",
+        "EXE exclusively",
+        "ZIP or RAR"
+      ],
+      "correctIndex": 3,
+      "explanation": "Common file compression formats include ZIP and RAR, which package and compress one or more files into a smaller, more manageable archive."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Data, in the context of computing, is best defined as",
+      "options": [
+        "raw, unprocessed facts and figures with no inherent meaning on their own",
+        "a type of network topology",
+        "processed facts that have been organised into a meaningful, useful form",
+        "a type of computer hardware component"
+      ],
+      "correctIndex": 0,
+      "explanation": "Data refers to raw, unorganised facts and figures that have not yet been processed or given context, distinguishing it from information."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Information, in the context of computing, is best defined as",
+      "options": [
+        "a type of computer hardware component",
+        "a type of software utility",
+        "processed data that has been organised into a meaningful and useful form",
+        "raw, unprocessed facts with no context"
+      ],
+      "correctIndex": 2,
+      "explanation": "Information is the result of processing raw data, organising and structuring it so that it becomes meaningful, contextualised, and useful for decision-making."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following is a recognised property of good, useful information?",
+      "options": [
+        "Being as vague and general as possible",
+        "Being outdated and irrelevant to the current situation",
+        "Being deliberately incomplete",
+        "Accuracy, relevance, and timeliness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Good, useful information is generally characterised by properties such as accuracy, relevance to the intended purpose, and timeliness (being available when needed)."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The data processing cycle generally consists of which sequence of stages?",
+      "options": [
+        "Input, processing, output, and storage",
+        "Output, then input, then storage, with no processing",
+        "Only storage, with no input or output",
+        "Only input and output, with no processing stage"
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard data processing cycle involves inputting raw data, processing it to transform it into useful information, outputting the results, and storing the data/information for future use."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "During the 'input' stage of the data processing cycle, what generally occurs?",
+      "options": [
+        "Data is permanently deleted from the system",
+        "Processed information is displayed to the user",
+        "Raw data is collected and entered into the computer system",
+        "Data is transmitted over a computer network exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "The input stage involves collecting and entering raw data into the computer system, the first step before any processing can occur."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "During the 'processing' stage of the data processing cycle, what generally occurs?",
+      "options": [
+        "Data is physically printed onto paper",
+        "Data is transmitted over the internet exclusively",
+        "Raw input data is transformed and organised into meaningful information",
+        "Data is simply deleted with no further action"
+      ],
+      "correctIndex": 2,
+      "explanation": "The processing stage is where raw input data is manipulated, calculated, sorted, or otherwise transformed into organised, meaningful information."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "During the 'output' stage of the data processing cycle, what generally occurs?",
+      "options": [
+        "Processed information is presented or displayed to the user",
+        "Data is permanently deleted",
+        "Data is transformed through calculation",
+        "Raw data is initially collected"
+      ],
+      "correctIndex": 0,
+      "explanation": "The output stage involves presenting the results of processing (the resulting information) to the user, often via a screen, printed document, or other output device."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best illustrates the difference between data and information?",
+      "options": [
+        "Data and information are always exactly identical concepts",
+        "A list of individual sales figures is data, while a summarised sales report analysing trends is information",
+        "Data can never be transformed into information",
+        "Information always exists before data is collected"
+      ],
+      "correctIndex": 1,
+      "explanation": "This example illustrates the key distinction: raw individual figures (data) become meaningful and useful information once processed, organised, and analysed into a report."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In database terminology, a field refers to",
+      "options": [
+        "a programming command used to query data",
+        "a complete collection of related records",
+        "a single category of data within a record, such as a person's name or age",
+        "an entire database containing multiple tables"
+      ],
+      "correctIndex": 2,
+      "explanation": "A field represents a single, specific category or attribute of data within a record, such as 'Name' or 'Age' in a student database."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In database terminology, a record refers to",
+      "options": [
+        "an entire collection of unrelated databases",
+        "a complete set of related fields representing a single entity, such as one student's full details",
+        "a single individual piece of data, such as just a name",
+        "a type of computer hardware"
+      ],
+      "correctIndex": 1,
+      "explanation": "A record is a complete collection of related fields that together represent all the relevant data for a single entity, such as all the details for one specific student."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In database terminology, a file (or table) refers to",
+      "options": [
+        "a single field within a record",
+        "a collection of related records organised together",
+        "a type of computer virus",
+        "a single piece of computer hardware"
+      ],
+      "correctIndex": 1,
+      "explanation": "A file or table in a database consists of a collection of related records grouped together, such as a table containing records for all students in a school."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A primary key, an important database concept, is used to",
+      "options": [
+        "compress files to save storage space",
+        "store large amounts of unrelated data",
+        "connect a computer to the internet",
+        "uniquely identify each record within a database table"
+      ],
+      "correctIndex": 3,
+      "explanation": "A primary key is a field (or combination of fields) whose value uniquely identifies each individual record within a database table, preventing duplicate or ambiguous entries."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A relational database model organises data using",
+      "options": [
+        "a single, unstructured block of text",
+        "multiple related tables, connected through common fields (keys)",
+        "purely visual images with no underlying data structure",
+        "only a single table with no relationships to other tables"
+      ],
+      "correctIndex": 1,
+      "explanation": "A relational database model structures data across multiple related tables, linked together through common fields (typically primary and foreign keys), allowing for efficient and flexible data organisation."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "SQL (Structured Query Language) is primarily used for",
+      "options": [
+        "designing graphic images",
+        "compressing files to reduce their size",
+        "querying, updating, and managing data within a relational database",
+        "connecting hardware devices to a network"
+      ],
+      "correctIndex": 2,
+      "explanation": "SQL is the standard language used to interact with relational databases, allowing users to query, insert, update, delete, and otherwise manage stored data."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following is a basic SQL command used to retrieve data from a database?",
+      "options": [
+        "COMPRESS",
+        "FORMAT",
+        "DELETE ALL",
+        "SELECT"
+      ],
+      "correctIndex": 3,
+      "explanation": "The SQL 'SELECT' command is the fundamental statement used to query and retrieve specific data from one or more database tables."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A foreign key, an important database concept, is used to",
+      "options": [
+        "connect to the internet",
+        "compress data files",
+        "uniquely identify records within the same single table only",
+        "establish a link between two related tables in a relational database"
+      ],
+      "correctIndex": 3,
+      "explanation": "A foreign key is a field in one table that references the primary key of another table, establishing a relational link between the two tables."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best describes the overall purpose of a Database Management System (DBMS)?",
+      "options": [
+        "To exclusively create text documents",
+        "To provide an organised, efficient system for storing, retrieving, and managing structured data",
+        "To exclusively design presentation slides",
+        "To exclusively connect computers to a network"
+      ],
+      "correctIndex": 1,
+      "explanation": "A DBMS provides the software infrastructure needed to efficiently store, organise, secure, retrieve, and manage large volumes of structured data."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best represents the correct hierarchical relationship among basic database concepts?",
+      "options": [
+        "Field, then record (a collection of fields), then file/table (a collection of records)",
+        "File, then field, then record, in that specific order",
+        "Record, then field, then file, in that specific order",
+        "There is no hierarchical relationship among these concepts"
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard hierarchy in database organisation builds from individual fields, which combine to form a record, and multiple related records combine to form a file or table."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Data encryption, an important data security concept, refers to",
+      "options": [
+        "converting data into a coded form to prevent unauthorised access",
+        "permanently deleting data from a storage device",
+        "printing data onto paper",
+        "compressing data to reduce its file size"
+      ],
+      "correctIndex": 0,
+      "explanation": "Encryption transforms readable data into a coded (ciphered) format, making it unreadable to unauthorised parties who lack the correct decryption key."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A firewall, an important data security tool, primarily functions to",
+      "options": [
+        "compress files to save storage space",
+        "physically protect a computer from fire damage",
+        "print documents to a connected printer",
+        "monitor and control incoming and outgoing network traffic based on security rules"
+      ],
+      "correctIndex": 3,
+      "explanation": "A firewall acts as a security barrier, monitoring and filtering network traffic based on predetermined security rules to prevent unauthorised access to or from a private network."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A data backup, an important data security practice, refers to",
+      "options": [
+        "encrypting data to prevent unauthorised access",
+        "permanently deleting old, unnecessary data",
+        "compressing files to reduce their size",
+        "creating a copy of data that can be used to restore the original in case of loss or damage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Backing up data involves creating duplicate copies of important data, stored separately, so that the information can be recovered in the event of loss, corruption, or hardware failure."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "User access control, an important data security measure, primarily involves",
+      "options": [
+        "restricting system or data access to authorised users only, often through usernames and passwords",
+        "encrypting all network traffic by default",
+        "allowing unrestricted access to all data for every user",
+        "compressing data files automatically"
+      ],
+      "correctIndex": 0,
+      "explanation": "User access control mechanisms, such as login credentials and permission settings, restrict access to systems or data to only those users who are properly authorised."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Virus prevention, an important aspect of data security, typically involves",
+      "options": [
+        "disabling all security software entirely",
+        "installing and regularly updating antivirus software, alongside cautious computing habits",
+        "avoiding all use of computers entirely",
+        "sharing passwords freely with untrusted parties"
+      ],
+      "correctIndex": 1,
+      "explanation": "Effective virus prevention combines the use of up-to-date antivirus software with safe computing practices, such as avoiding suspicious downloads and links."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best describes the primary purpose of encrypting sensitive data before transmitting it over a network?",
+      "options": [
+        "To convert the data into a printed document",
+        "To make the file size larger for easier tracking",
+        "To permanently delete the data after transmission",
+        "To prevent unauthorised parties from being able to read the data if it is intercepted"
+      ],
+      "correctIndex": 3,
+      "explanation": "Encrypting data before transmission ensures that even if the data is intercepted by an unauthorised party, it remains unreadable and protected without the correct decryption key."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following is a common recommended practice to strengthen user access control on a computer system?",
+      "options": [
+        "Using strong, unique passwords and changing them regularly",
+        "Sharing your password with as many people as possible",
+        "Using the same simple password for every account",
+        "Disabling all password requirements entirely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong, unique passwords, changed periodically, significantly enhance the effectiveness of user access control measures, reducing the risk of unauthorised access."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best describes the difference between a firewall and antivirus software?",
+      "options": [
+        "They are identical tools with no functional difference",
+        "Neither tool has any role in data security",
+        "A firewall primarily controls network traffic, while antivirus software primarily detects and removes malicious programs already on a device",
+        "A firewall detects viruses, while antivirus software controls network traffic"
+      ],
+      "correctIndex": 2,
+      "explanation": "While both are important security tools, a firewall specifically manages and filters network traffic, whereas antivirus software specifically scans for and removes malicious software already present or attempting to install on a device."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Local Area Network (LAN) is best described as a network that",
+      "options": [
+        "connects computers within a relatively small, localised geographic area, such as a single building",
+        "connects computers across an entire country or continent",
+        "is used exclusively for connecting to the internet",
+        "exists only as a wireless network with no wired connections possible"
+      ],
+      "correctIndex": 0,
+      "explanation": "A LAN connects computers and devices within a limited geographic area, such as a single office, building, or campus."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Wide Area Network (WAN) is best described as a network that",
+      "options": [
+        "exists only within a single building",
+        "cannot connect more than two computers together",
+        "spans a large geographic area, potentially connecting networks across cities, countries, or continents",
+        "is limited exclusively to a single room"
+      ],
+      "correctIndex": 2,
+      "explanation": "A WAN covers a much larger geographic area than a LAN, often connecting multiple smaller networks across cities, countries, or even continents, with the internet being the largest example of a WAN."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Metropolitan Area Network (MAN) is best described as a network that",
+      "options": [
+        "spans only a single room",
+        "cannot include more than one building",
+        "spans a geographic area larger than a LAN but smaller than a WAN, such as a city",
+        "spans multiple continents"
+      ],
+      "correctIndex": 2,
+      "explanation": "A MAN typically covers a geographic area intermediate between a LAN and a WAN, such as connecting multiple locations within a single city."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Wireless Local Area Network (WLAN) differs from a standard wired LAN mainly by",
+      "options": [
+        "being limited exclusively to a single computer with no networking capability",
+        "being incapable of connecting to the internet",
+        "requiring significantly more physical cabling than a standard LAN",
+        "using wireless radio signals (such as Wi-Fi) instead of physical cables to connect devices"
+      ],
+      "correctIndex": 3,
+      "explanation": "A WLAN uses wireless radio signals, most commonly Wi-Fi technology, to connect devices within a local area, eliminating the need for extensive physical cabling."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A bus network topology is characterised by",
+      "options": [
+        "every device being directly connected to every other device",
+        "all devices being connected in a closed loop",
+        "all devices being connected to a single central cable (the bus)",
+        "all devices being connected individually to a central hub"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a bus topology, all network devices connect to a single shared communication line (the bus), along which data travels to reach its destination."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A star network topology is characterised by",
+      "options": [
+        "all devices being connected individually to a central hub or switch",
+        "all devices being connected to a single shared cable",
+        "having no central connection point at all",
+        "all devices being connected in a closed loop"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a star topology, each device connects individually to a central hub or switch, which manages and directs all network communication between the connected devices."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A ring network topology is characterised by",
+      "options": [
+        "all devices being connected to a single shared linear cable",
+        "devices being connected in a closed loop, with data travelling around the ring",
+        "all devices being connected to a single central hub",
+        "having no defined connection pattern at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a ring topology, each device connects to exactly two other devices, forming a closed loop (ring) through which data travels sequentially around the network."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A mesh network topology is characterised by",
+      "options": [
+        "all devices being connected only in a single closed loop",
+        "having no possibility of redundant connections",
+        "all devices being connected to a single shared cable only",
+        "each device being directly connected to multiple (or all) other devices in the network"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a mesh topology, devices have multiple direct connections to other devices, providing redundancy and multiple possible data paths, increasing network reliability."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A router, an important piece of network hardware, primarily functions to",
+      "options": [
+        "scan physical documents into digital format",
+        "direct data packets between different networks, such as connecting a home network to the internet",
+        "print documents",
+        "physically store files long-term"
+      ],
+      "correctIndex": 1,
+      "explanation": "A router directs data traffic between different networks, most commonly connecting a local home or office network to the wider internet."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A switch, an important piece of network hardware, primarily functions to",
+      "options": [
+        "connect a local network directly to the internet",
+        "physically print network diagrams",
+        "connect multiple devices within the same local network, directing data to the correct destination device",
+        "convert digital signals into analogue signals for telephone lines"
+      ],
+      "correctIndex": 2,
+      "explanation": "A network switch connects multiple devices within a single local network, intelligently directing incoming data packets to the correct destination device within that network."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A modem, an important piece of network hardware, primarily functions to",
+      "options": [
+        "convert digital data into a form suitable for transmission over telephone or cable lines, and vice versa",
+        "print documents",
+        "connect multiple devices within a single local network",
+        "scan physical documents"
+      ],
+      "correctIndex": 0,
+      "explanation": "A modem (modulator-demodulator) converts digital computer data into a signal format suitable for transmission over telephone, cable, or similar communication lines, and converts incoming signals back into digital data."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The World Wide Web (WWW) refers to",
+      "options": [
+        "a type of computer hardware component",
+        "a system of interlinked hypertext documents and resources accessible via the internet",
+        "the entire physical infrastructure of the internet, including all cables and routers",
+        "a single specific website"
+      ],
+      "correctIndex": 1,
+      "explanation": "The World Wide Web is a system of interlinked hypertext documents and multimedia resources, accessed via the internet using web browsers, distinct from the internet's underlying physical infrastructure."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "HTTP (Hypertext Transfer Protocol) is primarily used for",
+      "options": [
+        "compressing files to reduce their size",
+        "transferring web pages and related data between a web server and a browser",
+        "transferring files between computers on a local network exclusively",
+        "sending and receiving email messages exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "HTTP is the foundational protocol used to transfer web pages and related resources from web servers to users' web browsers."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "HTTPS, a secure variant of HTTP, differs mainly by",
+      "options": [
+        "having no practical difference from HTTP whatsoever",
+        "being completely unrelated to web browsing",
+        "being used exclusively for sending email",
+        "encrypting the data transmitted between the browser and the web server for enhanced security"
+      ],
+      "correctIndex": 3,
+      "explanation": "HTTPS adds a layer of encryption (via SSL/TLS) to standard HTTP communication, securing the data transmitted between a user's browser and the web server against interception."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "FTP (File Transfer Protocol) is primarily used for",
+      "options": [
+        "compressing files to reduce their size",
+        "displaying web pages in a browser",
+        "sending emails",
+        "transferring files between computers over a network"
+      ],
+      "correctIndex": 3,
+      "explanation": "FTP is a standard network protocol specifically designed for transferring files between computers over a network, such as uploading files to a web server."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "TCP/IP, a foundational set of internet protocols, primarily governs",
+      "options": [
+        "how files are compressed for storage",
+        "how data is broken into packets, transmitted, and reassembled correctly across networks, including the internet",
+        "how web pages are visually styled and formatted",
+        "how antivirus software detects malware"
+      ],
+      "correctIndex": 1,
+      "explanation": "TCP/IP is the fundamental suite of protocols governing how data is broken into packets, addressed, transmitted across networks, and correctly reassembled at its destination, forming the basis of internet communication."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Email, an important form of internet communication, allows users to",
+      "options": [
+        "manage a computer's hardware components directly",
+        "print physical documents",
+        "compress files for storage",
+        "send and receive digital messages electronically over a network"
+      ],
+      "correctIndex": 3,
+      "explanation": "Email enables the electronic sending and receiving of digital messages, along with attachments, between users over the internet or other computer networks."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A web browser is best described as software used to",
+      "options": [
+        "access, retrieve, and display web pages and other resources on the World Wide Web",
+        "compress files to reduce their size",
+        "print physical documents",
+        "manage a computer's internal hardware components"
+      ],
+      "correctIndex": 0,
+      "explanation": "A web browser (such as Chrome, Firefox, or Safari) is application software specifically designed to access, retrieve, and display web pages and other online resources."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A search engine is best described as a tool used to",
+      "options": [
+        "manage a computer's hardware components",
+        "compress files to reduce their size",
+        "locate specific information or resources on the World Wide Web based on user-entered queries",
+        "send email messages exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "A search engine (such as Google or Bing) helps users locate specific information, websites, or resources on the web by processing user-entered search queries."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The System Development Life Cycle (SDLC) refers to the",
+      "options": [
+        "process of installing antivirus software",
+        "process of physically assembling computer hardware components",
+        "structured process followed to plan, design, develop, test, and maintain a software system",
+        "process of compressing files for storage"
+      ],
+      "correctIndex": 2,
+      "explanation": "The SDLC describes the structured stages typically followed in developing software systems, including planning, analysis, design, implementation, testing, and maintenance."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A flowchart, a tool used in programming logic, is best described as",
+      "options": [
+        "a type of network topology diagram exclusively",
+        "a diagrammatic representation of the steps or logic involved in solving a problem",
+        "a type of computer hardware component",
+        "a written document describing a company's financial records"
+      ],
+      "correctIndex": 1,
+      "explanation": "A flowchart uses standardised symbols and connecting arrows to visually represent the sequence of steps and decision points involved in solving a problem or completing a process."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Pseudocode, a tool used in programming logic, is best described as",
+      "options": [
+        "a type of network diagram",
+        "an informal, plain-language representation of a program's logic, not tied to any specific programming language syntax",
+        "a type of computer hardware component",
+        "the actual, executable code written in a specific programming language"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pseudocode describes a program's logical steps in plain, informal language, allowing programmers to plan out the logic before writing code in a specific, syntactically strict programming language."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An algorithm, an important concept in programming logic, is best described as",
+      "options": [
+        "a step-by-step procedure or set of rules designed to solve a specific problem",
+        "a type of network cable",
+        "a specific programming language",
+        "a type of computer hardware component"
+      ],
+      "correctIndex": 0,
+      "explanation": "An algorithm is a precise, well-defined sequence of steps or rules designed to solve a particular problem or accomplish a specific task, forming the logical foundation for a computer program."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In programming, a variable is best described as",
+      "options": [
+        "a fixed value that never changes throughout the program",
+        "a named storage location used to hold a value that can change during program execution",
+        "a type of network protocol",
+        "a type of computer hardware component"
+      ],
+      "correctIndex": 1,
+      "explanation": "A variable is a named storage location within a program that holds a value which can be read, modified, or updated as the program executes."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In programming, a loop is best described as",
+      "options": [
+        "a type of computer hardware component",
+        "a structure that executes an instruction exactly once with no repetition",
+        "a structure that repeats a set of instructions multiple times until a specified condition is met",
+        "a type of network topology"
+      ],
+      "correctIndex": 2,
+      "explanation": "A loop is a fundamental programming control structure that repeats a block of instructions multiple times, typically continuing until a specified condition is satisfied."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In programming, a conditional statement (such as an 'if' statement) is used to",
+      "options": [
+        "execute different blocks of code depending on whether a specified condition is true or false",
+        "permanently store data on a hard disk",
+        "always execute the exact same instructions regardless of any condition",
+        "connect a computer to a network"
+      ],
+      "correctIndex": 0,
+      "explanation": "A conditional statement allows a program to make decisions, executing different blocks of code depending on whether a specified logical condition evaluates as true or false."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which of the following best represents the correct general order of the System Development Life Cycle stages?",
+      "options": [
+        "Implementation before any planning or design takes place",
+        "Maintenance first, followed by all other stages",
+        "Planning/analysis, design, implementation (development), testing, and maintenance",
+        "Testing, then planning, then design, then implementation, with no maintenance stage"
+      ],
+      "correctIndex": 2,
+      "explanation": "The SDLC generally follows a logical sequence: first planning and analysing requirements, then designing the system, implementing (developing) it, testing it thoroughly, and finally maintaining it after deployment."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A key distinction between ENIAC and EDVAC, two pioneering electronic computers of the 1940s, is that EDVAC",
+      "options": [
+        "was built using transistors instead of vacuum tubes",
+        "used punched cards exclusively for both input and output",
+        "was the first computer to be sold commercially",
+        "incorporated the stored-program concept, allowing instructions to be held in memory"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unlike ENIAC, which had to be rewired to change tasks, EDVAC was designed around the stored-program concept, holding both data and instructions in memory."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "UNIVAC I holds a special place in computing history mainly because it was",
+      "options": [
+        "the first commercially available computer in the United States, delivered to the Census Bureau",
+        "the first computer capable of running a graphical operating system",
+        "the first computer built entirely from transistors",
+        "the first computer to use integrated circuits"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNIVAC I, delivered in 1951, was the first computer produced commercially in the United States rather than being a one-off research machine."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Charles Babbage's Difference Engine, an early mechanical computing device, was primarily designed to",
+      "options": [
+        "store data magnetically for later retrieval",
+        "automatically compute and print mathematical tables using polynomial functions",
+        "translate high-level programming instructions into machine code",
+        "execute conditional branching instructions from a punched-card program"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Difference Engine was a mechanical calculator designed to automatically produce reliable mathematical and navigational tables using the method of finite differences."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Unlike the Difference Engine, Babbage's later Analytical Engine is regarded as a true forerunner of the modern computer chiefly because it",
+      "options": [
+        "was the first machine to use vacuum tubes for calculation",
+        "could connect to other machines over a telegraph network",
+        "was smaller and required less power to operate",
+        "included a design for a memory (the 'store') and a processor (the 'mill') that could be programmed with punched cards"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Analytical Engine's design featured a separate store (memory) and mill (processing unit) controlled by punched cards, mirroring the architecture of modern general-purpose computers."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Ada Lovelace is historically significant in computing because she",
+      "options": [
+        "designed the first commercially sold personal computer",
+        "built the first working transistor-based calculator",
+        "invented the first electronic vacuum tube",
+        "is credited with writing what is considered the first algorithm intended for a machine, the Analytical Engine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ada Lovelace wrote detailed notes describing an algorithm for Babbage's Analytical Engine to compute Bernoulli numbers, earning recognition as an early programmer."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Jacquard Loom, developed in the early 1800s, influenced the development of computing mainly through its use of",
+      "options": [
+        "punched cards to automatically control weaving patterns, an idea later adapted for data input",
+        "vacuum tubes to control weaving patterns",
+        "an electronic display to preview fabric designs",
+        "a magnetic tape system for storing designs"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Jacquard Loom used interchangeable punched cards to automate complex weaving patterns, and this punched-card idea was later adopted for data input in early computers."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Herman Hollerith's punched-card tabulating machine, first used for the 1890 United States census, is significant because it",
+      "options": [
+        "was powered entirely by vacuum tube circuitry",
+        "eliminated the need for any human data entry",
+        "was the first machine to use a stored program",
+        "demonstrated how punched cards could be used to record and rapidly tabulate large volumes of data electromechanically"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hollerith's machine used punched cards read electromechanically to drastically speed up the tabulation of census data compared with manual counting."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "One major practical drawback of ENIAC, despite its computing power, was that it",
+      "options": [
+        "could not perform arithmetic operations",
+        "relied on thousands of vacuum tubes, making it enormous, power-hungry, and prone to frequent tube failures",
+        "used a graphical user interface that confused operators",
+        "was too small to house more than a few components"
+      ],
+      "correctIndex": 1,
+      "explanation": "ENIAC contained roughly 18,000 vacuum tubes, which generated significant heat, consumed enormous power, and failed often, requiring constant maintenance."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Blaise Pascal originally built the Pascaline mechanical calculator to help his father with",
+      "options": [
+        "tax collection calculations",
+        "compiling census population data",
+        "designing woven textile patterns",
+        "astronomical calculations for navigation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pascal invented the Pascaline to assist his father, a tax collector, in performing tedious addition and subtraction calculations more quickly and accurately."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Compared with the Abacus, Napier's Bones represented an advance mainly because they",
+      "options": [
+        "required electricity to operate",
+        "stored results permanently on punched cards",
+        "eliminated the need for any manual calculation entirely",
+        "could perform multiplication and division through a set of numbered rods rather than manual bead movement alone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Napier's Bones used numbered rods to mechanically simplify multiplication and division, going beyond the simple addition and subtraction the Abacus was mainly used for."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which sequence correctly orders these computing milestones from earliest to most recent?",
+      "options": [
+        "Pascaline, Abacus, ENIAC, Analytical Engine",
+        "Analytical Engine, Abacus, Pascaline, ENIAC",
+        "Abacus, Pascaline, Analytical Engine, ENIAC",
+        "ENIAC, Analytical Engine, Pascaline, Abacus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Historically, the Abacus predates the 17th-century Pascaline, which predates Babbage's 19th-century Analytical Engine, which in turn predates the 1940s ENIAC."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A key reason UNIVAC and ENIAC are both classified as early electronic computers, despite their differences, is that both",
+      "options": [
+        "used mechanical gears as their primary calculating mechanism",
+        "processed information using electronic circuitry rather than purely mechanical or electromechanical parts",
+        "were designed exclusively for business payroll processing",
+        "were portable devices meant for personal home use"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both ENIAC and UNIVAC relied on electronic components such as vacuum tubes to process data, distinguishing them from earlier mechanical and electromechanical devices."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A digital computer differs fundamentally from an analog computer in that a digital computer",
+      "options": [
+        "processes data represented as discrete binary values (0s and 1s)",
+        "cannot be used for scientific measurement",
+        "processes data as continuous physical quantities such as voltage or temperature",
+        "requires no electrical power to operate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Digital computers represent and process data using discrete binary digits, whereas analog computers work directly with continuously varying physical quantities."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An analog computer would be most suitable for a task such as",
+      "options": [
+        "measuring and continuously representing a physical quantity such as speed or temperature in a scientific instrument",
+        "running a word processing application",
+        "storing a company's customer database",
+        "processing payroll records for a large company"
+      ],
+      "correctIndex": 0,
+      "explanation": "Analog computers excel at directly measuring and representing continuously varying physical quantities, such as speed, pressure, or temperature, rather than discrete symbolic data."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A hybrid computer is best described as a machine that",
+      "options": [
+        "can only perform one task at a time with no multitasking",
+        "is exclusively used for military applications",
+        "uses only mechanical components with no electronic circuitry",
+        "combines features of both digital and analog computers, often converting analog signals into digital data for processing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hybrid computers combine analog input capabilities, such as reading continuous signals from sensors, with digital processing for accuracy, commonly used in equipment like ICU patient monitors."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A patient-monitoring system in a hospital intensive care unit, which reads continuous vital-sign signals and converts them into digital numeric displays, is a practical example of a",
+      "options": [
+        "hybrid computer",
+        "minicomputer",
+        "analog-only computer",
+        "mainframe computer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Such a system combines analog sensing of continuous physiological signals with digital processing and display, making it a classic example of a hybrid computer."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The primary distinction between a mainframe computer and a supercomputer lies in the fact that a supercomputer is chiefly optimised for",
+      "options": [
+        "serving many simultaneous users running everyday business transactions",
+        "extremely high-speed processing of complex scientific calculations, often using massive parallel processing",
+        "running only a single application at a time with no operating system",
+        "portability, allowing it to be carried between locations easily"
+      ],
+      "correctIndex": 1,
+      "explanation": "While mainframes are built for reliable, simultaneous transaction processing for many users, supercomputers are optimised for raw computational speed on complex scientific or simulation tasks, often via massive parallel processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An embedded computer system differs from a general-purpose computer chiefly in that it",
+      "options": [
+        "is designed to perform a specific, dedicated function within a larger device, such as controlling a washing machine or car engine",
+        "is only found in supercomputers",
+        "always has a full keyboard and monitor attached",
+        "can run any operating system or application software installed by the user"
+      ],
+      "correctIndex": 0,
+      "explanation": "Embedded systems are specialised computers built into larger devices to perform one dedicated task, unlike general-purpose computers that can run a wide variety of software."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which factor most directly determines whether a computer is classified as a microcomputer, minicomputer, mainframe, or supercomputer?",
+      "options": [
+        "The programming language used to develop its software",
+        "Whether it has a wireless network card installed",
+        "The colour of its casing",
+        "Its processing power, physical size, number of simultaneous users it can support, and typical cost"
+      ],
+      "correctIndex": 3,
+      "explanation": "This size-based classification of computers is primarily based on relative processing power, physical scale, number of users supported, and cost."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A key defining hardware technology that distinguishes third-generation computers from second-generation computers is the",
+      "options": [
+        "widespread adoption of artificial intelligence techniques",
+        "replacement of transistors with integrated circuits (ICs) containing many transistors on a single chip",
+        "introduction of the microprocessor combining the entire CPU on one chip",
+        "replacement of vacuum tubes with transistors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Third-generation computers moved from discrete transistors to integrated circuits, packing many transistors onto a single silicon chip for greater speed and reliability."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Fifth-generation computers are distinguished from fourth-generation computers mainly by their emphasis on",
+      "options": [
+        "artificial intelligence, natural language processing, and massively parallel processing architectures",
+        "the first commercial use of integrated circuits",
+        "the first use of transistorised circuitry",
+        "the introduction of the microprocessor chip"
+      ],
+      "correctIndex": 0,
+      "explanation": "While fourth-generation computers introduced the microprocessor, fifth-generation computers are characterised by advances in artificial intelligence, natural language understanding, and parallel processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A computer classified by purpose as a 'special-purpose computer' is one that",
+      "options": [
+        "can run any software application a user chooses to install",
+        "is always larger and more powerful than a general-purpose computer",
+        "is designed and built to perform only one specific task or a narrow range of related tasks",
+        "is used exclusively by government agencies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Special-purpose computers are built to perform a specific, narrowly defined function, such as controlling traffic lights, unlike general-purpose computers designed for a wide variety of tasks."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A workstation, as a category of computing device, is best described as a",
+      "options": [
+        "high-performance single-user computer typically used for demanding technical tasks such as engineering design or graphics rendering",
+        "low-powered device with no processing capability of its own",
+        "computer designed to serve as a network's central file server for thousands of users",
+        "portable handheld device with a touchscreen only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A workstation is a powerful, single-user computer with greater processing capability than an ordinary personal computer, often used for specialised technical or scientific work."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In terms of typical processing power, which ordering, from lowest to highest, is generally correct?",
+      "options": [
+        "Mainframe, supercomputer, microcomputer, minicomputer",
+        "Supercomputer, mainframe, minicomputer, microcomputer",
+        "Minicomputer, microcomputer, supercomputer, mainframe",
+        "Microcomputer, minicomputer, mainframe, supercomputer"
+      ],
+      "correctIndex": 3,
+      "explanation": "In general classification, microcomputers have the least processing power, followed by minicomputers, then mainframes, with supercomputers offering the greatest raw computational power."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A key reason a server used to host a company website would typically be classified differently from an ordinary desktop microcomputer is that the server is",
+      "options": [
+        "always physically smaller than a desktop computer",
+        "incapable of running an operating system",
+        "optimised to manage network resources and respond to many simultaneous client requests reliably",
+        "unable to process any data at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Servers are built and configured to reliably manage shared resources and handle many simultaneous requests from client computers on a network, unlike a typical single-user desktop."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Cache memory is best distinguished from main RAM by the fact that cache",
+      "options": [
+        "is used exclusively for permanent long-term file storage",
+        "has a larger capacity than RAM but is much slower",
+        "is a much smaller, faster memory located closer to the CPU that stores frequently used data and instructions",
+        "is non-volatile and retains data even after power is switched off"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cache memory is a small, very fast memory positioned between the CPU and RAM, holding frequently accessed data and instructions to speed up processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Considering speed, volatility, and typical size together, which statement correctly ranks RAM, ROM, and cache memory?",
+      "options": [
+        "ROM, RAM, and cache all have identical speed and volatility characteristics",
+        "RAM is non-volatile, while both ROM and cache lose their contents when power is off",
+        "Cache is the fastest but smallest, RAM is slower but larger, and ROM is non-volatile and holds firmware",
+        "ROM is faster than cache, and cache is faster than RAM"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cache is the fastest but smallest memory closest to the CPU, RAM is larger but slower and volatile, while ROM is non-volatile and typically stores firmware instructions."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A memory type is described as 'volatile' if it",
+      "options": [
+        "permanently retains its data even without power",
+        "loses all its stored data as soon as electrical power is removed",
+        "can only be read from, never written to",
+        "is used only for storing the computer's startup firmware"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volatile memory, such as RAM, requires continuous power to retain its contents and loses all stored data once power is switched off."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "EEPROM (Electrically Erasable Programmable Read-Only Memory) is distinguished from ordinary PROM mainly because EEPROM",
+      "options": [
+        "can be erased and reprogrammed electrically multiple times without removing it from the computer",
+        "can only be programmed once at the factory and never changed again",
+        "loses its data whenever the computer is switched off",
+        "is used exclusively as a replacement for the hard disk"
+      ],
+      "correctIndex": 0,
+      "explanation": "EEPROM can be erased and rewritten electrically, often in place, allowing firmware such as BIOS to be updated, unlike basic PROM which can be programmed only once."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In the Von Neumann architecture that underlies most modern computers, a defining principle is that",
+      "options": [
+        "output devices are directly wired to input devices, bypassing the CPU",
+        "both program instructions and data are stored together in the same memory",
+        "instructions must always be entered manually for every operation",
+        "the CPU and memory must be physically located in separate machines"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Von Neumann architecture stores both data and program instructions in the same memory, allowing the CPU to fetch and execute stored instructions sequentially."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The system bus in a computer, comprising the data bus, address bus, and control bus, primarily functions to",
+      "options": [
+        "convert analog input signals into digital form",
+        "physically cool the CPU during heavy processing",
+        "store the computer's permanent operating system files",
+        "carry electrical signals that transfer data, memory addresses, and control instructions between the CPU and other components"
+      ],
+      "correctIndex": 3,
+      "explanation": "The system bus is the set of electrical pathways that carries data, addresses, and control signals between the CPU, memory, and other hardware components."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A computer's clock speed, typically measured in gigahertz (GHz), indicates",
+      "options": [
+        "the resolution of the computer's display monitor",
+        "the number of processing cycles the CPU can perform per second",
+        "the total number of ports available for connecting peripherals",
+        "the amount of secondary storage available on the hard disk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clock speed measures how many instruction cycles a CPU can execute each second, with a higher GHz value generally indicating faster processing capability."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The most important distinction between primary storage (memory) and secondary storage in a computer system is that primary storage",
+      "options": [
+        "cannot be used to store an operating system",
+        "is always non-volatile and retains data indefinitely without power",
+        "has a much larger capacity than any secondary storage device",
+        "is directly accessible to the CPU for immediate processing, while secondary storage holds data for long-term, non-volatile retention"
+      ],
+      "correctIndex": 3,
+      "explanation": "Primary storage, such as RAM, is directly and quickly accessible by the CPU during processing, while secondary storage, like a hard disk, provides slower but persistent long-term storage."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A touchscreen on a modern smartphone or tablet is best classified as",
+      "options": [
+        "a pure input device only",
+        "a type of secondary storage device",
+        "a pure output device only",
+        "both an input and output device, since it displays information and also accepts touch-based commands"
+      ],
+      "correctIndex": 3,
+      "explanation": "A touchscreen serves a dual role, displaying visual output like a monitor while also accepting direct touch input from the user, making it both an input and output device."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An Optical Mark Reader (OMR), commonly used to mark multiple-choice exam sheets, functions by",
+      "options": [
+        "detecting the position of pencil or pen marks made in predefined areas on a form",
+        "converting spoken words into digital text",
+        "capturing continuous analog video images for storage",
+        "printing results directly onto paper without any scanning"
+      ],
+      "correctIndex": 0,
+      "explanation": "An OMR scans a form and detects the presence of marks in specific positions, commonly used to grade answer sheets on multiple-choice tests."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Print spooling, a function commonly managed by an operating system, primarily helps to",
+      "options": [
+        "increase the physical resolution of a printer's output",
+        "permanently delete print jobs after a single use",
+        "convert digital documents into audio format",
+        "temporarily hold print jobs in a queue on disk so a program does not have to wait for the printer to finish before continuing other tasks"
+      ],
+      "correctIndex": 3,
+      "explanation": "Spooling stores print jobs in a queue on disk, allowing the CPU and applications to continue other work while the printer processes jobs at its own slower pace."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A serial port transmits data differently from a parallel port in that a serial port",
+      "options": [
+        "can only be used to connect a monitor",
+        "requires no cable connection at all",
+        "sends one bit at a time, sequentially, along a single communication line",
+        "sends multiple bits simultaneously along separate wires"
+      ],
+      "correctIndex": 2,
+      "explanation": "A serial port transmits data one bit after another over a single line, whereas a parallel port sends multiple bits simultaneously across multiple lines."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Dynamic RAM (DRAM) differs from Static RAM (SRAM) mainly in that DRAM",
+      "options": [
+        "is always faster and more expensive than SRAM",
+        "is non-volatile and retains data without power",
+        "must be periodically refreshed electrically to retain its stored data, while SRAM does not require refreshing",
+        "is used only as permanent firmware storage"
+      ],
+      "correctIndex": 2,
+      "explanation": "DRAM stores data in capacitors that leak charge over time and must be refreshed regularly, whereas SRAM uses flip-flop circuits that retain data without refreshing as long as power is supplied."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The motherboard's expansion slots primarily allow a computer user to",
+      "options": [
+        "compress files to save storage space",
+        "add additional hardware components, such as graphics or sound cards, directly to the system",
+        "permanently increase the clock speed of the CPU",
+        "convert the operating system from one type to another"
+      ],
+      "correctIndex": 1,
+      "explanation": "Expansion slots on a motherboard allow users to insert additional cards, such as graphics, sound, or network cards, to extend the computer's capabilities."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A sensor used in a hybrid or embedded computer system, such as a temperature sensor in an air conditioner, primarily serves to",
+      "options": [
+        "translate machine code into a high-level programming language",
+        "display processed results to the user in printed form",
+        "permanently store the system's operating instructions",
+        "detect and capture continuous real-world physical conditions and convert them into signals the system can process"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sensors act as input devices that detect physical conditions such as temperature or pressure and convert them into signals a computer system can process."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A compiler differs from an interpreter mainly in that a compiler",
+      "options": [
+        "translates the entire source code into machine code (object code) all at once before execution",
+        "translates and executes source code line by line as the program runs",
+        "is a type of hardware component rather than software",
+        "can only be used with low-level assembly language"
+      ],
+      "correctIndex": 0,
+      "explanation": "A compiler translates the whole source program into machine code in advance, producing an executable file, whereas an interpreter translates and executes instructions one at a time."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "One practical disadvantage of using an interpreter rather than a compiler to run a program is that interpreted programs",
+      "options": [
+        "require no operating system to function",
+        "cannot be written in a high-level language",
+        "generally run slower because each line must be translated every time it is executed",
+        "never produce any runtime errors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Because an interpreter translates and executes code line by line every time the program runs, interpreted programs are typically slower than compiled programs."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An assembler, as a type of language translator, is specifically used to convert",
+      "options": [
+        "machine code back into a high-level language such as Python",
+        "image files from one format to another",
+        "assembly language (using mnemonics) into machine code",
+        "high-level language statements directly into a spoken natural language"
+      ],
+      "correctIndex": 2,
+      "explanation": "An assembler translates low-level assembly language, which uses mnemonic codes, into the binary machine code that a processor can directly execute."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Source code and object code differ in that source code is",
+      "options": [
+        "the binary machine-readable form produced after compilation",
+        "only used in interpreted, never compiled, programming languages",
+        "the human-readable program written by a programmer in a programming language, before translation",
+        "always faster to execute than object code"
+      ],
+      "correctIndex": 2,
+      "explanation": "Source code is the original, human-readable program text written by a programmer, which is then translated into object (machine) code for the computer to execute."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A device driver is best described as software that",
+      "options": [
+        "allows the operating system to communicate with and control a specific hardware device",
+        "protects the computer from viruses and malware",
+        "compresses large files to save storage space",
+        "manages a company's customer records in a database"
+      ],
+      "correctIndex": 0,
+      "explanation": "A device driver is specialised system software that enables the operating system to correctly communicate with and control a particular piece of hardware."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Firmware is best distinguished from ordinary application software in that firmware is",
+      "options": [
+        "written exclusively in a high-level scripting language",
+        "only used for word processing and spreadsheet tasks",
+        "low-level software permanently or semi-permanently embedded in hardware, such as a printer or router, to control its basic operation",
+        "always installed by the end user after purchase"
+      ],
+      "correctIndex": 2,
+      "explanation": "Firmware is specialised software embedded directly into hardware devices to control their basic, low-level functions, unlike general application software installed for user tasks."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Open-source software is best distinguished from proprietary software by the fact that open-source software",
+      "options": [
+        "is always more expensive to purchase",
+        "makes its source code publicly available for anyone to view, modify, and redistribute",
+        "is only available for mainframe computers",
+        "cannot be modified by any user under any circumstance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Open-source software publishes its source code publicly, allowing users to view, modify, and redistribute it, unlike proprietary software whose source code is kept closed."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Shareware differs from freeware mainly in that shareware",
+      "options": [
+        "is always completely free with no restrictions whatsoever",
+        "can never be legally distributed over the internet",
+        "must always include its full source code",
+        "is typically distributed free initially but expects payment or imposes limitations after a trial period"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shareware is usually offered free for a trial period or with limited features, with the expectation that users will pay to continue full use, unlike freeware which is free indefinitely."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The BIOS (Basic Input/Output System) or its modern UEFI equivalent primarily functions to",
+      "options": [
+        "manage a company's payroll calculations",
+        "translate high-level source code into an executable program",
+        "perform initial hardware checks and load the operating system when a computer is switched on",
+        "compress and archive user files automatically"
+      ],
+      "correctIndex": 2,
+      "explanation": "The BIOS/UEFI runs power-on self-tests, initialises hardware, and then locates and loads the operating system during the computer's startup process."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Multitasking, as an operating system capability, refers to the ability to",
+      "options": [
+        "permanently store multiple user accounts on one hard disk",
+        "connect several separate computers into a single network",
+        "run only one program at a time but switch quickly between them so no delay is noticeable",
+        "give the appearance of running multiple programs simultaneously by rapidly switching the CPU's attention between them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multitasking allows an operating system to give the appearance of running several programs at once by rapidly switching CPU time between them."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A cold boot differs from a warm boot in that a cold boot",
+      "options": [
+        "restarts the computer using the restart option while it is already powered on",
+        "is only possible on mainframe computers",
+        "starts the computer from a completely powered-off state, running full hardware checks",
+        "only refreshes the currently open application without restarting the system"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cold boot starts a computer that was fully powered off, requiring the BIOS/UEFI to run complete hardware diagnostic checks before loading the operating system."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Graphical User Interface (GUI) is distinguished from a Command Line Interface (CLI) mainly because a GUI",
+      "options": [
+        "can only be used on mainframe computers",
+        "cannot support a mouse as an input device",
+        "requires users to type precise text commands to perform every action",
+        "allows users to interact with the system using visual elements such as icons, windows, and menus"
+      ],
+      "correctIndex": 3,
+      "explanation": "A GUI lets users interact through visual elements like icons, windows, and menus, unlike a CLI, which requires typed text commands."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A disk defragmenter and a disk cleanup utility differ in their primary purpose in that a disk defragmenter",
+      "options": [
+        "reorganises fragmented file data on a disk so related pieces are stored contiguously, improving access speed",
+        "deletes unnecessary temporary files to free up storage space",
+        "compresses files into a smaller archive format",
+        "scans for and removes computer viruses"
+      ],
+      "correctIndex": 0,
+      "explanation": "A disk defragmenter reorganises scattered file fragments so they are stored contiguously, reducing the time needed for the drive to read the file, unlike disk cleanup which removes unneeded files."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Middleware, in a computing context, is best described as software that",
+      "options": [
+        "is used exclusively for playing multimedia files",
+        "physically connects two computers using a network cable",
+        "sits between an operating system and application programs, enabling communication and data management across a network",
+        "replaces the need for an operating system entirely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Middleware acts as a bridge between the operating system and applications, often enabling communication, data exchange, and management across distributed or networked systems."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Which classification correctly groups an operating system, a device driver, and a file compression utility together?",
+      "options": [
+        "All three are examples of hardware components",
+        "All three are types of secondary storage devices",
+        "All three are examples of system software that support the operation of the computer itself",
+        "All three are examples of application software"
+      ],
+      "correctIndex": 2,
+      "explanation": "An operating system, a device driver, and a utility program are all categories of system software that manage and support the computer's hardware and overall operation, rather than performing user tasks directly."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In file organisation, a sequential file structure differs from a direct (random) access file structure mainly because sequential files",
+      "options": [
+        "must be read in order from the beginning to locate a specific record",
+        "cannot be stored on magnetic tape or disk",
+        "are always faster to search than direct access files for large datasets",
+        "allow any record to be accessed directly without reading preceding records"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a sequential file, records must generally be read one after another from the start until the desired record is found, unlike direct access files where any record can be reached immediately."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An indexed sequential file organisation is designed to combine the benefits of sequential and direct access methods by",
+      "options": [
+        "preventing any record from ever being updated once written",
+        "storing all data exclusively in RAM rather than on disk",
+        "storing records randomly with no logical order whatsoever",
+        "maintaining an index that allows quick direct access to a record's location while still supporting ordered sequential reading"
+      ],
+      "correctIndex": 3,
+      "explanation": "Indexed sequential file organisation keeps an index of key values pointing to record locations, allowing fast direct access while still permitting efficient sequential processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Batch processing, as a method of data processing, involves",
+      "options": [
+        "using only analog computers to handle numeric data",
+        "collecting a group of transactions over a period and processing them together at a scheduled time",
+        "processing data only through a direct live connection with no delay whatsoever",
+        "processing each transaction immediately as it occurs, one at a time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Batch processing accumulates transactions over time and processes them together as a single group at a scheduled interval, rather than immediately as each occurs."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Real-time processing is best distinguished from batch processing by the fact that real-time processing",
+      "options": [
+        "requires transactions to be manually grouped before processing can begin",
+        "responds to and processes data virtually immediately as it is received, with negligible delay",
+        "always takes longer to complete than batch processing",
+        "can only be performed on mainframe computers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Real-time processing handles data immediately as it arrives, producing an almost instantaneous response, unlike batch processing which accumulates data before processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "An airline seat-reservation system, which must instantly confirm or deny a booking as soon as a customer requests it, is a practical example of",
+      "options": [
+        "real-time (online) processing",
+        "manual data processing",
+        "batch processing",
+        "offline processing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Because the system must respond to booking requests immediately to prevent double-booking, it relies on real-time (online) processing rather than delayed batch processing."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In data transmission, a simplex mode of communication allows data to flow",
+      "options": [
+        "only within a single computer, never between devices",
+        "in only one direction, with no possibility of a return signal",
+        "in both directions, but only one direction at a time",
+        "in both directions simultaneously at all times"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simplex transmission permits data to travel in only one direction, such as from a computer to a printer, with no return communication path."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A half-duplex transmission mode is best described as one in which data can travel",
+      "options": [
+        "in both directions, but only one direction at any given moment, such as with a walkie-talkie",
+        "in both directions fully simultaneously, like a telephone conversation",
+        "only between two devices located on different continents",
+        "in only one fixed direction permanently"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half-duplex allows communication in both directions, but only one party can transmit at a time, similar to how a walkie-talkie operates."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Full-duplex transmission, unlike half-duplex, allows",
+      "options": [
+        "no error checking to occur during transmission",
+        "data transmission only between devices on the same LAN",
+        "both parties to send and receive data simultaneously, as in a typical telephone call",
+        "data to flow in only one direction at all times"
+      ],
+      "correctIndex": 2,
+      "explanation": "Full-duplex communication permits both devices to send and receive data at the same time, unlike half-duplex, which restricts transmission to one direction at a time."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Serial data transmission is generally preferred over parallel transmission for long-distance communication mainly because serial transmission",
+      "options": [
+        "sends all bits at once, making it inherently faster over any distance",
+        "is less prone to signal interference and skew over long distances since it uses a single data line",
+        "requires far more physical wires, improving reliability over distance",
+        "can only be used within a single computer's motherboard"
+      ],
+      "correctIndex": 1,
+      "explanation": "Serial transmission, sending one bit at a time over a single line, suffers less from signal skew and interference over long distances compared with parallel transmission across multiple wires."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Bandwidth, in the context of data communication, refers to",
+      "options": [
+        "the brand of software used to browse the internet",
+        "the maximum amount of data that can be transmitted over a network connection in a given period of time",
+        "the physical length of a network cable",
+        "the number of computers connected to a single switch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bandwidth measures the maximum data transfer capacity of a communication channel over a given time period, often expressed in bits per second."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Data validation differs from data verification in that validation primarily checks whether data",
+      "options": [
+        "has been encrypted before transmission over a network",
+        "has been copied correctly from one location to another without transcription errors",
+        "meets predefined rules for accuracy, reasonableness, and completeness before it is accepted",
+        "has been backed up to a secondary storage device"
+      ],
+      "correctIndex": 2,
+      "explanation": "Data validation checks that entered data conforms to acceptable rules, such as being within a valid range or in the correct format, while verification confirms data was copied or entered correctly."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A master file, in data processing terminology, is best described as a file that",
+      "options": [
+        "holds relatively permanent, regularly updated records that represent the current status of key data, such as customer details",
+        "is deleted automatically after every processing cycle",
+        "can only exist on a supercomputer",
+        "contains only temporary transaction records awaiting processing"
+      ],
+      "correctIndex": 0,
+      "explanation": "A master file stores comparatively permanent records reflecting the current status of important data, such as customer account balances, updated periodically by transaction files."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A parity bit, used in basic error detection during data transmission, functions by",
+      "options": [
+        "adding an extra bit to a group of data bits so the total number of 1-bits is odd or even, helping detect transmission errors",
+        "encrypting the entire message so it cannot be intercepted",
+        "compressing the data to reduce its overall size",
+        "permanently storing a backup copy of the transmitted data"
+      ],
+      "correctIndex": 0,
+      "explanation": "A parity bit is an extra bit added to make the count of 1-bits in a data unit either even or odd, allowing simple detection of certain transmission errors."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The saying 'Garbage In, Garbage Out' (GIGO) in data processing highlights the principle that",
+      "options": [
+        "the quality of output produced by a system depends directly on the quality and accuracy of the input data supplied",
+        "only numeric data can be processed by a computer",
+        "all data must be deleted after processing to save storage",
+        "computers can automatically correct any inaccurate data they are given"
+      ],
+      "correctIndex": 0,
+      "explanation": "GIGO emphasises that flawed, inaccurate, or poor-quality input data will inevitably produce flawed or unreliable output, regardless of how sophisticated the processing system is."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In the data processing cycle, the 'storage' stage that follows processing and output is primarily concerned with",
+      "options": [
+        "retaining processed information on a storage medium so it can be retrieved and reused later",
+        "permanently deleting data that is no longer immediately needed",
+        "converting data into a human-readable printed report only",
+        "collecting raw facts and figures from the outside world for the first time"
+      ],
+      "correctIndex": 0,
+      "explanation": "The storage stage preserves processed information on a suitable medium, allowing it to be retrieved and used again in the future without having to reprocess the original raw data."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In a URL such as https://www.example.com/products, the segment 'https' specifically indicates the",
+      "options": [
+        "internet service provider hosting the website",
+        "protocol used to securely transfer data between the browser and the web server",
+        "specific file or page being requested on the server",
+        "domain name of the website being visited"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'https' portion of a URL specifies the protocol, in this case a secure version of HTTP, used to transfer data between the browser and the server."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The Domain Name System (DNS) primarily functions to",
+      "options": [
+        "compress large files before they are downloaded",
+        "translate human-readable domain names, such as example.com, into the numeric IP addresses computers use to locate each other",
+        "block unauthorised access to a computer network",
+        "encrypt all data sent between a browser and a website"
+      ],
+      "correctIndex": 1,
+      "explanation": "DNS acts like an address book for the internet, translating easy-to-remember domain names into the numeric IP addresses that computers actually use to communicate."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Browser cookies are best described as small pieces of data that",
+      "options": [
+        "permanently damage a computer's operating system",
+        "are required for a computer to connect to the internet at all",
+        "are stored by a website on a user's device to remember information such as login status or preferences across visits",
+        "physically increase a computer's processing speed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cookies are small text files that websites store on a user's device to remember information, such as login sessions, preferences, or shopping cart contents, between visits."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Using Boolean search operators such as AND, OR, and NOT in a search engine query primarily helps a user to",
+      "options": [
+        "automatically translate search results into another language",
+        "increase the internet connection speed while searching",
+        "refine and narrow down search results by specifying required, alternative, or excluded terms",
+        "prevent the search engine from tracking the user's activity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boolean operators let a user combine or exclude search terms logically, for example requiring both terms with AND or excluding a term with NOT, to produce more relevant results."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Phishing, a common online security threat, is best described as an attempt to",
+      "options": [
+        "legally purchase software licences at a discounted rate",
+        "deceive a user, often via fraudulent emails or websites, into revealing sensitive information such as passwords or bank details",
+        "increase a website's search engine ranking through legitimate means",
+        "physically damage computer hardware using malware"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phishing involves tricking users, often through fake emails or websites that impersonate legitimate organisations, into disclosing sensitive personal or financial information."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "One reliable way to help identify a phishing email is to check whether it",
+      "options": [
+        "was sent from an address that closely mimics, but does not exactly match, a legitimate organisation's official domain",
+        "contains a company logo of any kind",
+        "was received during normal business hours",
+        "was sent using a well-known email provider such as Gmail or Yahoo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phishing emails often use sender addresses or domains that closely resemble but subtly differ from a legitimate organisation's genuine domain, which is a key warning sign."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Netiquette refers to",
+      "options": [
+        "the set of accepted rules of polite and responsible behaviour when communicating online",
+        "the hardware standard used for network cables",
+        "a type of anti-virus software",
+        "the technical protocol used to route data packets across the internet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Netiquette describes the accepted norms of courteous and responsible conduct expected when communicating and interacting with others online."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Cloud storage services, such as Google Drive or OneDrive, primarily support digital collaboration by allowing",
+      "options": [
+        "documents to be printed automatically without user action",
+        "files to be permanently deleted once shared with another user",
+        "only a single user to ever access a given file at any time",
+        "multiple users in different locations to access, edit, and share the same documents over the internet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cloud storage allows files to be stored centrally online so multiple users, regardless of location, can access, edit, and share the same documents collaboratively."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Two-factor authentication improves online account security mainly by",
+      "options": [
+        "requiring only a username with no password at all",
+        "removing the need for any password whatsoever",
+        "automatically sharing the user's password with trusted contacts",
+        "requiring a second, independent form of verification in addition to a password, such as a one-time code sent to a phone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Two-factor authentication adds an extra verification step, such as a one-time code sent to a mobile device, making it much harder for an attacker to gain access with a password alone."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "In an email message, the key difference between using 'Cc' (carbon copy) and 'Bcc' (blind carbon copy) is that recipients listed under Bcc",
+      "options": [
+        "cannot reply to the email at all",
+        "are hidden from other recipients, who cannot see that they also received the message",
+        "will receive the email faster than those listed under Cc",
+        "will automatically have the email marked as spam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recipients placed in the Bcc field remain hidden from all other recipients, whereas everyone can see the addresses listed in the Cc field."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A web browser's cache differs from its browsing history in that the cache",
+      "options": [
+        "is a list of previously visited website addresses arranged by date",
+        "permanently records every password a user has ever entered",
+        "temporarily stores copies of webpage files, such as images, so pages load faster on repeat visits",
+        "is used to encrypt data sent to a website"
+      ],
+      "correctIndex": 2,
+      "explanation": "A browser cache stores temporary copies of webpage resources like images and scripts locally so that revisited pages load more quickly, unlike browsing history which logs visited addresses."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Video conferencing platforms used for online meetings and digital collaboration primarily rely on which combination of internet capabilities?",
+      "options": [
+        "Offline storage of meeting recordings with no live interaction",
+        "One-way simplex transmission of text messages only",
+        "Real-time transmission of audio and video data between participants over the internet",
+        "Batch file transfer only, with no live audio or video"
+      ],
+      "correctIndex": 2,
+      "explanation": "Video conferencing depends on real-time, typically full-duplex, transmission of audio and video streams between participants so they can interact live over the internet."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A hyperlink embedded in a webpage functions primarily to",
+      "options": [
+        "automatically download antivirus software",
+        "allow a user to click and be taken directly to another webpage, document, or resource",
+        "permanently encrypt the current webpage",
+        "increase the processing speed of the user's computer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A hyperlink is a clickable reference that takes the user directly to another webpage, file, or location, enabling easy navigation across the web."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Adjusting privacy settings on a social media account to restrict who can view personal posts is an important online safety practice mainly because it helps to",
+      "options": [
+        "automatically improve the user's internet connection speed",
+        "reduce the risk of personal information being accessed and misused by unintended or malicious parties",
+        "increase the number of advertisements shown to the user",
+        "guarantee that the account can never be hacked"
+      ],
+      "correctIndex": 1,
+      "explanation": "Restricting who can view personal information reduces the exposure of sensitive details to strangers or malicious actors who might misuse them."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Spam filtering in an email system primarily works to",
+      "options": [
+        "permanently increase the storage capacity of an email inbox",
+        "translate emails written in foreign languages",
+        "automatically identify and separate unsolicited, often unwanted or malicious, bulk email from a user's main inbox",
+        "compress email attachments to reduce their file size"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spam filters analyse incoming email for characteristics typical of unsolicited bulk or malicious messages and automatically divert them away from the main inbox."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A key distinguishing feature of a computer worm, as opposed to a typical computer virus, is that a worm",
+      "options": [
+        "cannot cause any damage to a computer system",
+        "only affects mainframe computers, never personal computers",
+        "must attach itself to a host file or program in order to spread",
+        "can replicate and spread across a network independently, without needing to attach to a host file"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unlike a virus, which typically needs to attach to a host program to spread, a worm is a standalone program that can self-replicate and spread across networks on its own."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A Trojan horse, as a type of malicious software, is characterised by",
+      "options": [
+        "disguising itself as legitimate or useful software while secretly performing harmful actions once installed",
+        "only targeting network routers and never personal computers",
+        "being unable to spread through email attachments",
+        "openly announcing itself as harmful software before installation"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Trojan horse masquerades as legitimate or desirable software to trick users into installing it, while secretly carrying out malicious actions in the background."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Ransomware is a form of malicious software that specifically works by",
+      "options": [
+        "permanently deleting itself immediately after installation with no further effect",
+        "automatically updating a computer's antivirus software",
+        "improving a computer's processing speed as a reward for installation",
+        "encrypting a victim's files and demanding payment before restoring access to them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ransomware encrypts a victim's files or locks their system, then demands a ransom payment, often in cryptocurrency, before providing the means to restore access."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "The key difference between ethical hacking and malicious hacking is that ethical hacking is carried out",
+      "options": [
+        "with proper authorisation, to identify and help fix security vulnerabilities",
+        "exclusively to steal financial information for personal gain",
+        "without the knowledge or permission of the system owner",
+        "only by government agencies, never by private individuals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ethical hacking is performed with the explicit permission of the system's owner, with the goal of discovering and reporting security weaknesses so they can be fixed."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Software piracy refers to",
+      "options": [
+        "reporting a software bug to its original developer",
+        "writing original software code from scratch",
+        "the unauthorised copying, distribution, or use of software in violation of its copyright licence",
+        "legally purchasing a single licensed copy of software for personal use"
+      ],
+      "correctIndex": 2,
+      "explanation": "Software piracy involves illegally copying, distributing, or using software without the proper licence or permission from the copyright holder."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Copyright law, as applied to computer software, primarily serves to",
+      "options": [
+        "grant the creator of the software exclusive legal rights over its use, copying, and distribution",
+        "prevent any software from ever being sold commercially",
+        "guarantee that software can never contain any bugs",
+        "require that all software must always be distributed for free"
+      ],
+      "correctIndex": 0,
+      "explanation": "Copyright law grants the original creator of software exclusive rights to control how it is copied, distributed, and used, protecting it from unauthorised exploitation."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Identity theft, as a form of cybercrime, specifically involves a criminal",
+      "options": [
+        "legally registering a new email account",
+        "developing antivirus software for public distribution",
+        "unlawfully obtaining and using another person's personal information, such as bank or identification details, typically for financial gain",
+        "improving their own computer's security settings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Identity theft occurs when a criminal illegally acquires and misuses someone else's personal or financial information, usually to commit fraud or gain financially."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Cyberbullying is best described as",
+      "options": [
+        "the use of digital communication technologies to repeatedly harass, threaten, or intimidate another person",
+        "a legitimate method of resolving online disputes through mediation",
+        "a technique used to encrypt sensitive files",
+        "a type of computer hardware fault"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cyberbullying involves using digital platforms, such as social media or messaging apps, to repeatedly harass, threaten, or intimidate someone."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Data privacy regulations, such as Nigeria's Data Protection Act, are primarily designed to",
+      "options": [
+        "establish legal rules governing how organisations collect, store, and use individuals' personal data responsibly",
+        "eliminate the need for computer passwords entirely",
+        "prevent organisations from ever collecting any personal data",
+        "require all citizens to use the same email provider"
+      ],
+      "correctIndex": 0,
+      "explanation": "Data protection regulations set legal standards for how organisations must responsibly collect, store, process, and protect individuals' personal information."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "Plagiarism in the context of digital content refers to",
+      "options": [
+        "backing up digital files to prevent data loss",
+        "presenting someone else's digital work, text, or ideas as one's own without proper acknowledgement",
+        "encrypting a document before sharing it online",
+        "properly citing and referencing another person's work in an assignment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plagiarism involves using another person's work, ideas, or content without giving proper credit, presenting it dishonestly as one's own original work."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A software developer, as an ICT career professional, is primarily responsible for",
+      "options": [
+        "designing, writing, testing, and maintaining computer programs and applications",
+        "managing a company's financial accounts using a spreadsheet",
+        "printing and distributing hardware user manuals",
+        "physically installing network cables throughout a building"
+      ],
+      "correctIndex": 0,
+      "explanation": "A software developer's core responsibility is designing, coding, testing, and maintaining computer programs and applications to meet specified requirements."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A network administrator, as an ICT career professional, is primarily responsible for",
+      "options": [
+        "designing artwork for a mobile application's user interface",
+        "compiling source code into machine language manually",
+        "writing marketing content for a company's website",
+        "installing, configuring, monitoring, and maintaining an organisation's computer network infrastructure"
+      ],
+      "correctIndex": 3,
+      "explanation": "A network administrator manages an organisation's network infrastructure, ensuring it is properly installed, configured, secured, and maintained for reliable operation."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A database administrator (DBA), as an ICT career professional, is primarily responsible for",
+      "options": [
+        "managing the security, performance, integrity, and backup of an organisation's databases",
+        "designing physical computer hardware casings",
+        "repairing damaged network cables",
+        "creating television advertisements for software products"
+      ],
+      "correctIndex": 0,
+      "explanation": "A database administrator focuses on managing the security, performance, integrity, and reliable backup of an organisation's databases."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "A cybersecurity analyst, as an ICT career professional, is primarily concerned with",
+      "options": [
+        "monitoring systems for security threats and implementing measures to protect an organisation's data and networks from attack",
+        "writing user manuals for office furniture",
+        "designing print advertisements for computer products",
+        "assembling physical computer hardware in a factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cybersecurity analyst's role centres on monitoring for threats, identifying vulnerabilities, and implementing protective measures to defend an organisation's data and systems."
+    },
+    {
+      "subject": "Computer Studies",
+      "text": "From an ethical standpoint, gaining unauthorised access to another person's computer system, even without causing any visible damage, is generally considered",
+      "options": [
+        "acceptable, as long as no files are altered or deleted",
+        "unethical and often illegal, since it violates the owner's right to control access to their own system and data",
+        "irrelevant to computer ethics, since only data theft counts as a violation",
+        "required practice for all IT professionals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unauthorised access to a computer system violates the owner's right to control who may use their system and data, making it unethical and typically illegal regardless of whether damage occurs."
+    }
+  ]
+}

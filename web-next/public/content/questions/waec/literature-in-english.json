@@ -1,0 +1,1206 @@
+{
+  "subject": "Literature in English",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "Literature in English",
+      "text": "A literary work written to be performed on stage by actors is called",
+      "options": [
+        "a novel",
+        "a sonnet",
+        "an essay",
+        "a drama (play)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drama is the literary form specifically composed for performance, using dialogue and action rather than narration."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The character flaw or error in judgement that leads to a tragic hero's downfall is called",
+      "options": [
+        "hamartia (tragic flaw)",
+        "hubris",
+        "denouement",
+        "catharsis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hamartia refers to the fatal flaw or mistake in a tragic protagonist's character that sets their downfall in motion."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Excessive pride or overconfidence that often leads a tragic hero to defy fate or the gods is called",
+      "options": [
+        "irony",
+        "hamartia",
+        "catharsis",
+        "hubris"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hubris describes extreme arrogance or pride, frequently the root cause of a tragic hero's hamartia and eventual downfall."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The emotional release or purging of pity and fear experienced by the audience at the end of a tragedy is called",
+      "options": [
+        "hubris",
+        "catharsis",
+        "hamartia",
+        "soliloquy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Catharsis, a concept from Aristotle, describes the cleansing emotional effect tragedy has on its audience through pity and fear."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A speech delivered by a character alone on stage, revealing their inner thoughts to the audience, is called a",
+      "options": [
+        "monologue delivered to another character",
+        "aside",
+        "soliloquy",
+        "prologue"
+      ],
+      "correctIndex": 2,
+      "explanation": "A soliloquy is spoken by a character alone (or believing themselves alone), giving the audience direct insight into their private thoughts."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A brief remark made by a character, heard by the audience but not by other characters on stage, is called an",
+      "options": [
+        "monologue",
+        "soliloquy",
+        "epilogue",
+        "aside"
+      ],
+      "correctIndex": 3,
+      "explanation": "An aside is a short comment directed to the audience, conventionally unheard by other characters present in the scene."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A long, uninterrupted speech by one character addressed to other characters or the audience is called a",
+      "options": [
+        "aside",
+        "soliloquy",
+        "dialogue",
+        "monologue"
+      ],
+      "correctIndex": 3,
+      "explanation": "A monologue is an extended speech by a single character, which, unlike a soliloquy, may be addressed to other characters present."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A situation in drama where the audience knows something important that a character on stage does not know is called",
+      "options": [
+        "hubris",
+        "verbal irony",
+        "situational irony",
+        "dramatic irony"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dramatic irony creates tension by allowing the audience to understand the true significance of events or words that a character misunderstands."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The sequence of events in a play, encompassing the arrangement of incidents and conflicts, is called the",
+      "options": [
+        "setting",
+        "characterization",
+        "plot",
+        "theme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plot refers to the structured sequence of events, typically including exposition, rising action, climax, falling action, and resolution."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The time and place in which the events of a play occur is called the",
+      "options": [
+        "motif",
+        "setting",
+        "theme",
+        "plot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Setting establishes the temporal and geographical context of a drama, often shaping its mood and the characters' circumstances."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The process by which a playwright creates and develops the personalities of the people in a play is called",
+      "options": [
+        "plot development",
+        "setting",
+        "denouement",
+        "characterization"
+      ],
+      "correctIndex": 3,
+      "explanation": "Characterization is the method an author uses to reveal a character's traits, motivations, and personality through action, speech, and description."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The technique of creating tension or anticipation in the audience about what will happen next is called",
+      "options": [
+        "catharsis",
+        "suspense",
+        "exposition",
+        "denouement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suspense is deliberately built by the playwright to keep the audience anxious or curious about the unfolding outcome of events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The final resolution of the plot, where loose ends are tied up after the climax, is called the",
+      "options": [
+        "climax",
+        "exposition",
+        "denouement",
+        "rising action"
+      ],
+      "correctIndex": 2,
+      "explanation": "The denouement (French for 'unknotting') is the concluding part of a play, resolving the conflicts introduced earlier in the plot."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The part of a play that introduces the characters, setting, and background information is called the",
+      "options": [
+        "climax",
+        "falling action",
+        "denouement",
+        "exposition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Exposition sets the stage at the beginning of a play, providing the audience with necessary background before the conflict develops."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The turning point or moment of highest tension in a play's plot is called the",
+      "options": [
+        "rising action",
+        "exposition",
+        "climax",
+        "denouement"
+      ],
+      "correctIndex": 2,
+      "explanation": "The climax marks the peak of dramatic tension, typically the point at which the central conflict reaches its decisive turn."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The events leading up to the climax of a play, in which tension builds, are collectively called the",
+      "options": [
+        "exposition",
+        "falling action",
+        "rising action",
+        "denouement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rising action consists of the complications and events that build tension from the exposition toward the climax."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The events that follow the climax, showing the consequences of the central conflict's resolution, are called the",
+      "options": [
+        "exposition",
+        "falling action",
+        "rising action",
+        "climax"
+      ],
+      "correctIndex": 1,
+      "explanation": "Falling action depicts how the story unwinds after the climax, leading toward the final resolution (denouement)."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A struggle between opposing forces in a play, which drives the plot forward, is called",
+      "options": [
+        "conflict",
+        "setting",
+        "denouement",
+        "motif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conflict, whether between characters, within a character, or against outside forces, is the central engine driving dramatic action."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A conflict that occurs within a single character's own mind, such as a struggle over a difficult decision, is called",
+      "options": [
+        "external conflict",
+        "internal conflict (man vs. self)",
+        "hubris",
+        "dramatic irony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal conflict occurs entirely within a character, often involving competing desires, values, or emotions."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A conflict between a character and an outside force, such as another character, society, or nature, is called",
+      "options": [
+        "internal conflict",
+        "external conflict",
+        "catharsis",
+        "dramatic irony"
+      ],
+      "correctIndex": 1,
+      "explanation": "External conflict pits a character against forces outside themselves, including other characters, society, or the natural world."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A minor character included mainly to draw a contrast that highlights the traits of a main character is called a",
+      "options": [
+        "antagonist",
+        "narrator",
+        "foil",
+        "protagonist"
+      ],
+      "correctIndex": 2,
+      "explanation": "A foil is a character whose qualities contrast with those of another character, usually the protagonist, to sharpen the audience's understanding of both."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The central character around whom the main action of a play revolves is called the",
+      "options": [
+        "foil",
+        "antagonist",
+        "narrator",
+        "protagonist"
+      ],
+      "correctIndex": 3,
+      "explanation": "The protagonist is the principal character whose goals and struggles drive the central conflict of the play."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The character or force that opposes the protagonist in a play is called the",
+      "options": [
+        "chorus",
+        "foil",
+        "antagonist",
+        "protagonist"
+      ],
+      "correctIndex": 2,
+      "explanation": "The antagonist creates the central opposition to the protagonist, generating the conflict that propels the plot."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A secondary storyline running alongside the main plot of a play, often reflecting or contrasting with it, is called a",
+      "options": [
+        "subplot",
+        "denouement",
+        "exposition",
+        "motif"
+      ],
+      "correctIndex": 0,
+      "explanation": "A subplot is a secondary line of action that develops alongside and often reinforces the themes or events of the main plot."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A group of performers in classical drama who comment on the action and reflect public opinion is called the",
+      "options": [
+        "ensemble",
+        "chorus",
+        "audience",
+        "cast"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chorus, especially prominent in classical Greek drama, provides commentary, background, and moral reflection on the unfolding events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A long fictional narrative, typically divided into chapters, is called a",
+      "options": [
+        "poem",
+        "novel",
+        "play",
+        "short story"
+      ],
+      "correctIndex": 1,
+      "explanation": "A novel is an extended work of prose fiction, usually with a complex plot and multiple characters developed over many chapters."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A short piece of fictional prose, usually focused on a single incident or a small set of characters, is called a",
+      "options": [
+        "short story",
+        "sonnet",
+        "novel",
+        "epic"
+      ],
+      "correctIndex": 0,
+      "explanation": "A short story is a brief work of fiction, generally more focused in scope and length than a novel."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Non-fiction prose that presents facts, real events, or the writer's own experiences is called",
+      "options": [
+        "non-fiction prose",
+        "fable",
+        "poetry",
+        "drama"
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-fiction prose is based on real events, facts, or genuine experience, distinguishing it from invented fictional narratives."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A story told using 'I' or 'we', from the point of view of a character within the story, is written in",
+      "options": [
+        "objective perspective",
+        "third-person omniscient perspective",
+        "first-person narrative perspective",
+        "second-person perspective"
+      ],
+      "correctIndex": 2,
+      "explanation": "A first-person narrator participates in the story and relates events using 'I' or 'we', offering a limited, personal viewpoint."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A narrative perspective in which the narrator knows the thoughts and feelings of all characters is called",
+      "options": [
+        "second-person",
+        "limited omniscient",
+        "first-person",
+        "third-person omniscient"
+      ],
+      "correctIndex": 3,
+      "explanation": "A third-person omniscient narrator has unrestricted access to the thoughts, feelings, and motivations of every character in the story."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A narrative perspective restricted to the thoughts and experiences of only one character, told using 'he' or 'she', is called",
+      "options": [
+        "third-person limited",
+        "second-person",
+        "third-person omniscient",
+        "first-person"
+      ],
+      "correctIndex": 0,
+      "explanation": "Third-person limited narration follows one character's perspective closely, without direct access to other characters' inner thoughts."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The central message, idea, or insight about life that a work of prose conveys is called its",
+      "options": [
+        "motif",
+        "plot",
+        "setting",
+        "theme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Theme is the underlying idea or message a writer explores through the events, characters, and conflicts of a narrative."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An author's distinctive way of using language, sentence structure, and tone in a work is called their",
+      "options": [
+        "plot",
+        "style",
+        "setting",
+        "theme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Style encompasses an author's particular choices in diction, sentence construction, and tone, giving a work its distinctive voice."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring element, such as an image, idea, or situation, that helps to develop a work's central theme is called a",
+      "options": [
+        "setting",
+        "protagonist",
+        "climax",
+        "motif"
+      ],
+      "correctIndex": 3,
+      "explanation": "A motif is a recurring symbolic element that reinforces or develops a text's larger themes throughout the narrative."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The underlying reasons that drive a character to behave in a particular way in a story are called their",
+      "options": [
+        "motivation",
+        "plot structure",
+        "narrative voice",
+        "setting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Character motivation explains the psychological or circumstantial reasons behind a character's actions and decisions."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A character who remains essentially unchanged throughout a story is called a",
+      "options": [
+        "foil",
+        "static character",
+        "dynamic character",
+        "narrator"
+      ],
+      "correctIndex": 1,
+      "explanation": "A static character's personality and outlook stay largely the same from the beginning to the end of the narrative."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A character who undergoes significant internal change or growth over the course of a story is called a",
+      "options": [
+        "stock character",
+        "dynamic character",
+        "flat character",
+        "static character"
+      ],
+      "correctIndex": 1,
+      "explanation": "A dynamic character experiences meaningful development or transformation as the plot unfolds."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A character defined by only one or two traits, without much complexity or depth, is called a",
+      "options": [
+        "round character",
+        "protagonist",
+        "dynamic character",
+        "flat character"
+      ],
+      "correctIndex": 3,
+      "explanation": "A flat character is simply and briefly sketched, typically embodying a single dominant trait rather than a fully developed personality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A character portrayed with the complexity, depth, and contradictions of a real person is called a",
+      "options": [
+        "stock character",
+        "foil",
+        "round character",
+        "flat character"
+      ],
+      "correctIndex": 2,
+      "explanation": "A round character is fully developed, often multi-dimensional, with believable strengths, flaws, and inner conflicts."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The organisation of events in a narrative according to the order in which they actually happen is called",
+      "options": [
+        "in medias res structure",
+        "flashback structure",
+        "frame narrative structure",
+        "chronological plot structure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chronological structure presents events in the sequence in which they occur, from earliest to latest."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A technique in which a narrative interrupts its present action to show events from an earlier time is called a",
+      "options": [
+        "flashback",
+        "foreshadowing",
+        "flash-forward",
+        "denouement"
+      ],
+      "correctIndex": 0,
+      "explanation": "A flashback shifts the narrative back in time to reveal past events relevant to the present story."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A technique in which a writer hints at events that will happen later in the story is called",
+      "options": [
+        "foreshadowing",
+        "denouement",
+        "flashback",
+        "irony"
+      ],
+      "correctIndex": 0,
+      "explanation": "Foreshadowing plants early clues or hints that prepare the reader for events that will occur later in the narrative."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A story that begins in the middle of the action, with earlier events explained later, is said to begin",
+      "options": [
+        "in denouement",
+        "in flashback only",
+        "in medias res",
+        "in exposition"
+      ],
+      "correctIndex": 2,
+      "explanation": "In medias res, Latin for 'into the middle of things', describes a narrative technique that plunges the reader directly into ongoing action."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A struggle in prose fiction between a character and society's expectations or rules is an example of",
+      "options": [
+        "conflict between the individual and society",
+        "dramatic irony",
+        "man versus nature only",
+        "internal conflict only"
+      ],
+      "correctIndex": 0,
+      "explanation": "This type of external conflict pits a character's personal desires or values against the norms, laws, or expectations of the wider society."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The physical, historical, and social environment in which a novel's events take place is called its",
+      "options": [
+        "plot",
+        "motif",
+        "theme",
+        "setting"
+      ],
+      "correctIndex": 3,
+      "explanation": "Setting situates a narrative in a particular place, time period, and social context, shaping the characters' circumstances and choices."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A group of lines forming a unit within a poem, similar to a paragraph in prose, is called a",
+      "options": [
+        "couplet only",
+        "stanza",
+        "verse only",
+        "canto only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stanza is a set of lines grouped together, forming one of the structural building blocks of a poem."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The pattern of similar-sounding word endings at the end of lines in a poem is called its",
+      "options": [
+        "stanza structure",
+        "meter",
+        "alliteration",
+        "rhyme scheme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rhyme scheme describes the ordered pattern of end rhymes across the lines of a poem, often labelled with letters like ABAB."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The rhythmic pattern of stressed and unstressed syllables in a line of poetry is called its",
+      "options": [
+        "stanza",
+        "rhyme scheme",
+        "assonance",
+        "meter"
+      ],
+      "correctIndex": 3,
+      "explanation": "Meter refers to the structured rhythm created by patterns of stressed and unstressed syllables within a poem's lines."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of the same consonant sound at the beginning of neighbouring words is called",
+      "options": [
+        "assonance",
+        "alliteration",
+        "onomatopoeia",
+        "consonance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alliteration repeats initial consonant sounds across nearby words, as in 'wild and windy weather'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of similar vowel sounds in nearby words, without the words necessarily rhyming, is called",
+      "options": [
+        "alliteration",
+        "consonance",
+        "onomatopoeia",
+        "assonance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Assonance repeats vowel sounds within words in close proximity, as in 'the rain in Spain'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of similar consonant sounds, especially at the end of words, in close proximity is called",
+      "options": [
+        "consonance",
+        "onomatopoeia",
+        "alliteration",
+        "assonance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consonance repeats consonant sounds, often at the middle or end of words, as in 'pitter-patter'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The use of words that imitate the natural sound of the thing they describe is called",
+      "options": [
+        "personification",
+        "onomatopoeia",
+        "alliteration",
+        "assonance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Onomatopoeia uses words whose pronunciation mimics real-world sounds, such as 'buzz', 'hiss', or 'clang'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Language that appeals vividly to the senses, helping a reader visualise or otherwise sensorially experience a poem, is called",
+      "options": [
+        "motif",
+        "rhyme scheme",
+        "meter",
+        "imagery"
+      ],
+      "correctIndex": 3,
+      "explanation": "Imagery uses descriptive, sensory language to create vivid mental pictures and appeal to sight, sound, touch, taste, or smell."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech that directly describes one thing as being another, without using 'like' or 'as', is called a",
+      "options": [
+        "hyperbole",
+        "personification",
+        "metaphor",
+        "simile"
+      ],
+      "correctIndex": 2,
+      "explanation": "A metaphor makes an implicit, direct comparison, asserting that one thing literally is another to highlight a shared quality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech that compares two unlike things using the words 'like' or 'as' is called a",
+      "options": [
+        "metaphor",
+        "onomatopoeia",
+        "personification",
+        "simile"
+      ],
+      "correctIndex": 3,
+      "explanation": "A simile draws an explicit comparison between two different things, using connecting words such as 'like' or 'as'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech that gives human qualities or actions to non-human things or abstract ideas is called",
+      "options": [
+        "hyperbole",
+        "metaphor",
+        "personification",
+        "simile"
+      ],
+      "correctIndex": 2,
+      "explanation": "Personification attributes human characteristics, emotions, or actions to objects, animals, or abstract concepts."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech combining two contradictory terms for effect, such as 'deafening silence', is called an",
+      "options": [
+        "hyperbole",
+        "oxymoron",
+        "paradox",
+        "irony"
+      ],
+      "correctIndex": 1,
+      "explanation": "An oxymoron places two seemingly opposite words side by side to create a striking, often thought-provoking effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A statement that seems self-contradictory or absurd but may reveal an underlying truth is called a",
+      "options": [
+        "paradox",
+        "simile",
+        "hyperbole",
+        "oxymoron"
+      ],
+      "correctIndex": 0,
+      "explanation": "A paradox appears logically contradictory on the surface, yet often expresses a deeper or more complex truth upon reflection."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech that uses deliberate exaggeration for emphasis or effect is called",
+      "options": [
+        "understatement",
+        "hyperbole",
+        "personification",
+        "oxymoron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyperbole exaggerates a statement well beyond literal truth to emphasise a point or create a strong impression."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech in which the actual meaning of words is different from, or opposite to, their literal meaning is called",
+      "options": [
+        "hyperbole",
+        "irony",
+        "personification",
+        "simile"
+      ],
+      "correctIndex": 1,
+      "explanation": "Irony conveys a meaning that contrasts with, or is opposite to, the literal or expected meaning of the words used."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech in which a part of something is used to represent the whole, or the whole represents a part, is called",
+      "options": [
+        "synecdoche",
+        "metonymy",
+        "hyperbole",
+        "personification"
+      ],
+      "correctIndex": 0,
+      "explanation": "Synecdoche uses a part of something to stand for the entire thing (e.g., 'all hands on deck' meaning all crew members)."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech in which something closely associated with a thing is used to represent that thing is called",
+      "options": [
+        "personification",
+        "simile",
+        "synecdoche",
+        "metonymy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metonymy substitutes the name of something with a closely related term (e.g., 'the crown' referring to the monarchy)."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The overall emotional atmosphere created by a poem for its reader is called its",
+      "options": [
+        "tone",
+        "rhyme scheme",
+        "mood",
+        "meter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mood refers to the emotional atmosphere or feeling that a poem evokes in its readers."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poet's attitude toward the subject matter or audience, as conveyed through word choice and style, is called",
+      "options": [
+        "mood",
+        "meter",
+        "stanza",
+        "tone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tone reflects the poet's own attitude toward the subject, distinct from mood, which is the feeling evoked in the reader."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The voice or character through whom a poem is narrated, who may or may not be the poet, is called the",
+      "options": [
+        "antagonist",
+        "persona (speaker)",
+        "chorus",
+        "protagonist"
+      ],
+      "correctIndex": 1,
+      "explanation": "The persona, or speaker, is the voice used in a poem, which readers should not automatically assume is the poet's own."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem consisting of fourteen lines, often with a specific rhyme scheme, is called a",
+      "options": [
+        "elegy",
+        "ode",
+        "ballad",
+        "sonnet"
+      ],
+      "correctIndex": 3,
+      "explanation": "A sonnet is a fixed fourteen-line poem, commonly written in forms such as the Shakespearean or Petrarchan sonnet, each with its own rhyme scheme."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A formal poem written to mourn or reflect on the death of a person is called an",
+      "options": [
+        "ballad",
+        "ode",
+        "sonnet",
+        "elegy"
+      ],
+      "correctIndex": 3,
+      "explanation": "An elegy is a reflective, often mournful poem composed to lament and honour someone who has died."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem that celebrates or addresses a particular subject in an elevated, formal style is called an",
+      "options": [
+        "ballad",
+        "epic",
+        "ode",
+        "elegy"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ode is a formal, often lyrical poem that praises or reflects deeply on a particular person, object, or idea."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem that tells a story, often in simple stanzas and originally meant to be sung, is called a",
+      "options": [
+        "sonnet",
+        "ode",
+        "ballad",
+        "elegy"
+      ],
+      "correctIndex": 2,
+      "explanation": "A ballad is a narrative poem, traditionally passed down orally or through song, often recounting dramatic or romantic events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A long narrative poem celebrating the deeds of a legendary or heroic figure is called an",
+      "options": [
+        "sonnet",
+        "epic",
+        "ballad",
+        "ode"
+      ],
+      "correctIndex": 1,
+      "explanation": "An epic is an extended narrative poem recounting the grand adventures and achievements of a heroic protagonist."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem or section of verse with no fixed rhyme scheme or regular meter is described as",
+      "options": [
+        "a ballad",
+        "free verse",
+        "a sonnet",
+        "blank verse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Free verse abandons consistent meter and rhyme, allowing the poet greater flexibility in rhythm and line structure."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Unrhymed poetry written in a regular meter, especially iambic pentameter, is called",
+      "options": [
+        "free verse",
+        "a ballad",
+        "blank verse",
+        "a sonnet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blank verse follows a consistent metrical pattern (commonly iambic pentameter) but does not use end rhyme."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of a word, phrase, or line at intervals throughout a poem, especially in songs and ballads, is called a",
+      "options": [
+        "refrain",
+        "enjambment",
+        "stanza",
+        "meter"
+      ],
+      "correctIndex": 0,
+      "explanation": "A refrain is a recurring line or phrase, often repeated at the end of each stanza, reinforcing the poem's central mood or message."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The continuation of a sentence or clause from one line of poetry to the next without a pause is called",
+      "options": [
+        "caesura",
+        "meter",
+        "refrain",
+        "enjambment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enjambment carries a thought across a line break without terminal punctuation, creating flow and momentum in the reading."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A strong pause or break occurring within a line of poetry, often marked by punctuation, is called a",
+      "options": [
+        "stanza",
+        "refrain",
+        "caesura",
+        "enjambment"
+      ],
+      "correctIndex": 2,
+      "explanation": "A caesura is a deliberate pause within a line of verse, often used for emphasis or to reflect natural speech rhythm."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poetic device that repeats a word or phrase at the beginning of successive lines or clauses for emphasis is called",
+      "options": [
+        "epistrophe",
+        "caesura",
+        "anaphora",
+        "enjambment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anaphora repeats the same word or phrase at the start of consecutive lines or sentences to build rhetorical emphasis."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Understatement that deliberately presents something as less significant than it actually is, often for ironic effect, is called",
+      "options": [
+        "litotes (meiosis)",
+        "personification",
+        "synecdoche",
+        "hyperbole"
+      ],
+      "correctIndex": 0,
+      "explanation": "Litotes (a form of meiosis) is a deliberate understatement, often using a negative to express a positive, for subtle or ironic effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A direct address to an absent person, an abstract idea, or an inanimate object as though it could respond is called",
+      "options": [
+        "apostrophe",
+        "metonymy",
+        "synecdoche",
+        "personification"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apostrophe involves addressing someone absent, deceased, or something non-human directly, as if it could hear and respond."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The use of a symbol, in poetry or prose, involves",
+      "options": [
+        "repeating consonant sounds for rhythmic effect",
+        "describing one thing directly as another",
+        "using an object, person, or place to represent an idea or concept beyond its literal meaning",
+        "creating a pause within a line of verse"
+      ],
+      "correctIndex": 2,
+      "explanation": "A symbol carries meaning beyond its literal, concrete identity, often standing for a broader abstract idea, emotion, or theme."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Allusion, as a literary device, refers to",
+      "options": [
+        "an indirect reference to another well-known work, person, or event",
+        "a technique of describing sensory experiences",
+        "a fourteen-line poem with a fixed rhyme scheme",
+        "the sound pattern created by repeating consonants"
+      ],
+      "correctIndex": 0,
+      "explanation": "Allusion briefly references a familiar work, historical event, or figure, relying on the reader's knowledge to add deeper meaning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Literature can generally be classified into which three broad forms?",
+      "options": [
+        "fiction, biography, and essay only",
+        "drama, prose, and poetry",
+        "novel, short story, and epic only",
+        "tragedy, comedy, and satire only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The three broad traditional forms of literature are drama (performed), prose (narrative fiction/non-fiction), and poetry (verse)."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A play in which the protagonist experiences a serious downfall, often due to a tragic flaw, and the ending is sorrowful, is called a",
+      "options": [
+        "tragedy",
+        "comedy",
+        "farce",
+        "melodrama"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tragedy centres on a protagonist's serious misfortune or downfall, frequently resulting from a fatal character flaw."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A play written primarily to amuse the audience, typically with a happy ending, is called a",
+      "options": [
+        "elegy",
+        "comedy",
+        "tragedy",
+        "epic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comedy aims to entertain and amuse, generally resolving its conflicts with a happy or satisfying conclusion."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A play that combines serious and comic elements, often reflecting on the complexities of life, is sometimes classified as a",
+      "options": [
+        "farce",
+        "ode",
+        "epic",
+        "tragicomedy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tragicomedy blends tragic and comic elements within a single work, resisting a purely tragic or purely comic classification."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The comparison of a work's themes to real-life or historical events, showing relevance beyond the text itself, is a key part of",
+      "options": [
+        "thematic and contextual analysis",
+        "purely plot summary",
+        "grammar and spelling checks",
+        "counting the number of characters in a play"
+      ],
+      "correctIndex": 0,
+      "explanation": "A strong literary analysis connects a text's themes to broader real-world, historical, or social contexts, deepening understanding of its significance."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When analysing a character's development across a play or novel, a student should pay close attention to",
+      "options": [
+        "only the number of times the character speaks",
+        "how the character's actions, speech, and relationships change over the course of the work",
+        "only the setting in which the character first appears",
+        "only the character's name and physical appearance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Character analysis requires tracking a character's evolving actions, motivations, and relationships throughout the narrative, not just surface details."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring social concern often explored in African drama and prose, involving tension between traditional customs and modern Western influence, is called",
+      "options": [
+        "onomatopoeia",
+        "culture conflict",
+        "dramatic irony",
+        "denouement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Culture conflict, a common theme in African literature, examines the clash between indigenous traditions and imported Western values or systems."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring theme in literature concerning the abuse of power or bribery by those in government is",
+      "options": [
+        "political corruption",
+        "catharsis",
+        "assonance",
+        "enjambment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Political corruption is a widely explored theme, especially in African literature, critiquing the misuse of power for personal gain."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The philosophical theme exploring whether events are predetermined or shaped by a character's own choices is called",
+      "options": [
+        "characterization",
+        "fate versus free will",
+        "dramatic irony",
+        "culture conflict"
+      ],
+      "correctIndex": 1,
+      "explanation": "This theme examines the tension between destiny (fate) and a character's capacity to shape their own future through choice."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring theme addressing the roles, expectations, or struggles faced by men and women within a society is called",
+      "options": [
+        "fate versus free will",
+        "gender dynamics",
+        "culture conflict",
+        "political corruption"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gender dynamics as a literary theme explores how societal expectations shape and constrain the roles of men and women."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An author's exploration of a character's search for self-understanding or a sense of belonging is commonly discussed under the theme of",
+      "options": [
+        "meter",
+        "setting",
+        "identity",
+        "onomatopoeia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Identity as a literary theme concerns a character's quest to understand who they are, often shaped by culture, history, or personal experience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When studying a Shakespearean play, understanding archaic vocabulary and grammatical forms unfamiliar to modern readers falls under the study of",
+      "options": [
+        "Elizabethan English conventions",
+        "modernist free verse techniques",
+        "African oral tradition",
+        "onomatopoeic sound patterns"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shakespeare's plays were written in Elizabethan English, requiring familiarity with archaic vocabulary, grammar, and idiom to fully understand the text."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A subplot in a Shakespearean play often serves to",
+      "options": [
+        "replace the main plot entirely",
+        "remove the need for a resolution in the main plot",
+        "confuse the audience with unrelated events",
+        "mirror, contrast with, or comment on the themes of the main plot"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subplots frequently parallel or contrast with the main plot, reinforcing or complicating the play's central themes."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When analysing a poem, identifying the number of stanzas, lines per stanza, and rhyme pattern is part of examining its",
+      "options": [
+        "characterization",
+        "thematic message alone",
+        "structural layout",
+        "historical background alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "A poem's structural layout, including stanza count and rhyme pattern, is a key formal element considered in poetic analysis."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Determining who is speaking in a poem, and whether that voice reflects the poet's own views, is part of identifying the",
+      "options": [
+        "meter",
+        "speaker (persona)",
+        "stanza length",
+        "rhyme scheme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Identifying the persona helps readers understand whose perspective and voice shape the poem's meaning, which may differ from the poet's own views."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Symbolism in a novel refers to the author's use of",
+      "options": [
+        "sentences arranged in iambic pentameter",
+        "a play's stage directions",
+        "only rhyming words at the end of each chapter",
+        "objects, characters, or events to represent deeper meanings beyond their literal significance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Symbolism allows an author to embed deeper thematic meaning within concrete elements of the narrative, such as objects or recurring images."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A shift in a novel's structure, such as a sudden change in narrative perspective or time period, is often analysed to reveal",
+      "options": [
+        "the physical size of the book",
+        "the price at which the book was sold",
+        "only errors made by the author",
+        "how the author manipulates structure to affect meaning, pace, or perspective"
+      ],
+      "correctIndex": 3,
+      "explanation": "Structural shifts, such as changes in narration or chronology, are deliberate authorial choices that can affect how meaning and tension are conveyed."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When comparing a major character to a minor character in a play or novel, the analysis usually focuses on",
+      "options": [
+        "the number of scenes set outdoors",
+        "which character speaks in rhyme",
+        "their relative importance to the plot and how they influence or reflect on each other",
+        "which character has the longer name"
+      ],
+      "correctIndex": 2,
+      "explanation": "Comparing major and minor characters typically considers their narrative weight and how minor characters support, contrast with, or reveal major ones."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The 'mood' evoked by a piece of prose fiction is best assessed by examining",
+      "options": [
+        "only the number of chapters in the novel",
+        "only the publication date of the novel",
+        "the atmosphere created through setting, word choice, and descriptive detail",
+        "only the price of the book"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mood in prose, as in poetry, is shaped by the writer's descriptive choices, setting, and overall atmosphere conveyed to the reader."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A close, line-by-line reading of a poem, examining word choice, imagery, and structure in detail, is generally referred to as",
+      "options": [
+        "characterization",
+        "skimming",
+        "plot summary",
+        "poetic analysis (close reading)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Close reading of poetry involves a detailed, careful examination of language, imagery, and form to uncover layered meanings."
+    }
+  ]
+}

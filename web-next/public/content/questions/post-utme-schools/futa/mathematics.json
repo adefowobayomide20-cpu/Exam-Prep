@@ -1,0 +1,1602 @@
+{
+  "subject": "Mathematics",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: 4(2x + 3) - 2(x - 5)",
+      "options": [
+        "10x + 22",
+        "6x - 22",
+        "6x + 22",
+        "6x + 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "4(2x+3) - 2(x-5) = 8x + 12 - 2x + 10 = 6x + 22."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve for x: 5x - 7 = 23",
+      "options": [
+        "x = 30",
+        "x = 6",
+        "x = 3",
+        "x = 4"
+      ],
+      "correctIndex": 1,
+      "explanation": "5x - 7 = 23, so 5x = 30, giving x = 6."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the value of 3^4?",
+      "options": [
+        "34",
+        "64",
+        "81",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "3^4 = 3x3x3x3 = 81."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: (2/3) + (1/6)",
+      "options": [
+        "3/9",
+        "5/6",
+        "3/6",
+        "1/2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using a common denominator of 6: (2/3 = 4/6) + (1/6) = 5/6."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find x if 6x + 5 = 3x + 26",
+      "options": [
+        "x = 31",
+        "x = 21",
+        "x = 7",
+        "x = 3"
+      ],
+      "correctIndex": 2,
+      "explanation": "6x + 5 = 3x + 26, so 3x = 21, giving x = 7."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is 15% of 480?",
+      "options": [
+        "32",
+        "48",
+        "72",
+        "64"
+      ],
+      "correctIndex": 2,
+      "explanation": "15% of 480 = 0.15 x 480 = 72."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "The average of 8 numbers is 12. What is their sum?",
+      "options": [
+        "84",
+        "20",
+        "96",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sum = average x count = 12 x 8 = 96."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve: x^2 - 25 = 0",
+      "options": [
+        "x = 5 or x = -5",
+        "x = 5 only",
+        "x = 25 or x = -25",
+        "x = -25 only"
+      ],
+      "correctIndex": 0,
+      "explanation": "x^2 = 25, so x = sqrt(25) = +-5, giving x = 5 or x = -5."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If the ratio of technical to non-technical staff in a workshop is 3:4 and there are 12 technical staff, how many non-technical staff are there?",
+      "options": [
+        "20",
+        "48",
+        "9",
+        "16"
+      ],
+      "correctIndex": 3,
+      "explanation": "3 parts = 12, so 1 part = 4. Non-technical staff = 4 parts = 4 x 4 = 16."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the perimeter of a square workshop floor with side length 12m?",
+      "options": [
+        "144m",
+        "24m",
+        "36m",
+        "48m"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perimeter of a square = 4 x side = 4 x 12 = 48m."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the area of a circular water tank base with radius 7m? (Use pi = 22/7)",
+      "options": [
+        "308 m^2",
+        "22 m^2",
+        "154 m^2",
+        "44 m^2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = pi r^2 = (22/7) x 7 x 7 = 22 x 7 = 154 m^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: 2^3 x 2^4",
+      "options": [
+        "2^12",
+        "4^7",
+        "2^7 = 128",
+        "2^1 = 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "When multiplying powers with the same base, add the exponents: 2^3 x 2^4 = 2^7 = 128."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the value of the square root of 196?",
+      "options": [
+        "14",
+        "98",
+        "13",
+        "49"
+      ],
+      "correctIndex": 0,
+      "explanation": "The square root of 196 is 14, since 14 x 14 = 196."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A vehicle travels 150km in 2.5 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "375 km/h",
+        "75 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average speed = distance/time = 150/2.5 = 60 km/h."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve for x: (x/5) - 2 = 4",
+      "options": [
+        "x = 1.2",
+        "x = 30",
+        "x = 6",
+        "x = 20"
+      ],
+      "correctIndex": 1,
+      "explanation": "(x/5) = 6, so x = 30."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the sum of the interior angles of a heptagon (7 sides)?",
+      "options": [
+        "720 degrees",
+        "540 degrees",
+        "900 degrees",
+        "1080 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sum of interior angles of a polygon = (n-2) x 180, so for a heptagon (n=7): (7-2) x 180 = 900 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the sum of the interior angles of an octagon (8 sides)?",
+      "options": [
+        "1080 degrees",
+        "720 degrees",
+        "1260 degrees",
+        "900 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using (n-2) x 180 for an octagon (n=8): (8-2) x 180 = 1080 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Factorise: x^2 - 9x + 20",
+      "options": [
+        "(x + 4)(x + 5)",
+        "(x + 20)(x - 1)",
+        "(x - 4)(x - 5)",
+        "(x - 2)(x - 10)"
+      ],
+      "correctIndex": 2,
+      "explanation": "We need two numbers that multiply to 20 and add to -9: -4 and -5. So x^2-9x+20 = (x-4)(x-5)."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is 0.75 expressed as a fraction in its lowest terms?",
+      "options": [
+        "3/4",
+        "7/10",
+        "2/3",
+        "75/100"
+      ],
+      "correctIndex": 0,
+      "explanation": "0.75 = 75/100, which simplifies to 3/4 when divided by 25."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If a = 6 and b = -2, find the value of a^2 - b^2",
+      "options": [
+        "40",
+        "8",
+        "32",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "a^2 - b^2 = 36 - 4 = 32."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the median of the data set: 3, 7, 9, 14, 22?",
+      "options": [
+        "11",
+        "7",
+        "14",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "With 5 values arranged in order (3,7,9,14,22), the median is the middle value: 9."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the mode of the data set: 2, 4, 4, 7, 9, 4, 10?",
+      "options": [
+        "10",
+        "7",
+        "9",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mode is the most frequently occurring value; 4 appears three times, more than any other value."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Convert 7/8 to a percentage.",
+      "options": [
+        "7.8%",
+        "78%",
+        "87.5%",
+        "80%"
+      ],
+      "correctIndex": 2,
+      "explanation": "7/8 = 0.875, which as a percentage is 87.5%."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the LCM (Lowest Common Multiple) of 4 and 10?",
+      "options": [
+        "14",
+        "40",
+        "2",
+        "20"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiples of 4: 4,8,12,16,20...; multiples of 10: 10,20...; the smallest common multiple is 20."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the HCF (Highest Common Factor) of 24 and 36?",
+      "options": [
+        "12",
+        "72",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "The factors of 24 are 1,2,3,4,6,8,12,24; factors of 36 are 1,2,3,4,6,9,12,18,36; the highest common factor is 12."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If 2x + 3y = 18 and x = 3, find the value of y.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Substituting x=3: 2(3) + 3y = 18, so 6 + 3y = 18, giving 3y = 12, so y = 4."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A trader sells a laptop for N78,000 after a 15% discount on the original price. What was the original price?",
+      "options": [
+        "N66,300",
+        "N89,700",
+        "N93,600",
+        "N91,764.71 (approx N91,765)"
+      ],
+      "correctIndex": 3,
+      "explanation": "If N78,000 represents 85% of the original price, then original price = 78,000/0.85 approx N91,764.71."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the next number in the sequence: 4, 12, 36, 108, ___?",
+      "options": [
+        "144",
+        "432",
+        "216",
+        "324"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each term is multiplied by 3 to get the next term: 108 x 3 = 324."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: (3a^2b) x (3ab^2)",
+      "options": [
+        "9a^3b^3",
+        "9a^2b^2",
+        "6a^2b^2",
+        "6a^3b^3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Multiplying coefficients: 3x3=9. Multiplying a terms: a^2 x a = a^3. Multiplying b terms: b x b^2 = b^3. Result: 9a^3b^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the value of x in the equation: 3(x - 2) = 2(x + 4)",
+      "options": [
+        "x = 6",
+        "x = 14",
+        "x = 10",
+        "x = 4"
+      ],
+      "correctIndex": 1,
+      "explanation": "3x - 6 = 2x + 8, so 3x - 2x = 8 + 6, giving x = 14."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A rectangular workshop floor has an area of 200 square metres and a width of 8 metres. What is its length?",
+      "options": [
+        "16 metres",
+        "20 metres",
+        "25 metres",
+        "12 metres"
+      ],
+      "correctIndex": 2,
+      "explanation": "Length = Area/Width = 200/8 = 25 metres."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the probability of picking a defective bolt from a box containing 5 defective and 15 good bolts?",
+      "options": [
+        "5/15",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total bolts = 5 + 15 = 20. Probability of defective = 5/20 = 1/4."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Express 6.3 x 10^3 as an ordinary number.",
+      "options": [
+        "6,300",
+        "0.0063",
+        "63,000",
+        "630"
+      ],
+      "correctIndex": 0,
+      "explanation": "6.3 x 10^3 = 6.3 x 1,000 = 6,300."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: 2^5 x 2^-2",
+      "options": [
+        "32",
+        "2",
+        "16",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "When multiplying powers with the same base, add the exponents: 2^5 x 2^-2 = 2^3 = 8."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: (3^2)^3",
+      "options": [
+        "729",
+        "81",
+        "243",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "When raising a power to a power, multiply the exponents: (3^2)^3 = 3^6 = 729."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: 16^(1/2)",
+      "options": [
+        "16",
+        "4",
+        "2",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "16^(1/2) means the square root of 16, which is 4, since 4 x 4 = 16."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: 27^(1/3)",
+      "options": [
+        "3",
+        "27",
+        "1",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "27^(1/3) means the cube root of 27, which is 3, since 3 x 3 x 3 = 27."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: x^5 / x^2",
+      "options": [
+        "x^2.5",
+        "x^7",
+        "x^10",
+        "x^3"
+      ],
+      "correctIndex": 3,
+      "explanation": "When dividing powers with the same base, subtract the exponents: x^5/x^2 = x^(5-2) = x^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: 5^0",
+      "options": [
+        "5",
+        "0",
+        "Undefined",
+        "1"
+      ],
+      "correctIndex": 3,
+      "explanation": "Any non-zero number raised to the power of zero equals 1, so 5^0 = 1."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: 2^3 x 2^-5",
+      "options": [
+        "1/4",
+        "4",
+        "1/8",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "2^3 x 2^-5 = 2^(3-5) = 2^-2 = 1/2^2 = 1/4."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: log base 10 of 100",
+      "options": [
+        "2",
+        "1",
+        "100",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "log10(100) asks '10 raised to what power gives 100?'; since 10^2 = 100, the answer is 2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: log base 2 of 8",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "log2(8) asks '2 raised to what power gives 8?'; since 2^3 = 8, the answer is 3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If log10 2 = 0.3010, find log10 4",
+      "options": [
+        "0.9030",
+        "0.6020",
+        "0.3010",
+        "1.2040"
+      ],
+      "correctIndex": 1,
+      "explanation": "log10(4) = log10(2^2) = 2 x log10(2) = 2 x 0.3010 = 0.6020."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Convert the binary number 101101 to base 10.",
+      "options": [
+        "53",
+        "43",
+        "46",
+        "45"
+      ],
+      "correctIndex": 3,
+      "explanation": "101101 in binary = (1x32)+(0x16)+(1x8)+(1x4)+(0x2)+(1x1) = 32+8+4+1 = 45."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Convert 37 (base 10) to base 2.",
+      "options": [
+        "101001",
+        "100110",
+        "110010",
+        "100101"
+      ],
+      "correctIndex": 3,
+      "explanation": "37 = 32+4+1 = (1x32)+(0x16)+(0x8)+(1x4)+(0x2)+(1x1), which is 100101 in base 2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Convert 2A (base 16) to base 10.",
+      "options": [
+        "42",
+        "40",
+        "52",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "In base 16, 2A = (2x16)+(10x1) = 32+10 = 42, since A represents 10."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: (2^4 x 2^3) / 2^5",
+      "options": [
+        "2",
+        "4",
+        "16",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "(2^4 x 2^3)/2^5 = 2^(4+3-5) = 2^2 = 4."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve for x: log base 2 of x = 5",
+      "options": [
+        "x = 16",
+        "x = 32",
+        "x = 25",
+        "x = 10"
+      ],
+      "correctIndex": 1,
+      "explanation": "log2(x) = 5 means 2^5 = x, so x = 32."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve for x: 2(x + 3) = 3(x - 1)",
+      "options": [
+        "x = -3",
+        "x = 9",
+        "x = -9",
+        "x = 3"
+      ],
+      "correctIndex": 1,
+      "explanation": "2x + 6 = 3x - 3, so 6 + 3 = 3x - 2x, giving x = 9."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Expand: (x + 2)(x - 5)",
+      "options": [
+        "x^2 + 3x - 10",
+        "x^2 - 3x + 10",
+        "x^2 - 3x - 10",
+        "x^2 - 7x - 10"
+      ],
+      "correctIndex": 2,
+      "explanation": "(x+2)(x-5) = x^2 - 5x + 2x - 10 = x^2 - 3x - 10."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Factorise: x^2 - 16",
+      "options": [
+        "(x - 16)(x + 1)",
+        "(x - 4)(x + 4)",
+        "(x - 2)(x + 8)",
+        "(x - 8)(x + 2)"
+      ],
+      "correctIndex": 1,
+      "explanation": "x^2 - 16 is a difference of two squares: x^2 - 4^2 = (x-4)(x+4)."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If 3x + 2y = 12 and x = 2, find the value of y.",
+      "options": [
+        "6",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Substituting x=2: 3(2) + 2y = 12, so 6 + 2y = 12, giving 2y = 6, so y = 3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: 5x - (2x - 7)",
+      "options": [
+        "3x + 14",
+        "3x - 7",
+        "3x + 7",
+        "7x + 7"
+      ],
+      "correctIndex": 2,
+      "explanation": "5x - (2x - 7) = 5x - 2x + 7 = 3x + 7."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve: x^2 - 5x + 6 = 0",
+      "options": [
+        "x = 1 or x = 6",
+        "x = -2 or x = -3",
+        "x = 2 or x = 3",
+        "x = 6 only"
+      ],
+      "correctIndex": 2,
+      "explanation": "We need two numbers that multiply to 6 and add to -5: -2 and -3. So (x-2)(x-3)=0, giving x = 2 or x = 3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: (2x^3 y^2) / (4xy)",
+      "options": [
+        "2x^2y",
+        "x^3y^2/4",
+        "x^2y",
+        "x^2y/2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dividing coefficients: 2/4 = 1/2. Dividing x terms: x^3/x = x^2. Dividing y terms: y^2/y = y. Result: x^2y/2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Expand: (x - 3)^2",
+      "options": [
+        "x^2 + 6x + 9",
+        "x^2 - 9",
+        "x^2 - 6x + 9",
+        "x^2 - 6x - 9"
+      ],
+      "correctIndex": 2,
+      "explanation": "(x-3)^2 = (x-3)(x-3) = x^2 - 3x - 3x + 9 = x^2 - 6x + 9."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve for x: (x + 1)/3 = 4",
+      "options": [
+        "x = 9",
+        "x = 15",
+        "x = 11",
+        "x = 13"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying both sides by 3: x + 1 = 12, so x = 11."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: 3(2x - 1) - 2(x + 4)",
+      "options": [
+        "4x - 5",
+        "4x + 11",
+        "4x - 11",
+        "8x - 11"
+      ],
+      "correctIndex": 2,
+      "explanation": "3(2x-1) - 2(x+4) = 6x - 3 - 2x - 8 = 4x - 11."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If f(x) = 2x^2 - 3x + 1, find f(2).",
+      "options": [
+        "9",
+        "-3",
+        "3",
+        "11"
+      ],
+      "correctIndex": 2,
+      "explanation": "f(2) = 2(2)^2 - 3(2) + 1 = 2(4) - 6 + 1 = 8 - 6 + 1 = 3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve the simultaneous equations: x + y = 10, x - y = 2",
+      "options": [
+        "x = 8, y = 2",
+        "x = 6, y = 4",
+        "x = 4, y = 6",
+        "x = 5, y = 5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adding both equations: 2x = 12, so x = 6. Substituting into x+y=10 gives y = 4."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Factorise: 2x^2 + 7x + 3",
+      "options": [
+        "(2x - 1)(x - 3)",
+        "(x + 1)(2x + 3)",
+        "(2x + 1)(x + 3)",
+        "(2x + 3)(x + 1)"
+      ],
+      "correctIndex": 2,
+      "explanation": "We need factors of 2x^2+7x+3 whose cross terms sum to 7x: (2x+1)(x+3) = 2x^2+6x+x+3 = 2x^2+7x+3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Solve: x^2 = 7x",
+      "options": [
+        "x = 0 only",
+        "x = 7 only",
+        "x = -7 or x = 0",
+        "x = 0 or x = 7"
+      ],
+      "correctIndex": 3,
+      "explanation": "x^2 - 7x = 0, so x(x-7) = 0, giving x = 0 or x = 7."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: (a + b)^2 - (a - b)^2",
+      "options": [
+        "a^2 + b^2",
+        "2ab",
+        "4ab",
+        "0"
+      ],
+      "correctIndex": 2,
+      "explanation": "(a+b)^2 - (a-b)^2 = (a^2+2ab+b^2) - (a^2-2ab+b^2) = 4ab."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the 10th term of the arithmetic progression: 3, 7, 11, ...",
+      "options": [
+        "43",
+        "39",
+        "42",
+        "35"
+      ],
+      "correctIndex": 1,
+      "explanation": "With a=3 and d=4, T10 = a + 9d = 3 + 9(4) = 3 + 36 = 39."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the sum of the first 20 terms of the arithmetic progression: 2, 5, 8, ...",
+      "options": [
+        "600",
+        "610",
+        "620",
+        "580"
+      ],
+      "correctIndex": 1,
+      "explanation": "With a=2, d=3, n=20: Sn = n/2 x [2a + (n-1)d] = 10 x [4 + 57] = 10 x 61 = 610."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the common ratio of the geometric progression: 2, 6, 18, 54, ...",
+      "options": [
+        "4",
+        "2",
+        "9",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "The common ratio is found by dividing any term by the previous term: 6/2 = 3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the 6th term of the geometric progression: 5, 10, 20, ...",
+      "options": [
+        "320",
+        "80",
+        "160",
+        "150"
+      ],
+      "correctIndex": 2,
+      "explanation": "With a=5, r=2: T6 = a x r^5 = 5 x 32 = 160."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the sum to infinity of the geometric progression: 8, 4, 2, ...",
+      "options": [
+        "20",
+        "12",
+        "16",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "With a=8, r=1/2: S(infinity) = a/(1-r) = 8/(1-0.5) = 8/0.5 = 16."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the next number in the sequence: 1, 4, 9, 16, 25, ___?",
+      "options": [
+        "36",
+        "32",
+        "49",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "The sequence is of perfect squares (1^2, 2^2, 3^2, ...); the next term is 6^2 = 36."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the next number in the sequence: 2, 3, 5, 8, 13, ___?",
+      "options": [
+        "21",
+        "26",
+        "18",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each term is the sum of the two preceding terms (a Fibonacci-style sequence): 8 + 13 = 21."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the arithmetic mean between 12 and 28.",
+      "options": [
+        "18",
+        "20",
+        "24",
+        "22"
+      ],
+      "correctIndex": 1,
+      "explanation": "The arithmetic mean of two numbers is their sum divided by 2: (12+28)/2 = 40/2 = 20."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the sum of the first 15 natural numbers.",
+      "options": [
+        "120",
+        "135",
+        "110",
+        "105"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sum = n(n+1)/2 = 15(16)/2 = 240/2 = 120."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the 12th term of the arithmetic progression: 5, 9, 13, ...",
+      "options": [
+        "48",
+        "49",
+        "45",
+        "53"
+      ],
+      "correctIndex": 1,
+      "explanation": "With a=5, d=4: T12 = a + 11d = 5 + 11(4) = 5 + 44 = 49."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the area of a rectangular plot measuring 15m by 8m.",
+      "options": [
+        "60 m^2",
+        "46 m^2",
+        "120 m^2",
+        "23 m^2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area of a rectangle = length x width = 15 x 8 = 120 m^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the volume of a cube with side length 4cm.",
+      "options": [
+        "48 cm^3",
+        "64 cm^3",
+        "16 cm^3",
+        "256 cm^3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volume of a cube = side^3 = 4^3 = 64 cm^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the volume of a cuboid measuring 5cm by 4cm by 3cm.",
+      "options": [
+        "12 cm^3",
+        "60 cm^3",
+        "120 cm^3",
+        "47 cm^3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volume of a cuboid = length x width x height = 5 x 4 x 3 = 60 cm^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the circumference of a circle with radius 14cm. (Use pi = 22/7)",
+      "options": [
+        "308 cm",
+        "176 cm",
+        "88 cm",
+        "44 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Circumference = 2 x pi x r = 2 x (22/7) x 14 = 88 cm."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the area of a triangle with base 10cm and height 6cm.",
+      "options": [
+        "30 cm^2",
+        "20 cm^2",
+        "60 cm^2",
+        "16 cm^2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area of a triangle = (1/2) x base x height = (1/2) x 10 x 6 = 30 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the volume of a cylinder with radius 7cm and height 10cm. (Use pi = 22/7)",
+      "options": [
+        "3,080 cm^3",
+        "1,540 cm^3",
+        "770 cm^3",
+        "308 cm^3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Volume = pi r^2 h = (22/7) x 49 x 10 = 22 x 7 x 10 = 1,540 cm^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the total surface area of a cube with side length 5cm.",
+      "options": [
+        "25 cm^2",
+        "150 cm^2",
+        "125 cm^2",
+        "100 cm^2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total surface area of a cube = 6 x side^2 = 6 x 25 = 150 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the area of a trapezium with parallel sides 8cm and 12cm, and height 5cm.",
+      "options": [
+        "40 cm^2",
+        "20 cm^2",
+        "100 cm^2",
+        "50 cm^2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area of a trapezium = (1/2)(sum of parallel sides) x height = (1/2)(8+12) x 5 = 10 x 5 = 50 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the perimeter of a rectangle with length 20cm and width 9cm.",
+      "options": [
+        "49 cm",
+        "58 cm",
+        "29 cm",
+        "180 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perimeter of a rectangle = 2(length + width) = 2(20+9) = 2(29) = 58 cm."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the area of a parallelogram with base 9cm and height 4cm.",
+      "options": [
+        "26 cm^2",
+        "36 cm^2",
+        "13 cm^2",
+        "18 cm^2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area of a parallelogram = base x height = 9 x 4 = 36 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the volume of a sphere with radius 3cm. (Use pi = 22/7 and volume = (4/3) pi r^3)",
+      "options": [
+        "113.14 cm^3 (approx)",
+        "28.29 cm^3",
+        "254.57 cm^3",
+        "36 cm^3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Volume = (4/3) x (22/7) x 3^3 = (4/3) x (22/7) x 27 = 2,376/21 = approximately 113.14 cm^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the total surface area of a cylinder with radius 7cm and height 10cm. (Use pi = 22/7)",
+      "options": [
+        "440 cm^2",
+        "748 cm^2",
+        "374 cm^2",
+        "1,540 cm^2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total surface area = 2 pi r(h + r) = 2 x (22/7) x 7 x (10+7) = 2 x 22 x 17 = 748 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the area of a circle with diameter 21cm. (Use pi = 22/7)",
+      "options": [
+        "693 cm^2",
+        "441 cm^2",
+        "173.25 cm^2",
+        "346.5 cm^2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Radius = 21/2 = 10.5cm. Area = pi r^2 = (22/7) x 10.5^2 = (22/7) x 110.25 = 346.5 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the area of a square with diagonal 10cm.",
+      "options": [
+        "70.7 cm^2",
+        "50 cm^2",
+        "25 cm^2",
+        "100 cm^2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area of a square from its diagonal = (diagonal^2)/2 = 100/2 = 50 cm^2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the volume of a cone with radius 6cm and height 7cm. (Use pi = 22/7)",
+      "options": [
+        "792 cm^3",
+        "528 cm^3",
+        "264 cm^3",
+        "88 cm^3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume of a cone = (1/3) pi r^2 h = (1/3) x (22/7) x 36 x 7 = (1/3) x 22 x 36 = 264 cm^3."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the sum of the interior angles of a pentagon (5 sides).",
+      "options": [
+        "450 degrees",
+        "720 degrees",
+        "540 degrees",
+        "360 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sum of interior angles = (n-2) x 180. For a pentagon (n=5): (5-2) x 180 = 540 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the size of each interior angle of a regular hexagon (6 sides).",
+      "options": [
+        "108 degrees",
+        "140 degrees",
+        "120 degrees",
+        "135 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sum of interior angles of a hexagon = (6-2) x 180 = 720 degrees. Each angle = 720/6 = 120 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the exterior angle of a regular polygon with 9 sides.",
+      "options": [
+        "60 degrees",
+        "45 degrees",
+        "40 degrees",
+        "36 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Exterior angle of a regular polygon = 360/n = 360/9 = 40 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Angles on a straight line always sum to how many degrees?",
+      "options": [
+        "270 degrees",
+        "180 degrees",
+        "90 degrees",
+        "360 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Angles on a straight line are supplementary and always sum to 180 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Angles at a point always sum to how many degrees?",
+      "options": [
+        "180 degrees",
+        "360 degrees",
+        "270 degrees",
+        "90 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Angles that meet at a single point always sum to 360 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "In a right-angled triangle, one of the other two angles is 35 degrees. Find the third angle.",
+      "options": [
+        "65 degrees",
+        "45 degrees",
+        "50 degrees",
+        "55 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "The angles of a triangle sum to 180 degrees. With a right angle (90) and 35 degrees, the third angle = 180 - 90 - 35 = 55 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Each interior angle of a regular polygon is 150 degrees. How many sides does the polygon have?",
+      "options": [
+        "10",
+        "12",
+        "9",
+        "15"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exterior angle = 180 - 150 = 30 degrees. Number of sides = 360/30 = 12."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "When two parallel lines are cut by a transversal, the corresponding angles formed are always:",
+      "options": [
+        "Equal",
+        "Complementary",
+        "Unrelated",
+        "Supplementary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Corresponding angles formed when a transversal cuts two parallel lines are always equal."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "The sum of the interior angles of any triangle is always:",
+      "options": [
+        "90 degrees",
+        "360 degrees",
+        "270 degrees",
+        "180 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "The interior angles of any triangle always sum to 180 degrees."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A triangle with exactly two equal sides is called:",
+      "options": [
+        "Scalene",
+        "Isosceles",
+        "Equilateral",
+        "Right-angled"
+      ],
+      "correctIndex": 1,
+      "explanation": "A triangle with exactly two equal sides (and two equal base angles) is called an isosceles triangle."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: sin 30 degrees",
+      "options": [
+        "1",
+        "1/2",
+        "0",
+        "sqrt(3)/2"
+      ],
+      "correctIndex": 1,
+      "explanation": "sin 30 degrees is a standard trigonometric value equal to 1/2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: cos 60 degrees",
+      "options": [
+        "1/2",
+        "sqrt(3)/2",
+        "1",
+        "0"
+      ],
+      "correctIndex": 0,
+      "explanation": "cos 60 degrees is a standard trigonometric value equal to 1/2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: tan 45 degrees",
+      "options": [
+        "1/2",
+        "0",
+        "sqrt(3)",
+        "1"
+      ],
+      "correctIndex": 3,
+      "explanation": "tan 45 degrees is a standard trigonometric value equal to 1, since sin 45 = cos 45."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Simplify: sin^2 x + cos^2 x",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "1/2"
+      ],
+      "correctIndex": 1,
+      "explanation": "By the Pythagorean identity, sin^2 x + cos^2 x = 1 for any angle x."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A right-angled triangle has legs of length 6cm and 8cm. Find the length of the hypotenuse.",
+      "options": [
+        "48 cm",
+        "100 cm",
+        "10 cm",
+        "14 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "By Pythagoras' theorem: hypotenuse = sqrt(6^2 + 8^2) = sqrt(36+64) = sqrt(100) = 10 cm."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If sin x = 0.6 and x is acute, find cos x.",
+      "options": [
+        "0.6",
+        "0.8",
+        "0.4",
+        "1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using the 3-4-5 right triangle where sin x = 3/5 = 0.6, cos x = 4/5 = 0.8. Check: 0.6^2+0.8^2 = 0.36+0.64 = 1."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: tan 30 degrees",
+      "options": [
+        "1/sqrt(3)",
+        "1",
+        "2",
+        "sqrt(3)"
+      ],
+      "correctIndex": 0,
+      "explanation": "tan 30 degrees is a standard trigonometric value equal to 1/sqrt(3) (approximately 0.577)."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: cos 0 degrees",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "90"
+      ],
+      "correctIndex": 1,
+      "explanation": "cos 0 degrees is a standard trigonometric value equal to 1."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Evaluate: sin 90 degrees",
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "-1"
+      ],
+      "correctIndex": 0,
+      "explanation": "sin 90 degrees is a standard trigonometric value equal to 1."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A ladder 10m long leans against a wall, making an angle of 60 degrees with the ground. Find the height it reaches on the wall.",
+      "options": [
+        "6.66 m",
+        "10 m",
+        "5 x sqrt(3) m (approx 8.66 m)",
+        "5 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Height = 10 x sin 60 degrees = 10 x (sqrt(3)/2) = 5 x sqrt(3), which is approximately 8.66 m."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the mean of the data set: 4, 8, 6, 10, 12",
+      "options": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mean = sum of values / number of values = (4+8+6+10+12)/5 = 40/5 = 8."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the range of the data set: 5, 9, 3, 17, 8",
+      "options": [
+        "17",
+        "14",
+        "12",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "Range = highest value - lowest value = 17 - 3 = 14."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the probability of rolling a 6 on a single fair six-sided die?",
+      "options": [
+        "1/12",
+        "1/2",
+        "1/6",
+        "1/3"
+      ],
+      "correctIndex": 2,
+      "explanation": "A fair die has 6 equally likely outcomes, so the probability of any single number is 1/6."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the probability of drawing a red card from a standard deck of 52 playing cards?",
+      "options": [
+        "1/26",
+        "1/4",
+        "1/2",
+        "1/13"
+      ],
+      "correctIndex": 2,
+      "explanation": "A standard deck has 26 red cards out of 52 total, so the probability is 26/52 = 1/2."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the mean of the first 10 natural numbers (1 to 10).",
+      "options": [
+        "10",
+        "6",
+        "5",
+        "5.5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sum of 1 to 10 = 55. Mean = 55/10 = 5.5."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the mode of the data set: 3, 5, 5, 7, 9, 5, 2",
+      "options": [
+        "3",
+        "7",
+        "5",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mode is the most frequently occurring value; 5 appears three times, more than any other value."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the median of the data set: 12, 15, 11, 20, 18",
+      "options": [
+        "15",
+        "14",
+        "18",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arranging in order: 11, 12, 15, 18, 20. With 5 values, the median is the middle value: 15."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Two fair coins are tossed. What is the probability that both show heads?",
+      "options": [
+        "3/4",
+        "1/2",
+        "1/3",
+        "1/4"
+      ],
+      "correctIndex": 3,
+      "explanation": "The probability of heads on one coin is 1/2. For two independent coins both showing heads: 1/2 x 1/2 = 1/4."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A bag contains 4 red balls and 6 blue balls. What is the probability of picking a blue ball at random?",
+      "options": [
+        "2/5",
+        "6/4",
+        "3/5",
+        "1/2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total balls = 4 + 6 = 10. Probability of blue = 6/10 = 3/5."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "In a class of 30 students, 18 offer Physics. What is the probability that a randomly chosen student offers Physics?",
+      "options": [
+        "9/15",
+        "3/5",
+        "1/2",
+        "3/10"
+      ],
+      "correctIndex": 1,
+      "explanation": "Probability = number offering Physics / total students = 18/30 = 3/5."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the range of the data set: 22, 45, 12, 38, 9",
+      "options": [
+        "45",
+        "13",
+        "36",
+        "33"
+      ],
+      "correctIndex": 2,
+      "explanation": "Range = highest value - lowest value = 45 - 9 = 36."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the mean of the data set: 2, 4, 4, 6, 8, 8, 10",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mean = sum of values / number of values = (2+4+4+6+8+8+10)/7 = 42/7 = 6."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "What is the probability of NOT rolling a 3 on a single fair six-sided die?",
+      "options": [
+        "5/6",
+        "2/3",
+        "1/6",
+        "1/2"
+      ],
+      "correctIndex": 0,
+      "explanation": "The probability of rolling a 3 is 1/6, so the probability of not rolling a 3 is 1 - 1/6 = 5/6."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "In a survey of 200 people, 60 said they prefer tea. What percentage of the people surveyed prefer tea?",
+      "options": [
+        "40%",
+        "60%",
+        "20%",
+        "30%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Percentage = (60/200) x 100 = 30%."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the mean of the first 5 even numbers: 2, 4, 6, 8, 10",
+      "options": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sum of the first 5 even numbers = 2+4+6+8+10 = 30. Mean = 30/5 = 6."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A man's age is 3 times his son's age. If the sum of their ages is 48 years, find the son's age.",
+      "options": [
+        "16 years",
+        "36 years",
+        "12 years",
+        "24 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Let the son's age be x; the man's age is 3x. Then x + 3x = 48, so 4x = 48, giving x = 12 years."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A car covers 240km using 20 litres of fuel. Find the car's fuel consumption rate in km per litre.",
+      "options": [
+        "10 km/L",
+        "12 km/L",
+        "20 km/L",
+        "24 km/L"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fuel consumption rate = distance/fuel used = 240/20 = 12 km/L."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Two numbers differ by 5, and their sum is 23. Find the two numbers.",
+      "options": [
+        "7 and 12",
+        "9 and 14",
+        "10 and 15",
+        "8 and 13"
+      ],
+      "correctIndex": 1,
+      "explanation": "Let the numbers be x and x+5. Then x + (x+5) = 23, so 2x = 18, giving x = 9 and the other number 14."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A trader buys goods for N5,000 and sells them for N6,200. Find the percentage profit.",
+      "options": [
+        "20%",
+        "12%",
+        "24%",
+        "30%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profit = 6,200 - 5,000 = N1,200. Percentage profit = (1,200/5,000) x 100 = 24%."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "Find the simple interest on N20,000 at 5% per annum for 3 years.",
+      "options": [
+        "N5,000",
+        "N2,000",
+        "N3,000",
+        "N4,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Simple Interest = (P x R x T)/100 = (20,000 x 5 x 3)/100 = 300,000/100 = N3,000."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A tank is filled by pipe A in 6 hours. What fraction of the tank does pipe A fill in one hour?",
+      "options": [
+        "1/6",
+        "1/5",
+        "6",
+        "1/12"
+      ],
+      "correctIndex": 0,
+      "explanation": "If the pipe fills the whole tank in 6 hours, it fills 1/6 of the tank in one hour."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "The sum of three consecutive integers is 72. Find the three integers.",
+      "options": [
+        "23, 24, 25",
+        "24, 25, 26",
+        "22, 24, 26",
+        "20, 24, 28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Let the integers be n-1, n, n+1. Then 3n = 72, so n = 24, giving the integers 23, 24, and 25."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A worker is paid N450 per hour. Find the worker's pay for 7.5 hours of work.",
+      "options": [
+        "N3,600",
+        "N3,500",
+        "N3,150",
+        "N3,375"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pay = rate x hours = 450 x 7.5 = N3,375."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "If 8 workers can complete a job in 15 days, how many days will 12 workers take to complete the same job at the same rate?",
+      "options": [
+        "8 days",
+        "12 days",
+        "10 days",
+        "15 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total work = 8 x 15 = 120 worker-days. With 12 workers: 120/12 = 10 days."
+    },
+    {
+      "subject": "Mathematics",
+      "text": "A shopkeeper marks up goods by 20% on the cost price, then gives a 10% discount on the marked price. Find the overall percentage change relative to the cost price.",
+      "options": [
+        "No change",
+        "10% increase",
+        "8% increase",
+        "2% increase"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taking cost price as 100: marked price = 100 x 1.20 = 120. After a 10% discount: 120 x 0.90 = 108, which is an 8% increase over the original cost price."
+    }
+  ]
+}

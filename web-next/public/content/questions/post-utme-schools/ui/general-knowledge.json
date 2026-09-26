@@ -1,0 +1,462 @@
+{
+  "subject": "General Knowledge",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "General Knowledge",
+      "text": "The University of Ibadan (UI) is located in which state?",
+      "options": [
+        "Ogun State",
+        "Osun State",
+        "Oyo State",
+        "Ondo State"
+      ],
+      "correctIndex": 2,
+      "explanation": "The University of Ibadan is located in Ibadan, the capital city of Oyo State."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year was the University of Ibadan founded, initially as University College Ibadan?",
+      "options": [
+        "1962",
+        "1953",
+        "1975",
+        "1948"
+      ],
+      "correctIndex": 3,
+      "explanation": "The University College Ibadan (UCI) was established in 1948, making UI the first degree-awarding institution in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "At its founding, University College Ibadan operated under a special academic relationship with which foreign university?",
+      "options": [
+        "University of London",
+        "University of Oxford",
+        "University of Cambridge",
+        "University of Edinburgh"
+      ],
+      "correctIndex": 0,
+      "explanation": "UCI operated as a college in special relationship with the University of London, with its degrees initially awarded by that university before UI gained full university status."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year did University College Ibadan become a fully independent university able to award its own degrees?",
+      "options": [
+        "1970",
+        "1948",
+        "1962",
+        "1976"
+      ],
+      "correctIndex": 2,
+      "explanation": "The University of Ibadan attained full university status in 1962, ending its earlier affiliation with the University of London."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "By what popular nickname is the University of Ibadan widely known among Nigerian universities?",
+      "options": [
+        "Great Ife",
+        "Citadel of Learning",
+        "Centre of Excellence",
+        "First and the Best"
+      ],
+      "correctIndex": 3,
+      "explanation": "The University of Ibadan, as Nigeria's oldest university, is popularly nicknamed 'First and the Best'."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is generally recognised as the first Nigerian Vice-Chancellor of the University of Ibadan?",
+      "options": [
+        "Kenneth Dike",
+        "Chinua Achebe",
+        "Ade Ajayi",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kenneth Onwuka Dike became the first Nigerian Vice-Chancellor of the University of Ibadan, serving in that role in the 1960s."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these celebrated writers studied at University College Ibadan in its early years?",
+      "options": [
+        "Leopold Senghor and Julius Nyerere",
+        "Nelson Mandela and Kwame Nkrumah",
+        "Wole Soyinka and Chinua Achebe",
+        "Kofi Annan and Desmond Tutu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both Wole Soyinka and Chinua Achebe were among the early students of University College Ibadan before it became a fully independent university."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Wole Soyinka, an alumnus of University College Ibadan, became the first African to win which major international prize?",
+      "options": [
+        "The Pulitzer Prize",
+        "The Nobel Prize in Literature",
+        "The Man Booker Prize",
+        "The Nobel Peace Prize"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wole Soyinka won the Nobel Prize in Literature in 1986, becoming the first African laureate in that category."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The teaching hospital affiliated with the University of Ibadan's College of Medicine, and the first of its kind in Nigeria, is known as?",
+      "options": [
+        "Lagos University Teaching Hospital (LUTH)",
+        "University College Hospital (UCH)",
+        "National Hospital Abuja",
+        "Federal Medical Centre"
+      ],
+      "correctIndex": 1,
+      "explanation": "University College Hospital (UCH) Ibadan, established in 1957, was Nigeria's first teaching hospital and remains affiliated with the University of Ibadan."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Ibadan, the city that hosts the University of Ibadan, is often described in relation to other West African cities as?",
+      "options": [
+        "One of the largest indigenous cities in West Africa",
+        "The smallest city in West Africa",
+        "A city with no historical significance",
+        "A recently founded modern city"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ibadan is widely described as one of the largest indigenous (pre-colonial, locally founded) cities in West Africa, with a long history predating British colonial rule."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Oyo State, where the University of Ibadan is situated, is officially given which nickname on its state emblem?",
+      "options": [
+        "Food Basket of the Nation",
+        "Coal City State",
+        "Pacesetter State",
+        "Centre of Excellence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oyo State carries the official nickname 'Pacesetter State', reflecting its historical prominence as part of the former Western Region."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Ibadan's older residential districts are sometimes described by which distinctive visual feature of their rooftops?",
+      "options": [
+        "Bright blue thatched roofs",
+        "White marble roofs",
+        "Brown, rusted corrugated iron roofs",
+        "Green solar-panelled roofs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Older parts of Ibadan are known for a dense spread of rusted, brown corrugated-iron roofing, a familiar sight when viewing the city from its hills."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Oyo State takes its name from which historic pre-colonial Yoruba empire?",
+      "options": [
+        "The Benin Empire",
+        "The Sokoto Caliphate",
+        "The Kanem-Bornu Empire",
+        "The Old Oyo Empire"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oyo State derives its name from the Old Oyo Empire, one of the most powerful pre-colonial Yoruba states in West Africa."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the traditional title of the paramount ruler of the Oyo Empire and its successor, the town of Oyo?",
+      "options": [
+        "The Emir of Oyo",
+        "The Oba of Benin",
+        "The Ooni of Oyo",
+        "The Alaafin of Oyo"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Alaafin of Oyo is the traditional royal title for the ruler of Oyo, historically the head of the powerful Oyo Empire."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The body responsible for accrediting academic programmes in Nigerian universities, including the University of Ibadan, is the?",
+      "options": [
+        "National Universities Commission (NUC)",
+        "Joint Admissions and Matriculation Board (JAMB)",
+        "West African Examinations Council (WAEC)",
+        "National Examinations Council (NECO)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The NUC is the regulatory body responsible for approving and accrediting academic programmes offered by Nigerian universities, ensuring they meet minimum quality standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which arm of government in Nigeria is primarily responsible for making laws?",
+      "options": [
+        "The Civil Service",
+        "The Judiciary",
+        "The Executive",
+        "The Legislature"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Legislature (the National Assembly at federal level) is the arm of government responsible for making laws, distinct from the law-enforcing Executive and law-interpreting Judiciary."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the Nigerian legislative chamber whose members represent an entire state, alongside the House of Representatives?",
+      "options": [
+        "The House of Assembly",
+        "The National Council",
+        "The Federal Council",
+        "The Senate"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Senate, together with the House of Representatives, forms Nigeria's bicameral National Assembly, with each state represented by three senators."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following countries shares a land border with Nigeria?",
+      "options": [
+        "Cameroon",
+        "Kenya",
+        "South Africa",
+        "Ghana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria shares land borders with Cameroon, Niger, Chad, and Benin Republic; Ghana, South Africa, and Kenya are not bordering countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the longest river in Africa?",
+      "options": [
+        "The Nile",
+        "The Zambezi",
+        "The Congo",
+        "The Niger"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Nile, flowing through north-eastern Africa, is the longest river on the continent."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Independent National Electoral Commission (INEC)?",
+      "options": [
+        "Organising and supervising elections in Nigeria",
+        "Regulating the Nigerian banking sector",
+        "Enforcing traffic laws nationwide",
+        "Managing Nigeria's foreign embassies"
+      ],
+      "correctIndex": 0,
+      "explanation": "INEC is Nigeria's independent body responsible for organising, conducting, and supervising elections at the federal and state levels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which cash crop was historically the dominant export of the old Western Region, which included present-day Oyo State?",
+      "options": [
+        "Cotton",
+        "Cocoa",
+        "Rubber",
+        "Groundnut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cocoa was the dominant cash crop and export earner of the old Western Region of Nigeria, which included the area now forming Oyo State."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the chemical symbol for oxygen?",
+      "options": [
+        "Og",
+        "O",
+        "Ox",
+        "O2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen's chemical symbol is simply 'O', as assigned on the periodic table of elements."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Venus",
+        "Mars"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mars is nicknamed the 'Red Planet' because of the iron oxide (rust) prevalent on its surface, which gives it a reddish appearance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Cameroon's national football team commonly nicknamed?",
+      "options": [
+        "The Elephants",
+        "The Super Eagles",
+        "The Black Stars",
+        "The Indomitable Lions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cameroon's senior men's national football team is popularly known as the Indomitable Lions, distinct from Nigeria's Super Eagles and Ghana's Black Stars."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international body is primarily responsible for global public health coordination?",
+      "options": [
+        "The World Trade Organization (WTO)",
+        "The International Monetary Fund (IMF)",
+        "The United Nations (UN)",
+        "The World Health Organization (WHO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WHO is the United Nations agency specifically responsible for coordinating international public health matters."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a system of government headed by an elected president who is both head of state and head of government?",
+      "options": [
+        "Theocracy",
+        "Parliamentary system",
+        "Constitutional monarchy",
+        "Presidential system"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a presidential system, the president serves as both head of state and head of government, as is the case in Nigeria's current constitution."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Nigerian Customs Service?",
+      "options": [
+        "Making laws for the federation",
+        "Managing the country's monetary policy",
+        "Interpreting the Nigerian constitution",
+        "Regulating and collecting duties on goods entering or leaving the country"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Nigerian Customs Service is responsible for regulating the movement of goods across Nigeria's borders and collecting the associated duties and tariffs."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is an example of a non-communicable disease?",
+      "options": [
+        "Hypertension",
+        "Cholera",
+        "Measles",
+        "Tuberculosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypertension (high blood pressure) is a non-communicable condition, unlike tuberculosis, cholera, and measles, which are infectious diseases."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest country in the world by land area?",
+      "options": [
+        "China",
+        "Russia",
+        "Canada",
+        "United States"
+      ],
+      "correctIndex": 1,
+      "explanation": "Russia, spanning parts of both Europe and Asia, is the largest country in the world by total land area."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is generally credited with leading the Sokoto Jihad in the early 19th century, later founding the Sokoto Caliphate?",
+      "options": [
+        "Muhammadu Bello",
+        "Usman Aliyu",
+        "Uthman Dan Fodio",
+        "Ahmadu Bello"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uthman Dan Fodio led the Sokoto Jihad in the early 19th century, a religious and political reform movement that resulted in the founding of the Sokoto Caliphate."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of the judiciary in a democracy?",
+      "options": [
+        "Auditing government accounts exclusively",
+        "Implementing government policy exclusively",
+        "Interpreting laws and administering justice",
+        "Making laws for the country"
+      ],
+      "correctIndex": 2,
+      "explanation": "The judiciary interprets the law and administers justice, resolving disputes and checking the powers of the other arms of government."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which vitamin deficiency is most commonly associated with the disease rickets?",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B12",
+        "Vitamin A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rickets, a condition causing weak or soft bones in children, is most commonly associated with a deficiency of Vitamin D."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of goods and services produced by a country's citizens and businesses, regardless of location?",
+      "options": [
+        "Balance of Trade",
+        "Gross Domestic Product (GDP)",
+        "Gross National Product (GNP)",
+        "Net Domestic Income"
+      ],
+      "correctIndex": 2,
+      "explanation": "GNP measures output produced by a country's nationals and businesses wherever they are located, unlike GDP which measures output within the country's borders."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does the abbreviation 'NYSC' stand for in the Nigerian context?",
+      "options": [
+        "National Youth Service Corps",
+        "National Young Scholars Corps",
+        "National Youth Skills Council",
+        "Nigerian Youth Service Commission"
+      ],
+      "correctIndex": 0,
+      "explanation": "NYSC is the scheme requiring Nigerian graduates under a certain age to serve the nation for one year, often in a state other than their own."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a persistent, sustained rise in the general price level of goods and services in an economy?",
+      "options": [
+        "Depression",
+        "Inflation",
+        "Deflation",
+        "Recession"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inflation describes an ongoing, generalised increase in prices across an economy, reducing the purchasing power of money over time."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary aim of the Economic Community of West African States (ECOWAS)?",
+      "options": [
+        "Promoting economic integration and cooperation among West African countries",
+        "Restricting all trade between West African nations",
+        "Managing international postal services",
+        "Coordinating global internet governance"
+      ],
+      "correctIndex": 0,
+      "explanation": "ECOWAS is a regional political and economic union of West African states aimed at promoting economic integration, free movement, and cooperation among member countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a government budget in which planned revenue exceeds planned expenditure?",
+      "options": [
+        "Deficit budget",
+        "Balanced budget",
+        "Zero budget",
+        "Surplus budget"
+      ],
+      "correctIndex": 3,
+      "explanation": "A surplus budget occurs when a government's expected revenue exceeds its planned spending, the opposite of a deficit budget."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a key function of the Central Bank of Nigeria (CBN) relating to monetary policy?",
+      "options": [
+        "Managing Nigeria's road transport infrastructure",
+        "Running the national postal service",
+        "Setting the retail price of consumer goods",
+        "Regulating interest rates and the money supply"
+      ],
+      "correctIndex": 3,
+      "explanation": "One of the CBN's core functions is formulating and implementing monetary policy, including regulating interest rates and controlling the money supply."
+    }
+  ]
+}

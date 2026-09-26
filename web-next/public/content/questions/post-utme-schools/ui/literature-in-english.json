@@ -1,0 +1,1206 @@
+{
+  "subject": "Literature in English",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Literature in English",
+      "text": "A play written primarily to provoke laughter and ending happily for the main characters is called a",
+      "options": [
+        "epic",
+        "comedy",
+        "elegy",
+        "tragedy"
+      ],
+      "correctIndex": 1,
+      "explanation": "A comedy is a light-hearted dramatic work marked by humour and a happy resolution for its principal characters."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A serious play in which the protagonist suffers a downfall, often due to a fatal flaw, is called a",
+      "options": [
+        "melodrama",
+        "farce",
+        "satire",
+        "tragedy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tragedy centres on a protagonist whose serious flaw or circumstances lead to a downfall, evoking pity and fear."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The term used for the flaw or error of judgement that leads a tragic hero to ruin is",
+      "options": [
+        "hamartia",
+        "catharsis",
+        "anagnorisis",
+        "peripeteia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hamartia is the tragic hero's inherent flaw or misjudgement that sets the tragic events in motion."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The sudden reversal of fortune in a tragedy, especially from good to bad, is known as",
+      "options": [
+        "catharsis",
+        "peripeteia",
+        "denouement",
+        "hamartia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Peripeteia refers to a sudden turning point or reversal of circumstances in a dramatic plot."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The moment a tragic hero moves from ignorance to knowledge or self-awareness is called",
+      "options": [
+        "nemesis",
+        "hubris",
+        "exposition",
+        "anagnorisis"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anagnorisis is the critical moment of recognition when a character discovers a crucial truth about themselves or their situation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Excessive pride or self-confidence that often leads to a tragic hero's downfall is called",
+      "options": [
+        "hubris",
+        "pathos",
+        "hamartia",
+        "irony"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hubris refers to overweening pride or arrogance, frequently a contributing cause of a tragic hero's fall."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The emotional release or purging of pity and fear experienced by an audience watching a tragedy is called",
+      "options": [
+        "catharsis",
+        "hamartia",
+        "anagnorisis",
+        "hubris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Catharsis, an idea from Aristotle, describes the audience's emotional cleansing after witnessing tragic events unfold."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech that makes a direct comparison between two unlike things without using 'like' or 'as' is a",
+      "options": [
+        "simile",
+        "alliteration",
+        "metaphor",
+        "onomatopoeia"
+      ],
+      "correctIndex": 2,
+      "explanation": "A metaphor asserts that one thing is another, creating an implicit comparison, unlike a simile which uses 'like' or 'as'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech that compares two unlike things using 'like' or 'as' is called a",
+      "options": [
+        "synecdoche",
+        "metaphor",
+        "simile",
+        "metonymy"
+      ],
+      "correctIndex": 2,
+      "explanation": "A simile makes an explicit comparison signalled by the connecting words 'like' or 'as'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Giving human qualities or actions to non-human things or abstract ideas is called",
+      "options": [
+        "hyperbole",
+        "apostrophe",
+        "personification",
+        "litotes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Personification attributes human characteristics to inanimate objects, animals, or abstract concepts."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Deliberate exaggeration used for emphasis or dramatic effect is known as",
+      "options": [
+        "litotes",
+        "hyperbole",
+        "irony",
+        "understatement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyperbole overstates something intentionally to create emphasis, not meant to be taken literally."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A statement that deliberately understates the significance of something, often for ironic effect, is called",
+      "options": [
+        "hyperbole",
+        "assonance",
+        "personification",
+        "litotes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Litotes is a form of understatement, often using a negative to affirm a positive, for ironic or restrained effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A situation in which what happens is the opposite of what was expected is called",
+      "options": [
+        "alliteration",
+        "irony",
+        "hyperbole",
+        "personification"
+      ],
+      "correctIndex": 1,
+      "explanation": "Irony highlights a contrast between expectation and reality, or between literal and intended meaning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A device in which the audience knows something a character on stage does not know is called",
+      "options": [
+        "situational irony",
+        "dramatic irony",
+        "verbal irony",
+        "cosmic irony"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dramatic irony arises when the audience possesses knowledge that a character lacks, heightening tension or humour."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A speech delivered by a character alone on stage, revealing inner thoughts to the audience, is called a",
+      "options": [
+        "monologue",
+        "soliloquy",
+        "prologue",
+        "aside"
+      ],
+      "correctIndex": 1,
+      "explanation": "A soliloquy lets a character voice private thoughts aloud while alone on stage, typical of Shakespearean drama."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A brief remark made by a character directly to the audience, unheard by the other characters present, is called an",
+      "options": [
+        "aside",
+        "prologue",
+        "elegy",
+        "epilogue"
+      ],
+      "correctIndex": 0,
+      "explanation": "An aside is a short comment understood to be heard by the audience but not by other characters in the scene."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of the same initial consonant sound in nearby words is called",
+      "options": [
+        "onomatopoeia",
+        "rhyme",
+        "assonance",
+        "alliteration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alliteration repeats the same consonant sound at the start of neighbouring words, e.g. 'wild wind whispered'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The repetition of similar vowel sounds in nearby words is called",
+      "options": [
+        "alliteration",
+        "assonance",
+        "enjambment",
+        "consonance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Assonance is the repetition of vowel sounds within nearby words, used for musical or rhythmic effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A word that imitates or suggests the natural sound it describes, such as 'buzz' or 'clang', displays",
+      "options": [
+        "oxymoron",
+        "personification",
+        "onomatopoeia",
+        "metaphor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Onomatopoeic words mimic the actual sound associated with what they describe, adding sensory vividness."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A figure of speech combining two contradictory terms, such as 'deafening silence', is called an",
+      "options": [
+        "irony",
+        "euphemism",
+        "oxymoron",
+        "hyperbole"
+      ],
+      "correctIndex": 2,
+      "explanation": "An oxymoron places two seemingly contradictory words together to create a striking effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The central character around whom the main action of a literary work revolves is called the",
+      "options": [
+        "protagonist",
+        "narrator",
+        "foil",
+        "antagonist"
+      ],
+      "correctIndex": 0,
+      "explanation": "The protagonist is the principal character whose goals and conflicts typically drive the central plot."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem of fourteen lines, often written in iambic pentameter, is called a",
+      "options": [
+        "ballad",
+        "sonnet",
+        "ode",
+        "elegy"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sonnet is a fixed fourteen-line poetic form, commonly associated with Petrarch and Shakespeare."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Lion and the Jewel, a comic play about a village belle courted by a traditional chief and a schoolteacher, was written by",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Ola Rotimi",
+        "J.P. Clark"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Lion and the Jewel is a well-known comedy by the Nigerian playwright and Nobel laureate Wole Soyinka."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Death and the King's Horseman, a tragedy exploring ritual suicide and colonial interference in Yoruba tradition, was written by",
+      "options": [
+        "Ola Rotimi",
+        "Ama Ata Aidoo",
+        "Wole Soyinka",
+        "Efua Sutherland"
+      ],
+      "correctIndex": 2,
+      "explanation": "Death and the King's Horseman is one of Wole Soyinka's most celebrated tragedies, based on a historical Oyo incident."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Kongi's Harvest, a satirical play about a dictatorial ruler in a fictional African state, was written by",
+      "options": [
+        "Wole Soyinka",
+        "Zulu Sofola",
+        "Chinua Achebe",
+        "Femi Osofisan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kongi's Harvest is a satire by Wole Soyinka that critiques tyrannical and authoritarian leadership."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Gods Are Not to Blame, a Nigerian dramatic adaptation based on the Oedipus myth, was written by",
+      "options": [
+        "Ola Rotimi",
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "J.P. Clark"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ola Rotimi's The Gods Are Not to Blame reworks the Oedipus story within a Yoruba setting, exploring fate and destiny."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Trials of Brother Jero, a satirical comedy about a fraudulent 'prophet' on Lagos Bar Beach, was written by",
+      "options": [
+        "Ola Rotimi",
+        "Wole Soyinka",
+        "Femi Osofisan",
+        "Ama Ata Aidoo"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Trials of Brother Jero is a satirical comedy by Wole Soyinka mocking religious charlatanism."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Song of a Goat, a tragic play exploring impotence and family crisis in a Niger Delta setting, was written by",
+      "options": [
+        "Ola Rotimi",
+        "J.P. Clark",
+        "Wole Soyinka",
+        "Zulu Sofola"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Song of a Goat is a tragedy by the Nigerian playwright J.P. Clark, drawing on Ijaw cultural traditions."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Marriage of Anansewa, a comedy that reworks Akan folktale motifs around the trickster figure Anansewa, was written by",
+      "options": [
+        "Ola Rotimi",
+        "Wole Soyinka",
+        "Efua Sutherland",
+        "Ama Ata Aidoo"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Marriage of Anansewa is a well-known play by the Ghanaian dramatist Efua Sutherland."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Dilemma of a Ghost, a play about a Ghanaian man who brings home an African-American wife, was written by",
+      "options": [
+        "Ama Ata Aidoo",
+        "Wole Soyinka",
+        "Efua Sutherland",
+        "Femi Osofisan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Dilemma of a Ghost is a debut play by the Ghanaian writer Ama Ata Aidoo, exploring cultural identity and heritage."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wedlock of the Gods, a tragedy centred on the customs surrounding widowhood in an Igbo community, was written by",
+      "options": [
+        "Ama Ata Aidoo",
+        "Zulu Sofola",
+        "Efua Sutherland",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wedlock of the Gods is a tragedy by Zulu Sofola, one of Nigeria's earliest published female playwrights."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wole Soyinka, the Nigerian playwright, was awarded the Nobel Prize in Literature in the year",
+      "options": [
+        "1991",
+        "2001",
+        "1977",
+        "1986"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wole Soyinka became the first African to win the Nobel Prize in Literature, in 1986."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wole Soyinka's play The Lion and the Jewel is primarily set in the",
+      "options": [
+        "Yoruba village of Ilujinle",
+        "Niger Delta creeks",
+        "city of Lagos",
+        "colonial city of Accra"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Lion and the Jewel unfolds in the fictional Yoruba village of Ilujinle, capturing tensions between tradition and modernity."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Death and the King's Horseman, the central conflict arises largely from",
+      "options": [
+        "colonial interference with a traditional ritual suicide meant to accompany a dead king",
+        "a trial of a man accused of theft",
+        "a dispute over land inheritance in a rural village",
+        "a love triangle among three young villagers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The play dramatises the clash between British colonial authority and the Yoruba custom requiring the king's horseman to die and accompany the king in the afterlife."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Femi Osofisan, a prominent Nigerian playwright known for politically engaged, revolutionary theatre, is closely associated with the play",
+      "options": [
+        "Once Upon Four Robbers",
+        "The Lion and the Jewel",
+        "Death and the King's Horseman",
+        "Wedlock of the Gods"
+      ],
+      "correctIndex": 0,
+      "explanation": "Once Upon Four Robbers is a well-known satirical play by Femi Osofisan addressing armed robbery and social justice in Nigeria."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A play built around masquerade, ritual, music, and dance drawn from indigenous African performance traditions is generally described as",
+      "options": [
+        "total theatre",
+        "well-made play",
+        "closet drama",
+        "kitchen-sink drama"
+      ],
+      "correctIndex": 0,
+      "explanation": "African total theatre integrates music, dance, ritual and spectacle alongside dialogue, distinct from purely dialogue-driven Western drama."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring theme in much African drama examined at Post-UTME level is the",
+      "options": [
+        "life of aristocrats in Victorian England",
+        "clash between traditional African values and Western colonial influence",
+        "industrial revolution in nineteenth-century Europe",
+        "space exploration in the twentieth century"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many canonical African plays, including works by Soyinka and Rotimi, dramatise tensions between indigenous tradition and colonial or modern influence."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Hamlet, the tragedy of a Danish prince seeking to avenge his father's murder, was written by",
+      "options": [
+        "George Bernard Shaw",
+        "Ben Jonson",
+        "Christopher Marlowe",
+        "William Shakespeare"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hamlet is one of William Shakespeare's most famous tragedies, centred on Prince Hamlet's quest for revenge."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Macbeth, a tragedy about a Scottish general driven by ambition and prophecy to murder his king, was written by",
+      "options": [
+        "John Webster",
+        "Arthur Miller",
+        "William Shakespeare",
+        "Thomas Kyd"
+      ],
+      "correctIndex": 2,
+      "explanation": "Macbeth dramatises the destructive effects of unchecked ambition, following General Macbeth's rise and fall."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Romeo and Juliet, a tragedy about two young lovers from feuding families, was written by",
+      "options": [
+        "Henrik Ibsen",
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Oscar Wilde"
+      ],
+      "correctIndex": 2,
+      "explanation": "Romeo and Juliet is Shakespeare's celebrated tragedy of doomed young love set against a family feud in Verona."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Othello, a tragedy about a Moorish general manipulated into jealousy by the scheming Iago, was written by",
+      "options": [
+        "John Webster",
+        "George Bernard Shaw",
+        "William Shakespeare",
+        "Ben Jonson"
+      ],
+      "correctIndex": 2,
+      "explanation": "Othello explores jealousy, manipulation and race through the downfall of its titular Moorish general."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Julius Caesar, a tragedy dramatising the assassination of a Roman ruler by a group including his friend Brutus, was written by",
+      "options": [
+        "Arthur Miller",
+        "William Shakespeare",
+        "Thomas Middleton",
+        "Christopher Marlowe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Julius Caesar dramatises the conspiracy against and assassination of the Roman leader, and its political aftermath."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "William Shakespeare, widely regarded as the greatest playwright in the English language, was born in the town of",
+      "options": [
+        "Canterbury",
+        "Stratford-upon-Avon",
+        "Liverpool",
+        "Oxford"
+      ],
+      "correctIndex": 1,
+      "explanation": "William Shakespeare was born and later buried in Stratford-upon-Avon, England."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A Doll's House, a play in which a wife named Nora ultimately leaves her husband and children to seek independence, was written by",
+      "options": [
+        "Henrik Ibsen",
+        "George Bernard Shaw",
+        "Anton Chekhov",
+        "Oscar Wilde"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Doll's House is a landmark realist drama by the Norwegian playwright Henrik Ibsen, critiquing Victorian marriage norms."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Pygmalion, a play about a phonetics professor who transforms a flower girl's speech and manners, was written by",
+      "options": [
+        "Henrik Ibsen",
+        "Oscar Wilde",
+        "George Bernard Shaw",
+        "J.B. Priestley"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pygmalion by George Bernard Shaw follows Professor Higgins as he trains Eliza Doolittle to speak and behave like a duchess."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Importance of Being Earnest, a witty comedy of manners built around mistaken identities and double lives, was written by",
+      "options": [
+        "Oscar Wilde",
+        "Arthur Miller",
+        "George Bernard Shaw",
+        "Henrik Ibsen"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Importance of Being Earnest is Oscar Wilde's famous comedy satirising Victorian social conventions."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Death of a Salesman, a tragedy about an ageing travelling salesman named Willy Loman confronting failure, was written by",
+      "options": [
+        "Arthur Miller",
+        "Tennessee Williams",
+        "Eugene O'Neill",
+        "Henrik Ibsen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Death of a Salesman is Arthur Miller's celebrated tragedy examining the American Dream through Willy Loman's decline."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An Inspector Calls, a play in which a mysterious inspector questions a family about their responsibility for a young woman's death, was written by",
+      "options": [
+        "George Bernard Shaw",
+        "Arthur Miller",
+        "Oscar Wilde",
+        "J.B. Priestley"
+      ],
+      "correctIndex": 3,
+      "explanation": "An Inspector Calls is a socially conscious drama by J.B. Priestley critiquing class privilege and moral responsibility."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A Streetcar Named Desire, a play centred on the fragile Blanche DuBois and her volatile brother-in-law Stanley Kowalski, was written by",
+      "options": [
+        "Samuel Beckett",
+        "Arthur Miller",
+        "Eugene O'Neill",
+        "Tennessee Williams"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Streetcar Named Desire is Tennessee Williams's acclaimed drama set in New Orleans, exploring illusion, desire, and decline."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Waiting for Godot, an absurdist play in which two characters endlessly await someone who never arrives, was written by",
+      "options": [
+        "Harold Pinter",
+        "Eugene Ionesco",
+        "Samuel Beckett",
+        "Tennessee Williams"
+      ],
+      "correctIndex": 2,
+      "explanation": "Waiting for Godot is Samuel Beckett's landmark absurdist play, noted for its circular structure and existential themes."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Shakespearean tragedy, a common structural feature is the presence of comic relief, which serves mainly to",
+      "options": [
+        "replace the tragic ending with a happy one",
+        "provide a brief release of tension amid otherwise serious or tragic events",
+        "eliminate the need for a central protagonist",
+        "remove all conflict from the plot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comic relief offers the audience a temporary break from tension in an otherwise serious play, before the drama resumes its tragic course."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Elizabethan and Jacobean era of English drama, associated with playwrights such as Shakespeare and Marlowe, is generally dated to the",
+      "options": [
+        "late sixteenth and early seventeenth centuries",
+        "twentieth century",
+        "Victorian era of the nineteenth century",
+        "eighteenth century"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Elizabethan and Jacobean periods span roughly the late 1500s through the early 1600s, the age of Shakespeare and his contemporaries."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Things Fall Apart, a novel depicting the rise and tragic fall of the Igbo warrior Okonkwo amid colonial encroachment, was written by",
+      "options": [
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Cyprian Ekwensi",
+        "Ngugi wa Thiong'o"
+      ],
+      "correctIndex": 1,
+      "explanation": "Things Fall Apart, published in 1958, is Chinua Achebe's landmark novel and one of the most widely read African novels."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "No Longer at Ease, a novel following Obi Okonkwo's struggles with corruption and identity in colonial-era Lagos, was written by",
+      "options": [
+        "Chinua Achebe",
+        "Cyprian Ekwensi",
+        "Elechi Amadi",
+        "Buchi Emecheta"
+      ],
+      "correctIndex": 0,
+      "explanation": "No Longer at Ease is Chinua Achebe's second novel, continuing the story of the Okonkwo lineage through Obi, Okonkwo's grandson."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Arrow of God, a novel centred on the chief priest Ezeulu and his conflict with colonial authority, was written by",
+      "options": [
+        "Ngugi wa Thiong'o",
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Amos Tutuola"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arrow of God is part of Chinua Achebe's African Trilogy, exploring the erosion of traditional religious authority under colonial rule."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Chinua Achebe, widely regarded as the father of modern African literature in English, was born in the country of",
+      "options": [
+        "Nigeria",
+        "South Africa",
+        "Ghana",
+        "Kenya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chinua Achebe was a Nigerian novelist whose works, especially Things Fall Apart, shaped modern African literature."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Palm-Wine Drinkard, a novel drawing heavily on Yoruba folklore and featuring a journey into the land of the dead, was written by",
+      "options": [
+        "Chinua Achebe",
+        "Amos Tutuola",
+        "Wole Soyinka",
+        "Cyprian Ekwensi"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Palm-Wine Drinkard is a pioneering novel by the Nigerian writer Amos Tutuola, blending oral folklore with prose fiction."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Jagua Nana, a novel about a glamorous and independent woman navigating city life in Lagos, was written by",
+      "options": [
+        "Ngugi wa Thiong'o",
+        "Chinua Achebe",
+        "Elechi Amadi",
+        "Cyprian Ekwensi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jagua Nana is a well-known urban novel by the Nigerian writer Cyprian Ekwensi, set largely in Lagos."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Concubine, a novel set in an Igbo village and centred on the beautiful but ill-fated Ihuoma, was written by",
+      "options": [
+        "Cyprian Ekwensi",
+        "Buchi Emecheta",
+        "Chinua Achebe",
+        "Elechi Amadi"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Concubine is a notable novel by the Nigerian writer Elechi Amadi, drawing on traditional Igbo cosmology."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Joys of Motherhood, a novel that critically examines the burdens placed on a Nigerian woman named Nnu Ego through marriage and motherhood, was written by",
+      "options": [
+        "Flora Nwapa",
+        "Elechi Amadi",
+        "Ama Ata Aidoo",
+        "Buchi Emecheta"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Joys of Motherhood is a major novel by the Nigerian-British writer Buchi Emecheta, exploring gender and motherhood under colonialism."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Efuru, widely regarded as one of the first internationally published novels by a Nigerian woman, was written by",
+      "options": [
+        "Buchi Emecheta",
+        "Flora Nwapa",
+        "Zulu Sofola",
+        "Ama Ata Aidoo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Efuru, published in 1966, was written by Flora Nwapa and is celebrated as a pioneering work by a Nigerian female novelist."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Weep Not, Child, a novel exploring the effects of the Mau Mau uprising on a Kenyan family, was written by",
+      "options": [
+        "Chinua Achebe",
+        "Ben Okri",
+        "Ngugi wa Thiong'o",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weep Not, Child is a novel by the Kenyan writer Ngugi wa Thiong'o, set against the backdrop of Kenya's independence struggle."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A Grain of Wheat, a novel examining betrayal and heroism among Kenyan villagers around the time of independence, was written by",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Cyprian Ekwensi",
+        "Ngugi wa Thiong'o"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Grain of Wheat is another major novel by Ngugi wa Thiong'o, set during Kenya's transition to independence."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Famished Road, a novel narrated by the spirit-child Azaro that blends realism with Yoruba spiritual belief, was written by",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Amos Tutuola",
+        "Ben Okri"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Famished Road, winner of the Booker Prize, is Ben Okri's celebrated novel narrated by the abiku (spirit-child) Azaro."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Purple Hibiscus, a novel about a strict, devout Nigerian father and his children's search for freedom, was written by",
+      "options": [
+        "Flora Nwapa",
+        "Ben Okri",
+        "Chimamanda Ngozi Adichie",
+        "Buchi Emecheta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Purple Hibiscus is a debut novel by the Nigerian writer Chimamanda Ngozi Adichie, exploring family, religion, and freedom."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Half of a Yellow Sun, a novel set against the backdrop of the Nigerian Civil War, was written by",
+      "options": [
+        "Ben Okri",
+        "Chimamanda Ngozi Adichie",
+        "Chinua Achebe",
+        "Cyprian Ekwensi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Half of a Yellow Sun is a major novel by Chimamanda Ngozi Adichie that dramatises the Biafran war and its human cost."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A recurring theme in much canonical African prose fiction is the",
+      "options": [
+        "life in medieval European monasteries",
+        "tension between traditional African society and the disruptive impact of colonialism",
+        "exploration of outer space",
+        "daily routines of European aristocracy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many major African novels, from Things Fall Apart to A Grain of Wheat, dramatise the disruption of indigenous societies by colonial rule."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Pride and Prejudice, a novel following Elizabeth Bennet's evolving relationship with the proud Mr Darcy, was written by",
+      "options": [
+        "George Eliot",
+        "Jane Austen",
+        "Charles Dickens",
+        "Charlotte Bronte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pride and Prejudice is Jane Austen's best-known novel, a comedy of manners centred on courtship in Regency England."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Great Expectations, a novel following the orphan Pip from humble beginnings to unexpected wealth, was written by",
+      "options": [
+        "Emily Bronte",
+        "Jane Austen",
+        "Charles Dickens",
+        "Thomas Hardy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Great Expectations is a coming-of-age novel by Charles Dickens, tracing Pip's moral and social development."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Oliver Twist, a novel about an orphan boy who falls in with a gang of pickpockets in London, was written by",
+      "options": [
+        "Thomas Hardy",
+        "Charles Dickens",
+        "Jane Austen",
+        "George Eliot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oliver Twist is one of Charles Dickens's earliest novels, exposing the harsh conditions faced by poor children in Victorian London."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Jane Eyre, a novel narrated by an orphaned governess who falls in love with her employer, Mr Rochester, was written by",
+      "options": [
+        "Mary Shelley",
+        "Charlotte Bronte",
+        "Emily Bronte",
+        "Jane Austen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jane Eyre is Charlotte Bronte's celebrated novel, notable for its strong first-person female narrator."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wuthering Heights, a novel centred on the destructive passion between Heathcliff and Catherine Earnshaw, was written by",
+      "options": [
+        "Charlotte Bronte",
+        "George Eliot",
+        "Emily Bronte",
+        "Jane Austen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wuthering Heights is Emily Bronte's only novel, known for its intense emotion and wild Yorkshire moorland setting."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Animal Farm, an allegorical novel in which farm animals overthrow their human owner and later fall under pig rule, was written by",
+      "options": [
+        "George Orwell",
+        "Charles Dickens",
+        "Aldous Huxley",
+        "H.G. Wells"
+      ],
+      "correctIndex": 0,
+      "explanation": "Animal Farm is George Orwell's satirical allegory of the Russian Revolution and the corruption of political power."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Nineteen Eighty-Four, a dystopian novel about a totalitarian state that monitors its citizens through a figure called Big Brother, was written by",
+      "options": [
+        "Jane Austen",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "George Orwell"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nineteen Eighty-Four is George Orwell's influential dystopian novel warning against totalitarian surveillance and control."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Robinson Crusoe, a novel about a shipwrecked sailor who survives alone on an island for years, was written by",
+      "options": [
+        "Thomas Hardy",
+        "Charles Dickens",
+        "Jonathan Swift",
+        "Daniel Defoe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Robinson Crusoe by Daniel Defoe is often cited as one of the earliest English novels, chronicling a castaway's survival."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Gulliver's Travels, a satirical novel describing a traveller's visits to fantastical lands including Lilliput, was written by",
+      "options": [
+        "Jonathan Swift",
+        "Charles Dickens",
+        "Daniel Defoe",
+        "Mark Twain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gulliver's Travels is Jonathan Swift's satirical work using fantastical voyages to critique human nature and society."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Adventures of Huckleberry Finn, a novel about a boy's journey down the Mississippi River with an escaped slave named Jim, was written by",
+      "options": [
+        "Nathaniel Hawthorne",
+        "Mark Twain",
+        "Jonathan Swift",
+        "Ernest Hemingway"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Adventures of Huckleberry Finn is Mark Twain's celebrated American novel, addressing race, freedom, and morality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Frankenstein, a novel about a scientist who creates a living being from assembled body parts, was written by",
+      "options": [
+        "Jane Austen",
+        "Mary Shelley",
+        "Emily Bronte",
+        "Charlotte Bronte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frankenstein by Mary Shelley is a foundational work of science fiction, exploring ambition and the consequences of creation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A Tale of Two Cities, a novel set during the French Revolution and centred partly on the character Sydney Carton, was written by",
+      "options": [
+        "Jane Austen",
+        "Thomas Hardy",
+        "Charles Dickens",
+        "Victor Hugo"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Tale of Two Cities is Charles Dickens's historical novel set in London and Paris during the French Revolution."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Things Fall Apart's title is drawn from a line in a poem titled 'The Second Coming', written by the poet",
+      "options": [
+        "John Keats",
+        "William Wordsworth",
+        "William Butler Yeats",
+        "Robert Frost"
+      ],
+      "correctIndex": 2,
+      "explanation": "Achebe's title Things Fall Apart is taken directly from a line in W.B. Yeats's poem 'The Second Coming.'"
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Heart of Darkness, a novella following a journey up an African river in search of the enigmatic Kurtz, was written by",
+      "options": [
+        "Rudyard Kipling",
+        "Charles Dickens",
+        "E.M. Forster",
+        "Joseph Conrad"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heart of Darkness is a novella by Joseph Conrad, widely studied for its portrayal of colonialism, though also criticised for its depiction of Africa."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A novel written in the form of letters exchanged between its characters is generally described as an",
+      "options": [
+        "bildungsroman",
+        "epistolary novel",
+        "picaresque novel",
+        "allegorical novel"
+      ],
+      "correctIndex": 1,
+      "explanation": "An epistolary novel tells its story through a series of documents, most commonly letters exchanged among characters."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Christopher Okigbo, a major Nigerian poet known for his dense, allusive verse collected in Labyrinths, died during the",
+      "options": [
+        "First World War",
+        "Ghanaian independence struggle",
+        "Second World War",
+        "Nigerian Civil War"
+      ],
+      "correctIndex": 3,
+      "explanation": "Christopher Okigbo, one of Africa's most celebrated modernist poets, was killed fighting for Biafra during the Nigerian Civil War."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Heavensgate', a sequence exploring spiritual searching and self-discovery, is a well-known poetic work by",
+      "options": [
+        "Christopher Okigbo",
+        "Gabriel Okara",
+        "Wole Soyinka",
+        "Niyi Osundare"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Heavensgate' is one of Christopher Okigbo's major poetic sequences, later gathered into his collection Labyrinths."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'The Piano and the Drums', a poem contrasting African and Western musical and cultural sensibilities, was written by",
+      "options": [
+        "Gabriel Okara",
+        "Christopher Okigbo",
+        "Niyi Osundare",
+        "Kofi Awoonor"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The Piano and the Drums' by Gabriel Okara juxtaposes traditional African drumming with Western piano music to explore cultural identity."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Niyi Osundare, a Nigerian poet known for accessible, socially engaged verse and works such as The Eye of the Earth, writes chiefly about",
+      "options": [
+        "ancient Roman politics",
+        "social and environmental concerns in everyday African life",
+        "space travel and futuristic technology",
+        "medieval European chivalry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Niyi Osundare's poetry is celebrated for engaging accessibly with social justice, the environment, and everyday African experience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Kofi Awoonor, a Ghanaian poet whose work drew heavily on Ewe oral poetic traditions, was also notably a victim of the",
+      "options": [
+        "2013 Westgate mall attack in Nairobi",
+        "First World War",
+        "Rwandan genocide",
+        "Nigerian Civil War"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kofi Awoonor, a leading Ghanaian poet, was killed during the 2013 terrorist attack on the Westgate shopping mall in Nairobi, Kenya."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Wole Soyinka, besides his celebrated plays, is also known as a poet, having published the poetry collection",
+      "options": [
+        "Songs of Innocence",
+        "Idanre and Other Poems",
+        "Leaves of Grass",
+        "The Waste Land"
+      ],
+      "correctIndex": 1,
+      "explanation": "Idanre and Other Poems is a notable poetry collection by Wole Soyinka, drawing on Yoruba mythology, particularly the god Ogun."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Dennis Brutus, a South African poet whose work protested apartheid, was notably imprisoned on",
+      "options": [
+        "St Helena",
+        "Robben Island",
+        "Devil's Island",
+        "Alcatraz Island"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dennis Brutus was imprisoned on Robben Island for his anti-apartheid activism, an experience reflected in much of his poetry."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A common feature of much African poetry studied at Post-UTME level is the drawing on",
+      "options": [
+        "oral tradition, proverbs, and indigenous imagery",
+        "purely urban American slang",
+        "Latin verse metre exclusively",
+        "strict European sonnet form exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "African poets such as Okigbo, Okara and Osundare frequently draw on oral traditions, proverbs, and indigenous cultural imagery in their verse."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Vanity', a poem cautioning against pride, materialism and self-importance in traditional Yoruba wisdom style, is associated with the poet",
+      "options": [
+        "Robert Frost",
+        "John Keats",
+        "Wole Soyinka's mode of moralising traditional verse",
+        "William Wordsworth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Poems of moral caution rooted in Yoruba proverbial wisdom, such as 'Vanity', reflect the traditional and didactic strand found in African poetry."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The overriding concern of much post-independence African poetry, including work by Okigbo and Awoonor, is",
+      "options": [
+        "the industrial machinery of nineteenth-century factories",
+        "space exploration and futuristic societies",
+        "romantic courtship in rural England",
+        "the disillusionment and turmoil following political independence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Much post-independence African poetry grapples with the disappointment, conflict, and instability that followed the optimism of independence."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Daffodils' (also known as 'I Wandered Lonely as a Cloud'), a poem celebrating a field of flowers seen while walking, was written by",
+      "options": [
+        "John Keats",
+        "William Wordsworth",
+        "Robert Frost",
+        "William Blake"
+      ],
+      "correctIndex": 1,
+      "explanation": "'I Wandered Lonely as a Cloud', popularly known as 'Daffodils', is a celebrated Romantic poem by William Wordsworth."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'The Road Not Taken', a poem reflecting on a traveller's choice between two diverging forest paths, was written by",
+      "options": [
+        "William Wordsworth",
+        "John Keats",
+        "Robert Frost",
+        "Percy Bysshe Shelley"
+      ],
+      "correctIndex": 2,
+      "explanation": "'The Road Not Taken' is one of Robert Frost's most famous poems, often read as a meditation on choice and individuality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Ode to a Nightingale', a poem meditating on beauty, mortality and escape while listening to birdsong, was written by",
+      "options": [
+        "Lord Byron",
+        "Robert Frost",
+        "William Wordsworth",
+        "John Keats"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ode to a Nightingale' is one of John Keats's major odes, exploring themes of transience, beauty, and mortality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'The Tyger', a poem questioning the nature of the creator who could fashion so fearsome a creature, was written by",
+      "options": [
+        "Robert Browning",
+        "William Blake",
+        "William Wordsworth",
+        "John Keats"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The Tyger' is a well-known poem by William Blake, part of his Songs of Experience collection."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Shakespeare's sonnets are most commonly written in a rhyme scheme and structure known as the",
+      "options": [
+        "ballad stanza form",
+        "Shakespearean (English) sonnet form",
+        "Petrarchan sonnet form only",
+        "free verse form"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shakespeare's sonnets typically follow the English (Shakespearean) sonnet form, consisting of three quatrains and a concluding couplet."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Sonnet 18' ('Shall I compare thee to a summer's day?'), a famous love poem comparing the beloved's beauty to a summer's day, was written by",
+      "options": [
+        "William Shakespeare",
+        "Percy Bysshe Shelley",
+        "William Wordsworth",
+        "John Keats"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sonnet 18' is one of William Shakespeare's most famous sonnets, praising the beloved's beauty as more enduring than a summer's day."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Ozymandias', a poem describing the ruined statue of a once-mighty and arrogant ancient king, was written by",
+      "options": [
+        "Lord Byron",
+        "John Keats",
+        "William Wordsworth",
+        "Percy Bysshe Shelley"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ozymandias' by Percy Bysshe Shelley reflects on the fleeting nature of power and glory through a decaying statue in the desert."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'The Waste Land', a long, fragmented modernist poem reflecting post-war disillusionment, was written by",
+      "options": [
+        "W.B. Yeats",
+        "T.S. Eliot",
+        "Robert Frost",
+        "William Wordsworth"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The Waste Land' is a landmark modernist poem by T.S. Eliot, noted for its fragmented structure and allusive richness."
+    }
+  ]
+}

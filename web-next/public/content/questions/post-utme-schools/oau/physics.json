@@ -1,0 +1,1206 @@
+{
+  "subject": "Physics",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Physics",
+      "text": "A metre rule is used to measure the length of a wire and gives a reading of 24.65 cm. If the zero error of the rule is +0.05 cm, what is the corrected length?",
+      "options": [
+        "24.55 cm",
+        "24.65 cm",
+        "24.70 cm",
+        "24.60 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a positive zero error, the correction is subtracted: 24.65 - 0.05 = 24.60 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "The reading on a Vernier caliper has a main scale value of 3.2 cm and a Vernier scale coincidence at the 4th division (least count 0.01 cm). What is the total reading?",
+      "options": [
+        "3.24 cm",
+        "3.40 cm",
+        "3.04 cm",
+        "3.20 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total reading = main scale + (Vernier division x least count) = 3.2 + (4 x 0.01) = 3.24 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "A micrometer screw gauge has a pitch of 0.5 mm and 50 divisions on its thimble. What is its least count?",
+      "options": [
+        "0.05 mm",
+        "0.01 mm",
+        "0.1 mm",
+        "0.001 mm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Least count = pitch / number of divisions = 0.5/50 = 0.01 mm."
+    },
+    {
+      "subject": "Physics",
+      "text": "The density of a metal block of mass 540 g and volume 60 cm3 is",
+      "options": [
+        "9 g/cm3",
+        "6 g/cm3",
+        "0.11 g/cm3",
+        "90 g/cm3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Density = mass/volume = 540/60 = 9 g/cm3."
+    },
+    {
+      "subject": "Physics",
+      "text": "Express 0.0007821 to 3 significant figures.",
+      "options": [
+        "0.0008",
+        "0.00078",
+        "0.000782",
+        "0.000780"
+      ],
+      "correctIndex": 2,
+      "explanation": "Counting from the first non-zero digit, the first three significant figures are 7, 8, 2, rounding gives 0.000782."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which of the following is a base S.I. quantity?",
+      "options": [
+        "Energy",
+        "Force",
+        "Pressure",
+        "Luminous intensity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Luminous intensity (candela) is one of the seven S.I. base quantities; force, pressure, and energy are all derived quantities."
+    },
+    {
+      "subject": "Physics",
+      "text": "The dimension of pressure (force/area) is",
+      "options": [
+        "ML-1T-2",
+        "MLT-2",
+        "ML2T-2",
+        "ML-2T-1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pressure = force/area = (MLT-2)/L2 = ML-1T-2."
+    },
+    {
+      "subject": "Physics",
+      "text": "A student records five readings of the period of a pendulum as 2.0 s, 2.1 s, 1.9 s, 2.0 s, and 2.0 s. What is the mean period?",
+      "options": [
+        "2.1 s",
+        "2.2 s",
+        "1.9 s",
+        "2.0 s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mean = (2.0+2.1+1.9+2.0+2.0)/5 = 10.0/5 = 2.0 s."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which combination of fundamental quantities gives the S.I. unit of energy?",
+      "options": [
+        "kg m-1 s-2",
+        "kg m2 s-1",
+        "kg m s-1",
+        "kg m2 s-2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Energy (joule) = force x distance = (kg m s-2)(m) = kg m2 s-2."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two lengths, 12.4 cm and 3.65 cm, are measured with instruments of different precision. Expressed to the correct number of significant figures, their sum is",
+      "options": [
+        "16.05 cm",
+        "16.1 cm",
+        "16.05 cm",
+        "16.0 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "The least precise value (12.4 cm, 1 decimal place) limits the result, so the sum 16.05 cm is rounded to 16.1 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "A boy walks 8 m east and then 6 m north. What is the magnitude of his resultant displacement?",
+      "options": [
+        "14 m",
+        "10 m",
+        "2 m",
+        "48 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resultant = sqrt(8^2 + 6^2) = sqrt(64+36) = sqrt(100) = 10 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two forces of 6 N and 8 N act at right angles at a point. The angle the resultant makes with the 8 N force is",
+      "options": [
+        "36.9 degrees",
+        "45 degrees",
+        "60 degrees",
+        "53.1 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "tan(theta) = opposite/adjacent = 6/8 = 0.75, so theta = arctan(0.75) = 36.9 degrees from the 8 N force."
+    },
+    {
+      "subject": "Physics",
+      "text": "A force of 20 N acts at 60 degrees to the horizontal. Its vertical component is approximately",
+      "options": [
+        "20 N",
+        "10 N",
+        "11.5 N",
+        "17.3 N"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vertical component = 20 sin 60 = 20 x 0.866 = 17.3 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which of the following is NOT a vector quantity?",
+      "options": [
+        "Acceleration",
+        "Speed",
+        "Weight",
+        "Momentum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed has magnitude only; velocity (its vector counterpart) has direction. Momentum, weight, and acceleration are all vectors."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two equal forces of 10 N each act on a body such that the angle between them is 120 degrees. The magnitude of their resultant is",
+      "options": [
+        "5 N",
+        "20 N",
+        "10 N",
+        "17.3 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "R = sqrt(P^2+Q^2+2PQcos(theta)) = sqrt(100+100+200cos120) = sqrt(200-100) = sqrt(100) = 10 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A river flows at 3 m/s and a boat is steered directly across at 4 m/s relative to the water. The resultant speed of the boat relative to the bank is",
+      "options": [
+        "1 m/s",
+        "5 m/s",
+        "7 m/s",
+        "12 m/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since the velocities are perpendicular, resultant = sqrt(3^2+4^2) = sqrt(25) = 5 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "Three coplanar forces of 5 N, 5 N, and 5 N act on a particle such that it remains in equilibrium. The angle between any two adjacent forces must be",
+      "options": [
+        "180 degrees",
+        "120 degrees",
+        "60 degrees",
+        "90 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Three equal forces keep a particle in equilibrium only when arranged symmetrically at 120 degrees to each other, forming a closed equilateral triangle of forces."
+    },
+    {
+      "subject": "Physics",
+      "text": "A vector of magnitude 10 units is resolved into two perpendicular components. If one component is 6 units, the other component is",
+      "options": [
+        "60 units",
+        "16 units",
+        "4 units",
+        "8 units"
+      ],
+      "correctIndex": 3,
+      "explanation": "Using Pythagoras: other component = sqrt(10^2-6^2) = sqrt(100-36) = sqrt(64) = 8 units."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car accelerates uniformly from 5 m/s to 25 m/s in 4 seconds. Its acceleration is",
+      "options": [
+        "6.25 m/s2",
+        "20 m/s2",
+        "5 m/s2",
+        "4 m/s2"
+      ],
+      "correctIndex": 2,
+      "explanation": "a = (v-u)/t = (25-5)/4 = 20/4 = 5 m/s2."
+    },
+    {
+      "subject": "Physics",
+      "text": "A stone is dropped from a height of 45 m. How long does it take to reach the ground? (g = 10 m/s2)",
+      "options": [
+        "9 s",
+        "4.5 s",
+        "3 s",
+        "2.1 s"
+      ],
+      "correctIndex": 2,
+      "explanation": "h = 0.5gt^2, so 45 = 0.5(10)t^2, t^2 = 9, t = 3 s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ball is thrown vertically upward with a velocity of 30 m/s. What maximum height does it reach? (g = 10 m/s2)",
+      "options": [
+        "45 m",
+        "60 m",
+        "90 m",
+        "30 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using v^2 = u^2 - 2gh with v=0: h = u^2/(2g) = 900/20 = 45 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car moving at 20 m/s decelerates uniformly at 4 m/s2. How long does it take to stop?",
+      "options": [
+        "16 s",
+        "5 s",
+        "80 s",
+        "0.2 s"
+      ],
+      "correctIndex": 1,
+      "explanation": "t = (v-u)/a = (0-20)/(-4) = 5 s."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object thrown horizontally from a cliff 20 m high with a speed of 15 m/s lands how far from the base of the cliff? (g = 10 m/s2)",
+      "options": [
+        "30 m",
+        "40 m",
+        "15 m",
+        "20 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "Time to fall: t = sqrt(2h/g) = sqrt(40/10) = 2 s. Horizontal range = speed x t = 15 x 2 = 30 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body of mass 5 kg initially moving at 4 m/s is acted on by a force for 3 s, increasing its velocity to 10 m/s. The magnitude of the force is",
+      "options": [
+        "70 N",
+        "10 N",
+        "30 N",
+        "2 N"
+      ],
+      "correctIndex": 1,
+      "explanation": "a = (v-u)/t = (10-4)/3 = 2 m/s2. F = ma = 5 x 2 = 10 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A bullet of mass 0.02 kg moving at 300 m/s embeds in a stationary block of mass 1.98 kg. What is the velocity of the block and bullet immediately after impact?",
+      "options": [
+        "1.5 m/s",
+        "6 m/s",
+        "3 m/s",
+        "30 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "By conservation of momentum: (0.02)(300) = (2.0)v, so v = 6/2.0 = 3 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body moves in a circle of radius 2 m at a constant speed of 4 m/s. Its centripetal acceleration is",
+      "options": [
+        "16 m/s2",
+        "2 m/s2",
+        "0.5 m/s2",
+        "8 m/s2"
+      ],
+      "correctIndex": 3,
+      "explanation": "a = v^2/r = 16/2 = 8 m/s2."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car of mass 1000 kg moving at 20 m/s is brought to rest by a constant braking force in 5 s. The braking force is",
+      "options": [
+        "1000 N",
+        "200 N",
+        "20000 N",
+        "4000 N"
+      ],
+      "correctIndex": 3,
+      "explanation": "a = (0-20)/5 = -4 m/s2. F = ma = 1000 x 4 = 4000 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two objects of masses 3 kg and 2 kg moving towards each other at 4 m/s and 6 m/s respectively collide and stick together. Taking the 3 kg direction as positive, the velocity after collision is",
+      "options": [
+        "2 m/s",
+        "1 m/s",
+        "5 m/s",
+        "0 m/s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Momentum: (3x4) + (2x-6) = 12-12 = 0. Combined mass = 5 kg, so v = 0/5 = 0 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object undergoes SHM with amplitude 0.2 m and angular frequency 5 rad/s. Its maximum velocity is",
+      "options": [
+        "0.04 m/s",
+        "5.0 m/s",
+        "0.2 m/s",
+        "1.0 m/s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maximum velocity in SHM = omega x amplitude = 5 x 0.2 = 1.0 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A projectile is fired at 40 m/s at 30 degrees to the horizontal. Its time of flight is approximately (g = 10 m/s2)",
+      "options": [
+        "4 s",
+        "2 s",
+        "8 s",
+        "3.5 s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vertical component = 40 sin30 = 20 m/s. Time of flight = 2u_y/g = 40/10 = 4 s."
+    },
+    {
+      "subject": "Physics",
+      "text": "The gravitational force between two masses of 4 kg and 9 kg separated by 3 m is (G = 6.67 x 10^-11 Nm2/kg2)",
+      "options": [
+        "1.2 x 10^-10 N",
+        "2.4 x 10^-9 N",
+        "2.67 x 10^-10 N",
+        "8.0 x 10^-10 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "F = Gm1m2/r^2 = (6.67x10^-11 x 4 x 9)/9 = (2.4012x10^-9)/9 = 2.67x10^-10 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A man weighs 700 N on Earth's surface. What would his mass be? (g = 10 m/s2)",
+      "options": [
+        "70 kg",
+        "7 kg",
+        "7000 kg",
+        "700 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "m = W/g = 700/10 = 70 kg."
+    },
+    {
+      "subject": "Physics",
+      "text": "At what height above the Earth's surface (radius R) does the value of g reduce to a quarter of its surface value?",
+      "options": [
+        "4R",
+        "R/2",
+        "2R",
+        "R"
+      ],
+      "correctIndex": 3,
+      "explanation": "g at height h is g_s(R/(R+h))^2. For g to be a quarter, (R/(R+h))^2 = 1/4, so R+h = 2R, giving h = R."
+    },
+    {
+      "subject": "Physics",
+      "text": "An astronaut's mass is 80 kg on Earth. On the Moon, where gravitational field strength is about 1/6 that of Earth, his weight is approximately (g_Earth = 10 m/s2)",
+      "options": [
+        "800 N",
+        "480 N",
+        "133 N",
+        "80 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weight on Moon = mass x g_moon = 80 x (10/6) = 133.3 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A satellite orbits the Earth at a radius where its orbital period is 90 minutes. As the orbital radius increases, the orbital period",
+      "options": [
+        "increases",
+        "becomes zero",
+        "decreases",
+        "stays constant"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Kepler's third law, T^2 is proportional to r^3, so a larger orbital radius means a longer orbital period."
+    },
+    {
+      "subject": "Physics",
+      "text": "The escape velocity from a planet of mass M and radius R is given by",
+      "options": [
+        "sqrt(GM/R2)",
+        "GM/R2",
+        "sqrt(GM/R)",
+        "sqrt(2GM/R)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Escape velocity is derived by equating kinetic energy to gravitational potential energy: 0.5mv^2 = GMm/R, giving v = sqrt(2GM/R)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A uniform beam of length 4 m and weight 60 N is balanced on a pivot at its centre. A load of 40 N is placed 1 m from the pivot on one side. Where must a 20 N load be placed on the other side to balance the beam?",
+      "options": [
+        "1 m from the pivot",
+        "0.5 m from the pivot",
+        "4 m from the pivot",
+        "2 m from the pivot"
+      ],
+      "correctIndex": 3,
+      "explanation": "Taking moments: 40 x 1 = 20 x d, so d = 40/20 = 2 m from the pivot."
+    },
+    {
+      "subject": "Physics",
+      "text": "A uniform ladder of weight 200 N and length 5 m rests on a smooth wall and rough floor. If the ladder makes an angle of 60 degrees with the floor, which factor most affects whether it stays in equilibrium?",
+      "options": [
+        "The colour of the ladder",
+        "The material of the wall alone",
+        "The temperature of the room",
+        "The frictional force at the floor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since the wall is smooth (frictionless), only friction at the floor provides the horizontal force needed to prevent the ladder from slipping."
+    },
+    {
+      "subject": "Physics",
+      "text": "A see-saw of length 6 m is pivoted at its centre. A child of weight 300 N sits 2 m from the pivot. Where should a 200 N child sit on the other side for balance?",
+      "options": [
+        "1.5 m from the pivot",
+        "4.5 m from the pivot",
+        "3 m from the pivot",
+        "2 m from the pivot"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clockwise moment = anticlockwise moment: 300 x 2 = 200 x d, so d = 600/200 = 3 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "Three forces of 10 N, 10 N, and 10 N act on a ring in equilibrium, forming a closed triangle when drawn to scale. This illustrates",
+      "options": [
+        "the law of conservation of momentum",
+        "the triangle law of forces",
+        "Newton's third law",
+        "the parallelogram law only"
+      ],
+      "correctIndex": 1,
+      "explanation": "When three concurrent forces are in equilibrium, they can be represented in magnitude and direction by the three sides of a closed triangle, taken in order."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body of weight 100 N hangs from two strings inclined at 30 degrees and 60 degrees to the vertical support beam, meeting at a point. Which principle is used to find the tensions in the strings?",
+      "options": [
+        "Lami's theorem or resolution of forces",
+        "Conservation of energy",
+        "Boyle's law",
+        "Newton's law of gravitation"
+      ],
+      "correctIndex": 0,
+      "explanation": "For three concurrent coplanar forces in equilibrium, Lami's theorem (or resolving forces into components) is used to determine unknown tensions."
+    },
+    {
+      "subject": "Physics",
+      "text": "A metre rule is balanced at the 40 cm mark when a mass of 60 g is hung at the 10 cm mark. What is the mass of the metre rule, assumed to act at the 50 cm mark?",
+      "options": [
+        "18 g",
+        "72 g",
+        "180 g",
+        "60 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taking moments about the 40 cm pivot: 60 g is 30 cm from the pivot, and the rule's weight (at 50 cm) is 10 cm from the pivot. So m x 10 = 60 x 30, giving m = 1800/10 = 180 g."
+    },
+    {
+      "subject": "Physics",
+      "text": "A force of 15 N moves an object through a distance of 8 m in the direction of the force. The work done is",
+      "options": [
+        "1.875 J",
+        "7 J",
+        "23 J",
+        "120 J"
+      ],
+      "correctIndex": 3,
+      "explanation": "Work = force x distance = 15 x 8 = 120 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body of mass 2 kg moving at 6 m/s has kinetic energy of",
+      "options": [
+        "12 J",
+        "36 J",
+        "18 J",
+        "72 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "K.E. = 0.5mv^2 = 0.5 x 2 x 36 = 36 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object of mass 5 kg is raised to a height of 4 m. Its gain in potential energy is (g = 10 m/s2)",
+      "options": [
+        "50 J",
+        "20 J",
+        "200 J",
+        "9.8 J"
+      ],
+      "correctIndex": 2,
+      "explanation": "P.E. = mgh = 5 x 10 x 4 = 200 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A machine does 3000 J of work in 15 seconds. Its power output is",
+      "options": [
+        "200 W",
+        "20 W",
+        "45000 W",
+        "3015 W"
+      ],
+      "correctIndex": 0,
+      "explanation": "Power = work/time = 3000/15 = 200 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ball of mass 0.5 kg falls freely from a height of 20 m. Its speed just before hitting the ground is (g = 10 m/s2)",
+      "options": [
+        "200 m/s",
+        "20 m/s",
+        "14.1 m/s",
+        "10 m/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "v^2 = 2gh = 2 x 10 x 20 = 400, so v = 20 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A pump raises 200 kg of water through a height of 15 m every 10 seconds. Taking g = 10 m/s2, the power of the pump is",
+      "options": [
+        "300 W",
+        "30000 W",
+        "3000 W",
+        "2000 W"
+      ],
+      "correctIndex": 2,
+      "explanation": "Power = mgh/t = (200 x 10 x 15)/10 = 30000/10 = 3000 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "A spring with force constant 200 N/m is compressed by 0.1 m. The elastic potential energy stored is",
+      "options": [
+        "1 J",
+        "20 J",
+        "10 J",
+        "2 J"
+      ],
+      "correctIndex": 0,
+      "explanation": "E = 0.5kx^2 = 0.5 x 200 x 0.01 = 1 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "An engine of power 5000 W is used to lift a load at a constant velocity of 2 m/s. The maximum load it can lift is (g = 10 m/s2)",
+      "options": [
+        "2500 kg",
+        "250 kg",
+        "1000 kg",
+        "25 kg"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power = Fv, so F = P/v = 5000/2 = 2500 N. Mass = F/g = 2500/10 = 250 kg."
+    },
+    {
+      "subject": "Physics",
+      "text": "By the principle of conservation of energy, a pendulum bob released from a height of 0.45 m will have a speed at its lowest point of approximately (g = 10 m/s2)",
+      "options": [
+        "4.5 m/s",
+        "3 m/s",
+        "9 m/s",
+        "1.5 m/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "mgh = 0.5mv^2, so v = sqrt(2gh) = sqrt(2x10x0.45) = sqrt(9) = 3 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A crane lifts a 500 kg load through 10 m in 25 s. What is the power developed? (g = 10 m/s2)",
+      "options": [
+        "5000 W",
+        "2000 W",
+        "200 W",
+        "1250 W"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power = mgh/t = (500x10x10)/25 = 50000/25 = 2000 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "A block of mass 10 kg rests on a horizontal surface with a coefficient of static friction of 0.4. The maximum frictional force before it starts to slide is (g = 10 m/s2)",
+      "options": [
+        "400 N",
+        "40 N",
+        "4 N",
+        "100 N"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maximum friction = mu x Normal force = 0.4 x (10x10) = 0.4 x 100 = 40 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A lever has a load of 300 N placed 0.5 m from the pivot and an effort applied 1.5 m from the pivot. The mechanical advantage of the lever is",
+      "options": [
+        "0.33",
+        "3",
+        "150",
+        "1.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a lever, M.A. = load arm ratio inversely, but here M.A. = effort distance/load distance = 1.5/0.5 = 3."
+    },
+    {
+      "subject": "Physics",
+      "text": "An inclined plane of length 10 m raises a load to a height of 2 m. Its velocity ratio is",
+      "options": [
+        "8",
+        "5",
+        "0.2",
+        "20"
+      ],
+      "correctIndex": 1,
+      "explanation": "Velocity ratio for an inclined plane = length/height = 10/2 = 5."
+    },
+    {
+      "subject": "Physics",
+      "text": "A pulley system has a velocity ratio of 4. If an effort of 150 N raises a load of 500 N, the efficiency of the system is",
+      "options": [
+        "83.3%",
+        "12%",
+        "37.5%",
+        "100%"
+      ],
+      "correctIndex": 0,
+      "explanation": "M.A. = load/effort = 500/150 = 3.33. Efficiency = (M.A./V.R.) x 100 = (3.33/4) x 100 = 83.3%."
+    },
+    {
+      "subject": "Physics",
+      "text": "A block weighing 50 N is pulled at constant velocity along a rough horizontal surface by a horizontal force of 15 N. The coefficient of kinetic friction is",
+      "options": [
+        "0.15",
+        "0.5",
+        "3.33",
+        "0.3"
+      ],
+      "correctIndex": 3,
+      "explanation": "At constant velocity, applied force = friction force = 15 N. mu = friction/normal = 15/50 = 0.3."
+    },
+    {
+      "subject": "Physics",
+      "text": "A screw jack has a pitch of 5 mm and a handle of length 35 cm. Its velocity ratio is approximately",
+      "options": [
+        "440",
+        "70",
+        "7",
+        "1.75"
+      ],
+      "correctIndex": 0,
+      "explanation": "V.R. = (2 x pi x handle length)/pitch = (2 x 3.142 x 350)/5 = 2199.1/5 = 439.8, approximately 440."
+    },
+    {
+      "subject": "Physics",
+      "text": "In a wheel and axle system, the wheel has a radius of 20 cm and the axle has a radius of 4 cm. The velocity ratio is",
+      "options": [
+        "5",
+        "16",
+        "0.2",
+        "80"
+      ],
+      "correctIndex": 0,
+      "explanation": "V.R. = radius of wheel/radius of axle = 20/4 = 5."
+    },
+    {
+      "subject": "Physics",
+      "text": "A block of mass 8 kg is on the verge of sliding down a rough incline set at 30 degrees to the horizontal. The coefficient of static friction between the block and the incline is approximately",
+      "options": [
+        "0.866",
+        "0.577",
+        "0.5",
+        "1.73"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the point of sliding, mu = tan(theta) = tan30 = 0.577."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wire of original length 2 m and cross-sectional area 1 x 10^-6 m2 extends by 1 mm under a load of 100 N. Its Young's modulus is",
+      "options": [
+        "1 x 10^11 Pa",
+        "2 x 10^8 Pa",
+        "2 x 10^11 Pa",
+        "5 x 10^10 Pa"
+      ],
+      "correctIndex": 2,
+      "explanation": "E = (F/A)/(e/L) = (100/1e-6)/(0.001/2) = (1x10^8)/(5x10^-4) = 2x10^11 Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A spring extends by 4 cm when a load of 8 N is applied, obeying Hooke's law. What load would produce an extension of 10 cm?",
+      "options": [
+        "20 N",
+        "3.2 N",
+        "10 N",
+        "16 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "k = F/e = 8/0.04 = 200 N/m. For e = 0.10 m, F = 200 x 0.10 = 20 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A liquid of density 800 kg/m3 exerts a pressure at a depth of 5 m of (g = 10 m/s2)",
+      "options": [
+        "40000 Pa",
+        "400 Pa",
+        "8000 Pa",
+        "4000 Pa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pressure = density x g x h = 800 x 10 x 5 = 40000 Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A solid object of volume 2 x 10^-4 m3 is fully submerged in water (density 1000 kg/m3). The upthrust on it is (g = 10 m/s2)",
+      "options": [
+        "0.2 N",
+        "20 N",
+        "2 N",
+        "200 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "Upthrust = weight of displaced fluid = density x volume x g = 1000 x 2x10^-4 x 10 = 2 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A hydraulic press has a small piston of area 5 cm2 and a large piston of area 100 cm2. An effort of 50 N on the small piston produces a load force of",
+      "options": [
+        "500 N",
+        "2.5 N",
+        "100 N",
+        "1000 N"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pressure is transmitted equally: F2 = F1 x (A2/A1) = 50 x (100/5) = 1000 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A capillary tube of radius 0.5 mm is dipped in water. The rise of water due to surface tension is best explained by",
+      "options": [
+        "the high density of water",
+        "atmospheric pressure alone",
+        "the boiling point of water",
+        "adhesive forces between water and glass exceeding cohesive forces within water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Capillary rise occurs because adhesion between the liquid and the tube wall exceeds cohesion within the liquid, pulling the liquid surface upward along the walls."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object weighs 50 N in air and 30 N when fully submerged in water. Its upthrust in water is",
+      "options": [
+        "20 N",
+        "30 N",
+        "50 N",
+        "80 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "Upthrust = apparent loss in weight = weight in air - weight in water = 50 - 30 = 20 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A gas occupies 400 cm3 at a pressure of 100 kPa. At constant temperature, if the pressure increases to 200 kPa, the new volume is",
+      "options": [
+        "800 cm3",
+        "400 cm3",
+        "100 cm3",
+        "200 cm3"
+      ],
+      "correctIndex": 3,
+      "explanation": "By Boyle's Law, P1V1 = P2V2: 100x400 = 200xV2, V2 = 40000/200 = 200 cm3."
+    },
+    {
+      "subject": "Physics",
+      "text": "An elastic material is stretched beyond its elastic limit. Which statement is true?",
+      "options": [
+        "It obeys Hooke's law throughout",
+        "It behaves identically to before loading",
+        "It will not return to its original length after the load is removed",
+        "Its extension remains proportional to the applied force"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beyond the elastic limit, permanent (plastic) deformation occurs, so the material does not fully recover its original dimensions when unloaded."
+    },
+    {
+      "subject": "Physics",
+      "text": "A mass of 2 kg of water is heated from 20 degC to 80 degC. If the specific heat capacity of water is 4200 J/kgK, the heat energy required is",
+      "options": [
+        "168000 J",
+        "504000 J",
+        "252000 J",
+        "84000 J"
+      ],
+      "correctIndex": 1,
+      "explanation": "Q = mc(deltaT) = 2 x 4200 x (80-20) = 2 x 4200 x 60 = 504000 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A gas at 27 degC is heated at constant pressure until its volume doubles. What is the new temperature in degrees Celsius?",
+      "options": [
+        "327 degC",
+        "300 degC",
+        "54 degC",
+        "600 degC"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Charles' Law, V1/T1 = V2/T2 in Kelvin: 300 K doubles to 600 K, which is 600-273 = 327 degC."
+    },
+    {
+      "subject": "Physics",
+      "text": "The quantity of heat needed to melt 0.5 kg of ice at 0 degC (specific latent heat of fusion of ice = 336000 J/kg) is",
+      "options": [
+        "336000 J",
+        "672000 J",
+        "84000 J",
+        "168000 J"
+      ],
+      "correctIndex": 3,
+      "explanation": "Q = mL = 0.5 x 336000 = 168000 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A block of copper of mass 200 g absorbs 1800 J of heat, raising its temperature by 25 degC. The specific heat capacity of copper is",
+      "options": [
+        "3.6 J/kgK",
+        "9000 J/kgK",
+        "0.36 J/kgK",
+        "360 J/kgK"
+      ],
+      "correctIndex": 3,
+      "explanation": "c = Q/(m x deltaT) = 1800/(0.2 x 25) = 1800/5 = 360 J/kgK."
+    },
+    {
+      "subject": "Physics",
+      "text": "A steel rod of length 2 m and linear expansivity 1.2 x 10^-5 /K is heated through 50 K. Its increase in length is",
+      "options": [
+        "1.2 mm",
+        "12 mm",
+        "0.012 mm",
+        "0.12 mm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Extension = L x alpha x deltaT = 2 x 1.2x10^-5 x 50 = 1.2x10^-3 m = 1.2 mm."
+    },
+    {
+      "subject": "Physics",
+      "text": "On the Kelvin scale, absolute zero corresponds to",
+      "options": [
+        "0 degC",
+        "100 degC",
+        "-273 degC",
+        "-100 degC"
+      ],
+      "correctIndex": 2,
+      "explanation": "Absolute zero, the theoretical lowest possible temperature, is -273.15 degC (approximately -273 degC), equal to 0 K."
+    },
+    {
+      "subject": "Physics",
+      "text": "A fixed mass of gas at constant volume has an initial pressure of 100 kPa at 300 K. When heated to 450 K, its new pressure is",
+      "options": [
+        "100 kPa",
+        "200 kPa",
+        "150 kPa",
+        "300 kPa"
+      ],
+      "correctIndex": 2,
+      "explanation": "By Pressure Law (constant volume), P1/T1 = P2/T2: P2 = 100 x (450/300) = 150 kPa."
+    },
+    {
+      "subject": "Physics",
+      "text": "Heat transfer through a metal rod without bulk movement of the metal itself is called",
+      "options": [
+        "conduction",
+        "radiation",
+        "insulation",
+        "convection"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction transfers heat energy via molecular/electron vibration and collision through a material, without the material itself flowing, unlike convection."
+    },
+    {
+      "subject": "Physics",
+      "text": "A calorimeter of negligible heat capacity contains 0.3 kg of water at 20 degC. A 0.1 kg piece of metal at 100 degC is dropped in, and the final temperature is 25 degC. Taking specific heat capacity of water as 4200 J/kgK, the specific heat capacity of the metal is approximately",
+      "options": [
+        "1260 J/kgK",
+        "840 J/kgK",
+        "168 J/kgK",
+        "420 J/kgK"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat gained by water = 0.3x4200x5 = 6300 J = heat lost by metal = 0.1 x c x 75. So c = 6300/7.5 = 840 J/kgK."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wave has a frequency of 50 Hz and wavelength 4 m. Its speed is",
+      "options": [
+        "54 m/s",
+        "0.08 m/s",
+        "200 m/s",
+        "12.5 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = frequency x wavelength = 50 x 4 = 200 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A sound wave travels 340 m in 1 second in air. If its wavelength is 0.68 m, its frequency is",
+      "options": [
+        "231.2 Hz",
+        "50 Hz",
+        "500 Hz",
+        "5000 Hz"
+      ],
+      "correctIndex": 2,
+      "explanation": "f = v/wavelength = 340/0.68 = 500 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "An observer hears an echo from a cliff 3 seconds after producing a sound. If the speed of sound in air is 340 m/s, the distance to the cliff is",
+      "options": [
+        "510 m",
+        "113.3 m",
+        "255 m",
+        "1020 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "Distance = (speed x time)/2 = (340 x 3)/2 = 1020/2 = 510 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A stationary wave is formed on a string fixed at both ends, length 1.2 m, vibrating in its fundamental mode. The wavelength of the wave is",
+      "options": [
+        "4.8 m",
+        "2.4 m",
+        "1.2 m",
+        "0.6 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "For the fundamental mode on a string fixed at both ends, wavelength = 2L = 2 x 1.2 = 2.4 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A closed pipe of length 0.5 m resonates at its fundamental frequency. Taking the speed of sound as 340 m/s, this fundamental frequency is",
+      "options": [
+        "680 Hz",
+        "340 Hz",
+        "170 Hz",
+        "85 Hz"
+      ],
+      "correctIndex": 2,
+      "explanation": "For a closed pipe, fundamental wavelength = 4L = 2.0 m. f = v/wavelength = 340/2.0 = 170 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two sound waves of frequencies 256 Hz and 260 Hz are sounded together. The beat frequency heard is",
+      "options": [
+        "2 Hz",
+        "516 Hz",
+        "4 Hz",
+        "258 Hz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beat frequency = difference between the two frequencies = 260 - 256 = 4 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "The phenomenon in which the observed frequency of a sound changes due to relative motion between source and observer is called",
+      "options": [
+        "interference",
+        "diffraction",
+        "resonance",
+        "the Doppler effect"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Doppler effect describes the apparent change in frequency of a wave due to relative motion between the source and the observer."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wave of period 0.02 s has a frequency of",
+      "options": [
+        "0.02 Hz",
+        "50 Hz",
+        "500 Hz",
+        "20 Hz"
+      ],
+      "correctIndex": 1,
+      "explanation": "f = 1/T = 1/0.02 = 50 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which property distinguishes transverse waves from longitudinal waves?",
+      "options": [
+        "Particle vibration is perpendicular to the direction of wave travel",
+        "They always travel faster",
+        "They require a medium to propagate",
+        "They cannot travel through a vacuum"
+      ],
+      "correctIndex": 0,
+      "explanation": "In transverse waves, particles oscillate perpendicular to the direction of energy propagation, unlike longitudinal waves where particles oscillate parallel to it."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed 30 cm from a converging lens of focal length 10 cm. Using 1/f = 1/v + 1/u, the image distance is",
+      "options": [
+        "20 cm",
+        "15 cm",
+        "7.5 cm",
+        "30 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "1/v = 1/f - 1/u = 1/10 - 1/30 = (3-1)/30 = 2/30, so v = 15 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "A concave mirror has a focal length of 20 cm. An object placed 60 cm from the mirror forms an image at",
+      "options": [
+        "40 cm",
+        "15 cm",
+        "12 cm",
+        "30 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/v = 1/f - 1/u = 1/20 - 1/60 = (3-1)/60 = 2/60, so v = 30 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "Light travels from air (refractive index 1) into glass (refractive index 1.5) at an angle of incidence of 30 degrees. Using Snell's law, the sine of the angle of refraction is approximately",
+      "options": [
+        "0.5",
+        "1.5",
+        "0.333",
+        "0.75"
+      ],
+      "correctIndex": 2,
+      "explanation": "n1 sin(i) = n2 sin(r): 1 x sin30 = 1.5 x sin(r), sin(r) = 0.5/1.5 = 0.333."
+    },
+    {
+      "subject": "Physics",
+      "text": "The critical angle for a medium with refractive index 1.5 is approximately",
+      "options": [
+        "48.2 degrees",
+        "30 degrees",
+        "41.8 degrees",
+        "60 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "sin(C) = 1/n = 1/1.5 = 0.667, so C = arcsin(0.667) = 41.8 degrees."
+    },
+    {
+      "subject": "Physics",
+      "text": "A convex lens forms a real, inverted image twice the size of the object. If the object distance is 15 cm, the image distance is",
+      "options": [
+        "7.5 cm",
+        "60 cm",
+        "30 cm",
+        "45 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Magnification = v/u, so 2 = v/15, giving v = 30 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object 5 cm tall is placed in front of a lens and forms an image 15 cm tall. The linear magnification produced is",
+      "options": [
+        "3",
+        "0.33",
+        "75",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Magnification = image height/object height = 15/5 = 3."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ray of light passing through a triangular glass prism is bent towards the base of the prism. This bending is due to",
+      "options": [
+        "refraction at the two prism surfaces",
+        "polarization of light",
+        "diffraction of light",
+        "total internal reflection only"
+      ],
+      "correctIndex": 0,
+      "explanation": "As light enters and exits the prism's two inclined surfaces, it refracts at each surface, bending the overall ray path towards the base."
+    },
+    {
+      "subject": "Physics",
+      "text": "The image formed in a plane mirror is",
+      "options": [
+        "real and inverted",
+        "virtual, laterally inverted, and the same size as the object",
+        "real and diminished",
+        "virtual and magnified"
+      ],
+      "correctIndex": 1,
+      "explanation": "A plane mirror always produces a virtual, upright, laterally inverted image that is the same size as the object, located as far behind the mirror as the object is in front."
+    },
+    {
+      "subject": "Physics",
+      "text": "A converging lens of focal length 25 cm is used as a magnifying glass. Its power in dioptres is",
+      "options": [
+        "2.5 D",
+        "0.25 D",
+        "25 D",
+        "4 D"
+      ],
+      "correctIndex": 3,
+      "explanation": "Power = 1/f(in metres) = 1/0.25 = 4 D."
+    },
+    {
+      "subject": "Physics",
+      "text": "White light splitting into its component colours when passing through a prism is called",
+      "options": [
+        "reflection",
+        "polarization",
+        "dispersion",
+        "diffraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dispersion occurs because different wavelengths (colours) of light refract by different amounts in the prism, spreading white light into a spectrum."
+    },
+    {
+      "subject": "Physics",
+      "text": "A current of 2 A flows through a resistor of 15 ohms for 10 seconds. The quantity of charge that flows is",
+      "options": [
+        "20 C",
+        "0.75 C",
+        "300 C",
+        "150 C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q = It = 2 x 10 = 20 C."
+    },
+    {
+      "subject": "Physics",
+      "text": "Three resistors of 2 ohms, 3 ohms, and 5 ohms are connected in series to a 20 V battery. The current flowing in the circuit is",
+      "options": [
+        "4 A",
+        "2 A",
+        "0.5 A",
+        "10 A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total resistance = 2+3+5 = 10 ohms. I = V/R = 20/10 = 2 A."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two resistors of 4 ohms and 6 ohms are connected in parallel. Their combined resistance is",
+      "options": [
+        "24 ohms",
+        "1.5 ohms",
+        "10 ohms",
+        "2.4 ohms"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/R = 1/4 + 1/6 = 3/12 + 2/12 = 5/12, so R = 12/5 = 2.4 ohms."
+    }
+  ]
+}

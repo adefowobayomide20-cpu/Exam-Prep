@@ -1,0 +1,1206 @@
+{
+  "subject": "Building Construction",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Building Construction",
+      "text": "The site operation involving the formal transfer of a construction site from the client/consultant to the contractor is called",
+      "options": [
+        "hoarding",
+        "setting out",
+        "excavation",
+        "handing over"
+      ],
+      "correctIndex": 3,
+      "explanation": "Handing over marks the formal transfer of the site and relevant documentation to the contractor before construction work begins."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The site operation involving the removal of trees, bushes, and debris to prepare land for construction is called",
+      "options": [
+        "site clearing",
+        "setting out",
+        "site levelling",
+        "hoarding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Site clearing removes vegetation, trees, and debris to prepare a clear, workable area before construction begins."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The site operation involving the adjustment of ground surfaces to a required uniform gradient is called",
+      "options": [
+        "levelling",
+        "clearing",
+        "hoarding",
+        "setting out"
+      ],
+      "correctIndex": 0,
+      "explanation": "Levelling adjusts the ground to the required elevation and gradient in preparation for building works."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The temporary protective fencing or boarding erected around a construction site to restrict public access is called",
+      "options": [
+        "levelling",
+        "excavation",
+        "hoarding",
+        "setting out"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hoarding is a temporary barrier erected around a site to prevent unauthorised access and protect the public from construction hazards."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The process of transferring the exact position and dimensions of a proposed building from the drawing onto the actual ground is called",
+      "options": [
+        "handing over",
+        "levelling",
+        "setting out",
+        "hoarding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Setting out translates the building's design dimensions and position from the drawings onto the physical site, guiding excavation and construction."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Temporary boards fixed at the corners of a building site, used to hold reference lines (profiles) during setting out, are called",
+      "options": [
+        "scaffold boards",
+        "formwork boards",
+        "profile boards",
+        "hoarding boards"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profile boards, positioned beyond the excavation area, hold string lines marking the building's exact corners and wall positions."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The construction method using a 3:4:5 ratio of side lengths to accurately establish a 90-degree right angle on site is called the",
+      "options": [
+        "diagonal checking method",
+        "3:4:5 triangulation method",
+        "hoarding method",
+        "profile boarding method"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 3:4:5 method uses the Pythagorean relationship (3² + 4² = 5²) to construct an accurate right angle using simple measuring tape and pegs."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Checking that the diagonals of a rectangular building layout are equal in length is done primarily to confirm",
+      "options": [
+        "the depth of the foundation",
+        "the total area of the building",
+        "that the building's corners are square (at right angles)",
+        "the type of soil present on site"
+      ],
+      "correctIndex": 2,
+      "explanation": "Equal diagonal measurements in a rectangular layout confirm that all four corners are true right angles, verifying the layout's squareness."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The process of digging a narrow, elongated excavation to receive a strip foundation is called",
+      "options": [
+        "setting out",
+        "trench excavation",
+        "site levelling",
+        "hoarding"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trench excavation creates the narrow channel needed to accommodate a strip foundation beneath a building's walls."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Temporary timber supports used to prevent the collapse of trench walls during excavation, especially in loose soil, are called",
+      "options": [
+        "formwork",
+        "timbering (shoring)",
+        "hoarding",
+        "profile boards"
+      ],
+      "correctIndex": 1,
+      "explanation": "Timbering (shoring) supports the sides of an excavation to prevent collapse, particularly critical in loose or unstable soil conditions."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In firm, stable soils, the amount of timbering required to support a trench is generally",
+      "options": [
+        "the same as in loose soils regardless of stability",
+        "completely unnecessary in all cases",
+        "greater than in loose soils",
+        "less than in loose or unstable soils"
+      ],
+      "correctIndex": 3,
+      "explanation": "Firm, cohesive soils are more self-supporting, generally requiring less extensive timbering compared to loose, unstable, or sandy soils."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The binding building material produced by heating limestone and clay, then grinding the resulting clinker into a fine powder, is called",
+      "options": [
+        "aggregate",
+        "gravel",
+        "sand",
+        "cement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cement is manufactured by heating limestone and clay to form clinker, which is then finely ground, and acts as the binding agent in concrete and mortar."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A concrete mix ratio of 1:2:4 typically refers to the proportions of",
+      "options": [
+        "sand, gravel, and water only",
+        "cement, gravel, and steel reinforcement",
+        "cement, water, and sand only",
+        "cement, sand, and coarse aggregate"
+      ],
+      "correctIndex": 3,
+      "explanation": "A 1:2:4 mix ratio specifies one part cement, two parts sand (fine aggregate), and four parts coarse aggregate by volume."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The test used to assess the workability (consistency) of freshly mixed concrete before it sets is called the",
+      "options": [
+        "moisture test",
+        "tensile test",
+        "compression test",
+        "slump test"
+      ],
+      "correctIndex": 3,
+      "explanation": "The slump test measures how much a sample of fresh concrete settles under its own weight, indicating its workability for placement."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Building blocks manufactured from a mixture of cement, sand, and aggregate, cast and cured to a standard size, are called",
+      "options": [
+        "bricks",
+        "concrete blocks",
+        "timber blocks",
+        "glass blocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Concrete blocks are manufactured from a cement-sand-aggregate mixture, cast into standard shapes and cured before use in construction."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Building units manufactured from moulded and fired clay, traditionally used for wall construction, are called",
+      "options": [
+        "timber",
+        "bricks",
+        "concrete blocks",
+        "aggregate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bricks are made from clay, shaped and fired at high temperatures to produce durable units for building construction."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Metals such as iron and steel, which contain iron as their main constituent, are classified as",
+      "options": [
+        "bituminous products",
+        "ferrous metals",
+        "aggregates",
+        "non-ferrous metals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ferrous metals contain iron as a primary constituent, distinguishing them from non-ferrous metals like aluminium and copper."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Metals such as aluminium, copper, and zinc, which do not contain iron as their main constituent, are classified as",
+      "options": [
+        "ferrous metals",
+        "non-ferrous metals",
+        "bituminous products",
+        "aggregates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-ferrous metals lack iron as a primary constituent, generally offering advantages such as corrosion resistance compared to ferrous metals."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Waterproofing products such as bitumen and asphalt, used to protect building elements from moisture penetration, are classified as",
+      "options": [
+        "ferrous metals",
+        "plastics",
+        "bituminous products",
+        "aggregates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bituminous products, derived from petroleum, provide effective waterproofing for roofs, foundations, and other building elements."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Sand and gravel used as filler materials in concrete, providing bulk and strength, are collectively known as",
+      "options": [
+        "aggregates",
+        "cement",
+        "ferrous metals",
+        "bituminous products"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aggregates (sand and gravel/crushed stone) form the bulk of concrete, with cement acting as the binding agent holding them together."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Synthetic materials, such as PVC pipes and plastic sheeting, increasingly used in modern construction for their durability and low cost, are classified as",
+      "options": [
+        "bituminous products only",
+        "ferrous metals",
+        "plastics",
+        "aggregates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plastics are widely used in modern construction for applications such as piping, insulation, and sheeting, valued for durability and cost-effectiveness."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A concrete mix ratio of 1:3:6 is generally used for applications requiring",
+      "options": [
+        "lower strength, such as mass concrete or blinding layers",
+        "waterproofing membranes only",
+        "decorative surface finishes only",
+        "the highest possible structural strength, such as suspended beams"
+      ],
+      "correctIndex": 0,
+      "explanation": "A leaner 1:3:6 mix, with less cement relative to aggregate, is typically used for lower-strength applications such as blinding layers or mass concrete fill."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Glass used in building construction, such as for windows, is valued mainly for its",
+      "options": [
+        "transparency, allowing natural light into a building",
+        "high compressive strength for structural columns",
+        "use as a waterproofing membrane",
+        "ability to bind aggregate together"
+      ],
+      "correctIndex": 0,
+      "explanation": "Glass is primarily valued in construction for its transparency, allowing daylight to enter a building while providing weather protection."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Timber used in building construction requires proper seasoning (drying) mainly to",
+      "options": [
+        "increase its weight for structural stability",
+        "eliminate the need for any further treatment against pests",
+        "reduce its moisture content and minimise shrinkage or warping after installation",
+        "change its natural colour permanently"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seasoning timber reduces its moisture content before use, minimising the risk of shrinkage, warping, or splitting once installed in a building."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The part of a building structure below ground level, transferring the building's load safely to the supporting soil, is called the",
+      "options": [
+        "superstructure",
+        "roof",
+        "scaffold",
+        "foundation (substructure)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The foundation (substructure) transfers the entire load of a building safely into the ground, and its design depends on soil bearing capacity."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The maximum load per unit area that a soil can safely support without excessive settlement or failure is called its",
+      "options": [
+        "moisture content",
+        "bearing capacity",
+        "compaction ratio",
+        "slump value"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soil bearing capacity determines how much load the ground can safely carry, directly influencing foundation design and depth."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A continuous foundation running beneath load-bearing walls, typically used for simple building structures, is called a",
+      "options": [
+        "pile foundation",
+        "raft foundation",
+        "pad (isolated) footing",
+        "strip foundation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Strip foundations run continuously beneath load-bearing walls, distributing the wall's load evenly along its length into the ground."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A foundation consisting of individual, separate concrete bases supporting isolated columns is called a",
+      "options": [
+        "strip foundation",
+        "pile foundation",
+        "raft foundation",
+        "pad (isolated) footing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pad (isolated) footings support individual columns separately, rather than running continuously as with strip foundations."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A foundation consisting of a single continuous concrete slab covering the entire building area, used especially on weak or variable soils, is called a",
+      "options": [
+        "pile foundation",
+        "raft (mat) foundation",
+        "pad footing",
+        "strip foundation"
+      ],
+      "correctIndex": 1,
+      "explanation": "A raft (mat) foundation spreads the building's total load over a large continuous slab, useful on weak or variable soil conditions."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A foundation using long columns driven or bored deep into the ground to reach stable, load-bearing strata, is called a",
+      "options": [
+        "pile foundation",
+        "pad footing",
+        "raft foundation",
+        "strip foundation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pile foundations transfer building loads deep into the ground to reach strong, stable soil or rock layers, especially useful where surface soils are weak."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Broken stones or rubble laid and compacted as a base layer beneath a ground floor slab is called",
+      "options": [
+        "damp-proof membrane",
+        "oversite concrete",
+        "hardcore",
+        "sand blinding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hardcore consists of compacted broken stone or rubble, providing a stable, well-drained base layer beneath a floor slab."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A thin layer of fine sand spread over hardcore to fill surface voids before laying a damp-proof membrane is called",
+      "options": [
+        "damp-proof course",
+        "hardcore",
+        "sand blinding",
+        "oversite concrete"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sand blinding fills the surface irregularities of a hardcore layer, providing a smoother base for the damp-proof membrane above."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A waterproof sheet material laid beneath a ground floor slab to prevent rising moisture from the ground is called a",
+      "options": [
+        "hardcore layer",
+        "sand blinding layer",
+        "damp-proof membrane (DPM)",
+        "oversite concrete"
+      ],
+      "correctIndex": 2,
+      "explanation": "The damp-proof membrane (DPM) is a waterproof layer that prevents ground moisture from rising into the floor slab and building interior."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The concrete layer cast directly on top of the hardcore, sand blinding, and damp-proof membrane to form the ground floor base is called the",
+      "options": [
+        "raft foundation",
+        "oversite concrete bed",
+        "pad footing",
+        "strip foundation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The oversite concrete bed forms the solid ground floor base, cast over the prepared hardcore, sand blinding, and damp-proof membrane layers."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A key factor considered when selecting the appropriate foundation type for a building is the",
+      "options": [
+        "type of roof covering to be used",
+        "colour of the building's exterior finish",
+        "number of paint coats to be applied",
+        "soil bearing capacity and ground conditions at the site"
+      ],
+      "correctIndex": 3,
+      "explanation": "Foundation selection depends heavily on the site's soil conditions and bearing capacity, ensuring the chosen foundation can safely support the building's loads."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Pile foundations are generally preferred over shallow foundations when",
+      "options": [
+        "the soil near the surface has poor bearing capacity, requiring loads to be transferred to deeper, stronger strata",
+        "the building is very light and single-storey",
+        "cost is the only consideration, regardless of soil conditions",
+        "the surface soil already has excellent bearing capacity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Piles are chosen when surface soils cannot adequately support a building's loads, allowing the load to be transferred down to deeper, more stable soil or rock layers."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The width of a strip foundation is primarily determined by",
+      "options": [
+        "the type of roof to be constructed",
+        "the load of the wall above and the bearing capacity of the supporting soil",
+        "the colour of the finished wall",
+        "the number of windows in the building"
+      ],
+      "correctIndex": 1,
+      "explanation": "Strip foundation width is calculated to ensure the load from the wall above is spread over a sufficient area of ground, based on the soil's bearing capacity."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Before casting the oversite concrete bed, it is important to first ensure that the hardcore layer is",
+      "options": [
+        "left loose and uncompacted",
+        "removed entirely before concreting",
+        "well compacted and blinded with sand to provide an even surface",
+        "installed after the concrete has already been cast"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proper compaction and sand blinding of the hardcore layer provides a stable, even base, preventing settlement issues beneath the finished floor slab."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A raft foundation is often chosen over a strip or pad foundation mainly to",
+      "options": [
+        "spread the building's load over a wide area on weak or variable soil conditions",
+        "reduce the overall cost of excavation in all soil types",
+        "increase the depth of excavation required unnecessarily",
+        "eliminate the need for a damp-proof membrane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Raft foundations distribute a building's total load across a large continuous area, making them particularly suitable for weak or inconsistent soil conditions."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A wall designed to carry and transfer structural loads from the roof and floors down to the foundation is called a",
+      "options": [
+        "retaining wall only",
+        "non-load-bearing (partition) wall",
+        "cavity wall only",
+        "load-bearing wall"
+      ],
+      "correctIndex": 3,
+      "explanation": "Load-bearing walls support and transfer structural loads from above down through the wall to the foundation."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A wall used only to divide internal spaces, without carrying any structural load from the building above, is called a",
+      "options": [
+        "load-bearing wall",
+        "non-load-bearing (partition) wall",
+        "retaining wall",
+        "curtain wall"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-load-bearing (partition) walls simply divide interior spaces and do not support structural loads from the building above."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A common brickwork bond in which each brick is laid so that only its shorter end (header) is not visible, showing mostly the long face (stretcher), is called the",
+      "options": [
+        "Flemish bond",
+        "header bond",
+        "English bond",
+        "stretcher bond"
+      ],
+      "correctIndex": 3,
+      "explanation": "Stretcher bond shows the long face (stretcher) of each brick in every course, one of the simplest and most common bonding patterns."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A brickwork bond alternating complete courses of headers and complete courses of stretchers is called the",
+      "options": [
+        "Flemish bond",
+        "English bond",
+        "header bond only",
+        "stretcher bond"
+      ],
+      "correctIndex": 1,
+      "explanation": "English bond alternates whole courses of headers with whole courses of stretchers, producing a strong, traditional bonding pattern."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A brickwork bond alternating headers and stretchers within each individual course is called the",
+      "options": [
+        "header bond only",
+        "Flemish bond",
+        "English bond",
+        "stretcher bond"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flemish bond alternates headers and stretchers within the same course, producing a distinctive decorative pattern while maintaining structural strength."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A structural member placed above a door or window opening to support the wall load above it is called a",
+      "options": [
+        "damp-proof course",
+        "column",
+        "arch",
+        "lintel"
+      ],
+      "correctIndex": 3,
+      "explanation": "A lintel spans across an opening, such as a door or window, transferring the load of the wall above safely to the sides."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A curved structural member spanning an opening, transferring load through compression along its curve, is called an",
+      "options": [
+        "arch",
+        "truss",
+        "column",
+        "lintel"
+      ],
+      "correctIndex": 0,
+      "explanation": "An arch spans an opening using a curved shape, transferring loads through compression down to its supporting piers."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A vertical structural member that transfers loads from beams or slabs down to the foundation is called a",
+      "options": [
+        "lintel",
+        "column",
+        "purlin",
+        "arch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Columns are vertical members that carry loads from beams, slabs, or roofs, transferring them down to the foundation."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A continuous impervious layer built into a wall at plinth level, preventing rising dampness from entering the wall above ground, is called the",
+      "options": [
+        "damp-proof course (DPC)",
+        "damp-proof membrane",
+        "sand blinding layer",
+        "hardcore layer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The damp-proof course (DPC) is installed within the wall at plinth level to block rising ground moisture from penetrating higher into the structure."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A floor constructed using timber joists supporting floorboards, common in some residential upper floors, is called a",
+      "options": [
+        "solid concrete slab floor",
+        "raft floor",
+        "hollow pot (ribbed) floor",
+        "timber floor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Timber floors use joists to support floorboards, a lightweight construction method commonly used for upper floors in residential buildings."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A floor constructed as a continuous cast reinforced concrete slab, without hollow blocks or ribs, is called a",
+      "options": [
+        "hollow pot (ribbed) floor",
+        "timber floor",
+        "solid concrete slab floor",
+        "raft floor only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A solid concrete slab floor is cast as one continuous reinforced concrete section, without internal voids."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A reinforced concrete floor incorporating hollow blocks (pots) between concrete ribs to reduce weight and material use is called a",
+      "options": [
+        "solid concrete slab floor",
+        "raft floor",
+        "timber floor",
+        "hollow pot (ribbed) floor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hollow pot (ribbed) floors incorporate lightweight hollow blocks between structural concrete ribs, reducing the overall weight and material cost of the floor."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A hard-wearing floor finish made from marble or granite chips set in cement or resin and polished smooth is called",
+      "options": [
+        "plastering",
+        "screeding",
+        "tiling",
+        "terrazzo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Terrazzo is a durable, decorative flooring finish made from marble or granite chips set in a binder and polished to a smooth surface."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A thin layer of mortar applied over a concrete floor to provide a smooth, level surface for further finishing is called",
+      "options": [
+        "plastering",
+        "tiling",
+        "screeding",
+        "terrazzo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Screeding applies a thin, level mortar layer over a concrete floor base, preparing it for the final floor finish."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A temporary structure erected around a building to provide access and support for workers and materials during construction is called",
+      "options": [
+        "scaffolding",
+        "formwork",
+        "hoarding",
+        "hardcore"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scaffolding provides safe temporary access and working platforms for construction workers at various heights around a building."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Scaffolding erected independently of the building, supported entirely by its own vertical and horizontal members without relying on the wall, is called",
+      "options": [
+        "hoarding",
+        "putlog scaffolding",
+        "independent scaffolding",
+        "formwork"
+      ],
+      "correctIndex": 2,
+      "explanation": "Independent scaffolding stands entirely on its own structural framework, without needing support from the building under construction."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Scaffolding partly supported by inserting horizontal tubes (putlogs) directly into the joints of the building's wall as it is constructed is called",
+      "options": [
+        "independent scaffolding",
+        "hoarding",
+        "formwork",
+        "putlog scaffolding"
+      ],
+      "correctIndex": 3,
+      "explanation": "Putlog scaffolding relies partly on the building itself for support, with putlog tubes resting in specially left joints within the rising wall."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The vertical tubes in a scaffold structure that transfer load down to the ground are called",
+      "options": [
+        "transoms",
+        "ledgers",
+        "standards",
+        "putlogs only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standards are the vertical scaffold tubes that bear the overall load and transfer it safely down to the ground."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The horizontal tubes in a scaffold structure that connect the standards together, running parallel to the building, are called",
+      "options": [
+        "ledgers",
+        "standards",
+        "putlogs only",
+        "transoms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ledgers are horizontal scaffold tubes connecting standards together, running parallel to the face of the building."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The horizontal tubes in a scaffold structure that span across the ledgers, supporting the scaffold boards, are called",
+      "options": [
+        "transoms",
+        "ledgers",
+        "putlogs only",
+        "standards"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transoms span across the ledgers at right angles, providing the direct support for the scaffold's working boards."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A temporary mould constructed to hold wet concrete in place until it gains sufficient strength to be self-supporting is called",
+      "options": [
+        "hardcore",
+        "hoarding",
+        "scaffolding",
+        "formwork (shuttering)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formwork (shuttering) temporarily contains and shapes wet concrete for elements such as columns, beams, and slabs until the concrete cures."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In stair terminology, the horizontal surface of a step on which a person places their foot is called the",
+      "options": [
+        "riser",
+        "nosing",
+        "going",
+        "tread"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tread is the horizontal top surface of a stair step, providing the walking surface for each step."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In stair terminology, the vertical surface between two consecutive treads is called the",
+      "options": [
+        "pitch",
+        "going",
+        "tread",
+        "riser"
+      ],
+      "correctIndex": 3,
+      "explanation": "The riser is the vertical face of a stair step, connecting one tread to the next."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In stair terminology, the horizontal distance measured from the face of one riser to the face of the next is called the",
+      "options": [
+        "tread",
+        "riser",
+        "going",
+        "nosing"
+      ],
+      "correctIndex": 2,
+      "explanation": "The going measures the horizontal distance between successive risers, an important dimension in stair design."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In stair terminology, the small projecting edge of a tread that overhangs the riser below is called the",
+      "options": [
+        "going",
+        "riser",
+        "pitch",
+        "nosing"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nosing is the projecting front edge of a tread, extending slightly over the riser beneath it, often to improve grip and appearance."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In stair terminology, the angle of inclination of a staircase relative to the horizontal is called the",
+      "options": [
+        "headroom",
+        "going",
+        "pitch",
+        "riser"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pitch describes the angle at which a staircase is inclined, an important consideration for comfort and safety of use."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "In stair terminology, the vertical clearance distance between a stair tread and the ceiling or structure above it is called the",
+      "options": [
+        "pitch",
+        "headroom",
+        "going",
+        "nosing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Headroom is the vertical clearance above a stair, ensuring users have adequate space to walk without striking their head."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A roof design with a single sloping surface, often built against an existing wall, is called a",
+      "options": [
+        "mansard roof",
+        "gable roof",
+        "lean-to roof",
+        "hip roof"
+      ],
+      "correctIndex": 2,
+      "explanation": "A lean-to roof has a single sloping surface, typically leaning against an existing higher wall or structure."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A roof design with two sloping surfaces meeting at a ridge, with triangular vertical wall sections (gables) at each end, is called a",
+      "options": [
+        "lean-to roof",
+        "gable roof",
+        "hip roof",
+        "flat roof"
+      ],
+      "correctIndex": 1,
+      "explanation": "A gable roof has two sloping sides meeting at a central ridge, with the triangular gable ends visible at either side."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A roof design with sloping surfaces on all four sides, meeting at a ridge, without vertical gable ends, is called a",
+      "options": [
+        "lean-to roof",
+        "hip roof",
+        "gable roof",
+        "flat roof"
+      ],
+      "correctIndex": 1,
+      "explanation": "A hip roof slopes on all four sides, converging at a central ridge, without the vertical triangular gable ends seen in gable roofs."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A roof design combining two different slopes on each side, with the lower slope steeper than the upper, is called a",
+      "options": [
+        "hip roof",
+        "lean-to roof",
+        "mansard roof",
+        "gable roof"
+      ],
+      "correctIndex": 2,
+      "explanation": "A mansard roof has two distinct slopes on each side, with a steeper lower slope and a shallower upper slope, often maximising usable attic space."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The horizontal timber member fixed along the top of a wall, providing a level base to which the roof structure is fixed, is called the",
+      "options": [
+        "wall plate",
+        "king post",
+        "common rafter",
+        "purlin"
+      ],
+      "correctIndex": 0,
+      "explanation": "The wall plate is a horizontal timber fixed along the top of a wall, distributing the roof's load evenly and providing an anchor point for rafters."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The sloping timber members running from the wall plate to the ridge, forming the main structural framework of a pitched roof, are called",
+      "options": [
+        "common rafters",
+        "king posts",
+        "purlins",
+        "wall plates"
+      ],
+      "correctIndex": 0,
+      "explanation": "Common rafters are the sloping structural members running from the wall plate up to the ridge, forming the roof's basic skeleton."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A horizontal timber member providing intermediate support to rafters along their length, reducing the span they must cover unsupported, is called a",
+      "options": [
+        "wall plate",
+        "king post",
+        "purlin",
+        "common rafter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Purlins run horizontally across rafters, providing intermediate support that reduces the unsupported span of the rafters."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The central vertical member in a traditional timber roof truss, supporting the ridge and transferring load down to the tie beam, is called the",
+      "options": [
+        "king post",
+        "wall plate",
+        "common rafter",
+        "purlin"
+      ],
+      "correctIndex": 0,
+      "explanation": "The king post is the central vertical member of a traditional roof truss, connecting the ridge to the tie beam and helping to carry the roof's load."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A prefabricated triangulated framework used to support a roof's structure over a wide span is called a",
+      "options": [
+        "truss",
+        "purlin",
+        "king post alone",
+        "wall plate"
+      ],
+      "correctIndex": 0,
+      "explanation": "A truss is a triangulated framework, often prefabricated, designed to efficiently support a roof over a wide span."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A common lightweight roof covering material made from corrugated metal or fibre-cement sheets is called",
+      "options": [
+        "terrazzo",
+        "roofing felt",
+        "roof tiles",
+        "corrugated roofing sheets"
+      ],
+      "correctIndex": 3,
+      "explanation": "Corrugated sheets, made from metal or fibre-cement, are a widely used, lightweight, and cost-effective roof covering material."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A door constructed with solid or raised sections framed within stiles and rails, often used for a traditional decorative appearance, is called a",
+      "options": [
+        "flush door",
+        "louvre door",
+        "sliding door",
+        "panel door"
+      ],
+      "correctIndex": 3,
+      "explanation": "Panel doors feature raised or recessed panels set within a surrounding timber frame, giving a traditional decorative appearance."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A door with a smooth, flat surface on both sides, typically constructed from a hollow or solid core covered by plywood or hardboard, is called a",
+      "options": [
+        "louvre door",
+        "flush door",
+        "panel door",
+        "ledged and braced door"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flush doors have a completely flat, smooth surface, constructed by covering a solid or hollow core with a plywood or hardboard skin."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A simple, traditional door constructed from vertical boards held together by horizontal ledges and diagonal braces is called a",
+      "options": [
+        "flush door",
+        "ledged and braced door",
+        "panel door",
+        "louvre door"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ledged and braced doors are made from vertical boards fixed to horizontal ledges and diagonal braces, a simple, sturdy traditional construction."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A window with one or more hinged sashes that open outward or inward like a door is called a",
+      "options": [
+        "pivoting window",
+        "casement window",
+        "sliding window",
+        "louvre window"
+      ],
+      "correctIndex": 1,
+      "explanation": "Casement windows have hinged sashes that swing open, similar to a door, providing good ventilation control."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A window with sashes that move horizontally past each other within a frame, rather than swinging open, is called a",
+      "options": [
+        "sliding window",
+        "louvre window",
+        "casement window",
+        "pivoting window"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sliding windows open by moving one sash horizontally along a track, rather than swinging outward or inward."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A window made up of angled, overlapping glass or metal slats that can be adjusted to control airflow is called a",
+      "options": [
+        "louvre window",
+        "casement window",
+        "pivoting window",
+        "sliding window"
+      ],
+      "correctIndex": 0,
+      "explanation": "Louvre windows consist of adjustable, overlapping slats that can be tilted to control ventilation while providing some weather protection."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Hardware fittings such as hinges, locks, and door handles, used on doors and windows, are collectively known as",
+      "options": [
+        "scaffolding",
+        "formwork",
+        "ironmongery",
+        "aggregate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ironmongery refers to the metal fittings and hardware, such as hinges, locks, and handles, used on doors and windows."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The application of a smooth, protective, and decorative coating of mortar to internal wall surfaces is called",
+      "options": [
+        "terrazzo finishing",
+        "screeding",
+        "plastering",
+        "rendering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plastering applies a smooth mortar finish to internal wall surfaces, providing a suitable base for decoration and additional protection."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The application of a protective and decorative coating of mortar to external wall surfaces is called",
+      "options": [
+        "screeding",
+        "rendering",
+        "plastering",
+        "terrazzo finishing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rendering applies a protective mortar coating to external wall surfaces, improving weather resistance and appearance."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A drainage system specifically designed to collect and dispose of rainwater from roofs and paved surfaces is called the",
+      "options": [
+        "surface water drainage system",
+        "soil water drainage system",
+        "septic system",
+        "soakaway pit alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surface water drainage systems collect and dispose of rainwater runoff from roofs, driveways, and other paved surfaces."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A drainage system specifically designed to carry wastewater from toilets and similar sanitary fittings is called the",
+      "options": [
+        "septic system alone",
+        "soakaway pit alone",
+        "surface water drainage system",
+        "soil water drainage system"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soil water drainage systems carry foul wastewater from toilets and similar fittings away from the building for treatment or disposal."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "An underground tank system that treats sewage on-site where a connection to a public sewer is unavailable is called a",
+      "options": [
+        "soakaway pit alone",
+        "surface water drain alone",
+        "damp-proof membrane",
+        "septic tank system"
+      ],
+      "correctIndex": 3,
+      "explanation": "A septic tank system treats and partially breaks down sewage on-site, commonly used where mains sewer connections are unavailable."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "An underground pit filled with rubble or gravel, allowing treated wastewater or surface water to gradually soak into the surrounding ground, is called a",
+      "options": [
+        "hardcore bed",
+        "soakaway pit",
+        "septic tank",
+        "damp-proof course"
+      ],
+      "correctIndex": 1,
+      "explanation": "A soakaway pit allows water to disperse gradually into the surrounding soil, commonly used alongside septic systems or for surface water disposal."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The protective tubes or channels installed within walls and floors to route electrical wiring safely through a building are called",
+      "options": [
+        "damp-proof membranes",
+        "plumbing pipes",
+        "electrical conduits",
+        "formwork panels"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electrical conduits protect and route wiring safely through the walls, floors, and ceilings of a building."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The main purpose of installing a damp-proof course (DPC) at plinth level in a wall is to",
+      "options": [
+        "reduce the overall weight of the building",
+        "increase the compressive strength of the wall",
+        "prevent rising ground moisture from penetrating the wall above ground level",
+        "improve the wall's fire resistance rating"
+      ],
+      "correctIndex": 2,
+      "explanation": "The DPC forms a continuous impervious barrier within the wall at plinth level, specifically blocking rising damp from travelling further up the structure."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A cavity wall, consisting of two separate wall leaves with an air gap between them, is primarily constructed to",
+      "options": [
+        "eliminate the need for a damp-proof course entirely",
+        "reduce the overall foundation depth required",
+        "simplify the roof structure above",
+        "improve resistance to moisture penetration and thermal insulation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cavity walls use an air gap between two wall leaves to help prevent moisture penetration to the inner leaf and improve thermal insulation."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A key advantage of reinforced concrete floors over timber floors is their",
+      "options": [
+        "greater fire resistance and durability",
+        "significantly lighter weight",
+        "faster construction time in every situation",
+        "lower material cost in every situation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reinforced concrete floors generally offer superior fire resistance and long-term durability compared to timber floor construction."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The primary purpose of formwork in reinforced concrete construction is to",
+      "options": [
+        "waterproof the finished concrete surface",
+        "reinforce the concrete against tension forces",
+        "contain and shape the wet concrete until it has gained sufficient strength",
+        "provide the finished decorative surface texture in every case"
+      ],
+      "correctIndex": 2,
+      "explanation": "Formwork temporarily holds and shapes wet concrete during casting and early curing, until the concrete is strong enough to support itself."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A key safety consideration when designing a staircase is ensuring consistent",
+      "options": [
+        "tread and riser dimensions throughout the flight, to avoid trip hazards",
+        "colour scheme matching the surrounding walls",
+        "decorative pattern on the underside of the stair",
+        "material cost regardless of dimensions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uneven tread or riser dimensions within a single staircase flight create serious trip hazards, so consistency is a key safety requirement in stair design."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The primary function of a roof truss in building construction is to",
+      "options": [
+        "form the building's foundation",
+        "serve as the primary damp-proofing layer",
+        "support the roof covering and transfer its load safely to the supporting walls",
+        "provide the internal partition walls of the building"
+      ],
+      "correctIndex": 2,
+      "explanation": "Roof trusses form the structural skeleton that carries the roof covering's load and transfers it safely down to the supporting walls."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "A flat roof design, as opposed to a pitched roof, requires particular attention to",
+      "options": [
+        "the installation of a ridge board",
+        "effective waterproofing and drainage to prevent water ponding",
+        "the construction of gable ends",
+        "the use of common rafters exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because flat roofs lack the natural water run-off of a pitched design, they require especially careful waterproofing and drainage design to avoid ponding and leaks."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Ledged and braced doors are generally considered less suitable for external use in exposed conditions mainly because they",
+      "options": [
+        "are always made only from metal",
+        "can be prone to warping and sagging over time without a rigid perimeter frame",
+        "cannot be fitted with any locks or hinges",
+        "are more expensive to manufacture than panel doors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without a rigid perimeter frame like a panel door, ledged and braced doors can be more prone to warping or sagging over time, particularly under weather exposure."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "Effective site drainage design for a building plot is important mainly to",
+      "options": [
+        "replace the need for a proper foundation design",
+        "increase the overall cost of construction unnecessarily",
+        "prevent water accumulation that could damage the foundation or superstructure",
+        "eliminate the need for a damp-proof course"
+      ],
+      "correctIndex": 2,
+      "explanation": "Well-planned site drainage prevents water from accumulating around a building, protecting both the foundation and the superstructure from moisture-related damage."
+    },
+    {
+      "subject": "Building Construction",
+      "text": "The choice between a gable roof and a hip roof for a building often depends partly on",
+      "options": [
+        "the depth of the damp-proof course installed",
+        "the colour of the internal wall paint",
+        "the type of foundation used beneath the building",
+        "the desired architectural appearance and the building's exposure to wind"
+      ],
+      "correctIndex": 3,
+      "explanation": "Roof type selection is influenced by both aesthetic preference and practical factors such as wind exposure, since hip roofs can offer better wind resistance than gable roofs."
+    }
+  ]
+}

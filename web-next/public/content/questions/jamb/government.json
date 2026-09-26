@@ -1,0 +1,2418 @@
+{
+  "subject": "Government",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Government",
+      "text": "The State, as a political concept, is best defined as",
+      "options": [
+        "a religious institution with global membership",
+        "a group of people who share the same language and culture",
+        "a political community occupying a definite territory, organised under a sovereign government",
+        "any organisation formed to trade for profit"
+      ],
+      "correctIndex": 2,
+      "explanation": "A State possesses four key elements: a defined population, territory, government, and sovereignty, distinguishing it from other social or cultural groupings."
+    },
+    {
+      "subject": "Government",
+      "text": "Sovereignty refers to the",
+      "options": [
+        "total population living within a country",
+        "official currency used within a country",
+        "supreme and final authority of a State to govern itself without external interference",
+        "geographical boundary separating two countries"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sovereignty is the highest, unchallenged authority a State exercises over its territory and people, both internally (supreme over its citizens) and externally (independent of other states)."
+    },
+    {
+      "subject": "Government",
+      "text": "A Nation differs from a State mainly in that a Nation is based primarily on",
+      "options": [
+        "a formally established government structure",
+        "a shared sense of identity, culture, language, or history among a people",
+        "a fixed and legally recognised territorial boundary",
+        "international diplomatic recognition"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Nation is a socio-cultural concept based on shared identity and common bonds among a people, which may or may not align with the political/legal boundaries of a State."
+    },
+    {
+      "subject": "Government",
+      "text": "Political power refers to the",
+      "options": [
+        "ability to influence or control the behaviour of others, especially in governance",
+        "amount of wealth possessed by an individual",
+        "number of political parties in a country",
+        "physical strength of a country's military alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Power in the political sense is the capacity to make others act (or refrain from acting) in a particular way, often to achieve political or governmental objectives."
+    },
+    {
+      "subject": "Government",
+      "text": "Political authority differs from mere power mainly in that authority is",
+      "options": [
+        "power exercised without any form of recognition or consent",
+        "unrelated to any legal or constitutional basis",
+        "power obtained purely through military force",
+        "power that is recognised as rightful and legitimate by those over whom it is exercised"
+      ],
+      "correctIndex": 3,
+      "explanation": "Authority is power accepted as legitimate and rightful, typically because it is derived from law, tradition, or the consent of the governed, unlike raw, unrecognised coercive power."
+    },
+    {
+      "subject": "Government",
+      "text": "Legitimacy in government refers to the",
+      "options": [
+        "widespread acceptance by citizens that a government's authority to rule is rightful",
+        "amount of foreign aid a country receives",
+        "physical size of a country's territory",
+        "number of years a leader has been in power"
+      ],
+      "correctIndex": 0,
+      "explanation": "Legitimacy exists when the majority of citizens accept and recognise a government's right to exercise authority, often based on lawful processes such as free and fair elections."
+    },
+    {
+      "subject": "Government",
+      "text": "Democracy, as a political ideology, is best described as a system of government",
+      "options": [
+        "controlled entirely by a single hereditary ruler",
+        "run exclusively by unelected military officers",
+        "by the people, in which citizens exercise power directly or through elected representatives",
+        "in which one political party permanently holds all power by force"
+      ],
+      "correctIndex": 2,
+      "explanation": "Democracy is founded on the principle of popular sovereignty, where political power ultimately derives from the people, exercised through free elections and representative institutions."
+    },
+    {
+      "subject": "Government",
+      "text": "Capitalism, as an economic and political ideology, is characterised mainly by",
+      "options": [
+        "the complete abolition of private property",
+        "central planning of all economic activities by the government",
+        "state ownership and control of all means of production",
+        "private ownership of the means of production and a free market economy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Capitalism emphasises private enterprise and market-driven economic decisions, with limited government intervention, contrasting with socialism's emphasis on collective or state ownership."
+    },
+    {
+      "subject": "Government",
+      "text": "Socialism, as a political ideology, advocates for",
+      "options": [
+        "unrestricted private ownership of all economic resources",
+        "the complete absence of any government",
+        "the concentration of power in a single hereditary monarch",
+        "collective or state ownership of the means of production to promote social equality"
+      ],
+      "correctIndex": 3,
+      "explanation": "Socialism seeks to reduce inequality by having the means of production owned or heavily regulated collectively or by the state, rather than left entirely to private individuals."
+    },
+    {
+      "subject": "Government",
+      "text": "Fascism, as a political ideology, is generally characterised by",
+      "options": [
+        "an emphasis on individual liberty above all state interests",
+        "the complete decentralisation of all governmental authority",
+        "extreme nationalism, dictatorial power, and suppression of political opposition",
+        "a strong commitment to multi-party democratic elections"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fascism is typically marked by authoritarian, one-party rule, intense nationalism, and the forcible suppression of dissent and opposing political viewpoints."
+    },
+    {
+      "subject": "Government",
+      "text": "A monarchy is a system of government in which supreme power is held by",
+      "options": [
+        "a single ruler, often inherited through a royal family line",
+        "an assembly of elected representatives",
+        "the military high command",
+        "a council of wealthy citizens only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monarchies are typically headed by a king, queen, or emperor whose position is usually hereditary, passed down within a royal family."
+    },
+    {
+      "subject": "Government",
+      "text": "An oligarchy is a system of government in which power is concentrated in the hands of",
+      "options": [
+        "the entire adult population through direct voting",
+        "an independent judiciary alone",
+        "a single absolute ruler",
+        "a small group of privileged individuals or families"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oligarchy describes rule by a small, often wealthy or powerful elite group, rather than by a single individual (autocracy) or the broader population (democracy)."
+    },
+    {
+      "subject": "Government",
+      "text": "An autocracy is a system of government in which",
+      "options": [
+        "power rests solely with a religious council",
+        "citizens directly vote on every single law",
+        "power is shared equally among several elected bodies",
+        "absolute power is concentrated in a single individual, unchecked by other institutions"
+      ],
+      "correctIndex": 3,
+      "explanation": "In an autocracy, one person holds unrestricted power over the state, without meaningful checks from a legislature, judiciary, or electorate."
+    },
+    {
+      "subject": "Government",
+      "text": "An aristocracy is a system of government in which power is held by",
+      "options": [
+        "the majority of ordinary citizens",
+        "a hereditary privileged class considered to be of superior social rank",
+        "an appointed group of foreign advisors",
+        "a single elected president"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aristocracy is rule by a hereditary nobility or privileged upper class, historically believed (by supporters) to be best suited to govern due to birth or social standing."
+    },
+    {
+      "subject": "Government",
+      "text": "A unitary system of government is one in which",
+      "options": [
+        "power is constitutionally divided between a central government and regional/state governments",
+        "each region operates as a fully independent sovereign state",
+        "governmental power is centralised in a single national government",
+        "there is no central government of any kind"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a unitary system, ultimate authority rests with the central government, which may delegate some functions to local units, but retains the power to alter or revoke such delegation at will."
+    },
+    {
+      "subject": "Government",
+      "text": "A federal system of government is characterised by",
+      "options": [
+        "complete concentration of all power in local governments only",
+        "a constitutional division of powers between a central government and constituent states/regions",
+        "the merging of several independent countries into one without any internal divisions",
+        "the total absence of a central government"
+      ],
+      "correctIndex": 1,
+      "explanation": "Federalism divides governmental powers constitutionally between a central (federal) authority and regional (state) governments, each with its own defined areas of jurisdiction, as in Nigeria and the USA."
+    },
+    {
+      "subject": "Government",
+      "text": "A confederal system of government is best described as one in which",
+      "options": [
+        "regional governments have no independent powers whatsoever",
+        "all power is completely centralised in a single national government",
+        "the military permanently controls all governmental functions",
+        "independent states unite loosely for specific common purposes, while retaining most of their sovereignty"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a confederation, sovereign states voluntarily cooperate on limited shared matters (like defence or trade), while each member state retains a very high degree of independent authority."
+    },
+    {
+      "subject": "Government",
+      "text": "A presidential system of government is characterised mainly by",
+      "options": [
+        "the fusion of executive and legislative powers in a single body",
+        "a monarch serving as both head of state and head of government",
+        "a clear separation of powers, with an executive president elected independently of the legislature",
+        "the complete absence of a legislative body"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a presidential system, the president (head of the executive) is elected separately from the legislature and serves a fixed term, with powers constitutionally separated from the legislative and judicial branches."
+    },
+    {
+      "subject": "Government",
+      "text": "A parliamentary system of government is characterised mainly by",
+      "options": [
+        "an absolute monarch holding all governmental power",
+        "a strict separation of powers between all three arms of government",
+        "a fusion of executive and legislative powers, with the executive (Prime Minister and Cabinet) drawn from and accountable to the legislature",
+        "an executive president elected directly by the people, separate from parliament"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a parliamentary system, the executive branch (led by a Prime Minister) emerges from and remains accountable to the legislature (parliament), unlike the separated presidential model."
+    },
+    {
+      "subject": "Government",
+      "text": "The Legislature, as an organ of government, is primarily responsible for",
+      "options": [
+        "making laws for the country",
+        "implementing and enforcing the laws",
+        "commanding the armed forces",
+        "interpreting and applying the laws"
+      ],
+      "correctIndex": 0,
+      "explanation": "The legislative arm (e.g., the National Assembly in Nigeria) is constitutionally charged with the primary responsibility of enacting laws for the governance of the state."
+    },
+    {
+      "subject": "Government",
+      "text": "The Executive, as an organ of government, is primarily responsible for",
+      "options": [
+        "making all the laws of the country",
+        "implementing and enforcing the laws made by the Legislature",
+        "interpreting the constitutionality of laws",
+        "solely representing the interests of the judiciary"
+      ],
+      "correctIndex": 1,
+      "explanation": "The executive arm (headed by the President or Prime Minister) is responsible for the day-to-day administration and enforcement of laws and government policy."
+    },
+    {
+      "subject": "Government",
+      "text": "The Judiciary, as an organ of government, is primarily responsible for",
+      "options": [
+        "making new laws for the country",
+        "interpreting the laws and administering justice",
+        "enforcing laws through the police and military",
+        "collecting taxes on behalf of government"
+      ],
+      "correctIndex": 1,
+      "explanation": "The judicial arm interprets and applies the law to resolve disputes and administer justice, while also often reviewing the constitutionality of laws and executive actions."
+    },
+    {
+      "subject": "Government",
+      "text": "The doctrine of Separation of Powers advocates that",
+      "options": [
+        "only the Executive should have any real power",
+        "the Judiciary should be controlled entirely by the Legislature",
+        "all governmental power should be concentrated in a single arm of government",
+        "the three arms of government (Legislature, Executive, Judiciary) should be constitutionally distinct and independent of one another"
+      ],
+      "correctIndex": 3,
+      "explanation": "This doctrine, associated with Montesquieu, holds that dividing governmental power among three separate branches prevents the excessive concentration of power and protects individual liberty."
+    },
+    {
+      "subject": "Government",
+      "text": "The system of Checks and Balances is designed to ensure that",
+      "options": [
+        "one arm of government has absolute and unchecked authority over the others",
+        "the Legislature has no oversight function over the Executive",
+        "each arm of government can monitor and limit the powers of the other arms, preventing abuse of power",
+        "the three arms of government never interact with one another"
+      ],
+      "correctIndex": 2,
+      "explanation": "Checks and balances complement separation of powers by giving each branch specific tools (e.g., veto, impeachment, judicial review) to restrain the others, preventing any single branch from becoming too powerful."
+    },
+    {
+      "subject": "Government",
+      "text": "A bicameral legislature is one that consists of",
+      "options": [
+        "no formal chamber structure at all",
+        "a single chamber or house only",
+        "two chambers or houses, such as a Senate and a House of Representatives",
+        "three separate chambers of equal power"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bicameral legislatures, like Nigeria's National Assembly (Senate and House of Representatives), are divided into two separate legislative chambers, often to provide additional checks on lawmaking."
+    },
+    {
+      "subject": "Government",
+      "text": "A unicameral legislature is one that consists of",
+      "options": [
+        "three or more legislative chambers",
+        "two separate legislative chambers",
+        "no legislative body at all",
+        "a single legislative chamber or house"
+      ],
+      "correctIndex": 3,
+      "explanation": "A unicameral system has just one legislative house, unlike bicameral systems, which divide legislative functions between two chambers."
+    },
+    {
+      "subject": "Government",
+      "text": "Judicial independence refers to the principle that",
+      "options": [
+        "the judiciary should have no power to interpret the constitution",
+        "courts should be directly controlled by the ruling political party",
+        "the judiciary should be free from undue influence or control by the executive or legislature",
+        "judges should always agree with the decisions of the executive branch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Judicial independence ensures that courts can make impartial decisions based on law and fact, free from political pressure or interference from the other arms of government."
+    },
+    {
+      "subject": "Government",
+      "text": "The power of judicial review allows the courts to",
+      "options": [
+        "create entirely new laws independent of the legislature",
+        "directly appoint members of the executive cabinet",
+        "control the day-to-day administration of government ministries",
+        "examine and declare the actions or laws of the executive or legislature unconstitutional if they violate the constitution"
+      ],
+      "correctIndex": 3,
+      "explanation": "Judicial review empowers courts to assess whether laws or governmental actions comply with the constitution, striking down those found to be unconstitutional, reinforcing checks and balances."
+    },
+    {
+      "subject": "Government",
+      "text": "Citizenship refers to the legal status of an individual as a",
+      "options": [
+        "temporary visitor to a foreign country",
+        "recognised member of a particular State, with accompanying rights and duties",
+        "member of an international organisation only",
+        "employee of a foreign government"
+      ],
+      "correctIndex": 1,
+      "explanation": "Citizenship establishes a formal, legal bond between an individual and a State, granting the individual certain rights while also imposing corresponding civic duties."
+    },
+    {
+      "subject": "Government",
+      "text": "Citizenship can generally be acquired through which of the following means?",
+      "options": [
+        "Only by winning a national lottery",
+        "Only through military conscription",
+        "Only by paying a large sum of money to the government",
+        "Birth, naturalisation, and registration"
+      ],
+      "correctIndex": 3,
+      "explanation": "The most common recognised methods of acquiring citizenship are by birth (within a territory or to citizen parents), naturalisation (after meeting residency and legal requirements), and registration."
+    },
+    {
+      "subject": "Government",
+      "text": "Citizenship by birth typically applies to a person who is born",
+      "options": [
+        "exclusively to children of foreign diplomats",
+        "in any country, regardless of their parents' nationality",
+        "within the territory of a State, or to parents who are citizens of that State",
+        "only to individuals over the age of eighteen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Citizenship by birth is usually granted based on either being born within a country's territory (jus soli) or being born to citizen parents regardless of birthplace (jus sanguinis)."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a duty typically expected of a citizen?",
+      "options": [
+        "Receiving unconditional financial support from the government",
+        "Owning property in more than one country",
+        "Holding public office without being elected",
+        "Obeying the laws of the country and paying taxes"
+      ],
+      "correctIndex": 3,
+      "explanation": "In exchange for the rights citizenship confers, citizens are typically expected to fulfil civic duties such as obeying laws, paying taxes, and sometimes voting or serving on juries."
+    },
+    {
+      "subject": "Government",
+      "text": "Fundamental Human Rights refer to",
+      "options": [
+        "benefits available exclusively to citizens of wealthy nations",
+        "rights that can be freely revoked by any private business",
+        "basic rights and freedoms guaranteed to every individual, often enshrined in a country's constitution",
+        "privileges granted only to elected government officials"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fundamental human rights (e.g., right to life, freedom of expression, freedom of association) are considered inherent and essential, typically protected explicitly under a nation's constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "The right to freedom of expression allows citizens to",
+      "options": [
+        "control what other citizens are allowed to say",
+        "avoid ever being criticised by others",
+        "say anything at all with absolutely no legal limitations whatsoever",
+        "hold and express opinions and ideas without undue government interference"
+      ],
+      "correctIndex": 3,
+      "explanation": "Freedom of expression protects individuals' rights to voice opinions and ideas, though in practice it is often subject to reasonable legal limitations (e.g., against defamation or incitement to violence)."
+    },
+    {
+      "subject": "Government",
+      "text": "Fundamental human rights, though broadly guaranteed, are generally subject to certain limitations mainly to",
+      "options": [
+        "prevent any citizen from ever voting",
+        "eliminate the rights of specific ethnic groups",
+        "protect public order, national security, and the rights of others",
+        "allow the government unlimited power over its citizens"
+      ],
+      "correctIndex": 2,
+      "explanation": "Most constitutions permit reasonable, legally justified restrictions on rights when necessary to protect public safety, national security, public order, or the rights and freedoms of others."
+    },
+    {
+      "subject": "Government",
+      "text": "A political party is best defined as an organised group that",
+      "options": [
+        "operates exclusively outside the electoral process",
+        "seeks to gain and exercise governmental power through winning elections",
+        "exists solely to provide charitable services to the public",
+        "represents only the interests of a single private business"
+      ],
+      "correctIndex": 1,
+      "explanation": "Political parties are organisations formed with the primary goal of contesting elections to gain control of government and implement their policy agenda."
+    },
+    {
+      "subject": "Government",
+      "text": "A one-party system of government is characterised by",
+      "options": [
+        "multiple political parties competing freely in elections",
+        "the complete absence of any political party",
+        "regular alternation of power between two dominant parties",
+        "the existence of only a single legally recognised political party"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a one-party system, only one political party is permitted to exist or hold power legally, often restricting political competition and pluralism."
+    },
+    {
+      "subject": "Government",
+      "text": "A multi-party system of government is characterised by",
+      "options": [
+        "exactly two political parties dominating all elections",
+        "only one political party being legally allowed to exist",
+        "the complete absence of elections",
+        "the existence of three or more political parties competing for power"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multi-party systems allow several political parties to compete for power and represent diverse viewpoints, distinguishing them from one-party or strictly two-party systems."
+    },
+    {
+      "subject": "Government",
+      "text": "Universal adult suffrage refers to the",
+      "options": [
+        "right of all adult citizens who meet basic legal requirements to vote in elections",
+        "right to vote granted only to men",
+        "practice of appointing, rather than electing, government officials",
+        "right to vote granted only to wealthy landowners"
+      ],
+      "correctIndex": 0,
+      "explanation": "Universal adult suffrage guarantees the right to vote to all adult citizens, regardless of gender, wealth, or social status, subject only to basic requirements like age and citizenship."
+    },
+    {
+      "subject": "Government",
+      "text": "The First-Past-The-Post electoral system determines a winner as the candidate who",
+      "options": [
+        "is selected directly by the incumbent government",
+        "receives more than fifty percent of the total votes cast",
+        "receives the highest number of votes in a constituency, regardless of whether it is an absolute majority",
+        "is chosen by a council of traditional rulers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under First-Past-The-Post, the candidate with the most votes (a simple plurality) in a constituency wins, even without securing an outright majority of all votes cast."
+    },
+    {
+      "subject": "Government",
+      "text": "Proportional representation is an electoral system in which",
+      "options": [
+        "seats are allocated to parties in proportion to the total number of votes they receive",
+        "only the candidate with the most votes nationwide wins a single seat",
+        "seats are distributed equally regardless of votes received",
+        "voting is restricted to members of the ruling party"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proportional representation aims to more accurately reflect the overall voting pattern of the electorate by distributing legislative seats in line with each party's share of the total vote."
+    },
+    {
+      "subject": "Government",
+      "text": "An Electoral Commission is primarily responsible for",
+      "options": [
+        "enacting the laws that govern the country",
+        "administering the country's judicial system",
+        "commanding the country's armed forces",
+        "organising, conducting, and supervising elections in a country"
+      ],
+      "correctIndex": 3,
+      "explanation": "Electoral commissions (such as INEC in Nigeria) are independent bodies tasked with managing the electoral process to ensure elections are conducted fairly and transparently."
+    },
+    {
+      "subject": "Government",
+      "text": "A pressure group differs from a political party mainly in that a pressure group",
+      "options": [
+        "is formally registered as a branch of government",
+        "seeks to influence government policy without directly seeking to win elections or govern",
+        "has no interest in influencing public policy at all",
+        "always seeks to contest and win elections"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pressure groups (e.g., trade unions, professional associations) aim to influence government decisions and policies on specific issues, without themselves seeking to hold governmental power through elections."
+    },
+    {
+      "subject": "Government",
+      "text": "Public opinion refers to the",
+      "options": [
+        "views expressed exclusively by foreign governments",
+        "official position of the ruling political party alone",
+        "collective views and attitudes of the general population on political and social issues",
+        "personal opinion of a single government minister"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public opinion represents the aggregate viewpoint of citizens on issues of public concern, which can significantly influence government policy and electoral outcomes."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best distinguishes a pressure group from public opinion as forces influencing government?",
+      "options": [
+        "A pressure group is an organised body, while public opinion is a more general, often unorganised, sentiment among the people",
+        "Public opinion can only be expressed through political parties",
+        "Pressure groups never attempt to influence government policy",
+        "Public opinion is always more organised than any pressure group"
+      ],
+      "correctIndex": 0,
+      "explanation": "While both can shape government decisions, pressure groups are structured, organised bodies with specific goals, whereas public opinion is a broader, more diffuse expression of popular sentiment."
+    },
+    {
+      "subject": "Government",
+      "text": "The Civil Service refers to the",
+      "options": [
+        "military and police personnel",
+        "judges serving in the judiciary",
+        "body of permanent, non-political officials who implement government policies",
+        "elected members of the legislature"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Civil Service consists of professional, typically non-partisan administrators who provide continuity in government by implementing policy regardless of which political party is in power."
+    },
+    {
+      "subject": "Government",
+      "text": "A key characteristic of an ideal civil service is",
+      "options": [
+        "the right to make laws independently of the legislature",
+        "complete independence from any form of government oversight",
+        "active membership in a specific political party",
+        "political neutrality, allowing it to serve any government of the day impartially"
+      ],
+      "correctIndex": 3,
+      "explanation": "Civil servants are expected to remain politically neutral, faithfully implementing the policies of whichever government is in power, rather than favouring a particular political party."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a common problem facing the civil service in many developing countries?",
+      "options": [
+        "Too few civil servants relative to the population's needs everywhere",
+        "Complete absence of any hierarchical structure",
+        "Excessive political neutrality that never causes any issues",
+        "Bureaucratic bottlenecks, corruption, and inefficiency"
+      ],
+      "correctIndex": 3,
+      "explanation": "Civil services in many developing countries often struggle with slow, overly bureaucratic processes, corruption, and general inefficiency, undermining effective public service delivery."
+    },
+    {
+      "subject": "Government",
+      "text": "A public corporation is established mainly to",
+      "options": [
+        "serve as a branch of a specific political party",
+        "provide essential goods or services to the public, often in sectors considered too important for purely private control",
+        "replace the judiciary in resolving legal disputes",
+        "generate maximum profit for private shareholders"
+      ],
+      "correctIndex": 1,
+      "explanation": "Public corporations are government-owned entities set up to deliver key public services (like electricity or transportation), often prioritising public welfare over pure profit maximisation."
+    },
+    {
+      "subject": "Government",
+      "text": "Local government, as the third tier of government in Nigeria, is primarily responsible for",
+      "options": [
+        "commanding the national armed forces",
+        "making laws for the entire federation",
+        "conducting the country's foreign relations",
+        "administering affairs at the grassroots level closest to the people"
+      ],
+      "correctIndex": 3,
+      "explanation": "Local government exists as the tier of administration closest to ordinary citizens, handling grassroots issues such as local infrastructure, markets, and primary healthcare."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a common source of revenue for local governments in Nigeria?",
+      "options": [
+        "Direct taxation of foreign embassies",
+        "Direct control over national customs duties",
+        "Revenue from international trade agreements",
+        "Statutory allocation from the federation account"
+      ],
+      "correctIndex": 3,
+      "explanation": "Local governments in Nigeria primarily rely on statutory allocations from the federation account, along with locally generated revenue such as rates and levies, to fund their operations."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a common problem facing local government administration in Nigeria?",
+      "options": [
+        "Complete financial and administrative independence from the states",
+        "Too much direct citizen participation in decision-making",
+        "An overabundance of skilled administrative personnel",
+        "Inadequate funding and excessive control by state governments"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigerian local governments often struggle with insufficient funding and significant interference or control from state governments, limiting their autonomy and effectiveness."
+    },
+    {
+      "subject": "Government",
+      "text": "The pre-colonial Hausa-Fulani political system was primarily organised around",
+      "options": [
+        "a decentralised system with no recognisable central authority",
+        "rule by an assembly of age-grade groups only",
+        "a purely democratic system with universal adult suffrage",
+        "a centralised emirate system headed by an Emir, supported by appointed officials"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Hausa-Fulani political system was highly centralised, with an Emir at the apex, supported by a hierarchy of appointed officials (such as the Waziri and district heads) administering the emirate."
+    },
+    {
+      "subject": "Government",
+      "text": "In the pre-colonial Hausa-Fulani system, the Emir was assisted in administration by an official known as the",
+      "options": [
+        "Oba",
+        "Waziri (Vizier)",
+        "Obi",
+        "Eze"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Waziri served as a chief adviser and administrator to the Emir, playing a role somewhat similar to a modern-day prime minister within the emirate system."
+    },
+    {
+      "subject": "Government",
+      "text": "The pre-colonial Yoruba political system was traditionally headed by a",
+      "options": [
+        "purely elected village council with no traditional ruler",
+        "single military dictator with no legitimacy",
+        "religious leader with no political authority",
+        "monarch known as the Oba, supported by chiefs and councils"
+      ],
+      "correctIndex": 3,
+      "explanation": "The traditional Yoruba political system was monarchical, headed by an Oba, but tempered by councils of chiefs (such as the Oyomesi in the Oyo Empire) who provided checks on his authority."
+    },
+    {
+      "subject": "Government",
+      "text": "In pre-colonial Yoruba political systems, the council of kingmakers and chiefs known as the Oyomesi served mainly to",
+      "options": [
+        "act purely as a religious body with no political function",
+        "have no influence at all over the Alaafin's decisions",
+        "check the power of the Alaafin and could, in extreme cases, demand his removal",
+        "replace the Alaafin as the sole ruler of the kingdom"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Oyomesi acted as a check on the Alaafin of Oyo's power, and under extreme circumstances, could even present him with an empty calabash as a demand that he take his own life, effectively removing him from power."
+    },
+    {
+      "subject": "Government",
+      "text": "The pre-colonial Igbo political system is generally described as",
+      "options": [
+        "identical in structure to the Yoruba Oba system",
+        "a decentralised, republican system without a single centralised traditional ruler",
+        "a system ruled entirely by a single hereditary emperor",
+        "a highly centralised monarchy similar to the Hausa-Fulani emirate system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike the centralised Hausa-Fulani and Yoruba systems, the traditional Igbo political system was largely acephalous (without a single head), relying instead on councils of elders, age-grades, and title societies for governance."
+    },
+    {
+      "subject": "Government",
+      "text": "In the pre-colonial Igbo political system, decision-making was often carried out through",
+      "options": [
+        "an emir supported by appointed district heads",
+        "a foreign-appointed colonial governor",
+        "village assemblies, councils of elders, and age-grade associations",
+        "a single all-powerful hereditary king"
+      ],
+      "correctIndex": 2,
+      "explanation": "Igbo communities typically governed themselves through participatory structures such as village general assemblies, councils of elders, and age-grade groups, reflecting a more decentralised, consensus-driven approach to authority."
+    },
+    {
+      "subject": "Government",
+      "text": "Title societies, such as the Ozo title in Igbo land, functioned mainly to",
+      "options": [
+        "confer social status and political influence upon those who attained the title",
+        "replace the need for any council of elders",
+        "serve as the sole military command structure",
+        "represent a purely ceremonial role with no social significance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Title societies granted successful members enhanced social prestige and often a voice in community decision-making, forming an important part of the decentralised Igbo governance structure."
+    },
+    {
+      "subject": "Government",
+      "text": "A key difference between the pre-colonial Hausa-Fulani and Igbo political systems was that the Hausa-Fulani system was",
+      "options": [
+        "controlled by colonial administrators from the outset",
+        "centralised under an Emir, while the Igbo system was largely decentralised",
+        "entirely without any traditional leadership structure, unlike the Igbo system",
+        "based on universal adult suffrage, unlike the Igbo system"
+      ],
+      "correctIndex": 1,
+      "explanation": "This distinction is a classic feature of Nigerian pre-colonial political history: the Hausa-Fulani's strongly centralised emirate structure versus the Igbo's more decentralised, republican-style governance."
+    },
+    {
+      "subject": "Government",
+      "text": "The policy of Indirect Rule, adopted by the British in colonial Nigeria, involved",
+      "options": [
+        "immediate grant of full self-government to Nigerians",
+        "direct rule by British officials with no involvement of traditional authorities",
+        "governing through existing traditional rulers and institutions, under overall British supervision",
+        "the complete abolition of all traditional rulers and institutions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indirect Rule, associated with Lord Lugard, used existing traditional political structures (like Emirs) as intermediaries to administer colonial policy, reducing the number of British officials needed."
+    },
+    {
+      "subject": "Government",
+      "text": "Indirect Rule was most successfully implemented in colonial Nigeria in the",
+      "options": [
+        "Western Region only, due to a complete absence of traditional rulers",
+        "entire country equally, with no regional variation in success",
+        "Eastern Region, due to its decentralised political structures",
+        "Northern Region, due to the existing centralised emirate system"
+      ],
+      "correctIndex": 3,
+      "explanation": "The North's centralised Hausa-Fulani emirate system, with clear hierarchical authority, was well suited to Indirect Rule, whereas the decentralised Igbo system in the East made it more difficult to implement effectively."
+    },
+    {
+      "subject": "Government",
+      "text": "A major challenge to implementing Indirect Rule in Eastern Nigeria was that the",
+      "options": [
+        "region had no population large enough to govern",
+        "decentralised Igbo political system lacked the centralised traditional rulers the policy relied upon",
+        "British had no colonial interest in the Eastern Region at all",
+        "Igbo people had no interest in trade with the British"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since Indirect Rule depended on existing centralised traditional authority, the British faced difficulties in the East, sometimes resorting to appointing 'Warrant Chiefs' who lacked genuine traditional legitimacy."
+    },
+    {
+      "subject": "Government",
+      "text": "The Clifford Constitution of 1922 is significant mainly for",
+      "options": [
+        "granting Nigeria full independence from British rule",
+        "establishing a fully federal system of government for Nigeria",
+        "abolishing all forms of legislative council in Nigeria",
+        "introducing the elective principle, allowing a limited number of Nigerians to be elected into the Legislative Council"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 1922 Clifford Constitution was notable for introducing limited elections, allowing a small number of Nigerians (in Lagos and Calabar) to be elected to the Legislative Council for the first time."
+    },
+    {
+      "subject": "Government",
+      "text": "The Richards Constitution of 1946 is significant mainly for",
+      "options": [
+        "introducing universal adult suffrage across Nigeria",
+        "abolishing the position of Governor-General",
+        "introducing regionalism by dividing Nigeria into three regions (North, East, West)",
+        "granting Nigeria complete independence"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Richards Constitution laid the foundation for Nigerian federalism by dividing the country into three regions, each with its own regional legislative assembly."
+    },
+    {
+      "subject": "Government",
+      "text": "The Macpherson Constitution of 1951 is significant mainly for",
+      "options": [
+        "abolishing the regional structure created by the Richards Constitution",
+        "establishing Nigeria's first military government",
+        "granting Nigeria full independence from Britain",
+        "introducing a greater degree of Nigerian participation in central government and expanding the elective principle"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Macpherson Constitution expanded Nigerian involvement in governance at the centre and further developed representative institutions, though it also revealed growing regional tensions."
+    },
+    {
+      "subject": "Government",
+      "text": "The Lyttelton Constitution of 1954 is significant mainly for",
+      "options": [
+        "formally establishing Nigeria as a federation with defined powers for the regions and the centre",
+        "establishing a unitary, rather than federal, system of government",
+        "abolishing the office of Regional Premier",
+        "granting Nigeria immediate independence"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1954 Lyttelton Constitution firmly established Nigeria's federal structure, clearly defining the division of powers between the regional governments and the central government."
+    },
+    {
+      "subject": "Government",
+      "text": "Nationalist movements in colonial Nigeria emerged mainly in response to",
+      "options": [
+        "a request from the British government for Nigerians to seek independence",
+        "the total absence of any educated Nigerian elite",
+        "a lack of any economic or political grievances under colonial rule",
+        "dissatisfaction with colonial rule and a desire for self-governance and independence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nationalist movements, led by figures like Herbert Macaulay, Nnamdi Azikiwe, and Obafemi Awolowo, arose from growing Nigerian dissatisfaction with colonial domination and a push for self-rule."
+    },
+    {
+      "subject": "Government",
+      "text": "The National Council of Nigeria and the Cameroons (NCNC) was significant as an early Nigerian",
+      "options": [
+        "purely religious organisation with no political goals",
+        "colonial administrative body established by the British",
+        "military faction opposing civilian rule",
+        "nationalist political organisation advocating for self-government"
+      ],
+      "correctIndex": 3,
+      "explanation": "The NCNC, led notably by Herbert Macaulay and later Nnamdi Azikiwe, was one of Nigeria's earliest and most prominent nationalist political parties advocating for self-determination."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best describes the general impact of British colonial rule on Nigeria's political development?",
+      "options": [
+        "It immediately granted Nigeria a fully independent, self-sufficient government",
+        "It had no effect whatsoever on Nigeria's traditional political systems",
+        "It completely eliminated regional and ethnic distinctions within Nigeria",
+        "It introduced Western political and administrative structures while altering pre-existing indigenous systems of governance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Colonial rule fundamentally reshaped Nigeria's political landscape by introducing Western-style institutions and constitutional frameworks, while significantly altering (and in some cases undermining) existing indigenous governance systems."
+    },
+    {
+      "subject": "Government",
+      "text": "The 1960 Independence Constitution established Nigeria as a",
+      "options": [
+        "federation with a parliamentary system of government under a constitutional monarch",
+        "unitary state under an executive president",
+        "one-party socialist state",
+        "military-controlled federation"
+      ],
+      "correctIndex": 0,
+      "explanation": "At independence in 1960, Nigeria adopted a parliamentary system, retaining the British monarch as ceremonial Head of State, represented locally by a Governor-General."
+    },
+    {
+      "subject": "Government",
+      "text": "The 1963 Republican Constitution is significant mainly because it",
+      "options": [
+        "abolished the federal structure of Nigeria",
+        "granted Nigeria independence from British rule",
+        "made Nigeria a republic, replacing the British monarch with a Nigerian President as Head of State",
+        "introduced military rule for the first time"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1963 Constitution transformed Nigeria into a full republic, replacing the British monarch as Head of State with an indigenous Nigerian President, while retaining the parliamentary system."
+    },
+    {
+      "subject": "Government",
+      "text": "The 1979 Constitution introduced which significant change to Nigeria's system of government?",
+      "options": [
+        "A one-party socialist system of government",
+        "A presidential system of government, replacing the parliamentary system",
+        "The abolition of the federal structure",
+        "A return to colonial-style Indirect Rule"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1979 Constitution marked Nigeria's shift from the parliamentary system inherited at independence to a presidential system modelled substantially on that of the United States."
+    },
+    {
+      "subject": "Government",
+      "text": "The 1999 Constitution, under which Nigeria currently operates, established a",
+      "options": [
+        "parliamentary system of government under a ceremonial monarch",
+        "presidential system of government with a federal structure",
+        "purely unitary system of government",
+        "one-party state with no multi-party competition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1999 Constitution (as amended) continues to govern Nigeria today, maintaining a federal, presidential system of government with three tiers: federal, state, and local government."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a key feature common to Nigeria's post-independence constitutions (1963, 1979, 1999)?",
+      "options": [
+        "Rule exclusively by unelected traditional rulers",
+        "The complete absence of a written constitution",
+        "A federal system of government dividing power between the centre and constituent units",
+        "A single, unitary structure with no regional or state divisions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite differences in the form of executive government (parliamentary vs. presidential), Nigeria's constitutions since independence have consistently maintained a federal structure."
+    },
+    {
+      "subject": "Government",
+      "text": "The transition from a parliamentary to a presidential system of government in Nigeria was formalised by the",
+      "options": [
+        "1960 Independence Constitution",
+        "Richards Constitution of 1946",
+        "1979 Constitution",
+        "1963 Republican Constitution"
+      ],
+      "correctIndex": 2,
+      "explanation": "While the 1960 and 1963 constitutions retained a parliamentary framework, it was the 1979 Constitution that introduced the presidential system Nigeria has retained (with interruptions) since."
+    },
+    {
+      "subject": "Government",
+      "text": "Under the 1999 Constitution, the President of Nigeria serves as both",
+      "options": [
+        "only Head of Government, with a separate ceremonial Head of State",
+        "Head of State and Head of Government",
+        "only a ceremonial Head of State with no executive powers",
+        "a purely symbolic figure with no constitutional role"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under Nigeria's presidential system, the President combines the roles of Head of State (ceremonial representative of the nation) and Head of Government (in charge of the executive branch), unlike the separated roles in a parliamentary system."
+    },
+    {
+      "subject": "Government",
+      "text": "Which post-independence Nigerian constitution first introduced the Federal Character Principle to ensure fair representation of Nigeria's diverse groups in government?",
+      "options": [
+        "The 1979 Constitution",
+        "The 1963 Republican Constitution",
+        "The Lyttelton Constitution of 1954",
+        "The 1960 Independence Constitution"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Federal Character Principle, aimed at ensuring no particular ethnic or sectional group dominates public appointments, was formally introduced under the 1979 Constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "A major cause of military intervention in Nigerian politics historically has been",
+      "options": [
+        "unanimous public satisfaction with civilian rule",
+        "widespread political instability, corruption, and electoral malpractice under civilian governments",
+        "a complete absence of any political parties",
+        "excessive stability and efficiency of civilian government"
+      ],
+      "correctIndex": 1,
+      "explanation": "Military coups in Nigeria's history were frequently justified by the military as necessary responses to perceived political instability, corruption, and failures of the preceding civilian administrations."
+    },
+    {
+      "subject": "Government",
+      "text": "Under military rule in Nigeria, governmental power was typically concentrated in a body known as the",
+      "options": [
+        "Council of State comprised only of civilians",
+        "Federal Executive Council elected by the people",
+        "National Assembly",
+        "Supreme Military Council (or similar ruling council)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Military regimes in Nigeria generally centralised power in a small ruling council of top military officers (variously named, such as the Supreme Military Council or Provisional Ruling Council), which issued decrees with the force of law."
+    },
+    {
+      "subject": "Government",
+      "text": "During military rule, laws were typically enacted through",
+      "options": [
+        "decisions made solely by the judiciary",
+        "referenda conducted among the general public",
+        "decrees issued by the ruling military council, rather than through a legislature",
+        "debate and voting within an elected National Assembly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since military governments typically suspended or dissolved the legislature, laws were instead promulgated as decrees by the ruling military authority, bypassing normal legislative processes."
+    },
+    {
+      "subject": "Government",
+      "text": "One commonly cited achievement of military regimes in Nigeria has been",
+      "options": [
+        "increased citizen participation in lawmaking",
+        "the strengthening of multi-party democratic institutions",
+        "the permanent elimination of political corruption",
+        "swift decision-making unburdened by lengthy legislative debate, particularly during national emergencies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Supporters of military rule sometimes point to its capacity for rapid, centralised decision-making, useful during crises, though this often came at the cost of democratic checks and civil liberties."
+    },
+    {
+      "subject": "Government",
+      "text": "A commonly cited weakness of military rule in Nigeria has been",
+      "options": [
+        "the suppression of fundamental human rights and lack of accountability to the electorate",
+        "too much power vested in an elected legislature",
+        "excessive checks and balances slowing down governance",
+        "overly transparent and participatory decision-making processes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Military regimes were frequently criticised for curtailing civil liberties, operating without the accountability mechanisms of elections, and concentrating power without meaningful checks."
+    },
+    {
+      "subject": "Government",
+      "text": "The transition from military to civilian rule in Nigeria typically involved",
+      "options": [
+        "drafting a new or amended constitution and conducting elections to usher in a democratically elected government",
+        "the immediate abolition of the federal system of government",
+        "the permanent retention of power by the military",
+        "rule being handed directly to a foreign government"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transitions from military to civilian rule in Nigeria's history generally followed a process of constitutional reform and organised elections to restore a democratically elected government."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's foreign policy refers to the",
+      "options": [
+        "policies exclusively concerning Nigeria's military structure at home",
+        "internal policies governing Nigeria's domestic economy alone",
+        "laws governing trade solely within Nigeria's borders",
+        "strategies and principles guiding Nigeria's relations with other countries and international bodies"
+      ],
+      "correctIndex": 3,
+      "explanation": "Foreign policy encompasses the principles and strategies a country adopts in conducting its relations, diplomacy, and interactions with other states and international organisations."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a core principle guiding Nigeria's foreign policy since independence?",
+      "options": [
+        "Total avoidance of any international organisation membership",
+        "Exclusive alliance with a single foreign superpower",
+        "Complete isolation from all other African countries",
+        "Africa as the centrepiece of Nigeria's foreign policy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria has consistently emphasised the promotion of African unity, decolonisation, and development as the central focus (the 'centrepiece') of its foreign policy since gaining independence."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a major determinant of a country's foreign policy?",
+      "options": [
+        "The personal hobbies of individual government ministers",
+        "The country's economic resources and strategic national interests",
+        "The colour of the country's national flag",
+        "The number of public holidays celebrated annually"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foreign policy decisions are typically shaped by tangible factors such as a nation's economic strength, security concerns, historical ties, and overall strategic national interests."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria played a significant leadership role in supporting the independence and anti-apartheid struggles of which Southern African country?",
+      "options": [
+        "Egypt",
+        "South Africa",
+        "Kenya",
+        "Morocco"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria was a vocal and active supporter of the anti-apartheid movement in South Africa, providing diplomatic, financial, and moral support to end apartheid rule."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's relations with world powers, such as the United States and the United Kingdom, are generally guided by considerations of",
+      "options": [
+        "unconditional agreement with all their foreign policy positions",
+        "total isolation from any political or economic engagement",
+        "abandonment of any independent Nigerian foreign policy stance",
+        "mutual economic benefit, diplomatic cooperation, and international security"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria's relations with major world powers are typically shaped by pragmatic considerations of trade, investment, diplomatic partnership, and shared security interests, while still asserting independent policy positions."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's foreign policy towards other African states has generally emphasised",
+      "options": [
+        "the annexation of neighbouring territories",
+        "support only for countries that share Nigeria's exact system of government",
+        "complete non-involvement in regional African affairs",
+        "Pan-Africanism and support for regional cooperation and integration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria has generally championed Pan-African ideals, supporting regional cooperation, peacekeeping, and integration efforts across the African continent, consistent with its 'Africa as centrepiece' policy."
+    },
+    {
+      "subject": "Government",
+      "text": "The United Nations Organization (UNO) was established mainly to",
+      "options": [
+        "regulate the internal domestic policies of member states directly",
+        "serve as a single world government replacing individual nations",
+        "function exclusively as a global trading company",
+        "promote international peace, security, and cooperation among nations"
+      ],
+      "correctIndex": 3,
+      "explanation": "The UN was founded after World War II with the primary aim of maintaining international peace and security while fostering cooperation on economic, social, and humanitarian issues among member states."
+    },
+    {
+      "subject": "Government",
+      "text": "Which organ of the United Nations is primarily responsible for maintaining international peace and security?",
+      "options": [
+        "The Security Council",
+        "The General Assembly",
+        "The International Court of Justice",
+        "The Economic and Social Council"
+      ],
+      "correctIndex": 0,
+      "explanation": "The UN Security Council holds primary responsibility for addressing threats to international peace and security, including the authority to authorise peacekeeping missions and sanctions."
+    },
+    {
+      "subject": "Government",
+      "text": "The permanent members of the United Nations Security Council, each holding veto power, are",
+      "options": [
+        "Nigeria, South Africa, Egypt, Kenya, and Ghana",
+        "Germany, Japan, India, Brazil, and Canada",
+        "all 193 member states of the United Nations equally",
+        "the United States, United Kingdom, France, Russia, and China"
+      ],
+      "correctIndex": 3,
+      "explanation": "The UN Security Council has five permanent members with veto power (the US, UK, France, Russia, and China), alongside ten non-permanent members elected for two-year terms."
+    },
+    {
+      "subject": "Government",
+      "text": "The Commonwealth of Nations is an international organisation whose members are mainly",
+      "options": [
+        "countries that were formerly part of the British Empire",
+        "countries that have never had any historical ties to Britain",
+        "restricted only to countries in the Americas",
+        "exclusively countries located in Europe"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Commonwealth is a voluntary association of predominantly former British colonies and territories, including Nigeria, that cooperate on shared values like democracy and development."
+    },
+    {
+      "subject": "Government",
+      "text": "The African Union (AU) was established mainly to promote",
+      "options": [
+        "competition and conflict among African nations",
+        "the re-establishment of colonial rule in Africa",
+        "unity, cooperation, and development among African states",
+        "the political and economic isolation of African states from the rest of the world"
+      ],
+      "correctIndex": 2,
+      "explanation": "The AU (successor to the Organisation of African Unity) works to promote political and economic integration, peace, security, and development across the African continent."
+    },
+    {
+      "subject": "Government",
+      "text": "The Economic Community of West African States (ECOWAS) was established mainly to promote",
+      "options": [
+        "military conflict among West African states",
+        "trade exclusively between West Africa and Europe",
+        "economic integration and cooperation among West African countries",
+        "the political isolation of Nigeria from its neighbours"
+      ],
+      "correctIndex": 2,
+      "explanation": "ECOWAS aims to foster economic cooperation, free movement of goods and people, and regional integration among its West African member states, including Nigeria."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria has historically played a significant peacekeeping role within ECOWAS, notably through its leadership contributions to the ECOWAS Monitoring Group known as",
+      "options": [
+        "AU Peace and Security Council",
+        "NATO",
+        "ECOMOG",
+        "UN Security Council"
+      ],
+      "correctIndex": 2,
+      "explanation": "ECOMOG (ECOWAS Monitoring Group) was a peacekeeping force established by ECOWAS, in which Nigeria played a leading and prominent role, notably during conflicts in Liberia and Sierra Leone."
+    },
+    {
+      "subject": "Government",
+      "text": "International organisations such as the UN, Commonwealth, AU, and ECOWAS generally benefit member countries mainly by",
+      "options": [
+        "eliminating the sovereignty of all member states entirely",
+        "guaranteeing unlimited financial wealth to every member state",
+        "forcing all member states to adopt an identical system of government",
+        "providing platforms for cooperation, conflict resolution, and collective action on shared challenges"
+      ],
+      "correctIndex": 3,
+      "explanation": "These organisations create structured forums where member states can collaborate on common political, economic, security, and social challenges, while generally still respecting national sovereignty."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's membership in international organisations like the UN and AU reflects its foreign policy commitment to",
+      "options": [
+        "multilateral cooperation and collective diplomacy on the world stage",
+        "withdrawal from all forms of international engagement",
+        "unilateral action without regard for international consensus",
+        "complete political isolation from other nations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria's active participation in these international bodies demonstrates its foreign policy preference for engaging diplomatically and cooperatively with the wider international community, rather than pursuing isolation."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best describes the role of the United Nations General Assembly?",
+      "options": [
+        "An organisation limited only to economic issues in Europe",
+        "A body with the exclusive power to authorise military action against any nation",
+        "A court that settles legal disputes between individual citizens",
+        "A forum where all member states have equal representation to discuss and vote on a wide range of international issues"
+      ],
+      "correctIndex": 3,
+      "explanation": "The General Assembly is the main deliberative body of the UN, where every member state, regardless of size or power, has equal voting rights on a broad range of global issues."
+    },
+    {
+      "subject": "Government",
+      "text": "The International Court of Justice (ICJ), the principal judicial organ of the United Nations, is primarily responsible for",
+      "options": [
+        "settling legal disputes between states and providing advisory opinions on international legal questions",
+        "administering humanitarian aid directly to refugees",
+        "managing the UN's annual budget and finances",
+        "enforcing UN Security Council resolutions with military force"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ICJ, based in The Hague, adjudicates legal disputes submitted by states and offers advisory opinions on international legal matters referred to it by authorised UN bodies."
+    },
+    {
+      "subject": "Government",
+      "text": "Max Weber distinguished three types of legitimate authority. Which pairing correctly matches a type with its basis?",
+      "options": [
+        "Traditional authority — rests on a written constitution ratified by referendum",
+        "Charismatic authority — rests on impersonal rules enacted through proper legal procedure",
+        "Legal-rational authority — rests on the exceptional heroism or personal qualities of a leader",
+        "Traditional authority — rests on established belief in the sanctity of long-standing customs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weber classified traditional authority as deriving legitimacy from long-established customs and hereditary status, unlike charismatic (personal qualities) or legal-rational (codified rules) authority."
+    },
+    {
+      "subject": "Government",
+      "text": "A government may possess effective power over its territory yet still be widely regarded as illegitimate. This scenario best illustrates that",
+      "options": [
+        "power and legitimacy are identical concepts and cannot diverge",
+        "power is the capacity to compel obedience while legitimacy is the popular acceptance of the right to rule, and one can exist without the other",
+        "sovereignty automatically confers legitimacy on any government",
+        "legitimacy is solely determined by international recognition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power is the ability to enforce compliance, whereas legitimacy is the moral and psychological acceptance of authority by the governed; a regime can hold power without being seen as legitimate."
+    },
+    {
+      "subject": "Government",
+      "text": "Internal sovereignty is best distinguished from external sovereignty in that internal sovereignty refers to",
+      "options": [
+        "recognition by other independent states in the international community",
+        "the state's capacity to wage war against other nations",
+        "membership of regional organisations such as the African Union",
+        "supreme, final authority over persons and affairs within the state's own territory"
+      ],
+      "correctIndex": 3,
+      "explanation": "Internal sovereignty is the supreme authority a state exercises over all persons, groups and institutions within its borders, while external sovereignty concerns independence from outside control and recognition by other states."
+    },
+    {
+      "subject": "Government",
+      "text": "Political socialization is best defined as the process by which",
+      "options": [
+        "a state acquires new territory through conquest",
+        "individuals acquire political values, attitudes and knowledge that shape their orientation to the political system",
+        "political parties select candidates for elective office",
+        "a government transfers power to a successor administration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Political socialization describes the lifelong process, occurring through agents such as family, school and media, by which individuals internalise the political values and norms of their society."
+    },
+    {
+      "subject": "Government",
+      "text": "Political culture, as used by political scientists, refers primarily to",
+      "options": [
+        "the formal legal framework establishing a country's arms of government",
+        "the artistic and literary output of a nation's citizens",
+        "the pattern of individual orientations — cognitive, affective and evaluative — towards the political system shared within a society",
+        "the census data used to apportion legislative seats"
+      ],
+      "correctIndex": 2,
+      "explanation": "Political culture concerns the shared beliefs, values and attitudes citizens hold about their political system, distinct from the formal institutional or legal structure of government."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best explains why a State is considered logically prior to, and more permanent than, any particular government?",
+      "options": [
+        "A State can exist only where a single political party is in office",
+        "A State ceases to exist whenever its government is overthrown",
+        "A government is merely the machinery through which state sovereignty is exercised at a given time, and it may change while the State persists",
+        "Government and State are interchangeable terms with no meaningful distinction"
+      ],
+      "correctIndex": 2,
+      "explanation": "The State is a permanent political community, while government is the temporary body of persons and institutions exercising state authority, which can change through elections or coups without the State itself dissolving."
+    },
+    {
+      "subject": "Government",
+      "text": "A stateless society, as anthropologists use the term in describing some pre-colonial African communities, is one in which",
+      "options": [
+        "political authority is diffused among kinship groups, age-grades or lineage councils rather than concentrated in a centralised ruler",
+        "there is no organised political authority whatsoever and total anarchy prevails",
+        "a written constitution formally abolishes the office of chief",
+        "sovereignty is vested exclusively in a colonial governor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stateless societies, such as the pre-colonial Igbo, lacked a centralised monarchical authority but were not anarchic; governance was exercised through decentralised kinship, age-grade and lineage institutions."
+    },
+    {
+      "subject": "Government",
+      "text": "Which distinction correctly separates 'power' from 'influence' in political analysis?",
+      "options": [
+        "Influence is exercised only by courts while power is exercised only by legislatures",
+        "Influence always requires a constitutional office while power does not",
+        "Power and influence are synonyms used interchangeably in political science",
+        "Power involves the ability to compel compliance often backed by sanctions, while influence involves shaping decisions through persuasion without coercive sanction"
+      ],
+      "correctIndex": 3,
+      "explanation": "Power typically carries the capacity to enforce obedience through sanctions, whereas influence achieves compliance through persuasion, bargaining or moral suasion without formal coercive backing."
+    },
+    {
+      "subject": "Government",
+      "text": "In distinguishing an oligarchy from an aristocracy, the key criterion political scientists apply is that",
+      "options": [
+        "an oligarchy is rule by the wealthy few for their own selfish interest, while an aristocracy is rule by a privileged few claiming superior merit or birth",
+        "an aristocracy always involves rule by military officers while an oligarchy never does",
+        "an oligarchy is a democratic system while an aristocracy is not",
+        "there is no meaningful difference; both terms describe identical systems"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aristocracy denotes rule by a supposedly superior minority (often based on birth or merit) claiming to govern in the common good, whereas oligarchy denotes rule by a small elite, typically the wealthy, primarily serving its own interests."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best captures the essential difference between a federal and a confederal system of government?",
+      "options": [
+        "Federal systems cannot have a bicameral legislature while confederations must",
+        "A federation has no written constitution while a confederation always does",
+        "A confederation has a stronger central government than a federation",
+        "In a federation, sovereignty is divided constitutionally between central and component governments each acting directly on citizens, whereas in a confederation sovereignty resides with the constituent states which retain the right to secede"
+      ],
+      "correctIndex": 3,
+      "explanation": "Federalism creates a constitutionally entrenched division of power in which both levels act directly on citizens, while a confederation is a looser alliance of sovereign states retaining ultimate authority, including the right of withdrawal."
+    },
+    {
+      "subject": "Government",
+      "text": "A defining structural feature that distinguishes a presidential system from a parliamentary system is that in a presidential system",
+      "options": [
+        "the executive is drawn from and remains accountable to the legislature through votes of no confidence",
+        "the head of state and head of government are fused in one office that is separately elected and not accountable to the legislature for its continuation in office",
+        "the legislature can be dissolved at will by the prime minister",
+        "cabinet ministers must simultaneously be sitting members of parliament"
+      ],
+      "correctIndex": 1,
+      "explanation": "In presidential systems, the president is separately elected for a fixed term and does not depend on continued legislative confidence, unlike a parliamentary system where the executive emerges from and can be dismissed by the legislature."
+    },
+    {
+      "subject": "Government",
+      "text": "A rigid constitution is best described as one in which",
+      "options": [
+        "amendment can be achieved through a simple majority vote in an ordinary legislative session",
+        "amendment requires a special procedure more demanding than that for ordinary legislation, such as a supermajority or referendum",
+        "the constitution is entirely unwritten and based on convention",
+        "the constitution cannot be amended under any circumstances whatsoever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rigidity refers to the presence of special, more demanding amendment procedures, not to the impossibility of amendment; Nigeria's 1999 Constitution, for example, requires two-thirds and state assembly approval."
+    },
+    {
+      "subject": "Government",
+      "text": "Which statement correctly distinguishes an unwritten constitution from a written one, using the United Kingdom and the United States as examples?",
+      "options": [
+        "Both the UK and US constitutions are codified in a single authoritative document",
+        "The UK has no constitution at all, while the US Constitution is entirely oral tradition",
+        "The UK's constitution is uncodified, deriving from statutes, conventions, and judicial precedent, while the US Constitution is a single codified document",
+        "An unwritten constitution cannot be amended, while a written one can always be amended by simple majority"
+      ],
+      "correctIndex": 2,
+      "explanation": "Britain's constitution is described as unwritten because it is uncodified, drawing on multiple sources including statute, common law and convention, whereas the United States has a single codified written document."
+    },
+    {
+      "subject": "Government",
+      "text": "Direct democracy differs from representative (indirect) democracy chiefly in that direct democracy",
+      "options": [
+        "can only occur in states with a population above one hundred million",
+        "involves citizens making political decisions themselves, such as through referenda or plebiscites, rather than through elected representatives",
+        "requires the existence of at least three political parties",
+        "eliminates the need for any form of citizenship"
+      ],
+      "correctIndex": 1,
+      "explanation": "Direct democracy allows citizens to participate personally in decision-making, for example through referenda, while representative democracy delegates decision-making to elected officials."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is the most accurate distinction between a republic and a monarchy?",
+      "options": [
+        "A republic has no executive branch of government",
+        "A republic must always be a federation while a monarchy must always be unitary",
+        "A monarchy cannot have a written constitution",
+        "A republic's head of state derives office through some form of election or appointment rather than heredity, while a monarchy's head of state typically succeeds by hereditary right"
+      ],
+      "correctIndex": 3,
+      "explanation": "The defining feature of a republic is a non-hereditary head of state, usually chosen through election, in contrast to a monarchy where succession is typically hereditary."
+    },
+    {
+      "subject": "Government",
+      "text": "A theocracy is a system of government in which",
+      "options": [
+        "supreme authority rests with the military high command",
+        "the civil service exercises ultimate sovereign authority",
+        "power rotates strictly among elected regional governors",
+        "governance is conducted according to religious law with rulers claiming divine sanction or acting as agents of a deity"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a theocracy, political authority is exercised in accordance with religious doctrine, with rulers deriving their legitimacy from claimed divine authority rather than popular mandate or secular law."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a genuine check the legislature holds over the executive under a presidential system such as Nigeria's, rather than over the judiciary?",
+      "options": [
+        "The power to grant the prerogative of mercy to convicted persons",
+        "The power to issue binding judicial precedents",
+        "The power to try civil and criminal cases at first instance",
+        "The power to confirm ministerial and other key executive appointments and to override a presidential veto by a qualified majority"
+      ],
+      "correctIndex": 3,
+      "explanation": "Legislatures typically check the executive by confirming key appointments and by having the capacity to override an executive veto with a supermajority, distinguishing this from judicial functions."
+    },
+    {
+      "subject": "Government",
+      "text": "The principle of judicial independence is best undermined by which of the following?",
+      "options": [
+        "Executive control over the appointment, discipline, and removal of judges without meaningful checks",
+        "Payment of judicial salaries from a Consolidated Revenue Fund not subject to annual legislative vote",
+        "Security of tenure for judges guaranteed until a fixed retirement age",
+        "A constitutional bar on judges holding other paid employment while in office"
+      ],
+      "correctIndex": 0,
+      "explanation": "Judicial independence is compromised when the executive can unilaterally appoint, discipline or remove judges, since this creates dependence and potential for political interference in adjudication."
+    },
+    {
+      "subject": "Government",
+      "text": "Judicial activism, as opposed to judicial restraint, describes a tendency for courts to",
+      "options": [
+        "strictly defer to the literal wording of statutes and avoid overturning legislative or executive decisions",
+        "delegate all interpretive authority to the legislature",
+        "refuse to hear any case involving constitutional interpretation",
+        "interpret the constitution broadly and be willing to overturn legislative or executive actions to advance perceived justice or evolving social values"
+      ],
+      "correctIndex": 3,
+      "explanation": "Judicial activism describes courts taking an expansive interpretive approach and readily striking down or reshaping legislative and executive action, in contrast to judicial restraint's deference to elected branches."
+    },
+    {
+      "subject": "Government",
+      "text": "The doctrine of separation of powers, as articulated by Montesquieu, is most accurately summarised as",
+      "options": [
+        "a single body should exercise legislative, executive and judicial functions to ensure efficiency",
+        "only the legislature should exist, with executive and judicial functions abolished",
+        "legislative, executive and judicial powers should be vested in separate organs and personnel, primarily to prevent the concentration and abuse of power",
+        "the executive should have absolute power to override both the legislature and judiciary at will"
+      ],
+      "correctIndex": 2,
+      "explanation": "Montesquieu argued that liberty is best safeguarded when legislative, executive and judicial powers are held by distinct organs and personnel, preventing any one branch from becoming tyrannical."
+    },
+    {
+      "subject": "Government",
+      "text": "In strict theory, a pure application of separation of powers would be inconsistent with which practice found in Nigeria's presidential system?",
+      "options": [
+        "The President nominating ministers who must then be screened and confirmed by the Senate",
+        "The National Assembly having exclusive power to make laws on matters in the Exclusive Legislative List",
+        "The judiciary having sole responsibility for interpreting the constitution",
+        "The President being constitutionally barred from serving more than two terms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Requiring Senate confirmation of ministerial nominees blends legislative involvement into an executive appointment function, illustrating checks and balances rather than a strict, watertight separation of powers."
+    },
+    {
+      "subject": "Government",
+      "text": "The primary rationale for bicameralism in a federal state such as Nigeria is that",
+      "options": [
+        "it slows down the legislative process unnecessarily and serves no other purpose",
+        "a second chamber, often representing constituent states equally, provides a check on the popularly apportioned lower house and safeguards federal interests",
+        "it eliminates the need for an executive veto",
+        "it allows the judiciary to bypass legislative approval for new laws"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bicameral legislature in federations typically pairs a population-based lower house with an upper house giving equal or special representation to constituent units, protecting federalism and providing additional scrutiny."
+    },
+    {
+      "subject": "Government",
+      "text": "Delegated legislation, whereby the executive makes detailed rules under authority granted by an enabling Act of the legislature, is primarily justified on the grounds that",
+      "options": [
+        "it allows the executive to bypass judicial review entirely",
+        "the legislature lacks the technical expertise and time to formulate every detailed regulation, so it delegates rule-making within limits it sets",
+        "it transfers full law-making sovereignty permanently to the executive",
+        "it is required by the doctrine of separation of powers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delegated legislation exists because legislatures often lack the specialised expertise and time to draft technical regulations, so they authorise the executive to fill in details within a framework the legislature has set."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best distinguishes the 'original jurisdiction' of a court from its 'appellate jurisdiction'?",
+      "options": [
+        "Original jurisdiction applies only to criminal matters while appellate jurisdiction applies only to civil matters",
+        "Original jurisdiction is the authority to hear a case for the first time, while appellate jurisdiction is the authority to review decisions already made by a lower court",
+        "Appellate jurisdiction is exercised exclusively by magistrate courts",
+        "Original jurisdiction and appellate jurisdiction are identical in meaning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Original jurisdiction refers to a court's power to hear and determine a case in the first instance, whereas appellate jurisdiction is the power to review and revise decisions rendered by a lower court."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following most accurately distinguishes scientific socialism (Marxism) from utopian socialism?",
+      "options": [
+        "Scientific socialism, as developed by Marx and Engels, claims to base the inevitability of socialist transformation on a materialist analysis of historical class struggle, whereas utopian socialism relies on moral appeals and idealistic model communities without such a systematic theory",
+        "Utopian socialism advocates violent revolution while scientific socialism rejects revolution entirely",
+        "Scientific socialism supports private ownership of the means of production while utopian socialism opposes it",
+        "There is no meaningful theoretical distinction between the two forms of socialism"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marx and Engels distinguished their 'scientific socialism', grounded in historical materialism and class analysis, from earlier utopian socialists who relied on moral persuasion and idealised experimental communities."
+    },
+    {
+      "subject": "Government",
+      "text": "Fascism and Nazism both emphasise extreme nationalism and a single-party dictatorship, but Nazism is additionally distinguished by",
+      "options": [
+        "its advocacy of a stateless, classless society",
+        "its rejection of the concept of a nation-state entirely",
+        "its explicit doctrine of racial superiority and antisemitism as central to state ideology",
+        "its promotion of internationalist working-class solidarity across borders"
+      ],
+      "correctIndex": 2,
+      "explanation": "While both ideologies are ultranationalist and authoritarian, Nazism uniquely centred an explicit doctrine of Aryan racial superiority and antisemitic persecution as core state policy."
+    },
+    {
+      "subject": "Government",
+      "text": "Under feudalism as a politico-economic system, political power and land tenure were organised primarily around",
+      "options": [
+        "a free market in which land was bought and sold without restriction by anyone",
+        "state ownership of all land with equal distribution to every citizen",
+        "universal adult suffrage determining land allocation",
+        "a contractual hierarchy of lords and vassals in which land (the fief) was granted in exchange for military service and loyalty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Feudalism was structured around a hierarchical bond in which vassals held land (fiefs) granted by lords in return for military service, labour and loyalty, rather than market exchange or state redistribution."
+    },
+    {
+      "subject": "Government",
+      "text": "Communalism, as practised in many pre-colonial African societies, is best characterised by",
+      "options": [
+        "private, individual ownership of land as an absolute and exclusive right",
+        "state ownership of all means of production under a single ruling party",
+        "collective or communal ownership of land and resources by the kinship group or community, with the individual holding usufructuary rights",
+        "a rigid class system based on inherited nobility titles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Communalism vested ultimate ownership of land in the community or kinship group, with individuals enjoying rights of use rather than absolute private ownership, reflecting communal rather than individualist or state control."
+    },
+    {
+      "subject": "Government",
+      "text": "A key ideological distinction between classical liberal capitalism and communism concerns",
+      "options": [
+        "capitalism advocates private ownership of the means of production and a market-driven economy, while communism advocates collective ownership of the means of production and the eventual abolition of class and the state",
+        "capitalism requires a one-party state while communism requires a multi-party state",
+        "communism promotes private property rights above all else",
+        "capitalism and communism are simply different names for the same economic system"
+      ],
+      "correctIndex": 0,
+      "explanation": "Capitalism rests on private ownership and market allocation of resources, whereas communism envisions collective ownership of production and, ultimately, a classless, stateless society."
+    },
+    {
+      "subject": "Government",
+      "text": "Which statement best explains why communism is often described as the theoretical end-stage envisioned by Marxist socialism, rather than a synonym for it?",
+      "options": [
+        "Communism refers only to religious organisation while socialism refers only to economic organisation",
+        "Communism precedes socialism chronologically in Marxist theory",
+        "Socialism and communism describe identical political-economic arrangements with no stages involved",
+        "Marxist theory treats socialism as a transitional stage of proletarian dictatorship redistributing ownership, while communism denotes the ultimate classless, stateless society that socialism is meant to produce"
+      ],
+      "correctIndex": 3,
+      "explanation": "In orthodox Marxist theory, socialism is a transitional phase in which the proletariat controls the state to eliminate class distinctions, ultimately giving way to communism, a stateless and classless society."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is the most important function a constitution performs in a modern state?",
+      "options": [
+        "It establishes the structure, powers and limits of government organs and defines the relationship between the state and citizens",
+        "It merely records the history of the ruling political party",
+        "It replaces the need for any legislature to make laws",
+        "It serves only a ceremonial function with no binding legal effect"
+      ],
+      "correctIndex": 0,
+      "explanation": "A constitution's core function is to establish government structures, allocate and limit powers among organs of state, and define citizens' rights and obligations vis-à-vis the state."
+    },
+    {
+      "subject": "Government",
+      "text": "Constitutional conventions, as a source of constitutional rules in systems like the United Kingdom, are best described as",
+      "options": [
+        "established, non-legal customary practices that are generally observed by political actors though not directly enforceable by the courts",
+        "binding statutes passed by the legislature and enforceable directly in ordinary courts",
+        "judicial precedents that override statutory law",
+        "provisions found exclusively in a country's written, codified constitution"
+      ],
+      "correctIndex": 0,
+      "explanation": "Constitutional conventions are unwritten customary practices that political actors follow out of a sense of constitutional obligation, but which, unlike statutes, are not directly enforceable in a court of law."
+    },
+    {
+      "subject": "Government",
+      "text": "A written constitution is generally considered advantageous over an unwritten one mainly because it",
+      "options": [
+        "is always easier to change than an unwritten constitution",
+        "can never be amended once adopted",
+        "eliminates the possibility of any constitutional crisis",
+        "provides clarity, certainty and a definite reference point for resolving disputes about governmental powers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Codification in a single authoritative document gives a written constitution clarity and certainty as a definite reference for settling disputes over the distribution and limits of governmental power."
+    },
+    {
+      "subject": "Government",
+      "text": "Which scenario best illustrates a constitutional crisis arising from an ambiguity in constitutional provisions rather than an outright breach of law?",
+      "options": [
+        "A president dissolving the legislature in clear violation of an explicit constitutional prohibition",
+        "A court delivering a judgment strictly consistent with settled constitutional text",
+        "A legislature passing a routine annual budget as required by the constitution",
+        "Rival interpretations emerging over who should act as head of state when the constitution's succession provisions are unclear following a sudden vacancy"
+      ],
+      "correctIndex": 3,
+      "explanation": "A constitutional crisis of ambiguity typically arises when a genuine dispute exists over how unclear or silent provisions should be interpreted, such as succession arrangements, rather than a straightforward violation of explicit rules."
+    },
+    {
+      "subject": "Government",
+      "text": "Autochthony, as applied to a constitution, refers to the quality of a constitution being",
+      "options": [
+        "imposed entirely by a foreign colonial power without local input",
+        "applicable only to monarchies",
+        "unwritten and based purely on oral tradition",
+        "home-grown, deriving its legal validity from the will of the indigenous people rather than from an external authority such as a colonial parliament"
+      ],
+      "correctIndex": 3,
+      "explanation": "An autochthonous constitution is one that derives its authority and legitimacy from the indigenous population itself, rather than being granted or imposed by an external colonial power, a concern in Nigeria's 1963 Republican Constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "A key distinction between citizenship acquired by 'registration' and citizenship acquired by 'naturalisation' under Nigerian law is that",
+      "options": [
+        "naturalisation applies only to children born in Nigeria to Nigerian parents",
+        "registration is generally available to certain categories such as foreign spouses of citizens or persons of Nigerian descent after satisfying set conditions, while naturalisation is a more general process open to qualifying foreigners typically requiring longer residence and presidential discretion",
+        "registration is granted automatically to every foreign resident regardless of any conditions",
+        "there is no procedural difference; both terms describe an identical legal process"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under Nigerian nationality law, registration is a somewhat easier route for specified categories like foreign spouses, while naturalisation is a more general, discretionary process for other qualifying foreigners after a longer residency period."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a classic argument in favour of universal adult suffrage over a restricted (property-based) franchise?",
+      "options": [
+        "It reflects the democratic principle that legitimate government rests on the consent of all adult citizens regardless of property, gender, or income",
+        "It ensures that only the wealthy classes determine government policy",
+        "It reduces the total number of eligible voters to a manageable minority",
+        "It guarantees a one-party system will always emerge victorious"
+      ],
+      "correctIndex": 0,
+      "explanation": "Universal adult suffrage rests on the democratic principle that political legitimacy flows from the consent of the entire adult citizenry rather than a propertied or otherwise restricted minority."
+    },
+    {
+      "subject": "Government",
+      "text": "The First-Past-The-Post system tends to produce a disproportionality between votes cast and seats won mainly because",
+      "options": [
+        "it requires an absolute majority of fifty percent plus one in every constituency before any seat can be allocated",
+        "the candidate with a simple plurality wins the constituency outright, so votes cast for losing candidates nationwide do not translate into any seats",
+        "it distributes seats strictly in proportion to each party's national vote share",
+        "it abolishes the concept of constituencies entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because only the candidate with the most votes in each single-member constituency wins the seat, votes for all other candidates are effectively 'wasted', creating a mismatch between national vote share and seats won."
+    },
+    {
+      "subject": "Government",
+      "text": "Proportional representation is generally criticised on the grounds that it",
+      "options": [
+        "always produces a decisive two-party system with strong, stable single-party majorities",
+        "can result in fragmented legislatures and unstable coalition governments due to the proliferation of smaller parties",
+        "makes it impossible for any minority party to win a single seat",
+        "eliminates the need for elections altogether"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because proportional representation allocates seats closely to vote share, it tends to allow many smaller parties into the legislature, often necessitating unstable multi-party coalitions to form a government."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best distinguishes a one-party system from a dominant-party democracy in which one party wins repeatedly?",
+      "options": [
+        "A one-party system always guarantees free and fair competitive elections",
+        "A dominant-party democracy has no elections whatsoever",
+        "In a one-party system, the law or practice prohibits the formation or effective competition of rival parties, whereas in a dominant-party democracy other parties are legally free to contest and can, in principle, win power",
+        "There is no distinction; both terms describe identical arrangements"
+      ],
+      "correctIndex": 2,
+      "explanation": "A one-party system legally bars or effectively suppresses opposition parties, while a dominant-party democracy permits genuine multiparty competition even though one party consistently wins."
+    },
+    {
+      "subject": "Government",
+      "text": "A major functional difference between a political party and a pressure group is that",
+      "options": [
+        "a pressure group always has a wider and more general policy programme than a political party",
+        "a political party seeks to capture governmental power by contesting and winning elections, while a pressure group seeks to influence government policy without itself seeking to form the government",
+        "only pressure groups are permitted to sponsor candidates in elections",
+        "political parties cannot legally exist in a democracy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Political parties aim to win elections and directly control the machinery of government, whereas pressure groups aim only to influence policy from outside without seeking to govern themselves."
+    },
+    {
+      "subject": "Government",
+      "text": "An 'electoral college' system, as historically used in some indirect presidential elections, is best described as one in which",
+      "options": [
+        "ordinary citizens cast votes directly and exclusively for the president with no intermediary body",
+        "military officers select the head of state",
+        "the legislature alone appoints the president without any popular vote",
+        "citizens vote for delegates or electors who are then formally responsible for electing the president"
+      ],
+      "correctIndex": 3,
+      "explanation": "An electoral college system interposes a body of electors, chosen through popular vote, between the citizenry and the final selection of the president, making the process indirect."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best explains why an independent Electoral Commission is generally considered essential for credible elections?",
+      "options": [
+        "It guarantees automatic victory for the ruling party",
+        "It eliminates the need for a legal framework governing elections",
+        "Its independence from the incumbent executive helps ensure impartial conduct of registration, voting, collation and declaration of results, enhancing public confidence in the process",
+        "It is responsible solely for drafting the national budget"
+      ],
+      "correctIndex": 2,
+      "explanation": "An electoral body's independence from the sitting government is crucial to ensuring impartial administration of the electoral process, which in turn builds public and stakeholder confidence in the results."
+    },
+    {
+      "subject": "Government",
+      "text": "Public opinion is best distinguished from propaganda in that public opinion",
+      "options": [
+        "is identical in meaning to propaganda",
+        "is always manufactured directly by the government in power",
+        "cannot be measured or studied by any scientific method",
+        "is the genuine, aggregated view of the public on an issue formed through open discussion and access to information, while propaganda is a deliberate, often one-sided attempt to manipulate opinion in a particular direction"
+      ],
+      "correctIndex": 3,
+      "explanation": "Public opinion reflects the collective views citizens form through relatively open deliberation, whereas propaganda involves a deliberate, engineered effort to shape opinion, often through selective or misleading information."
+    },
+    {
+      "subject": "Government",
+      "text": "In a multi-party system with proportional representation, coalition government most commonly arises because",
+      "options": [
+        "a single party wins an outright majority of legislative seats",
+        "no single party secures an outright majority of seats, requiring two or more parties to combine to command legislative confidence",
+        "the constitution bans any party from forming a government alone",
+        "elections are held only once every twenty years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under proportional systems, seats are often widely spread among several parties, so no party alone commands a majority, making coalition-building necessary to form a stable government."
+    },
+    {
+      "subject": "Government",
+      "text": "The principle of political neutrality expected of career civil servants means that they are expected to",
+      "options": [
+        "serve loyally and impartially whichever government is constitutionally in power, without regard to their personal political convictions",
+        "openly campaign for the ruling party during elections",
+        "resign automatically whenever a new government is elected",
+        "refuse to implement any policy they personally disagree with"
+      ],
+      "correctIndex": 0,
+      "explanation": "Political neutrality requires civil servants to serve any duly constituted government impartially and loyally, implementing its policies regardless of the servants' own political leanings."
+    },
+    {
+      "subject": "Government",
+      "text": "Anonymity, as a traditional characteristic of the civil service, refers to the principle that",
+      "options": [
+        "civil servants cannot be identified by any official designation",
+        "civil servants must conceal their salaries from the public",
+        "the names of all civil servants are permanently kept secret from other government departments",
+        "civil servants' individual advice and roles in policy formulation remain officially unattributed, with ministers publicly accountable for departmental decisions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anonymity means individual civil servants generally do not publicly take credit or blame for policy advice; instead, the responsible minister bears public accountability for departmental actions."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is the most significant distinction between a public corporation and a government ministry/department?",
+      "options": [
+        "A public corporation is a semi-autonomous body with a separate legal personality established by statute to run a specific enterprise, while a ministry is a direct arm of the central civil service under a minister",
+        "A ministry can be sued in its own name while a public corporation cannot",
+        "A public corporation cannot employ any staff",
+        "A ministry generates its own independent revenue while a public corporation depends entirely on the treasury"
+      ],
+      "correctIndex": 0,
+      "explanation": "Public corporations are created by specific enabling statutes as separate legal entities with a measure of operational autonomy, unlike ministries, which are integral parts of the civil service directly under ministerial control."
+    },
+    {
+      "subject": "Government",
+      "text": "One commonly cited justification for establishing public corporations rather than leaving certain services to purely private enterprise is that",
+      "options": [
+        "they allow government to provide essential services or manage strategic/natural monopoly sectors (like utilities) in the public interest rather than for private profit alone",
+        "public corporations guarantee higher profits than private companies in every case",
+        "public corporations are exempt from all forms of government oversight",
+        "private companies are constitutionally prohibited from operating in any sector"
+      ],
+      "correctIndex": 0,
+      "explanation": "Public corporations are often established to manage services in the public interest, particularly natural monopolies or strategic sectors, ensuring broader access rather than being driven purely by private profit motives."
+    },
+    {
+      "subject": "Government",
+      "text": "Bureaucratic red tape, as a criticism of the civil service, refers primarily to",
+      "options": [
+        "the political neutrality expected of career officials",
+        "a formal system of promoting civil servants purely on merit",
+        "excessive procedural formality, rigid rules and slow administrative processes that hinder efficient service delivery",
+        "the anonymity traditionally accorded to civil servants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Red tape describes excessive adherence to rigid rules and procedures that slows decision-making and service delivery, a commonly cited weakness of large bureaucracies."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following mechanisms best exemplifies external legislative control over the civil service and public corporations?",
+      "options": [
+        "A corporation's board approving its own annual budget without any external review",
+        "A permanent secretary issuing internal departmental circulars",
+        "A minister privately reprimanding a junior civil servant",
+        "The Public Accounts Committee scrutinising public expenditure through audited accounts and summoning officials to account for spending"
+      ],
+      "correctIndex": 3,
+      "explanation": "Legislative oversight bodies such as the Public Accounts Committee provide an external check by scrutinising audited public expenditure and holding officials accountable, distinct from purely internal administrative control."
+    },
+    {
+      "subject": "Government",
+      "text": "A defining feature distinguishing the pre-colonial Hausa-Fulani political system from the pre-colonial Igbo system was that the Hausa-Fulani system was",
+      "options": [
+        "organised without any reference to Islamic law",
+        "entirely republican with no hereditary rulers of any kind",
+        "based on universal adult suffrage for selecting the Emir",
+        "a centralised, hierarchical emirate structure with the Emir at the apex exercising both political and religious authority, unlike the largely decentralised, acephalous Igbo structure"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Hausa-Fulani emirate system was highly centralised and hierarchical under an Emir who combined political and religious (Islamic) authority, in sharp contrast to the decentralised, largely stateless Igbo system."
+    },
+    {
+      "subject": "Government",
+      "text": "In the pre-colonial Hausa-Fulani administrative hierarchy, the official known as the Waziri primarily served as",
+      "options": [
+        "the chief tax collector responsible only for farm produce",
+        "the head of the emirate's cavalry forces exclusively",
+        "the Emir's chief adviser and vizier, coordinating the affairs of the emirate on the Emir's behalf",
+        "an elected village head with no connection to the emirate palace"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Waziri functioned as the Emir's principal adviser and administrative coordinator, overseeing the general affairs of the emirate under the Emir's authority."
+    },
+    {
+      "subject": "Government",
+      "text": "In the pre-colonial Yoruba political system, the Oyomesi council served primarily to",
+      "options": [
+        "act purely as a ceremonial body with no political function",
+        "serve exclusively as a military command unit",
+        "collect taxes on behalf of neighbouring kingdoms",
+        "select, install, and where necessary check or even depose an Alaafin who ruled tyrannically, thus acting as a constitutional constraint on royal power"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Oyomesi, led by the Bashorun, had the constitutional power to select and install the Alaafin and could compel an oppressive ruler to abdicate, functioning as a check on monarchical excess in old Oyo."
+    },
+    {
+      "subject": "Government",
+      "text": "The pre-colonial Igbo political system is best described by political scientists as",
+      "options": [
+        "a rigidly centralised monarchy under a single paramount king",
+        "a colonial creation with no indigenous roots",
+        "an absolute theocracy governed solely by priests",
+        "a fundamentally acephalous (stateless) system in which authority was diffused among village councils, age-grades, lineage heads and title-holders"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unlike the centralised Hausa-Fulani emirates or Yoruba kingdoms, most pre-colonial Igbo communities lacked a single paramount ruler, instead diffusing authority across village assemblies, age-grades and lineage-based institutions."
+    },
+    {
+      "subject": "Government",
+      "text": "The Ozo title society among the pre-colonial Igbo functioned mainly as a mechanism for",
+      "options": [
+        "conferring formal military conscription duties on all young men",
+        "granting social status, prestige and a voice in community decision-making to title-holders who had demonstrated wealth, integrity and achievement",
+        "replacing the age-grade system entirely",
+        "administering colonial taxation on behalf of the British"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Ozo title conferred social prestige and a recognised role in communal governance on accomplished individuals, functioning as an achievement-based mechanism for acquiring authority in the absence of hereditary kingship."
+    },
+    {
+      "subject": "Government",
+      "text": "Age-grade organisations in pre-colonial Igbo society served primarily to",
+      "options": [
+        "select the paramount Igbo king for the entire ethnic group",
+        "organise members of similar age cohorts for communal labour, defence, and the enforcement of communal decisions and discipline",
+        "administer indirect rule on behalf of British colonial officers from the outset",
+        "collect customs duties at regional borders"
+      ],
+      "correctIndex": 1,
+      "explanation": "Age-grades grouped people of similar age for cooperative tasks such as communal labour, security and enforcing the decisions of village assemblies, forming part of the diffused Igbo governance structure."
+    },
+    {
+      "subject": "Government",
+      "text": "Among the pre-colonial Yoruba, the Alaafin of Oyo's authority, though extensive, was constitutionally limited chiefly by",
+      "options": [
+        "an elected national assembly modelled on the British Parliament",
+        "the Oyomesi and the Ifa oracle (through the Are Ona Kakanfo and religious functionaries), which could check or force the abdication of an unpopular Alaafin",
+        "the absence of any council or advisory body around the throne",
+        "a written constitution imposed by neighbouring Bini kingdom"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Alaafin's power was checked by the Oyomesi council and complemented by religious and military office holders; a ruler who lost the confidence of these bodies could be compelled to abdicate."
+    },
+    {
+      "subject": "Government",
+      "text": "Which statement best captures a key similarity between the pre-colonial Yoruba and Hausa-Fulani political systems, distinguishing both from the Igbo system?",
+      "options": [
+        "Both systems rejected any role for councils of chiefs or advisers",
+        "Both systems entirely lacked any hereditary component in succession",
+        "Both systems were based on written constitutions drafted before colonial contact",
+        "Both Yoruba and Hausa-Fulani systems featured centralised monarchies with an identifiable paramount ruler, unlike the largely decentralised Igbo political structure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Despite differences in detail, both the Yoruba (Alaafin) and Hausa-Fulani (Emir) systems were centralised monarchies with a recognisable paramount ruler, contrasting with the diffused authority of the largely acephalous Igbo system."
+    },
+    {
+      "subject": "Government",
+      "text": "Lord Lugard's system of Indirect Rule was fundamentally premised on the idea that",
+      "options": [
+        "the British would abolish all existing indigenous political institutions and replace them entirely with British-style councils",
+        "each colony would immediately be granted full self-government",
+        "colonial administration would be conducted through existing indigenous rulers and institutions, who would implement British policies under the supervision of colonial Residents",
+        "traditional rulers would be stripped of any judicial or tax-collection functions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indirect Rule used existing traditional rulers and institutions as the local agents of colonial administration, working under British supervision, rather than dismantling indigenous authority structures outright."
+    },
+    {
+      "subject": "Government",
+      "text": "Indirect Rule was applied with relative ease in Northern Nigeria mainly because",
+      "options": [
+        "the existing centralised Hausa-Fulani emirate structure, with its established hierarchy of Emirs and administrative officials, provided a ready-made framework the British could work through",
+        "the region had no indigenous political institutions at all before colonial contact",
+        "the Northern peoples unanimously rejected any form of traditional authority",
+        "the region was governed directly by British officials with no involvement of local rulers whatsoever"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pre-existing centralised emirate system in the North, with its clear hierarchy under Emirs, offered the British an established administrative framework well-suited to Indirect Rule."
+    },
+    {
+      "subject": "Government",
+      "text": "Indirect Rule faced its greatest structural difficulty in Eastern Nigeria mainly because",
+      "options": [
+        "the Igbo areas already had powerful paramount kings comparable to the Hausa-Fulani Emirs",
+        "the Igbo people refused to pay any form of taxation under any system",
+        "the largely acephalous, decentralised nature of Igbo political organisation meant there were no obvious centralised chiefs through whom the British could rule, leading to the artificial imposition of 'Warrant Chiefs'",
+        "the British had no colonial presence in Eastern Nigeria at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Because Igbo communities generally lacked centralised chieftaincy, the British artificially created 'Warrant Chiefs' to serve as intermediaries, a mismatch that provoked resentment and contributed to unrest such as the 1929 Aba Women's Riot."
+    },
+    {
+      "subject": "Government",
+      "text": "Compared to the British policy of Indirect Rule, French colonial policy in West Africa is generally distinguished by its emphasis on",
+      "options": [
+        "abolishing all forms of taxation in its colonies",
+        "an identical reliance on existing traditional emirs and chiefs to govern autonomously",
+        "granting immediate independence to all French colonies before 1900",
+        "assimilation, aiming to make colonial subjects culturally French citizens through direct administration, rather than governing extensively through indigenous institutions"
+      ],
+      "correctIndex": 3,
+      "explanation": "French colonial policy favoured direct rule and assimilation, seeking to integrate colonial subjects into French culture and citizenship, in contrast to Britain's greater reliance on indirect governance through existing indigenous authorities."
+    },
+    {
+      "subject": "Government",
+      "text": "The Warrant Chief system introduced in South-Eastern Nigeria is best understood as",
+      "options": [
+        "an artificial colonial creation appointing individuals, often without traditional legitimacy, as 'chiefs' holding a warrant from the British to administer local government and native courts",
+        "a faithful continuation of pre-existing Igbo chieftaincy institutions",
+        "a system exclusively used in the Hausa-Fulani emirates",
+        "a purely religious office with no administrative powers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Because the Igbo lacked centralised chiefs, the British issued warrants conferring artificial chieftaincy authority on selected individuals, who often lacked genuine traditional legitimacy, to serve colonial administrative purposes."
+    },
+    {
+      "subject": "Government",
+      "text": "The 1929 Aba Women's Riot is most directly linked to which colonial policy grievance?",
+      "options": [
+        "Opposition to the introduction of universal adult suffrage",
+        "Fears that the colonial administration's counting of people and property (associated with Warrant Chiefs) signalled an impending direct taxation of women",
+        "A dispute over the location of the colonial capital",
+        "Rejection of the Richards Constitution's regional structure"
+      ],
+      "correctIndex": 1,
+      "explanation": "The riot was sparked by fears among Igbo and Ibibio women that a colonial census exercise, conducted through Warrant Chiefs, was a prelude to taxing women, reflecting deep resentment of the imposed Warrant Chief system."
+    },
+    {
+      "subject": "Government",
+      "text": "Nationalist movements such as the NCNC emerged in colonial Nigeria mainly as a reaction against",
+      "options": [
+        "excessive indigenous self-governance granted too early by the British",
+        "colonial exploitation, exclusion of Nigerians from meaningful political participation, and denial of self-determination, which spurred demands for constitutional reform and independence",
+        "the total absence of any British colonial presence in Nigeria",
+        "an oversupply of Nigerian representation in the colonial legislature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nationalist agitation grew out of grievances over colonial economic exploitation, racial discrimination, and exclusion from real political power, driving demands for greater self-government and eventual independence."
+    },
+    {
+      "subject": "Government",
+      "text": "A major long-term political consequence of British colonial administration frequently cited by historians is that it",
+      "options": [
+        "created a perfectly unified and homogeneous Nigerian national identity before independence",
+        "eliminated all forms of chieftaincy and traditional authority permanently",
+        "amalgamated diverse ethnic nationalities into a single territorial unit in 1914 without adequately integrating them, sowing seeds of the regional and ethnic tensions that shaped post-independence politics",
+        "established an immediate fully democratic federal constitution in 1900"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1914 amalgamation of the Northern and Southern Protectorates joined diverse peoples into one colony for administrative convenience without deep integration, a legacy widely blamed for post-independence regional and ethnic tensions."
+    },
+    {
+      "subject": "Government",
+      "text": "The Clifford Constitution of 1922 is chiefly significant in Nigerian constitutional history for",
+      "options": [
+        "introducing the principle of federalism to Nigeria for the first time",
+        "introducing the elective principle, allowing Lagos and Calabar to elect a limited number of members to the Legislative Council",
+        "granting full internal self-government to the Eastern Region",
+        "abolishing the Legislative Council entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Clifford Constitution's landmark innovation was introducing the elective principle, permitting a small number of Legislative Council members to be elected by voters in Lagos and Calabar, a first for British West Africa."
+    },
+    {
+      "subject": "Government",
+      "text": "Which feature most distinguishes the Richards Constitution of 1946 from the earlier Clifford Constitution of 1922?",
+      "options": [
+        "The Richards Constitution introduced regionalism by creating separate Houses of Assembly for the Northern, Western and Eastern regions, laying groundwork for eventual federalism",
+        "The Richards Constitution abolished the Legislative Council altogether",
+        "The Richards Constitution granted Nigeria full independence",
+        "The Richards Constitution removed all Nigerians from the Legislative Council"
+      ],
+      "correctIndex": 0,
+      "explanation": "Governor Arthur Richards's 1946 Constitution introduced regional Houses of Assembly for the North, West and East, a significant step toward the federal structure Nigeria would later adopt."
+    },
+    {
+      "subject": "Government",
+      "text": "The Macpherson Constitution of 1951 is chiefly noted for",
+      "options": [
+        "introducing a more representative structure with an enlarged central legislature and regional Houses of Assembly/Chiefs with greater Nigerian participation, though it soon proved unworkable due to regional tensions",
+        "abolishing regional legislatures entirely in favour of a single central assembly",
+        "granting Nigeria a republican status with an executive president",
+        "being the constitution under which Nigeria became independent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Macpherson Constitution expanded Nigerian participation through an enlarged central legislature and regional assemblies, but its ambiguous federal-unitary structure provoked crises that necessitated further constitutional revision."
+    },
+    {
+      "subject": "Government",
+      "text": "The Lyttelton Constitution of 1954 is chiefly significant for",
+      "options": [
+        "abolishing the regions and re-establishing a fully unitary system",
+        "formally establishing a federal system of government for Nigeria with clearly defined powers for the central and regional governments",
+        "granting Nigeria independence from British rule",
+        "introducing the Federal Character Principle for the first time"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Lyttelton Constitution of 1954 formally converted Nigeria into a federation, clearly demarcating powers between the central government and the three regions, resolving tensions left unresolved under Macpherson."
+    },
+    {
+      "subject": "Government",
+      "text": "The most fundamental change introduced by the 1963 Republican Constitution, compared with the 1960 Independence Constitution, was that",
+      "options": [
+        "Nigeria became a republic, replacing the British monarch as head of state with a ceremonial Nigerian President, while retaining the Westminster parliamentary framework",
+        "Nigeria adopted a presidential system of government for the first time",
+        "Nigeria abolished federalism and became a unitary state",
+        "the regions were dissolved and replaced with states"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1963 Constitution's key change was severing the constitutional link to the British Crown by making Nigeria a republic with an indigenous ceremonial President, while the parliamentary system of government itself was retained."
+    },
+    {
+      "subject": "Government",
+      "text": "Which statement correctly distinguishes the 1979 Constitution from the 1963 Republican Constitution?",
+      "options": [
+        "The 1979 Constitution retained the Westminster parliamentary model unchanged from 1963",
+        "The 1979 Constitution replaced the parliamentary system with an American-style presidential system featuring an executive President elected independently of the legislature",
+        "The 1979 Constitution restored the British monarch as head of state",
+        "The 1979 Constitution abolished the federal system in favour of a unitary one"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1979 Constitution marked Nigeria's shift from the parliamentary system inherited from Britain to a presidential system modelled on the United States, with a separately elected executive President."
+    },
+    {
+      "subject": "Government",
+      "text": "A notable innovation first entrenched in the 1979 Constitution, and retained in the 1999 Constitution, aimed at managing Nigeria's ethnic diversity in appointments is",
+      "options": [
+        "the abolition of state creation",
+        "the Federal Character Principle, requiring that the composition of government and its agencies reflect the diversity of the country to promote national unity",
+        "the requirement that only military officers can hold the office of President",
+        "the restriction of citizenship to a single ethnic group"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Federal Character Principle, introduced in the 1979 Constitution and preserved thereafter, mandates that appointments and government composition reflect Nigeria's federal diversity to avoid the domination of any one group."
+    },
+    {
+      "subject": "Government",
+      "text": "The 1999 Constitution, under which the Fourth Republic currently operates, is best described as having",
+      "options": [
+        "restored and continued the presidential federal system introduced by the 1979 Constitution, following prolonged military rule",
+        "returned Nigeria to a parliamentary system similar to the First Republic",
+        "established Nigeria as a unitary state for the first time",
+        "abolished the office of state governor"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1999 Constitution largely re-adopted the presidential federal framework of the 1979 Constitution, marking the transition from prolonged military rule to the current Fourth Republic."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following correctly orders these Nigerian constitutions chronologically from earliest to latest?",
+      "options": [
+        "Clifford, Richards, Macpherson, Lyttelton",
+        "Richards, Clifford, Macpherson, Lyttelton",
+        "Macpherson, Clifford, Lyttelton, Richards",
+        "Lyttelton, Macpherson, Richards, Clifford"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct chronological order is the Clifford Constitution (1922), Richards Constitution (1946), Macpherson Constitution (1951), and Lyttelton Constitution (1954)."
+    },
+    {
+      "subject": "Government",
+      "text": "A major criticism levelled at the Macpherson Constitution of 1951, which ultimately led to its early replacement, was that",
+      "options": [
+        "it granted Nigeria full independence too abruptly",
+        "it abolished traditional rulers from all forms of participation in government",
+        "its ambiguous division of powers between the centre and the regions, combined with rising regional and ethnic rivalries, made the system of government unworkable, notably contributing to a crisis in the Western House of Assembly",
+        "it introduced too rigid a federal structure that left the regions no power at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Macpherson Constitution's unclear federal-unitary balance and rising regional political rivalry, exemplified by the 1953 crisis in the Western Region assembly, exposed its unworkability and prompted the move to the more clearly federal Lyttelton Constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "The First Republic (1963-1966) collapsed mainly as a result of",
+      "options": [
+        "a peaceful and orderly transition to a presidential system",
+        "an amicable merger of all political parties into one national party",
+        "a combination of disputed elections, regional and ethnic political rivalries, and a breakdown of law and order culminating in the January 1966 military coup",
+        "the abolition of the federal system by consensus among the regions"
+      ],
+      "correctIndex": 2,
+      "explanation": "The First Republic's collapse resulted from deep regional/ethnic political rivalries, disputed elections (notably in the Western Region), and widespread instability, which culminated in the military takeover of January 1966."
+    },
+    {
+      "subject": "Government",
+      "text": "The Second Republic (1979-1983) was terminated by which event?",
+      "options": [
+        "The December 31, 1983 military coup led by Major-General Muhammadu Buhari, citing widespread electoral malpractice and economic mismanagement",
+        "A peaceful handover to a newly elected civilian government",
+        "A constitutional amendment abolishing elections",
+        "Nigeria's voluntary withdrawal from the Commonwealth"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Second Republic ended when the military, led by Major-General Muhammadu Buhari, overthrew the Shagari administration on December 31, 1983, citing electoral fraud and economic mismanagement."
+    },
+    {
+      "subject": "Government",
+      "text": "The short-lived Third Republic is most closely associated with",
+      "options": [
+        "the peaceful completion of a full four-year presidential term by an elected civilian government",
+        "the adoption of a new republican constitution abolishing federalism",
+        "the annulment of the June 12, 1993 presidential election, widely believed to have been won by Chief M.K.O. Abiola, which plunged the country into political crisis",
+        "Nigeria's first ever multi-party local government elections"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Third Republic is chiefly remembered for the annulment of the June 12, 1993 presidential election, widely regarded as Nigeria's freest, which Abiola was believed to have won, triggering a major political crisis."
+    },
+    {
+      "subject": "Government",
+      "text": "Under military rule in Nigeria, the highest ruling organ combining legislative and executive authority was typically known as the",
+      "options": [
+        "National Assembly",
+        "Federal Executive Council acting alone with no military input",
+        "Supreme Military Council or Provisional Ruling Council/Armed Forces Ruling Council, depending on the era",
+        "Council of State comprised solely of civilian ex-presidents"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under successive military regimes, supreme authority combining legislative and executive powers was vested in bodies variously named the Supreme Military Council, Armed Forces Ruling Council, or Provisional Ruling Council."
+    },
+    {
+      "subject": "Government",
+      "text": "During periods of military rule in Nigeria, laws were typically enacted through",
+      "options": [
+        "Decrees issued by the ruling military council, which took precedence over and could override the suspended constitution",
+        "ordinary Acts passed by an elected National Assembly",
+        "Regulations passed exclusively by the judiciary",
+        "referenda held nationwide before every new law"
+      ],
+      "correctIndex": 0,
+      "explanation": "Military governments legislated by decree, issued by the ruling council, and these decrees typically had overriding legal force even above the (usually suspended) constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "A commonly cited structural weakness of military rule in Nigeria, distinct from mere policy failures, is that it",
+      "options": [
+        "guaranteed permanent, uninterrupted economic growth",
+        "strengthened an independent judiciary beyond civilian standards",
+        "concentrated legislative, executive and often judicial-oversight power in an unelected body, undermining accountability, the rule of law, and constitutional checks and balances",
+        "expanded civil liberties and freedom of the press beyond civilian norms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Military regimes fused legislative and executive power in an unelected ruling council and often suspended or subordinated the constitution, weakening accountability mechanisms and the separation of powers fundamental to constitutional government."
+    },
+    {
+      "subject": "Government",
+      "text": "The transition programme that led to the Fourth Republic in 1999 was initiated under which military head of state?",
+      "options": [
+        "General Yakubu Gowon",
+        "General Abdulsalami Abubakar",
+        "General Sani Abacha",
+        "General Ibrahim Babangida"
+      ],
+      "correctIndex": 1,
+      "explanation": "General Abdulsalami Abubakar, who assumed power after General Abacha's death in 1998, oversaw the swift transition programme that culminated in the 1999 return to civilian rule under Olusegun Obasanjo."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best explains why military intervention was historically able to recur multiple times in Nigerian politics (1966, 1975, 1983, 1985, 1993)?",
+      "options": [
+        "Nigeria's constitution explicitly authorised periodic military takeovers every decade",
+        "The Nigerian populace voted directly for military rule in national referenda",
+        "Recurring problems such as weak institutionalisation of democratic norms, electoral malpractice, economic crisis, and elite political rivalry created conditions military factions repeatedly exploited to justify intervention",
+        "The United Nations mandated military rule as a condition of Nigeria's membership"
+      ],
+      "correctIndex": 2,
+      "explanation": "Repeated military takeovers were driven by recurring weaknesses in Nigeria's civilian governance — disputed elections, economic mismanagement, and elite rivalries — which military actors invoked to justify seizing power."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is most accurately identified as an achievement often credited to military regimes in Nigeria, despite their authoritarian character?",
+      "options": [
+        "Strengthening multi-party competition and legislative oversight",
+        "Entrenching judicial review over executive decrees",
+        "Expanding an independent and unrestrained press",
+        "Executing major infrastructural and unification projects, such as the creation of additional states and completion of national infrastructure, partly enabled by centralised decision-making"
+      ],
+      "correctIndex": 3,
+      "explanation": "Military regimes are often credited with executing large infrastructural projects and administrative reforms like state creation swiftly, aided by centralised command, even though such regimes curtailed democratic institutions."
+    },
+    {
+      "subject": "Government",
+      "text": "A defining feature of Nigeria's Fourth Republic since 1999, distinguishing it from earlier republics, is",
+      "options": [
+        "the total absence of any elections since 1999",
+        "its adoption of a parliamentary rather than presidential system",
+        "its unprecedented duration as the longest unbroken period of civilian, constitutional government in Nigeria's post-independence history",
+        "the abolition of the 36-state structure"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Fourth Republic, running continuously since 1999, represents Nigeria's longest sustained period of uninterrupted civilian constitutional government, unlike the shorter First, Second and Third Republics."
+    },
+    {
+      "subject": "Government",
+      "text": "The transition from military to civilian rule typically in Nigeria's history involved which sequence of steps?",
+      "options": [
+        "Immediate handover without any elections or constitutional preparation",
+        "A transition programme involving activities such as constitution drafting/review, voter registration, party formation, and phased elections (local, state, then federal) culminating in inauguration of an elected government",
+        "Permanent retention of power by the military with no elections planned",
+        "Direct appointment of a civilian president by the United Nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigerian transition programmes typically followed a phased sequence: reviewing or drafting a constitution, registering voters, forming and registering parties, and holding graduated elections before finally handing over to an elected civilian government."
+    },
+    {
+      "subject": "Government",
+      "text": "Which statement best distinguishes the causes of the January 1966 coup from those commonly cited for the December 1983 coup?",
+      "options": [
+        "The January 1966 coup was caused solely by economic recession while the 1983 coup was caused solely by an external war",
+        "Both coups occurred for identical reasons with no distinguishing context",
+        "The January 1966 coup is often linked to regional/ethnic political rivalry and the crisis following disputed regional elections, while the 1983 coup is more commonly attributed to widespread electoral malpractice in the 1983 elections and severe economic mismanagement",
+        "Neither coup had any connection to electoral or political crisis"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1966 coup arose largely from ethnic and regional political tensions and the Western Region crisis, whereas the 1983 coup was driven chiefly by allegations of massive electoral fraud in the 1983 polls and deepening economic troubles."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following best expresses the concept of 'Afrocentrism' as a stated principle of Nigeria's foreign policy?",
+      "options": [
+        "Nigeria prioritises its relations with Western powers above all African concerns",
+        "Nigeria refuses to engage in diplomatic relations with any non-African country",
+        "Africa is regarded as the centre-piece of Nigeria's foreign policy, with the promotion of African unity, decolonisation and development given primary emphasis",
+        "Nigeria's foreign policy is determined exclusively by the United Nations Security Council"
+      ],
+      "correctIndex": 2,
+      "explanation": "Afrocentrism holds that Africa is the primary focus of Nigeria's external relations, with Nigeria positioning itself as a champion of African unity, decolonisation, and development on the continent."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's foreign policy principle of 'non-alignment' during the Cold War era referred to its stance of",
+      "options": [
+        "formally allying with the Soviet bloc against Western powers",
+        "joining NATO as a full member state",
+        "refusing to align permanently with either the Western (capitalist) or Eastern (communist) bloc, instead pursuing an independent foreign policy based on national interest",
+        "severing all diplomatic relations with both blocs simultaneously"
+      ],
+      "correctIndex": 2,
+      "explanation": "Non-alignment meant Nigeria avoided formal, permanent commitment to either Cold War bloc, choosing instead to engage both sides pragmatically according to its own national interests."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's role in the anti-apartheid struggle, particularly its support for the African National Congress and financial contributions through bodies it helped fund, most directly reflects which foreign policy principle?",
+      "options": [
+        "Non-interference in the internal affairs of other states under all circumstances",
+        "Priority of bilateral trade relations over political solidarity",
+        "Strict neutrality on all matters concerning Southern Africa",
+        "Commitment to African unity, decolonisation and the eradication of racial discrimination and colonialism on the continent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria's vigorous support for South Africa's liberation, including funding and diplomatic pressure against apartheid, exemplified its foreign policy commitment to decolonisation and combating racial oppression across Africa."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is the most accurate description of Nigeria's foreign policy principle of respect for the sovereign equality and territorial integrity of all states?",
+      "options": [
+        "Nigeria reserves the right to unilaterally alter the borders of neighbouring states",
+        "Nigeria only respects the sovereignty of fellow Commonwealth members",
+        "Nigeria commits to recognising the legal equality and territorial boundaries of other states and generally refrains from interfering in their internal affairs",
+        "Nigeria's principle applies solely to relations with the United States"
+      ],
+      "correctIndex": 2,
+      "explanation": "This principle commits Nigeria to recognising other states as legal equals regardless of size or power, respecting their territorial boundaries, and generally avoiding interference in their domestic affairs."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's leadership in establishing the ECOWAS Monitoring Group (ECOMOG) in the late 1980s was most directly a response to the need to",
+      "options": [
+        "create a customs union eliminating tariffs among West African states",
+        "provide a peacekeeping and peace-enforcement force to address civil conflict, notably in Liberia, threatening regional stability in West Africa",
+        "establish a single West African currency",
+        "coordinate agricultural research among member states"
+      ],
+      "correctIndex": 1,
+      "explanation": "ECOMOG was created primarily as a peacekeeping/peace-enforcement mechanism, with Nigeria providing the bulk of troops and leadership, initially to intervene in the Liberian civil war and later in Sierra Leone."
+    },
+    {
+      "subject": "Government",
+      "text": "Which best distinguishes the mandates of ECOWAS and the African Union (AU)?",
+      "options": [
+        "ECOWAS is a global organisation while the AU is limited to West Africa",
+        "The AU has no role in peacekeeping while ECOWAS's sole mandate is peacekeeping",
+        "ECOWAS is a sub-regional body focused on economic integration and, increasingly, security in West Africa, while the AU is a continental body promoting unity, peace and development across all of Africa",
+        "ECOWAS and the AU are simply two names for the same organisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "ECOWAS is a sub-regional body concentrating on West African economic integration and, over time, security cooperation, whereas the AU is the continental body pursuing broader pan-African unity, peace, and development goals."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is most accurately described as a determinant, rather than a stated principle, of Nigeria's foreign policy?",
+      "options": [
+        "Nigeria's size, population, natural resource endowment (including oil), and geo-strategic location in West Africa, which shape its capacity and orientation in external relations",
+        "Respect for the sovereign equality of states",
+        "Peaceful settlement of international disputes",
+        "Non-alignment in global power blocs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Determinants of foreign policy are underlying factors such as a country's size, resources, and geography that shape its external orientation, as distinct from the declared normative principles that guide policy conduct."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's foreign policy has generally treated relations with major world powers such as the United States and the United Kingdom on the basis of",
+      "options": [
+        "mutual respect for sovereignty and pursuit of national interest, including trade, investment and diplomatic cooperation, without permanent alignment to any bloc",
+        "unconditional subordination to those powers' foreign policy positions",
+        "complete severance of diplomatic and economic ties",
+        "automatic military alliance obligations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria has generally sought pragmatic, mutually respectful relations with major powers, prioritising national interest in trade and diplomacy while avoiding permanent bloc alignment."
+    },
+    {
+      "subject": "Government",
+      "text": "The Commonwealth of Nations, of which Nigeria is a member, is best described as an association whose members are primarily",
+      "options": [
+        "nations located solely within continental Europe",
+        "exclusively the founding members of the United Nations",
+        "only Francophone West African states",
+        "states that were once part of, or have historical ties to, the former British Empire, cooperating on shared values such as democracy and development"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Commonwealth is a voluntary association mainly comprising former British colonies and territories, cooperating on shared goals like democracy, human rights and development."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria's suspension from the Commonwealth between 1995 and 1999 was most directly triggered by",
+      "options": [
+        "the execution of Ken Saro-Wiwa and other Ogoni activists under the Abacha military regime, which drew international condemnation over human rights abuses",
+        "Nigeria's withdrawal from the United Nations",
+        "Nigeria's refusal to participate in ECOWAS peacekeeping",
+        "a border dispute with Cameroon over the Bakassi Peninsula"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Commonwealth suspended Nigeria's membership in 1995 primarily in protest against the Abacha regime's execution of Ken Saro-Wiwa and other Ogoni rights activists despite international appeals for clemency."
+    },
+    {
+      "subject": "Government",
+      "text": "The peaceful settlement of the Bakassi Peninsula dispute between Nigeria and Cameroon, following a ruling by the International Court of Justice, most directly illustrates Nigeria's foreign policy commitment to",
+      "options": [
+        "respect for international law and peaceful settlement of disputes through recognised international judicial mechanisms",
+        "unilateral military resolution of territorial disputes",
+        "permanent rejection of ICJ jurisdiction over African disputes",
+        "withdrawal from all international courts and organisations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria's acceptance of and eventual compliance with the ICJ's 2002 ruling on the Bakassi Peninsula demonstrated its foreign policy commitment to resolving international disputes peacefully through established legal mechanisms rather than force."
+    }
+  ]
+}

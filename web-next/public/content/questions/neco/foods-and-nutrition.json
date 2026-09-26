@@ -1,0 +1,1206 @@
+{
+  "subject": "Foods and Nutrition",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The nutrient class made up of carbon, hydrogen, and oxygen, serving as the body's primary and quickest source of energy, is",
+      "options": [
+        "proteins",
+        "fats",
+        "vitamins",
+        "carbohydrates"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbohydrates, composed of carbon, hydrogen, and oxygen, are the body's main and most readily available source of energy."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The nutrient class primarily responsible for growth, repair, and maintenance of body tissues is",
+      "options": [
+        "fats",
+        "water",
+        "carbohydrates",
+        "proteins"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proteins provide the amino acids essential for building, repairing, and maintaining body tissues, including muscles and organs."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The nutrient class that provides the most concentrated source of energy per gram, and also supplies essential fatty acids, is",
+      "options": [
+        "minerals",
+        "carbohydrates",
+        "proteins",
+        "fats and lipids"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fats and lipids provide over twice the energy per gram compared to carbohydrates or proteins, and also supply essential fatty acids."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A deficiency disease caused by insufficient dietary protein, especially common in children, characterised by swelling (oedema) and stunted growth, is called",
+      "options": [
+        "rickets",
+        "scurvy",
+        "kwashiorkor",
+        "beriberi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kwashiorkor results from severe protein deficiency, often marked by oedema (swelling), a distended belly, and growth impairment, primarily in children."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A deficiency disease caused by insufficient vitamin C, characterised by bleeding gums and poor wound healing, is called",
+      "options": [
+        "rickets",
+        "scurvy",
+        "kwashiorkor",
+        "beriberi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scurvy results from prolonged vitamin C deficiency, causing symptoms such as bleeding gums, joint pain, and poor wound healing."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A deficiency disease caused by insufficient vitamin D (or calcium), leading to soft, weak, and deformed bones in children, is called",
+      "options": [
+        "kwashiorkor",
+        "scurvy",
+        "rickets",
+        "beriberi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rickets results from vitamin D deficiency, impairing calcium absorption and leading to soft, weak bones in growing children."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A deficiency disease caused by insufficient vitamin B1 (thiamine), affecting the nervous system and heart, is called",
+      "options": [
+        "rickets",
+        "kwashiorkor",
+        "beriberi",
+        "scurvy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beriberi results from thiamine (vitamin B1) deficiency, affecting the nervous and cardiovascular systems."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Vitamins that dissolve in water and are generally not stored in significant amounts in the body, requiring regular dietary intake, include",
+      "options": [
+        "vitamin C and the B-complex vitamins",
+        "vitamin E and vitamin K",
+        "vitamin A and vitamin D",
+        "all vitamins equally"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water-soluble vitamins, such as vitamin C and the B-complex group, are not significantly stored in the body and must be consumed regularly."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Vitamins that dissolve in fat and can be stored in the body's fatty tissues for longer periods include",
+      "options": [
+        "all vitamins equally",
+        "vitamin C and B1 only",
+        "vitamins A, D, E, and K",
+        "vitamin B12 and folate only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fat-soluble vitamins (A, D, E, K) can be stored in the body's fat tissues, unlike water-soluble vitamins which require more regular intake."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Minerals required by the body in relatively large amounts, such as calcium and phosphorus, are classified as",
+      "options": [
+        "water-soluble vitamins",
+        "macro (major) minerals",
+        "trace elements",
+        "fat-soluble vitamins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Macro (major) minerals, including calcium, phosphorus, and sodium, are needed by the body in comparatively larger amounts."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Minerals required by the body only in very small amounts, such as iron and zinc, are classified as",
+      "options": [
+        "fat-soluble vitamins",
+        "macro minerals",
+        "trace elements (micro minerals)",
+        "water-soluble vitamins"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trace elements (micro minerals), such as iron, zinc, and iodine, are essential but required only in small quantities."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Water is considered an essential nutrient mainly because it",
+      "options": [
+        "regulates body temperature, transports nutrients, and supports many metabolic processes",
+        "builds muscle tissue directly",
+        "provides significant dietary energy (calories)",
+        "is only needed by the very young"
+      ],
+      "correctIndex": 0,
+      "explanation": "Water plays vital roles in temperature regulation, nutrient transport, waste removal, and many essential metabolic processes, despite providing no calories itself."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The breakdown of food through physical actions such as chewing and the churning of the stomach is called",
+      "options": [
+        "chemical digestion",
+        "absorption",
+        "mechanical digestion",
+        "metabolism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mechanical digestion physically breaks food into smaller pieces through actions like chewing and stomach churning, increasing surface area for chemical digestion."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The breakdown of food through the action of enzymes and digestive juices into simpler chemical substances is called",
+      "options": [
+        "excretion",
+        "mechanical digestion",
+        "absorption",
+        "chemical digestion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chemical digestion uses enzymes and other digestive secretions to break complex food molecules down into simpler, absorbable substances."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Enzymes that break down starches (carbohydrates) into simpler sugars are called",
+      "options": [
+        "amylases",
+        "lipases",
+        "proteases",
+        "vitamins"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amylases are digestive enzymes that specifically break down starches into simpler sugar molecules."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Enzymes that break down proteins into smaller peptides and amino acids are called",
+      "options": [
+        "minerals",
+        "lipases",
+        "amylases",
+        "proteases"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proteases are digestive enzymes that break down proteins into smaller peptide chains and individual amino acids."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Enzymes that break down fats into fatty acids and glycerol are called",
+      "options": [
+        "proteases",
+        "carbohydrases only",
+        "amylases",
+        "lipases"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lipases are digestive enzymes specifically responsible for breaking down fats into fatty acids and glycerol."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The process by which digested nutrients pass through the wall of the small intestine into the bloodstream is called",
+      "options": [
+        "excretion",
+        "absorption",
+        "digestion",
+        "respiration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Absorption is the process by which broken-down nutrients move across the intestinal wall into the bloodstream for distribution throughout the body."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The sum of all chemical processes occurring within the body to maintain life, including building up and breaking down substances, is called",
+      "options": [
+        "digestion",
+        "excretion",
+        "absorption",
+        "metabolism"
+      ],
+      "correctIndex": 3,
+      "explanation": "Metabolism encompasses all the chemical reactions occurring within the body, including both the breakdown (catabolism) and building up (anabolism) of substances."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dietary plan for infants generally emphasises",
+      "options": [
+        "highly spiced adult meals from birth",
+        "easily digestible, nutrient-dense foods appropriate to their developmental stage",
+        "large portions of tough, fibrous, hard-to-chew foods",
+        "complete avoidance of any dietary fat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Infant diets prioritise easily digestible, nutrient-dense foods suited to their developing digestive systems, gradually introducing solids appropriate to age."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dietary plan for adolescents generally requires",
+      "options": [
+        "increased energy, protein, and mineral intake to support rapid growth and development",
+        "complete avoidance of all dairy products",
+        "significantly reduced calorie and nutrient intake compared to younger children",
+        "identical nutrient requirements to elderly individuals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adolescents undergoing rapid growth generally require increased energy, protein, and mineral intake compared to younger children."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dietary plan for pregnant and lactating women generally requires increased intake of",
+      "options": [
+        "protein, iron, calcium, and folic acid to support foetal/infant development and maternal health",
+        "significantly reduced overall calorie intake",
+        "no dietary changes at all compared to before pregnancy",
+        "only carbohydrates, with no other nutrient adjustments"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pregnant and lactating women require increased protein, iron, calcium, and folic acid to support foetal or infant development and their own health."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dietary plan for manual workers engaged in heavy physical labour generally requires",
+      "options": [
+        "higher energy (calorie) intake to match increased physical exertion",
+        "complete avoidance of carbohydrates",
+        "identical nutrient needs to infants",
+        "significantly reduced energy intake compared to sedentary individuals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Manual workers performing heavy physical labour require higher energy intake to replace the calories expended through their strenuous work."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dietary plan for the elderly generally emphasises",
+      "options": [
+        "nutrient-dense, easily digestible foods, often with reduced calorie needs due to lower activity levels",
+        "very high calorie, high-fat foods regardless of activity level",
+        "identical dietary needs to adolescents",
+        "complete avoidance of protein entirely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elderly individuals often need nutrient-dense, easily digestible foods, with calorie needs generally reduced due to lower activity levels and metabolism."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A therapeutic diet for a person with diabetes generally focuses on",
+      "options": [
+        "maximising sugar and refined carbohydrate intake",
+        "eliminating all forms of dietary fibre",
+        "controlling carbohydrate intake and choosing foods with a lower impact on blood sugar levels",
+        "eating only raw meat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diabetic diets typically focus on managing carbohydrate intake and choosing foods that have a more moderate effect on blood glucose levels."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A therapeutic diet for a person with hypertension (high blood pressure) generally focuses on",
+      "options": [
+        "consuming only fried foods",
+        "eliminating all vegetables from the diet",
+        "reducing salt (sodium) intake",
+        "maximising salt intake for flavour"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hypertension management typically involves reducing dietary sodium (salt) intake, which can help control blood pressure levels."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A diet planned for a convalescent (someone recovering from illness) generally emphasises",
+      "options": [
+        "easily digestible, nutrient-rich foods to support recovery",
+        "identical requirements to a healthy manual labourer",
+        "very heavy, hard-to-digest meals",
+        "complete fasting until fully recovered"
+      ],
+      "correctIndex": 0,
+      "explanation": "Convalescent diets typically favour easily digestible, nutrient-rich foods that support the body's recovery process without overburdening a weakened digestive system."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A balanced diet is best described as one that",
+      "options": [
+        "consists of a single food type eaten repeatedly",
+        "excludes all fats and oils entirely",
+        "provides all essential nutrients in the correct proportions needed for good health",
+        "contains only carbohydrates and no other nutrients"
+      ],
+      "correctIndex": 2,
+      "explanation": "A balanced diet supplies all essential nutrients (carbohydrates, proteins, fats, vitamins, minerals, water) in appropriate proportions to maintain good health."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Proteins are made up of smaller building-block units called",
+      "options": [
+        "fatty acids",
+        "glycerol molecules",
+        "amino acids",
+        "monosaccharides"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proteins are composed of chains of amino acids, which the body links together in specific sequences to build various proteins."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "An amino acid that the body cannot synthesise itself and must therefore obtain from the diet is called an",
+      "options": [
+        "essential vitamin only",
+        "non-essential amino acid",
+        "essential amino acid",
+        "essential fatty acid only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Essential amino acids cannot be produced by the body and must be obtained through dietary protein sources."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Fats and oils are composed of fatty acids combined with a molecule of",
+      "options": [
+        "amino acid",
+        "starch",
+        "glycerol",
+        "glucose"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fats and oils (triglycerides) are formed from three fatty acid chains attached to a single glycerol molecule."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Carbohydrates are broadly classified into simple sugars and more complex forms known as",
+      "options": [
+        "fatty acids",
+        "amino acids",
+        "starches (polysaccharides)",
+        "minerals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Complex carbohydrates, or polysaccharides such as starch, are made of many linked sugar units, unlike simple sugars (monosaccharides and disaccharides)."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The mineral most closely associated with building and maintaining strong bones and teeth is",
+      "options": [
+        "iodine",
+        "calcium",
+        "zinc",
+        "iron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calcium is essential for building and maintaining strong bones and teeth, alongside supporting other bodily functions like muscle contraction."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The mineral most closely associated with the formation of haemoglobin in red blood cells is",
+      "options": [
+        "zinc",
+        "iodine",
+        "iron",
+        "calcium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Iron is a key component of haemoglobin, the protein in red blood cells responsible for transporting oxygen throughout the body."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The mineral essential for normal thyroid gland function, with deficiency leading to goitre, is",
+      "options": [
+        "iron",
+        "zinc",
+        "iodine",
+        "calcium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Iodine is essential for the thyroid gland's production of hormones; deficiency can result in an enlarged thyroid gland, known as goitre."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Grain foods such as rice, maize, and wheat, which are important sources of carbohydrate, are classified as",
+      "options": [
+        "cereals",
+        "legumes",
+        "flesh foods",
+        "roots and tubers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cereals are grain crops, such as rice, maize, and wheat, providing significant amounts of dietary carbohydrate."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Plant foods such as beans, peas, and lentils, notable for their relatively high protein content among plant foods, are classified as",
+      "options": [
+        "cereals",
+        "flesh foods",
+        "legumes",
+        "roots and tubers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Legumes, including beans, peas, and lentils, are valued as plant sources of protein alongside carbohydrates."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Starchy plant foods such as yam, cassava, and potato, which grow underground, are classified as",
+      "options": [
+        "dairy products",
+        "legumes",
+        "cereals",
+        "roots and tubers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Roots and tubers are underground starchy plant foods, including yam, cassava, and potato, primarily valued for their carbohydrate content."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Meat, poultry, and fish, all valued primarily for their protein content, are collectively classified as",
+      "options": [
+        "cereals",
+        "flesh foods",
+        "dairy products",
+        "legumes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flesh foods, including meat, poultry, and fish, are animal-derived foods valued mainly for their high-quality protein content."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Foods derived from milk, such as cheese, yoghurt, and butter, are classified as",
+      "options": [
+        "legumes",
+        "flesh foods",
+        "dairy products",
+        "cereals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dairy products are derived from milk and are valued especially for their protein and calcium content."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "When selecting fresh fish for purchase, a key indicator of freshness is",
+      "options": [
+        "a strong ammonia-like odour",
+        "bright, clear eyes and firm flesh that springs back when pressed",
+        "discoloured, slimy skin",
+        "dull, sunken eyes and soft, mushy flesh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fresh fish typically has bright, clear eyes and firm flesh, distinguishing it from stale fish, which shows dull eyes and soft, unresponsive flesh."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Cereals should generally be stored in conditions that are",
+      "options": [
+        "cool, dry, and well-ventilated to prevent mould growth and pest infestation",
+        "exposed to direct sunlight and rain",
+        "completely airtight with high moisture content",
+        "warm and humid to encourage faster ripening"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proper cereal storage in cool, dry, ventilated conditions helps prevent mould growth, insect infestation, and spoilage."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The microorganisms most commonly responsible for causing food spoilage include",
+      "options": [
+        "amino acids only",
+        "bacteria, yeasts, and moulds",
+        "enzymes only, with no living organisms involved",
+        "vitamins and minerals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacteria, yeasts, and moulds are the primary microorganisms responsible for the spoilage and decomposition of food."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Naturally occurring enzymes present within food can contribute to spoilage mainly by",
+      "options": [
+        "continuing to break down the food's tissues and nutrients even after harvesting or slaughter",
+        "having no effect on food quality over time",
+        "preserving the food indefinitely without any other intervention",
+        "actively killing harmful microorganisms present in the food"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enzymes naturally present in food continue their breakdown activity after harvesting or slaughter, contributing to spoilage if not controlled through preservation methods."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A food preservation method that removes moisture from food to inhibit microbial growth is called",
+      "options": [
+        "smoking only",
+        "dehydration (drying)",
+        "refrigeration",
+        "canning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dehydration removes the moisture microorganisms need to grow, extending the shelf life of the preserved food."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A food preservation method that slows microbial growth and enzyme activity by storing food at low, above-freezing temperatures is called",
+      "options": [
+        "sterilization only",
+        "canning",
+        "dehydration",
+        "refrigeration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Refrigeration slows (but does not stop) microbial growth and enzyme activity by keeping food at low, above-freezing temperatures."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A food preservation method that stops microbial growth almost entirely by storing food at temperatures well below freezing is called",
+      "options": [
+        "freezing",
+        "refrigeration only",
+        "pasteurization",
+        "canning only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Freezing preserves food by lowering its temperature well below the freezing point, effectively halting most microbial growth and slowing enzyme activity."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A food preservation method that seals food in airtight containers and applies heat to destroy microorganisms is called",
+      "options": [
+        "dehydration",
+        "chemical preservation only",
+        "refrigeration",
+        "canning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Canning combines heat treatment with airtight sealing, destroying microorganisms and preventing recontamination for extended shelf life."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A heat treatment process that destroys most harmful microorganisms in a liquid, such as milk, without fully sterilising it, is called",
+      "options": [
+        "pasteurization",
+        "canning only",
+        "dehydration",
+        "sterilization"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pasteurization uses controlled heating to destroy most harmful microorganisms while preserving more of the food's quality than full sterilisation."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A heat treatment process that destroys virtually all microorganisms, including their spores, is called",
+      "options": [
+        "sterilization",
+        "refrigeration only",
+        "dehydration",
+        "pasteurization"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sterilization uses higher heat and longer exposure than pasteurization to destroy nearly all microorganisms, including resistant spores."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A food preservation method using substances such as salt, sugar, or specific chemical additives to inhibit microbial growth is called",
+      "options": [
+        "sterilization only",
+        "canning only",
+        "chemical preservation",
+        "refrigeration only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chemical preservation uses substances like salt, sugar, vinegar, or approved additives to create conditions unfavourable for microbial growth."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A traditional food preservation method that exposes food to smoke, both drying it and depositing preservative compounds, is called",
+      "options": [
+        "smoking",
+        "canning",
+        "sterilization only",
+        "refrigeration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Smoking preserves food through a combination of drying and depositing antimicrobial compounds from the smoke onto the food's surface."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The protein found in wheat flour that gives dough its elastic, stretchy structure, essential for bread making, is called",
+      "options": [
+        "gluten",
+        "casein",
+        "starch",
+        "cellulose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gluten, formed when wheat flour is mixed with water, provides the elastic structure that traps gas bubbles and gives bread its characteristic texture."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A raising method that incorporates air into a mixture through vigorous physical action, such as whisking egg whites, is classified as",
+      "options": [
+        "mechanical raising",
+        "no raising at all",
+        "biological raising",
+        "chemical raising"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mechanical raising methods, such as whisking or creaming, incorporate air physically into a mixture, which expands during cooking to provide lift."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A raising method that uses substances such as baking powder or bicarbonate of soda, which release gas through a chemical reaction, is classified as",
+      "options": [
+        "no raising at all",
+        "chemical raising",
+        "biological raising",
+        "mechanical raising"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chemical raising agents, like baking powder and bicarbonate of soda, release carbon dioxide gas through chemical reactions, causing mixtures to rise."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A raising method that relies on living yeast fermenting sugars and producing carbon dioxide gas is classified as",
+      "options": [
+        "mechanical raising",
+        "chemical raising",
+        "biological raising",
+        "no raising at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Biological raising uses living yeast, which ferments sugars in the dough and produces carbon dioxide gas, causing the dough to rise."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Fresh fruits and vegetables should generally be stored in conditions that",
+      "options": [
+        "involve tightly sealed, airless containers for all types",
+        "maintain appropriate cool temperatures and humidity to slow ripening and decay",
+        "expose them to continuous direct sunlight",
+        "maximise warmth and dryness to speed up ripening"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most fresh fruits and vegetables keep best in cool, appropriately humid conditions that slow the natural processes of ripening and decay."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Fats and oils used in cooking should generally be stored away from",
+      "options": [
+        "moderate room temperature storage",
+        "cool, dark conditions, which help preserve them",
+        "light, heat, and air, which can cause them to become rancid",
+        "airtight containers, which best preserve freshness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Exposure to light, heat, and air accelerates the oxidation of fats and oils, causing them to become rancid; proper storage minimises this exposure."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A common structural feature of cereal grains is their outer protective layer, known as the",
+      "options": [
+        "husk removed entirely before any processing",
+        "germ only",
+        "endosperm only",
+        "bran"
+      ],
+      "correctIndex": 3,
+      "explanation": "The bran is the tough outer protective layer of a cereal grain, rich in fibre, surrounding the starchy endosperm and nutrient-rich germ."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The nutrient-rich inner part of a cereal grain, often removed during refined milling, is called the",
+      "options": [
+        "bran only",
+        "husk",
+        "germ",
+        "endosperm only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The germ is the nutrient-dense embryo of the grain, often removed along with the bran during the refining process, reducing the nutritional value of refined grains."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A major reason meat, poultry, and fish require careful, prompt refrigeration after purchase is that they are",
+      "options": [
+        "unaffected by temperature under any circumstances",
+        "the only foods that never require refrigeration",
+        "naturally resistant to all microbial spoilage",
+        "highly perishable and susceptible to rapid microbial spoilage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Flesh foods are highly perishable, providing an ideal environment for microbial growth, making prompt and proper refrigeration essential to prevent spoilage."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "The main purpose of blanching vegetables briefly in boiling water before freezing them is to",
+      "options": [
+        "remove all nutrients before freezing",
+        "fully cook the vegetables before freezing",
+        "add extra moisture content to the vegetables",
+        "destroy enzymes that would otherwise continue to degrade quality during frozen storage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Blanching briefly destroys enzymes that would otherwise continue breaking down the vegetable's quality, colour, and texture during frozen storage."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A key sign that canned food may be unsafe to eat, indicating possible bacterial contamination, is",
+      "options": [
+        "a bulging or swollen can lid",
+        "a can that is cool to the touch",
+        "a can with a clear, undamaged label",
+        "a can stored in a cool, dry cupboard"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bulging or swollen can lid can indicate gas production from bacterial contamination inside, signalling that the contents may be unsafe to consume."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Wheat flour used for bread-making generally requires a",
+      "options": [
+        "identical properties to cornflour",
+        "complete absence of gluten",
+        "higher gluten (protein) content, to provide the necessary elastic structure",
+        "lower gluten content than flour used for delicate cakes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bread-making flour ('strong' flour) has a higher gluten content, providing the elastic structure needed to trap gas and support a well-risen loaf."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Cake flour generally has a",
+      "options": [
+        "higher gluten content than bread flour",
+        "identical gluten content to bread flour",
+        "lower gluten (protein) content than bread flour, producing a softer, more tender texture",
+        "no starch content at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cake ('soft') flour has a lower gluten content than bread flour, helping to produce the lighter, more tender texture desired in cakes."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "An efficient kitchen layout generally organises work into distinct zones for",
+      "options": [
+        "storage, preparation, and cooking, to allow a smooth workflow",
+        "decoration purposes only, with no practical function",
+        "a single combined zone with no logical separation",
+        "cooking only, with storage and preparation done elsewhere entirely"
+      ],
+      "correctIndex": 0,
+      "explanation": "A well-planned kitchen separates storage, preparation, and cooking zones, supporting an efficient, logical workflow from raw ingredients to finished dishes."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A key kitchen safety practice to prevent burns and scalds is to",
+      "options": [
+        "handle hot pans with wet cloths",
+        "ignore the use of any protective equipment",
+        "turn pot handles inward and use dry oven gloves when handling hot items",
+        "leave pot handles extending outward over the edge of the cooker"
+      ],
+      "correctIndex": 2,
+      "explanation": "Turning pot handles inward reduces the risk of accidental knocks, while dry oven gloves protect hands from burns when handling hot cookware."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A key kitchen safety practice to prevent slips and falls is to",
+      "options": [
+        "clean up spills immediately and keep floors dry",
+        "encourage running within the kitchen area",
+        "keep the kitchen floor cluttered with equipment",
+        "leave spilled liquids on the floor until the end of the day"
+      ],
+      "correctIndex": 0,
+      "explanation": "Promptly cleaning spills and keeping floors dry significantly reduces the risk of slips and falls in a busy kitchen environment."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Good kitchen hygiene practices generally include",
+      "options": [
+        "storing raw meat above ready-to-eat foods in the refrigerator",
+        "ignoring expiry dates on perishable items",
+        "handling raw and cooked foods with the same unwashed utensils",
+        "regular handwashing and keeping food preparation surfaces clean"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regular handwashing and clean preparation surfaces are fundamental hygiene practices that help prevent cross-contamination and foodborne illness."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that involves cooking food fully submerged in liquid at a rolling temperature of 100°C is called",
+      "options": [
+        "grilling",
+        "steaming",
+        "roasting",
+        "boiling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Boiling cooks food fully immersed in liquid heated to its boiling point (100°C at sea level)."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that involves slow cooking food in a small amount of liquid over a long period, tenderising tougher cuts, is called",
+      "options": [
+        "boiling",
+        "stewing",
+        "grilling",
+        "roasting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stewing slowly cooks food in a smaller amount of liquid over an extended time, effectively tenderising tougher ingredients."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that involves gently cooking food in liquid kept just below boiling point, often used for delicate items like eggs or fish, is called",
+      "options": [
+        "poaching",
+        "roasting",
+        "frying",
+        "boiling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poaching uses gently simmering liquid kept below boiling point, suitable for delicate foods that would break apart under a rolling boil."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that involves cooking food using the vapour produced by boiling water, without direct contact with the liquid, is called",
+      "options": [
+        "boiling",
+        "grilling",
+        "poaching",
+        "steaming"
+      ],
+      "correctIndex": 3,
+      "explanation": "Steaming cooks food using hot water vapour, keeping it out of direct contact with the boiling liquid itself."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dry cooking method that cooks food using hot, dry air within an enclosed oven is called",
+      "options": [
+        "stewing",
+        "steaming",
+        "boiling",
+        "baking"
+      ],
+      "correctIndex": 3,
+      "explanation": "Baking uses hot, dry air circulating within an enclosed oven to cook food, commonly used for bread, cakes, and pastries."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dry cooking method traditionally used to cook larger cuts of meat using hot, dry air, often with added fat for basting, is called",
+      "options": [
+        "boiling",
+        "steaming",
+        "poaching",
+        "roasting"
+      ],
+      "correctIndex": 3,
+      "explanation": "Roasting cooks larger food items, especially meat, using dry heat, often basted with fat to keep the surface from drying out excessively."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A dry cooking method that cooks food quickly using direct, intense heat from above or below, such as a grill element, is called",
+      "options": [
+        "grilling",
+        "steaming",
+        "poaching",
+        "boiling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grilling exposes food to intense, direct radiant heat, cooking it quickly while often producing a characteristic charred or browned surface."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that fully immerses food in hot oil or fat, often producing a crisp exterior, is called",
+      "options": [
+        "steaming",
+        "deep frying",
+        "shallow frying",
+        "stir frying"
+      ],
+      "correctIndex": 1,
+      "explanation": "Deep frying fully submerges food in hot oil, cooking it quickly while producing a crisp, browned exterior."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that cooks food in a small, shallow amount of oil or fat in a pan is called",
+      "options": [
+        "deep frying",
+        "shallow frying",
+        "steaming",
+        "stir frying"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shallow frying uses only a small amount of oil in a pan, cooking food primarily on one surface at a time before turning."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cooking method that quickly cooks small pieces of food over high heat while constantly moving them in a small amount of oil, typically in a wok, is called",
+      "options": [
+        "stir frying",
+        "boiling",
+        "shallow frying",
+        "deep frying"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stir frying rapidly cooks small, evenly cut pieces of food over high heat, using constant movement and minimal oil, typically in a wok."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A key advantage of moist cooking methods such as stewing is that they",
+      "options": [
+        "require no liquid of any kind",
+        "always cook food faster than dry methods",
+        "prevent any loss of water-soluble nutrients",
+        "can effectively tenderise tougher cuts of meat over a longer cooking time"
+      ],
+      "correctIndex": 3,
+      "explanation": "Moist methods like stewing use prolonged gentle cooking in liquid to break down connective tissue, effectively tenderising tougher cuts of meat."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A key disadvantage of boiling vegetables for an extended time is that it can",
+      "options": [
+        "increase the vitamin content of the vegetables",
+        "cause significant loss of water-soluble vitamins into the cooking liquid",
+        "have no effect on the nutrient content at all",
+        "make the vegetables firmer and crunchier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prolonged boiling can leach water-soluble vitamins, such as vitamin C and some B vitamins, out of vegetables and into the surrounding cooking liquid."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A pastry made by rubbing fat into flour to form a short, crumbly texture, commonly used for pie cases and tarts, is called",
+      "options": [
+        "choux pastry",
+        "shortcrust pastry",
+        "flaky pastry",
+        "puff pastry only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shortcrust pastry is made by rubbing fat into flour, producing a short, crumbly texture ideal for pie and tart bases."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A pastry made by folding layers of fat and dough together repeatedly, producing a light, flaky, layered texture, is called",
+      "options": [
+        "shortcrust pastry",
+        "flaky pastry",
+        "batter only",
+        "choux pastry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flaky pastry is created through repeated folding of fat within the dough, producing distinct light, flaky layers when baked."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A pastry made by cooking flour and fat together in liquid before beating in eggs, producing a light, hollow structure used for items like éclairs, is called",
+      "options": [
+        "choux pastry",
+        "shortcrust pastry",
+        "puff pastry",
+        "flaky pastry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Choux pastry involves cooking a flour-fat-liquid mixture before beating in eggs, producing a light, airy dough that puffs into hollow shapes like éclairs and profiteroles."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cake-making method in which fat is worked into flour before other ingredients are added, commonly used for plain cakes, is called the",
+      "options": [
+        "whisked method",
+        "rubbed-in method",
+        "melted method",
+        "creamed method"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rubbed-in method combines fat and flour by rubbing them together, similar to shortcrust pastry, commonly used for simpler, plainer cakes."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cake-making method in which fat and sugar are beaten together until light and fluffy before other ingredients are added, commonly used for richer cakes, is called the",
+      "options": [
+        "melted method",
+        "rubbed-in method",
+        "whisked method",
+        "creamed method"
+      ],
+      "correctIndex": 3,
+      "explanation": "The creamed method beats fat and sugar together to incorporate air, producing a light texture suited to richer cake recipes."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cake-making method that relies mainly on whisking eggs and sugar together to incorporate air, often producing a light sponge with little or no fat, is called the",
+      "options": [
+        "rubbed-in method",
+        "whisked method",
+        "creamed method",
+        "melted method"
+      ],
+      "correctIndex": 1,
+      "explanation": "The whisked method incorporates air primarily through vigorously beating eggs and sugar, producing a light sponge texture, often with minimal or no added fat."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A cake-making method in which fat, sugar, and liquid ingredients are melted together before being combined with dry ingredients, commonly used for gingerbread, is called the",
+      "options": [
+        "whisked method",
+        "melted method",
+        "rubbed-in method",
+        "creamed method"
+      ],
+      "correctIndex": 1,
+      "explanation": "The melted method combines melted fat, sugar, and liquid with dry ingredients, commonly used for dense cakes like gingerbread."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A sauce made from a base of butter and flour (roux) cooked with milk, without browning the roux, is called a",
+      "options": [
+        "tomato sauce only",
+        "white sauce",
+        "brown sauce",
+        "emulsified sauce"
+      ],
+      "correctIndex": 1,
+      "explanation": "A white sauce (béchamel) is made from a roux of butter and flour cooked briefly without browning, then combined with milk."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A sauce made from a roux that has been cooked until browned, typically combined with stock, is called a",
+      "options": [
+        "custard sauce",
+        "emulsified sauce",
+        "white sauce",
+        "brown sauce"
+      ],
+      "correctIndex": 3,
+      "explanation": "A brown sauce uses a roux cooked to a darker colour before liquid (often stock) is added, giving it a deeper flavour and colour than a white sauce."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A sauce formed by combining two normally unmixable liquids, such as oil and vinegar, into a stable mixture, is called an",
+      "options": [
+        "emulsified sauce",
+        "brown sauce",
+        "clear sauce",
+        "white sauce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Emulsified sauces, such as mayonnaise, combine typically unmixable liquids (like oil and vinegar) into a stable blended mixture, often using an emulsifying agent like egg yolk."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A thick liquid dish, typically made by simmering meat, vegetables, or other ingredients in stock, is generally called a",
+      "options": [
+        "sauce only",
+        "stew only",
+        "soup",
+        "pastry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soups are liquid-based dishes made by simmering various ingredients, such as meat, vegetables, or grains, in a flavourful stock or broth."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A soup that has been passed through a sieve or blended to produce a smooth, thickened consistency is called a",
+      "options": [
+        "puréed (cream) soup",
+        "consommé only",
+        "clear soup only",
+        "broth only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Puréed (cream) soups are blended or sieved to achieve a smooth, thick texture, unlike clear soups which retain a thin, transparent consistency."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A clear, well-flavoured soup made by carefully clarifying a rich stock is called a",
+      "options": [
+        "consommé",
+        "cream soup",
+        "purée soup",
+        "thick chowder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consommé is a clear soup produced by carefully clarifying a rich stock, typically using egg whites to remove impurities, resulting in a crystal-clear liquid."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Traditional local dishes taught in a Foods and Nutrition curriculum are important mainly because they",
+      "options": [
+        "reflect cultural food heritage while applying learned nutritional and culinary principles",
+        "require no cooking skill to prepare",
+        "are always less nutritious than foreign dishes",
+        "have no connection to nutritional science at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "Studying traditional local dishes connects cultural heritage with practical application of nutrition science and culinary techniques learned in the course."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "When planning a kitchen work triangle (the relationship between the sink, cooker, and refrigerator), the main goal is to",
+      "options": [
+        "eliminate the need for a refrigerator in the kitchen",
+        "maximise the distance between all three areas",
+        "place all three appliances in exactly the same spot",
+        "minimise unnecessary movement between these key work areas"
+      ],
+      "correctIndex": 3,
+      "explanation": "An efficient kitchen work triangle arrangement minimises the distance and movement needed between the sink, cooker, and refrigerator, improving workflow efficiency."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Adequate ventilation in a kitchen is important mainly to",
+      "options": [
+        "eliminate the need for proper food storage",
+        "remove excess heat, steam, and cooking odours",
+        "prevent any air circulation at all",
+        "increase humidity levels unnecessarily"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good kitchen ventilation removes excess heat, steam, and odours generated during cooking, improving comfort and air quality."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A key precaution when using a gas cooker in the kitchen is to",
+      "options": [
+        "store flammable materials directly beside the cooker",
+        "block all ventilation to conserve heat",
+        "ignore any smell of gas, assuming it is harmless",
+        "ensure proper ventilation and check for gas leaks regularly"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gas cookers require good ventilation and regular leak checks as essential safety precautions to prevent the buildup of hazardous gas."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "A basic knife safety practice in the kitchen is to",
+      "options": [
+        "always cut toward the body for better visibility",
+        "store knives loosely in a drawer with other utensils",
+        "use only extremely blunt knives for all cutting tasks",
+        "always cut away from the body and keep knives sharp for safer, more controlled cuts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cutting away from the body and using well-sharpened knives (which require less force and are less likely to slip) are basic, essential knife safety practices."
+    },
+    {
+      "subject": "Foods and Nutrition",
+      "text": "Cross-contamination in the kitchen is best prevented by",
+      "options": [
+        "using the same chopping board for all food types without washing it",
+        "washing hands only at the start of meal preparation",
+        "using separate chopping boards and utensils for raw meat and ready-to-eat foods",
+        "storing raw meat directly next to cooked food in the refrigerator"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using separate chopping boards and utensils for raw meat and ready-to-eat foods, along with regular handwashing, are key measures to prevent cross-contamination."
+    }
+  ]
+}

@@ -44,6 +44,11 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Android release signing credentials
+*.jks
+*.keystore
+/android/key.properties
+
 # Node (Cloud Functions)
 node_modules/
 

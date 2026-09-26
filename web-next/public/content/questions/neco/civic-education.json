@@ -1,0 +1,1206 @@
+{
+  "subject": "Civic Education",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Civic Education",
+      "text": "Values, in the context of civic education, are best defined as",
+      "options": [
+        "punishments given for criminal offences",
+        "the total wealth possessed by a nation",
+        "principles or standards that guide acceptable behaviour in society",
+        "laws passed exclusively by the national legislature"
+      ],
+      "correctIndex": 2,
+      "explanation": "Values are the shared principles and standards a society uses to judge what behaviour is acceptable, right, or desirable."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Being truthful and transparent in one's dealings with others is an example of the value of",
+      "options": [
+        "tolerance",
+        "discipline",
+        "obedience",
+        "honesty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Honesty is the value of being truthful, transparent, and free from deception in one's words and actions."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The value that involves the willingness to accept and respect differing views, cultures, or religions is called",
+      "options": [
+        "obedience",
+        "tolerance",
+        "discipline",
+        "justice"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tolerance means accepting and respecting people's differing beliefs, customs, or opinions, even when they differ from one's own."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Treating all individuals fairly and giving each person what is rightfully due to them reflects the value of",
+      "options": [
+        "obedience",
+        "justice",
+        "tolerance",
+        "discipline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justice involves fair treatment and ensuring that individuals receive what they are rightly entitled to under the law and in society."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The self-controlled ability to follow rules and maintain orderly conduct reflects the value of",
+      "options": [
+        "fairness",
+        "discipline",
+        "tolerance",
+        "honesty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discipline reflects the ability to control one's behaviour and consistently follow established rules and standards of conduct."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Values are important to human society mainly because they",
+      "options": [
+        "eliminate the need for laws entirely",
+        "guarantee that every citizen becomes wealthy",
+        "ensure that only one political party governs a country",
+        "provide a shared standard for acceptable conduct, promoting peace and order"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shared societal values create common expectations for behaviour, helping to maintain social order, cooperation, and peaceful coexistence."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Citizenship is best defined as",
+      "options": [
+        "the ownership of property within a country",
+        "the legal status of belonging to a particular state, with accompanying rights and duties",
+        "the ability to speak a country's official language",
+        "membership of a particular political party"
+      ],
+      "correctIndex": 1,
+      "explanation": "Citizenship establishes a person's legal membership of a state, granting rights and imposing corresponding duties and obligations."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Citizenship acquired automatically by virtue of being born within a country's territory, or born to citizen parents, is acquired by",
+      "options": [
+        "naturalization",
+        "marriage alone",
+        "registration",
+        "birth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Citizenship by birth is granted either through being born on the state's territory (jus soli) or born to citizen parents (jus sanguinis)."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Citizenship granted to a foreigner through an administrative or legal process, often after meeting residency requirements, without undergoing a full naturalization process, is acquired by",
+      "options": [
+        "registration",
+        "birth",
+        "descent alone",
+        "conquest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Registration is a simplified legal process by which certain qualifying foreigners, such as those married to citizens, may acquire citizenship."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Citizenship acquired by a foreigner who fulfils specific legal requirements, such as years of residency and good conduct, through a formal government process, is called",
+      "options": [
+        "registration",
+        "birth",
+        "annexation",
+        "naturalization"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naturalization is a formal legal process through which a qualified foreign national may be granted full citizenship after meeting set requirements."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A situation in which an individual simultaneously holds citizenship of two different countries is called",
+      "options": [
+        "statelessness",
+        "expatriation",
+        "naturalization",
+        "dual citizenship"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dual citizenship occurs when a person is recognised as a citizen of two countries at the same time, subject to each country's laws."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common reason for the termination of a person's citizenship of a country is",
+      "options": [
+        "reaching the age of eighteen",
+        "getting married within the country",
+        "voluntary renunciation or acquisition of another country's citizenship where dual citizenship is prohibited",
+        "completing secondary education"
+      ],
+      "correctIndex": 2,
+      "explanation": "Citizenship may be terminated through voluntary renunciation, or in some legal systems, automatically upon acquiring another country's citizenship where dual citizenship isn't allowed."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Fundamental Human Rights that guarantee an individual's personal freedoms, such as the right to life and freedom of movement, are classified as",
+      "options": [
+        "economic rights",
+        "social rights",
+        "political rights",
+        "civil rights"
+      ],
+      "correctIndex": 3,
+      "explanation": "Civil rights protect an individual's basic personal freedoms and legal protections, such as the right to life, liberty, and fair trial."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Rights that allow citizens to participate in governance, such as the right to vote and contest elections, are classified as",
+      "options": [
+        "economic rights",
+        "political rights",
+        "social rights",
+        "civil rights"
+      ],
+      "correctIndex": 1,
+      "explanation": "Political rights enable citizens to participate meaningfully in the governance of their country, including voting and holding public office."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Rights concerned with an individual's ability to work, own property, and engage in trade are classified as",
+      "options": [
+        "social rights",
+        "political rights",
+        "civil rights",
+        "economic rights"
+      ],
+      "correctIndex": 3,
+      "explanation": "Economic rights protect an individual's ability to earn a livelihood, own property, and participate in economic activities."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Rights that guarantee access to education, healthcare, and welfare are classified as",
+      "options": [
+        "social rights",
+        "political rights",
+        "economic rights",
+        "civil rights"
+      ],
+      "correctIndex": 0,
+      "explanation": "Social rights ensure access to essential services such as education, healthcare, and social security that support wellbeing."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "During a state of emergency, a government may lawfully",
+      "options": [
+        "eliminate the judiciary entirely",
+        "transfer all rights to a foreign government",
+        "temporarily restrict certain fundamental human rights, such as freedom of movement",
+        "permanently abolish the constitution"
+      ],
+      "correctIndex": 2,
+      "explanation": "Constitutions typically allow certain rights to be temporarily limited during a declared state of emergency, to protect public safety and order."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A duty citizens owe to the state, in return for the protection and rights the state provides, includes",
+      "options": [
+        "avoiding all forms of civic participation",
+        "obeying the laws of the land",
+        "ignoring national symbols and institutions",
+        "refusing to pay any taxes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Citizens are expected to obey the law as part of their civic duty in exchange for the state's protection of their rights."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Nationalism, in a civic sense, refers to",
+      "options": [
+        "rejection of all forms of national government",
+        "a strong sense of loyalty, pride, and devotion to one's nation",
+        "preference for foreign cultures over one's own",
+        "loyalty exclusively to one's ethnic group over the nation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nationalism reflects deep attachment and loyalty to one's nation, often expressed through pride in its identity, achievements, and unity."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Programmes such as the National Youth Service Corps (NYSC) in Nigeria are designed mainly to promote",
+      "options": [
+        "exclusive employment of graduates in their home states only",
+        "regional separation between states",
+        "national unity and integration among young citizens from different backgrounds",
+        "permanent government employment for all participants"
+      ],
+      "correctIndex": 2,
+      "explanation": "NYSC deliberately posts graduates to serve in states other than their own, fostering national unity and cross-cultural understanding among Nigerian youth."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "National sports competitions and festivals contribute to nationalism mainly by",
+      "options": [
+        "dividing citizens according to their state of origin",
+        "promoting rivalry between different religions",
+        "bringing citizens from diverse backgrounds together in shared national pride",
+        "discouraging citizens from supporting their country"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shared national events like sports competitions and festivals unite citizens across ethnic and regional lines, strengthening a common sense of national identity."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A citizen who actively participates in community development projects is demonstrating",
+      "options": [
+        "cultism",
+        "electoral malpractice",
+        "human trafficking",
+        "civic responsibility"
+      ],
+      "correctIndex": 3,
+      "explanation": "Civic responsibility involves citizens actively contributing to the wellbeing and development of their communities and country."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Fairness, as a societal value, is best demonstrated when a person",
+      "options": [
+        "favours only their close friends and relatives",
+        "treats others equitably and without unjust bias or favouritism",
+        "acts solely in their own self-interest regardless of others",
+        "ignores the needs of people outside their family"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fairness requires treating people equitably, without allowing personal bias or favouritism to distort just outcomes."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Obedience, as a civic value, refers to",
+      "options": [
+        "blind submission to any instruction regardless of legality",
+        "loyalty only to one's immediate family",
+        "compliance with lawful instructions, rules, and constituted authority",
+        "refusal to follow any rules or regulations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Obedience as a civic value involves respecting and complying with lawful rules and legitimate authority, not unquestioning submission to anything demanded."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A country that loses foreign-born residents to naturalization elsewhere may see its own citizenship terminated for those individuals through a process called",
+      "options": [
+        "registration",
+        "conquest",
+        "expatriation",
+        "birth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expatriation refers to the formal renunciation or loss of one's original citizenship, often upon acquiring citizenship elsewhere."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A stateless person is someone who",
+      "options": [
+        "is not recognised as a citizen by any country under its laws",
+        "holds citizenship of two countries at once",
+        "was born to citizen parents abroad",
+        "has recently acquired citizenship through naturalization"
+      ],
+      "correctIndex": 0,
+      "explanation": "Statelessness occurs when an individual is not considered a national by any state, often leaving them without the legal protections citizenship provides."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key benefit of national integration efforts, such as inter-state marriages and mixed-ethnic communities, is",
+      "options": [
+        "increased ethnic rivalry and division",
+        "the disappearance of all cultural diversity",
+        "weakened ties between different regions of a country",
+        "reduced ethnic prejudice and a stronger sense of shared national identity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Programmes and social practices that mix people from different ethnic backgrounds tend to reduce prejudice and build a stronger shared national identity."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The right to freedom of expression, allowing citizens to voice opinions without undue government interference, is classified as a",
+      "options": [
+        "civil right",
+        "purely economic right",
+        "purely social right",
+        "duty rather than a right"
+      ],
+      "correctIndex": 0,
+      "explanation": "Freedom of expression is a fundamental civil right protecting an individual's ability to voice opinions and beliefs without unjust restriction."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The right to own and dispose of private property is classified mainly as an",
+      "options": [
+        "exclusively civil right",
+        "economic right",
+        "exclusively social right",
+        "exclusively political right"
+      ],
+      "correctIndex": 1,
+      "explanation": "The right to own, use, and dispose of property is primarily an economic right, supporting an individual's ability to accumulate and manage wealth."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The right to vote in public elections, exercised once a citizen reaches the legally required age, is classified as a",
+      "options": [
+        "purely social right",
+        "purely civil right",
+        "political right",
+        "purely economic right"
+      ],
+      "correctIndex": 2,
+      "explanation": "The right to vote enables citizens to participate in choosing their leaders, making it a core political right within a democracy."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Cultism, as a social problem among young people, refers to",
+      "options": [
+        "membership of a registered political party",
+        "involvement in religious worship groups",
+        "membership in secret societies that often engage in violent or unlawful activities",
+        "participation in officially recognised student clubs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cultism describes involvement in secret, often violent societies, particularly prevalent in some school and tertiary institution settings."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common cause of cultism among young people is",
+      "options": [
+        "strict adherence to school rules",
+        "excessive parental supervision",
+        "lack of access to social media",
+        "peer pressure and the desire for a sense of belonging or protection"
+      ],
+      "correctIndex": 3,
+      "explanation": "Many young people join cults due to peer influence and a perceived need for protection, identity, or belonging within their social environment."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common consequence of cultism in schools and society is",
+      "options": [
+        "improved academic performance for all members",
+        "violence, injury, and expulsion of students involved",
+        "stronger family relationships",
+        "increased trust between students and teachers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cultism is frequently associated with violent clashes, harm to students and others, and disciplinary action such as expulsion from school."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "An effective measure schools can take to prevent cultism is",
+      "options": [
+        "allowing unrestricted, unsupervised gatherings",
+        "providing strong guidance and counselling services alongside strict disciplinary policies",
+        "ignoring reports of secret society activities",
+        "reducing the number of teachers and counsellors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Guidance, counselling, and clear disciplinary policies help address the root causes of cultism and deter students from joining secret societies."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Drug abuse is best defined as",
+      "options": [
+        "the correct use of prescribed medication as directed by a doctor",
+        "the sale of drugs through licensed pharmacies",
+        "the storage of drugs in a home medicine cabinet",
+        "the excessive or improper use of drugs, without medical justification, leading to harm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drug abuse involves using drugs in excessive amounts or inappropriately, without medical need, resulting in physical, mental, or social harm."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Commonly abused substances among young people include",
+      "options": [
+        "vitamin supplements taken as prescribed",
+        "drinking water and fruit juice",
+        "properly prescribed antibiotics",
+        "marijuana (cannabis), cocaine, and codeine-based cough syrups"
+      ],
+      "correctIndex": 3,
+      "explanation": "Substances frequently abused include cannabis, cocaine, and codeine-containing cough syrups, among various other harmful drugs."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common cause of drug abuse among youths is",
+      "options": [
+        "peer pressure and the desire to cope with stress or emotional problems",
+        "strict school regulations against substance use",
+        "sufficient access to counselling services",
+        "strong parental guidance and supervision"
+      ],
+      "correctIndex": 0,
+      "explanation": "Youths often turn to drugs due to peer influence, curiosity, or as a way of coping with personal, social, or emotional difficulties."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common consequence of drug abuse on the individual is",
+      "options": [
+        "increased life expectancy",
+        "damage to physical and mental health, including addiction",
+        "stronger relationships with family and friends",
+        "improved academic and social performance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drug abuse frequently leads to serious physical and psychological harm, including addiction, impaired judgement, and long-term health damage."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The Nigerian government agency primarily responsible for combating illicit drug trafficking and abuse is the",
+      "options": [
+        "National Agency for the Prohibition of Trafficking in Persons (NAPTIP)",
+        "Independent National Electoral Commission (INEC)",
+        "National Drug Law Enforcement Agency (NDLEA)",
+        "Federal Road Safety Corps (FRSC)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The NDLEA is Nigeria's primary agency responsible for enforcing laws against illicit drug trafficking, production, and abuse."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Human trafficking is best defined as",
+      "options": [
+        "the illegal recruitment, transport, or harbouring of persons for exploitation, such as forced labour or prostitution",
+        "the recruitment of soldiers into the national army",
+        "the transportation of goods across international borders",
+        "the lawful migration of workers with valid travel documents"
+      ],
+      "correctIndex": 0,
+      "explanation": "Human trafficking involves the illegal movement and exploitation of people, often through deception, coercion, or force, for purposes such as forced labour or sexual exploitation."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common cause of human trafficking, especially in developing countries, is",
+      "options": [
+        "excessive government regulation of travel",
+        "poverty and the false promise of better job opportunities abroad",
+        "strong community awareness of trafficking tactics",
+        "widespread access to formal education and employment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poverty and desperation for better economic opportunities make individuals vulnerable to traffickers' deceptive promises of employment abroad."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Traffickers commonly lure victims by",
+      "options": [
+        "requiring victims to undergo formal government vetting first",
+        "openly informing victims of the exploitative conditions they will face",
+        "providing genuine, well-paying employment with no hidden conditions",
+        "promising lucrative jobs, education, or a better life abroad, then exploiting them upon arrival"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traffickers typically deceive victims with false promises of good jobs or opportunities, only to exploit them once they are transported and isolated."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A significant consequence of human trafficking on its victims is",
+      "options": [
+        "guaranteed wealth and improved social status",
+        "immediate access to quality healthcare and education",
+        "automatic citizenship in the destination country",
+        "physical, emotional, and psychological trauma, often alongside forced labour or abuse"
+      ],
+      "correctIndex": 3,
+      "explanation": "Victims of trafficking commonly suffer severe physical and psychological harm, exploitation, and abuse at the hands of traffickers."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The Nigerian government agency primarily responsible for combating human trafficking is the",
+      "options": [
+        "National Agency for the Prohibition of Trafficking in Persons (NAPTIP)",
+        "Federal Road Safety Corps (FRSC)",
+        "National Drug Law Enforcement Agency (NDLEA)",
+        "Nigeria Police Force alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "NAPTIP is the specific Nigerian agency mandated to investigate, prosecute, and prevent human trafficking, as well as support victims."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "HIV/AIDS is best described as",
+      "options": [
+        "a bacterial infection curable with a short course of antibiotics",
+        "a hereditary condition passed only through family genes",
+        "a common seasonal illness with no serious long-term effects",
+        "a viral infection that weakens the immune system, potentially progressing to a severe immunodeficiency syndrome"
+      ],
+      "correctIndex": 3,
+      "explanation": "HIV is a virus that attacks the immune system; if untreated, it can progress to AIDS, a stage of severe immune deficiency."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common mode of transmission of HIV is",
+      "options": [
+        "shaking hands with an infected person",
+        "casual social contact such as hugging",
+        "sharing meals with an infected person",
+        "unprotected sexual contact with an infected person"
+      ],
+      "correctIndex": 3,
+      "explanation": "HIV is primarily transmitted through unprotected sexual contact, contaminated blood, and from mother to child, but not through casual everyday contact."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "An effective method of preventing the spread of HIV is",
+      "options": [
+        "practising safe sex, including the correct use of condoms",
+        "relying solely on traditional herbal remedies",
+        "sharing sharp objects such as razors and needles",
+        "avoiding all contact with infected individuals in public"
+      ],
+      "correctIndex": 0,
+      "explanation": "Safe sexual practices, including condom use, along with avoiding shared needles, significantly reduce the risk of HIV transmission."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A significant consequence of HIV/AIDS on families and the economy is",
+      "options": [
+        "guaranteed employment for all affected individuals",
+        "an automatic increase in national economic productivity",
+        "loss of productive family members and increased healthcare costs, straining household and national resources",
+        "a reduction in the need for healthcare services"
+      ],
+      "correctIndex": 2,
+      "explanation": "HIV/AIDS can significantly reduce a family's income and productivity while increasing healthcare costs, with wider effects on national economic development."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Stigmatization against People Living With HIV/AIDS (PLWHA) is best addressed through",
+      "options": [
+        "isolating PLWHA from the rest of society completely",
+        "denying PLWHA access to healthcare services",
+        "public education and awareness campaigns that promote understanding and reduce discrimination",
+        "spreading further misinformation about how HIV is transmitted"
+      ],
+      "correctIndex": 2,
+      "explanation": "Accurate public education helps dispel myths about HIV transmission, reducing fear-based discrimination and supporting the dignity of PLWHA."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key reason combating stigmatization of PLWHA is important is that stigma often",
+      "options": [
+        "has no effect on public health outcomes at all",
+        "eliminates the need for HIV prevention programmes",
+        "discourages people from getting tested or seeking treatment for HIV",
+        "encourages more people to seek testing and treatment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stigma and discrimination can discourage individuals from seeking HIV testing, counselling, and treatment, worsening public health outcomes."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common symptom observed in individuals abusing hard drugs includes",
+      "options": [
+        "increased responsibility and reliability",
+        "consistent, stable academic performance",
+        "improved physical health and appearance",
+        "sudden changes in behaviour, mood swings, and withdrawal from family and friends"
+      ],
+      "correctIndex": 3,
+      "explanation": "Drug abuse often manifests through noticeable behavioural changes, mood instability, and social withdrawal from family and previously close friends."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A government intervention effort commonly used to combat drug abuse in schools includes",
+      "options": [
+        "removing all drug-related content from the school curriculum",
+        "increasing the availability of illicit drugs in the community",
+        "ignoring reports of drug use among students",
+        "public enlightenment campaigns and guidance counselling programmes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Awareness campaigns and school counselling services are key preventive tools used to educate students about the dangers of drug abuse."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Human trafficking for the purpose of forced labour differs from trafficking for sexual exploitation mainly in that victims are",
+      "options": [
+        "always children in every recorded case",
+        "never subjected to any form of abuse",
+        "forced to work without fair pay or consent, rather than being sexually exploited",
+        "always trafficked internationally, never within a single country"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trafficking for forced labour compels victims into unpaid or underpaid work against their will, distinct from trafficking specifically for sexual exploitation, though both involve severe exploitation."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "International cooperation to fight human trafficking commonly involves",
+      "options": [
+        "allowing traffickers to operate without any legal consequence",
+        "ignoring reports of trafficking across borders",
+        "cross-border intelligence sharing and joint law enforcement operations",
+        "closing all national borders permanently"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since trafficking often crosses international borders, countries cooperate through intelligence sharing and joint operations to combat the crime effectively."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A protective measure to reduce vulnerability to human trafficking is",
+      "options": [
+        "public awareness campaigns warning of trafficking tactics and providing legitimate opportunities",
+        "discouraging community reporting of suspicious recruitment offers",
+        "restricting access to all information about trafficking risks",
+        "reducing school enrolment in vulnerable communities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Educating the public about trafficking tactics, alongside offering genuine opportunities, helps reduce individuals' vulnerability to being deceived by traffickers."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "HIV testing and counselling services are important mainly because they",
+      "options": [
+        "have no bearing on preventing mother-to-child transmission",
+        "help individuals know their status early and access appropriate care and support",
+        "increase the spread of the virus within communities",
+        "are only useful for people already diagnosed with AIDS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early testing and counselling allow individuals to learn their HIV status, access treatment promptly, and take steps to prevent further transmission."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Mother-to-child transmission of HIV can be significantly reduced through",
+      "options": [
+        "refusing to test pregnant women for HIV",
+        "exclusive reliance on traditional birth attendants with no medical support",
+        "antiretroviral treatment during pregnancy, delivery, and breastfeeding",
+        "avoiding all forms of prenatal healthcare"
+      ],
+      "correctIndex": 2,
+      "explanation": "Appropriate antiretroviral therapy for HIV-positive mothers substantially lowers the risk of transmitting the virus to their children."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key challenge in tackling cultism in tertiary institutions is",
+      "options": [
+        "the complete absence of any cult activities in universities",
+        "full cooperation of cult members with school authorities",
+        "strong, unified opposition to cultism from all students",
+        "the secretive nature of cult groups, making detection and prosecution difficult"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cult groups typically operate secretly, using coded rituals and loyalty oaths, which makes it difficult for authorities to detect and prosecute members."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Government legislation banning secret cult activities in Nigerian institutions is intended mainly to",
+      "options": [
+        "encourage more students to join secret societies",
+        "reduce funding for guidance and counselling units",
+        "provide a legal basis for prosecuting and deterring cult membership and activities",
+        "eliminate the need for school disciplinary committees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anti-cultism laws provide the legal framework needed to investigate, prosecute, and deter individuals from joining or promoting secret cult societies."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A broader societal consequence of widespread drug abuse is",
+      "options": [
+        "a decrease in the demand for healthcare services",
+        "increased crime rates and strain on healthcare and social services",
+        "improved national productivity and economic growth",
+        "stronger family and community cohesion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Widespread drug abuse often correlates with rising crime, as well as increased burdens on healthcare, rehabilitation, and social welfare systems."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Responsible parenthood is best described as",
+      "options": [
+        "leaving the upbringing of children entirely to schools",
+        "having as many children as biologically possible",
+        "providing only financial support with no emotional guidance",
+        "the conscious effort by parents to provide adequately for the physical, emotional, and moral needs of their children"
+      ],
+      "correctIndex": 3,
+      "explanation": "Responsible parenthood involves deliberately ensuring children's overall wellbeing, including their physical care, emotional support, and moral upbringing."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key role of parents under responsible parenthood is",
+      "options": [
+        "providing discipline and moral guidance to their children",
+        "discouraging children from attending school",
+        "avoiding any form of discipline entirely",
+        "leaving all financial provision to the government"
+      ],
+      "correctIndex": 0,
+      "explanation": "Responsible parents are expected to provide appropriate discipline and moral guidance, helping shape their children's character and values."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Responsible parenthood contributes to family stability mainly by",
+      "options": [
+        "encouraging children to fend for themselves from a young age",
+        "reducing parental involvement in children's lives",
+        "increasing family conflict and instability",
+        "fostering a secure, nurturing environment that supports children's healthy development"
+      ],
+      "correctIndex": 3,
+      "explanation": "When parents responsibly provide care, guidance, and support, families tend to be more stable, benefiting children's overall development."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A consequence of irresponsible parenthood on child development can include",
+      "options": [
+        "excellent academic performance in every case",
+        "strong emotional stability and resilience",
+        "poor moral upbringing, neglect, and increased vulnerability to social vices",
+        "a complete absence of any behavioural challenges"
+      ],
+      "correctIndex": 2,
+      "explanation": "Irresponsible parenting, marked by neglect or poor guidance, can leave children vulnerable to poor moral development and involvement in social vices."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Youth restiveness is often linked to irresponsible parenthood mainly because",
+      "options": [
+        "youth restiveness has no connection to family upbringing",
+        "responsible parenting always leads directly to restiveness",
+        "restiveness is caused solely by government policy",
+        "neglected or poorly guided youths may turn to negative influences and antisocial behaviour"
+      ],
+      "correctIndex": 3,
+      "explanation": "Youths who lack proper parental guidance and support are more susceptible to negative peer influences, frustration, and restive or antisocial behaviour."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Traffic regulations are best described as",
+      "options": [
+        "rules for the registration of political parties",
+        "guidelines for broadcasting on national television",
+        "rules and guidelines governing the safe and orderly use of roads by drivers and pedestrians",
+        "laws governing international trade agreements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traffic regulations establish the rules that road users, including drivers and pedestrians, must follow to ensure safety and order on the roads."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Road signs that instruct road users on mandatory actions, such as 'Stop' or 'No Entry', are classified as",
+      "options": [
+        "informative signs",
+        "regulatory signs",
+        "warning signs",
+        "guide signs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regulatory road signs communicate mandatory rules that road users must obey, such as speed limits or prohibited manoeuvres."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Road signs that provide useful information to road users, such as directions or the location of facilities, are classified as",
+      "options": [
+        "prohibitory signs",
+        "warning signs",
+        "regulatory signs",
+        "informative signs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Informative road signs give helpful guidance to road users, such as distances, directions, or nearby amenities, without imposing legal obligations."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Road signs that alert drivers to potential hazards ahead, such as a sharp bend or pedestrian crossing, are classified as",
+      "options": [
+        "warning signs",
+        "guide signs",
+        "regulatory signs",
+        "informative signs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warning signs alert road users to upcoming hazards or changes in road conditions, encouraging caution."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common cause of road traffic accidents is",
+      "options": [
+        "regular vehicle maintenance",
+        "strict adherence to speed limits",
+        "proper use of seatbelts by all occupants",
+        "reckless driving, such as speeding and disregarding traffic signs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reckless driving behaviours, including excessive speed and ignoring traffic regulations, are leading causes of road traffic accidents."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The Nigerian government agency primarily responsible for managing traffic and enforcing road safety regulations on federal highways is the",
+      "options": [
+        "Federal Road Safety Corps (FRSC)",
+        "Independent National Electoral Commission (INEC)",
+        "National Drug Law Enforcement Agency (NDLEA)",
+        "National Agency for the Prohibition of Trafficking in Persons (NAPTIP)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The FRSC is Nigeria's dedicated agency for road traffic administration, safety education, and enforcement of traffic regulations."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Inter-personal relations refer to",
+      "options": [
+        "the internal structure of a single political party",
+        "the interactions and connections between individuals or groups within a society",
+        "the relationship between a country and international organisations only",
+        "the legal rules governing international trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inter-personal relations describe the ways individuals and groups within a community interact, cooperate, and sometimes conflict with one another."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common cause of communal conflict between different ethnic or community groups is",
+      "options": [
+        "strong, effective conflict resolution mechanisms",
+        "disputes over land, resources, or perceived marginalisation",
+        "excessive cooperation between neighbouring communities",
+        "equal and fair distribution of resources"
+      ],
+      "correctIndex": 1,
+      "explanation": "Communal conflicts commonly arise from competition over land and resources, or from a sense of unfair treatment or marginalisation between groups."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "An effective mechanism for resolving communal conflicts is",
+      "options": [
+        "ignoring the underlying causes of the conflict",
+        "allowing conflicts to escalate without intervention",
+        "dialogue and mediation involving respected community leaders",
+        "the use of violence to suppress one party completely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Peaceful dialogue and mediation, often facilitated by trusted community or traditional leaders, are effective ways to address and resolve communal disputes."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key skill required for promoting peace in inter-communal relations is",
+      "options": [
+        "suppressing all forms of dialogue between groups",
+        "refusal to listen to opposing perspectives",
+        "encouraging division among community members",
+        "effective communication and empathy toward differing viewpoints"
+      ],
+      "correctIndex": 3,
+      "explanation": "Building peace requires skills such as active listening, empathy, and open communication to understand and address differing perspectives."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Parents contribute to responsible parenthood by providing financial support mainly to",
+      "options": [
+        "replace the need for emotional support entirely",
+        "accumulate personal wealth unrelated to the family",
+        "avoid any involvement in their children's upbringing",
+        "meet their children's basic needs, such as food, shelter, and education"
+      ],
+      "correctIndex": 3,
+      "explanation": "Financial provision by parents is aimed at ensuring children's basic needs, including nutrition, shelter, healthcare, and education, are adequately met."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A regulatory road sign shaped as an octagon with the word 'STOP' requires drivers to",
+      "options": [
+        "slow down only slightly before continuing",
+        "come to a complete halt before proceeding",
+        "ignore other approaching vehicles",
+        "increase their speed through the junction"
+      ],
+      "correctIndex": 1,
+      "explanation": "The octagonal 'STOP' sign is a regulatory sign requiring drivers to come to a full stop and check for safety before proceeding."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Pedestrians can contribute to reducing road traffic accidents by",
+      "options": [
+        "ignoring traffic lights meant for pedestrians",
+        "using designated pedestrian crossings and obeying traffic signals",
+        "walking on active highways instead of designated walkways",
+        "crossing roads at any point regardless of oncoming traffic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pedestrians reduce accident risk by using marked crossings and obeying traffic signals, rather than crossing roads carelessly."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Vehicle over-speeding is a major cause of road accidents mainly because it",
+      "options": [
+        "reduces a driver's ability to react in time to avoid a collision",
+        "is always safer on well-maintained roads",
+        "improves a driver's control over the vehicle",
+        "has no effect on stopping distance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Excessive speed reduces the time a driver has to react to hazards and increases stopping distance, significantly raising accident risk."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Traditional rulers and community elders often play a valuable role in inter-personal relations by",
+      "options": [
+        "refusing to engage with modern conflict resolution methods",
+        "encouraging communities to avoid all forms of dialogue",
+        "mediating disputes and promoting reconciliation between conflicting parties",
+        "escalating minor disagreements into larger conflicts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional leaders often hold significant respect and influence, making them valuable mediators in resolving communal disputes and fostering reconciliation."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Democracy is best defined as a system of government in which",
+      "options": [
+        "power is inherited exclusively through a royal family",
+        "all decisions are made solely by unelected officials",
+        "a single military leader holds absolute power",
+        "power is derived from the people, typically through free and fair elections"
+      ],
+      "correctIndex": 3,
+      "explanation": "Democracy is fundamentally a system in which political power and legitimacy come from the people, usually exercised through free elections."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key feature of democracy is the holding of",
+      "options": [
+        "no elections at all, with power inherited",
+        "elections controlled entirely by the military",
+        "regular, free, and fair elections",
+        "elections only once in a lifetime for each citizen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Regular, free, and fair elections are a defining feature of democratic governance, allowing citizens to choose and change their leaders."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The democratic principle whereby decisions are generally made according to the wishes of the greater number of people is called",
+      "options": [
+        "military dictatorship",
+        "majority rule",
+        "absolute monarchy",
+        "minority rule"
+      ],
+      "correctIndex": 1,
+      "explanation": "Majority rule means that decisions and electoral outcomes are generally determined by the preference of the larger share of voters or representatives."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A system of democracy in which citizens directly participate in making laws and decisions, without elected representatives, is called",
+      "options": [
+        "monarchical democracy",
+        "representative democracy",
+        "military democracy",
+        "direct democracy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Direct democracy allows citizens to vote directly on laws and policies themselves, rather than through elected representatives."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A system of democracy in which citizens elect representatives to make laws and decisions on their behalf is called",
+      "options": [
+        "representative democracy",
+        "military rule",
+        "absolute monarchy",
+        "direct democracy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Representative democracy, the most common modern form, involves citizens electing officials to govern and legislate on their behalf."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key pillar supporting democratic governance, providing citizens with organised platforms to contest for political power, is the",
+      "options": [
+        "political party",
+        "public corporation",
+        "civil service",
+        "traditional council"
+      ],
+      "correctIndex": 0,
+      "explanation": "Political parties organise citizens around shared political goals, providing structured platforms through which candidates contest elections for public office."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key pillar of democracy responsible for interpreting laws and checking the excesses of the other arms of government is the",
+      "options": [
+        "judiciary",
+        "executive",
+        "electorate",
+        "legislature"
+      ],
+      "correctIndex": 0,
+      "explanation": "The judiciary, through judicial review and impartial interpretation of the law, serves as a critical check on the powers of the executive and legislature."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key pillar of democracy that informs the public, investigates government actions, and holds leaders accountable is the",
+      "options": [
+        "political party",
+        "traditional institution",
+        "free press (mass media)",
+        "civil service"
+      ],
+      "correctIndex": 2,
+      "explanation": "A free and independent press plays a crucial role in informing citizens and holding government officials accountable for their actions."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "The rule of law is best described as the principle that",
+      "options": [
+        "the government may act outside the law when convenient",
+        "everyone, including government officials, is subject to and accountable under the law",
+        "laws apply differently based on a person's wealth or status",
+        "only ordinary citizens must obey the law"
+      ],
+      "correctIndex": 1,
+      "explanation": "The rule of law requires that all individuals, including those in government, are equally subject to and bound by the law."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A basic principle of the rule of law is",
+      "options": [
+        "different courts and laws based on ethnicity",
+        "equality before the law for all citizens",
+        "the total absence of any written laws",
+        "special legal immunity for wealthy citizens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Equality before the law ensures that all persons, regardless of status, are treated equally under the same legal standards and protections."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Another basic principle of the rule of law is",
+      "options": [
+        "impartiality in the administration of justice",
+        "punishment without a fair hearing",
+        "secret trials with no legal representation",
+        "biased treatment favouring government officials"
+      ],
+      "correctIndex": 0,
+      "explanation": "Impartiality requires that justice be administered fairly and without bias, regardless of a person's position, wealth, or connections."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A factor that can limit the effective operation of the rule of law in a country includes",
+      "options": [
+        "a fully independent and well-funded judiciary",
+        "consistent and equal enforcement of laws",
+        "corruption and undue political interference in the judiciary",
+        "strong public trust in legal institutions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Corruption and political interference can undermine judicial independence and fairness, weakening the effective operation of the rule of law."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Civil society refers to",
+      "options": [
+        "a group of elected legislators",
+        "a country's armed forces",
+        "organisations and associations, independent of government, that represent citizens' interests",
+        "the executive arm of government alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Civil society consists of voluntary, non-governmental organisations, such as NGOs and advocacy groups, that represent and advance citizens' interests."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "An example of a civil society organisation is",
+      "options": [
+        "the country's central bank",
+        "a government ministry",
+        "a non-governmental human rights advocacy group",
+        "the national police force"
+      ],
+      "correctIndex": 2,
+      "explanation": "Non-governmental organisations advocating for human rights are a common example of civil society, operating independently of state control."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key role of civil society organisations in a democracy is to",
+      "options": [
+        "replace the elected government entirely",
+        "prevent citizens from voting in elections",
+        "eliminate the need for a free press",
+        "monitor government actions and defend citizens' human rights"
+      ],
+      "correctIndex": 3,
+      "explanation": "Civil society groups play a watchdog role, monitoring government conduct, advocating for citizens' rights, and promoting accountability."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Public service refers to",
+      "options": [
+        "elected officials serving in the legislature",
+        "religious organisations providing spiritual guidance",
+        "private businesses providing goods for profit",
+        "the body of government employees responsible for implementing government policies and providing services"
+      ],
+      "correctIndex": 3,
+      "explanation": "The public service comprises career government employees who implement policy and deliver public services, distinct from elected political officeholders."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A key characteristic of the public service is",
+      "options": [
+        "temporary employment that changes with every election",
+        "active membership in the ruling political party",
+        "direct control over the passage of laws",
+        "political neutrality, serving any government in power impartially"
+      ],
+      "correctIndex": 3,
+      "explanation": "Public servants are expected to remain politically neutral, serving successive governments impartially regardless of which party is in power."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Another key characteristic of the public service is",
+      "options": [
+        "reliance solely on private funding rather than government budgets",
+        "total independence from any form of government oversight",
+        "permanence, providing continuity in administration across different governments",
+        "complete anonymity with no accountability to the public"
+      ],
+      "correctIndex": 2,
+      "explanation": "Permanence ensures that skilled public servants continue in their roles across changes in political leadership, providing administrative continuity."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "A common reason for performance shortcomings within the public service is",
+      "options": [
+        "strong political neutrality among staff",
+        "efficient and transparent service delivery systems",
+        "inadequate funding, corruption, and poor staff motivation",
+        "excessive training and professional development opportunities"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public service performance often suffers due to insufficient resources, corrupt practices, and low staff morale or motivation."
+    },
+    {
+      "subject": "Civic Education",
+      "text": "Nigeria's Service Compact with All Nigerians (SERVICOM) initiative was established mainly to",
+      "options": [
+        "improve the quality, efficiency, and accountability of public service delivery",
+        "transfer all government functions to private companies",
+        "reduce citizens' access to government services",
+        "abolish the public service entirely"
+      ],
+      "correctIndex": 0,
+      "explanation": "SERVICOM was introduced as a reform initiative to improve service standards, efficiency, and accountability within Nigeria's public service."
+    }
+  ]
+}

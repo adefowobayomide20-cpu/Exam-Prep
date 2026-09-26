@@ -1,0 +1,1206 @@
+{
+  "subject": "Basic Electronics",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Basic Electronics",
+      "text": "A pure semiconductor material, containing no deliberately added impurities, is called an",
+      "options": [
+        "extrinsic semiconductor",
+        "intrinsic semiconductor",
+        "P-type semiconductor only",
+        "N-type semiconductor only"
+      ],
+      "correctIndex": 1,
+      "explanation": "An intrinsic semiconductor is in its pure form, without deliberately introduced impurities that would alter its conductive properties."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A semiconductor material that has been deliberately doped with impurities to alter its electrical properties is called an",
+      "options": [
+        "insulator",
+        "pure semiconductor only",
+        "extrinsic semiconductor",
+        "intrinsic semiconductor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Extrinsic semiconductors are intentionally doped with impurity atoms to modify their conductivity, forming either P-type or N-type material."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The process of intentionally adding impurity atoms to a pure semiconductor to modify its electrical properties is called",
+      "options": [
+        "annealing",
+        "doping",
+        "rectification",
+        "biasing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doping introduces controlled amounts of impurity atoms into a semiconductor crystal, creating either P-type or N-type material."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Semiconductor material doped with trivalent impurity atoms, such as boron, creating an excess of 'holes' (positive charge carriers), is called",
+      "options": [
+        "intrinsic material",
+        "insulating material",
+        "N-type material",
+        "P-type material"
+      ],
+      "correctIndex": 3,
+      "explanation": "P-type semiconductor material is created by doping with trivalent atoms (like boron), producing an excess of positive charge carriers called holes."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Semiconductor material doped with pentavalent impurity atoms, such as phosphorus, creating an excess of free electrons, is called",
+      "options": [
+        "insulating material",
+        "N-type material",
+        "intrinsic material",
+        "P-type material"
+      ],
+      "correctIndex": 1,
+      "explanation": "N-type semiconductor material is created by doping with pentavalent atoms (like phosphorus), producing an excess of free electrons as charge carriers."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The junction formed where P-type and N-type semiconductor materials meet within a single crystal is called the",
+      "options": [
+        "depletion layer only",
+        "P-N junction",
+        "barrier potential only",
+        "forward bias region only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The P-N junction is the boundary region where P-type and N-type materials meet, forming the basis of diodes and other semiconductor devices."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The narrow region around a P-N junction that becomes depleted of free charge carriers is called the",
+      "options": [
+        "forward bias voltage",
+        "P-N junction itself",
+        "depletion layer",
+        "barrier potential"
+      ],
+      "correctIndex": 2,
+      "explanation": "The depletion layer is the region around the junction where charge carriers have diffused across and recombined, leaving it depleted of free carriers."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The small voltage that naturally develops across a P-N junction, opposing further diffusion of charge carriers, is called the",
+      "options": [
+        "forward bias",
+        "barrier potential",
+        "depletion layer",
+        "reverse bias"
+      ],
+      "correctIndex": 1,
+      "explanation": "The barrier potential is the built-in voltage across the depletion layer that must be overcome for significant current to flow through the junction."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Applying a voltage to a P-N junction in a way that reduces the barrier potential and allows current to flow easily is called",
+      "options": [
+        "self biasing",
+        "zero biasing",
+        "forward biasing",
+        "reverse biasing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Forward biasing connects the voltage source so as to reduce the barrier potential, allowing current to flow readily through the junction."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Applying a voltage to a P-N junction in a way that increases the barrier potential and prevents significant current flow is called",
+      "options": [
+        "self biasing",
+        "zero biasing",
+        "reverse biasing",
+        "forward biasing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reverse biasing connects the voltage source so as to widen the depletion layer and increase the barrier, blocking significant current flow except a small leakage current."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A resistor manufactured from a mixture of carbon granules and a binding material, one of the most common and inexpensive types, is called a",
+      "options": [
+        "carbon composition resistor",
+        "wire-wound resistor",
+        "potentiometer",
+        "film resistor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbon composition resistors are made from a compressed mixture of carbon and binder, offering a simple and inexpensive fixed resistance."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A resistor manufactured by depositing a thin resistive layer, such as carbon or metal, onto an insulating substrate, offering improved precision, is called a",
+      "options": [
+        "carbon composition resistor",
+        "wire-wound resistor",
+        "rheostat",
+        "film resistor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Film resistors deposit a thin resistive film onto a substrate, generally offering better precision and stability than carbon composition types."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A resistor manufactured by winding resistance wire around an insulating core, often used where higher power ratings are needed, is called a",
+      "options": [
+        "film resistor",
+        "wire-wound resistor",
+        "potentiometer",
+        "carbon composition resistor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wire-wound resistors use a coiled resistance wire, allowing them to handle higher power dissipation than typical carbon or film resistors."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A variable resistor with three terminals, commonly used to adjust voltage levels such as volume controls, is called a",
+      "options": [
+        "rheostat",
+        "potentiometer",
+        "capacitor",
+        "fixed resistor"
+      ],
+      "correctIndex": 1,
+      "explanation": "A potentiometer has three terminals and is typically used to create an adjustable voltage divider, such as in volume controls."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A variable resistor with two terminals, commonly used to control current in a circuit, is called a",
+      "options": [
+        "potentiometer",
+        "fixed resistor",
+        "rheostat",
+        "capacitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "A rheostat typically uses two terminals to vary resistance and directly control current flow in a circuit."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The standardised system using coloured bands to indicate the resistance value and tolerance of a fixed resistor is called",
+      "options": [
+        "capacitor labelling",
+        "resistor colour coding",
+        "diode polarity marking",
+        "wire gauge marking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resistor colour coding uses a standardised sequence of coloured bands to indicate a resistor's value, tolerance, and sometimes temperature coefficient."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A capacitor constructed using a polarised design, generally offering high capacitance in a compact size, is called an",
+      "options": [
+        "mica capacitor",
+        "ceramic capacitor",
+        "electrolytic capacitor",
+        "variable capacitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electrolytic capacitors are polarised and can offer relatively high capacitance values in a compact package, but must be connected with correct polarity."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A capacitor constructed using a ceramic material as its dielectric, commonly small and non-polarised, is called a",
+      "options": [
+        "mica capacitor only",
+        "ceramic capacitor",
+        "variable capacitor",
+        "electrolytic capacitor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ceramic capacitors use a ceramic dielectric and are typically small, non-polarised, and widely used for general-purpose applications."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The capacitance of a capacitor is defined by the formula",
+      "options": [
+        "C = V/Q (voltage divided by charge)",
+        "C = Q/V (charge divided by voltage)",
+        "C = QV (charge multiplied by voltage)",
+        "C = Q + V (charge plus voltage)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capacitance (C) is defined as the ratio of stored charge (Q) to the voltage (V) across the capacitor's plates."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "When capacitors are connected in parallel, the total capacitance is",
+      "options": [
+        "always equal to zero",
+        "the reciprocal of the sum of reciprocals of individual capacitances",
+        "the sum of all individual capacitances",
+        "always equal to the smallest individual capacitance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Capacitors in parallel simply add their capacitance values together, unlike resistors in parallel."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "When capacitors are connected in series, the total capacitance is calculated using the",
+      "options": [
+        "product of the individual capacitances directly",
+        "direct sum of the individual capacitances",
+        "reciprocal sum formula (1/C total = 1/C1 + 1/C2 + ...)",
+        "average of the individual capacitances"
+      ],
+      "correctIndex": 2,
+      "explanation": "Series-connected capacitors combine using the reciprocal sum formula, analogous to how resistors combine in parallel."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A component made from a coil of wire, used to store energy in a magnetic field when current flows through it, is called an",
+      "options": [
+        "capacitor",
+        "resistor",
+        "diode",
+        "inductor"
+      ],
+      "correctIndex": 3,
+      "explanation": "An inductor stores energy in a magnetic field generated by current flowing through its coiled winding."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "An inductor wound around a non-magnetic core, such as plastic or cardboard, is called an",
+      "options": [
+        "variable inductor only",
+        "air-core inductor",
+        "iron-core inductor",
+        "ceramic-core inductor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Air-core inductors are wound with no magnetic core material, typically used for lower-inductance, higher-frequency applications."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "An inductor wound around a magnetic material, such as laminated iron, generally providing a higher inductance for a given coil size, is called an",
+      "options": [
+        "ceramic-core inductor only",
+        "air-core inductor",
+        "resistive inductor",
+        "iron-core inductor"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iron-core inductors use a magnetic core material to concentrate the magnetic field, achieving greater inductance than an equivalent air-core design."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The opposition an inductor presents to alternating current, which increases with frequency, is called its",
+      "options": [
+        "resistance",
+        "capacitive reactance",
+        "conductance",
+        "inductive reactance (XL)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inductive reactance (XL = 2*pi*f*L) increases with both frequency and inductance, representing the AC opposition presented by an inductor."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The opposition a capacitor presents to alternating current, which decreases as frequency increases, is called its",
+      "options": [
+        "capacitive reactance (XC)",
+        "conductance",
+        "inductive reactance",
+        "resistance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Capacitive reactance decreases as frequency increases, the opposite behaviour to inductive reactance, reflecting how capacitors respond to AC signals."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A capacitor made using thin mica sheets as the dielectric material, valued for stability and precision at higher frequencies, is called a",
+      "options": [
+        "ceramic capacitor only",
+        "mica capacitor",
+        "wire-wound capacitor",
+        "electrolytic capacitor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mica capacitors use thin mica sheets as a dielectric, offering good stability and precision, often used in high-frequency and precision applications."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A capacitor whose capacitance value can be adjusted, commonly used for tuning circuits such as radio receivers, is called a",
+      "options": [
+        "electrolytic capacitor",
+        "mica capacitor only",
+        "variable capacitor",
+        "ceramic capacitor only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Variable capacitors allow the capacitance value to be adjusted mechanically, commonly used for tuning applications such as radio receivers."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The first colour band on a resistor, read from the end closest to it, generally represents the",
+      "options": [
+        "first significant digit of the resistance value",
+        "resistor's power rating only",
+        "temperature coefficient only",
+        "resistor's tolerance only"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first colour band on a standard resistor indicates the first significant digit of its resistance value, following the standard colour code sequence."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The final colour band on many resistors, often gold or silver, typically indicates the",
+      "options": [
+        "second significant digit",
+        "power rating in watts",
+        "first significant digit",
+        "tolerance of the resistance value"
+      ],
+      "correctIndex": 3,
+      "explanation": "The final band on a resistor typically indicates its tolerance, showing the permissible variation from its nominal stated value (e.g., gold for ±5%)."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Energy stored in a charged capacitor is held in the form of an",
+      "options": [
+        "electric current flowing continuously",
+        "magnetic field around its leads",
+        "electric field between its plates",
+        "electromagnetic wave radiating outward"
+      ],
+      "correctIndex": 2,
+      "explanation": "A capacitor stores energy in the electric field established between its two conductive plates, separated by the dielectric material."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Energy stored in a current-carrying inductor is held in the form of a",
+      "options": [
+        "electric field between its terminals",
+        "magnetic field around its coil",
+        "chemical reaction within its winding",
+        "electric current flowing indefinitely with no source"
+      ],
+      "correctIndex": 1,
+      "explanation": "An inductor stores energy in the magnetic field generated by current flowing through its coiled winding."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Doping a semiconductor with a pentavalent element such as phosphorus adds extra electrons because phosphorus has",
+      "options": [
+        "three valence electrons, one fewer than needed for the crystal lattice",
+        "five valence electrons, one more than needed for the four covalent bonds in the crystal lattice",
+        "exactly four valence electrons, matching silicon precisely",
+        "no valence electrons at all"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phosphorus has five valence electrons; four form covalent bonds within the silicon lattice, leaving one extra electron free to conduct."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Doping a semiconductor with a trivalent element such as boron creates 'holes' because boron has",
+      "options": [
+        "five valence electrons, one more than needed for the crystal lattice",
+        "no valence electrons at all",
+        "three valence electrons, one fewer than needed to complete the four covalent bonds in the crystal lattice",
+        "exactly four valence electrons, matching silicon precisely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boron has only three valence electrons, leaving one covalent bond incomplete within the silicon lattice, creating a 'hole' that can accept an electron."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A basic semiconductor device that allows current to flow easily in one direction but blocks it in the other is called a",
+      "options": [
+        "diode",
+        "resistor",
+        "inductor",
+        "capacitor"
+      ],
+      "correctIndex": 0,
+      "explanation": "A diode is a two-terminal semiconductor device that conducts current readily in one direction (forward biased) but blocks it in the reverse direction."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A diode primarily designed to handle small signal currents, commonly used in radio and communication circuits, is called a",
+      "options": [
+        "signal diode",
+        "photodiode",
+        "Zener diode",
+        "power rectifier diode"
+      ],
+      "correctIndex": 0,
+      "explanation": "Signal diodes are optimised for handling small currents at typically higher frequencies, common in radio and communication circuit applications."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A diode designed to handle larger currents, commonly used to convert AC to DC in power supply circuits, is called a",
+      "options": [
+        "Zener diode",
+        "power rectifier diode",
+        "LED",
+        "signal diode"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power rectifier diodes are built to handle higher currents, making them suitable for converting AC to DC in power supply circuits."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A diode specifically designed to operate in reverse breakdown, maintaining a stable voltage across it, commonly used for voltage regulation, is called a",
+      "options": [
+        "signal diode",
+        "power rectifier diode",
+        "photodiode",
+        "Zener diode"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zener diodes are designed to operate safely in reverse breakdown, maintaining a stable output voltage, widely used in voltage regulator circuits."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A diode that emits visible (or invisible) light when forward biased is called a",
+      "options": [
+        "Zener diode",
+        "photodiode",
+        "Light Emitting Diode (LED)",
+        "signal diode"
+      ],
+      "correctIndex": 2,
+      "explanation": "An LED emits light when forward biased, converting electrical energy into light energy, widely used as indicators and in displays."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A diode whose reverse current increases significantly when exposed to light, used in light-sensing applications, is called a",
+      "options": [
+        "signal diode",
+        "Zener diode",
+        "LED",
+        "photodiode"
+      ],
+      "correctIndex": 3,
+      "explanation": "A photodiode's reverse current is sensitive to light intensity, making it useful for light-sensing and detection applications."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The rectification process using only one diode (or one half of the input waveform) to convert AC to a pulsating DC output is called",
+      "options": [
+        "bridge rectification only",
+        "full-wave rectification",
+        "shunt regulation",
+        "half-wave rectification"
+      ],
+      "correctIndex": 3,
+      "explanation": "Half-wave rectification uses a single diode to conduct only during one half of the AC cycle, producing a pulsating output with significant gaps."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The rectification process that converts both halves of the AC input waveform into a smoother pulsating DC output is called",
+      "options": [
+        "shunt regulation",
+        "full-wave rectification",
+        "clamping",
+        "half-wave rectification"
+      ],
+      "correctIndex": 1,
+      "explanation": "Full-wave rectification utilises both halves of the AC cycle, producing a pulsating DC output with fewer gaps than half-wave rectification."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A full-wave rectifier design using a transformer with a centre-tapped secondary winding and two diodes is called a",
+      "options": [
+        "voltage doubler",
+        "bridge rectifier",
+        "centre-tapped full-wave rectifier",
+        "half-wave rectifier"
+      ],
+      "correctIndex": 2,
+      "explanation": "The centre-tapped design uses a transformer's centre tap along with two diodes to achieve full-wave rectification."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A full-wave rectifier design using four diodes arranged in a diamond configuration, without requiring a centre-tapped transformer, is called a",
+      "options": [
+        "voltage doubler",
+        "bridge rectifier",
+        "centre-tapped rectifier",
+        "half-wave rectifier"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bridge rectifier uses four diodes arranged to achieve full-wave rectification without needing a centre-tapped transformer."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A filter circuit using a single capacitor connected across the rectifier's output to smooth the pulsating DC is called a",
+      "options": [
+        "RC filter only",
+        "LC filter only",
+        "capacitor input filter",
+        "choke filter alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "A capacitor input filter smooths the rectifier's pulsating output by charging during peaks and discharging during troughs, reducing ripple."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A filter circuit using both an inductor and a capacitor together to more effectively smooth a rectifier's output is called an",
+      "options": [
+        "LC filter",
+        "resistive filter only",
+        "Zener filter",
+        "capacitor input filter alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "An LC filter combines an inductor (choke) and a capacitor to more effectively smooth the pulsating rectified output, further reducing ripple."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The measure of the remaining AC variation present in a filtered DC output is called the",
+      "options": [
+        "ripple factor",
+        "current gain",
+        "barrier potential",
+        "power factor"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ripple factor quantifies the amount of residual AC variation remaining in a supposedly smooth DC output after filtering."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A voltage regulation circuit using a Zener diode connected in parallel with the load to maintain a stable output voltage is called a",
+      "options": [
+        "series regulator only",
+        "bridge rectifier",
+        "Zener shunt regulator",
+        "half-wave rectifier"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Zener shunt regulator places the Zener diode in parallel with the load, maintaining a stable voltage across it despite variations in supply or load current."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A bipolar junction transistor formed with a layer of P-type material sandwiched between two layers of N-type material is called an",
+      "options": [
+        "PNP transistor",
+        "P-type diode",
+        "N-type diode",
+        "NPN transistor"
+      ],
+      "correctIndex": 3,
+      "explanation": "An NPN transistor has a thin P-type base region sandwiched between N-type emitter and collector regions."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A bipolar junction transistor formed with a layer of N-type material sandwiched between two layers of P-type material is called a",
+      "options": [
+        "NPN transistor",
+        "N-type diode",
+        "PNP transistor",
+        "P-type diode"
+      ],
+      "correctIndex": 2,
+      "explanation": "A PNP transistor has a thin N-type base region sandwiched between P-type emitter and collector regions."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The operating mode of a transistor in which both junctions are reverse biased, and the transistor conducts essentially no current, is called the",
+      "options": [
+        "breakdown region",
+        "saturation region",
+        "active region",
+        "cut-off region"
+      ],
+      "correctIndex": 3,
+      "explanation": "In cut-off, both transistor junctions are reverse biased, and the transistor behaves like an open switch, conducting almost no current."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The operating mode of a transistor in which the emitter-base junction is forward biased and the collector-base junction is reverse biased, allowing proportional amplification, is called the",
+      "options": [
+        "active region",
+        "saturation region",
+        "cut-off region",
+        "breakdown region"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the active region, a transistor amplifies current proportionally, making it the operating mode used for linear amplification."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The operating mode of a transistor in which both junctions are forward biased, and the transistor conducts maximum current, behaving like a closed switch, is called the",
+      "options": [
+        "breakdown region",
+        "active region",
+        "saturation region",
+        "cut-off region"
+      ],
+      "correctIndex": 2,
+      "explanation": "In saturation, both junctions are forward biased, and the transistor conducts maximum current, effectively acting as a closed switch."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A transistor configuration in which the base terminal is common to both the input and output circuits is called the",
+      "options": [
+        "Common Ground configuration",
+        "Common Emitter (CE) configuration",
+        "Common Base (CB) configuration",
+        "Common Collector (CC) configuration"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the Common Base configuration, the base terminal is shared between input and output circuits, offering high voltage gain but low current gain."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A transistor configuration in which the emitter terminal is common to both the input and output circuits, and is the most widely used configuration for amplification, is called the",
+      "options": [
+        "Common Collector (CC) configuration",
+        "Common Base (CB) configuration",
+        "Common Emitter (CE) configuration",
+        "Common Ground configuration"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Common Emitter configuration, with the emitter shared between input and output, is the most commonly used transistor amplifier configuration."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A transistor configuration in which the collector terminal is common to both the input and output circuits, often used as a buffer with high current gain, is called the",
+      "options": [
+        "Common Emitter (CE) configuration",
+        "Common Ground configuration",
+        "Common Collector (CC) configuration",
+        "Common Base (CB) configuration"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Common Collector configuration (emitter follower) shares the collector terminal between input and output, offering high current gain and low output impedance, useful as a buffer."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The transistor current gain term 'alpha' (alpha) represents the ratio of",
+      "options": [
+        "collector current to base current",
+        "collector current to emitter current",
+        "emitter current to base current",
+        "base current to collector current"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alpha (a common-base current gain) represents the ratio of collector current to emitter current, always slightly less than one."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The transistor current gain term 'beta' (beta) represents the ratio of",
+      "options": [
+        "collector current to base current",
+        "collector current to emitter current",
+        "base current to emitter current",
+        "emitter current to collector current"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beta (a common-emitter current gain) represents the ratio of collector current to base current, and is related to alpha through the formula beta = alpha/(1-alpha)."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "When a transistor is used as an electronic switch, it typically operates between the",
+      "options": [
+        "active region only, avoiding both extremes",
+        "cut-off and saturation regions",
+        "reverse active region only",
+        "breakdown region exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "As a switch, a transistor is driven between cut-off (fully off) and saturation (fully on), rather than operating in its linear active region."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A key characteristic of a Zener diode used in a voltage regulator circuit is its",
+      "options": [
+        "very high forward voltage drop compared to ordinary diodes",
+        "requirement to always be forward biased for regulation to occur",
+        "inability to conduct in either direction",
+        "stable, nearly constant reverse breakdown voltage over a range of currents"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zener diodes maintain a relatively constant voltage across their terminals once in reverse breakdown, making them ideal for voltage regulation over a range of currents."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The forward voltage drop across a typical silicon signal diode, once conducting, is approximately",
+      "options": [
+        "12 volts",
+        "5 volts",
+        "0.3 volts",
+        "0.7 volts"
+      ],
+      "correctIndex": 3,
+      "explanation": "A typical silicon diode has an approximate forward voltage drop of 0.7 volts once it begins conducting significantly."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The forward voltage drop across a typical germanium diode, once conducting, is approximately",
+      "options": [
+        "0.3 volts",
+        "12 volts",
+        "0.7 volts",
+        "5 volts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Germanium diodes typically have a lower forward voltage drop, around 0.3 volts, compared to silicon diodes at approximately 0.7 volts."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A key advantage of full-wave rectification over half-wave rectification is that it",
+      "options": [
+        "produces a smoother output with less ripple, using both halves of the AC cycle",
+        "uses fewer diodes in every configuration",
+        "cannot be used with a bridge configuration at all",
+        "eliminates the need for any filtering capacitor"
+      ],
+      "correctIndex": 0,
+      "explanation": "By utilising both halves of the AC waveform, full-wave rectification produces a smoother, more consistent output with reduced ripple compared to half-wave rectification."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "An important precaution when installing an electrolytic capacitor in a circuit is to",
+      "options": [
+        "always connect it in reverse to the marked polarity",
+        "avoid using it in any DC circuit",
+        "ignore polarity markings entirely, since they never matter",
+        "observe the correct polarity, as reversing it can cause the capacitor to fail or explode"
+      ],
+      "correctIndex": 3,
+      "explanation": "Electrolytic capacitors are polarised and can fail dramatically (including venting or exploding) if connected with reversed polarity."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "In a transistor amplifier, the emitter, base, and collector terminals are analogous in function to which parts of a water tap system controlling flow?",
+      "options": [
+        "all three terminals perform an identical function with no distinction",
+        "only the emitter terminal has any functional role",
+        "the base acts like a small control valve, while the collector-emitter path carries the larger controlled flow",
+        "only the collector terminal has any functional role"
+      ],
+      "correctIndex": 2,
+      "explanation": "A helpful analogy: a small current at the base terminal controls a much larger current flowing through the collector-emitter path, similar to a valve controlling a larger flow."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A key parameter to consider when selecting a rectifier diode for a power supply is its",
+      "options": [
+        "operating frequency in radio circuits only",
+        "maximum reverse voltage rating and maximum forward current rating",
+        "logic gate compatibility",
+        "colour and physical size only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rectifier diode selection depends on ensuring the diode's maximum reverse voltage and forward current ratings safely exceed the circuit's actual operating conditions."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Reverse breakdown in an ordinary (non-Zener) diode, if it occurs, generally",
+      "options": [
+        "has no effect on the diode's performance",
+        "is a normal, safe, and desired mode of operation",
+        "risks permanently damaging the diode, unlike the controlled breakdown of a Zener diode",
+        "only occurs when the diode is forward biased"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike Zener diodes, which are specifically designed to safely operate in reverse breakdown, ordinary diodes can be permanently damaged if driven into reverse breakdown."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "LEDs require a current-limiting resistor in most circuits mainly to",
+      "options": [
+        "increase the LED's brightness far beyond its rated maximum",
+        "prevent excessive current from damaging the LED",
+        "convert AC current into DC current",
+        "reverse the polarity of the LED automatically"
+      ],
+      "correctIndex": 1,
+      "explanation": "A current-limiting resistor protects an LED from drawing excessive current, which could otherwise quickly damage or destroy it."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A single-stage transistor amplifier using the Common Emitter configuration is widely used mainly because it provides",
+      "options": [
+        "both current and voltage gain, making it suitable for general-purpose amplification",
+        "current gain only, with no voltage gain",
+        "no gain of any kind, used purely for buffering",
+        "voltage gain only, with no current gain"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Common Emitter amplifier configuration is popular because it provides significant gain in both current and voltage, unlike the other two configurations."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "In a transistor amplifier circuit, the network of resistors used to establish the correct DC operating point before an AC signal is applied is called the",
+      "options": [
+        "biasing network",
+        "filter network",
+        "bypass network",
+        "coupling network"
+      ],
+      "correctIndex": 0,
+      "explanation": "A biasing network sets up the correct DC voltages and currents needed for the transistor to operate correctly in its active region before amplifying an AC signal."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A capacitor used to connect the AC signal between amplifier stages while blocking DC voltage from passing through is called a",
+      "options": [
+        "tuning capacitor only",
+        "filter capacitor only",
+        "coupling capacitor",
+        "bypass capacitor"
+      ],
+      "correctIndex": 2,
+      "explanation": "A coupling capacitor allows AC signals to pass between stages while blocking the DC bias voltages of each stage from interfering with one another."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A capacitor placed across an emitter resistor to prevent AC signal loss (gain reduction) due to that resistor is called a",
+      "options": [
+        "filter capacitor only",
+        "bypass capacitor",
+        "coupling capacitor",
+        "tuning capacitor only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bypass capacitor provides a low-impedance AC path around the emitter resistor, preventing it from reducing the amplifier's overall AC gain."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A curve showing how an amplifier's gain varies across different signal frequencies is called its",
+      "options": [
+        "truth table",
+        "frequency response curve",
+        "biasing curve",
+        "characteristic curve of a diode"
+      ],
+      "correctIndex": 1,
+      "explanation": "The frequency response curve illustrates how an amplifier's gain changes as the input signal frequency varies, important for assessing its suitability for different applications."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A circuit that generates a continuous, repetitive waveform, such as a sine wave, without an external AC input signal, is called an",
+      "options": [
+        "oscillator",
+        "rectifier only",
+        "amplifier only",
+        "filter only"
+      ],
+      "correctIndex": 0,
+      "explanation": "An oscillator generates its own repetitive output waveform, using feedback and amplification, without requiring an external AC input signal."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The condition that must be satisfied for a circuit to sustain continuous oscillation, involving the loop gain and phase shift, is called the",
+      "options": [
+        "Kirchhoff's Law",
+        "Faraday's Law",
+        "Barkhausen criterion",
+        "Ohm's Law"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Barkhausen criterion states that sustained oscillation requires a loop gain of at least one and a total phase shift of zero (or a multiple of 360 degrees) around the feedback loop."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "An oscillator circuit that uses an inductor and capacitor together to determine its oscillation frequency is called an",
+      "options": [
+        "crystal oscillator only",
+        "LC (resonant tank) oscillator",
+        "RC oscillator only",
+        "digital oscillator only"
+      ],
+      "correctIndex": 1,
+      "explanation": "LC oscillators use the resonant properties of an inductor-capacitor combination (tank circuit) to establish and maintain their oscillation frequency."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The number system that uses ten digits (0 through 9) is called the",
+      "options": [
+        "hexadecimal system",
+        "decimal system",
+        "octal system",
+        "binary system"
+      ],
+      "correctIndex": 1,
+      "explanation": "The decimal system, used in everyday counting, is based on ten digits (0-9)."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The number system that uses only two digits (0 and 1), forming the fundamental basis of digital electronics, is called the",
+      "options": [
+        "octal system",
+        "binary system",
+        "decimal system",
+        "hexadecimal system"
+      ],
+      "correctIndex": 1,
+      "explanation": "The binary system uses only two digits (0 and 1), directly corresponding to the on/off states used within digital electronic circuits."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The number system that uses sixteen symbols (0-9 and A-F), often used as a compact way to represent binary values, is called the",
+      "options": [
+        "octal system",
+        "hexadecimal system",
+        "decimal system",
+        "binary system"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hexadecimal system uses sixteen symbols, providing a more compact representation of binary data commonly used in computing and digital electronics."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The branch of mathematics dealing with logical operations on true/false (binary) values, foundational to digital logic design, is called",
+      "options": [
+        "Boolean algebra",
+        "calculus",
+        "vector algebra",
+        "trigonometry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boolean algebra provides the mathematical framework for describing and simplifying logical operations, forming the basis of digital logic circuit design."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate that produces a true (1) output only when all of its inputs are true (1) is called an",
+      "options": [
+        "NOT gate",
+        "NAND gate",
+        "AND gate",
+        "OR gate"
+      ],
+      "correctIndex": 2,
+      "explanation": "An AND gate outputs true only when every one of its inputs is true; otherwise its output is false."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate that produces a true (1) output when at least one of its inputs is true (1) is called an",
+      "options": [
+        "OR gate",
+        "AND gate",
+        "NOT gate",
+        "NOR gate"
+      ],
+      "correctIndex": 0,
+      "explanation": "An OR gate outputs true if at least one of its inputs is true, and false only when all inputs are false."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate with a single input that inverts (reverses) the logical state of that input is called a",
+      "options": [
+        "XOR gate",
+        "AND gate",
+        "NOT gate (inverter)",
+        "OR gate"
+      ],
+      "correctIndex": 2,
+      "explanation": "A NOT gate (inverter) simply reverses its single input: a true input produces a false output, and vice versa."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate that produces the inverse output of an AND gate, being false only when all inputs are true, is called a",
+      "options": [
+        "NOR gate",
+        "AND gate",
+        "XOR gate",
+        "NAND gate"
+      ],
+      "correctIndex": 3,
+      "explanation": "A NAND gate is the logical inverse of an AND gate, producing a false output only when all its inputs are true."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate that produces the inverse output of an OR gate, being true only when all inputs are false, is called a",
+      "options": [
+        "OR gate",
+        "NOR gate",
+        "NAND gate",
+        "XNOR gate"
+      ],
+      "correctIndex": 1,
+      "explanation": "A NOR gate is the logical inverse of an OR gate, producing a true output only when every input is false."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate that produces a true output only when its inputs are different from each other is called an",
+      "options": [
+        "XNOR gate",
+        "OR gate",
+        "XOR (exclusive OR) gate",
+        "AND gate"
+      ],
+      "correctIndex": 2,
+      "explanation": "An XOR gate outputs true only when its inputs differ (one true, one false), and false when the inputs are the same."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A logic gate that produces a true output only when its inputs are the same as each other is called an",
+      "options": [
+        "XOR gate",
+        "NAND gate",
+        "NOR gate",
+        "XNOR gate"
+      ],
+      "correctIndex": 3,
+      "explanation": "An XNOR gate is the inverse of an XOR gate, outputting true when its inputs match (both true or both false)."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "An instrument used to visually display and monitor how a voltage waveform changes over time is called a",
+      "options": [
+        "signal generator only",
+        "Cathode Ray Oscilloscope (CRO)",
+        "wattmeter only",
+        "multimeter only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A CRO displays voltage waveforms visually on a screen, allowing engineers and technicians to observe how a signal changes over time."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A chemical substance applied during soldering to clean the metal surfaces and improve the flow and adhesion of solder is called",
+      "options": [
+        "flux",
+        "desoldering braid",
+        "PCB substrate",
+        "solder wire alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flux cleans oxidation from metal surfaces and improves the wetting and flow of solder, producing a stronger, more reliable joint."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A tool used to remove excess solder from a joint, often to correct mistakes or replace a faulty component, is called a",
+      "options": [
+        "wire stripper only",
+        "soldering iron alone",
+        "flux applicator",
+        "desoldering pump (solder sucker)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A desoldering pump quickly draws away melted solder from a joint, allowing components to be removed or corrections made."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A flat board with conductive copper tracks, used to mechanically support and electrically connect electronic components, is called a",
+      "options": [
+        "breadboard only",
+        "capacitor bank",
+        "heat sink",
+        "printed circuit board (PCB)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A PCB provides both mechanical support and electrical connections for components, using etched copper tracks instead of loose wiring."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A systematic process of identifying and resolving faults on an electronic circuit board is generally called",
+      "options": [
+        "doping",
+        "rectification",
+        "troubleshooting",
+        "biasing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Troubleshooting involves methodically testing and inspecting a circuit board to identify and correct faults preventing correct operation."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The decimal number 5 is represented in binary as",
+      "options": [
+        "101",
+        "111",
+        "110",
+        "100"
+      ],
+      "correctIndex": 0,
+      "explanation": "Decimal 5 equals binary 101, since 1x4 + 0x2 + 1x1 = 5."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The decimal number 10 is represented in binary as",
+      "options": [
+        "1000",
+        "1100",
+        "1010",
+        "1001"
+      ],
+      "correctIndex": 2,
+      "explanation": "Decimal 10 equals binary 1010, since 1x8 + 0x4 + 1x2 + 0x1 = 10."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A table listing all possible input combinations of a logic circuit alongside their corresponding outputs is called a",
+      "options": [
+        "biasing table",
+        "frequency response curve",
+        "truth table",
+        "characteristic curve"
+      ],
+      "correctIndex": 2,
+      "explanation": "A truth table systematically lists every possible input combination for a logic circuit and the resulting output for each, essential for digital logic design."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The Boolean expression for an AND gate with inputs A and B is typically written as",
+      "options": [
+        "A . B (A AND B)",
+        "A' (NOT A)",
+        "A + B (A OR B)",
+        "A XOR B"
+      ],
+      "correctIndex": 0,
+      "explanation": "The AND operation is conventionally represented using a dot (or simple juxtaposition) between the input variables, such as A.B."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The Boolean expression for an OR gate with inputs A and B is typically written as",
+      "options": [
+        "A + B (A OR B)",
+        "A' (NOT A)",
+        "A XOR B",
+        "A . B (A AND B)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The OR operation is conventionally represented using a plus sign between the input variables, such as A+B."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "The main function of a CRO's time base control is to",
+      "options": [
+        "change the frequency of the signal being measured",
+        "adjust only the vertical amplitude of the displayed waveform",
+        "convert AC signals into DC signals",
+        "adjust the horizontal sweep speed, controlling how the waveform is displayed over time"
+      ],
+      "correctIndex": 3,
+      "explanation": "The time base control adjusts how quickly the CRO's electron beam sweeps horizontally, determining how the waveform is stretched or compressed over time on the display."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "Before soldering a joint, it is generally recommended to first ensure that the surfaces to be joined are",
+      "options": [
+        "already coated with a thick layer of old solder",
+        "clean and free from dirt, oxidation, or grease",
+        "coated in a non-conductive varnish",
+        "left wet with water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clean surfaces, free from dirt, oxidation, or grease, are essential for solder to properly wet and bond to the metal, forming a reliable joint."
+    },
+    {
+      "subject": "Basic Electronics",
+      "text": "A cold solder joint, resulting from insufficient heat during soldering, typically appears",
+      "options": [
+        "shiny, smooth, and perfectly reliable",
+        "dull, grainy, and may be mechanically or electrically unreliable",
+        "identical in every way to a properly soldered joint",
+        "only a cosmetic issue with no effect on reliability"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cold solder joint, caused by insufficient heating, typically looks dull and grainy rather than shiny and smooth, and can be mechanically weak or electrically intermittent."
+    }
+  ]
+}

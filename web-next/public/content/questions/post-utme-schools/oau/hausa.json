@@ -1,0 +1,1206 @@
+{
+  "subject": "Hausa",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Hausa",
+      "text": "Wanne daga cikin wadannan haruffa ne baya cikin haruffan Hausa na boko?",
+      "options": [
+        "K",
+        "Ƙ",
+        "Q",
+        "R"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard Hausa boko orthography excludes the Latin letters Q, X, and V; it uses K, Ƙ, and R among its consonants."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene daidai matsayin harafin 'Ɓ' idan aka kwatanta da 'B' a rubutun Hausa?",
+      "options": [
+        "Ɓ wasali ne",
+        "Ɓ ba a amfani da shi a Hausa",
+        "Ɓ baƙi ne mai shaƙuwa (implosive) daban da B",
+        "Ɓ da B daya ne kawai a rubuce ba tare da bambanci ba"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ɓ represents a distinct implosive consonant sound in Hausa, phonemically different from the plain plosive B."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A ka'idar rubutun Hausa, yaushe ake amfani da babban harafi (capital letter)?",
+      "options": [
+        "A tsakiyar kalma kawai",
+        "Ba a taba amfani da babban harafi a Hausa",
+        "A farkon jimla da kuma sunayen musamman",
+        "A karshen kowace kalma"
+      ],
+      "correctIndex": 2,
+      "explanation": "As in standard orthographic convention, Hausa capitalises the first word of a sentence and proper nouns such as personal names and place names."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wanne misali ne daidai wajen amfani da alamar sirara (apostrophe) a Hausa?",
+      "options": [
+        "Y'an mata",
+        "Yanmata'",
+        "Yan' mata",
+        "'Yan mata"
+      ],
+      "correctIndex": 3,
+      "explanation": "The apostrophe correctly precedes 'yan' in 'yan mata' (girls), marking the elided initial sound, as commonly standardised in Hausa orthography."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene kuskure a wannan jimlar: 'ya tafi kasuwa jiya'?",
+      "options": [
+        "Rashin waƙafi",
+        "Rashin alamar tambaya",
+        "Rashin amfani da baƙar dawa",
+        "Rashin amfani da babban harafi a farkon jimla"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence should begin with a capital letter: 'Ya tafi kasuwa jiya', since it starts a new sentence."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A rubutun Hausa, menene aikin 'waƙafi' (comma)?",
+      "options": [
+        "Yana nuna karshen jimla gaba daya",
+        "Yana nuna gajeren tsayawa a cikin jimla domin raba sassa",
+        "Yana nuna tambaya",
+        "Yana nuna mamaki kawai"
+      ],
+      "correctIndex": 1,
+      "explanation": "The comma (waƙafi) marks a brief pause, typically separating items in a list or clauses within a sentence, without ending the sentence."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wanne daga cikin jimlolin nan biyu ne daidai a fannin rabon kalmomi: 'ba komai' ko 'bakomai'?",
+      "options": [
+        "Dukansu daidai ne",
+        "ba komai",
+        "bakomai",
+        "Babu wanda ke daidai"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ba komai' (nothing/it's alright) is correctly written as two separate words in standard Hausa orthography, not merged."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira alamar da ake amfani da ita don nuna cewa magana ce ta wani mutum a rubuce, kalma-kalma?",
+      "options": [
+        "Aya",
+        "Waƙafi",
+        "Alamar tambaya",
+        "Alamar magana (quotation marks)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Quotation marks are used to enclose direct speech or a quoted statement exactly as spoken or written by someone else."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A rubutaccen Hausa, wace hanya ce daidai ta nuna adadi 'talatin da biyar' a matsayin lamba?",
+      "options": [
+        "305",
+        "53",
+        "350",
+        "35"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Talatin da biyar' translates directly to thirty-five, written numerically as 35."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Me ya sa ake bukatar sanin ka'idojin rubutu sosai kafin rubuta rahoto ko wasika a Hausa?",
+      "options": [
+        "Domin gujewa kuskuren da zai iya canza ma'ana ko rikita mai karatu",
+        "Domin babu wata fa'ida",
+        "Domin karin lokacin da za a dauka wajen rubutu",
+        "Domin baiwa marubuci lambar yabo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Careful adherence to orthographic rules prevents ambiguity or unintended changes in meaning, ensuring the writing is clearly understood."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace kalma ce aka rubuta daidai bisa ka'idar rubutun Hausa?",
+      "options": [
+        "Malami",
+        "Mallam'i",
+        "Mallami",
+        "Malaami"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Malami' (teacher) is the standard, correctly spelt form in Hausa orthography."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A rubutun Hausa, menene bambanci tsakanin 'ƙirƙira' da 'kirkira'?",
+      "options": [
+        "Ƙirƙira daidai ne saboda amfani da hooked ƙ, kirkira kuskure ne",
+        "Dukansu daidai ne gaba daya",
+        "Ba su da wata ma'ana",
+        "Kirkira daidai ne, ƙirƙira kuskure ne"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ƙirƙira' (to invent/create) requires the hooked Ƙ, which is phonemically distinct from plain K; spelling it with plain 'k' is an orthographic error."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A tambayoyin auna fahimta, idan aka nemi 'babban ra'ayi' na labari, mai karatu zai fara da",
+      "options": [
+        "Kirga yawan jimlolin da ke cikin labarin",
+        "Neman sunan mai buga littafin",
+        "Neman babban sako da marubuci yake son isarwa",
+        "Duba tsawon lokacin da aka dauka wajen rubuta labarin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Identifying the main idea means locating the central message the writer intends to communicate, not incidental production details."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Idan wata tambaya ta ce 'menene take/take na dacewa da labarin?', menene ake bukata daga dalibi?",
+      "options": [
+        "Ya zabi kalma ta farko a cikin labarin",
+        "Ya zabi kalma ta karshe a cikin labarin",
+        "Ya zabi taken da ya fi dacewa da abin da labarin ya kunsa gaba daya",
+        "Ya zabi taken mafi tsayi"
+      ],
+      "correctIndex": 2,
+      "explanation": "A suitable title question requires selecting the option that best captures the overall content and theme of the passage, not superficial features."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A wani labari, an ce 'Audu ya yi murna matuka domin ya samu tallafin karatu.' Menene dalilin murnar Audu?",
+      "options": [
+        "Ya samu aure",
+        "Ya samu sabon mota",
+        "Ya samu aiki",
+        "Ya samu tallafin karatu"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence directly states Audu's joy was because he obtained a scholarship, a straightforward direct-extraction comprehension question."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Yaya za a iya bambance tsakanin 'gaskiya' (fact) da 'ra'ayi' (opinion) a cikin wani rubutu?",
+      "options": [
+        "Ra'ayi koda yaushe gaskiya ne",
+        "Gaskiya za a iya tabbatar da ita, ra'ayi kuwa fahimtar mutum ne game da wani abu",
+        "Babu wani bambanci a tsakaninsu",
+        "Gaskiya ba za a iya tabbatar da ita ba"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fact can be verified as objectively true, while an opinion reflects a personal judgement or belief that may vary between individuals."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Idan tambaya ta bukaci dalibi ya yi hasashen abin da zai faru gaba a labari, wace fasaha ake amfani da ita?",
+      "options": [
+        "Fitar da bayani kai tsaye",
+        "Rabon kalmomi",
+        "Taƙaita labari kawai",
+        "Yin hasashe (prediction/inference)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Predicting or inferring future events in a passage requires reasoning beyond what is explicitly stated, using contextual clues already given."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A cikin jumlar 'Ko da yake ruwa yana sauka, Bala ya ci gaba da tafiya kasuwa', menene ma'anar 'ko da yake'?",
+      "options": [
+        "Kafin (before)",
+        "Idan (if)",
+        "Domin (because)",
+        "Duk da cewa (despite the fact that)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ko da yake' functions as a concessive connective meaning 'even though/despite the fact that', signalling contrast between two clauses."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Idan a cikin labari aka ce 'ta yi fatali da shawarar mahaifiyarta', menene ma'anar 'yi fatali da'?",
+      "options": [
+        "Ki ko yi watsi da wani abu",
+        "Yarda da wani abu",
+        "Yi kokarin fahimtar wani abu",
+        "Yaba wa wani abu"
+      ],
+      "correctIndex": 0,
+      "explanation": "The idiomatic expression 'yi fatali da' means to reject or disregard something, here referring to dismissing the mother's advice."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace dabara ce ta fi taimakawa wajen gano amsar tambaya cikin sauri a jarabawar fahimta?",
+      "options": [
+        "Karanta amsoshin kadai ba tare da karanta tambayar ba",
+        "Zabi amsa ta farko koyaushe ba tare da tunani ba",
+        "Duba kalmomin da ke cikin tambayar sannan a nemo su a sakin layin da suka dace",
+        "Zabi amsa mafi tsayi koyaushe"
+      ],
+      "correctIndex": 2,
+      "explanation": "An efficient comprehension strategy is scanning for key words from the question within the relevant paragraph to quickly locate supporting evidence."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake nufi idan aka ce wani rubutu 'na ba da labari' (narrative) ne?",
+      "options": [
+        "Rubutun da ke koyar da yadda ake yin wani abu kawai",
+        "Rubutun da ba shi da wani tsari",
+        "Rubutun da ke ba da labarin abubuwan da suka faru, na gaskiya ko na kagaggu",
+        "Rubutun da ke bayyana ra'ayin marubuci kawai"
+      ],
+      "correctIndex": 2,
+      "explanation": "A narrative text tells a story of events, whether real or fictional, typically with characters, setting, and a sequence of happenings."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A cikin labarin da ke cewa 'Talakawa da yawa suna fama da matsalar rashin ruwa mai tsafta', menene babban abin damuwa?",
+      "options": [
+        "Rashin makarantu",
+        "Yawan mutane a birni",
+        "Rashin ababen more rayuwa gaba daya",
+        "Rashin ruwa mai tsafta ga talakawa"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence explicitly identifies lack of access to clean water among the poor as the central concern being discussed."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wadanne sautuka ne 'a, e, i, o, u' a Hausa?",
+      "options": [
+        "Wasula (vowels)",
+        "Baƙaƙe (consonants)",
+        "Kirari",
+        "Karin sauti"
+      ],
+      "correctIndex": 0,
+      "explanation": "The five basic vowel qualities a, e, i, o, u form the vowel inventory of Hausa, produced without significant airflow obstruction."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira baƙaƙen da ake furta su ta hanyar hade wurin fitar iska da baki, kamar 'ts' a Hausa?",
+      "options": [
+        "Baƙaƙe masu haɗi (affricates)",
+        "Sila a bude",
+        "Wasula dogaye",
+        "Karin sauti mai fadowa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Affricate consonants like 'ts' involve a stop closure immediately released into a fricative, a recognised consonant class in Hausa phonology."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A Hausa, dogon wasali (long vowel) kamar wanda ke cikin 'baabaa' yana da mahimmancin",
+      "options": [
+        "Iya canza harshe gaba daya",
+        "Kawai kyautata sauti ba tare da canza ma'ana ba",
+        "Babu wani muhimmanci",
+        "Iya canza ma'anar kalma daga gajeren wasali"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vowel length is phonemically contrastive in Hausa — long versus short vowels can distinguish word meaning entirely, not just add stylistic effect."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Karin sauti mai sauka (low tone) idan aka canza shi zuwa sama a wata kalma, menene zai iya faruwa?",
+      "options": [
+        "Kalmar za ta zama wasali kadai",
+        "Kalmar za ta bata sauti gaba daya",
+        "Ma'anar kalmar na iya canzawa gaba daya",
+        "Babu wani tasiri kwata-kwata"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since Hausa is a tonal language, changing the tone pattern on an otherwise identical word can completely change its meaning."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira aikin da ake yi na hada baƙi biyu domin su zama sauti daya kacal a furuci, misali 'nb' ya zama 'mb'?",
+      "options": [
+        "Daidaitawa (assimilation)",
+        "Rage kalma (deletion)",
+        "Kirar kalma",
+        "Sila a rufe"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a classic example of assimilation, where a nasal consonant changes its place of articulation to match a following consonant."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A Hausa, wace irin sila ce 'kar' a cikin 'karfe'?",
+      "options": [
+        "Wasali dogo kadai",
+        "Baƙi mara amfani",
+        "Sila a rufe (closed syllable)",
+        "Sila a bude (open syllable)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The syllable 'kar' ends in the consonant 'r', making it a closed syllable by definition."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sautin da ake furtawa ta hanyar toshe iska sannan a saki shi kwatsam, kamar 'p', 'b', 'k', 'g'?",
+      "options": [
+        "Baƙaƙe masu fashewa (plosives/stops)",
+        "Karin sauti",
+        "Baƙaƙe masu goga (fricatives)",
+        "Wasula gajeru"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plosive (stop) consonants like p, b, k, g are produced by completely blocking airflow then releasing it abruptly."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A ilimin karin sauti, menene ake kira kalmomi biyu da ke da sauti daya amma karin sauti daban, wanda ke haifar da ma'ana daban-daban?",
+      "options": [
+        "Kalmomin da karin sauti ya bambanta ma'anarsu (tone-distinguished minimal pairs)",
+        "Kalmomin adadi",
+        "Kalmomin aro",
+        "Kalmomin jinsi"
+      ],
+      "correctIndex": 0,
+      "explanation": "These are minimal pairs distinguished purely by tone, illustrating tone's role as a meaning-differentiating feature in Hausa."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wane fanni ne ya fi mayar da hankali kan yadda ake tsara sautukan magana cikin tsari na kalmomi da jimloli?",
+      "options": [
+        "Adabin baka",
+        "Al'ada (culture)",
+        "Tsarin sauti (phonology)",
+        "Rubutaccen adabi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phonology is precisely the branch concerned with how speech sounds are organised and patterned within a language's words and sentences."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene sunan tsarin da ake amfani da shi domin nazarin inda ake fitar da sauti a bakin magana, kamar hakori, harshe, ko lebe?",
+      "options": [
+        "Wurin fitar sauti (place of articulation)",
+        "Kirar kalma",
+        "Yanayin fitar sauti kawai",
+        "Karin sauti"
+      ],
+      "correctIndex": 0,
+      "explanation": "Place of articulation describes the specific location in the vocal tract — such as teeth, tongue, or lips — where a sound's airflow is constricted."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sashin kalma da ke ba da ainihin ma'anar kalmar, kafin a kara wani kari?",
+      "options": [
+        "Kari (affix)",
+        "Tushen kalma (root)",
+        "Sila",
+        "Karin sauti"
+      ],
+      "correctIndex": 1,
+      "explanation": "The root of a word carries its core lexical meaning, before any prefixes or suffixes are attached."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A Hausa, kalmar 'malamai' an samo ta ta hanyar",
+      "options": [
+        "Hada kalmomi biyu daban-daban gaba daya",
+        "Kara alamar jam'i ga tushen kalma 'malami'",
+        "Rage wani baki daga tushen kalma",
+        "Sauya wasali kadai ba tare da wata alama ba"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Malamai' is the plural of 'malami' formed by adding a pluralising suffix pattern to the singular root."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira hada kalmomi biyu daban-daban domin samar da sabuwar kalma mai ma'ana, kamar 'gidan sarki'?",
+      "options": [
+        "Aro kalma (borrowing)",
+        "Rage kalma (clipping)",
+        "Sila a bude",
+        "Hadaka (compounding)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Compounding joins two independent words to form a new word or phrase with combined meaning, as in 'gidan sarki' (the chief's house/palace)."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A ƙirar kalma, menene ake kira kalmomin da aka aro daga wani harshe, misali 'motoci' daga Turanci 'motor'?",
+      "options": [
+        "Kalmomin aro (loan words)",
+        "Kalmomin hadaka",
+        "Kalmomin asali",
+        "Kalmomin jam'i"
+      ],
+      "correctIndex": 0,
+      "explanation": "Loan words are terms borrowed from another language and adapted into Hausa, such as 'mota' (car) from English 'motor'."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace hanya ce ake amfani da ita wajen sauya suna zuwa fi'ili ko akasin haka a Hausa?",
+      "options": [
+        "Kawai canza karin sauti kadai",
+        "Kawar da dukkan wasula",
+        "Kara kari domin canza aji na kalma (derivation)",
+        "Sauya kalma zuwa wani harshe daban"
+      ],
+      "correctIndex": 2,
+      "explanation": "Derivational morphology involves adding affixes that can change a word's grammatical class, e.g. from noun to verb or vice versa."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira kari da ake sawa a farkon kalma, kamar 'ma-' a cikin 'malami'?",
+      "options": [
+        "Kari na gaba (prefix)",
+        "Kari na baya (suffix)",
+        "Tushen kalma",
+        "Kari na tsakiya (infix)"
+      ],
+      "correctIndex": 0,
+      "explanation": "A prefix is an affix attached to the beginning of a word, as opposed to a suffix which attaches at the end."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Kalmar 'ɗalibai' jam'i ce ta wace kalma?",
+      "options": [
+        "Ɗalibawa",
+        "Ɗalibiya",
+        "Ɗalibar",
+        "Ɗalibi"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ɗalibai' (students) is the plural form of the singular noun 'ɗalibi' (student)."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A Hausa, menene ake kira canza fi'ili domin nuna lokacin da aikin ya faru, kamar lokacin da ya wuce ko na yanzu?",
+      "options": [
+        "Aro kalma",
+        "Sauyin lokaci (tense marking)",
+        "Hadaka",
+        "Karin magana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tense marking on the verb (or through auxiliary particles in Hausa) indicates when an action occurred — past, present, or future."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wanne daga cikin wadannan misalai ne na kalmar hadaka (compound word) a Hausa?",
+      "options": [
+        "Mai-gida",
+        "Kujera",
+        "Rubutu",
+        "Kalma"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mai-gida' (household head, literally 'owner of house') combines 'mai' (owner/possessor of) and 'gida' (house) into a compound word."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira fannin nazarin yadda ake gina kalmomi daga sassa mafi karanci masu ma'ana?",
+      "options": [
+        "Ƙirar kalma (morphology)",
+        "Tsarin sauti",
+        "Gidajen kalmomi (syntax)",
+        "Al'ada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Morphology studies how words are built from smaller meaningful units such as roots, prefixes, and suffixes."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A gidajen kalmomi (syntax) na Hausa, menene tsarin asali na jimla mai sauki?",
+      "options": [
+        "Fa'ili + Fi'ili + Abin da aka yi wa aiki (Subject-Verb-Object)",
+        "Abin da aka yi wa aiki + Fa'ili + Fi'ili",
+        "Babu wani tsari da aka kayyade",
+        "Fi'ili + Fa'ili + Abin da aka yi wa aiki"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hausa basic sentence order typically follows Subject-Verb-Object (SVO), similar in structure to many analytic languages."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A jimlar 'Musa ya karanta littafi', menene rawar 'Musa'?",
+      "options": [
+        "Fa'ili (subject)",
+        "Abin aiki (object)",
+        "Sifa (adjective)",
+        "Fi'ili (verb)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Musa' is the subject (fa'ili) of the sentence, performing the action of reading."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wanne kalma ce fi'ili (verb) a cikin jimlar 'Yara suna wasa a filin wasa'?",
+      "options": [
+        "Filin",
+        "Wasa a filin",
+        "Wasa",
+        "Yara"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Wasa' (to play) is the action word (verb) in the sentence, describing what the children are doing."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A gidajen kalmomi, menene ake kira kalmar da ke bayyana wani abu game da suna, kamar 'babba' a 'gida babba'?",
+      "options": [
+        "Fi'ili",
+        "Karin magana",
+        "Sifa (adjective)",
+        "Alamar tambaya"
+      ],
+      "correctIndex": 2,
+      "explanation": "An adjective (sifa) describes or qualifies a noun, such as 'babba' (big) describing 'gida' (house)."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace jimla ce daidai a fannin tsarin nahawu?",
+      "options": [
+        "Mota Ali jiya ya sayi.",
+        "Ali ya sayi mota jiya.",
+        "Jiya mota sayi ya Ali.",
+        "Ya Ali jiya sayi mota."
+      ],
+      "correctIndex": 1,
+      "explanation": "Only 'Ali ya sayi mota jiya' (Ali bought a car yesterday) follows correct standard Hausa word order; the others scramble the sentence structure."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira kalmar da ke maye gurbin suna domin gujewa maimaitawa, misali 'shi' a maimakon 'Audu'?",
+      "options": [
+        "Sifa",
+        "Fi'ili",
+        "Kari",
+        "Wakilin suna (pronoun)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A pronoun (wakilin suna) substitutes for a noun to avoid repetition, such as using 'shi' (he) instead of repeating a name."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A jimlar 'Ta kawo ruwa saboda kishirwa ta kama ta', menene rawar 'saboda' a jimlar?",
+      "options": [
+        "Yana nuna wurin da aikin ya faru",
+        "Ba shi da wani aiki",
+        "Yana nuna sunan mutum",
+        "Yana hada jimlar biyu domin nuna dalili"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Saboda' (because) is a conjunction linking two clauses to show cause and effect/reason."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira jimlar da take da fa'ili da fi'ili guda daya kacal, ba tare da wata karamar jimla a cikinta ba?",
+      "options": [
+        "Jimla rikitacciya (complex sentence)",
+        "Babu amsa daidai",
+        "Jimla sauki (simple sentence)",
+        "Jimla hadaka (compound sentence)"
+      ],
+      "correctIndex": 2,
+      "explanation": "A simple sentence contains a single subject and a single verb (one independent clause), without additional clauses."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace kalma ce ake amfani da ita domin nuna wuri a cikin jimlar 'Littafin yana kan tebur'?",
+      "options": [
+        "Littafin",
+        "Tebur",
+        "Kan (a matsayin kalmar nuni ga wuri)",
+        "Yana"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Kan' functions here as a locative/prepositional element indicating position — 'on top of' the table."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A gidajen kalmomi na Hausa, menene ake kira canza tsarin jimla domin ta zama tambaya, misali 'Ya tafi kasuwa' zuwa 'Shin ya tafi kasuwa?'",
+      "options": [
+        "Sauya jimla zuwa jimlar tambaya",
+        "Babu wani sauyi da ya faru",
+        "Sauya jimla zuwa jimlar mamaki",
+        "Sauya jimla zuwa jimlar umarni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adding the interrogative marker 'shin' transforms a declarative sentence into a yes/no question."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ma'anar karin magana 'Kowa ya ga dan uwansa da fara, ba ya cewa jajir'?",
+      "options": [
+        "Kada ka amince da dan uwanka",
+        "Kada ka yi wa wani abu izgili domin za a iya samun irinsa a kanka",
+        "Kowa yana da hakkin dukiyar dan uwansa",
+        "Bai kamata a taimaki dan uwa ba"
+      ],
+      "correctIndex": 1,
+      "explanation": "This proverb warns against mocking others' misfortunes, since one may later find similar trouble affecting oneself or a relative."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, menene karin magana 'Hakuri maganin duniya' ke koyarwa?",
+      "options": [
+        "Kada a yi hakuri kwata-kwata",
+        "Duniya ba ta bukatar hakuri",
+        "Hakuri yana kawo talauci",
+        "Hakuri shine mafita ga matsalolin rayuwa"
+      ],
+      "correctIndex": 3,
+      "explanation": "This widely known proverb teaches that patience is the key remedy for life's many challenges and hardships."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Karin maganar 'Ruwan bagiwa ba ya kashe kishi' na koyar da",
+      "options": [
+        "Cewa kishirwa ba ta warwarewa",
+        "Cewa bagiwa dabba ce mai amfani",
+        "Cewa taimako marar gaskiya ba ya warware matsala da gaske",
+        "Cewa ruwa mai yawa yana da amfani"
+      ],
+      "correctIndex": 2,
+      "explanation": "This proverb, likening a mirage's water to false help, teaches that superficial or insincere assistance does not truly solve a problem."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace irin adabin baka ce 'kirari', wanda ake amfani da shi wajen yabon mutum ko dabba?",
+      "options": [
+        "Labarin gargadi kawai",
+        "Kalaman yabo ko siffanta wani abu ta hanyar kirari na musamman",
+        "Wakar bikin aure kadai",
+        "Kissar tarihi kawai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kirari (praise epithets) are traditional laudatory or descriptive phrases used to honour and characterise a person, animal, or lineage."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene 'tatsuniya' a adabin baka na Hausa?",
+      "options": [
+        "Wakar Islama kawai",
+        "Labarin kirkirarre wanda ake ba da shi domin nishadi da koyarwa, sau da yawa da dabbobi masu magana",
+        "Sanarwar gwamnati",
+        "Rahoto na gaskiya game da tarihin kasa"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tatsuniya is a traditional Hausa folktale, often featuring talking animals, told both for entertainment and moral instruction."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene babban dalilin ba da tatsuniya ga yara a al'adar Hausa da dare?",
+      "options": [
+        "Domin koyar da su darasi na rayuwa da kuma nishadantar da su",
+        "Domin su gaji su yi barci nan take",
+        "Domin nuna karfin murya",
+        "Babu wani dalili na musamman"
+      ],
+      "correctIndex": 0,
+      "explanation": "Storytelling sessions at night traditionally served the dual purpose of entertaining children while imparting moral and social lessons."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace irin waka ce 'wakar noma', wadda ake raira wa manoma yayin aiki a gona?",
+      "options": [
+        "Wakar yabon sarki kadai",
+        "Wakar addini kadai",
+        "Wakar aiki (work song) da ke karfafa gwiwar manoma",
+        "Wakar makoki kawai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Farming songs (wakar noma) are traditional work songs sung to encourage and energise farmers as they labour in the fields."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira gajerun jimloli masu ban dariya ko wayo da ake amfani da su domin gwada hankali, kamar 'Me ke da kai amma ba shi da jiki?'",
+      "options": [
+        "Wasan kwaikwayo",
+        "Habaici",
+        "Kirari",
+        "Kacici-kacici (riddles)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Riddles (kacici-kacici) are short witty questions used in Hausa oral tradition to test cleverness, often exchanged as a form of play."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene 'habaici' a cikin adabin baka na Hausa?",
+      "options": [
+        "Yabon da ake yi wa sarki kai tsaye",
+        "Wakar bikin suna kawai",
+        "Zambo ko sukar da ake yi wa wani a fakaice, ba tare da ambaton sunansa kai tsaye ba",
+        "Labarin tarihi na gaskiya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Habaici is an indirect form of criticism or satire, aimed at someone without directly naming them, often understood by context."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Karin maganar 'Zaman lafiya ya fi zaman dowa' na koyar da mutane su",
+      "options": [
+        "Su nemi arziki kadai",
+        "Su zauna a daji tare da dabbobi",
+        "Su ki zama tare da wasu",
+        "Ba wa zaman lafiya muhimmanci fiye da wani abu"
+      ],
+      "correctIndex": 3,
+      "explanation": "This proverb emphasises that peaceful coexistence is more valuable than wealth or comfort gained at the cost of conflict."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira wakokin da ake rerawa a wuraren shagulgulan aure na gargajiya a al'adar Hausa?",
+      "options": [
+        "Wakokin yaki",
+        "Wakokin addu'a kawai",
+        "Wakokin aure",
+        "Wakokin makoki"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wedding songs (wakokin aure) are traditional songs performed during marriage celebrations, expressing joy and blessing for the couple."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A karin magana 'In ba ka gyara gida ba, gida zai gyara ka', menene babban darasi?",
+      "options": [
+        "Ka bar gida ya ruguje",
+        "Kada ka taba gyara gida",
+        "Gida ba shi da wata alaka da mutum",
+        "Kula da abin da yake naka ko ya mallake ka"
+      ],
+      "correctIndex": 3,
+      "explanation": "This proverb teaches responsibility: if you fail to maintain what is yours, circumstances will eventually force hardship upon you."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira wakokin yabon jarumai da suka nuna gwaninta a fagen daga a tsohuwar al'ada?",
+      "options": [
+        "Wakokin yaki/jarumta",
+        "Wakokin noma",
+        "Wakokin bukukuwan suna",
+        "Wakokin addini"
+      ],
+      "correctIndex": 0,
+      "explanation": "War/heroism songs celebrated the bravery and exploits of warriors, a notable genre within traditional Hausa oral poetry."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Karin maganar 'Hannu daya ba ya daukar jinka' na nufin",
+      "options": [
+        "Kada mutane su taimaki juna",
+        "Mutum daya zai iya yin komai shi kadai",
+        "Hadin kai yana da muhimmanci wajen kammala manyan ayyuka",
+        "Jinka ba shi da nauyi"
+      ],
+      "correctIndex": 2,
+      "explanation": "This proverb ('one hand cannot carry a large calabash') stresses the importance of cooperation and unity in accomplishing big tasks."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene 'take' a cikin adabin baka, wanda ake amfani da shi wajen gabatar da wani mawaƙi ko shahararren mutum?",
+      "options": [
+        "Sanarwar gwamnati",
+        "Rubutacciyar wasika",
+        "Doguwar tatsuniya",
+        "Gajeriyar waka ta yabo da ake danganta wa mutum ko iyali"
+      ],
+      "correctIndex": 3,
+      "explanation": "A 'take' is a short praise chant or musical phrase specifically associated with an individual, family, or lineage in Hausa oral tradition."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Karin maganar 'Kowane mutum ne magajin gyaɗa' na iya nufin",
+      "options": [
+        "Gyada ba ta da wani amfani",
+        "Mutum daya ne kadai zai iya cin gyada",
+        "Kowa na iya samun rabo ko dama a wani abu na kowa",
+        "Gyada tsada ce sosai"
+      ],
+      "correctIndex": 2,
+      "explanation": "This proverb suggests that opportunities or shared resources are open to everyone, not reserved for a select few."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene manufar amfani da 'karin magana' a cikin zance na yau da kullum a al'adar Hausa?",
+      "options": [
+        "Domin dagula fahimtar mai sauraro",
+        "Domin kara wa magana armashi da isar da sako a takaice cikin hikima",
+        "Domin nuna rashin ilimi",
+        "Babu wata manufa ta musamman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proverbs enrich everyday speech, conveying wisdom and meaning concisely and adding rhetorical flair to communication."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, wa ake dauka a matsayin mai adana da isar da adabin baka daga tsara zuwa tsara?",
+      "options": [
+        "'Yan kasuwa kadai",
+        "Injiniyoyi kawai",
+        "Marubuta da masu ba da labari na gargajiya, kamar tsofaffi da mawaka",
+        "Malaman fikihu kadai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oral literature is traditionally preserved and transmitted across generations through storytellers, elders, and musicians/griots."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Karin maganar 'Gara a ce an yi wani abu ba daidai ba, da a ce ba a yi kome ba' na karfafa",
+      "options": [
+        "Cewa kuskure ba shi da illa",
+        "Muhimmancin yin kokari maimakon zaman kashe wando",
+        "Cewa a bar kokari gaba daya",
+        "Rashin bukatar yin komai"
+      ],
+      "correctIndex": 1,
+      "explanation": "This proverb encourages effort and action over idleness, suggesting it is better to try and possibly err than to do nothing at all."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira raira waka da amsa waka a tsakanin jagora da 'yan amshi a wakokin gargajiya na Hausa?",
+      "options": [
+        "Wasan kwaikwayo kadai",
+        "Jagora da amshi (call and response)",
+        "Karin magana kadai",
+        "Kacici-kacici kadai"
+      ],
+      "correctIndex": 1,
+      "explanation": "The call-and-response structure, with a lead singer (jagora) and chorus (amshi), is a defining performance feature of traditional Hausa songs."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira rubutaccen adabi na Hausa da aka fara rubutawa da rubutun Ajami kafin zuwan boko?",
+      "options": [
+        "Adabin boko",
+        "Adabin Turanci",
+        "Adabin Ajami",
+        "Adabin baka kadai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Before the introduction of the Latin-based 'boko' script, Hausa written literature was recorded using the Arabic-based Ajami script."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A tarihin adabin Hausa, wace irin gudunmawa ce marubuta irin su Abubakar Imam suka bayar?",
+      "options": [
+        "Fassara Alkur'ani zuwa Turanci",
+        "Kirkiro harshen Hausa daga farko",
+        "Rubuta litattafai da suka kafa harsashin zube na zamani a Hausa",
+        "Rubuta kundin tarihin Turai kawai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abubakar Imam is widely recognised as a foundational figure in modern Hausa prose literature, notably through works like 'Ruwan Bagaja'."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira nau'in adabi wanda aka rubuta shi bisa tsari na baiti da amsa-amo, kamar wakokin marubuta na zamani?",
+      "options": [
+        "Waka (poetry)",
+        "Kacici-kacici",
+        "Wasan kwaikwayo (drama)",
+        "Zube (prose)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poetry (waka) in written Hausa literature is typically composed in structured verses with rhyme and metre, unlike prose."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wasan kwaikwayo (drama) a matsayin nau'in rubutaccen adabi na Hausa yana da mahimmanci wajen",
+      "options": [
+        "Bayar da labarin gaskiya na tarihi kadai",
+        "Koyar da lissafi",
+        "Nuna rayuwar zamantakewa ta hanyar wasa da tattaunawa a kan dandali ko allo",
+        "Rubuta kundin addini kadai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Drama as a literary genre depicts social life through performed dialogue and action on stage or screen, distinct from prose narration."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A rubutaccen adabin Hausa, menene babban bambanci tsakanin 'zube' da 'waka'?",
+      "options": [
+        "Babu wani bambanci a tsakaninsu",
+        "Zube rubutu ne na yau da kullum ba tare da tsayayyen tsarin baiti ba, waka kuwa tana da tsari na baiti da amsa-amo",
+        "Waka ba ta da ma'ana",
+        "Zube ana rerawa ne kawai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prose (zube) is written in ordinary continuous sentences without a fixed verse structure, whereas poetry (waka) follows structured stanzas and rhyme."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace muhimmiyar rawa ce mujallar 'Gaskiya Ta Fi Kwabo' ta taka a bunkasar adabin Hausa na zamani?",
+      "options": [
+        "Ta koyar da harshen Faransanci",
+        "Ta ba da dama ga marubuta su buga labarai da rubuce-rubuce na Hausa a rubuce",
+        "Ta hana rubuta Hausa gaba daya",
+        "Ba ta da wata alaka da adabi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gaskiya Ta Fi Kwabo, a pioneering Hausa-language newspaper, provided an important early platform for published Hausa writing and literary development."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A ra'ayin gama-gari, menene babban jigon da yawancin litattafan Hausa na farko-farko suka fi mayar da hankali a kai?",
+      "options": [
+        "Kimiyyar sararin samaniya kadai",
+        "Ilmantarwa da fadakarwa game da zamantakewar al'umma",
+        "Tarihin kasashen waje kadai",
+        "Fasahar kere-kere ta zamani kadai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early Hausa novels commonly centred on social education and moral instruction relevant to the community, reflecting their didactic purpose."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wanne fanni ne ake kira nazarin marubuta da ayyukansu a tarihin adabin Hausa?",
+      "options": [
+        "Tarihin adabi (literary history)",
+        "Tsarin sauti",
+        "Ka'idojin rubutu",
+        "Gidajen kalmomi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Literary history is the study concerned with tracing writers, their works, and the development of a literary tradition over time."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira nau'in labari mai tsawo, cike da hadaddiyar makirci da yawan haruffa, a rubutaccen adabin Hausa?",
+      "options": [
+        "Waka gajera kadai",
+        "Kirari",
+        "Kacici-kacici",
+        "Littafi/Novel"
+      ],
+      "correctIndex": 3,
+      "explanation": "A novel is a long-form narrative work featuring complex plot and multiple characters, distinguished from shorter oral forms like riddles."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Me ya sa nazarin rubutaccen adabin Hausa a matakin Post-UTME/JAMB ke bukatar sanin marubuta a matakin gama-gari maimakon dukkan cikakkun bayanan labarin kowane littafi?",
+      "options": [
+        "Domin littattafai ba su da amfani a jarabawa",
+        "Domin babu wani marubuci da aka sani a Hausa",
+        "Domin auna ilimin dalibi game da muhimman marubuta da gudummawarsu ba tare da bukatar haddace kowane karamin bayani ba",
+        "Domin a guji koyar da adabi gaba daya"
+      ],
+      "correctIndex": 2,
+      "explanation": "General-level literary knowledge — recognising key authors and their significance — is typically what is assessed, rather than exhaustive plot memorisation."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira babban bikin da ake yi domin murnar kammala azumin Ramadan a al'adar Hausawa musulmi?",
+      "options": [
+        "Bikin Sharo",
+        "Bikin Kalankuwa",
+        "Sallah Karama (Idil Fitr)",
+        "Bikin Gani"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sallah Karama, corresponding to Eid al-Fitr, marks the end of the Ramadan fast and is celebrated widely among Hausa Muslims."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, menene ake kira gasar da matasa maza ke shiga domin nuna karfin jiki ta hanyar dukan juna da sanda?",
+      "options": [
+        "Kokawa kadai",
+        "Wasan gargajiya na mata",
+        "Dambe kadai",
+        "Sharo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sharo is a traditional Fulani/Hausa-associated endurance contest in which young men are struck with canes to demonstrate bravery, often as a rite of passage."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Wace irin dabi'a ake sa ran mace ta nuna a gargajiyar Hausa da ake kira 'kunya'?",
+      "options": [
+        "Ladabi, tawali'u, da girmama sauran mutane",
+        "Rashin ladabi da yawan magana",
+        "Fadan bayyane da makwabta",
+        "Nuna girman kai"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kunya' in Hausa cultural context refers to modesty, humility, and respectful decorum expected in social conduct."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira gyaran gargajiya na kayan ado na mata a al'adar Hausa, wanda ya kunshi zanen hannu da lele da lalle?",
+      "options": [
+        "Kayan yaki",
+        "Kayan sana'ar kere-kere",
+        "Kayan ado na gargajiya (kamar lalle)",
+        "Kayan aikin gona"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional adornments such as henna (lalle) designs are a well-known aspect of Hausa women's cultural beautification practices."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, menene rawar 'Sarki' a tsarin mulkin gargajiya?",
+      "options": [
+        "Malamin makaranta kadai",
+        "Ma'aikacin banki",
+        "Shugaban gargajiya da ke kula da al'amuran al'umma da tsare al'ada",
+        "Dan kasuwa kadai"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Sarki (traditional ruler/emir) serves as a customary leader overseeing communal affairs and preserving cultural traditions."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sana'ar gargajiya ta kera kayan aiki da kayan ado daga karafa a al'adar Hausa?",
+      "options": [
+        "Rini kadai",
+        "Noma kadai",
+        "Kira/Ƙirƙin ƙarfe (blacksmithing)",
+        "Saka kadai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blacksmithing is a longstanding traditional craft among the Hausa, producing tools, farming implements, and metal ornaments."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sana'ar gargajiya ta rina tufafi domin samar da launi, wadda birnin Kano ya shahara da ita?",
+      "options": [
+        "Kiwo",
+        "Kira",
+        "Rini (dyeing)",
+        "Sassaka"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kano is historically famous for its indigo dye pits, a traditional craft of dyeing cloth used to produce distinctive coloured fabrics."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, menene manufar bikin suna da ake yi wa jariri kwana bakwai bayan haihuwa?",
+      "options": [
+        "Bikin girbi ne",
+        "Nuna wa jama'a arzikin iyaye kadai",
+        "Bikin aure ne",
+        "Ba jaririn suna a hukumance tare da yin addu'o'i"
+      ],
+      "correctIndex": 3,
+      "explanation": "The naming ceremony (suna), typically held seven days after birth, formally names the child and includes prayers and blessings."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sanannen abincin gargajiya na Hausa da aka fi sani da shi, wanda ake yi da hatsi kamar dawa ko gero?",
+      "options": [
+        "Kilishi kadai",
+        "Suya kadai",
+        "Fura da nono",
+        "Tuwo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tuwo, a thick porridge typically made from grains such as guinea corn or millet, is a staple traditional Hausa dish, often served with soup."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, menene babban dalilin gudanar da 'kalankuwa', wani biki na gargajiya bayan girbi?",
+      "options": [
+        "Yin makoki",
+        "Fara noma sabon lokaci",
+        "Fara sabon shekara ta Musulunci kadai",
+        "Nuna godiya bayan an gama girbi tare da nishadantar da al'umma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kalankuwa is a traditional post-harvest festival celebrating a successful farming season and giving thanks, while entertaining the community."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene rawar da dattawa (elders) ke takawa a warware rikice-rikice a al'adar Hausa ta gargajiya?",
+      "options": [
+        "Su ne kadai ke da hakkin yin sana'a",
+        "Ba su da wata rawa a warware rikici",
+        "Suna zama alkalai na gargajiya wajen sasanta sabani cikin hikima",
+        "Suna kula da makarantu kadai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elders traditionally play a respected mediating role, using wisdom and social standing to resolve disputes within the community."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira gargajiyar Hausawa ta gaisuwa da rungumar juna tsakanin tsofaffi da matasa domin nuna girmamawa?",
+      "options": [
+        "Fadar magana ba tare da gaisuwa ba",
+        "Rashin gaisuwa",
+        "Kin amincewa da girmamawa",
+        "Gaisuwa da ladabi (greeting etiquette)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elaborate, respectful greeting customs — differing by age and status — are a core feature of Hausa social etiquette."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira kayan kide-kide na gargajiya na Hausa wanda ake amfani da fata domin samar da sauti, kuma ana amfani da shi wajen yabon sarki?",
+      "options": [
+        "Kuntigi kadai",
+        "Goge kadai",
+        "Algaita ba ta amfani da fata",
+        "Tambari/Ganga (drum)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional drums (such as tambari and ganga), made using stretched skins/hides, are commonly used in royal praise music and ceremonies."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, wace kalma ce ake amfani da ita domin nuna hadin kan iyali fadada wanda ya hada da kakanni, iyaye, da 'ya'ya?",
+      "options": [
+        "Majalisa",
+        "Kungiya",
+        "Iyali/Dangi",
+        "Kasuwa"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Dangi' or 'iyali' refers to the extended family unit central to Hausa social organisation, including grandparents, parents, and children."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sana'ar gargajiya ta saka tufafi da kayan gida daga zaren auduga a al'adar Hausa?",
+      "options": [
+        "Saka (weaving)",
+        "Kamun kifi kadai",
+        "Noma kadai",
+        "Kira"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weaving (saka) using cotton thread to produce cloth and household items is a well-established traditional Hausa craft."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira sana'ar gargajiya ta kira baƙin ƙarfe don yin kayan aiki a al'adar Hausa?",
+      "options": [
+        "Saƙa",
+        "Kira (blacksmithing)",
+        "Sassaka kawai",
+        "Rini"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blacksmithing (kira) has traditionally been an important craft in Hausa society, producing farming tools and implements."
+    },
+    {
+      "subject": "Hausa",
+      "text": "A al'adar Hausa, menene ake kira sana'ar rini na gargajiya da ake yi domin canza launin tufafi?",
+      "options": [
+        "Noma",
+        "Kira",
+        "Saƙa kawai",
+        "Rini (dyeing)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional dyeing (rini), especially of indigo cloth, is a well-known craft associated with Hausa cities like Kano."
+    },
+    {
+      "subject": "Hausa",
+      "text": "Menene ake kira taron gargajiya na jama'a domin tattaunawa kan al'amuran al'umma a ƙarƙashin jagorancin sarki ko hakimi?",
+      "options": [
+        "Wasan kwaikwayo",
+        "Bikin aure",
+        "Majalisa/taro (council/assembly)",
+        "Kasuwa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditional councils or assemblies (majalisa) convened under a chief or emir served as forums for community deliberation."
+    }
+  ]
+}

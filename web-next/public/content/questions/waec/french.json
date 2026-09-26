@@ -1,0 +1,1206 @@
+{
+  "subject": "French",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "French",
+      "text": "Complétez : '___ chat de ma sœur est très joueur.' (Choose the correct definite article.)",
+      "options": [
+        "Les",
+        "Le",
+        "La",
+        "L'"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Chat' is a masculine singular noun, so it takes the masculine definite article 'le'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez : '___ eau de cette rivière est très claire.' (Choose the correct definite article.)",
+      "options": [
+        "Le",
+        "Les",
+        "La",
+        "L'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a vowel sound, 'le' and 'la' both elide to 'l'', so 'eau' (feminine, starting with a vowel) takes 'l''."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'article indéfini correct dans la phrase : 'J'ai vu ___ oiseau dans le jardin' ?",
+      "options": [
+        "un",
+        "le",
+        "une",
+        "des"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Oiseau' is a masculine singular noun, so it takes the masculine indefinite article 'un'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'article indéfini correct dans la phrase : 'Elle a acheté ___ pomme au marché' ?",
+      "options": [
+        "un",
+        "des",
+        "une",
+        "la"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Pomme' is a feminine singular noun, so it takes the feminine indefinite article 'une'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez avec l'article partitif correct : 'Je voudrais ___ eau, s'il vous plaît.'",
+      "options": [
+        "de la",
+        "de l'",
+        "des",
+        "du"
+      ],
+      "correctIndex": 1,
+      "explanation": "Before a vowel sound, the partitive article becomes 'de l'', regardless of gender, as with 'eau'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez avec l'article partitif correct : 'Nous mangeons ___ pain tous les matins.'",
+      "options": [
+        "de l'",
+        "du",
+        "de la",
+        "des"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pain' is a masculine singular noun, so it takes the masculine partitive article 'du' (contraction of 'de le')."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez avec l'article partitif correct : 'Elle boit ___ confiture avec son pain.' (Attention : le mot correct concerne un aliment féminin.)",
+      "options": [
+        "de l'",
+        "du",
+        "de la",
+        "des"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Confiture' (jam) is a feminine singular noun, so it takes the feminine partitive article 'de la'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'article contracté correct dans : 'Il va ___ marché tous les samedis' ?",
+      "options": [
+        "à le",
+        "à la",
+        "au",
+        "aux"
+      ],
+      "correctIndex": 2,
+      "explanation": "'À' + 'le' contracts to 'au' before a masculine singular noun such as 'marché'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'article contracté correct dans : 'Nous parlons ___ enfants.' (à + les enfants)",
+      "options": [
+        "à les",
+        "au",
+        "à la",
+        "aux"
+      ],
+      "correctIndex": 3,
+      "explanation": "'À' + 'les' always contracts to 'aux', regardless of gender, as in 'aux enfants'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'article contracté correct dans : 'Elle revient ___ marché.' (de + le marché)",
+      "options": [
+        "des",
+        "de le",
+        "du",
+        "de la"
+      ],
+      "correctIndex": 2,
+      "explanation": "'De' + 'le' contracts to 'du' before a masculine singular noun such as 'marché'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le pluriel correct du nom 'cheval' ?",
+      "options": [
+        "chevaus",
+        "chevals",
+        "chevaux",
+        "chevales"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nouns ending in '-al' typically form their plural in '-aux', so 'cheval' becomes 'chevaux'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le pluriel correct du nom 'journal' ?",
+      "options": [
+        "journales",
+        "journaux",
+        "journeaux",
+        "journals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Like 'cheval', 'journal' follows the '-al' to '-aux' plural pattern, becoming 'journaux'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'parler' au présent avec le sujet 'nous' ?",
+      "options": [
+        "parle",
+        "parles",
+        "parlons",
+        "parlez"
+      ],
+      "correctIndex": 2,
+      "explanation": "Regular '-er' verbs conjugate 'nous' with the ending '-ons': 'nous parlons'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'finir' au présent avec le sujet 'ils' ?",
+      "options": [
+        "finit",
+        "finissons",
+        "finis",
+        "finissent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regular '-ir' verbs like 'finir' conjugate 'ils/elles' with the ending '-issent': 'ils finissent'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'vendre' au présent avec le sujet 'tu' ?",
+      "options": [
+        "vend",
+        "vends",
+        "vendez",
+        "vendons"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regular '-re' verbs like 'vendre' conjugate 'tu' with the ending '-s': 'tu vends'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'être' au présent avec le sujet 'vous' ?",
+      "options": [
+        "sont",
+        "êtes",
+        "es",
+        "sommes"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Être' is a highly irregular verb; its 'vous' form in the present tense is 'êtes'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'avoir' au présent avec le sujet 'ils' ?",
+      "options": [
+        "avez",
+        "avons",
+        "ont",
+        "a"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Avoir' is irregular; its 'ils/elles' form in the present tense is 'ont'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'aller' au présent avec le sujet 'je' ?",
+      "options": [
+        "va",
+        "vas",
+        "allons",
+        "vais"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Aller' is highly irregular; its 'je' form in the present tense is 'vais'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'faire' au présent avec le sujet 'nous' ?",
+      "options": [
+        "fais",
+        "font",
+        "faites",
+        "faisons"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Faire' is irregular; its 'nous' form in the present tense is 'faisons'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'vouloir' au présent avec le sujet 'elle' ?",
+      "options": [
+        "veux",
+        "veulent",
+        "veut",
+        "voulons"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Vouloir' is irregular; its 'il/elle' form in the present tense is 'veut'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe 'pouvoir' au présent avec le sujet 'tu' ?",
+      "options": [
+        "peux",
+        "pouvez",
+        "pouvons",
+        "peut"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pouvoir' is irregular; its 'tu' form in the present tense is 'peux'."
+    },
+    {
+      "subject": "French",
+      "text": "Le passé composé du verbe 'manger' avec le sujet 'il' est",
+      "options": [
+        "il mangeait",
+        "il a mangé",
+        "il est mangé",
+        "il mange"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Manger' is conjugated in the passé composé with the auxiliary 'avoir', so 'il a mangé' is correct."
+    },
+    {
+      "subject": "French",
+      "text": "Le passé composé du verbe 'aller' avec le sujet 'elle' est",
+      "options": [
+        "elle allait",
+        "elle est allée",
+        "elle va",
+        "elle a allé"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Aller' is one of the verbs of movement conjugated with 'être' in the passé composé, requiring agreement: 'elle est allée'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'Elles sont arrivées tôt', l'accord du participe passé 'arrivées' se justifie parce que",
+      "options": [
+        "il n'y a jamais d'accord avec 'être'",
+        "le verbe est conjugué avec 'avoir'",
+        "le verbe est conjugué avec 'être' et s'accorde avec le sujet féminin pluriel 'elles'",
+        "le sujet est masculin singulier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Verbs conjugated with 'être' in the passé composé must agree in gender and number with the subject, hence 'arrivées' for the feminine plural 'elles'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte de l'imparfait du verbe 'être' avec le sujet 'nous' ?",
+      "options": [
+        "étions",
+        "sommes",
+        "fûmes",
+        "serons"
+      ],
+      "correctIndex": 0,
+      "explanation": "The imparfait of 'être' with 'nous' is 'étions', used to describe ongoing or habitual past actions."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du futur simple du verbe 'parler' avec le sujet 'tu' ?",
+      "options": [
+        "parleras",
+        "parlais",
+        "parlerais",
+        "parles"
+      ],
+      "correctIndex": 0,
+      "explanation": "The futur simple of regular '-er' verbs adds endings to the infinitive; 'tu' takes '-as', giving 'tu parleras'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la construction correcte du futur proche pour exprimer 'Je vais manger' ?",
+      "options": [
+        "le futur simple seul",
+        "être (au présent) + participe passé",
+        "avoir (au présent) + participe passé",
+        "aller (au présent) + infinitif"
+      ],
+      "correctIndex": 3,
+      "explanation": "The futur proche is formed with the present tense of 'aller' followed by an infinitive, as in 'je vais manger'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du conditionnel présent du verbe 'vouloir' avec le sujet 'je' ?",
+      "options": [
+        "veux",
+        "voudrai",
+        "voulais",
+        "voudrais"
+      ],
+      "correctIndex": 3,
+      "explanation": "The conditionnel présent of 'vouloir' with 'je' is 'voudrais', commonly used to make polite requests."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte de l'impératif du verbe 'parler' pour donner un ordre à 'tu' ?",
+      "options": [
+        "Parler !",
+        "Parle !",
+        "Parles !",
+        "Parlez !"
+      ],
+      "correctIndex": 1,
+      "explanation": "The imperative of regular '-er' verbs drops the final 's' from the 'tu' form, giving 'Parle !' rather than 'Parles'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe pronominal 'se laver' au présent avec le sujet 'je' ?",
+      "options": [
+        "je te laves",
+        "je laves",
+        "je me lave",
+        "je se lave"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reflexive verbs require a matching reflexive pronoun; 'je' pairs with 'me', giving 'je me lave'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte du verbe pronominal 'se lever' au présent avec le sujet 'nous' ?",
+      "options": [
+        "nous se levons",
+        "nous nous levons",
+        "nous vous levez",
+        "nous levons"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nous' pairs with the reflexive pronoun 'nous', giving 'nous nous levons'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'Je le vois tous les jours', le mot 'le' est un pronom",
+      "options": [
+        "pronom démonstratif",
+        "pronom relatif",
+        "complément d'objet indirect (COI)",
+        "complément d'objet direct (COD)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Le' here directly replaces the object being seen, functioning as a direct object pronoun (COD)."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'Je lui parle souvent', le mot 'lui' est un pronom",
+      "options": [
+        "pronom sujet",
+        "complément d'objet indirect (COI)",
+        "complément d'objet direct (COD)",
+        "pronom relatif"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Lui' replaces an indirect object introduced by 'à' (parler à quelqu'un), functioning as an indirect object pronoun (COI)."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'C'est moi qui ai raison', le mot 'moi' est un pronom",
+      "options": [
+        "complément d'objet direct",
+        "tonique (emphatique)",
+        "relatif",
+        "possessif"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Moi' here is an emphatic (tonic/stressed) pronoun, used for emphasis rather than as a grammatical object."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez avec le pronom relatif correct : 'Voici le livre ___ j'ai acheté hier.'",
+      "options": [
+        "dont",
+        "où",
+        "que",
+        "qui"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Que' is used as a relative pronoun replacing the direct object of the relative clause, referring to 'le livre'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez avec le pronom relatif correct : 'C'est la fille ___ habite à côté de chez moi.'",
+      "options": [
+        "que",
+        "où",
+        "dont",
+        "qui"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Qui' is used as a relative pronoun replacing the subject of the relative clause, here referring to 'la fille'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez avec le pronom relatif correct : 'Voici la maison ___ je suis né.'",
+      "options": [
+        "où",
+        "dont",
+        "que",
+        "qui"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Où' is used as a relative pronoun to refer to a place, here indicating the house where the speaker was born."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'J'y vais tous les jours', le pronom adverbial 'y' remplace généralement",
+      "options": [
+        "un adjectif possessif",
+        "un nombre ou une quantité",
+        "un complément de lieu introduit par 'à' ou une préposition de lieu",
+        "une personne complément d'objet direct"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Y' typically replaces a location or a phrase introduced by 'à', commonly indicating 'there'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans la phrase 'J'en ai trois', le pronom adverbial 'en' remplace généralement",
+      "options": [
+        "une quantité ou un complément introduit par 'de'",
+        "un pronom sujet",
+        "un adjectif démonstratif",
+        "un lieu introduit par 'à'"
+      ],
+      "correctIndex": 0,
+      "explanation": "'En' typically replaces a quantity or a noun phrase introduced by 'de', as in 'j'en ai trois' (I have three of them)."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'adjectif possessif correct dans la phrase : '___ mère travaille à l'hôpital.' (à la première personne du singulier)",
+      "options": [
+        "Ma",
+        "Son",
+        "Mes",
+        "Mon"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mère' is feminine singular, so the possessive adjective 'ma' is correct for the first person singular."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'adjectif possessif correct dans la phrase : '___ ami vient de la France.' (à la première personne du singulier, devant une voyelle)",
+      "options": [
+        "Ma",
+        "Mes",
+        "Ton",
+        "Mon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Before a masculine noun starting with a vowel like 'ami', 'mon' is used even though 'ami' could be feminine in some contexts, following the liaison rule."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'adjectif démonstratif correct dans la phrase : '___ livre est très intéressant.'",
+      "options": [
+        "Ce",
+        "Cet",
+        "Cette",
+        "Ces"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Livre' is a masculine singular noun beginning with a consonant, so it takes the demonstrative adjective 'ce'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est l'adjectif démonstratif correct dans la phrase : '___ homme est mon professeur.'",
+      "options": [
+        "Cette",
+        "Ces",
+        "Cet",
+        "Ce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Before a masculine singular noun starting with a vowel sound, such as 'homme', the demonstrative adjective becomes 'cet'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle est la forme correcte de l'adjectif 'beau' devant un nom masculin singulier commençant par une voyelle, comme 'arbre' ?",
+      "options": [
+        "beau",
+        "beaux",
+        "bel",
+        "belle"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Beau' changes to 'bel' before a masculine singular noun beginning with a vowel or mute 'h', as in 'un bel arbre'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez la comparaison : 'Marie est ___ grande que sa sœur.' (égalité)",
+      "options": [
+        "aussi",
+        "plus",
+        "très",
+        "moins"
+      ],
+      "correctIndex": 0,
+      "explanation": "The structure 'aussi...que' expresses equality in comparisons, meaning 'as tall as'."
+    },
+    {
+      "subject": "French",
+      "text": "Complétez la comparaison : 'Ce livre est ___ intéressant que l'autre.' (supériorité)",
+      "options": [
+        "plus",
+        "aussi",
+        "très",
+        "moins"
+      ],
+      "correctIndex": 0,
+      "explanation": "The structure 'plus...que' expresses superiority in comparisons, meaning 'more interesting than'."
+    },
+    {
+      "subject": "French",
+      "text": "Quel est le superlatif correct pour 'la fille la plus intelligente de la classe' ?",
+      "options": [
+        "moins intelligente",
+        "aussi intelligente",
+        "plus intelligente",
+        "la plus intelligente"
+      ],
+      "correctIndex": 3,
+      "explanation": "The superlative form uses the definite article plus 'plus/moins' and the adjective, as in 'la plus intelligente'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle préposition est correcte devant un pays féminin, comme 'France', dans la phrase : 'Il habite ___ France' ?",
+      "options": [
+        "à",
+        "en",
+        "au",
+        "aux"
+      ],
+      "correctIndex": 1,
+      "explanation": "Feminine country names generally take the preposition 'en', as in 'en France'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle préposition est correcte devant un pays masculin, comme 'Sénégal', dans la phrase : 'Il habite ___ Sénégal' ?",
+      "options": [
+        "en",
+        "à",
+        "au",
+        "aux"
+      ],
+      "correctIndex": 2,
+      "explanation": "Masculine singular country names generally take the preposition 'au', as in 'au Sénégal'."
+    },
+    {
+      "subject": "French",
+      "text": "Quelle préposition est correcte devant un pays pluriel, comme 'États-Unis', dans la phrase : 'Il habite ___ États-Unis' ?",
+      "options": [
+        "en",
+        "à",
+        "aux",
+        "au"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plural country names take the preposition 'aux', as in 'aux États-Unis'."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'family' est",
+      "options": [
+        "la famille",
+        "la santé",
+        "le travail",
+        "l'école"
+      ],
+      "correctIndex": 0,
+      "explanation": "'La famille' is the standard French word for 'family', a common theme in everyday vocabulary."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'school' est",
+      "options": [
+        "le marché",
+        "l'école",
+        "l'hôpital",
+        "la famille"
+      ],
+      "correctIndex": 1,
+      "explanation": "'L'école' is the standard French word for 'school'."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'profession/job' est",
+      "options": [
+        "le transport",
+        "le métier",
+        "l'environnement",
+        "la santé"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Le métier' commonly refers to a profession, trade, or occupation in French."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'health' is",
+      "options": [
+        "la technologie",
+        "la santé",
+        "le métier",
+        "le transport"
+      ],
+      "correctIndex": 1,
+      "explanation": "'La santé' is the standard French term for health, commonly used in medical and wellbeing contexts."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'shopping' est",
+      "options": [
+        "le transport",
+        "l'environnement",
+        "la culture",
+        "les achats (faire du shopping)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Les achats' or the expression 'faire du shopping' both relate to the activity of shopping in French."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'transport/means of transportation' est",
+      "options": [
+        "la santé",
+        "l'environnement",
+        "le métier",
+        "le transport"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Le transport' directly corresponds to 'transport' in English, covering means of getting from place to place."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'technology' est",
+      "options": [
+        "le métier",
+        "la santé",
+        "la technologie",
+        "la culture"
+      ],
+      "correctIndex": 2,
+      "explanation": "'La technologie' is the French equivalent for 'technology'."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'culture' est",
+      "options": [
+        "la culture",
+        "la technologie",
+        "le transport",
+        "l'environnement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'La culture' directly corresponds to the English word 'culture'."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'environment' est",
+      "options": [
+        "l'environnement",
+        "le métier",
+        "la santé",
+        "la technologie"
+      ],
+      "correctIndex": 0,
+      "explanation": "'L'environnement' is the standard French term for the natural or surrounding environment."
+    },
+    {
+      "subject": "French",
+      "text": "Dans un texte, un mot ayant presque le même sens qu'un autre mot est appelé un",
+      "options": [
+        "antonyme",
+        "pronom",
+        "homonyme",
+        "synonyme"
+      ],
+      "correctIndex": 3,
+      "explanation": "A synonym is a word with a similar meaning to another word, an important concept in vocabulary and comprehension exercises."
+    },
+    {
+      "subject": "French",
+      "text": "Dans un texte, un mot ayant le sens opposé à un autre mot est appelé un",
+      "options": [
+        "antonyme",
+        "homonyme",
+        "adjectif",
+        "synonyme"
+      ],
+      "correctIndex": 0,
+      "explanation": "An antonym is a word with the opposite meaning to another word."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot 'content' dans le contexte 'Il est content de son travail' signifie",
+      "options": [
+        "fatigué",
+        "en colère",
+        "triste",
+        "heureux, satisfait"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Content' in this context means happy or satisfied, a common adjective describing emotional states in French."
+    },
+    {
+      "subject": "French",
+      "text": "Lorsqu'on demande 'Que veut dire ce mot dans le contexte ?', on cherche à évaluer la compréhension",
+      "options": [
+        "uniquement de la conjugaison des verbes",
+        "du sens contextuel implicite du texte",
+        "uniquement de l'orthographe",
+        "uniquement de la grammaire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Understanding a word's meaning from context tests a reader's ability to grasp implicit meaning beyond a simple dictionary definition."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot 'ancien(ne)' peut signifier, selon le contexte, soit 'former' soit",
+      "options": [
+        "'young'",
+        "'old' (ancien bâtiment)",
+        "'new'",
+        "'modern'"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ancien(ne)' can mean 'former' when placed before a noun (l'ancien président) or 'old/ancient' when placed after (un bâtiment ancien)."
+    },
+    {
+      "subject": "French",
+      "text": "Le texte narratif se caractérise principalement par",
+      "options": [
+        "la simple énumération de définitions",
+        "l'absence totale de personnages",
+        "l'utilisation exclusive de dialogues sans narration",
+        "le récit d'événements dans un ordre chronologique ou logique"
+      ],
+      "correctIndex": 3,
+      "explanation": "Narrative texts are characterised by telling a sequence of events, typically involving characters and a storyline."
+    },
+    {
+      "subject": "French",
+      "text": "Le texte descriptif se caractérise principalement par",
+      "options": [
+        "des dialogues uniquement, sans description",
+        "la présentation d'arguments logiques uniquement",
+        "la description détaillée de personnes, lieux, ou objets",
+        "des instructions étape par étape"
+      ],
+      "correctIndex": 2,
+      "explanation": "Descriptive texts focus on providing detailed depictions of people, places, or objects, often appealing to the senses."
+    },
+    {
+      "subject": "French",
+      "text": "Le texte explicatif (expositif) se caractérise principalement par",
+      "options": [
+        "l'utilisation exclusive de rimes et de vers",
+        "l'expression exclusive de sentiments personnels",
+        "la narration d'une histoire fictive",
+        "la présentation claire d'informations ou d'explications sur un sujet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Expository (explanatory) texts aim to clearly present factual information or explain a topic, rather than tell a story or describe scenes."
+    },
+    {
+      "subject": "French",
+      "text": "Dans un texte, extraire un détail explicite signifie",
+      "options": [
+        "traduire le texte dans une autre langue",
+        "trouver une information clairement énoncée dans le texte",
+        "deviner une information non mentionnée du tout",
+        "ignorer le contenu du texte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Extracting an explicit detail involves locating information that is directly and clearly stated within the text."
+    },
+    {
+      "subject": "French",
+      "text": "Dans un texte, comprendre un détail implicite signifie",
+      "options": [
+        "déduire une information suggérée mais non directement énoncée",
+        "traduire chaque mot littéralement",
+        "copier une phrase exacte du texte",
+        "ignorer le sens général du texte"
+      ],
+      "correctIndex": 0,
+      "explanation": "An implicit detail requires the reader to infer meaning that is suggested by the text but not directly stated."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'nutrition/food' dans un contexte de santé est souvent",
+      "options": [
+        "le transport",
+        "la technologie",
+        "l'alimentation",
+        "l'environnement"
+      ],
+      "correctIndex": 2,
+      "explanation": "'L'alimentation' refers to food and nutrition, a common vocabulary theme in health-related French texts."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'neighbourhood/district' est",
+      "options": [
+        "le quartier",
+        "la santé",
+        "l'alimentation",
+        "le métier"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Le quartier' refers to a neighbourhood or district within a town or city, a common vocabulary item in descriptive texts."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'weather/climate' est",
+      "options": [
+        "la culture",
+        "le métier",
+        "la technologie",
+        "le temps (le climat)"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Le temps' commonly refers to the weather, while 'le climat' refers more specifically to climate."
+    },
+    {
+      "subject": "French",
+      "text": "Dans un texte expositif sur l'environnement, le mot 'pollution' fait référence à",
+      "options": [
+        "la culture traditionnelle d'un pays",
+        "un moyen de transport rapide",
+        "la contamination de l'air, de l'eau, ou du sol par des substances nuisibles",
+        "un type de vêtement traditionnel"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Pollution' refers to the contamination of the environment, such as air, water, or soil, by harmful substances."
+    },
+    {
+      "subject": "French",
+      "text": "Le mot français pour 'to attend school/to be a student' est le mieux traduit par",
+      "options": [
+        "enseigner à l'école",
+        "fréquenter l'école / être élève",
+        "quitter l'école",
+        "construire une école"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Fréquenter l'école' or 'être élève' both describe the act of attending school as a student."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une lettre formelle en français, la formule d'appel appropriée pour s'adresser à un directeur inconnu est",
+      "options": [
+        "Coucou,",
+        "Cher ami,",
+        "Salut mon pote,",
+        "Monsieur le Directeur,"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formal letters require respectful, professional greetings such as 'Monsieur le Directeur,' rather than casual expressions."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une lettre formelle en français, la formule de politesse finale la plus appropriée est",
+      "options": [
+        "Salut,",
+        "Gros bisous,",
+        "Veuillez agréer, Monsieur, l'expression de mes salutations distinguées.",
+        "À plus tard,"
+      ],
+      "correctIndex": 2,
+      "explanation": "Formal French letters conventionally end with an elaborate, respectful closing phrase such as this one, rather than an informal sign-off."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une lettre informelle à un ami, la formule d'appel appropriée est généralement",
+      "options": [
+        "Cher/Chère + prénom,",
+        "À l'attention de Monsieur,",
+        "Monsieur le Directeur,",
+        "Madame la Présidente,"
+      ],
+      "correctIndex": 0,
+      "explanation": "Informal letters to friends typically use warm, familiar greetings such as 'Cher/Chère' followed by the person's first name."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une lettre informelle, une formule de clôture courante et appropriée est",
+      "options": [
+        "Dans l'attente de votre réponse officielle,",
+        "Je vous prie d'agréer mes respects.",
+        "Veuillez agréer, Monsieur, mes salutations distinguées.",
+        "Grosses bises,"
+      ],
+      "correctIndex": 3,
+      "explanation": "Informal letters commonly close with warm, affectionate phrases like 'Grosses bises' rather than the elaborate formal closings used in business correspondence."
+    },
+    {
+      "subject": "French",
+      "text": "Une lettre de candidature (lettre de motivation) est un exemple de",
+      "options": [
+        "lettre formelle",
+        "texte purement descriptif",
+        "lettre informelle uniquement",
+        "poème"
+      ],
+      "correctIndex": 0,
+      "explanation": "A job application letter (lettre de motivation) is a formal letter, requiring professional tone, structure, and closing formulas."
+    },
+    {
+      "subject": "French",
+      "text": "Pour écrire une composition sur 'Mon dernier voyage', il est important de",
+      "options": [
+        "structurer le récit de façon chronologique, avec une introduction, un développement, et une conclusion",
+        "ignorer complètement la description du lieu visité",
+        "écrire uniquement une liste de mots sans phrases complètes",
+        "éviter d'utiliser le passé composé ou l'imparfait"
+      ],
+      "correctIndex": 0,
+      "explanation": "A well-organised narrative essay, such as recounting a trip, should follow a clear chronological structure with an introduction, body, and conclusion."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une composition narrative comme 'Une journée inoubliable', le temps verbal le plus couramment utilisé pour raconter les événements principaux est",
+      "options": [
+        "le passé composé",
+        "l'impératif uniquement",
+        "le conditionnel uniquement",
+        "le futur simple uniquement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Narrating completed past events, as in recounting a memorable day, typically relies on the passé composé (and often the imparfait for background description)."
+    },
+    {
+      "subject": "French",
+      "text": "La limite de mots généralement recommandée pour une composition WAEC en français est d'environ",
+      "options": [
+        "20 à 30 mots",
+        "150 à 200 mots",
+        "1000 à 1500 mots",
+        "5 à 10 mots"
+      ],
+      "correctIndex": 1,
+      "explanation": "WAEC French compositions are typically expected to fall within a range of about 150 to 200 words."
+    },
+    {
+      "subject": "French",
+      "text": "Un essai argumentatif sur un sujet social simple devrait principalement",
+      "options": [
+        "présenter un point de vue clair, soutenu par des raisons et des exemples",
+        "ignorer complètement la structure en paragraphes",
+        "se limiter à une liste de vocabulaire sans phrases",
+        "éviter d'exprimer toute opinion personnelle"
+      ],
+      "correctIndex": 0,
+      "explanation": "An argumentative essay should clearly present a viewpoint, supported by reasoning and relevant examples, organised into coherent paragraphs."
+    },
+    {
+      "subject": "French",
+      "text": "Une bonne composition descriptive, comme la description d'un lieu, devrait inclure",
+      "options": [
+        "uniquement des chiffres et des statistiques",
+        "aucune information sur le décor ou l'ambiance",
+        "une liste de verbes à l'infinitif sans contexte",
+        "des détails sensoriels précis, tels que les couleurs, les sons, et les sensations"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective descriptive writing uses vivid sensory details, such as colours, sounds, and feelings, to bring a scene or place to life for the reader."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une lettre formelle, il est important d'inclure, en haut de la page, l'adresse de l'expéditeur suivie généralement",
+      "options": [
+        "de la date",
+        "d'un dessin",
+        "d'une liste de courses",
+        "d'un poème"
+      ],
+      "correctIndex": 0,
+      "explanation": "Formal letters conventionally begin with the sender's address followed by the date, before moving to the recipient's details and the letter's body."
+    },
+    {
+      "subject": "French",
+      "text": "Dans une composition, l'utilisation de connecteurs logiques tels que 'd'abord', 'ensuite', et 'enfin' sert principalement à",
+      "options": [
+        "remplacer complètement la ponctuation",
+        "organiser clairement les idées dans un ordre logique",
+        "éviter toute structure en paragraphes",
+        "compliquer inutilement la lecture du texte"
+      ],
+      "correctIndex": 1,
+      "explanation": "Logical connectors like 'd'abord' (first), 'ensuite' (next), and 'enfin' (finally) help organise ideas clearly and guide the reader through the sequence of events or arguments."
+    },
+    {
+      "subject": "French",
+      "text": "Avant de soumettre une composition, il est conseillé de",
+      "options": [
+        "supprimer toute la conclusion",
+        "soumettre immédiatement sans relecture",
+        "ignorer les fautes d'accord des verbes",
+        "relire le texte pour vérifier la grammaire, l'orthographe, et la cohérence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proofreading a composition before submission helps catch grammar, spelling, and coherence issues, improving the overall quality of the written work."
+    },
+    {
+      "subject": "French",
+      "text": "Dans l'examen oral de français, la 'liaison' se réfère à",
+      "options": [
+        "la lecture silencieuse d'un texte",
+        "la traduction écrite d'un texte",
+        "l'utilisation exclusive de mots isolés sans phrases",
+        "la prononciation enchaînée d'une consonne finale normalement muette avec la voyelle du mot suivant"
+      ],
+      "correctIndex": 3,
+      "explanation": "Liaison involves pronouncing a normally silent final consonant when the next word begins with a vowel sound, as in 'les amis' pronounced 'lezami'."
+    },
+    {
+      "subject": "French",
+      "text": "Dans l'expression orale, l'intonation se réfère principalement à",
+      "options": [
+        "le choix du vocabulaire uniquement",
+        "la variation de la hauteur et du ton de la voix pendant la parole",
+        "la structure grammaticale des phrases écrites",
+        "l'orthographe correcte des mots"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intonation concerns the rise and fall of the voice's pitch while speaking, which affects meaning and emphasis in spoken French."
+    },
+    {
+      "subject": "French",
+      "text": "Une bonne prononciation en français exige, entre autres, une attention particulière aux",
+      "options": [
+        "règles de ponctuation à l'écrit uniquement",
+        "seules les consonnes finales, en ignorant les voyelles",
+        "structures grammaticales seulement, sans phonétique",
+        "voyelles nasales, telles que celles trouvées dans 'un', 'bon', et 'sans'"
+      ],
+      "correctIndex": 3,
+      "explanation": "Correct pronunciation in French requires careful attention to nasal vowel sounds, which do not exist in the same way in many other languages."
+    },
+    {
+      "subject": "French",
+      "text": "Lors de l'examen oral, il est important de répondre aux questions de l'examinateur de manière",
+      "options": [
+        "monosyllabique, avec des réponses de un seul mot",
+        "silencieuse, sans aucune réponse verbale",
+        "entièrement écrite plutôt qu'orale",
+        "claire, fluide, et grammaticalement correcte"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oral examinations assess a candidate's ability to respond clearly, fluently, and with grammatical accuracy in spoken French."
+    },
+    {
+      "subject": "French",
+      "text": "Un jeu de rôle (roleplay) typique lors de l'examen oral pourrait porter sur",
+      "options": [
+        "un débat sur la physique quantique",
+        "une situation quotidienne, comme faire des achats dans un magasin",
+        "la résolution d'une équation mathématique complexe",
+        "l'analyse chimique d'un composé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oral roleplays commonly involve everyday situations, such as shopping, ordering food, or asking for directions, testing practical communication skills."
+    },
+    {
+      "subject": "French",
+      "text": "Lorsqu'on lit un texte à voix haute en français, il est important de respecter",
+      "options": [
+        "uniquement la vitesse de lecture, sans autre considération",
+        "la traduction simultanée en anglais",
+        "le rythme, l'accentuation, et la ponctuation du texte",
+        "le silence total sans articulation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reading aloud effectively requires attention to rhythm, stress, and punctuation, all of which affect clarity and natural-sounding speech."
+    },
+    {
+      "subject": "French",
+      "text": "Une question typique posée par l'examinateur lors de l'oral pourrait être",
+      "options": [
+        "'Parlez-moi de votre famille.'",
+        "'Dessinez une carte du monde.'",
+        "'Résolvez cette équation.'",
+        "'Écrivez un poème en anglais.'"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oral examiners commonly ask personal, conversational questions about topics such as family, school, or future plans to assess spoken fluency."
+    },
+    {
+      "subject": "French",
+      "text": "Pour bien réussir l'oral, un candidat devrait éviter de",
+      "options": [
+        "écouter attentivement les questions de l'examinateur",
+        "parler trop vite sans articuler clairement",
+        "pratiquer la prononciation à l'avance",
+        "utiliser un vocabulaire varié et approprié"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speaking too quickly without clear articulation can hinder communication and comprehension during an oral exam, so candidates should aim for clarity."
+    },
+    {
+      "subject": "French",
+      "text": "La différence entre les voyelles ouvertes et fermées en français, comme dans 'é' et 'è', concerne principalement",
+      "options": [
+        "uniquement l'orthographe du mot",
+        "le genre grammatical du mot",
+        "la position de la bouche et la tension des muscles lors de la prononciation",
+        "la longueur du mot à l'écrit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Open and closed vowel sounds in French, such as the distinction between 'é' and 'è', depend on mouth position and muscle tension during articulation."
+    },
+    {
+      "subject": "French",
+      "text": "Un candidat qui répond avec confiance et un vocabulaire riche lors de l'oral démontre généralement",
+      "options": [
+        "une connaissance uniquement de la grammaire écrite",
+        "une bonne maîtrise de la langue parlée",
+        "une incapacité à comprendre les questions posées",
+        "un manque total de préparation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Confident, articulate responses with varied vocabulary typically reflect a strong command of spoken French, which examiners look for in oral assessments."
+    },
+    {
+      "subject": "French",
+      "text": "Le 'e muet' (silent 'e') à la fin de nombreux mots français, comme dans 'porte', signifie généralement que",
+      "options": [
+        "cette lettre doit toujours être fortement accentuée",
+        "cette lettre finale n'est généralement pas prononcée",
+        "le mot devient automatiquement pluriel",
+        "le mot change de genre grammatical"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'e muet' at the end of many French words is typically silent in standard pronunciation, an important feature for accurate spoken French."
+    },
+    {
+      "subject": "French",
+      "text": "Lorsqu'un examinateur pose une question sur les projets d'avenir du candidat, une réponse appropriée utiliserait principalement",
+      "options": [
+        "le plus-que-parfait uniquement",
+        "le passé composé uniquement",
+        "le futur simple ou le futur proche",
+        "l'impératif uniquement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discussing future plans naturally calls for future tense forms, such as the futur simple or futur proche, to express what one intends to do."
+    },
+    {
+      "subject": "French",
+      "text": "Une bonne pratique avant l'examen oral consiste à",
+      "options": [
+        "mémoriser uniquement des réponses écrites sans jamais les prononcer",
+        "se concentrer uniquement sur la grammaire écrite",
+        "s'entraîner à parler français régulièrement avec un partenaire ou en enregistrant sa propre voix",
+        "éviter complètement de parler français avant le jour de l'examen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Regular speaking practice, whether with a partner or by recording oneself, helps build fluency, confidence, and pronunciation accuracy ahead of an oral exam."
+    }
+  ]
+}

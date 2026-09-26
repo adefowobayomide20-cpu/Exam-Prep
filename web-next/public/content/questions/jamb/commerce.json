@@ -1,0 +1,2406 @@
+{
+  "subject": "Commerce",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Commerce",
+      "text": "Commerce is best defined as",
+      "options": [
+        "all activities connected with the buying, selling, and distribution of goods and services",
+        "the manufacturing of goods only",
+        "the process of farming for domestic consumption",
+        "the extraction of raw materials from the earth"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commerce covers trade (buying and selling) together with the aids to trade (like banking, insurance, and transport) that make the exchange of goods and services possible."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The two main branches of commerce are",
+      "options": [
+        "import and export only",
+        "production and consumption",
+        "banking and insurance only",
+        "trade and aids to trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Commerce is broadly divided into trade (the actual buying and selling of goods) and aids to trade (services like banking, insurance, transport, and warehousing that support trade)."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Commerce is important to an economy mainly because it",
+      "options": [
+        "eliminates the need for production entirely",
+        "prevents any form of international trade",
+        "bridges the gap between producers and consumers, ensuring goods reach those who need them",
+        "replaces the need for a legal system"
+      ],
+      "correctIndex": 2,
+      "explanation": "Commerce closes the gap between where goods are produced and where they are consumed, ensuring an efficient flow of goods and services to satisfy consumer wants."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following best describes the relationship between commerce and industry?",
+      "options": [
+        "Industry only deals with services, not goods",
+        "Industry and commerce are entirely unrelated activities",
+        "Commerce produces raw materials for industry",
+        "Industry produces goods, while commerce facilitates their distribution and exchange"
+      ],
+      "correctIndex": 3,
+      "explanation": "Industry (production) creates goods, while commerce provides the trading and support activities needed to move those goods from producers to final consumers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Direct services, as an aid to trade, refer to services rendered",
+      "options": [
+        "only to manufacturing industries",
+        "only in international trade transactions",
+        "exclusively to the government",
+        "directly to consumers, such as those provided by doctors and teachers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Direct services are personal services rendered straight to the final consumer (e.g., medical, educational, legal services), as distinct from commercial services that support trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following best illustrates the evolution of commerce from its earliest form?",
+      "options": [
+        "Barter trade evolved into monetary exchange as economies grew more complex",
+        "International trade existed before local trade",
+        "Money was used before goods were ever exchanged",
+        "Modern e-commerce existed before the barter system"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commerce historically progressed from simple direct exchange of goods (barter) to the use of money as a medium of exchange, enabling more complex and efficient trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The scope of commerce includes all of the following EXCEPT",
+      "options": [
+        "trade (buying and selling of goods)",
+        "insurance services",
+        "the manufacturing process of converting raw materials into finished goods",
+        "banking services"
+      ],
+      "correctIndex": 2,
+      "explanation": "Manufacturing is part of industry (production), not commerce; commerce focuses on the exchange and distribution of goods, along with the services that support trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Commerce is related to other disciplines such as Economics mainly because both study",
+      "options": [
+        "the physical properties of matter",
+        "how scarce resources are used to satisfy human wants through production, exchange, and consumption",
+        "the biological classification of organisms",
+        "only the political structure of a country"
+      ],
+      "correctIndex": 1,
+      "explanation": "Commerce is essentially a practical application of core economic principles concerning the exchange of scarce resources (goods and services) to satisfy consumer wants."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Occupations are broadly classified into which three categories?",
+      "options": [
+        "Government, private, and foreign occupations",
+        "Skilled, unskilled, and volunteer occupations",
+        "Rural, urban, and suburban occupations",
+        "Industrial, commercial, and service occupations"
+      ],
+      "correctIndex": 3,
+      "explanation": "The standard classification of occupations in commerce studies divides them into industrial (production), commercial (trade and its aids), and service (direct personal services) occupations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An industrial occupation is one primarily concerned with the",
+      "options": [
+        "extraction and production of raw materials and goods",
+        "distribution of goods to final consumers",
+        "buying and selling of finished goods",
+        "provision of personal services like teaching"
+      ],
+      "correctIndex": 0,
+      "explanation": "Industrial occupations include activities such as mining, farming, and manufacturing, focused on producing goods and raw materials rather than trading or servicing them."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A commercial occupation is one primarily concerned with",
+      "options": [
+        "trade and the aids to trade, such as banking and transport",
+        "extracting raw materials directly from nature",
+        "providing direct personal services like medicine",
+        "manufacturing finished goods from raw materials"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commercial occupations encompass those working in trade itself and the supporting services (banking, insurance, transport, warehousing) that facilitate the exchange of goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A service occupation is one primarily concerned with providing",
+      "options": [
+        "wholesale distribution of goods",
+        "raw materials for manufacturing",
+        "direct personal services to individuals, such as those of a doctor or lawyer",
+        "warehousing facilities for goods in transit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Service occupations involve rendering direct, personal services to consumers (e.g., healthcare, legal advice, teaching), distinct from producing or trading physical goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is an example of an industrial occupation?",
+      "options": [
+        "Insurance underwriting",
+        "Banking",
+        "Retailing",
+        "Mining"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mining is a primary industrial activity involving the extraction of raw materials, unlike banking, retailing, and insurance, which are commercial or service activities."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is an example of a commercial occupation?",
+      "options": [
+        "Farming",
+        "Nursing",
+        "Teaching",
+        "Wholesaling"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wholesaling is a trading activity, forming part of commerce, whereas farming is industrial, and teaching and nursing are direct personal service occupations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A sole proprietorship is a business owned and controlled by",
+      "options": [
+        "two or more partners sharing profits equally",
+        "shareholders through purchased shares",
+        "a government agency on behalf of the public",
+        "one individual who bears all the risks and enjoys all the profits"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sole proprietorship is the simplest form of business ownership, run by a single person who has full control, keeps all profits, but also bears unlimited personal liability for debts."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major disadvantage of a sole proprietorship is that the owner has",
+      "options": [
+        "no right to keep the profits made",
+        "no control over business decisions",
+        "to share profits with numerous partners",
+        "unlimited liability for the debts of the business"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because the business has no separate legal identity from its owner, the sole proprietor's personal assets are at risk to cover business debts, a key disadvantage of unlimited liability."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A partnership is formed when",
+      "options": [
+        "two or more persons agree to carry on a business together with a view to making a profit",
+        "the government establishes a public corporation",
+        "shares are sold to the general public",
+        "a single individual registers a company"
+      ],
+      "correctIndex": 0,
+      "explanation": "A partnership involves two or more people combining resources and expertise to jointly run a business for shared profit, typically guided by a partnership agreement (deed)."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A private limited liability company differs from a public limited liability company mainly in that a private company",
+      "options": [
+        "cannot offer its shares for sale to the general public",
+        "must have at least seven shareholders",
+        "cannot have limited liability for its shareholders",
+        "is always owned by the government"
+      ],
+      "correctIndex": 0,
+      "explanation": "Private limited companies restrict the transfer of shares and cannot invite the public to subscribe for shares, unlike public limited companies, which can freely sell shares on the stock exchange."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Limited liability, a key feature of registered companies, means that shareholders' liability for company debts is limited to",
+      "options": [
+        "the amount unpaid on the shares they hold",
+        "their entire personal wealth",
+        "double the value of their shareholding",
+        "nothing at all, even if shares are unpaid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under limited liability, a shareholder's financial risk is capped at the amount they invested (or still owe) on their shares, protecting their personal assets from business debts."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cooperative society is a business organisation formed mainly to",
+      "options": [
+        "promote the mutual economic interest of its members through joint effort",
+        "operate exclusively as a government-owned enterprise",
+        "trade only in agricultural produce",
+        "maximise profit for a single wealthy owner"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cooperative societies are voluntary associations where members pool resources to achieve common economic goals, such as better prices for produce or accessible credit."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A public corporation is a business organisation that is",
+      "options": [
+        "restricted from operating in any commercial sector",
+        "owned entirely by private shareholders",
+        "owned and controlled by the government to provide essential services",
+        "formed by two or more individuals for personal profit only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public corporations are established and owned by government to provide important services (e.g., utilities, transport) often considered too essential to leave solely to private enterprise."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A joint venture is best described as an arrangement where",
+      "options": [
+        "two or more businesses combine resources temporarily to undertake a specific project",
+        "a company sells all its shares to a single buyer",
+        "a sole trader converts to a limited company",
+        "one business permanently absorbs another"
+      ],
+      "correctIndex": 0,
+      "explanation": "A joint venture is typically a temporary or project-specific partnership between separate businesses that pool resources and expertise to achieve a common commercial objective."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which business unit is generally easiest and cheapest to establish, requiring minimal legal formalities?",
+      "options": [
+        "Sole proprietorship",
+        "Public limited liability company",
+        "Joint venture between multinational firms",
+        "Public corporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sole proprietorships have the fewest legal requirements for formation, making them the simplest and least expensive business structure to set up compared to companies or corporations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is a key advantage of a public limited liability company over a sole proprietorship?",
+      "options": [
+        "Simpler and faster decision-making processes",
+        "Complete freedom from any government regulation",
+        "Ability to raise large amounts of capital by selling shares to the public",
+        "No requirement to publish annual financial statements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public companies can raise substantial capital by offering shares to the general public through the stock exchange, a scale of fundraising not available to a sole proprietorship."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Home trade refers to the buying and selling of goods",
+      "options": [
+        "within the boundaries of a single country",
+        "exclusively through international shipping",
+        "only at government-approved international fairs",
+        "between two or more different countries"
+      ],
+      "correctIndex": 0,
+      "explanation": "Home (domestic) trade takes place entirely within a country's borders, as opposed to foreign trade, which involves the exchange of goods across national boundaries."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Wholesale trade involves the",
+      "options": [
+        "exportation of goods to foreign countries",
+        "direct sale of goods in small quantities to final consumers",
+        "buying of goods in bulk from producers for resale in smaller quantities to retailers",
+        "manufacturing of goods from raw materials"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wholesalers act as intermediaries who buy in large quantities from producers and break bulk, selling smaller quantities on to retailers rather than directly to final consumers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Retail trade involves the sale of goods",
+      "options": [
+        "exclusively between two countries",
+        "in bulk to other businesses for resale",
+        "in small quantities directly to the final consumer",
+        "only through cooperative societies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Retailing is the final link in the distribution chain, selling goods in small, consumer-friendly quantities directly to the person who will use them."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The normal channel of distribution for many consumer goods follows the sequence",
+      "options": [
+        "consumer to retailer to wholesaler to producer",
+        "producer to wholesaler to retailer to consumer",
+        "retailer to producer to consumer to wholesaler",
+        "producer to consumer to wholesaler to retailer"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the traditional distribution channel: goods move from the manufacturer/producer, through a wholesaler who breaks bulk, to retailers, and finally to the end consumer."
+    },
+    {
+      "subject": "Commerce",
+      "text": "E-commerce, a modern trend in home trade, refers to",
+      "options": [
+        "a government policy restricting online transactions",
+        "trade conducted exclusively using physical cash",
+        "the buying and selling of goods and services over the internet",
+        "trade restricted only to wholesalers"
+      ],
+      "correctIndex": 2,
+      "explanation": "E-commerce represents a modern, digital channel of trade, allowing consumers and businesses to transact online without necessarily visiting a physical shop."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A supermarket is a modern retail outlet characterised mainly by",
+      "options": [
+        "large-scale self-service retailing of a wide variety of goods under one roof",
+        "trade conducted exclusively between two countries",
+        "the sale of goods only in bulk to other retailers",
+        "door-to-door selling of a single product"
+      ],
+      "correctIndex": 0,
+      "explanation": "Supermarkets are large retail stores offering a wide range of goods on a self-service basis, a modern evolution from smaller, traditional specialist shops."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Foreign trade refers to the exchange of goods and services",
+      "options": [
+        "exclusively among cooperative societies",
+        "within the same city only",
+        "between a wholesaler and a retailer domestically",
+        "between two or more different countries"
+      ],
+      "correctIndex": 3,
+      "explanation": "Foreign (international) trade involves the flow of goods and services across national borders, distinguishing it from home (domestic) trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Import trade refers to the",
+      "options": [
+        "exchange of goods purely within the home country",
+        "trade conducted by a country with itself",
+        "purchase of goods and services from other countries into the home country",
+        "sale of home-produced goods to other countries"
+      ],
+      "correctIndex": 2,
+      "explanation": "Imports are goods and services brought into a country from abroad, representing an inflow of foreign-produced goods into the domestic market."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Export trade refers to the",
+      "options": [
+        "sale of home-produced goods and services to other countries",
+        "purchase of foreign goods into the home country",
+        "the process of manufacturing goods domestically only",
+        "trade restricted to within a single country"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exports represent goods and services produced domestically and sold to foreign buyers, an outflow of home-produced goods to other countries."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Entrepôt trade refers to the",
+      "options": [
+        "purchase of goods for domestic use only",
+        "importation of goods into a country for subsequent re-exportation to a third country",
+        "exchange of goods without any use of money",
+        "sale of goods exclusively at wholesale prices"
+      ],
+      "correctIndex": 1,
+      "explanation": "In entrepôt trade, a country imports goods not for domestic consumption but to process, store, and then re-export them to another country, often profiting from its strategic trading location."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is a common barrier to international trade?",
+      "options": [
+        "Tariffs and import quotas imposed by governments",
+        "The complete absence of currency exchange rates",
+        "Universal use of a single global currency",
+        "Unlimited free movement of goods across all borders"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tariffs (taxes on imports) and quotas (quantity restrictions) are common government-imposed barriers designed to protect domestic industries from foreign competition."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Bill of Lading is a document used in foreign trade mainly to",
+      "options": [
+        "serve as a form of local currency",
+        "serve as evidence of a contract of carriage of goods by sea and as a receipt for the goods shipped",
+        "calculate the exchange rate for a transaction",
+        "record a country's total balance of trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Bill of Lading is a crucial shipping document that acts as a receipt for goods loaded onto a ship, evidence of the shipping contract, and often a document of title to the goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Certificate of Origin, used in international trade, is a document that",
+      "options": [
+        "certifies the country in which the exported goods were manufactured or produced",
+        "grants a company permission to operate domestically",
+        "records the exchange rate applied to a transaction",
+        "shows the total insurance value of a shipment"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Certificate of Origin verifies where goods were actually made, which can affect the tariffs applied and eligibility for certain trade agreements or preferences."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Bill of Entry is a document used mainly for",
+      "options": [
+        "certifying the quality of manufactured goods",
+        "recording domestic retail sales transactions",
+        "declaring imported or exported goods to customs authorities",
+        "opening a bank account for a new business"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Bill of Entry is a customs document detailing the goods being imported or exported, used by customs authorities to assess duties and monitor trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following best describes the function of a middleman in the channel of distribution?",
+      "options": [
+        "Regulating the currency exchange rate",
+        "Facilitating the movement of goods from producers to consumers",
+        "Manufacturing goods from raw materials",
+        "Setting national trade policy for the government"
+      ],
+      "correctIndex": 1,
+      "explanation": "Middlemen, such as wholesalers and retailers, perform the essential function of bridging the gap between producers and final consumers within the distribution channel."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Chamber of Commerce is an association formed mainly to",
+      "options": [
+        "provide direct banking services to the public",
+        "manufacture goods for its member businesses",
+        "protect and promote the interests of businesses within a locality or industry",
+        "regulate the activities of the national government"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chambers of Commerce serve as advocacy and support organisations for businesses, promoting trade interests, providing information, and sometimes resolving trade disputes among members."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Trade associations are generally formed to",
+      "options": [
+        "act as a branch of government ministries",
+        "provide personal loans to individual consumers",
+        "compete directly against their own member businesses",
+        "represent and safeguard the common interests of businesses within a particular trade or industry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trade associations bring together businesses in the same industry to advocate for shared interests, set standards, and sometimes negotiate collectively with government or other bodies."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Manufacturers' Association of Nigeria (MAN) primarily represents the interests of",
+      "options": [
+        "foreign embassies in Nigeria",
+        "commercial banks operating in Nigeria",
+        "manufacturing industries in Nigeria",
+        "individual retail consumers"
+      ],
+      "correctIndex": 2,
+      "explanation": "MAN is the umbrella association representing and advocating for the interests of manufacturers and industrialists operating within Nigeria."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Export promotion councils are established mainly to",
+      "options": [
+        "regulate the retail price of imported goods",
+        "encourage and support the growth of a country's export trade",
+        "provide healthcare services to exporters",
+        "restrict all forms of international trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Export promotion councils provide support, information, and incentives to help local businesses expand their exports and compete effectively in international markets."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is a benefit of trade associations to their members?",
+      "options": [
+        "Eliminating all competition among members entirely",
+        "Guaranteeing each member an equal share of the national market",
+        "Providing a collective platform to negotiate with government on industry-relevant policies",
+        "Directly setting the salaries of all employees in the industry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trade associations amplify their members' voices, allowing them to collectively engage with policymakers on issues like tariffs, regulations, and standards affecting the industry."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Corporate bodies such as the Nigerian Stock Exchange primarily facilitate",
+      "options": [
+        "the manufacturing of industrial machinery",
+        "the direct retailing of consumer goods",
+        "the buying and selling of shares and other securities",
+        "international shipping of physical cargo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stock exchanges provide an organised marketplace where shares, bonds, and other securities of public companies can be bought and sold by investors."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A commercial bank is a financial institution primarily engaged in",
+      "options": [
+        "printing the national currency",
+        "manufacturing consumer goods",
+        "accepting deposits and granting loans to individuals and businesses",
+        "setting national monetary policy exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Commercial banks serve as everyday financial intermediaries, accepting customer deposits and providing credit facilities (loans) to individuals and businesses."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Central Bank of a country is responsible for",
+      "options": [
+        "regulating the banking system and controlling the money supply",
+        "retailing consumer banking products in local branches",
+        "providing personal current accounts to individual customers",
+        "granting mortgages directly to homebuyers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The central bank oversees monetary policy, regulates commercial banks, and manages the overall money supply, distinct from the day-to-day retail banking services of commercial banks."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A current account offered by commercial banks is mainly designed for",
+      "options": [
+        "investment exclusively in company shares",
+        "holding foreign currency reserves for the government",
+        "frequent deposits and withdrawals, typically without earning interest",
+        "long-term savings that earn a high fixed interest rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Current accounts are designed for everyday transactions, allowing frequent withdrawals via cheques, cards, or transfers, usually without paying interest on the balance."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A savings account offered by commercial banks is mainly designed to",
+      "options": [
+        "issue letters of credit for international trade",
+        "provide unlimited overdraft facilities",
+        "facilitate frequent daily large business transactions",
+        "encourage customers to save money while earning interest on their balance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Savings accounts are intended for accumulating funds over time, typically offering interest as an incentive, though usually with some restriction on frequent withdrawals compared to current accounts."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cheque is best described as a",
+      "options": [
+        "certificate confirming ownership of company shares",
+        "government-issued currency note",
+        "type of loan given by a bank to a customer",
+        "written order instructing a bank to pay a specified sum of money to a named person or bearer"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cheque is a negotiable instrument by which an account holder instructs their bank to pay a stated amount to the person or entity named on it."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An overdraft is a banking facility that allows a customer to",
+      "options": [
+        "earn a fixed high interest rate on savings",
+        "deposit money without any transaction charges",
+        "withdraw more money from their account than the actual balance, up to an agreed limit",
+        "obtain foreign currency without any exchange rate applied"
+      ],
+      "correctIndex": 2,
+      "explanation": "An overdraft is a short-term credit facility permitting an account holder to withdraw beyond their actual balance, up to a limit agreed with the bank, usually incurring interest."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Modern electronic banking services, such as ATMs and mobile banking, mainly benefit customers by",
+      "options": [
+        "eliminating the need for any form of identification",
+        "replacing the need for a functioning central bank",
+        "providing convenient access to banking services without needing to visit a physical branch",
+        "guaranteeing free, unlimited loans to all customers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electronic banking channels like ATMs, mobile apps, and internet banking allow customers to perform transactions conveniently at any time, without physically visiting a bank branch."
+    },
+    {
+      "subject": "Commerce",
+      "text": "One key function of the Central Bank is to act as the",
+      "options": [
+        "primary retailer of consumer electronics",
+        "banker to the government and lender of last resort to commercial banks",
+        "direct employer of all bank staff nationwide",
+        "sole insurer of all private businesses"
+      ],
+      "correctIndex": 1,
+      "explanation": "The central bank manages government accounts and provides emergency financial support to commercial banks facing liquidity shortages, acting as the lender of last resort."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Insurance is best defined as a system by which",
+      "options": [
+        "individuals or businesses pay a premium to transfer the risk of potential loss to an insurer",
+        "banks guarantee unlimited loans to policyholders",
+        "the government provides free replacement for any damaged property",
+        "businesses avoid all forms of financial risk entirely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insurance allows individuals or businesses to pay a relatively small, regular premium to an insurer, who agrees to compensate them for specified losses, effectively pooling and transferring risk."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The principle of indemnity in insurance means that",
+      "options": [
+        "the insured can claim any amount they wish regardless of the actual loss",
+        "insurance always pays out more than the value of the loss",
+        "the insured should be restored to the same financial position they were in before the loss occurred, no more and no less",
+        "premiums are refunded in full if no claim is made"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indemnity ensures that insurance compensates the actual financial loss suffered, preventing policyholders from profiting from a claim beyond restoring their original position."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The principle of utmost good faith in insurance requires that",
+      "options": [
+        "only the insurer needs to be truthful in the contract",
+        "both the insurer and the insured disclose all relevant material facts honestly",
+        "the insured can withhold any information they consider unfavourable",
+        "insurance contracts do not require any form of trust"
+      ],
+      "correctIndex": 1,
+      "explanation": "Utmost good faith (uberrimae fidei) obligates both parties to an insurance contract to disclose all material facts truthfully, since the insurer relies heavily on the insured's honesty in assessing risk."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Insurable interest, a fundamental principle of insurance, means that",
+      "options": [
+        "only the insurance company needs to have an interest in the risk",
+        "anyone can insure any property regardless of ownership or relationship to it",
+        "insurable interest is only required for life insurance policies",
+        "the person taking out the policy must stand to suffer a genuine financial loss from the event insured against"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insurable interest ensures the policyholder has a legitimate financial stake in the subject matter of the insurance, preventing insurance from being used as a form of gambling on unrelated events."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Life assurance differs from general insurance mainly in that life assurance",
+      "options": [
+        "never requires payment of any premium",
+        "provides a certain payout since death is a certain event, unlike general insurance which covers uncertain events",
+        "is only available to business organisations",
+        "cannot be taken out on one's own life"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because death is a certainty (only the timing is uncertain), life assurance guarantees an eventual payout, unlike general insurance (e.g., fire, motor), which only pays if the uncertain insured event actually occurs."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Fire insurance policies are specifically designed to compensate for losses arising from",
+      "options": [
+        "damage caused by motor vehicle accidents",
+        "the death of a policyholder",
+        "damage to property caused by fire",
+        "theft of goods in transit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fire insurance specifically covers financial losses resulting from fire damage to insured property, distinct from other specialised policies like motor or marine insurance."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is an importance of insurance to businesses?",
+      "options": [
+        "It provides financial security against unforeseen losses, encouraging investment and risk-taking",
+        "It replaces the need for sound business management",
+        "It completely eliminates all business risks",
+        "It guarantees a fixed annual profit regardless of performance"
+      ],
+      "correctIndex": 0,
+      "explanation": "By transferring the financial burden of unpredictable losses to an insurer, insurance gives businesses the confidence to invest and take calculated risks they might otherwise avoid."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An insurance premium refers to the",
+      "options": [
+        "total value of the property being insured",
+        "amount of money paid periodically by the insured to the insurer for coverage",
+        "profit earned by an insurance company in a year",
+        "compensation paid by the insurer after a valid claim"
+      ],
+      "correctIndex": 1,
+      "explanation": "The premium is the regular payment the policyholder makes to the insurer in exchange for the promise of compensation should the insured risk occur."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Road transport is generally most suitable for",
+      "options": [
+        "the fastest possible movement of goods over intercontinental distances",
+        "transporting extremely heavy bulk cargo across oceans",
+        "carrying goods that require no handling at all",
+        "short to medium distance movement of goods, offering flexibility and door-to-door delivery"
+      ],
+      "correctIndex": 3,
+      "explanation": "Road transport offers unmatched flexibility for door-to-door delivery over shorter to medium distances, though it is generally less efficient than rail or sea for very large or long-distance bulk cargo."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Rail transport is generally most suitable for",
+      "options": [
+        "moving large quantities of bulky goods over long distances on land",
+        "very short distance local deliveries within a single street",
+        "delivering small parcels directly to individual homes",
+        "transporting goods across the ocean between continents"
+      ],
+      "correctIndex": 0,
+      "explanation": "Railways are well suited to carrying heavy, bulky cargo over long overland distances efficiently, though they lack the door-to-door flexibility of road transport."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Air transport, though generally the most expensive mode, is favoured mainly for",
+      "options": [
+        "goods that have no time sensitivity at all",
+        "fast delivery of perishable or high-value, low-bulk goods over long distances",
+        "short local deliveries within a single city",
+        "transporting extremely heavy bulk raw materials cheaply"
+      ],
+      "correctIndex": 1,
+      "explanation": "Despite its high cost, air transport's speed makes it ideal for perishable goods (like flowers or fresh produce) and valuable, less bulky items needing urgent long-distance delivery."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Water (sea) transport is generally most economical for",
+      "options": [
+        "moving goods across land-locked regions with no coastline",
+        "delivering goods directly to a customer's doorstep",
+        "moving very large volumes of bulky goods over long international distances",
+        "urgent same-day delivery of perishable goods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sea transport offers the lowest cost per unit for moving very large quantities of bulky cargo over long distances, though it is much slower than air transport."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major disadvantage of road transport compared to rail transport is that road transport",
+      "options": [
+        "is generally less suitable for moving very large quantities of bulky goods economically",
+        "cannot provide door-to-door delivery services",
+        "cannot be used to transport perishable goods",
+        "is always more expensive over any given distance"
+      ],
+      "correctIndex": 0,
+      "explanation": "While road transport offers unmatched flexibility, it is typically less cost-efficient than rail for transporting very large volumes of heavy or bulky goods over long distances."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Pipelines, as a specialised mode of transport, are mainly used to convey",
+      "options": [
+        "passengers over long distances",
+        "solid manufactured goods like furniture",
+        "perishable agricultural produce",
+        "liquids and gases, such as crude oil, refined petroleum products, and natural gas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pipelines are specifically engineered to transport fluids (liquids and gases) continuously and efficiently over long distances, commonly used in the oil and gas industry."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Communication in commerce refers to the",
+      "options": [
+        "extraction of raw materials from nature",
+        "storage of goods before they are sold",
+        "process of manufacturing goods for sale",
+        "process of exchanging information between businesses, customers, and other stakeholders"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective communication enables businesses to exchange essential information with customers, suppliers, employees, and other stakeholders, supporting smooth commercial operations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Advertising is best defined as",
+      "options": [
+        "the process of storing unsold inventory",
+        "a paid, non-personal form of communication used to promote goods, services, or ideas",
+        "the physical transportation of goods to the market",
+        "a free service offered by the government to businesses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Advertising involves paying for media space or time to present a persuasive message about a product, service, or idea to a mass audience, without direct personal interaction."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The main function of advertising in marketing is to",
+      "options": [
+        "manufacture goods for sale to consumers",
+        "inform, persuade, and remind consumers about goods and services",
+        "transport finished goods to retail outlets",
+        "provide direct personal financial advice to consumers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Advertising works to create awareness (inform), influence purchase decisions (persuade), and reinforce brand recognition over time (remind) among target consumers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is an example of a mass medium commonly used for advertising?",
+      "options": [
+        "A face-to-face sales pitch to one customer",
+        "A personal handwritten letter",
+        "Television",
+        "A private telephone conversation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Television is a classic mass medium capable of reaching a very large, broad audience simultaneously, making it a powerful (though costly) advertising channel."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Personal selling, as a promotional tool, differs from advertising mainly in that personal selling involves",
+      "options": [
+        "communication that cannot be tailored to individual customer needs",
+        "direct, face-to-face interaction between a salesperson and a potential customer",
+        "no human interaction whatsoever",
+        "communication broadcast simultaneously to a mass, anonymous audience"
+      ],
+      "correctIndex": 1,
+      "explanation": "Personal selling is a direct, interpersonal promotional method, allowing tailored communication and immediate feedback, unlike the one-way, mass-audience nature of advertising."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is an importance of advertising to producers?",
+      "options": [
+        "It removes the need to consider consumer needs",
+        "It helps create brand awareness and can increase the volume of sales",
+        "It eliminates the need for a distribution channel",
+        "It guarantees that every consumer will buy the product"
+      ],
+      "correctIndex": 1,
+      "explanation": "Advertising helps producers build brand recognition and stimulate consumer interest, which can translate into higher sales volumes, though it does not guarantee purchases."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Warehousing refers to the",
+      "options": [
+        "storage of goods from the time of production until they are needed for sale or use",
+        "transportation of goods between two countries",
+        "manufacturing of goods from raw materials",
+        "the process of insuring goods against loss"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warehousing bridges the time gap between production and consumption by storing goods safely until they are required by wholesalers, retailers, or final consumers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A bonded warehouse is a type of warehouse where",
+      "options": [
+        "imported goods are stored without immediate payment of import duty until they are released for sale",
+        "only perishable goods can be stored",
+        "storage is provided completely free of charge",
+        "goods are stored exclusively for export"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bonded warehouses allow importers to store goods under customs supervision, deferring the payment of import duties until the goods are actually released into the domestic market."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A private warehouse is one owned and used by",
+      "options": [
+        "no one, as it is left permanently vacant",
+        "multiple unrelated businesses to store their varied goods jointly",
+        "the government for the storage of public goods only",
+        "a single individual or firm to store its own goods"
+      ],
+      "correctIndex": 3,
+      "explanation": "A private warehouse belongs to and serves the storage needs of one particular business, unlike public warehouses, which offer storage space to multiple different clients for a fee."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A public warehouse is one that",
+      "options": [
+        "offers storage facilities for a fee to any business or individual needing space",
+        "is restricted only to government use",
+        "never charges any fee for storage services",
+        "is used exclusively by a single large corporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Public warehouses are commercial storage facilities available for hire by any business or individual, providing flexible storage space without the cost of building a private facility."
+    },
+    {
+      "subject": "Commerce",
+      "text": "One important function of warehousing is to",
+      "options": [
+        "help stabilise the supply of seasonal goods by storing surplus for future use",
+        "eliminate the need for any form of transportation",
+        "guarantee an increase in the market price of stored goods",
+        "manufacture additional units of stored goods"
+      ],
+      "correctIndex": 0,
+      "explanation": "By storing surplus produced during peak seasons, warehousing helps ensure a more consistent supply of goods is available even during off-peak periods, stabilising availability and prices."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Cold storage warehouses are specifically designed to store",
+      "options": [
+        "non-perishable manufactured goods only",
+        "goods intended exclusively for export",
+        "perishable goods that require refrigeration to prevent spoilage",
+        "documents and paper records"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cold storage warehouses maintain low temperatures specifically to preserve perishable items like food products, preventing spoilage during the storage period."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Marketing can be defined as the process of",
+      "options": [
+        "extracting raw materials for industrial use",
+        "storing goods indefinitely without selling them",
+        "manufacturing goods without regard to consumer needs",
+        "identifying, anticipating, and satisfying customer needs profitably"
+      ],
+      "correctIndex": 3,
+      "explanation": "Marketing focuses on understanding what consumers want and need, then delivering products or services that satisfy those needs while achieving business objectives such as profit."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The marketing mix, often called the '4 Ps', consists of",
+      "options": [
+        "Product, Profit, Purchase, and Payment",
+        "Product, Price, Place, and Promotion",
+        "Planning, Pricing, Packaging, and Publicity",
+        "Production, Profit, People, and Process only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The classic marketing mix framework identifies four controllable elements a business manages to market its offering effectively: Product, Price, Place (distribution), and Promotion."
+    },
+    {
+      "subject": "Commerce",
+      "text": "In the marketing mix, 'Place' refers to",
+      "options": [
+        "the physical appearance and design of a product",
+        "the advertising and sales promotion activities used",
+        "the distribution channels and locations through which a product reaches consumers",
+        "the amount of money a customer pays for a product"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Place' in the marketing mix covers how and where a product is made available to consumers, encompassing distribution channels, logistics, and retail locations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Market segmentation refers to the process of",
+      "options": [
+        "eliminating competition from a particular market",
+        "dividing a broad target market into smaller groups of consumers with similar needs or characteristics",
+        "setting a single fixed price for all products",
+        "combining all consumers into a single, undifferentiated market"
+      ],
+      "correctIndex": 1,
+      "explanation": "Segmentation allows businesses to tailor their marketing efforts more effectively by grouping consumers based on shared characteristics such as age, income, location, or preferences."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Consumer protection is important mainly to",
+      "options": [
+        "eliminate all forms of competition in the market",
+        "prevent any form of advertising by businesses",
+        "safeguard the rights and interests of consumers against unfair or harmful business practices",
+        "guarantee unlimited profit for producers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consumer protection measures and agencies exist to shield buyers from exploitation, unsafe products, and misleading practices, ensuring fair treatment in the marketplace."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Consumer Protection Council (CPC) in Nigeria is primarily responsible for",
+      "options": [
+        "regulating the stock exchange",
+        "setting the exchange rate of the naira",
+        "protecting consumers against harmful and hazardous products and unfair trade practices",
+        "manufacturing food and drug products"
+      ],
+      "correctIndex": 2,
+      "explanation": "The CPC works to safeguard Nigerian consumers from exploitative practices, unsafe goods, and violations of their rights as buyers of goods and services."
+    },
+    {
+      "subject": "Commerce",
+      "text": "NAFDAC (National Agency for Food and Drug Administration and Control) is primarily responsible for",
+      "options": [
+        "controlling the prices of agricultural produce",
+        "regulating the banking sector",
+        "issuing business registration certificates",
+        "regulating and controlling the manufacture, importation, and sale of food, drugs, and related products"
+      ],
+      "correctIndex": 3,
+      "explanation": "NAFDAC ensures that food, drugs, cosmetics, and related regulated products meet safety and quality standards before they reach Nigerian consumers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "SON (Standards Organisation of Nigeria) is primarily responsible for",
+      "options": [
+        "collecting personal income tax",
+        "regulating food and drug safety exclusively",
+        "setting and enforcing quality standards for products manufactured or sold in Nigeria",
+        "managing the country's foreign exchange reserves"
+      ],
+      "correctIndex": 2,
+      "explanation": "SON develops and enforces national quality standards to ensure goods produced or sold within Nigeria meet acceptable levels of safety and quality."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Product branding in marketing is important mainly because it helps",
+      "options": [
+        "guarantee the lowest price in the market",
+        "distinguish a company's product from those of competitors and build customer loyalty",
+        "eliminate the need for any product packaging",
+        "prevent a company from ever changing its product"
+      ],
+      "correctIndex": 1,
+      "explanation": "Branding creates a distinct identity for a product, helping it stand out from competitors and fostering repeat purchases through customer trust and loyalty."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Pricing strategy in the marketing mix must take into account which of the following factors?",
+      "options": [
+        "The weather conditions on the day of sale",
+        "Production costs, competitor prices, and consumer purchasing power",
+        "Only the personal preference of the business owner",
+        "The colour scheme of the product packaging alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Effective pricing decisions balance the cost of producing a good, what competitors charge, and what target consumers are willing and able to pay."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Sales promotion, as an element of the promotional mix, typically involves",
+      "options": [
+        "the manufacturing process of a product",
+        "long-term brand-building advertising campaigns only",
+        "short-term incentives such as discounts, coupons, or free samples to boost sales",
+        "the physical transportation of goods to retailers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sales promotions are typically short-term, tactical incentives (discounts, contests, samples) designed to generate an immediate boost in sales or encourage trial of a product."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A contract, in legal terms, is best defined as",
+      "options": [
+        "a document issued only by government agencies",
+        "a legally binding agreement between two or more parties that is enforceable by law",
+        "a promise that has no legal consequences if broken",
+        "any informal conversation between two businesses"
+      ],
+      "correctIndex": 1,
+      "explanation": "A valid contract creates legally enforceable obligations between the parties involved, distinguishing it from a mere informal or social agreement."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is an essential element required for a valid contract?",
+      "options": [
+        "Physical presence of both parties at a bank",
+        "Offer and acceptance",
+        "Government approval for every transaction",
+        "A written document in every single case"
+      ],
+      "correctIndex": 1,
+      "explanation": "A valid contract generally requires a clear offer by one party and an unqualified acceptance by the other, along with other elements like consideration and intention to create legal relations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Consideration, as an element of a valid contract, refers to",
+      "options": [
+        "the age of the parties involved in the contract",
+        "something of value given by each party to the other as part of the agreement",
+        "the physical location where a contract is signed",
+        "the language in which a contract is written"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consideration represents the value (money, goods, services, or a promise) exchanged between contracting parties, a key requirement for a contract to be legally binding."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An agency relationship in business law exists when",
+      "options": [
+        "one party (the agent) is authorised to act on behalf of another party (the principal)",
+        "a company issues shares to the general public",
+        "two businesses merge into a single company",
+        "a customer purchases goods directly from a manufacturer"
+      ],
+      "correctIndex": 0,
+      "explanation": "An agency relationship is created when a principal authorises an agent to act, negotiate, or transact on their behalf, legally binding the principal to the agent's authorised actions."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Under the law of sale of goods, a 'condition' in a contract of sale refers to a term that is",
+      "options": [
+        "only applicable to contracts involving real estate",
+        "so fundamental that its breach entitles the injured party to terminate (repudiate) the contract",
+        "minor and only entitles the injured party to claim damages",
+        "irrelevant to the outcome of the contract"
+      ],
+      "correctIndex": 1,
+      "explanation": "A condition is a vital term of a sale contract; if breached, the innocent party may treat the entire contract as terminated, unlike a lesser term (warranty), which only allows a claim for damages."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A negotiable instrument, such as a cheque or bill of exchange, is a document that",
+      "options": [
+        "cannot be transferred or assigned to another party under any circumstances",
+        "can be transferred from one person to another, conferring the right to receive payment",
+        "only functions as a form of identification",
+        "is legally binding only within a single company"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negotiable instruments are transferable documents representing a right to a sum of money, and transferring them (e.g., by endorsement) passes on the right to receive that payment."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Management can be defined as the process of",
+      "options": [
+        "manufacturing goods without any form of planning",
+        "planning, organising, leading, and controlling resources to achieve organisational goals",
+        "storing raw materials until they are needed",
+        "selling goods directly to final consumers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Management involves coordinating an organisation's resources (people, materials, money) through the core functions of planning, organising, leading, and controlling, to achieve set objectives."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The planning function of management primarily involves",
+      "options": [
+        "supervising employees during their daily tasks",
+        "setting objectives and determining the best course of action to achieve them",
+        "measuring actual performance against set standards",
+        "hiring and training new staff members"
+      ],
+      "correctIndex": 1,
+      "explanation": "Planning is the foundational management function, involving the setting of goals and deciding in advance the strategies and actions needed to achieve them."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The organising function of management primarily involves",
+      "options": [
+        "setting the overall goals of the organisation",
+        "comparing actual results with planned targets",
+        "motivating employees to perform their tasks",
+        "arranging resources and tasks into a coherent structure to achieve set objectives"
+      ],
+      "correctIndex": 3,
+      "explanation": "Organising involves structuring the tasks, resources, and personnel of a business into a coordinated system designed to effectively carry out the plans that have been set."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The controlling function of management primarily involves",
+      "options": [
+        "setting the initial objectives of the business",
+        "arranging the organisational structure of the firm",
+        "hiring new employees for the organisation",
+        "monitoring performance and taking corrective action where necessary to meet objectives"
+      ],
+      "correctIndex": 3,
+      "explanation": "Controlling closes the management cycle by comparing actual performance against planned targets and making necessary adjustments to keep the organisation on track."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A trader argues that 'commerce' and 'trade' are exactly the same thing. Why is this claim technically incorrect?",
+      "options": [
+        "Trade only refers to international transactions, while commerce is purely domestic",
+        "Trade is the buying and selling of goods, while commerce also includes the aids to trade that make such exchange possible",
+        "Commerce is a narrower term restricted to banking and insurance alone",
+        "Commerce excludes wholesaling, which is classified under industry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trade is only one branch of commerce; commerce additionally embraces the aids to trade (banking, insurance, transport, warehousing, communication) that support the exchange of goods and services."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The historical shift away from barter was driven mainly by the difficulty of achieving a",
+      "options": [
+        "double coincidence of wants between two trading parties",
+        "fixed exchange rate between two barterable goods",
+        "government-approved certificate of origin for each good",
+        "single global unit of account for all commodities"
+      ],
+      "correctIndex": 0,
+      "explanation": "Barter required each party to want exactly what the other offered at the same time (double coincidence of wants), a limitation money overcame by acting as a common medium of exchange."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Commerce is most closely linked to Economics because both disciplines fundamentally study",
+      "options": [
+        "how limited resources are allocated to satisfy unlimited human wants",
+        "the legal procedure for registering a limited liability company",
+        "the geological formation of mineral deposits",
+        "the biological growth patterns of agricultural produce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commerce applies the core economic problem of scarcity, studying how resources are exchanged and distributed to satisfy consumer wants, making it a practical branch of economic activity."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A tailor who sews clothes for individual customers on request, and a bank that finances a textile exporter, are both classified as providing aids to trade, but under different headings, because the tailor renders a",
+      "options": [
+        "extractive service, while the bank renders a manufacturing service",
+        "commercial service, while the bank renders a direct service",
+        "primary production service, while the bank renders a secondary service",
+        "direct (personal) service, while the bank renders a commercial service"
+      ],
+      "correctIndex": 3,
+      "explanation": "Direct services are personal services rendered straight to the consumer (like a tailor's), while commercial services such as banking specifically support and facilitate trade transactions."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Geography influences commerce mainly because a country's",
+      "options": [
+        "national anthem determines which goods it can legally export",
+        "location, climate, and natural resources shape what it can produce and trade profitably",
+        "population size has no bearing on the volume of goods demanded",
+        "system of government automatically fixes its currency's exchange rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "A nation's geographical features, climate, and resource endowment strongly determine its comparative advantage in production and, consequently, the pattern of goods it trades."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which statement most accurately captures the evolution of commerce over time?",
+      "options": [
+        "Trade progressed from localized barter and periodic markets to money-based exchange, and eventually to organized regional and global trading systems",
+        "Money was introduced before any exchange of goods took place between individuals",
+        "Modern retailing (supermarkets, e-commerce) preceded the establishment of local periodic markets",
+        "International trade blocs existed before local domestic markets were ever formed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commerce evolved in stages: from simple direct barter in local markets, to the adoption of money as a medium of exchange, and eventually to sophisticated regional and global trade arrangements."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A school leaver chooses a career based on expected income, job security, personal aptitude, and available training opportunities. These are all examples of",
+      "options": [
+        "principles of insurance underwriting",
+        "elements of the marketing mix",
+        "factors determining the choice of occupation",
+        "barriers to international trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Choice of occupation is shaped by factors such as remuneration, security, aptitude/interest, training requirements, and social status, all weighed by the individual before settling on a career."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A furniture-maker who converts timber into finished chairs for sale is engaged in which type of occupation, distinct from the logger who fells the trees?",
+      "options": [
+        "An extractive occupation, same as the logger",
+        "A commercial occupation, since furniture is eventually sold",
+        "An industrial occupation, but specifically a secondary (manufacturing) one",
+        "A service occupation, since furniture is a personal item"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both are industrial occupations, but logging (extraction of raw timber) is primary production, while furniture-making (converting timber into a finished product) is secondary (manufacturing) production."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An insurance broker who arranges cover between clients and underwriters, earning a commission, is best classified under",
+      "options": [
+        "service occupation, because the broker deals with people directly",
+        "commercial occupation, because insurance is a recognised aid to trade",
+        "industrial occupation, because insurance involves processing risk",
+        "extractive occupation, because premiums are a form of raw material"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insurance is one of the aids to trade, so those engaged in it (including brokers) are engaged in a commercial occupation, distinct from direct personal service occupations like medicine or teaching."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cobbler who repairs shoes for individual customers, as opposed to a shoe factory that mass-produces footwear, is engaged in a",
+      "options": [
+        "commercial occupation, while the factory is engaged in a service occupation",
+        "primary occupation, while the factory is engaged in a tertiary occupation",
+        "service occupation, while the factory is engaged in an industrial occupation",
+        "extractive occupation, while the factory is engaged in a commercial occupation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Repairing shoes for individuals is a direct personal service, while mass production of footwear in a factory is an industrial (manufacturing) occupation."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Two graduates with identical qualifications choose different careers: one takes a lower-paying but highly stable civil service job, the other a higher-paying but volatile sales role. Their differing choices best illustrate that occupation choice depends on",
+      "options": [
+        "government regulation forcing citizens into specific careers",
+        "the exchange rate of the national currency",
+        "only the amount of formal education completed",
+        "the trade-off individuals make between income level and job security"
+      ],
+      "correctIndex": 3,
+      "explanation": "Occupational choice often involves weighing multiple, sometimes conflicting factors such as income potential against the security and stability a role offers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Of the four factors of production, the reward that specifically accrues to the entrepreneur for organising the other factors and bearing business risk is called",
+      "options": [
+        "profit",
+        "interest",
+        "wages",
+        "rent"
+      ],
+      "correctIndex": 0,
+      "explanation": "While land earns rent, labour earns wages, and capital earns interest, profit (which can be negative) is the entrepreneur's reward for organising production and bearing the uncertainty of business risk."
+    },
+    {
+      "subject": "Commerce",
+      "text": "In a shoe factory, one worker only cuts leather, another only stitches, and a third only attaches soles, each repeating a single task all day. This arrangement is best described as",
+      "options": [
+        "division of labour",
+        "diseconomies of scale",
+        "specialisation of industries",
+        "vertical integration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Division of labour is the breakdown of a production process into separate, repetitive tasks, with each worker specialising in one stage, as illustrated by the shoe factory workers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A region that concentrates entirely on producing cocoa, exchanging its surplus for other goods it does not produce, best illustrates",
+      "options": [
+        "division of labour among individual workers",
+        "specialisation, which is division of labour applied at the level of regions or industries",
+        "the principle of insurable interest",
+        "entrepot trade between two coastal nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Specialisation extends the concept of division of labour beyond individual tasks to whole regions, firms, or industries concentrating on producing what they are best suited to."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A fisherman catching fish, a farmer harvesting cassava, and a miner extracting tin ore are all engaged in which stage of production?",
+      "options": [
+        "Quaternary production",
+        "Secondary production",
+        "Primary production",
+        "Tertiary production"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primary production involves the direct extraction or gathering of raw materials and natural resources from land, sea, or mines, as in fishing, farming, and mining."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cassava processing plant that converts raw cassava tubers into garri, and a bakery that turns flour into bread, are both engaged in",
+      "options": [
+        "extractive production only, not manufacturing",
+        "secondary production",
+        "primary production",
+        "tertiary production"
+      ],
+      "correctIndex": 1,
+      "explanation": "Secondary production involves transforming raw materials from the primary stage into semi-finished or finished goods, as with processing cassava into garri or flour into bread."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A logistics company that only transports and distributes already-manufactured goods to retailers, without producing anything physical itself, is engaged in",
+      "options": [
+        "primary production",
+        "quaternary production only, as recognised in the JAMB syllabus",
+        "secondary production",
+        "tertiary production"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tertiary production covers services that support the exchange and distribution of goods, such as transport, banking, and insurance, rather than the extraction or manufacture of physical goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A firm's factory building and machinery are classified as which type of capital, as distinct from the cash it uses to pay for daily raw material purchases?",
+      "options": [
+        "Circulating capital, since machinery wears out quickly",
+        "Fixed capital, since these assets are used repeatedly over a long period",
+        "Working capital, same as the cash for raw materials",
+        "Loan capital, since machinery must always be financed by debt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fixed capital refers to durable assets like buildings and machinery used repeatedly over time, in contrast to working (circulating) capital, which is consumed or converted in the course of normal operations, such as cash for raw materials."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Land, as a factor of production, is distinguished from labour and capital mainly by the fact that its",
+      "options": [
+        "reward is always called wages regardless of context",
+        "quantity increases automatically whenever population grows",
+        "productivity is entirely unrelated to its natural fertility",
+        "total physical supply is fixed and cannot be increased by human effort"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unlike labour or capital, the total physical supply of land is fixed in nature and cannot be increased, though its usefulness can be improved through investment such as irrigation."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Excessive division of labour on an assembly line, where a worker repeats one tiny motion for years, can lead to which drawback often cited as a limitation of specialisation?",
+      "options": [
+        "An automatic increase in the worker's wage each year",
+        "Monotony and boredom that can reduce worker morale and productivity over time",
+        "Complete elimination of unemployment in the economy",
+        "Guaranteed lifetime employment for the worker"
+      ],
+      "correctIndex": 1,
+      "explanation": "While division of labour boosts efficiency, a commonly cited disadvantage is that highly repetitive tasks can cause monotony, reducing job satisfaction and, over time, productivity."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A soft-drink vending machine that dispenses a bottle automatically upon payment, without any shop attendant present, exemplifies a modern retailing trend valued mainly for its",
+      "options": [
+        "ability to extend selling hours and reduce the need for sales staff",
+        "requirement that customers must buy in bulk quantities only",
+        "function as a wholesale distribution centre",
+        "restriction to selling only imported goods"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vending machines allow round-the-clock sales of standardised, low-value goods without staffing costs, making them a labour-saving innovation in modern retailing."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Self-service retailing, as practised in supermarkets, primarily reduces a retailer's operating costs by",
+      "options": [
+        "increasing the amount of credit extended to customers",
+        "cutting down on the number of sales staff needed, since customers select goods themselves",
+        "requiring more sales assistants to guide each customer personally",
+        "eliminating the need for any product to be pre-packaged"
+      ],
+      "correctIndex": 1,
+      "explanation": "In self-service outlets, customers pick goods themselves from open displays and pay at a central checkout, allowing the retailer to operate with far fewer sales assistants than traditional counter service."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A retail business with several branches in different towns, all centrally owned, buying in bulk and selling under one common name, is best described as a",
+      "options": [
+        "department store",
+        "cooperative retail society",
+        "hire purchase trader",
+        "chain (multiple) store"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chain (multiple) stores are centrally owned and managed retail branches spread across different locations, benefiting from bulk buying while a department store is typically a single large building with many departments."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A wholesaler buys 500 cartons of soap directly from a manufacturer and subsequently sells them in smaller lots of 10 cartons each to different retailers. This function of splitting bulk quantities into smaller units is known as",
+      "options": [
+        "consignment selling",
+        "under-invoicing",
+        "entrepot trade",
+        "breaking bulk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Breaking bulk is a key wholesaling function, where large quantities bought from producers are divided into smaller, more manageable quantities suited to retailers' needs."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Under a hire purchase agreement, ownership of the goods transfers to the buyer only",
+      "options": [
+        "immediately after the first instalment is paid",
+        "when the buyer resells the goods to a third party",
+        "the moment the agreement is signed, regardless of payment",
+        "after all the agreed instalments have been fully paid"
+      ],
+      "correctIndex": 3,
+      "explanation": "In hire purchase, the buyer merely hires the goods while paying instalments and only becomes the legal owner after the final instalment is paid, unlike an outright credit sale where ownership passes immediately."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which feature distinguishes a department store from an ordinary chain (multiple) store?",
+      "options": [
+        "A department store operates as a single large building housing many different sections under one roof, while chain stores are separate branches in different locations",
+        "A department store can only sell food items, unlike chain stores",
+        "A department store never offers credit facilities to customers",
+        "Chain stores are always owned by the government, unlike department stores"
+      ],
+      "correctIndex": 0,
+      "explanation": "A department store consolidates many different product departments within one large building, whereas a chain store operates multiple separate branch outlets, often smaller, in different locations under central ownership."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An itinerant trader (hawker) contributes to home trade mainly by",
+      "options": [
+        "taking goods directly to consumers in areas lacking fixed retail outlets",
+        "arranging international shipping documentation for exporters",
+        "underwriting insurance policies for small businesses",
+        "providing large-scale bulk storage facilities for manufacturers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Itinerant traders move from place to place selling goods, extending retail distribution to consumers in remote or underserved areas without fixed shops."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A retailer who buys a consignment of umbrellas at the start of the rainy season and stores part of it to sell gradually as demand rises is performing which function associated with retail trade?",
+      "options": [
+        "Breaking bulk only, and nothing else",
+        "Holding stock (warehousing) to bridge the gap between supply and steady consumer demand",
+        "Underwriting risk on behalf of the manufacturer",
+        "Acting purely as a re-exporter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Retailers often hold stock to smooth out the timing gap between when goods are produced/acquired and when consumers actually want to buy them, a warehousing-type function within retailing."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A company in Country A imports raw cotton from Country B, spins and weaves it into finished cloth, and then sells the cloth to Country C. This is best described as",
+      "options": [
+        "entrepot trade, since three countries are involved",
+        "ordinary import and export trade, not entrepot trade, because the goods are processed before re-sale",
+        "home trade, since the cloth is not sold domestically",
+        "re-export trade, since no value was added to the cotton"
+      ],
+      "correctIndex": 1,
+      "explanation": "True entrepot trade involves importing goods for re-export with little or no processing; because the cotton here is manufactured into cloth before being sold onward, this is ordinary trade (import then export), not entrepot trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A trading company in Singapore imports electronics from Japan and re-exports them unaltered to Nigeria, earning a margin without any manufacturing taking place. This is a classic example of",
+      "options": [
+        "import substitution",
+        "dumping",
+        "entrepot (re-export) trade",
+        "counter-trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Entrepot trade occurs when a country imports goods purely to store, re-package, or re-export them to a third country without significant processing, often exploiting a favourable geographic or trading position."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Bill of Lading differs from an Air Waybill mainly in that a Bill of Lading",
+      "options": [
+        "cannot be used as evidence of a contract of carriage",
+        "typically serves as a document of title, allowing transfer of ownership of goods by endorsement, unlike a non-negotiable Air Waybill",
+        "is used only for goods transported by air, never by sea",
+        "is issued by an insurance company rather than a shipping line"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Bill of Lading is usually a negotiable document of title (allowing the goods to be transferred by endorsement), while an Air Waybill is generally non-negotiable and only serves as a receipt and contract evidence."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Consular Invoice is a document required by some importing countries mainly to",
+      "options": [
+        "verify, through the exporting country's consulate, the value and origin of goods to prevent under-invoicing and assess correct duty",
+        "insure goods against loss in transit",
+        "grant the importer a loan for the transaction",
+        "record the shipping route taken by the vessel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A consular invoice is certified by the consulate of the importing country stationed in the exporting country, helping to verify accurate values and prevent under-invoicing for customs duty purposes."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Certificate of Origin differs from a Certificate of Inspection in that the former mainly certifies",
+      "options": [
+        "the amount of import duty payable, while the latter certifies the bill of lading number",
+        "the insurance value of goods, while the latter certifies the buyer's creditworthiness",
+        "the country where the goods were manufactured, while the latter certifies that goods meet agreed quality/quantity standards before shipment",
+        "the exchange rate applied to the transaction, while the latter certifies the shipping route"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Certificate of Origin confirms the country in which goods were produced (relevant for tariffs/trade agreements), while a Certificate of Inspection confirms that goods meet the agreed specifications and quality before shipment."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An importer bringing in goods valued at N2,000,000, subject to a 15% import duty, would pay approximately how much in duty?",
+      "options": [
+        "N150,000",
+        "N300,000",
+        "N15,000",
+        "N1,700,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "15% of N2,000,000 is N300,000 (2,000,000 x 0.15), representing the import duty payable on the consignment."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The balance of trade differs from the balance of payments in that the balance of trade covers only",
+      "options": [
+        "invisible trade (services), while the balance of payments covers only visible goods",
+        "capital account transactions, while the balance of payments covers current account only",
+        "government-to-government loans, while the balance of payments covers private trade only",
+        "visible trade (physical goods), while the balance of payments covers both visible and invisible trade plus capital flows"
+      ],
+      "correctIndex": 3,
+      "explanation": "The balance of trade records only the value of physical (visible) exports minus imports, whereas the balance of payments is a broader record including invisible trade (services), income, and capital flows."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Compared to a tariff, an import quota restricts trade mainly by",
+      "options": [
+        "taxing imported goods at a percentage of their value",
+        "subsidising domestic exporters directly",
+        "fixing a maximum physical quantity of a good that may be imported, regardless of price",
+        "banning all imports from a specific country permanently"
+      ],
+      "correctIndex": 2,
+      "explanation": "A quota is a direct quantitative restriction limiting how much of a good may be imported, whereas a tariff works indirectly by making imports more expensive through a tax rather than capping the quantity."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An Export Processing Zone (EPZ) is established mainly to",
+      "options": [
+        "restrict domestic firms from trading with any foreign country",
+        "offer incentives such as duty exemptions to firms producing goods primarily for export",
+        "ban all foreign investment within a country",
+        "regulate the retail price of goods sold within the home market"
+      ],
+      "correctIndex": 1,
+      "explanation": "EPZs are designated areas offering special incentives (like tax and duty exemptions) to attract firms that manufacture goods mainly intended for export, boosting a country's foreign exchange earnings."
+    },
+    {
+      "subject": "Commerce",
+      "text": "'Dumping' in international trade refers to a practice where a country",
+      "options": [
+        "refuses to export any goods to a rival trading partner",
+        "imports goods solely for re-export without any processing",
+        "imposes high tariffs on all imported raw materials",
+        "sells goods abroad at a price lower than that charged in its own domestic market, often below production cost"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dumping occurs when a producer exports goods at an artificially low price (often below cost or below the home-market price), which can be damaging to competing industries in the importing country."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A currency devaluation is generally expected to make a country's exports",
+      "options": [
+        "unaffected, since exchange rates have no impact on trade",
+        "more expensive and imports cheaper for foreign buyers",
+        "cheaper for foreign buyers, while imports become more expensive for domestic buyers",
+        "impossible to sell, since devaluation is a form of import quota"
+      ],
+      "correctIndex": 2,
+      "explanation": "Devaluation lowers the value of the domestic currency relative to others, making exports cheaper (and more attractive) to foreign buyers while making imports more costly for domestic buyers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "At the port, a Bill of Entry is submitted to customs to declare imported goods, whereas a Bill of Lading is primarily",
+      "options": [
+        "issued by customs authorities to calculate duty owed",
+        "a shipping document issued by the carrier, serving as a receipt for goods and evidence of the contract of carriage",
+        "a document confirming the exchange rate used for the transaction",
+        "used only for goods moving through a bonded warehouse"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Bill of Entry is a customs declaration document, while a Bill of Lading is issued by the shipping company as a receipt for goods shipped and evidence of the carriage contract, serving distinct purposes in the same transaction."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A Letter of Credit used in international trade financing mainly serves to",
+      "options": [
+        "replace the need for a bill of lading entirely",
+        "guarantee the exporter payment by the importer's bank once specified shipping documents are presented",
+        "provide personal accident insurance for the ship's crew",
+        "eliminate customs duties on the shipment"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Letter of Credit is a bank's undertaking to pay the exporter once the exporter presents the agreed shipping documents, reducing payment risk in international transactions between parties who may not know each other well."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A merchant bank differs from a typical commercial bank mainly in that a merchant bank",
+      "options": [
+        "only operates in the informal (unregulated) sector",
+        "focuses on wholesale banking services such as corporate finance and underwriting, rather than everyday retail deposits and withdrawals",
+        "is legally barred from lending money to any business",
+        "cannot accept any form of deposit from customers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Merchant banks specialise in wholesale banking services like corporate finance, underwriting share issues, and advising businesses, in contrast to commercial banks which focus on everyday retail deposits, withdrawals, and personal loans."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cheque crossed 'Account Payee Only' is designed mainly to",
+      "options": [
+        "convert the cheque into a bearer negotiable instrument",
+        "ensure the proceeds are paid only into the bank account of the named payee, reducing the risk of fraud",
+        "allow the cheque to be cashed over the counter by any bearer",
+        "cancel the cheque permanently, preventing any payment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Crossing a cheque 'Account Payee Only' restricts payment so that funds can only be credited to the named payee's own bank account, offering greater security than an open (uncrossed) cheque."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A bank draft differs from an ordinary personal cheque mainly because a bank draft is",
+      "options": [
+        "never accepted for international payments",
+        "drawn by the bank itself on its own funds, making it more secure than a cheque drawn by an individual customer",
+        "only usable for withdrawing cash from a savings account",
+        "issued exclusively by the central bank to commercial banks"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bank draft is issued and guaranteed by the bank against its own funds, making it more secure than a personal cheque, which depends on the drawer's account having sufficient funds."
+    },
+    {
+      "subject": "Commerce",
+      "text": "When a commercial bank grants a loan, it typically creates a corresponding deposit in the borrower's account, which can then be spent and re-deposited elsewhere in the banking system. This process describes",
+      "options": [
+        "the function of a bonded warehouse",
+        "credit creation by commercial banks",
+        "the principle of utmost good faith",
+        "the entrepot trade cycle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Credit creation refers to the way commercial banks expand the money supply by lending out a portion of deposits, with the loaned funds circulating and being redeposited, allowing further lending."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A discount house primarily specialises in",
+      "options": [
+        "storing perishable goods for exporters",
+        "dealing in short-term money market instruments, such as discounting bills of exchange and treasury bills",
+        "underwriting long-term life assurance policies",
+        "retailing consumer electronics at discounted prices"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount houses operate in the money market, specialising in buying and discounting short-term financial instruments like treasury bills and commercial bills, providing short-term liquidity to the financial system."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A standing order differs from a direct debit mainly in that a standing order",
+      "options": [
+        "must be renewed physically at the bank branch every single month",
+        "is illegal in most banking systems worldwide",
+        "can only be used to receive money, never to pay it out",
+        "is an instruction from the account holder to the bank to pay a fixed amount at fixed intervals, while a direct debit allows the payee to vary and collect amounts owed"
+      ],
+      "correctIndex": 3,
+      "explanation": "A standing order is set up by the account holder to pay a fixed sum regularly, whereas a direct debit authorises the payee (e.g., a utility company) to collect varying amounts directly from the account as they fall due."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A customer notices a discrepancy between their own cash book balance and the bank statement balance due to unpresented cheques and uncredited lodgements. Resolving this discrepancy is done through a process known as",
+      "options": [
+        "entrepot trade adjustment",
+        "bank reconciliation",
+        "underwriting",
+        "credit creation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bank reconciliation is the process of comparing and adjusting a firm's own cash book against the bank statement to account for timing differences like unpresented cheques and outstanding lodgements."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A development bank differs from a typical commercial bank mainly because a development bank",
+      "options": [
+        "provides long-term capital for specific developmental projects, such as agriculture or industry, rather than everyday retail banking",
+        "only accepts short-term deposits withdrawable on demand",
+        "is prohibited from ever charging interest on any loan",
+        "operates exclusively outside the country of incorporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Development banks are specialised institutions providing long-term finance to support specific sectors of the economy (like agriculture, industry, or housing), unlike commercial banks which mainly offer short-term retail banking services."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A property owner takes out fire insurance on a warehouse he does not own and has no financial stake in. Even though he honestly discloses all facts to the insurer (satisfying utmost good faith), the policy is still void because it lacks",
+      "options": [
+        "subrogation",
+        "insurable interest",
+        "indemnity",
+        "a cover note"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insurable interest requires the policyholder to have a genuine financial stake in the insured property; honesty (utmost good faith) alone cannot validate a policy where no such interest exists, as this would amount to gambling."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An insurance claim is rejected because the loss was found to have resulted from a cause not covered by the policy, even though a covered peril occurred earlier in the chain of events. This assessment relies on the principle of",
+      "options": [
+        "utmost good faith",
+        "contribution",
+        "proximate cause",
+        "average"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proximate cause requires identifying the dominant, most direct cause of a loss to determine whether it falls within the scope of perils covered by the policy."
+    },
+    {
+      "subject": "Commerce",
+      "text": "After compensating a policyholder for a car damaged by another driver's negligence, the insurer exercises its right to pursue the negligent third party for recovery. This right is known as",
+      "options": [
+        "reinsurance",
+        "contribution",
+        "average clause",
+        "subrogation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subrogation allows an insurer, having paid a claim, to step into the insured's legal position and pursue recovery from the responsible third party, preventing the insured from profiting doubly from the same loss."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A warehouse is insured for the same risk with two different insurance companies. When a loss occurs, both insurers share the compensation proportionately rather than one paying the full amount. This illustrates the principle of",
+      "options": [
+        "proximate cause",
+        "contribution",
+        "subrogation",
+        "insurable interest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contribution ensures that when the same risk is covered by more than one insurer, each shares the cost of a claim proportionately, preventing the insured from recovering more than the actual loss from multiple policies."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A trader insures goods worth N1,000,000 for only N600,000. If a partial loss of N400,000 occurs and the average clause applies, the trader will receive compensation of",
+      "options": [
+        "N600,000, the full sum insured",
+        "N400,000 in full",
+        "N240,000, since the trader bears a share of the loss proportional to the under-insurance",
+        "N1,000,000, the full value of the goods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under the average clause, compensation is scaled down in proportion to the extent of under-insurance: (600,000/1,000,000) x 400,000 = N240,000, with the trader bearing the rest as a self-insured co-insurer."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An insurance company that itself takes out a policy with another insurer to spread the risk of very large claims is engaging in",
+      "options": [
+        "double insurance",
+        "entrepot insurance",
+        "reinsurance",
+        "co-insurance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reinsurance is the practice by which an insurer transfers part of its own risk to another insurer, protecting itself against unusually large or catastrophic claims."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Comprehensive motor insurance differs from third-party motor insurance mainly in that comprehensive cover additionally protects the",
+      "options": [
+        "policyholder's own vehicle against damage, theft, and fire, in addition to third-party liability",
+        "government against loss of fuel tax revenue",
+        "third party's vehicle only, excluding the policyholder's own car",
+        "insurer against having to pay any claims at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "Third-party insurance covers only liability for damage or injury caused to others, while comprehensive insurance additionally covers the policyholder's own vehicle against damage, theft, and fire."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cover note issued by an insurer differs from the full insurance policy document in that a cover note",
+      "options": [
+        "can only be issued after a claim has already been paid",
+        "is a permanent, final contract document that never expires",
+        "replaces the need for payment of any premium",
+        "provides temporary evidence of insurance cover pending the issue of the full policy document"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cover note is a temporary certificate confirming that insurance cover is in force immediately, bridging the gap before the formal, detailed policy document is finalised and issued."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Containerization in sea transport has mainly improved international trade by",
+      "options": [
+        "reducing handling time, damage, and pilferage of cargo during loading and transhipment",
+        "eliminating the need for any bill of lading",
+        "making it illegal to transport perishable goods by sea",
+        "restricting sea transport to only bulk liquid cargo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standardised containers can be moved quickly between ship, rail, and road without repeatedly unpacking goods, reducing handling costs, transit damage, and theft compared to loose cargo."
+    },
+    {
+      "subject": "Commerce",
+      "text": "'Demurrage' in shipping refers to a charge imposed on",
+      "options": [
+        "a charterer or consignee who fails to load or unload a vessel within the agreed free time, delaying its departure",
+        "an exporter for insuring goods above their market value",
+        "an importer who pays customs duty ahead of schedule",
+        "a shipping line for using containers instead of loose cargo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Demurrage is a penalty charge levied when a ship is detained at port beyond the agreed free time due to delays in loading or discharging cargo, compensating the shipowner for lost time."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A freight forwarder's main role in international trade is to",
+      "options": [
+        "underwrite marine insurance policies directly",
+        "act as an agent who organises the shipment, documentation, and customs clearance of goods on behalf of exporters or importers",
+        "set the exchange rate for cross-border transactions",
+        "manufacture goods on behalf of an exporter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Freight forwarders act as specialist agents who coordinate the logistics, documentation, and customs processes involved in moving goods internationally, on behalf of traders who may lack this expertise."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Postal services and telecommunications both aid trade through communication, but they differ mainly in that postal services",
+      "options": [
+        "cannot be used for any commercial correspondence",
+        "are entirely electronic, while telecommunications rely solely on physical delivery",
+        "have been made completely obsolete by e-commerce",
+        "primarily involve the physical conveyance of letters and parcels, while telecommunications transmit information electronically"
+      ],
+      "correctIndex": 3,
+      "explanation": "Postal services physically deliver letters, documents and parcels, whereas telecommunications (phone, internet, etc.) transmit information electronically and instantaneously, though both serve the communication needs of commerce."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A warehouse receipt issued for goods deposited in a warehouse can be useful to a trader mainly because it",
+      "options": [
+        "grants the trader exemption from paying import duty",
+        "replaces the need for a bill of lading in all circumstances",
+        "can be used as collateral to obtain a loan from a bank, since it evidences ownership of stored goods",
+        "automatically insures the goods against fire"
+      ],
+      "correctIndex": 2,
+      "explanation": "A warehouse receipt evidencing goods held in store can be pledged as security, allowing a trader to raise short-term finance from a bank against the value of the stored goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Tourism is often classified in trade statistics as an 'invisible export' mainly because it",
+      "options": [
+        "involves the physical shipment of tangible goods across borders",
+        "always results in a trade deficit for the host country",
+        "is exclusively a government-run activity with no private sector role",
+        "earns foreign exchange for the host country through services rendered to foreign visitors, without any physical good crossing the border"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tourism brings in foreign exchange as visitors spend on services like accommodation, food and entertainment, similar to an export, yet no physical/tangible good is shipped abroad, making it an invisible export."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Multimodal transport in international trade refers to the movement of goods",
+      "options": [
+        "exclusively by a single mode, such as road transport alone",
+        "only within the boundaries of one country",
+        "under a single contract, using two or more different modes of transport (e.g., sea, rail, and road) in one continuous journey",
+        "solely through pipelines regardless of the type of cargo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multimodal transport combines two or more transport modes under a single contract of carriage, allowing seamless movement of cargo, for instance from ship to rail to road, without separate contracts for each leg."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A charter party is a document that",
+      "options": [
+        "sets out the contract terms when a shipowner hires out an entire ship or part of it to a charterer for a voyage or period of time",
+        "certifies the country of origin of goods being shipped",
+        "grants a warehouse operator the right to sell unclaimed goods",
+        "evidences ownership of shares in a shipping company"
+      ],
+      "correctIndex": 0,
+      "explanation": "A charter party is the contract between a shipowner and a charterer (who hires the vessel), specifying terms such as the route, duration, and freight charges for use of the ship."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Under an FOB (Free on Board) contract, as distinct from a CIF (Cost, Insurance, Freight) contract, the seller's responsibility for the goods generally ends once the goods",
+      "options": [
+        "are manufactured, regardless of shipment",
+        "arrive at the buyer's final warehouse",
+        "pass the ship's rail at the port of shipment, after which the buyer bears freight and insurance costs",
+        "are cleared through the buyer's home customs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under FOB terms, the seller's obligation ends once goods are loaded onto the ship at the port of shipment; under CIF, by contrast, the seller additionally arranges and pays for freight and insurance to the destination port."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A partnership deed typically specifies all of the following EXCEPT the",
+      "options": [
+        "amount of capital each partner is to contribute",
+        "proportion in which partners will share profits and losses",
+        "individual retail prices to be charged for every product sold nationwide by unrelated competitors",
+        "procedure for admitting a new partner or dissolving the partnership"
+      ],
+      "correctIndex": 2,
+      "explanation": "A partnership deed governs the internal relationship among the partners themselves (capital, profit-sharing, admission/dissolution procedures), not the pricing decisions of unrelated, competing businesses."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A sleeping (dormant) partner in a partnership is one who",
+      "options": [
+        "is legally excluded from sharing in the firm's profits",
+        "takes no active part in managing the business but still contributes capital and shares in profits and liability",
+        "is actively involved in daily management but contributes no capital at all",
+        "has no liability whatsoever for the debts of the firm"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sleeping partner invests capital and shares in the risks/profits of the business but does not participate in its day-to-day management, unlike an active (general) partner."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Memorandum of Association of a registered company differs from its Articles of Association mainly in that the Memorandum",
+      "options": [
+        "governs the internal management and day-to-day rules of the company",
+        "is optional and never required for company registration",
+        "defines the company's relationship with the outside world, including its name, objectives, and registered office",
+        "lists the names of all customers the company intends to serve"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Memorandum of Association defines the company's external relationship with the public (name, objects, registered office, capital), while the Articles of Association set out the internal rules governing management and shareholder relations."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A company has an authorised share capital of N10,000,000, has issued shares worth N7,000,000 to shareholders, but has so far only received N5,000,000 in actual cash payment for those shares. The N5,000,000 already received represents the company's",
+      "options": [
+        "issued capital",
+        "uncalled capital only, with no other classification",
+        "authorised capital",
+        "paid-up capital"
+      ],
+      "correctIndex": 3,
+      "explanation": "Paid-up capital is the portion of issued capital that shareholders have actually paid in cash, as distinct from authorised capital (the maximum the company may issue) and issued capital (shares actually allotted)."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A trading business records a total turnover (sales revenue) of N8,000,000 for the year. If its cost of goods sold and total operating expenses amount to N6,500,000, its net profit for the year is",
+      "options": [
+        "N1,500,000",
+        "N8,000,000",
+        "N14,500,000",
+        "N6,500,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Net profit is turnover minus total costs and expenses: N8,000,000 minus N6,500,000 equals N1,500,000; turnover alone is not the same as profit."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A debenture differs fundamentally from an ordinary share in that a debenture holder is a",
+      "options": [
+        "government regulator overseeing the company's operations",
+        "part-owner of the company entitled to vote at general meetings",
+        "creditor of the company entitled to fixed interest, regardless of whether the company makes a profit",
+        "shareholder entitled only to residual profits after all other claims are settled"
+      ],
+      "correctIndex": 2,
+      "explanation": "A debenture represents a loan to the company, so its holder is a creditor entitled to fixed interest payments regardless of profitability, unlike a shareholder, who is a part-owner with variable dividend entitlement dependent on profits."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A preference share differs from an ordinary share mainly in that a preference shareholder",
+      "options": [
+        "is legally classified as a creditor rather than a part-owner",
+        "always receives a higher dividend than ordinary shareholders in a highly profitable year",
+        "has a prior claim to a fixed dividend before ordinary shareholders are paid anything",
+        "has greater voting rights than an ordinary shareholder at general meetings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Preference shareholders receive a fixed dividend and are paid before ordinary shareholders, but typically forgo the higher (variable) returns ordinary shareholders may enjoy in a very profitable year, and usually have limited or no voting rights."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A cooperative society's principle of 'one member, one vote', regardless of the size of a member's shareholding, mainly distinguishes it from a",
+      "options": [
+        "partnership, where votes are always distributed equally by law",
+        "sole proprietorship, where the single owner naturally has full control",
+        "public limited company, where voting power is generally proportional to the number of shares held",
+        "public corporation, which has no shareholders at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike a public limited company where voting power typically depends on the number of shares owned, a cooperative society upholds democratic control by giving every member an equal vote regardless of their financial contribution."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A public corporation differs from a public limited liability company mainly in that a public corporation is",
+      "options": [
+        "prohibited from employing any staff",
+        "always smaller in size than a typical private company",
+        "wholly owned and financed by the government to provide a public service, rather than owned by private shareholders seeking profit",
+        "financed exclusively through the sale of shares on the stock exchange"
+      ],
+      "correctIndex": 2,
+      "explanation": "A public corporation is a state-owned enterprise established to provide essential services, financed mainly by government, whereas a public limited company is owned by private shareholders who buy its shares on the stock exchange."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Because an ordinary partnership generally has unlimited liability, if the partnership's assets of N2,000,000 are insufficient to cover its debts of N3,500,000, the partners are legally required to",
+      "options": [
+        "walk away, since the partnership is a separate legal entity",
+        "cover the shortfall of N1,500,000 from their own personal assets",
+        "ask the government to write off the debt entirely",
+        "convert automatically into a limited liability company to avoid payment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under unlimited liability, if a partnership's business assets cannot cover its debts, the partners must make up the shortfall from their personal assets, a key risk of this business form."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A franchise arrangement allows a franchisee to",
+      "options": [
+        "become an unrestricted owner of the franchisor's entire company",
+        "avoid ever paying any fee to the franchisor",
+        "operate a business using an established brand name, products, and business model in exchange for fees paid to the franchisor",
+        "trade under a completely new, unrelated brand name of their own choosing"
+      ],
+      "correctIndex": 2,
+      "explanation": "In franchising, the franchisee pays fees for the right to trade using the franchisor's established brand, products, and proven business methods, while the franchisor retains overall brand ownership."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A holding company's relationship to its subsidiary is best described as one where the holding company",
+      "options": [
+        "is legally merged into a single indistinguishable entity with the subsidiary",
+        "must always own exactly 100% of the subsidiary's total shares",
+        "owns a controlling interest in the subsidiary's shares, giving it power to influence or control the subsidiary's policies",
+        "has no financial interest whatsoever in the subsidiary"
+      ],
+      "correctIndex": 2,
+      "explanation": "A holding company owns enough shares (a controlling interest, not necessarily 100%) in another company (the subsidiary) to control its board and major policy decisions, while both remain separate legal entities."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A registered company may be compulsorily wound up (liquidated) by court order mainly when it",
+      "options": [
+        "is unable to pay its debts as they fall due, among other statutory grounds",
+        "changes its registered trading name",
+        "declares a dividend higher than the previous year",
+        "increases its authorised share capital through a rights issue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Inability to pay debts as they become due is one of the principal statutory grounds on which a court may order the compulsory winding up (liquidation) of a company."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The primary market for securities differs from the secondary market mainly in that the primary market deals with",
+      "options": [
+        "the sale of newly issued securities directly by companies to raise fresh capital",
+        "only government treasury bills, never company shares",
+        "the resale of previously issued shares between existing investors",
+        "shares that have already been delisted from the exchange"
+      ],
+      "correctIndex": 0,
+      "explanation": "The primary market is where new securities are issued and sold for the first time to raise fresh capital, while the secondary market (like the stock exchange trading floor) facilitates subsequent trading of already-issued securities among investors."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Second-Tier Securities Market (SSM) was specifically established to enable",
+      "options": [
+        "the complete elimination of stockbrokers from securities trading",
+        "the government to sell treasury bills exclusively",
+        "only long-established multinational companies to raise additional capital",
+        "smaller and medium-sized companies, unable to meet full listing requirements, to raise capital through the stock exchange"
+      ],
+      "correctIndex": 3,
+      "explanation": "The SSM offers relaxed listing requirements compared to the main market, giving smaller and growing companies that cannot meet the full listing criteria access to capital through the stock exchange."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A 'bull market' on a stock exchange describes a period when",
+      "options": [
+        "trading on the exchange is suspended entirely",
+        "share prices are generally rising, and investor sentiment is optimistic",
+        "only government bonds may be traded",
+        "share prices are generally falling, and investor sentiment is pessimistic"
+      ],
+      "correctIndex": 1,
+      "explanation": "A bull market refers to a sustained period of rising share prices, driven by optimistic investor sentiment, in contrast to a bear market, which is characterised by falling prices and pessimism."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A rights issue allows a company to raise additional capital by",
+      "options": [
+        "giving away shares completely free to the general public",
+        "borrowing money exclusively from a single commercial bank",
+        "offering new shares first to existing shareholders, usually at a discounted price, in proportion to their current holdings",
+        "converting all its ordinary shares into debentures"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a rights issue, a company offers existing shareholders the right to buy new shares, usually at a discount and in proportion to their current shareholding, before the shares are offered more widely."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A bond is similar to a debenture in that both represent",
+      "options": [
+        "profit-sharing instruments with no fixed return",
+        "ownership stakes entitling the holder to vote at company meetings",
+        "shares that can never be transferred to another investor",
+        "a form of debt/loan capital on which the issuer pays fixed interest to the holder"
+      ],
+      "correctIndex": 3,
+      "explanation": "Both bonds and debentures are debt instruments representing a loan to the issuer (company or government), obliging the issuer to pay fixed interest, unlike shares which represent ownership."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A bonus (scrip) issue of shares involves a company",
+      "options": [
+        "capitalising part of its reserves to issue additional free shares to existing shareholders in proportion to their holdings",
+        "converting ordinary shares into government treasury bills",
+        "selling brand new shares to the public for cash at market price",
+        "buying back and cancelling shares already held by investors"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bonus issue converts accumulated reserves into additional shares distributed free to existing shareholders in proportion to their current holdings, without requiring any new cash payment from them."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An investor who spreads funds across shares in several different companies and sectors, rather than a single stock, is practising",
+      "options": [
+        "insider trading",
+        "underwriting",
+        "entrepot investment",
+        "portfolio diversification, mainly to reduce overall investment risk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diversification spreads investment across multiple securities or sectors so that poor performance in one holding is offset by others, reducing the investor's overall risk exposure."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A stockbroker's main function on the stock exchange is to",
+      "options": [
+        "insure investors against any loss of share value",
+        "set the official exchange rate of the national currency",
+        "manufacture the shares that companies issue",
+        "act as an agent who buys and sells securities on behalf of clients (investors), earning a commission"
+      ],
+      "correctIndex": 3,
+      "explanation": "Stockbrokers act as licensed intermediaries who execute buy and sell orders for securities on behalf of their clients, in return for a commission, since individual investors typically cannot trade directly on the exchange floor."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A company that groups its target customers by age, income, and family size, rather than by geographic region alone, is applying which basis of market segmentation?",
+      "options": [
+        "Behavioural segmentation exclusively",
+        "Demographic segmentation",
+        "Geographic segmentation only",
+        "No segmentation, since all customers are treated identically"
+      ],
+      "correctIndex": 1,
+      "explanation": "Demographic segmentation divides a market according to measurable population characteristics such as age, income, gender, and family size, distinct from geographic (location-based) or psychographic (lifestyle-based) segmentation."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A product experiencing rapidly rising sales, growing competition, and the need for extensive promotion to build brand preference is most likely in which stage of the product life cycle?",
+      "options": [
+        "Introduction stage",
+        "Decline stage",
+        "Growth stage",
+        "Maturity stage"
+      ],
+      "correctIndex": 2,
+      "explanation": "The growth stage is marked by rapidly increasing sales as the product gains market acceptance, attracting competitors, requiring strong promotional efforts to build brand preference over rivals."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A company launching a genuinely innovative product sets a very high initial price to maximise revenue from early adopters before gradually lowering it. This pricing strategy is known as",
+      "options": [
+        "cost-plus pricing",
+        "loss-leader pricing",
+        "penetration pricing",
+        "price skimming"
+      ],
+      "correctIndex": 3,
+      "explanation": "Price skimming involves setting a high initial price to capture maximum revenue from customers willing to pay a premium, before gradually reducing the price to attract more price-sensitive segments."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A firm setting a deliberately low initial price to quickly gain market share and discourage competitors from entering is using",
+      "options": [
+        "prestige pricing",
+        "penetration pricing",
+        "price skimming",
+        "psychological pricing only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Penetration pricing sets an initially low price to rapidly build market share and customer base, often to establish a strong market position before potentially raising prices later."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Below-the-line promotion differs from above-the-line promotion mainly in that below-the-line activities",
+      "options": [
+        "are illegal in most commercial jurisdictions",
+        "involve more direct, targeted promotional tools like sales promotions, direct mail, and point-of-sale displays rather than mass media",
+        "rely on mass media advertising, such as television and radio, to reach a broad audience",
+        "can never be measured for effectiveness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Below-the-line promotion uses direct, targeted techniques (sales promotions, direct mail, exhibitions) aimed at specific audiences, in contrast to above-the-line promotion, which uses mass media advertising to reach a broad, general audience."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A firm launches a new product in a limited regional market before a full national rollout, in order to gauge consumer reaction and refine the marketing mix. This practice is known as",
+      "options": [
+        "price skimming",
+        "product positioning",
+        "test marketing",
+        "market segmentation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Test marketing involves trialing a product in a small, representative market to assess consumer response and adjust the marketing strategy before committing to a full-scale launch."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Effective after-sales customer service (e.g., handling complaints, offering warranties) contributes to marketing success mainly by",
+      "options": [
+        "replacing the need for any pricing strategy",
+        "guaranteeing that a product will never be returned",
+        "building customer satisfaction and loyalty, encouraging repeat purchases",
+        "eliminating the need for product quality control during manufacturing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strong after-sales service builds trust and satisfaction, increasing the likelihood that customers return for repeat purchases and recommend the brand to others, reinforcing long-term marketing success."
+    },
+    {
+      "subject": "Commerce",
+      "text": "When a business deliberately creates a distinct image for its product in the consumer's mind relative to competing brands (for example, as the 'premium' or 'budget' option), it is engaging in",
+      "options": [
+        "entrepot marketing",
+        "product positioning",
+        "breaking bulk",
+        "market skimming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Positioning refers to the deliberate effort to shape how consumers perceive a product relative to competitors, often emphasising a specific attribute, price tier, or brand image."
+    },
+    {
+      "subject": "Commerce",
+      "text": "E-commerce differs from the broader concept of e-business mainly in that e-commerce refers specifically to",
+      "options": [
+        "a form of barter trade using digital tokens",
+        "all internal digital processes of a company, including HR and internal communication",
+        "the buying and selling of goods and services over electronic networks such as the internet",
+        "the manufacturing of computer hardware"
+      ],
+      "correctIndex": 2,
+      "explanation": "E-commerce narrowly refers to online buying and selling transactions, while e-business is the broader term covering all digital processes a company runs online, including internal operations, supply chain, and customer relationship management."
+    },
+    {
+      "subject": "Commerce",
+      "text": "E-banking (electronic banking) primarily allows customers to",
+      "options": [
+        "print their own physical currency notes at home",
+        "eliminate the central bank's regulatory oversight of commercial banks",
+        "perform banking transactions such as transfers and bill payments electronically, without visiting a physical branch",
+        "avoid ever needing a bank account"
+      ],
+      "correctIndex": 2,
+      "explanation": "E-banking channels (internet banking, mobile apps, ATMs) let customers carry out transactions like transfers, balance inquiries, and bill payments remotely, without needing to visit a bank branch in person."
+    },
+    {
+      "subject": "Commerce",
+      "text": "In computing terminology relevant to commerce, 'bandwidth' most accurately refers to",
+      "options": [
+        "the physical size of a computer's hard drive",
+        "the number of employees a company has trained in ICT",
+        "the total value of goods sold through an online store",
+        "the maximum rate of data that can be transmitted over an internet connection in a given time"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bandwidth measures the capacity of a network connection to transmit data within a given period, which directly affects the speed and reliability of online transactions and e-commerce platforms."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major challenge that can undermine consumer confidence in e-commerce transactions is",
+      "options": [
+        "the elimination of physical retail stores worldwide",
+        "concerns over the security of online payments and protection of personal financial data",
+        "excessive availability of product reviews",
+        "the requirement that all online stores must operate 24 hours a day"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because e-commerce transactions involve transmitting sensitive payment and personal data online, concerns about fraud, hacking, and data security are major factors that can deter consumers from shopping online."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A 'firewall' in the context of ICT security for online commercial platforms is best described as",
+      "options": [
+        "a software or hardware system that monitors and controls incoming and outgoing network traffic to protect against unauthorised access",
+        "a legal document authorising an online business to trade internationally",
+        "a type of insurance policy covering fire damage to computer equipment",
+        "a physical warehouse used to store flammable goods"
+      ],
+      "correctIndex": 0,
+      "explanation": "A firewall is a network security system, either software or hardware based, that filters traffic between a trusted internal network and external networks to block unauthorised access and cyber threats."
+    }
+  ]
+}

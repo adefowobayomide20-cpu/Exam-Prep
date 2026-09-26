@@ -1,5 +1,13 @@
 {
   "projects": {
     "default": "exam-prep-ng"
+  },
+  "targets": {
+    "exam-prep-ng": {
+      "hosting": {
+        "flutter": ["exam-prep-ng"],
+        "webnext": ["examcoach-next"]
+      }
+    }
   }
 }

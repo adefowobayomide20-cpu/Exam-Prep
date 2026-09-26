@@ -1,0 +1,1206 @@
+{
+  "subject": "Government",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Government",
+      "text": "Government can be best defined as",
+      "options": [
+        "a group of people living together in a defined territory",
+        "an association formed purely for economic gain",
+        "the machinery or agency through which the will of the state is formulated, expressed, and realised",
+        "a body responsible only for collecting taxes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Government is the institution through which the state exercises authority, makes laws, and carries out its policies."
+    },
+    {
+      "subject": "Government",
+      "text": "The ability to influence or control the behaviour of others, with or without their consent, is called",
+      "options": [
+        "legitimacy",
+        "power",
+        "authority",
+        "sovereignty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power is the raw capacity to make others act in a certain way, which may or may not be recognised as rightful."
+    },
+    {
+      "subject": "Government",
+      "text": "The right or recognised power to command, enforce laws, and exact obedience is called",
+      "options": [
+        "society",
+        "anarchy",
+        "authority",
+        "power"
+      ],
+      "correctIndex": 2,
+      "explanation": "Authority is power that is recognised as legitimate, typically backed by law, tradition, or consent of the governed."
+    },
+    {
+      "subject": "Government",
+      "text": "The acceptance by the people that a government's exercise of power is right and proper is called",
+      "options": [
+        "power",
+        "legitimacy",
+        "nationalism",
+        "sovereignty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Legitimacy refers to the popular acceptance of a government's authority as rightful, whether based on law, tradition, or consent."
+    },
+    {
+      "subject": "Government",
+      "text": "The supreme, final, and unlimited power of a state to make and enforce laws within its territory, free from external control, is called",
+      "options": [
+        "legitimacy",
+        "sovereignty",
+        "authority",
+        "power"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sovereignty is the highest authority a state possesses, both internally over its citizens and externally in relation to other states."
+    },
+    {
+      "subject": "Government",
+      "text": "The aspect of sovereignty concerned with a state's supreme authority over all persons and groups within its territory is called",
+      "options": [
+        "external sovereignty",
+        "internal sovereignty",
+        "legal sovereignty",
+        "popular sovereignty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal sovereignty means the state has the highest authority over all individuals, groups, and institutions within its own borders."
+    },
+    {
+      "subject": "Government",
+      "text": "The aspect of sovereignty concerned with a state's independence and freedom from control by other states is called",
+      "options": [
+        "external sovereignty",
+        "legal sovereignty",
+        "internal sovereignty",
+        "popular sovereignty"
+      ],
+      "correctIndex": 0,
+      "explanation": "External sovereignty refers to a state's recognition as independent and free from the political control of any other state."
+    },
+    {
+      "subject": "Government",
+      "text": "A politically organised community, permanently occupying a defined territory, with an independent government, is called a",
+      "options": [
+        "state",
+        "society",
+        "nation",
+        "tribe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A state is a legal and political entity with a defined territory, population, government, and sovereignty."
+    },
+    {
+      "subject": "Government",
+      "text": "A group of people sharing common history, culture, language, or ancestry, and a sense of unity, regardless of political boundaries, is called a",
+      "options": [
+        "nation",
+        "state",
+        "government",
+        "society"
+      ],
+      "correctIndex": 0,
+      "explanation": "A nation is defined by shared cultural or historical identity, which may or may not correspond to the boundaries of a single state."
+    },
+    {
+      "subject": "Government",
+      "text": "A broad group of people living together, interacting, and sharing a common way of life is called a",
+      "options": [
+        "government",
+        "society",
+        "state",
+        "nation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Society refers generally to people living together in an organised community, sharing customs and institutions."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following is a basic characteristic of government?",
+      "options": [
+        "It cannot levy taxes on citizens",
+        "It is always formed by a single political party",
+        "It possesses the authority to make and enforce binding laws",
+        "It exists only in democratic states"
+      ],
+      "correctIndex": 2,
+      "explanation": "A defining feature of government, in any political system, is its authority to make, interpret, and enforce laws binding on the population."
+    },
+    {
+      "subject": "Government",
+      "text": "An economic and political ideology advocating that the means of production should be owned and controlled by the state for the benefit of all is called",
+      "options": [
+        "communalism",
+        "capitalism",
+        "feudalism",
+        "socialism"
+      ],
+      "correctIndex": 3,
+      "explanation": "Socialism holds that resources and production should be collectively or state-owned to reduce inequality and serve the common good."
+    },
+    {
+      "subject": "Government",
+      "text": "An economic system based on private ownership of the means of production, free markets, and the pursuit of individual profit is called",
+      "options": [
+        "communism",
+        "capitalism",
+        "feudalism",
+        "socialism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capitalism emphasises private property, free enterprise, and market competition, with minimal state control of the economy."
+    },
+    {
+      "subject": "Government",
+      "text": "An extreme, authoritarian, ultra-nationalist ideology emphasising the supremacy of the state and often a single dictatorial leader is called",
+      "options": [
+        "fascism",
+        "welfarism",
+        "socialism",
+        "communism"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fascism is a far-right, authoritarian ideology marked by dictatorial power, extreme nationalism, and suppression of opposition."
+    },
+    {
+      "subject": "Government",
+      "text": "An ideology advocating a classless society in which all property is communally owned and wealth is distributed according to need is called",
+      "options": [
+        "communism",
+        "fascism",
+        "feudalism",
+        "capitalism"
+      ],
+      "correctIndex": 0,
+      "explanation": "Communism aims for a classless, stateless society where the means of production are owned in common and goods are shared according to need."
+    },
+    {
+      "subject": "Government",
+      "text": "A traditional African social and economic system based on collective ownership of land and resources by the community is called",
+      "options": [
+        "feudalism",
+        "communalism",
+        "capitalism",
+        "fascism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Communalism reflects the traditional African practice where land and key resources belong to the community as a whole, not individuals."
+    },
+    {
+      "subject": "Government",
+      "text": "A social and economic system, historically found in medieval Europe, based on land tenure in exchange for service or loyalty to a lord is called",
+      "options": [
+        "capitalism",
+        "communalism",
+        "feudalism",
+        "socialism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Feudalism structured society around lords granting land (fiefs) to vassals in return for military or other service, with peasants working the land."
+    },
+    {
+      "subject": "Government",
+      "text": "A state that combines a market economy with extensive government provision of social services such as healthcare, education, and social security is called a",
+      "options": [
+        "police state",
+        "welfare state",
+        "unitary state",
+        "confederal state"
+      ],
+      "correctIndex": 1,
+      "explanation": "A welfare state ensures citizens' basic well-being through government-funded social programmes, alongside a market-based economy."
+    },
+    {
+      "subject": "Government",
+      "text": "Rights considered basic and inherent to every human being, such as the right to life, liberty, and freedom of expression, are called",
+      "options": [
+        "civic rights only",
+        "property rights only",
+        "political party rights",
+        "fundamental human rights"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fundamental human rights are entitlements assumed to belong to every person by virtue of being human, often guaranteed in a constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "The principle that no one, including the government, is above the law, and that all citizens are equal before the law, is called the",
+      "options": [
+        "federalism",
+        "checks and balances",
+        "rule of law",
+        "separation of powers"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rule of law ensures that laws apply equally to everyone, government actions are bound by law, and no one is above legal accountability."
+    },
+    {
+      "subject": "Government",
+      "text": "The organ of government responsible for making laws is the",
+      "options": [
+        "executive",
+        "civil service",
+        "judiciary",
+        "legislature"
+      ],
+      "correctIndex": 3,
+      "explanation": "The legislature (e.g., parliament or national assembly) is primarily responsible for debating and enacting laws."
+    },
+    {
+      "subject": "Government",
+      "text": "A legislature made up of only one chamber or house is called",
+      "options": [
+        "tricameral",
+        "unicameral",
+        "presidential",
+        "bicameral"
+      ],
+      "correctIndex": 1,
+      "explanation": "A unicameral legislature has a single legislative chamber, unlike a bicameral legislature which has two."
+    },
+    {
+      "subject": "Government",
+      "text": "A legislature made up of two separate chambers or houses, such as a senate and a house of representatives, is called",
+      "options": [
+        "bicameral",
+        "parliamentary",
+        "unicameral",
+        "tricameral"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bicameral legislature divides law-making power between two chambers, often to allow for more deliberation and representation."
+    },
+    {
+      "subject": "Government",
+      "text": "The organ of government responsible for implementing and enforcing laws is the",
+      "options": [
+        "executive",
+        "judiciary",
+        "legislature",
+        "electorate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The executive carries out the day-to-day administration of government and enforces laws passed by the legislature."
+    },
+    {
+      "subject": "Government",
+      "text": "Elected officials, such as the president and ministers, who form the political leadership of the executive, are collectively called the",
+      "options": [
+        "permanent (civil service) executive",
+        "political executive",
+        "judiciary",
+        "legislature"
+      ],
+      "correctIndex": 1,
+      "explanation": "The political executive consists of elected or appointed officeholders who set policy direction, distinct from career civil servants."
+    },
+    {
+      "subject": "Government",
+      "text": "Career officials who serve the government on a permanent, non-partisan basis regardless of which party is in power form the",
+      "options": [
+        "political executive",
+        "permanent executive (civil service)",
+        "judiciary",
+        "legislature"
+      ],
+      "correctIndex": 1,
+      "explanation": "The permanent executive (civil service) provides continuity and administrative expertise, serving successive governments impartially."
+    },
+    {
+      "subject": "Government",
+      "text": "The organ of government responsible for interpreting laws and administering justice is the",
+      "options": [
+        "judiciary",
+        "electorate",
+        "legislature",
+        "executive"
+      ],
+      "correctIndex": 0,
+      "explanation": "The judiciary interprets and applies the law, resolving disputes and ensuring justice is administered fairly."
+    },
+    {
+      "subject": "Government",
+      "text": "The power of the courts to examine and invalidate laws or executive actions that conflict with the constitution is called",
+      "options": [
+        "separation of powers",
+        "judicial independence",
+        "rule of law",
+        "judicial review"
+      ],
+      "correctIndex": 3,
+      "explanation": "Judicial review allows courts to strike down legislation or government actions found to be unconstitutional."
+    },
+    {
+      "subject": "Government",
+      "text": "The principle that the judiciary should be free from interference by the executive or legislature in performing its duties is called",
+      "options": [
+        "judicial review",
+        "separation of powers",
+        "judicial independence",
+        "rule of law"
+      ],
+      "correctIndex": 2,
+      "explanation": "Judicial independence protects judges from political pressure, ensuring impartial administration of justice."
+    },
+    {
+      "subject": "Government",
+      "text": "The theory that the three organs of government (legislature, executive, and judiciary) should be distinct and exercise separate functions is called the doctrine of",
+      "options": [
+        "separation of powers",
+        "federalism",
+        "rule of law",
+        "checks and balances"
+      ],
+      "correctIndex": 0,
+      "explanation": "The separation of powers theory, associated with Montesquieu, argues that dividing government functions among three organs prevents the concentration and abuse of power."
+    },
+    {
+      "subject": "Government",
+      "text": "The philosopher most closely associated with developing the theory of separation of powers is",
+      "options": [
+        "Thomas Hobbes",
+        "Jean-Jacques Rousseau",
+        "John Locke",
+        "Montesquieu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Montesquieu, in his work 'The Spirit of the Laws', systematically developed the theory advocating separate legislative, executive, and judicial powers."
+    },
+    {
+      "subject": "Government",
+      "text": "The system of mutual restraints in which each organ of government can limit the powers of the others is called",
+      "options": [
+        "sovereignty",
+        "separation of powers",
+        "rule of law",
+        "checks and balances"
+      ],
+      "correctIndex": 3,
+      "explanation": "Checks and balances allow each arm of government to monitor and restrain the actions of the others, preventing abuse of power."
+    },
+    {
+      "subject": "Government",
+      "text": "Under a presidential system of government, the separation of powers is generally applied",
+      "options": [
+        "strictly, with the executive and legislature elected separately and independently",
+        "loosely, with the executive drawn entirely from the legislature",
+        "not at all, since one person controls all three organs",
+        "only to the judiciary and not the other organs"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a presidential system, the executive (president) is elected separately from the legislature, reflecting a stricter separation of powers."
+    },
+    {
+      "subject": "Government",
+      "text": "Under a parliamentary system of government, executive power is generally",
+      "options": [
+        "held by an unelected hereditary monarch alone",
+        "shared equally among three independent branches",
+        "fused with the legislature, as the executive is drawn from and answerable to parliament",
+        "completely separate from the legislature"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a parliamentary system, the prime minister and cabinet are typically drawn from the legislature and remain accountable to it, reflecting a fusion of powers."
+    },
+    {
+      "subject": "Government",
+      "text": "A constitution that is contained in a single formal document, deliberately drafted and adopted, is called a",
+      "options": [
+        "unwritten constitution",
+        "written constitution",
+        "flexible constitution",
+        "monarchical constitution"
+      ],
+      "correctIndex": 1,
+      "explanation": "A written constitution is codified in one authoritative document, such as most modern national constitutions."
+    },
+    {
+      "subject": "Government",
+      "text": "A constitution based mainly on customs, conventions, judicial decisions, and various historical documents, rather than a single formal text, is called an",
+      "options": [
+        "rigid constitution",
+        "republican constitution",
+        "written constitution",
+        "unwritten constitution"
+      ],
+      "correctIndex": 3,
+      "explanation": "An unwritten constitution, such as that of the United Kingdom, derives from a combination of statutes, common law, and long-standing conventions."
+    },
+    {
+      "subject": "Government",
+      "text": "A constitution that can be easily amended through the ordinary law-making process is called a",
+      "options": [
+        "flexible constitution",
+        "monarchical constitution",
+        "written constitution",
+        "rigid constitution"
+      ],
+      "correctIndex": 0,
+      "explanation": "A flexible constitution can be changed by the same simple procedure used for passing ordinary legislation."
+    },
+    {
+      "subject": "Government",
+      "text": "A constitution that can only be amended through a special, more difficult procedure than ordinary law-making is called a",
+      "options": [
+        "unwritten constitution",
+        "rigid constitution",
+        "flexible constitution",
+        "republican constitution"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rigid constitution requires special procedures, such as a supermajority vote or referendum, to be amended, making changes more difficult."
+    },
+    {
+      "subject": "Government",
+      "text": "A constitution under which the head of state is a hereditary monarch is called a",
+      "options": [
+        "republican constitution",
+        "monarchical constitution",
+        "unitary constitution",
+        "federal constitution"
+      ],
+      "correctIndex": 1,
+      "explanation": "A monarchical constitution establishes a hereditary ruler (king, queen, or emir) as the head of state, whether ceremonial or with real power."
+    },
+    {
+      "subject": "Government",
+      "text": "A constitution under which the head of state is an elected person rather than a hereditary monarch is called a",
+      "options": [
+        "republican constitution",
+        "unitary constitution",
+        "federal constitution",
+        "monarchical constitution"
+      ],
+      "correctIndex": 0,
+      "explanation": "A republican constitution establishes that the head of state derives their position through election rather than heredity."
+    },
+    {
+      "subject": "Government",
+      "text": "The process by which a bill passed by the legislature is formally signed and given legal effect by the head of state is called",
+      "options": [
+        "first reading",
+        "prorogation",
+        "committee stage",
+        "assent (royal assent/presidential assent)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Assent is the final formal approval by the head of state that turns a passed bill into a law."
+    },
+    {
+      "subject": "Government",
+      "text": "The stage of the legislative process in which a bill is formally introduced and its title read out, without debate, is called the",
+      "options": [
+        "first reading",
+        "committee stage",
+        "third reading",
+        "second reading"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first reading is a purely formal introduction of a bill, with no debate on its content at that stage."
+    },
+    {
+      "subject": "Government",
+      "text": "The stage of the legislative process in which the general principles of a bill are debated is called the",
+      "options": [
+        "committee stage",
+        "second reading",
+        "report stage",
+        "first reading"
+      ],
+      "correctIndex": 1,
+      "explanation": "The second reading is when members debate the overall merits and principles of a bill before it moves to detailed scrutiny."
+    },
+    {
+      "subject": "Government",
+      "text": "The stage of the legislative process in which a bill is examined clause by clause, often by a smaller group of legislators, is called the",
+      "options": [
+        "second reading",
+        "committee stage",
+        "first reading",
+        "third reading"
+      ],
+      "correctIndex": 1,
+      "explanation": "At the committee stage, a bill is scrutinised in detail, clause by clause, and amendments may be proposed."
+    },
+    {
+      "subject": "Government",
+      "text": "The final stage of the legislative process in a chamber, where the bill (as amended) is voted on in its complete form, is called the",
+      "options": [
+        "royal assent",
+        "third reading",
+        "first reading",
+        "committee stage"
+      ],
+      "correctIndex": 1,
+      "explanation": "The third reading is the final vote on the bill as a whole, after all amendments from earlier stages have been incorporated."
+    },
+    {
+      "subject": "Government",
+      "text": "A system of government in which all governmental powers are concentrated in a single, central authority is called a",
+      "options": [
+        "presidential system",
+        "federal system",
+        "confederal system",
+        "unitary system"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a unitary system, the central government holds supreme authority, and any local governments exist only by its delegation."
+    },
+    {
+      "subject": "Government",
+      "text": "A system of government in which powers are constitutionally divided between a central authority and constituent regional units (such as states or provinces) is called a",
+      "options": [
+        "federal system",
+        "confederal system",
+        "parliamentary system",
+        "unitary system"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a federal system, both the central and regional (state/provincial) governments have constitutionally guaranteed powers over their own areas of jurisdiction."
+    },
+    {
+      "subject": "Government",
+      "text": "A loose association of independent, sovereign states that agree to cooperate on limited matters while retaining their individual sovereignty is called a",
+      "options": [
+        "republican system",
+        "confederal system (confederation)",
+        "federal system",
+        "unitary system"
+      ],
+      "correctIndex": 1,
+      "explanation": "A confederation is a weaker union than a federation, in which member states remain sovereign and can typically withdraw from the arrangement."
+    },
+    {
+      "subject": "Government",
+      "text": "One advantage of a federal system of government is that it",
+      "options": [
+        "makes constitutional amendment very easy",
+        "eliminates the need for a written constitution",
+        "concentrates all power in one central authority",
+        "allows regions with diverse interests to manage their own local affairs while remaining united"
+      ],
+      "correctIndex": 3,
+      "explanation": "Federalism accommodates diversity by letting constituent units handle local matters, while a central government manages issues of common concern."
+    },
+    {
+      "subject": "Government",
+      "text": "One disadvantage of a federal system of government is that it",
+      "options": [
+        "always leads to a single, all-powerful central government",
+        "eliminates the need for a legislature altogether",
+        "makes it impossible for regions to have their own laws",
+        "can be expensive to run, due to the duplication of government institutions at different levels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maintaining separate governmental structures at the federal and state/regional levels can be costly and lead to duplication of effort."
+    },
+    {
+      "subject": "Government",
+      "text": "A form of government in which the head of state and head of government are combined in one person, elected separately from the legislature, is the",
+      "options": [
+        "parliamentary system",
+        "monarchical system",
+        "confederal system",
+        "presidential system"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a presidential system, the president serves as both head of state and head of government, and is elected independently of the legislature."
+    },
+    {
+      "subject": "Government",
+      "text": "A form of government in which the head of government (usually a prime minister) is drawn from and remains accountable to the legislature is the",
+      "options": [
+        "unitary system",
+        "presidential system",
+        "federal system",
+        "parliamentary system"
+      ],
+      "correctIndex": 3,
+      "explanation": "A parliamentary system fuses executive and legislative power, with the prime minister and cabinet accountable to parliament, which can remove them via a vote of no confidence."
+    },
+    {
+      "subject": "Government",
+      "text": "A form of government in which absolute power is held by a single ruler or small group, without free elections or constitutional limits, is called a",
+      "options": [
+        "federation",
+        "confederation",
+        "dictatorship",
+        "democracy"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dictatorship concentrates unchecked power in a single ruler or small clique, typically suppressing political opposition and civil liberties."
+    },
+    {
+      "subject": "Government",
+      "text": "A government that comes to power and rules through the armed forces, often after overthrowing a civilian government, is called a",
+      "options": [
+        "parliamentary government",
+        "civilian government",
+        "military government",
+        "confederal government"
+      ],
+      "correctIndex": 2,
+      "explanation": "Military rule occurs when armed forces personnel seize and exercise governmental power, typically suspending the constitution."
+    },
+    {
+      "subject": "Government",
+      "text": "An organised group of people who share similar political views and seek to win elections and control government is called a",
+      "options": [
+        "electorate",
+        "civil service",
+        "pressure group",
+        "political party"
+      ],
+      "correctIndex": 3,
+      "explanation": "Political parties organise around shared ideologies or interests, contesting elections to gain and exercise governmental power."
+    },
+    {
+      "subject": "Government",
+      "text": "A political party system in which only one party is legally allowed to exist and contest elections is called a",
+      "options": [
+        "multi-party system",
+        "no-party system",
+        "two-party system",
+        "one-party system"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a one-party system, a single party monopolises political power and no legal opposition parties are permitted."
+    },
+    {
+      "subject": "Government",
+      "text": "A political party system in which two major parties dominate politics and realistically compete for power, as seen in the United States, is called a",
+      "options": [
+        "one-party system",
+        "no-party system",
+        "multi-party system",
+        "two-party system"
+      ],
+      "correctIndex": 3,
+      "explanation": "A two-party system features two dominant parties that alternate in and out of government, though minor parties may also exist."
+    },
+    {
+      "subject": "Government",
+      "text": "A political party system in which several parties compete for power, often resulting in coalition governments, is called a",
+      "options": [
+        "no-party system",
+        "two-party system",
+        "one-party system",
+        "multi-party system"
+      ],
+      "correctIndex": 3,
+      "explanation": "A multi-party system allows numerous parties to contest elections and gain representation, often requiring coalitions to form a government."
+    },
+    {
+      "subject": "Government",
+      "text": "The legal right of a citizen to vote in public elections is called",
+      "options": [
+        "citizenship",
+        "legitimacy",
+        "franchise (suffrage)",
+        "sovereignty"
+      ],
+      "correctIndex": 2,
+      "explanation": "Franchise, also called suffrage, is the constitutionally granted right to participate in elections by voting."
+    },
+    {
+      "subject": "Government",
+      "text": "An electoral system in which the candidate with the most votes in a constituency wins, even without an absolute majority, is called",
+      "options": [
+        "plurality (first-past-the-post) system",
+        "proportional representation",
+        "the electoral college system",
+        "indirect election"
+      ],
+      "correctIndex": 0,
+      "explanation": "First-past-the-post declares the candidate with the highest number of votes the winner, regardless of whether they secured over 50% of votes cast."
+    },
+    {
+      "subject": "Government",
+      "text": "An electoral system in which seats in the legislature are allocated to parties in proportion to the total votes each party receives is called",
+      "options": [
+        "indirect election",
+        "plurality system",
+        "proportional representation",
+        "first-past-the-post"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proportional representation aims to match a party's share of legislative seats closely to its overall share of the popular vote."
+    },
+    {
+      "subject": "Government",
+      "text": "A body established to independently organise, conduct, and supervise elections, free from control by the ruling party, is called an",
+      "options": [
+        "civil service commission",
+        "independent electoral commission",
+        "public corporation",
+        "political party"
+      ],
+      "correctIndex": 1,
+      "explanation": "An independent electoral commission (such as INEC in Nigeria) is designed to conduct elections impartially, without interference from the party in power."
+    },
+    {
+      "subject": "Government",
+      "text": "A body of permanent, professional, non-political officials who assist the government in implementing policies and administering the state is called the",
+      "options": [
+        "electorate",
+        "judiciary",
+        "political party",
+        "civil service"
+      ],
+      "correctIndex": 3,
+      "explanation": "The civil service consists of career officials who serve the government of the day impartially, providing administrative continuity."
+    },
+    {
+      "subject": "Government",
+      "text": "A key characteristic of the civil service is that its members are expected to be",
+      "options": [
+        "responsible for making laws",
+        "members of the ruling political party only",
+        "politically neutral and impartial in carrying out their duties",
+        "elected directly by the people"
+      ],
+      "correctIndex": 2,
+      "explanation": "Civil servants are expected to serve any government in power impartially, without favouring a particular political party."
+    },
+    {
+      "subject": "Government",
+      "text": "Autonomous bodies set up by government to manage specific commercial or public services, such as electricity or water supply, are called",
+      "options": [
+        "public corporations",
+        "political parties",
+        "civil service departments",
+        "pressure groups"
+      ],
+      "correctIndex": 0,
+      "explanation": "Public corporations are established to run specific essential services on behalf of the state, often on a semi-commercial basis."
+    },
+    {
+      "subject": "Government",
+      "text": "One reason governments establish public corporations is to",
+      "options": [
+        "guarantee maximum profit for private shareholders",
+        "eliminate the need for taxation entirely",
+        "provide essential services that may not be profitable enough to attract private investment",
+        "replace the legislature in law-making"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public corporations often run essential services (like utilities) that require heavy investment or serve the public interest, which private firms may be unwilling to provide."
+    },
+    {
+      "subject": "Government",
+      "text": "The level of government closest to the people, responsible for local matters such as markets, primary healthcare, and refuse disposal, is called",
+      "options": [
+        "regional government",
+        "central government",
+        "local government",
+        "state government"
+      ],
+      "correctIndex": 2,
+      "explanation": "Local government administers grassroots affairs and services directly relevant to the immediate community."
+    },
+    {
+      "subject": "Government",
+      "text": "One major source of finance for local governments is",
+      "options": [
+        "profits from international trade only",
+        "loans from foreign governments only",
+        "statutory allocations from the central or state government",
+        "foreign direct investment only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Local governments commonly rely on allocations from higher tiers of government, in addition to internally generated revenue such as local rates and levies."
+    },
+    {
+      "subject": "Government",
+      "text": "A major problem often affecting the autonomy of local governments is",
+      "options": [
+        "the complete lack of any local government elections",
+        "an absence of any central government structure",
+        "too much independent revenue with no oversight",
+        "excessive control and interference by state or central governments"
+      ],
+      "correctIndex": 3,
+      "explanation": "Local government autonomy is often undermined when higher levels of government exert excessive financial or administrative control over local affairs."
+    },
+    {
+      "subject": "Government",
+      "text": "A group that seeks to influence government policy in its favour without itself seeking to win elections or hold governmental power is called a",
+      "options": [
+        "pressure group (interest group)",
+        "public corporation",
+        "electoral commission",
+        "political party"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unlike political parties, pressure groups aim to influence policy on specific issues but do not contest elections to govern directly."
+    },
+    {
+      "subject": "Government",
+      "text": "The centralised Hausa-Fulani political system, headed by an Emir with defined administrative structures, is generally described as the",
+      "options": [
+        "confederal system",
+        "Emirate system",
+        "Alafin system",
+        "segmentary (acephalous) system"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Hausa-Fulani Emirate system was a highly centralised traditional government headed by an Emir, supported by a hierarchy of officials."
+    },
+    {
+      "subject": "Government",
+      "text": "In the traditional Hausa-Fulani Emirate system, supreme political and religious authority within an emirate rested with the",
+      "options": [
+        "Waziri",
+        "Sarkin Fada",
+        "Madawaki",
+        "Emir"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Emir was the paramount ruler of an emirate, combining political leadership with significant religious authority under Islamic law."
+    },
+    {
+      "subject": "Government",
+      "text": "The traditional Yoruba political system, headed by the Alaafin of Oyo and supported by the Oyo Mesi council, is best described as a",
+      "options": [
+        "military dictatorship",
+        "purely acephalous system",
+        "constitutional monarchy",
+        "confederal republic"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Alaafin's power was checked by the Oyo Mesi (a council of chiefs), making the traditional Yoruba system a form of constitutional monarchy rather than absolute rule."
+    },
+    {
+      "subject": "Government",
+      "text": "In traditional Oyo Yoruba government, the council of chiefs that could check the Alaafin's power and, in extreme cases, compel him to abdicate was known as the",
+      "options": [
+        "Oyo Mesi",
+        "Ogboni cult",
+        "Warrant Chief system",
+        "Emirate council"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Oyo Mesi was a powerful council of kingmakers and chiefs that acted as a check on the Alaafin's authority, including the power to demand his abdication."
+    },
+    {
+      "subject": "Government",
+      "text": "The traditional Igbo political system, generally lacking centralised kingship and instead based on village autonomy, is best described as",
+      "options": [
+        "a colonial creation",
+        "an Emirate system",
+        "an absolute monarchy",
+        "segmentary (acephalous/decentralised)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Most traditional Igbo communities were organised as autonomous villages or groups of villages without an overarching centralised king, hence 'acephalous' (headless)."
+    },
+    {
+      "subject": "Government",
+      "text": "In the traditional Igbo political system, decisions were typically made through",
+      "options": [
+        "a written constitution drafted by chiefs",
+        "an appointed colonial district officer",
+        "a general assembly of adult males, councils of elders, and age-grades",
+        "a single hereditary king with absolute power"
+      ],
+      "correctIndex": 2,
+      "explanation": "Governance among the Igbo was largely democratic and decentralised, relying on assemblies, elders, age-grades, and title societies rather than a single ruler."
+    },
+    {
+      "subject": "Government",
+      "text": "The British system of colonial administration that governed African colonies through existing traditional rulers and institutions is called",
+      "options": [
+        "Association",
+        "Direct Rule",
+        "Assimilation",
+        "Indirect Rule"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under Indirect Rule, the British used traditional chiefs and institutions as agents of colonial administration, rather than replacing them entirely."
+    },
+    {
+      "subject": "Government",
+      "text": "Indirect Rule was introduced by the British partly because it was",
+      "options": [
+        "more expensive than direct colonial administration",
+        "designed to abolish all traditional institutions immediately",
+        "cheaper and required fewer British administrative personnel",
+        "only applicable in areas without traditional rulers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indirect Rule reduced the cost and manpower needs of colonial administration by relying on existing local rulers to enforce British policies."
+    },
+    {
+      "subject": "Government",
+      "text": "Indirect Rule was applied most successfully in Northern Nigeria mainly because",
+      "options": [
+        "the region had no history of centralised government",
+        "the existing centralised Emirate system provided a ready-made structure of traditional authority",
+        "there were no traditional rulers in the North at all",
+        "the British preferred direct rule everywhere in Nigeria"
+      ],
+      "correctIndex": 1,
+      "explanation": "The centralised Hausa-Fulani Emirate system offered a hierarchy of rulers the British could work through, making Indirect Rule easier to apply there."
+    },
+    {
+      "subject": "Government",
+      "text": "A major difficulty in applying Indirect Rule among the Igbo was that",
+      "options": [
+        "their acephalous system lacked a centralised chief through whom the British could rule",
+        "Igbo communities had no council of elders at all",
+        "the British had no interest in administering Igbo areas",
+        "the Igbo had a strongly centralised monarchy similar to Oyo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since Igbo communities lacked centralised kingship, the British controversially imposed artificial 'Warrant Chiefs', which caused resentment and unrest."
+    },
+    {
+      "subject": "Government",
+      "text": "The French colonial policy that aimed to turn Africans into French citizens by adopting French culture, language, and values is called",
+      "options": [
+        "Assimilation",
+        "Trusteeship",
+        "Association",
+        "Indirect Rule"
+      ],
+      "correctIndex": 0,
+      "explanation": "Assimilation aimed to culturally transform Africans into French citizens, granting full French rights to those who adopted French civilisation."
+    },
+    {
+      "subject": "Government",
+      "text": "The later French colonial policy that recognised African differences and cooperated with local institutions while still maintaining French control is called",
+      "options": [
+        "Direct Rule",
+        "Indirect Rule",
+        "Assimilation",
+        "Association"
+      ],
+      "correctIndex": 3,
+      "explanation": "Association replaced Assimilation as French policy, acknowledging African cultural distinctiveness while retaining ultimate French authority."
+    },
+    {
+      "subject": "Government",
+      "text": "A key difference between British and French colonial administration was that the British generally practised",
+      "options": [
+        "no administration at all, while the French built full colonial governments",
+        "direct rule everywhere, while the French relied entirely on traditional chiefs",
+        "Indirect Rule through existing chiefs, while the French practised more centralised, direct administration",
+        "federalism, while the French practised confederation"
+      ],
+      "correctIndex": 2,
+      "explanation": "British colonial policy favoured governing through traditional rulers, whereas French colonial policy was more centralised and directly administered from Paris."
+    },
+    {
+      "subject": "Government",
+      "text": "A major factor that fuelled the rise of nationalism in colonial West Africa was",
+      "options": [
+        "the total lack of Western education in the colonies",
+        "the discriminatory treatment of educated Africans by colonial administrations",
+        "the complete absence of colonial taxation",
+        "the immediate grant of independence upon colonisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Educated Africans who faced racial discrimination and exclusion from top positions became key drivers of nationalist agitation for self-rule."
+    },
+    {
+      "subject": "Government",
+      "text": "Which of the following was a common method used by early West African nationalists to press for independence?",
+      "options": [
+        "Total boycott of all Western education",
+        "Refusal to engage with colonial authorities in any way",
+        "Immediate armed rebellion in every colony without exception",
+        "Formation of political parties, newspapers, and constitutional agitation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nationalists commonly organised political parties, used the press to mobilise opinion, and pursued constitutional means to demand self-government."
+    },
+    {
+      "subject": "Government",
+      "text": "The Nigerian constitution that first introduced a form of regionalism, dividing the country into provinces with legislative councils, was the",
+      "options": [
+        "Clifford Constitution of 1922",
+        "Lyttelton Constitution of 1954",
+        "Macpherson Constitution of 1951",
+        "Richards Constitution of 1946"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Clifford Constitution of 1922 introduced the elective principle in Nigeria and established a legislative council with limited African representation."
+    },
+    {
+      "subject": "Government",
+      "text": "The Nigerian constitution credited with formally introducing regionalism by dividing the country into the Northern, Western, and Eastern regions was the",
+      "options": [
+        "Richards Constitution of 1946",
+        "Independence Constitution of 1960",
+        "Clifford Constitution of 1922",
+        "Macpherson Constitution of 1951"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Richards Constitution of 1946 divided Nigeria into three regions, each with its own legislative council, laying the groundwork for later federalism."
+    },
+    {
+      "subject": "Government",
+      "text": "The Nigerian constitution that introduced greater regional autonomy and increased Nigerian participation in the central legislature was the",
+      "options": [
+        "Richards Constitution of 1946",
+        "Macpherson Constitution of 1951",
+        "Clifford Constitution of 1922",
+        "Lyttelton Constitution of 1954"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Macpherson Constitution of 1951 expanded regional self-government and increased African representation in central government institutions."
+    },
+    {
+      "subject": "Government",
+      "text": "The Nigerian constitution that established a full federal system of government with regions enjoying self-government was the",
+      "options": [
+        "Clifford Constitution of 1922",
+        "Macpherson Constitution of 1951",
+        "Richards Constitution of 1946",
+        "Lyttelton Constitution of 1954"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Lyttelton Constitution of 1954 firmly established federalism in Nigeria, granting the regions considerable self-governing powers."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria attained political independence from British colonial rule in the year",
+      "options": [
+        "1979",
+        "1999",
+        "1963",
+        "1960"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria became an independent nation on 1 October 1960, though it remained a monarchy under the British crown for a few more years."
+    },
+    {
+      "subject": "Government",
+      "text": "Nigeria became a full republic, replacing the British monarch as head of state with a Nigerian president, in the year",
+      "options": [
+        "1979",
+        "1963",
+        "1960",
+        "1999"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1963 Republican Constitution made Nigeria a republic, with an indigenous president as head of state instead of the British monarch."
+    },
+    {
+      "subject": "Government",
+      "text": "The Nigerian constitution that introduced the American-style presidential system of government, replacing the parliamentary system, was the",
+      "options": [
+        "1963 Constitution",
+        "1989 Constitution",
+        "1979 Constitution",
+        "1960 Constitution"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1979 Constitution shifted Nigeria from the parliamentary (Westminster) system to a presidential system modelled on that of the United States."
+    },
+    {
+      "subject": "Government",
+      "text": "The most recent constitution currently in operation in Nigeria, which came into effect at the return to civilian rule, is the",
+      "options": [
+        "1989 Constitution",
+        "1979 Constitution",
+        "1999 Constitution",
+        "1963 Constitution"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1999 Constitution ushered in the current Fourth Republic and remains Nigeria's operative constitution, though it has since been amended."
+    },
+    {
+      "subject": "Government",
+      "text": "A country's foreign policy is best described as",
+      "options": [
+        "the method used to select its judiciary",
+        "the set of principles and strategies guiding its relations with other states and international bodies",
+        "the internal rules governing its civil service",
+        "the process by which its local governments are financed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foreign policy encompasses a state's objectives, principles, and actions in its dealings with other nations and international organisations."
+    },
+    {
+      "subject": "Government",
+      "text": "A key principle commonly guiding Nigeria's foreign policy is",
+      "options": [
+        "total avoidance of international organisations",
+        "Africa as the centrepiece of its foreign relations",
+        "permanent alliance with a single foreign superpower only",
+        "complete isolation from all other African countries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria has traditionally emphasised African unity, decolonisation, and continental cooperation as central to its foreign policy."
+    },
+    {
+      "subject": "Government",
+      "text": "The international organisation established after the Second World War to maintain global peace and security among member nations is the",
+      "options": [
+        "United Nations Organization (UNO)",
+        "Economic Community of West African States (ECOWAS)",
+        "Commonwealth of Nations",
+        "African Union (AU)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The UNO was formed in 1945 to promote international peace, security, and cooperation among sovereign states worldwide."
+    },
+    {
+      "subject": "Government",
+      "text": "The organ of the United Nations with primary responsibility for the maintenance of international peace and security is the",
+      "options": [
+        "Economic and Social Council",
+        "International Court of Justice",
+        "General Assembly",
+        "Security Council"
+      ],
+      "correctIndex": 3,
+      "explanation": "The UN Security Council, with its permanent and non-permanent members, holds primary responsibility for addressing threats to peace and authorising interventions."
+    },
+    {
+      "subject": "Government",
+      "text": "The continental organisation that succeeded the Organisation of African Unity (OAU) in 2002, aimed at promoting African unity and development, is the",
+      "options": [
+        "Commonwealth of Nations",
+        "United Nations Organization (UNO)",
+        "African Union (AU)",
+        "ECOWAS"
+      ],
+      "correctIndex": 2,
+      "explanation": "The African Union replaced the OAU in 2002, with a broader mandate covering political and economic integration across the continent."
+    },
+    {
+      "subject": "Government",
+      "text": "The regional organisation established in 1975 to promote economic integration and cooperation among West African states is the",
+      "options": [
+        "Economic Community of West African States (ECOWAS)",
+        "United Nations Organization (UNO)",
+        "Commonwealth of Nations",
+        "African Union (AU)"
+      ],
+      "correctIndex": 0,
+      "explanation": "ECOWAS was founded in 1975 to foster economic cooperation, free movement of goods and people, and regional stability in West Africa."
+    },
+    {
+      "subject": "Government",
+      "text": "The voluntary association of mostly former British colonies and dependencies, cooperating on trade, democracy, and development, is called the",
+      "options": [
+        "ECOWAS",
+        "United Nations Organization",
+        "Commonwealth of Nations",
+        "African Union"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Commonwealth of Nations links the United Kingdom and many of its former colonies in a voluntary association promoting shared values and cooperation."
+    }
+  ]
+}

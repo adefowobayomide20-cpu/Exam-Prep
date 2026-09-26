@@ -1,0 +1,1206 @@
+{
+  "subject": "Geography",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Geography",
+      "text": "A map has a scale of 1:25,000. What actual ground distance, in kilometres, does a distance of 8 cm on the map represent?",
+      "options": [
+        "8 km",
+        "0.32 km",
+        "20 km",
+        "2 km"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ground distance = 8 cm x 25,000 = 200,000 cm = 2,000 m = 2 km."
+    },
+    {
+      "subject": "Geography",
+      "text": "Two towns are 12 km apart on the ground. On a map of scale 1:60,000, what distance, in centimetres, should separate them?",
+      "options": [
+        "12 cm",
+        "5 cm",
+        "72 cm",
+        "20 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "12 km = 1,200,000 cm; map distance = 1,200,000 / 60,000 = 20 cm."
+    },
+    {
+      "subject": "Geography",
+      "text": "A rectangular farm measures 6 cm by 4 cm on a map drawn to a scale of 1:10,000. What is the actual area of the farm in square kilometres?",
+      "options": [
+        "0.24 km^2",
+        "2.4 km^2",
+        "24 km^2",
+        "0.024 km^2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Actual length = 6cm x 10,000 = 60,000cm = 0.6km; width = 4cm x 10,000 = 40,000cm = 0.4km; area = 0.6 x 0.4 = 0.24 km^2."
+    },
+    {
+      "subject": "Geography",
+      "text": "A map is enlarged from a scale of 1:100,000 to a scale of 1:25,000. By what factor has the linear scale of the map increased?",
+      "options": [
+        "4 times",
+        "2 times",
+        "75 times",
+        "25 times"
+      ],
+      "correctIndex": 0,
+      "explanation": "The linear enlargement factor = old denominator / new denominator = 100,000 / 25,000 = 4."
+    },
+    {
+      "subject": "Geography",
+      "text": "A map originally at a scale of 1:20,000 is reduced so that its new scale becomes 1:80,000. By what factor has the map's linear scale been reduced?",
+      "options": [
+        "2 times",
+        "8 times",
+        "60 times",
+        "4 times"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reduction factor = new denominator / old denominator = 80,000 / 20,000 = 4."
+    },
+    {
+      "subject": "Geography",
+      "text": "The bearing of a village Q from a village P is 128 degrees. What is the bearing of P from Q?",
+      "options": [
+        "232 degrees",
+        "052 degrees",
+        "308 degrees",
+        "128 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since the given bearing (128 degrees) is less than 180 degrees, the back bearing is found by adding 180 degrees: 128 + 180 = 308 degrees."
+    },
+    {
+      "subject": "Geography",
+      "text": "The bearing of a hilltop R from a camp S is 205 degrees. What is the back bearing of S from R?",
+      "options": [
+        "025 degrees",
+        "385 degrees",
+        "205 degrees",
+        "155 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since the given bearing (205 degrees) exceeds 180 degrees, the back bearing is found by subtracting 180 degrees: 205 - 180 = 25 degrees."
+    },
+    {
+      "subject": "Geography",
+      "text": "A surveyor stands at point A and observes point B on a bearing of N40E. Expressed in three-figure bearing notation, this is",
+      "options": [
+        "220 degrees",
+        "040 degrees",
+        "140 degrees",
+        "310 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "N40E means 40 degrees measured clockwise from North toward East, which converts directly to a three-figure bearing of 040 degrees."
+    },
+    {
+      "subject": "Geography",
+      "text": "A hiker walks on a bearing of S30W from a starting point. Expressed in three-figure bearing notation, this direction is",
+      "options": [
+        "150 degrees",
+        "210 degrees",
+        "030 degrees",
+        "330 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "South is 180 degrees; turning 30 degrees toward West (i.e., toward 270) gives 180 + 30 = 210 degrees."
+    },
+    {
+      "subject": "Geography",
+      "text": "On a topographical map, contour lines that form concentric closed loops with values increasing inward most likely represent a",
+      "options": [
+        "hill or elevated summit",
+        "depression or crater",
+        "flat plain",
+        "river valley"
+      ],
+      "correctIndex": 0,
+      "explanation": "Concentric closed contours with height values increasing toward the centre indicate rising ground, characteristic of a hill or summit."
+    },
+    {
+      "subject": "Geography",
+      "text": "On a topographical map, V-shaped contour lines that point toward higher ground, with the V's apex indicating the upstream direction, most likely represent a",
+      "options": [
+        "river valley",
+        "isolated hill",
+        "ridge",
+        "plateau edge"
+      ],
+      "correctIndex": 0,
+      "explanation": "V-shaped contours pointing upstream (toward higher ground) are the classic signature of a river valley cut into the landscape."
+    },
+    {
+      "subject": "Geography",
+      "text": "Two points on a map have a height difference of 60 m and are 3 km apart horizontally. What is the gradient between them, expressed as a ratio?",
+      "options": [
+        "1:180",
+        "1:50",
+        "1:20",
+        "1:5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Convert 3 km to 3,000 m; gradient = height difference / horizontal distance = 60/3,000 = 1/50, i.e. 1:50."
+    },
+    {
+      "subject": "Geography",
+      "text": "The gradient between two points is given as 1:40, and the horizontal distance between them is 2 km. What is the difference in height between the points?",
+      "options": [
+        "20 m",
+        "80 m",
+        "50 m",
+        "800 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Horizontal distance = 2,000 m; height difference = horizontal distance / gradient denominator = 2,000/40 = 50 m."
+    },
+    {
+      "subject": "Geography",
+      "text": "A vertical interval (contour interval) on a map is 20 m, and there are 5 contour lines between two points on a uniform slope. What is the total difference in height between the two points?",
+      "options": [
+        "100 m",
+        "25 m",
+        "80 m",
+        "20 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total height difference = number of contour intervals crossed x vertical interval = 5 x 20 = 100 m."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which method of estimating irregular area on a map involves overlaying a grid of known unit squares and counting full and partial squares covered by the feature?",
+      "options": [
+        "The cross-section method",
+        "The grid square (graph) method",
+        "The gradient method",
+        "The bearing method"
+      ],
+      "correctIndex": 1,
+      "explanation": "The grid square method superimposes a grid of known unit area over the feature and estimates total area from the number of squares (full and part) it covers."
+    },
+    {
+      "subject": "Geography",
+      "text": "A cross-section drawn between two points on a topographical map is primarily used to show the",
+      "options": [
+        "population density of the area",
+        "profile (shape) of the relief along a given line",
+        "compass bearing between the two points",
+        "administrative boundary of the area"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cross-section transfers height values from contour lines along a chosen line to produce a side-on profile showing how the relief rises and falls."
+    },
+    {
+      "subject": "Geography",
+      "text": "In practical surveying, the instrument traditionally used to measure horizontal and vertical angles precisely is the",
+      "options": [
+        "barometer",
+        "anemometer",
+        "theodolite",
+        "hygrometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A theodolite is a precision optical instrument used in land surveying to measure horizontal and vertical angles accurately."
+    },
+    {
+      "subject": "Geography",
+      "text": "A Global Positioning System (GPS) receiver is primarily used in fieldwork to determine a",
+      "options": [
+        "location's soil pH value",
+        "location's precise coordinates (latitude, longitude and elevation)",
+        "location's population density",
+        "location's average annual rainfall"
+      ],
+      "correctIndex": 1,
+      "explanation": "GPS receivers use signals from orbiting satellites to calculate a precise position on the Earth's surface, given as latitude, longitude, and often elevation."
+    },
+    {
+      "subject": "Geography",
+      "text": "In a Geographic Information System (GIS), different types of spatial data (such as roads, rivers and settlements) stored separately but able to be viewed together are referred to as",
+      "options": [
+        "gradients",
+        "bearings",
+        "layers",
+        "legends"
+      ],
+      "correctIndex": 2,
+      "explanation": "GIS organises spatial data into separate thematic layers (e.g., roads, hydrology, land use) that can be overlaid and analysed together."
+    },
+    {
+      "subject": "Geography",
+      "text": "Remote sensing, as used in modern geographic data collection, refers to the",
+      "options": [
+        "physical measurement of land using a chain and compass on the ground",
+        "calculation of gradient using contour lines",
+        "gathering of information about the Earth's surface from a distance, typically via satellites or aircraft",
+        "collection of population data through household surveys"
+      ],
+      "correctIndex": 2,
+      "explanation": "Remote sensing involves collecting data about the Earth's surface without direct physical contact, most commonly using sensors mounted on satellites or aircraft."
+    },
+    {
+      "subject": "Geography",
+      "text": "On a topographical map, a triangulation station (trig point) is significant because it",
+      "options": [
+        "provides a fixed, precisely surveyed reference point of known height and location",
+        "marks the exact centre of a town's market",
+        "indicates the location of a river confluence only",
+        "shows the boundary of a forest reserve only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Triangulation stations are precisely surveyed points of known coordinates and elevation that serve as fixed reference points for accurate map-making."
+    },
+    {
+      "subject": "Geography",
+      "text": "If the distance between two settlements measured on a map is 3.5 cm, and the map scale is 1:200,000, what is the actual ground distance in kilometres?",
+      "options": [
+        "3.5 km",
+        "70 km",
+        "7 km",
+        "0.7 km"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ground distance = 3.5 cm x 200,000 = 700,000 cm = 7,000 m = 7 km."
+    },
+    {
+      "subject": "Geography",
+      "text": "A place X is located at longitude 75 degrees East. If it is 6:00 am GMT at Greenwich, what is the local time at X?",
+      "options": [
+        "1:00 am",
+        "12:00 noon",
+        "11:00 am",
+        "6:00 am"
+      ],
+      "correctIndex": 2,
+      "explanation": "Time difference = 75/15 = 5 hours ahead of GMT (east of Greenwich); 6:00 am + 5 hours = 11:00 am."
+    },
+    {
+      "subject": "Geography",
+      "text": "A town Y is located at longitude 105 degrees West. If it is 2:00 pm GMT at Greenwich, what is the local time at Y?",
+      "options": [
+        "2:00 pm",
+        "12:00 noon",
+        "7:00 am",
+        "9:00 pm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Time difference = 105/15 = 7 hours behind GMT (west of Greenwich); 2:00 pm - 7 hours = 7:00 am."
+    },
+    {
+      "subject": "Geography",
+      "text": "Two towns, P and Q, are on the same latitude. Town P is at longitude 20 degrees East and town Q is at longitude 50 degrees West. What is the local time difference between them?",
+      "options": [
+        "2 hours",
+        "4 hours 40 minutes",
+        "30 minutes",
+        "70 hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total longitude difference = 20 + 50 = 70 degrees; time difference = 70 x 4 minutes = 280 minutes = 4 hours 40 minutes."
+    },
+    {
+      "subject": "Geography",
+      "text": "A ship's captain notes that the local time at his position is 3:00 pm while the GMT (0 degrees longitude) time is 9:00 am on the same day. Assuming the ship is east of Greenwich, at what longitude is the ship located?",
+      "options": [
+        "90 degrees East",
+        "90 degrees West",
+        "60 degrees East",
+        "45 degrees East"
+      ],
+      "correctIndex": 0,
+      "explanation": "Time ahead of GMT = 3:00 pm - 9:00 am = 6 hours; longitude = 6 x 15 = 90 degrees East."
+    },
+    {
+      "subject": "Geography",
+      "text": "A city is 8 hours behind GMT. What is its approximate longitude, and in which direction from Greenwich?",
+      "options": [
+        "120 degrees East",
+        "15 degrees West",
+        "120 degrees West",
+        "8 degrees West"
+      ],
+      "correctIndex": 2,
+      "explanation": "Longitude = time difference x 15 = 8 x 15 = 120 degrees; being behind GMT places it west of Greenwich."
+    },
+    {
+      "subject": "Geography",
+      "text": "If it is 4:00 pm on Monday at longitude 0 degrees (GMT), what day and time is it at a location on longitude 165 degrees East?",
+      "options": [
+        "Sunday, 3:00 am",
+        "Tuesday, 5:00 am",
+        "Tuesday, 3:00 am",
+        "Monday, 5:00 am"
+      ],
+      "correctIndex": 2,
+      "explanation": "Time difference = 165/15 = 11 hours ahead; 4:00 pm (16:00) Monday + 11 hours = 27:00, which is 03:00 the next day, i.e. Tuesday 3:00 am."
+    },
+    {
+      "subject": "Geography",
+      "text": "Every 1 degree of longitude corresponds to a time difference of approximately",
+      "options": [
+        "1 hour",
+        "1 minute",
+        "4 minutes",
+        "15 minutes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since 15 degrees of longitude equals 1 hour (60 minutes), 1 degree of longitude equals 60/15 = 4 minutes."
+    },
+    {
+      "subject": "Geography",
+      "text": "The International Date Line is located approximately along the",
+      "options": [
+        "0 degree meridian (Prime Meridian)",
+        "180 degree meridian in the Pacific Ocean",
+        "Tropic of Cancer",
+        "Equator"
+      ],
+      "correctIndex": 1,
+      "explanation": "The International Date Line broadly follows the 180 degree meridian, running through the Pacific Ocean, with deviations to avoid splitting some land areas and island groups."
+    },
+    {
+      "subject": "Geography",
+      "text": "Crossing the International Date Line while travelling from east to west (e.g., from the USA toward Asia) requires a traveller to",
+      "options": [
+        "set the calendar back by one day",
+        "adjust the clock by exactly 12 hours only, with no date change",
+        "make no adjustment at all",
+        "advance the calendar by one day"
+      ],
+      "correctIndex": 3,
+      "explanation": "Travelling westward across the International Date Line moves a traveller into a new calendar day, so the date is advanced by one day."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Earth completes one full rotation on its axis, relative to the sun, in approximately",
+      "options": [
+        "24 hours",
+        "365.25 days",
+        "27 days",
+        "12 hours"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Earth's rotation on its axis, producing the day-night cycle, takes approximately 24 hours (one solar day)."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Earth's revolution around the sun takes approximately how long to complete one full orbit?",
+      "options": [
+        "24 hours",
+        "30 days",
+        "27 days",
+        "365.25 days"
+      ],
+      "correctIndex": 3,
+      "explanation": "One complete orbit of the Earth around the sun (one year) takes approximately 365.25 days, which is why an extra day is added every four years (leap year)."
+    },
+    {
+      "subject": "Geography",
+      "text": "The tilt of the Earth's axis, at approximately 23.5 degrees to the vertical of its orbital plane, is primarily responsible for",
+      "options": [
+        "the formation of tides",
+        "the existence of ocean currents",
+        "the daily occurrence of day and night",
+        "the changing seasons experienced at different times of the year"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because the Earth's axis is tilted, different hemispheres receive more or less direct sunlight at different points in the orbit, producing the cycle of seasons."
+    },
+    {
+      "subject": "Geography",
+      "text": "During the June solstice, the sun's overhead (vertical) rays are directly above which line of latitude?",
+      "options": [
+        "The Equator (0 degrees)",
+        "The Arctic Circle (66.5 degrees North)",
+        "The Tropic of Capricorn (23.5 degrees South)",
+        "The Tropic of Cancer (23.5 degrees North)"
+      ],
+      "correctIndex": 3,
+      "explanation": "At the June solstice, the Northern Hemisphere is tilted most directly toward the sun, placing the sun's overhead rays on the Tropic of Cancer."
+    },
+    {
+      "subject": "Geography",
+      "text": "During the December solstice, the sun's overhead (vertical) rays are directly above which line of latitude?",
+      "options": [
+        "The Equator (0 degrees)",
+        "The Tropic of Cancer (23.5 degrees North)",
+        "The Antarctic Circle (66.5 degrees South)",
+        "The Tropic of Capricorn (23.5 degrees South)"
+      ],
+      "correctIndex": 3,
+      "explanation": "At the December solstice, the Southern Hemisphere is tilted most directly toward the sun, placing the sun's overhead rays on the Tropic of Capricorn."
+    },
+    {
+      "subject": "Geography",
+      "text": "At the equinoxes (around 21 March and 23 September), the sun's overhead rays fall directly on the",
+      "options": [
+        "Arctic Circle",
+        "Tropic of Cancer",
+        "Tropic of Capricorn",
+        "Equator"
+      ],
+      "correctIndex": 3,
+      "explanation": "At the equinoxes, the Earth's axis is not tilted toward or away from the sun relative to its orbit, so the overhead rays fall directly on the Equator, giving roughly equal day and night length globally."
+    },
+    {
+      "subject": "Geography",
+      "text": "Latitude is measured as an angular distance north or south of the",
+      "options": [
+        "International Date Line",
+        "Equator",
+        "North Pole only",
+        "Prime Meridian"
+      ],
+      "correctIndex": 1,
+      "explanation": "Latitude measures angular distance north or south of the Equator (0 degrees), ranging from 0 degrees at the Equator to 90 degrees at the poles."
+    },
+    {
+      "subject": "Geography",
+      "text": "Longitude is measured as an angular distance east or west of the",
+      "options": [
+        "Tropic of Cancer",
+        "International Date Line only",
+        "Equator",
+        "Prime Meridian (Greenwich Meridian)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Longitude measures angular distance east or west of the Prime Meridian (0 degrees), which passes through Greenwich, England."
+    },
+    {
+      "subject": "Geography",
+      "text": "The layer of the Earth's internal structure that is liquid and generates the Earth's magnetic field is the",
+      "options": [
+        "inner core",
+        "outer core",
+        "crust",
+        "mantle"
+      ],
+      "correctIndex": 1,
+      "explanation": "The outer core consists of molten liquid iron and nickel; its convective motion, combined with Earth's rotation, generates the planet's magnetic field."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which layer of the Earth lies directly beneath the crust and makes up the largest proportion of the Earth's total volume?",
+      "options": [
+        "The outer core",
+        "The lithosphere only",
+        "The mantle",
+        "The inner core"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mantle, lying beneath the crust and above the outer core, is by far the thickest layer, making up the largest share of the Earth's total volume."
+    },
+    {
+      "subject": "Geography",
+      "text": "If two towns lie on the same meridian of longitude but different latitudes, and are 555 km apart along the meridian (1 degree of latitude approx. 111 km), what is the difference in latitude between them?",
+      "options": [
+        "555 degrees",
+        "0.5 degrees",
+        "50 degrees",
+        "5 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "Difference in latitude = distance / 111 km = 555/111 = 5 degrees."
+    },
+    {
+      "subject": "Geography",
+      "text": "Rocks formed from the solidification of magma while still beneath the Earth's surface (rather than at the surface) are classified as",
+      "options": [
+        "metamorphic rocks",
+        "intrusive igneous rocks",
+        "extrusive igneous rocks",
+        "sedimentary rocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intrusive (plutonic) igneous rocks, such as granite, cool slowly beneath the surface, allowing large crystals to form, unlike extrusive rocks that cool rapidly at the surface."
+    },
+    {
+      "subject": "Geography",
+      "text": "Rocks formed from lava that cools and solidifies rapidly on the Earth's surface are classified as",
+      "options": [
+        "foliated metamorphic rocks",
+        "intrusive igneous rocks",
+        "extrusive igneous rocks",
+        "chemical sedimentary rocks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Extrusive (volcanic) igneous rocks, such as basalt, form when lava cools quickly at or near the Earth's surface, typically producing fine-grained crystals."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which of the following processes is NOT directly involved in the formation of sedimentary rocks?",
+      "options": [
+        "Crystallisation from molten magma",
+        "Transportation and deposition of sediment",
+        "Weathering of pre-existing rocks",
+        "Compaction and cementation of sediment layers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crystallisation from molten magma is the process that forms igneous rocks, not sedimentary rocks, which form through weathering, transport, deposition, compaction and cementation."
+    },
+    {
+      "subject": "Geography",
+      "text": "The process by which rocks are broken down in situ (in their original place) by physical, chemical, or biological agents, without significant movement of the resulting fragments, is called",
+      "options": [
+        "deposition",
+        "transportation",
+        "erosion",
+        "weathering"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weathering is the in-situ breakdown of rocks at or near the Earth's surface, distinct from erosion, which involves the removal and transport of the resulting material."
+    },
+    {
+      "subject": "Geography",
+      "text": "The process by which weathered material is removed from its original location and carried elsewhere by agents such as water, wind, or ice is called",
+      "options": [
+        "lithification",
+        "deposition",
+        "erosion",
+        "weathering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Erosion involves the wearing away and removal of surface material by natural agents like rivers, wind, waves, or glaciers, and its transport elsewhere."
+    },
+    {
+      "subject": "Geography",
+      "text": "Frost shattering (freeze-thaw weathering) occurs mainly through the",
+      "options": [
+        "growth of plant roots within rock crevices",
+        "repeated freezing and expansion of water within rock cracks, gradually widening and breaking them apart",
+        "chemical dissolution of rock by acidic rainwater",
+        "abrasive action of windblown sand particles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Frost shattering occurs when water seeps into rock cracks, freezes and expands by about 9%, exerting pressure that gradually widens the cracks until fragments break off."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which of the following is an example of chemical weathering?",
+      "options": [
+        "Frost shattering caused by repeated freeze-thaw cycles",
+        "Abrasion caused by windblown sand",
+        "Carbonation, where slightly acidic rainwater dissolves calcium carbonate in limestone",
+        "Exfoliation caused by daily temperature changes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carbonation is a chemical weathering process in which carbonic acid (formed from rainwater and atmospheric CO2) reacts with and dissolves minerals such as calcium carbonate in limestone."
+    },
+    {
+      "subject": "Geography",
+      "text": "A fold in rock strata where the layers are arched upward, with the oldest rocks at the centre, is called an",
+      "options": [
+        "syncline",
+        "outcrop",
+        "escarpment",
+        "anticline"
+      ],
+      "correctIndex": 3,
+      "explanation": "An anticline is an upward (convex) fold in layered rock, with the oldest rock layers exposed at its centre or core."
+    },
+    {
+      "subject": "Geography",
+      "text": "A fold in rock strata where the layers are bent downward into a trough shape, with the youngest rocks at the centre, is called a",
+      "options": [
+        "fault",
+        "anticline",
+        "horst",
+        "syncline"
+      ],
+      "correctIndex": 3,
+      "explanation": "A syncline is a downward (concave) fold in layered rock, with the youngest rock layers found at its centre."
+    },
+    {
+      "subject": "Geography",
+      "text": "A block of the Earth's crust that has been uplifted relative to the surrounding land along fault lines, forming a plateau-like landform, is known as a",
+      "options": [
+        "meander",
+        "horst",
+        "syncline",
+        "graben"
+      ],
+      "correctIndex": 1,
+      "explanation": "A horst is an elevated block of crust bounded by parallel faults, uplifted relative to the surrounding land, often forming plateaus or block mountains."
+    },
+    {
+      "subject": "Geography",
+      "text": "A depressed block of the Earth's crust that has subsided relative to the surrounding land along parallel faults, often forming a rift valley, is known as a",
+      "options": [
+        "anticline",
+        "graben",
+        "horst",
+        "delta"
+      ],
+      "correctIndex": 1,
+      "explanation": "A graben is a block of crust that has dropped down relative to the surrounding land between parallel faults, commonly forming rift valleys such as the East African Rift."
+    },
+    {
+      "subject": "Geography",
+      "text": "The upper course of a river is generally characterised by",
+      "options": [
+        "a gentle gradient with extensive meandering and floodplain deposition",
+        "a wide estuary with tidal influence",
+        "steep gradient, strong vertical (downward) erosion, and a narrow V-shaped valley",
+        "the formation of a delta at the river mouth"
+      ],
+      "correctIndex": 2,
+      "explanation": "In its upper course, a river typically flows down a steep gradient, with erosion dominated by vertical downcutting, producing a narrow, steep-sided V-shaped valley."
+    },
+    {
+      "subject": "Geography",
+      "text": "The lower course of a river, close to its mouth, is generally characterised by",
+      "options": [
+        "the formation of interlocking spurs",
+        "predominantly vertical erosion cutting a deep gorge",
+        "a gentle gradient, dominant lateral erosion and deposition, and a broad floodplain",
+        "a steep gradient with waterfalls and rapids"
+      ],
+      "correctIndex": 2,
+      "explanation": "In its lower course, a river flows over a gentle gradient with reduced energy, favouring lateral erosion, meandering, and deposition across a broad floodplain."
+    },
+    {
+      "subject": "Geography",
+      "text": "An oxbow lake is formed when",
+      "options": [
+        "a glacier melts and leaves behind a depression",
+        "a river's mouth is blocked by a sandbar",
+        "a meander loop is cut off from the main river channel, typically by erosion narrowing its neck",
+        "a waterfall retreats upstream over time"
+      ],
+      "correctIndex": 2,
+      "explanation": "An oxbow lake forms when continued erosion narrows the neck of a meander loop until the river cuts through it directly, isolating the loop as a crescent-shaped lake."
+    },
+    {
+      "subject": "Geography",
+      "text": "A river's floodplain is best described as the",
+      "options": [
+        "narrow channel cut directly into solid bedrock",
+        "point where a river meets the sea",
+        "steep-sided valley found only in a river's upper course",
+        "flat land bordering a river that is periodically covered by floodwater and receives deposited sediment"
+      ],
+      "correctIndex": 3,
+      "explanation": "A floodplain is the relatively flat area of land adjacent to a river's lower and middle course, periodically inundated during floods and built up by deposited alluvium."
+    },
+    {
+      "subject": "Geography",
+      "text": "Glacial erosion in mountainous areas commonly produces a bowl-shaped hollow at the head of a valley, known as a",
+      "options": [
+        "cirque (corrie)",
+        "meander",
+        "delta",
+        "spit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cirque, or corrie, is a bowl-shaped depression carved by glacial erosion at the head of a glaciated valley, often containing a small lake after the ice retreats."
+    },
+    {
+      "subject": "Geography",
+      "text": "A spit, a coastal depositional landform, typically forms where",
+      "options": [
+        "waves erode a headland into a narrow arch",
+        "longshore drift deposits sand or shingle in a narrow ridge extending from the coast, often at a bend or river mouth",
+        "a river deposits sediment at its mouth into a lake",
+        "glacial ice erodes a U-shaped valley"
+      ],
+      "correctIndex": 1,
+      "explanation": "A spit forms when longshore drift transports and deposits sand or shingle along the coast, building a narrow finger of land that projects out from the shoreline, often across a bay or river mouth."
+    },
+    {
+      "subject": "Geography",
+      "text": "A stack, a coastal erosional landform, is best described as",
+      "options": [
+        "a flat platform of rock exposed at low tide",
+        "a ridge of sand deposited parallel to the coast",
+        "a narrow inlet formed by river erosion",
+        "an isolated pillar of rock left standing offshore after the collapse of an arch"
+      ],
+      "correctIndex": 3,
+      "explanation": "A stack is formed when continued wave erosion causes a coastal arch to collapse, leaving an isolated pillar of resistant rock standing separately from the cliff."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which sequence correctly represents the typical stages of coastal erosion leading to the formation of a stack?",
+      "options": [
+        "Headland to cave to arch to stack",
+        "Stack to arch to cave to headland",
+        "Cave to headland to stack to arch",
+        "Arch to headland to cave to stack"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wave erosion progressively enlarges cracks in a headland into caves, which may erode through to form an arch; continued erosion collapses the arch's roof, leaving an isolated stack."
+    },
+    {
+      "subject": "Geography",
+      "text": "Volcanic activity that occurs where two tectonic plates move apart from one another (a divergent boundary) is best exemplified by",
+      "options": [
+        "the East African Rift Valley escarpments alone",
+        "the Andes mountain range",
+        "the Mid-Atlantic Ridge",
+        "the Himalayas"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Mid-Atlantic Ridge is a divergent plate boundary where the Eurasian/African and American plates move apart, allowing magma to rise and form new oceanic crust and associated volcanic activity."
+    },
+    {
+      "subject": "Geography",
+      "text": "Fold mountains, such as the Himalayas, are typically formed as a result of",
+      "options": [
+        "the collision of two tectonic plates, compressing and folding sedimentary rock layers upward",
+        "wind erosion of a plateau over a long period",
+        "volcanic eruptions building up layers of ash and lava alone",
+        "the gradual deposition of river sediment over millions of years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fold mountains form where converging tectonic plates collide, compressing and buckling accumulated sedimentary rock layers upward into extensive mountain ranges."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which weather instrument is specifically used to measure the duration of bright sunshine received at a location?",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Sunshine recorder (Campbell-Stokes recorder)",
+        "Hygrometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sunshine recorder, such as the Campbell-Stokes recorder, uses a glass sphere to focus sunlight and burn a trace on a card, recording the duration of bright sunshine."
+    },
+    {
+      "subject": "Geography",
+      "text": "A wind vane is a weather instrument used specifically to indicate the",
+      "options": [
+        "amount of rainfall",
+        "speed of the wind",
+        "direction from which the wind is blowing",
+        "atmospheric pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "A wind vane rotates freely and aligns with the wind, pointing to indicate the direction from which the wind is blowing."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Koppen climate classification uses the letter code 'A' to represent which broad climate group?",
+      "options": [
+        "Polar climates",
+        "Arid (desert) climates",
+        "Temperate climates",
+        "Tropical climates"
+      ],
+      "correctIndex": 3,
+      "explanation": "In the Koppen system, the letter 'A' designates tropical climates, generally characterised by high temperatures throughout the year."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Koppen climate classification uses the letter code 'B' to represent which broad climate group?",
+      "options": [
+        "Arid (dry) climates",
+        "Polar climates",
+        "Continental climates",
+        "Tropical climates"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the Koppen system, the letter 'B' designates arid (dry) climates, characterised by potential evaporation exceeding precipitation."
+    },
+    {
+      "subject": "Geography",
+      "text": "A tropical monsoon climate (classified as Am under Koppen's system) is generally characterised by",
+      "options": [
+        "an extended, pronounced dry season lasting most of the year",
+        "high temperatures with a short dry season but very heavy total annual rainfall",
+        "cold winters and mild, wet summers",
+        "consistently low temperatures with minimal precipitation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tropical monsoon climate features high year-round temperatures and a brief drier period, but still receives very heavy total annual rainfall, often driven by seasonal monsoon winds."
+    },
+    {
+      "subject": "Geography",
+      "text": "The tropical savanna climate (classified as Aw under Koppen's system) is generally characterised by",
+      "options": [
+        "no seasonal variation in rainfall whatsoever",
+        "cold temperatures with occasional snowfall",
+        "a permanently arid, desert-like environment",
+        "a distinct wet and dry season, with lower total rainfall than the tropical rainforest climate"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tropical savanna (Aw) climate has a pronounced wet and dry season, with total annual rainfall generally lower than that of the more consistently wet tropical rainforest (Af) climate."
+    },
+    {
+      "subject": "Geography",
+      "text": "Trade winds are a persistent global wind system that generally blow from the",
+      "options": [
+        "subtropical high-pressure belts toward the equatorial low-pressure belt",
+        "equator toward the subtropics only",
+        "polar regions directly toward the equator without deflection",
+        "west toward the east at all latitudes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trade winds blow from the subtropical high-pressure belts (around 30 degrees N/S) toward the low-pressure zone near the Equator, deflected by the Coriolis effect."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Inter-Tropical Convergence Zone (ITCZ) is best described as the",
+      "options": [
+        "zone of permanent high pressure over the poles",
+        "line marking the boundary between day and night",
+        "boundary between temperate and polar climate zones",
+        "zone near the Equator where the northeast and southeast trade winds converge, associated with rising air and heavy rainfall"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ITCZ is a low-pressure belt near the Equator where trade winds from both hemispheres converge, causing air to rise, cool, and condense, producing frequent heavy rainfall."
+    },
+    {
+      "subject": "Geography",
+      "text": "The general movement of the Inter-Tropical Convergence Zone (ITCZ) with the seasons is best described as",
+      "options": [
+        "remaining permanently fixed exactly at the Equator throughout the year",
+        "moving only in the Southern Hemisphere year-round",
+        "shifting north and south of the Equator following the sun's apparent overhead position through the year",
+        "moving only westward across the globe over the year"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ITCZ migrates seasonally, tracking the sun's apparent overhead position, moving further north in the northern summer and further south in the southern summer."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Gulf Stream, a well-known warm ocean current, most directly influences the climate of which region?",
+      "options": [
+        "West Africa",
+        "Southern Chile",
+        "Eastern Australia",
+        "North-western Europe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic, moderating the climate of north-western Europe and keeping winters milder than the latitude would otherwise suggest."
+    },
+    {
+      "subject": "Geography",
+      "text": "The cold Canary Current, flowing along the north-western coast of Africa, tends to have which effect on the adjacent coastal climate?",
+      "options": [
+        "It lowers coastal temperatures and reduces rainfall, contributing to arid conditions",
+        "It has no measurable influence on the coastal climate",
+        "It causes exceptionally heavy tropical rainfall along the coast",
+        "It significantly raises coastal temperatures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Like other cold currents, the Canary Current cools coastal air and suppresses convection, contributing to the arid conditions found along parts of the adjacent north-west African coast."
+    },
+    {
+      "subject": "Geography",
+      "text": "Ocean salinity refers to the",
+      "options": [
+        "temperature of ocean water at a given depth",
+        "depth of the ocean floor at a given point",
+        "speed at which ocean currents flow",
+        "concentration of dissolved salts present in seawater"
+      ],
+      "correctIndex": 3,
+      "explanation": "Salinity measures the total concentration of dissolved salts (mainly sodium chloride) in seawater, usually expressed in parts per thousand."
+    },
+    {
+      "subject": "Geography",
+      "text": "An ecosystem is best defined as a",
+      "options": [
+        "single species of plant or animal found in a given area",
+        "region defined purely by its political boundaries",
+        "community of living organisms interacting with each other and with their non-living physical environment",
+        "collection of rock types found in a particular area"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ecosystem comprises all the living organisms (biotic factors) in an area, together with the non-living physical environment (abiotic factors), and the interactions between them."
+    },
+    {
+      "subject": "Geography",
+      "text": "In an ecosystem's food chain, organisms that produce their own food through photosynthesis, forming the base of the chain, are known as",
+      "options": [
+        "producers",
+        "primary consumers",
+        "decomposers",
+        "secondary consumers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Producers, mainly green plants and algae, use photosynthesis to convert sunlight into chemical energy, forming the foundation of virtually all food chains."
+    },
+    {
+      "subject": "Geography",
+      "text": "Organisms that break down dead organic matter, returning nutrients to the ecosystem, are known as",
+      "options": [
+        "producers",
+        "primary consumers",
+        "secondary consumers",
+        "decomposers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Decomposers, such as bacteria and fungi, break down dead plant and animal matter, releasing nutrients back into the soil and completing the nutrient cycle."
+    },
+    {
+      "subject": "Geography",
+      "text": "Biodiversity refers to the",
+      "options": [
+        "number of rock types present in a region",
+        "total population of a single dominant species",
+        "total mass of vegetation found in a rainforest alone",
+        "variety of living species and ecosystems found within a given area"
+      ],
+      "correctIndex": 3,
+      "explanation": "Biodiversity describes the full range of variety among living organisms, including species diversity, genetic diversity, and ecosystem diversity, within a given area."
+    },
+    {
+      "subject": "Geography",
+      "text": "Laterite soils, common in many tropical regions including much of Nigeria, are formed primarily through the process of",
+      "options": [
+        "the freezing and thawing of soil in polar regions",
+        "intense leaching of soluble minerals under high rainfall and temperature, leaving behind iron and aluminium oxides",
+        "the accumulation of windblown sand in arid regions",
+        "volcanic ash deposition alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Laterite soils form under intense tropical weathering and leaching, which removes soluble minerals like silica, leaving behind insoluble iron and aluminium oxides that give the soil its characteristic reddish colour."
+    },
+    {
+      "subject": "Geography",
+      "text": "Soil erosion is best described as the",
+      "options": [
+        "compaction of soil particles by heavy machinery alone",
+        "removal of the topsoil layer by agents such as water and wind, often accelerated by human activity",
+        "chemical enrichment of soil through fertiliser application",
+        "natural formation of new topsoil through weathering"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soil erosion involves the detachment and removal of topsoil by natural agents like water and wind, a process significantly accelerated by human activities such as deforestation and poor farming practices."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which farming practice is commonly recommended to reduce soil erosion on sloped agricultural land?",
+      "options": [
+        "Ploughing directly up and down the slope",
+        "Terracing and contour ploughing",
+        "Complete removal of all vegetation cover",
+        "Continuous monocropping on steep slopes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terracing and contour ploughing follow the natural contours of sloped land, slowing water runoff and significantly reducing the rate of soil erosion compared to ploughing straight up and down a slope."
+    },
+    {
+      "subject": "Geography",
+      "text": "Overgrazing, a significant driver of land degradation in many semi-arid regions, refers to",
+      "options": [
+        "the rotation of crops to preserve soil fertility",
+        "the planting of too many trees in a small area",
+        "the fencing off of land to prevent any livestock access",
+        "excessive grazing by livestock beyond the land's capacity to regenerate vegetation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Overgrazing occurs when livestock numbers exceed what the land's vegetation can sustainably support, preventing plants from regenerating and leading to soil exposure and degradation."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which of the following is a commonly recommended strategy for combating desertification in semi-arid regions?",
+      "options": [
+        "Complete removal of windbreaks and shelterbelts",
+        "Afforestation (tree planting) and controlled grazing management",
+        "Increasing the intensity of livestock grazing",
+        "Abandoning all soil conservation measures"
+      ],
+      "correctIndex": 1,
+      "explanation": "Afforestation helps stabilise soil and reduce wind erosion, while controlled grazing management prevents overgrazing, both of which are key strategies for combating and reversing desertification."
+    },
+    {
+      "subject": "Geography",
+      "text": "The crude birth rate of a population is defined as the",
+      "options": [
+        "number of live births per 1,000 people in a population in a given year",
+        "number of deaths per 1,000 people in a population in a given year",
+        "difference between births and deaths in a population",
+        "total number of births recorded over a person's lifetime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crude birth rate is a standard demographic measure expressing the number of live births occurring per 1,000 people in a population during a specified year."
+    },
+    {
+      "subject": "Geography",
+      "text": "The crude death rate of a population is defined as the",
+      "options": [
+        "number of deaths per 1,000 people in a population in a given year",
+        "number of births per 1,000 people in a population in a given year",
+        "percentage of elderly people within a total population",
+        "total number of deaths recorded since a country's founding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crude death rate is a standard demographic measure expressing the number of deaths occurring per 1,000 people in a population during a specified year."
+    },
+    {
+      "subject": "Geography",
+      "text": "The natural increase of a population is calculated as the",
+      "options": [
+        "difference between the birth rate and the death rate",
+        "difference between urban and rural population totals",
+        "sum of the birth rate and the death rate",
+        "total number of immigrants entering a country"
+      ],
+      "correctIndex": 0,
+      "explanation": "Natural increase (or decrease) is calculated by subtracting the death rate from the birth rate, indicating how much a population is growing (or shrinking) due to births and deaths alone, excluding migration."
+    },
+    {
+      "subject": "Geography",
+      "text": "A population pyramid with a narrow base and a broad, roughly even distribution through most age groups typically indicates a population with",
+      "options": [
+        "very high birth rates and a large young population",
+        "a population entirely made up of young children",
+        "low birth rates and a more balanced, ageing population structure",
+        "a rapidly growing population with high fertility"
+      ],
+      "correctIndex": 2,
+      "explanation": "A narrow-based population pyramid with a more even spread across older age groups reflects low birth rates and a more mature, slower-growing (or ageing) population, typical of many developed countries."
+    },
+    {
+      "subject": "Geography",
+      "text": "Population density is calculated as the",
+      "options": [
+        "total birth rate minus the total death rate",
+        "number of cities within a country",
+        "total land area of a country divided by its population",
+        "total population of an area divided by its total land area"
+      ],
+      "correctIndex": 3,
+      "explanation": "Population density is expressed as the number of people per unit of land area (e.g., persons per square kilometre), calculated by dividing total population by total land area."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which of the following physical factors would most likely encourage a HIGH population density in a given region?",
+      "options": [
+        "Permanently frozen ground unsuitable for farming",
+        "Extremely mountainous terrain with thin, infertile soil",
+        "Fertile soil, adequate rainfall, and gentle relief",
+        "A hot desert climate with minimal rainfall"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fertile soils, reliable rainfall, and gentle relief generally support productive agriculture and easier settlement, encouraging denser human population concentrations."
+    },
+    {
+      "subject": "Geography",
+      "text": "Internal migration, unlike international migration, refers to the movement of people",
+      "options": [
+        "only for the purposes of international tourism",
+        "exclusively across national borders",
+        "only from one continent to another",
+        "within the boundaries of a single country"
+      ],
+      "correctIndex": 3,
+      "explanation": "Internal migration involves the movement of people from one location to another within the same country's borders, distinct from international migration, which crosses national boundaries."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which of the following is most likely to act as a 'pull factor' attracting migrants to a large city?",
+      "options": [
+        "A complete lack of infrastructure in the destination area",
+        "Severe drought and famine conditions in the destination area",
+        "The availability of employment opportunities and better social amenities",
+        "Ongoing armed conflict in the destination area"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pull factors are attractive conditions at the destination, such as better job prospects, higher wages, and improved access to services, that draw migrants toward a location."
+    },
+    {
+      "subject": "Geography",
+      "text": "Which of the following is most likely to act as a 'push factor' driving migrants away from a rural area?",
+      "options": [
+        "Abundant well-paid job opportunities locally",
+        "Excellent healthcare and educational facilities locally",
+        "Limited employment opportunities and poor access to social services",
+        "A stable and prosperous local economy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Push factors are unfavourable conditions at the place of origin, such as limited jobs, poverty, or poor services, that encourage people to leave in search of better conditions elsewhere."
+    },
+    {
+      "subject": "Geography",
+      "text": "Nigeria's total land boundary is shared with which combination of neighbouring countries?",
+      "options": [
+        "Niger, Mali, and Chad",
+        "Chad, Sudan, and Cameroon",
+        "Benin, Niger, Chad, and Cameroon",
+        "Ghana, Togo, and Benin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nigeria shares international land borders with the Republic of Benin to the west, Niger to the north, Chad to the north-east, and Cameroon to the east."
+    },
+    {
+      "subject": "Geography",
+      "text": "The vegetation belt found immediately along Nigeria's coastline, characterised by salt-tolerant trees adapted to tidal, brackish water, is the",
+      "options": [
+        "montane vegetation zone",
+        "mangrove swamp forest",
+        "sudan savanna",
+        "guinea savanna"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mangrove swamp forest, with its characteristic salt-tolerant trees, occupies the low-lying, tidal coastal fringe of southern Nigeria."
+    },
+    {
+      "subject": "Geography",
+      "text": "Moving northward from Nigeria's coast toward the far north, the general sequence of natural vegetation belts is",
+      "options": [
+        "sahel savanna, sudan savanna, guinea savanna, tropical rainforest, mangrove swamp",
+        "tropical rainforest, sahel savanna, mangrove swamp, guinea savanna",
+        "mangrove swamp, tropical rainforest, guinea savanna, sudan savanna, sahel savanna",
+        "guinea savanna, mangrove swamp, sahel savanna, sudan savanna"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nigeria's vegetation transitions from coastal mangrove swamp, through tropical rainforest, into the progressively drier guinea, sudan, and sahel savanna belts moving from south to north."
+    },
+    {
+      "subject": "Geography",
+      "text": "The River Niger enters Nigeria from the north-west, having originated in which country?",
+      "options": [
+        "Mali",
+        "Guinea",
+        "Chad",
+        "Cameroon"
+      ],
+      "correctIndex": 1,
+      "explanation": "The River Niger originates in the Fouta Djallon highlands of Guinea, flowing through Mali, Niger, and Benin before entering Nigeria."
+    },
+    {
+      "subject": "Geography",
+      "text": "The River Benue, one of Nigeria's major rivers and a key tributary of the River Niger, originates mainly in the highlands of",
+      "options": [
+        "Benin Republic",
+        "Niger Republic",
+        "Cameroon",
+        "Chad"
+      ],
+      "correctIndex": 2,
+      "explanation": "The River Benue rises in the Adamawa highlands of Cameroon before flowing westward into Nigeria and joining the River Niger at Lokoja."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Sokoto Plains, located in north-western Nigeria, are drained primarily by the",
+      "options": [
+        "Sokoto-Rima river system",
+        "Niger Delta distributaries",
+        "Cross River system",
+        "Ogun River system"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Sokoto Plains in north-western Nigeria are drained principally by the Sokoto and Rima rivers, which eventually join the River Niger."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Mambilla Plateau, one of Nigeria's highest and coolest highland regions, is located in which present-day state?",
+      "options": [
+        "Kano State",
+        "Cross River State",
+        "Plateau State",
+        "Taraba State"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Mambilla Plateau, notable for its cool climate and highland tea plantations, is located in Taraba State in eastern Nigeria, near the border with Cameroon."
+    }
+  ]
+}

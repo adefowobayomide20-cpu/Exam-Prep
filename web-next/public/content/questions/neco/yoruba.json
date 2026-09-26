@@ -1,0 +1,1206 @@
+{
+  "subject": "Yoruba",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni orúkọ tí à ń pè àwọn ìró tí a ń pè láìsí ìdènà afẹ́fẹ́ nínú ẹnu, gẹ́gẹ́ bí 'a', 'e', 'i'?",
+      "options": [
+        "Àmì Ohùn",
+        "Mọ́fíìmù",
+        "Fáwẹ́lì (Vowels)",
+        "Kọ́nṣónántì"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vowels (fáwẹ́lì) are speech sounds produced without any obstruction to the airflow, unlike consonants."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni orúkọ tí à ń pè àwọn ìró tí a ń dá pẹ̀lú ìdènà afẹ́fẹ́ ní apá kan ẹnu, gẹ́gẹ́ bí 'b', 'k', 'd'?",
+      "options": [
+        "Àmì Ohùn",
+        "Kọ́nṣónántì (Consonants)",
+        "Fáwẹ́lì",
+        "Ìró Àárín"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consonants (kọ́nṣónántì) are produced by obstructing the airflow at some point in the vocal tract, distinguishing them from vowels."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Fáwẹ́lì Yorùbá tí a ń pè pẹ̀lú afẹ́fẹ́ tí ń jáde láti imú ni a ń pè ní",
+      "options": [
+        "Àmì Ohùn",
+        "Àfofún (nasal vowels)",
+        "Kọ́nṣónántì",
+        "Àránmú (oral vowels)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nasal vowels (àfofún) are produced with airflow passing through the nose, distinct from oral vowels (àránmú) which use only the mouth."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Fáwẹ́lì Yorùbá tí a ń pè pẹ̀lú afẹ́fẹ́ tí ń jáde láti ẹnu nìkan ni a ń pè ní",
+      "options": [
+        "Ìró Àárín",
+        "Àfofún (nasal vowels)",
+        "Kọ́nṣónántì",
+        "Àránmú (oral vowels)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oral vowels (àránmú) are produced with air passing only through the mouth, as opposed to nasal vowels which involve nasal airflow."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni orúkọ tí à ń pè ètò lẹ́tà tí a ń fi kọ èdè Yorùbá?",
+      "options": [
+        "Àkópọ̀ lẹ́tà (Yoruba alphabet/orthography)",
+        "Gbólóhùn",
+        "Àmì Ohùn nìkan",
+        "Mọ́fíìmù"
+      ],
+      "correctIndex": 0,
+      "explanation": "Àkópọ̀ lẹ́tà refers to the standard Yoruba alphabet and orthographic system used to write the language."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìṣẹ̀lẹ̀ nínú èdè Yorùbá níbi tí a ti ń yọ fáwẹ́lì kan kúrò nígbà tí ọ̀rọ̀ méjì bá pàdé, láti mú ọ̀rọ̀ sunwọ̀n?",
+      "options": [
+        "Àmì Ohùn",
+        "Ìpín-ọ̀rọ̀",
+        "Ìsúnkì fàwẹ́lì (vowel elision)",
+        "Ìyọpọ̀ Fáwẹ́lì"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vowel elision (ìsúnkì fàwẹ́lì) occurs when a vowel is dropped where two words meet, smoothing the pronunciation of connected speech."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìṣẹ̀lẹ̀ tí ó ń mú kí fáwẹ́lì kan yí padà láti bá fáwẹ́lì tó wà nítòsí rẹ̀ mu, ní èdè Yorùbá?",
+      "options": [
+        "Àmì Ohùn",
+        "Ìpín-ọ̀rọ̀",
+        "Ìyọpọ̀ Fáwẹ́lì (vowel assimilation)",
+        "Ìsúnkì fàwẹ́lì"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vowel assimilation (ìyọpọ̀ fáwẹ́lì) occurs when a vowel changes to become more similar to a neighbouring vowel, aiding smoother pronunciation."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Èdè Yorùbá ní irú àmì ohùn mélòó?",
+      "options": [
+        "Mẹ́rin",
+        "Mẹ́ta: Òkè, Àárín, àti Ìsàlẹ̀ (three: High, Mid, and Low)",
+        "Ọ̀kan ṣoṣo",
+        "Márùn-ún"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yoruba has three tone levels: high (òkè), mid (àárín, typically unmarked in writing), and low (ìsàlẹ̀), each capable of distinguishing word meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Àmì wo ni a máa ń lò láti fi hàn pé ọ̀rọ̀ kan ní ohùn òkè ní èdè Yorùbá?",
+      "options": [
+        "Àmì àdìdùn (acute accent, ´)",
+        "Àmì ìsàlẹ̀ (grave accent, `)",
+        "Àmì ìbéèrè",
+        "Kò sí àmì rárá"
+      ],
+      "correctIndex": 0,
+      "explanation": "A high tone in written Yoruba is typically marked with an acute accent (´) placed above the relevant vowel."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Àmì wo ni a máa ń lò láti fi hàn pé ọ̀rọ̀ kan ní ohùn ìsàlẹ̀ ní èdè Yorùbá?",
+      "options": [
+        "Àmì ìbéèrè",
+        "Àmì àdìdùn (acute accent)",
+        "Àmì ìsàlẹ̀ (grave accent, `)",
+        "Kò sí àmì rárá"
+      ],
+      "correctIndex": 2,
+      "explanation": "A low tone in written Yoruba is typically marked with a grave accent (`) placed above the relevant vowel."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ohùn Àárín (mid tone) ní èdè Yorùbá, ní ọ̀pọ̀ ìgbà, ni a máa ń kọ",
+      "options": [
+        "pẹ̀lú àmì àdìdùn",
+        "láìsí àmì kankan (unmarked)",
+        "pẹ̀lú àmì ìbéèrè",
+        "pẹ̀lú àmì ìsàlẹ̀"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mid tone in Yoruba is conventionally left unmarked in writing, distinguishing it from the marked high and low tones."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí nìdí tí àmì ohùn (tone marking) fi ṣe pàtàkì gan-an nínú kíkọ èdè Yorùbá?",
+      "options": [
+        "Nítorí kò ní ipa kankan lórí ìtumọ̀ ọ̀rọ̀",
+        "Nítorí kò sí ìyàtọ̀ láàrin ohùn",
+        "Nítorí ọ̀rọ̀ kan náà lè ní ìtumọ̀ tó yàtọ̀ pátápátá tí ohùn rẹ̀ bá yàtọ̀",
+        "Nítorí àwọn olùkọ́ nìkan ló ń lò ó"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since Yoruba is a tonal language, the same sequence of letters can carry entirely different meanings depending on the tone applied, making accurate tone marking essential."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ìpín kan tó kéré jùlọ nínú ọ̀rọ̀ tó ní fáwẹ́lì nínú, tí í ṣe ìpìlẹ̀ fún kíkọ ọ̀rọ̀?",
+      "options": [
+        "Gbólóhùn",
+        "Àmì Ohùn",
+        "Mọ́fíìmù",
+        "Ìpín-ọ̀rọ̀/Syllable"
+      ],
+      "correctIndex": 3,
+      "explanation": "A syllable (ìpín-ọ̀rọ̀) is the basic phonetic unit built around a vowel, forming the foundational building block of spoken words."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ẹ̀ka ìmọ̀ èdè wo ni ó ń kẹ́kọ̀ọ́ nípa ètò ìró àti ohùn nínú èdè kan?",
+      "options": [
+        "Fonọ́lọ́jì (Phonology)",
+        "Ìtàn (History)",
+        "Gírámà (Grammar/Syntax)",
+        "Lítírẹ́ṣọ̀ (Literature)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phonology is the branch of linguistics dedicated to studying the sound system of a language, including vowels, consonants, and tone patterns."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ẹ̀ka ìmọ̀ èdè wo ni ó ń kẹ́kọ̀ọ́ nípa bí a ṣe ń pe ìró pẹ̀lú ẹ̀yà ara ìpè (articulatory features)?",
+      "options": [
+        "Ìṣẹ̀dá Ọ̀rọ̀",
+        "Ìtúpalẹ̀",
+        "Fonẹ́tíìkì (Phonetics)",
+        "Fonọ́lọ́jì nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phonetics studies the physical articulation of speech sounds, complementing phonology's focus on the sound patterns and system of a language."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kọ́nṣónántì méjì tí a ń pè papọ̀ ní àkókò kan náà, gẹ́gẹ́ bí 'gb' àti 'kp', ni a ń pè ní",
+      "options": [
+        "Fáwẹ́lì onífúnpọ̀",
+        "Àmì Ohùn onífúnpọ̀",
+        "Kọ́nṣónántì onífúnpọ̀ (labial-velar consonants)",
+        "Ìpín-ọ̀rọ̀ onífúnpọ̀"
+      ],
+      "correctIndex": 2,
+      "explanation": "Labial-velar consonants like 'gb' and 'kp' are produced with a simultaneous double articulation, a distinctive feature of Yoruba phonology."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìpín-ọ̀rọ̀ tí ó parí pẹ̀lú fáwẹ́lì, ní èdè Yorùbá?",
+      "options": [
+        "Ìpín-ọ̀rọ̀ tí ó tì (closed syllable)",
+        "Ìpín-ọ̀rọ̀ tí ó ṣí sílẹ̀ (open syllable)",
+        "Mọ́fíìmù",
+        "Àmì Ohùn"
+      ],
+      "correctIndex": 1,
+      "explanation": "An open syllable ends in a vowel sound, a very common syllable structure in Yoruba words."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ohun tí ó ń ṣẹlẹ̀ nígbà tí ọ̀rọ̀ méjì bá pàdé tí wọ́n sì di ọ̀rọ̀ kan ṣoṣo nínú ọ̀rọ̀ sísọ àti kíkọ?",
+      "options": [
+        "Mọ́fíìmù nìkan",
+        "Àmì Ohùn nìkan",
+        "Ìpín-ọ̀rọ̀ nìkan",
+        "Àkópọ̀-ọ̀rọ̀ (word/phrase contraction)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Contraction in Yoruba often occurs when two words merge into one form during speech, closely related to processes like vowel elision."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ìyàtọ̀ láàrin ohùn Òkè àti Ìsàlẹ̀ nínú ọ̀rọ̀ kan náà lè yí ìtumọ̀ ọ̀rọ̀ padà pátápátá. Èyí fi hàn pé Yorùbá jẹ́",
+      "options": [
+        "èdè tí a kò lè kọ sílẹ̀",
+        "èdè oníohùn (a tonal language)",
+        "èdè tí kò ní gírámà",
+        "èdè tí kò ní ohùn rárá"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because tone alone can distinguish meaning, Yoruba is classified as a tonal language, where pitch is a core part of word meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìwádìí nípa bí ohùn (tone) ṣe ń ṣiṣẹ́ nínú ìṣètò ìró èdè kan?",
+      "options": [
+        "Ìmọ̀ Lítírẹ́ṣọ̀",
+        "Ìmọ̀ Ohùn (tonology)",
+        "Ìmọ̀ Ìṣirò",
+        "Ìmọ̀ Ìtàn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tonology, a specialised branch of phonology, focuses on how pitch patterns (tones) function to convey meaning within a tonal language."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ọ̀rọ̀ Yorùbá, ìró kọ́nṣónántì méjì tí a ń pè pẹ̀lú fífọwọ́kan ètè méjèèjì ni a ń pè ní",
+      "options": [
+        "Fáwẹ́lì onífun",
+        "Kọ́nṣónántì onífun",
+        "Kọ́nṣónántì onílètè (bilabial consonants)",
+        "Àmì Ohùn Àárín"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilabial consonants, such as 'b', 'p', and 'm', are produced using both lips, a common consonant category in Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí nìdí tí ìmọ̀ ìpín-ọ̀rọ̀ (syllable structure) fi ṣe pàtàkì nínú kíkọ́ ọ̀mọ̀wé láti ka èdè Yorùbá dáadáa?",
+      "options": [
+        "Nítorí kò ní ìwúlò kankan",
+        "Nítorí ó jẹ mọ́ orin nìkan",
+        "Nítorí ó jẹ mọ́ ìtàn Yorùbá nìkan",
+        "Nítorí ó ń ràn wá lọ́wọ́ láti mọ bí a ṣe ń pín ọ̀rọ̀ sí ẹ̀ka kéékèèké fún kíkà tí ó tọ́"
+      ],
+      "correctIndex": 3,
+      "explanation": "Understanding syllable structure helps learners correctly break down and pronounce words, supporting accurate reading and speech."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ọ̀nà tí a ń gbà ṣàyẹ̀wò ipò ahọ́n nínú ẹnu nígbà tí a bá ń pe fáwẹ́lì kan pàtó?",
+      "options": [
+        "Ìtúpalẹ̀ ipò ahọ́n (tongue position analysis)",
+        "Ìtúpalẹ̀ lítírẹ́ṣọ̀",
+        "Ìtúpalẹ̀ gírámà nìkan",
+        "Ìtúpalẹ̀ àkọsílẹ̀ ìtàn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Analysing tongue position during vowel articulation helps distinguish different vowel qualities within a language's phonological system."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ìdí tí àkópọ̀ lẹ́tà (orthography) fi ṣe pàtàkì nínú kíkọ èdè Yorùbá lónìí?",
+      "options": [
+        "Kí a lè yí èdè náà padà pátápátá",
+        "Kí a lè ní ìṣọ̀kan ní bí a ṣe ń kọ àti kíka èdè náà láàrin gbogbo àwọn tí ń lò ó",
+        "Kí a lè yẹra fún kíkọ èdè náà pátápátá",
+        "Kí a lè dá kọ́nṣónántì tuntun sílẹ̀ láìsí ìlànà"
+      ],
+      "correctIndex": 1,
+      "explanation": "A standardised orthography ensures consistency in how the language is written and read across all its users, aiding clear communication and education."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìró tí a ń pè pẹ̀lú fífi ahọ́n kan ẹ̀yìn ẹnu, gẹ́gẹ́ bí 'k', 'g', 'ng'?",
+      "options": [
+        "Kọ́nṣónántì onílètè",
+        "Àmì Ohùn Àárín",
+        "Kọ́nṣónántì ẹ̀yìn-ọ̀fun (velar consonants)",
+        "Fáwẹ́lì onífun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Velar consonants, such as 'k', 'g', and 'ng', are articulated with the back of the tongue raised toward the soft palate (velum)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀ tí ó ń dárúkọ ènìyàn, ibi, tàbí ohun kan ni a ń pè ní",
+      "options": [
+        "Ọ̀rọ̀-Orúkọ (Noun)",
+        "Ọ̀rọ̀-Ìṣe",
+        "Ọ̀rọ̀-Àpèjúwe",
+        "Ọ̀rọ̀-Atọ́kùn"
+      ],
+      "correctIndex": 0,
+      "explanation": "A noun (ọ̀rọ̀-orúkọ) is the part of speech used to name a person, place, or thing."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀ tí ó ń rọ́pò orúkọ nínú gbólóhùn, bí í ṣe 'òun', 'wọ́n', 'àwa'?",
+      "options": [
+        "Ọ̀rọ̀-Arọpò-Orúkọ (Pronoun)",
+        "Ọ̀rọ̀-Ìṣe",
+        "Ọ̀rọ̀-Atọ́kùn",
+        "Ọ̀rọ̀-Orúkọ"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pronoun (ọ̀rọ̀-arọpò-orúkọ) stands in place of a noun, such as 'he/she/it' (òun), 'they' (wọ́n), or 'we' (àwa)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀ tí ó ń fi hàn ìṣe tàbí ipò kan nínú gbólóhùn, bí í ṣe 'lọ', 'jẹ', 'jókòó'?",
+      "options": [
+        "Ọ̀rọ̀-Àpèjúwe",
+        "Ọ̀rọ̀-Orúkọ",
+        "Ọ̀rọ̀-Ìṣe (Verb)",
+        "Ọ̀rọ̀-Atọ́kùn"
+      ],
+      "correctIndex": 2,
+      "explanation": "A verb (ọ̀rọ̀-ìṣe) expresses an action or state, forming the core of the predicate in a Yoruba sentence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀ tí ó ń ṣàpèjúwe orúkọ kan, bí í ṣe 'dára', 'dúdú', 'ńlá'?",
+      "options": [
+        "Ọ̀rọ̀-Orúkọ",
+        "Ọ̀rọ̀-Ìṣe",
+        "Ọ̀rọ̀-Atọ́kùn",
+        "Ọ̀rọ̀-Àpèjúwe (Adjective)"
+      ],
+      "correctIndex": 3,
+      "explanation": "An adjective (ọ̀rọ̀-àpèjúwe) describes or modifies a noun, providing more information about its quality."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀ tí ó ń so orúkọ tàbí arọ́pò-orúkọ pọ̀ mọ́ apá gbólóhùn mìíràn, bí í ṣe 'ní', 'lórí', 'sí'?",
+      "options": [
+        "Ọ̀rọ̀-Atọ́kùn (Preposition)",
+        "Ọ̀rọ̀-Orúkọ",
+        "Ọ̀rọ̀-Àpèjúwe",
+        "Ọ̀rọ̀-Ìṣe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A preposition (ọ̀rọ̀-atọ́kùn) links a noun or pronoun to another part of the sentence, indicating relationships such as location or direction."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ọ̀nà tí a ń gbà kọ́ ọ̀rọ̀ tuntun nípa fífi ìbẹ̀rẹ̀ kún ìpìlẹ̀ ọ̀rọ̀ kan, ní èdè Yorùbá?",
+      "options": [
+        "Àpòpò-ọ̀rọ̀",
+        "Àfòmọ́-ìbẹ̀rẹ̀ (Prefixation)",
+        "Ìsúnkì fàwẹ́lì",
+        "Ìyọpọ̀ Fáwẹ́lì"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prefixation (àfòmọ́-ìbẹ̀rẹ̀) is a word-formation process in Yoruba where a prefix is attached to a root, often creating a noun from a verb."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ọ̀nà tí a ń gbà tún ọ̀rọ̀ ṣe lẹ́ẹ̀mejì tàbí jù bẹ́ẹ̀ lọ láti fi kún ìtumọ̀ rẹ̀, ní èdè Yorùbá?",
+      "options": [
+        "Àfòmọ́-ìbẹ̀rẹ̀",
+        "Ìyọpọ̀ Fáwẹ́lì",
+        "Àpòpò-ọ̀rọ̀ (Reduplication)",
+        "Ìsúnkì fàwẹ́lì"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reduplication (àpòpò-ọ̀rọ̀) involves repeating a word or part of it, a common word-formation process used to intensify or extend meaning in Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni gbólóhùn tí a ń pè ní 'gbólóhùn oníbọ̀' (complex sentence)?",
+      "options": [
+        "Gbólóhùn tí ó ní ọ̀rọ̀ kan ṣoṣo",
+        "Gbólóhùn tí kò ní ọ̀rọ̀-ìṣe",
+        "Gbólóhùn tí ó ní ìpín méjì tàbí jù bẹ́ẹ̀ lọ tí wọ́n so pọ̀ láti fi hàn èrò kan tó pé",
+        "Gbólóhùn ìbéèrè nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "A complex sentence (gbólóhùn oníbọ̀) combines two or more clauses, often joined by a conjunction or subordinator, to express a fuller, more elaborate idea."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni gbólóhùn tí a ń pè ní 'gbólóhùn alákòópọ̀' (compound sentence)?",
+      "options": [
+        "Gbólóhùn tí kò ní kókó-ọ̀rọ̀",
+        "Gbólóhùn ìbéèrè nìkan",
+        "Gbólóhùn tí ó ní ọ̀rọ̀ kan ṣoṣo",
+        "Gbólóhùn tí ó ní gbólóhùn olómìnira méjì tí a fi ọ̀rọ̀ atapọ̀ so pọ̀"
+      ],
+      "correctIndex": 3,
+      "explanation": "A compound sentence (gbólóhùn alákòópọ̀) joins two independent clauses together, typically using a conjunction such as 'àti' (and) or 'ṣùgbọ́n' (but)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ gbólóhùn, kí ni à ń pè apá tí ó ń fi hàn ẹni tàbí ohun tí gbólóhùn ń sọ̀rọ̀ nípa rẹ̀?",
+      "options": [
+        "Ọ̀rọ̀-Àpèjúwe nìkan",
+        "Ọ̀rọ̀-Atọ́kùn nìkan",
+        "Àsọtúnsọ (Predicate) nìkan",
+        "Kókó-ọ̀rọ̀ (Subject)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The subject (kókó-ọ̀rọ̀) identifies who or what the sentence is primarily about, typically performing the action of the verb."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ gbólóhùn, kí ni à ń pè apá tí ó ń fún wa ní ìsọfúnni nípa kókó-ọ̀rọ̀?",
+      "options": [
+        "Àsọtúnsọ (Predicate)",
+        "Kókó-ọ̀rọ̀ nìkan",
+        "Mọ́fíìmù nìkan",
+        "Ọ̀rọ̀-Atọ́kùn nìkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The predicate (àsọtúnsọ) provides information about the subject, typically including the verb and any related objects or complements."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ìdí ìtúmọ̀ (translation) fi ṣe pàtàkì láàrin èdè Gẹ̀ẹ́sì àti Yorùbá?",
+      "options": [
+        "Kí a lè fi ìtumọ̀ ọ̀rọ̀ hàn ní èdè mìíràn láìyẹ̀ nínú ìtumọ̀ àti àṣà náà",
+        "Kí a lè yí ohùn ọ̀rọ̀ padà nìkan",
+        "Kí a lè fi ọ̀rọ̀ kan náà kọ ní èdè kan náà lẹ́ẹ̀mejì",
+        "Kí a lè yẹra fún kíkọ gbólóhùn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Translation aims to accurately convey the meaning of a passage from one language to another, while preserving both meaning and cultural nuance."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ẹ̀ka gírámà wo ni ó ń kẹ́kọ̀ọ́ nípa ìgbékalẹ̀ inú ọ̀rọ̀, gẹ́gẹ́ bí ìpìlẹ̀ àti àfikún rẹ̀?",
+      "options": [
+        "Fonọ́lọ́jì",
+        "Ìṣẹ̀dá Ọ̀rọ̀ (Morphology)",
+        "Ìgbékalẹ̀ Gbólóhùn (Syntax)",
+        "Lítírẹ́ṣọ̀"
+      ],
+      "correctIndex": 1,
+      "explanation": "Morphology studies the internal structure of words, including how roots, prefixes, and reduplication combine to form new words."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ẹ̀ka gírámà wo ni ó ń kẹ́kọ̀ọ́ nípa bí a ṣe ń to àwọn ọ̀rọ̀ jọ láti kọ́ gbólóhùn tó ní ìtumọ̀?",
+      "options": [
+        "Fonọ́lọ́jì",
+        "Lítírẹ́ṣọ̀",
+        "Ìgbékalẹ̀ Gbólóhùn (Syntax)",
+        "Ìṣẹ̀dá Ọ̀rọ̀"
+      ],
+      "correctIndex": 2,
+      "explanation": "Syntax examines how words are arranged and combined to form grammatically correct and meaningful sentences."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀ tí ó ń so ọ̀rọ̀ méjì tàbí gbólóhùn méjì pọ̀, bí í ṣe 'àti', 'ṣùgbọ́n', 'tàbí'?",
+      "options": [
+        "Ọ̀rọ̀-Atapọ̀ (Conjunction)",
+        "Ọ̀rọ̀-Ìṣe",
+        "Ọ̀rọ̀-Orúkọ",
+        "Ọ̀rọ̀-Atọ́kùn"
+      ],
+      "correctIndex": 0,
+      "explanation": "A conjunction (ọ̀rọ̀-atapọ̀) joins words, phrases, or clauses together, such as 'and' (àti), 'but' (ṣùgbọ́n), or 'or' (tàbí)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú gbólóhùn Yorùbá, kí ni orúkọ tí a ń fún ẹni tí ó ń gba ìṣe ọ̀rọ̀-ìṣe, tí kì í ṣe kókó-ọ̀rọ̀?",
+      "options": [
+        "Kókó-ọ̀rọ̀ nìkan",
+        "Àbájáde/Ohun-ìṣe (Object)",
+        "Ọ̀rọ̀-Àpèjúwe nìkan",
+        "Ọ̀rọ̀-Atọ́kùn nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "The object of a sentence receives the action of the verb, distinct from the subject, which performs the action."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè gbólóhùn tí a ń fi béèrè ìbéèrè, bí í ṣe 'Ṣé o lọ sí ilé-ìwé?'",
+      "options": [
+        "Gbólóhùn Ìbéèrè (interrogative sentence)",
+        "Gbólóhùn Àṣẹ nìkan",
+        "Gbólóhùn Oníbọ̀ nìkan",
+        "Gbólóhùn Alákòópọ̀ nìkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "An interrogative sentence is used to ask a question, distinct from declarative, imperative, or exclamatory sentence types."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè gbólóhùn tí a ń fi pàṣẹ tàbí kọ́ni, bí í ṣe 'Lọ sí ilé-ìwé!'?",
+      "options": [
+        "Gbólóhùn Ìbéèrè",
+        "Gbólóhùn Alákòópọ̀ nìkan",
+        "Gbólóhùn Àṣẹ (imperative sentence)",
+        "Gbólóhùn Oníbọ̀ nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "An imperative sentence gives a command or instruction, such as telling someone to go to school."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀-àpèjúwe tí ó ń fi ìṣàkóso ẹnìkan hàn, bí í ṣe 'mi', 'rẹ', 'wọn' nínú 'ilé mi', ni a ń pè ní",
+      "options": [
+        "Ọ̀rọ̀-Àpèjúwe Ìṣàkóso (possessive determiner)",
+        "Ọ̀rọ̀-Ìṣe",
+        "Ọ̀rọ̀-Atọ́kùn",
+        "Ọ̀rọ̀-Atapọ̀"
+      ],
+      "correctIndex": 0,
+      "explanation": "Possessive determiners like 'mi' (my), 'rẹ' (your), or 'wọn' (their) show ownership or association with the noun they modify, such as 'ilé mi' (my house)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìfiwéra tí a ń ṣe láàrin nǹkan méjì nípa lílo ọ̀rọ̀ bí í ṣe 'ju... lọ' ní èdè Yorùbá?",
+      "options": [
+        "Àmì Ohùn",
+        "Ìsúnkì fàwẹ́lì",
+        "Ìfiwéra (comparative construction)",
+        "Ìpín-ọ̀rọ̀"
+      ],
+      "correctIndex": 2,
+      "explanation": "Comparative constructions, such as those using 'ju...lọ' (more than), allow speakers to compare the qualities of two things in Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìdìpọ̀ ọ̀rọ̀ tí ó ń fi ìní ọ̀rọ̀ kan hàn lórí òmíràn, bí í ṣe 'ilé bàbá mi'?",
+      "options": [
+        "Gbólóhùn Ìbéèrè",
+        "Gbólóhùn Alákòópọ̀",
+        "Gbólóhùn Ìní (possessive/genitive construction)",
+        "Gbólóhùn Àṣẹ"
+      ],
+      "correctIndex": 2,
+      "explanation": "A possessive (genitive) construction, such as 'ilé bàbá mi' (my father's house), shows a relationship of ownership between two nouns."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ gbólóhùn, kí ni à ń pè ìpín gbólóhùn kan sí àwọn ẹ̀yà rẹ̀ láti ṣàyẹ̀wò ìgbékalẹ̀ rẹ̀?",
+      "options": [
+        "Ìtúmọ̀ ọ̀rọ̀ nìkan",
+        "Lítírẹ́ṣọ̀ nìkan",
+        "Fonọ́lọ́jì nìkan",
+        "Ìtúpalẹ̀ Gbólóhùn (sentence parsing)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sentence parsing involves breaking a sentence into its grammatical components to analyse its structure and function."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ọ̀rọ̀ tí a fi ń ṣàpèjúwe ìye tàbí iye nǹkan, bí í ṣe 'mẹ́ta', 'púpọ̀', 'díẹ̀'?",
+      "options": [
+        "Ọ̀rọ̀-Atapọ̀",
+        "Ọ̀rọ̀ Onípò/Iye (quantifiers/numerals)",
+        "Ọ̀rọ̀-Atọ́kùn",
+        "Ọ̀rọ̀-Orúkọ nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quantifiers and numerals, such as 'mẹ́ta' (three), 'púpọ̀' (many), or 'díẹ̀' (a few), express quantity or amount in relation to a noun."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ìlànà gbogbogbòò tí a ń tẹ̀lé nígbà tí a bá ń kọ́ ọ̀rọ̀-orúkọ láti inú ọ̀rọ̀-ìṣe nípa àfòmọ́-ìbẹ̀rẹ̀?",
+      "options": [
+        "Fífi fáwẹ́lì kún ìbẹ̀rẹ̀ ọ̀rọ̀-ìṣe náà, bí í ṣe 'kọ́' di 'ìkọ́'",
+        "Yíyí ọ̀rọ̀-ìṣe padà sí kọ́nṣónántì nìkan",
+        "Yíyọ gbogbo fáwẹ́lì kúrò",
+        "Kíkọ ọ̀rọ̀-ìṣe náà ní ìdàkejì rẹ̀"
+      ],
+      "correctIndex": 0,
+      "explanation": "A common Yoruba word-formation pattern involves adding a vowel prefix to a verb root to derive a related noun, such as 'kọ́' (to build) becoming 'ìkọ́' (building/construction)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọ̀rọ̀-ìṣe tí ó ń fi hàn pé ìṣe kan ṣẹlẹ̀ ní àkókò tí ó ti kọjá ni a ń pè ní ọ̀rọ̀-ìṣe onígbà",
+      "options": [
+        "Àkókò Ìsinsìnyí nìkan",
+        "Àkókò Ọjọ́ Iwájú nìkan",
+        "Àkókò Ìṣẹ̀ṣe (past tense)",
+        "Àṣẹ nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Past tense verb forms indicate that an action has already occurred, marked in Yoruba typically through auxiliary markers or context."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè lẹ́tà tí a fi ń kọ sí ilé-iṣẹ́ tàbí ẹnì kan tí a kò mọ̀ dáadáa, ní ọ̀nà oníṣẹ́ẹ́?",
+      "options": [
+        "Àbáye",
+        "Ìtàn",
+        "Lẹ́tà Kíkọ àjọṣepọ̀ (informal letter)",
+        "Lẹ́tà Kíkọ oníṣẹ́ẹ́ (formal letter)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A formal letter is written to an institution or person one does not know well, following a professional, structured format."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè lẹ́tà tí a fi ń kọ sí ọ̀rẹ́ tàbí ẹbí, ní ọ̀nà ìbáṣepọ̀?",
+      "options": [
+        "Lẹ́tà Kíkọ oníṣẹ́ẹ́",
+        "Ìtàn",
+        "Àbáye",
+        "Lẹ́tà Kíkọ àjọṣepọ̀ (informal letter)"
+      ],
+      "correctIndex": 3,
+      "explanation": "An informal letter is written to a friend or family member in a warm, familiar tone, distinct from the professional style of a formal letter."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè àpilẹ̀kọ tí ó ń jíyàn fún tàbí lòdì sí kókó kan pẹ̀lú ìdí tó fẹsẹ̀múlẹ̀?",
+      "options": [
+        "Ìròyìn",
+        "Lẹ́tà Kíkọ",
+        "Àbáye/Àjírò (argumentative essay)",
+        "Ìtàn"
+      ],
+      "correctIndex": 2,
+      "explanation": "An argumentative essay (àbáye/àjírò) presents reasoned arguments to support or oppose a particular viewpoint on a topic."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè àpilẹ̀kọ tí ó ń ṣàlàyé ìṣẹ̀lẹ̀ kan tí ó ṣẹlẹ̀ gan-an, ní ọ̀nà ìròyìn?",
+      "options": [
+        "Ìròyìn (news/report writing)",
+        "Àbáye",
+        "Ìtàn",
+        "Lẹ́tà Kíkọ"
+      ],
+      "correctIndex": 0,
+      "explanation": "News report writing (ìròyìn) describes real events in a factual, structured manner, typical of journalistic composition."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè àpilẹ̀kọ tí ó ń sọ ìtàn ìṣẹ̀lẹ̀ kan, pẹ̀lú ìbẹ̀rẹ̀, àárín, àti òpin?",
+      "options": [
+        "Ìtàn (narrative essay)",
+        "Ìròyìn",
+        "Lẹ́tà Kíkọ",
+        "Àbáye"
+      ],
+      "correctIndex": 0,
+      "explanation": "A narrative essay (ìtàn) tells the story of events, typically organised with a beginning, middle, and end."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Iye ọ̀rọ̀ tí a ń retí nínú àrokò WAEC ní èdè Yorùbá jẹ́ kò kéré ní",
+      "options": [
+        "ọ̀rọ̀ 5",
+        "ọ̀rọ̀ 10 sí 20",
+        "ọ̀rọ̀ 300",
+        "ọ̀rọ̀ 1000"
+      ],
+      "correctIndex": 2,
+      "explanation": "WAEC Yoruba compositions are typically expected to contain a minimum of about 300 words to adequately develop the topic."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè kíkàwé tí a ṣe láti fa kókó pàtàkì jáde nínú àpilẹ̀kọ tí a kò tíì rí rí?",
+      "options": [
+        "Ìtúpalẹ̀ ọ̀rọ̀",
+        "Àrokò",
+        "Lítírẹ́ṣọ̀",
+        "Àkàgbóòye (comprehension)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Comprehension (àkàgbóòye) involves carefully reading an unseen passage to extract main ideas and understand its deeper meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú àkàgbóòye, kí ni à ń pè ìdámọ̀ àwọn kókó tí ó fara sin nínú àpilẹ̀kọ, tí kò fi hàn gbangba?",
+      "options": [
+        "Wíwo aṣọ ìwé nìkan",
+        "Kíka iye ọ̀rọ̀ nìkan",
+        "Ìtumọ̀ jíjìn/àṣírí ọ̀rọ̀ (implicit/deep-seated meaning)",
+        "Kíkà ọ̀rọ̀ ní gbangba nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Identifying implicit meaning requires the reader to infer ideas that are suggested by a text but not directly and explicitly stated."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìdámọ̀ àwọn ọ̀rọ̀ àtijọ́ tàbí ìṣàkàwé ọ̀rọ̀ nínú àkàgbóòye?",
+      "options": [
+        "Kíka ọjọ́ tí a tẹ ìwé jáde nìkan",
+        "Ìdámọ̀ ọ̀rọ̀ àkànlò-èdè (idiomatic/archaic phrasing identification)",
+        "Ìka ẹsẹ̀ ìwé nìkan",
+        "Kíka orúkọ òǹkọ̀wé nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Identifying idiomatic or archaic phrasing helps the reader decode figurative or older expressions whose meaning may not be obvious from a literal reading."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ìṣísẹ̀ àkọ́kọ́ tí ó yẹ kí akẹ́kọ̀ọ́ gbé ṣáájú kí ó tó bẹ̀rẹ̀ sí kọ àrokò?",
+      "options": [
+        "Ṣíṣe ìtòlẹ́sẹẹsẹ èrò àti ìjìnlẹ̀ òye kókó náà",
+        "Ríko iṣẹ́ akẹ́kọ̀ọ́ mìíràn",
+        "Kíkọ láìní ìtòlẹ́sẹẹsẹ kankan",
+        "Gbígbàgbé kókó náà pátápátá"
+      ],
+      "correctIndex": 0,
+      "explanation": "Before writing an essay, it is important to plan and organise one's thoughts, ensuring a clear understanding of the topic to produce a coherent composition."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú lẹ́tà oníṣẹ́ẹ́, kí ni ó yẹ kí a kọ ní ìbẹ̀rẹ̀ ìwé, ṣáájú orúkọ ẹni tí a ń kọ sí?",
+      "options": [
+        "Orúkọ ilé-ìwé nìkan",
+        "Owó tí a ń ná",
+        "Ìparí ìwé náà",
+        "Àdírẹ́sì ẹni tí ó kọ ìwé àti ọjọ́ tí a kọ ìwé náà"
+      ],
+      "correctIndex": 3,
+      "explanation": "A formal letter conventionally begins with the sender's address and the date, before the recipient's details and the letter's body."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtàn, kí ni à ń pè apá tí ó ń parí gbogbo ìṣẹ̀lẹ̀ tí ó ti ṣẹlẹ̀ nínú ìtàn náà?",
+      "options": [
+        "Kókó-ọ̀rọ̀ nìkan",
+        "Iye ọ̀rọ̀ nìkan",
+        "Ìbẹ̀rẹ̀ nìkan",
+        "Òpin (conclusion/resolution)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The conclusion (òpin) resolves the events and conflicts developed throughout the narrative, bringing the story to a satisfying end."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú àpilẹ̀kọ àbáye, kí ni ó yẹ kí òǹkọ̀wé ṣe láti fún ìdí rẹ̀ lókun?",
+      "options": [
+        "Fífúnni ní ìdí àti àpẹẹrẹ tí ó ń fi ìdí èrò rẹ̀ múlẹ̀",
+        "Ìfojúfo àti ìwádìí èyíkéyìí",
+        "Yíyẹra fún fífúnni ní ìdí kankan",
+        "Kíkọ gbólóhùn tí kò bára mu pẹ̀lú kókó náà"
+      ],
+      "correctIndex": 0,
+      "explanation": "An effective argumentative essay provides supporting evidence and relevant examples to reinforce the writer's position on a topic."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìtúpalẹ̀ tí a ń ṣe láti mọ ìdí tí òǹkọ̀wé fi kọ ìwé kan?",
+      "options": [
+        "Kíka iye ọ̀rọ̀ nìkan",
+        "Ìka ẹsẹ̀ ìwé nìkan",
+        "Ìtúpalẹ̀ Ète Òǹkọ̀wé (author's intention analysis)",
+        "Kíka orúkọ ilé-ìwé nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Analysing the author's intention involves considering the purpose behind a text and the message the writer aims to convey."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú àkàgbóòye, kí ni à ń pè kókó pàtàkì tí ìwé kan gbé kalẹ̀?",
+      "options": [
+        "Ọjọ́ tí a tẹ ìwé jáde nìkan",
+        "Kókó-ọ̀rọ̀ àkọ́kọ́ (main idea/theme)",
+        "Iye ọ̀rọ̀ nìkan",
+        "Orúkọ òǹkọ̀wé nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "The main idea or theme of a passage represents its central focus, the primary point the text seeks to communicate to the reader."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ó yẹ akẹ́kọ̀ọ́ ṣe lẹ́yìn tí ó parí kíkọ àrokò rẹ̀, kí ó tó fi lé olùkọ́ lọ́wọ́?",
+      "options": [
+        "Yíyọ ìpari àrokò náà kúrò",
+        "Ṣíṣàyẹ̀wò rẹ̀ padà láti tọ́ àwọn àṣìṣe gírámà àti àkọtọ́ sí",
+        "Fífi lé olùkọ́ lọ́wọ́ láìṣàyẹ̀wò padà",
+        "Ríko iṣẹ́ akẹ́kọ̀ọ́ mìíràn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reviewing one's work before submission helps identify and correct grammatical errors and spelling mistakes, improving overall composition quality."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè àwọn ọ̀rọ̀ tí a ń lò láti so èrò pọ̀ ní ọ̀nà tí ó bára mu nínú àrokò, bí í ṣe 'ní àkọ́kọ́', 'lẹ́yìn náà', 'níkẹyìn'?",
+      "options": [
+        "Ọ̀rọ̀-Atọ́kùn nìkan",
+        "Ọ̀rọ̀-Orúkọ nìkan",
+        "Ọ̀rọ̀ Aṣopọ̀-Èrò (transitional/connecting words)",
+        "Ọ̀rọ̀-Àpèjúwe nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Connecting words like 'ní àkọ́kọ́' (first), 'lẹ́yìn náà' (then), and 'níkẹyìn' (finally) help organise ideas logically within a composition."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú lẹ́tà àjọṣepọ̀, kí ni ìkíni tí ó bára mu jùlọ láti bẹ̀rẹ̀ ìwé sí ọ̀rẹ́?",
+      "options": [
+        "Ìkíni onínú-adùn, bí í ṣe 'Ọ̀rẹ́ mi ọ̀wọ́n,'",
+        "Ìwé àṣẹ ìjọba",
+        "Àkọsílẹ̀ owó ilé-iṣẹ́",
+        "Ìkéde ìjọba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Informal letters to friends typically open with warm, familiar greetings, distinct from the formal openings used in official correspondence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú àpilẹ̀kọ àpèjúwe, kí ni ó yẹ kí òǹkọ̀wé ṣe láti mú kí ohun tí ó ń ṣàpèjúwe hàn kedere sí òǹkàwé?",
+      "options": [
+        "Kíkọ orúkọ òǹkọ̀wé nìkan",
+        "Yíyọ gbogbo àlàyé kúrò",
+        "Lílo nọ́mbà nìkan láìní àlàyé",
+        "Lílo ọ̀rọ̀ tí ó ń fi hàn àwọ̀, ìró, àti bí ohun kan ti rí lára"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective descriptive writing uses vivid sensory details, such as colours, sounds, and physical sensations, to bring a scene or subject to life for the reader."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìròyìn, kí ni ó yẹ kí òǹkọ̀wé rí i dájú pé ó jẹ́ nípa ìṣẹ̀lẹ̀ tí a ń ròyìn?",
+      "options": [
+        "Òtítọ́ àti pé ó ṣẹlẹ̀ ní tòótọ́",
+        "Ìtàn àdáyébá láìsí ìṣẹ̀lẹ̀ gidi",
+        "Àròsọ tí kò sí ní tòótọ́",
+        "Èrò ìkọ̀kọ̀ òǹkọ̀wé nìkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "News reports should be based on factual, verifiable events, distinguishing them from fictional narrative writing."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ààtò ìdálórúkọ ọmọ tuntun, ní àṣà Yorùbá?",
+      "options": [
+        "Ìgbéyàwó",
+        "Ìsọmọlórúkọ (naming ceremony)",
+        "Ìsìnkú",
+        "Ìbọ́wọ̀ fún Àgbà"
+      ],
+      "correctIndex": 1,
+      "explanation": "The naming ceremony (ìsọmọlórúkọ) is a traditional Yoruba rite performed to formally give a name to a newborn baby."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ètò ìgbéyàwó ní àṣà Yorùbá, láti ìbéèrè títí dé ìgbéyàwó gan-an?",
+      "options": [
+        "Ìgbéyàwó (marriage parameters/customs)",
+        "Ìsọmọlórúkọ",
+        "Ẹ̀sìn Ìbílẹ̀",
+        "Ìsìnkú"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ìgbéyàwó refers to the traditional Yoruba marriage process, including courtship customs and the wedding itself."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ààtò ìdálẹ̀kú àti sísin òkú ní àṣà Yorùbá?",
+      "options": [
+        "Ìsọmọlórúkọ",
+        "Ìgbéyàwó",
+        "Ìbọ́wọ̀ fún Àgbà",
+        "Ìsìnkú (funeral arrangements)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ìsìnkú describes the traditional Yoruba customs surrounding death, mourning, and burial."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìbọ̀wọ̀ àti ìkíni tí a ń fi hàn sí àgbà ní àṣà Yorùbá?",
+      "options": [
+        "Ẹ̀sìn Ìbílẹ̀",
+        "Ìsìnkú",
+        "Ìbọ́wọ̀ fún Àgbà (respect for elders)",
+        "Ìgbéyàwó"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ìbọ́wọ̀ fún àgbà reflects the deep cultural value placed on respecting and honouring elders, expressed through specific greetings and conduct."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ẹ̀sìn ìbílẹ̀ tí ó gbàgbọ́ nínú ọ̀pọ̀lọpọ̀ Òrìṣà àti ètò ìṣàyẹ̀wò Ifá?",
+      "options": [
+        "Ìsọmọlórúkọ",
+        "Ìsìnkú",
+        "Ìgbéyàwó",
+        "Ẹ̀sìn Ìbílẹ̀ (traditional/Orisa religion)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional Yoruba religion (ẹ̀sìn ìbílẹ̀) centres on the worship of various Orisa deities and consultation with the Ifa divination system."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ètò ìṣèlú ìbílẹ̀ Yorùbá, kí ni orúkọ oyè tí ó ń tọ́ka sí ọba kan?",
+      "options": [
+        "Ọlọ́pọ́n",
+        "Baálẹ̀ nìkan",
+        "Ọ̀gá ìjọba nìkan",
+        "Oba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oba is the traditional title for a Yoruba king, the paramount ruler of a kingdom or town in the traditional political hierarchy."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ètò ìṣèlú ìbílẹ̀ Yorùbá, kí ni orúkọ oyè tí ó ń tọ́ka sí olórí abúlé tàbí ìlú kékeré tí kìí ṣe ìjọba Oba?",
+      "options": [
+        "Oba nìkan",
+        "Baálẹ̀",
+        "Ọ̀ṣọ́rọ̀",
+        "Ògbóni nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Baálẹ̀ refers to the head of a smaller settlement or community that does not hold full kingship status."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ìgbìmọ̀ àwọn ọlọ́lá ìlú tí ó ń ràn Oba lọ́wọ́ láti ṣàkóso ìlú, tí ó sì lè ṣàyẹ̀wò agbára rẹ̀?",
+      "options": [
+        "Ògbóni nìkan",
+        "Ọ̀yọ́mèsì",
+        "Baálẹ̀ nìkan",
+        "Ọlọ́pọ́n"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Ọ̀yọ́mèsì was a council of chiefs in the traditional Oyo Yoruba political system, holding significant power to check and, in extreme cases, remove the Alaafin."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ẹgbẹ́ àṣírí tí ó ní ipa pàtàkì nínú ìṣèlú àti ìdájọ́ ìbílẹ̀ láàrin àwọn ìlú Yorùbá kan?",
+      "options": [
+        "Ẹgbẹ́ ọdẹ nìkan",
+        "Baálẹ̀ nìkan",
+        "Ọ̀yọ́mèsì nìkan",
+        "Ògbóni"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Ogboni society is a traditional secretive fraternity that historically played a significant judicial and political role in some Yoruba communities."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni orúkọ sáà-níṣẹ́ ìbílẹ̀ tí ó ń kàn iṣẹ́ agbéṣin irin, gẹ́gẹ́ bí ọ̀nà ìgbẹ́mìí àwọn Yorùbá?",
+      "options": [
+        "Adárosùn",
+        "Alágbède (blacksmithing)",
+        "Ọlọ́pọ́n",
+        "Àgbẹ̀"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alágbède refers to the traditional occupation of blacksmithing, a valued craft in Yoruba society."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni orúkọ sáà-níṣẹ́ ìbílẹ̀ tí ó ń kàn iṣẹ́ àgbẹ̀, ọ̀kan lára àwọn iṣẹ́ ìpìlẹ̀ ìbílẹ̀ Yorùbá?",
+      "options": [
+        "Adárosùn",
+        "Alágbède",
+        "Ẹ̀sìn Ìbílẹ̀",
+        "Àgbẹ̀ (farming)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Àgbẹ̀ refers to farming, one of the most fundamental traditional occupations among the Yoruba people."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni orúkọ sáà-níṣẹ́ ìbílẹ̀ tí ó ń kàn iṣẹ́ ìrọ aṣọ, gẹ́gẹ́ bí ọ̀nà iṣẹ́ ọwọ́ Yorùbá?",
+      "options": [
+        "Ọlọ́pọ́n",
+        "Àgbẹ̀",
+        "Adárosùn (dyeing)",
+        "Alágbède"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adárosùn refers to the traditional craft of fabric dyeing, notably associated with indigo (aro) dyeing in Yoruba culture."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni eré ìdárayá ìbílẹ̀ tí a ń fi ìjà ara-ẹni ṣe láàrin ọ̀dọ́mọkùnrin méjì, títí tí ẹnìkan yóò fi ṣubú?",
+      "options": [
+        "Ayò",
+        "Ìjakadi (wrestling)",
+        "Ẹ̀sìn Ìbílẹ̀",
+        "Ìsìnkú"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ìjakadi is a traditional wrestling sport where opponents grapple until one is thrown down, a popular form of Yoruba traditional entertainment."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni eré ìbílẹ̀ tí a ń fi àwọn ìjì kéékèèké àti ihò ṣeré, tí a mọ̀ sí eré ọpọ́n?",
+      "options": [
+        "Adárosùn",
+        "Alágbède",
+        "Ayò (ayò ọlọ́pọ́n)",
+        "Ìjakadi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ayò ọlọ́pọ́n is a traditional Yoruba board game played with seeds moved between carved pits, a popular form of intellectual entertainment."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ọ̀rọ̀ kúkúrú tí ó kún fún ọgbọ́n, tí a ń lò láti fi hàn ẹ̀kọ́ ìwà rere ní ọ̀nà kúkúrú?",
+      "options": [
+        "Ewì Alẹ́nu",
+        "Àwòko/Àlọ́",
+        "Òwe (proverbs)",
+        "Àpèjúwe/Àpóló"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proverbs (òwe) are short, wisdom-laden sayings used to convey deep meaning or moral lessons concisely in Yoruba speech."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè lílo ọ̀rọ̀ tàbí àpèjúwe tí kì í ṣe ìtumọ̀ tààrà, láti fi ṣàpèjúwe ohun kan ní ọ̀nà arékérekè?",
+      "options": [
+        "Ewì Alẹ́nu nìkan",
+        "Àpèjúwe/Àpóló (figures of speech)",
+        "Òwe nìkan",
+        "Àwòko/Àlọ́ nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Figures of speech (àpèjúwe/àpóló) use language creatively, beyond its literal meaning, often for comparison or emphasis."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè eré ìbéèrè arọ́wọ́tó tí ó ń jẹ́ kí àwọn èèyàn wá ìdáhùn rẹ̀, ní àṣà Yorùbá?",
+      "options": [
+        "Òwe",
+        "Àwòko/Àlọ́ (riddles)",
+        "Àpèjúwe",
+        "Ewì Alẹ́nu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Riddles (àwòko/àlọ́) are traditional oral puzzles designed for entertainment and to sharpen listeners' wit."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè oríkì tàbí ewì tí a ń kọ láti ẹnu, gẹ́gẹ́ bí Ìjálá tàbí Ekun Iyawo, láìsí kíkọ sílẹ̀ ní àkọ́kọ́?",
+      "options": [
+        "Lítírẹ́ṣọ̀ Olórí-Ìwé",
+        "Ewì Alẹ́nu (oral/chanted performance poetry)",
+        "Òwe nìkan",
+        "Àwòko nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chanted oral poetry, such as Ijala (hunters' chants) and Ekun Iyawo (bridal lament), forms a rich tradition of performed verse within Yoruba oral literature."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìwé tí a kọ sílẹ̀ ní ìrísí ìtàn àròsọ, eré ìtàgé, tàbí ewì tí a kọ sílẹ̀, ní èdè Yorùbá?",
+      "options": [
+        "Ewì Alẹ́nu",
+        "Àwòko",
+        "Òwe",
+        "Lítírẹ́ṣọ̀ Olórí-Ìwé (written literature)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Written literature (lítírẹ́ṣọ̀ olórí-ìwé) refers to literary works recorded in text form, such as novels, plays, and written poetry anthologies."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ lítírẹ́ṣọ̀, kí ni à ń pè kókó pàtàkì tí ìwé kan gbé kalẹ̀ láti ẹnu sí ẹnu?",
+      "options": [
+        "Àkọsílẹ̀ ọjọ́ nìkan",
+        "Kókó-ọ̀rọ̀ (theme)",
+        "Ẹni-kọ̀wé nìkan",
+        "Ibi ìṣẹ̀lẹ̀ nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "The theme of a literary work is the central message or idea that the author conveys throughout the text."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ lítírẹ́ṣọ̀, kí ni à ń pè ẹni tí ó wà nínú ìtàn, pẹ̀lú ìwà rẹ̀ àti ipa tí ó kó nínú ìtàn náà?",
+      "options": [
+        "Ibi ìṣẹ̀lẹ̀ nìkan",
+        "Ẹni-kọ̀wé/Ẹni-nínú-ìtàn (character)",
+        "Kókó-ọ̀rọ̀ nìkan",
+        "Ìlànà nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "A character is a person portrayed within a literary work, defined by their traits, actions, and role in the story."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ lítírẹ́ṣọ̀, kí ni à ń pè ibi àti àkókò tí ìṣẹ̀lẹ̀ inú ìtàn kan wáyé?",
+      "options": [
+        "Kókó-ọ̀rọ̀ nìkan",
+        "Ìlànà nìkan",
+        "Ẹni-nínú-ìtàn nìkan",
+        "Ibi ìṣẹ̀lẹ̀ (setting)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Setting refers to the time and place in which a story's events unfold."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè iṣẹ́ ìbílẹ̀ tí ó jẹ mọ́ ìtọ́jú ẹran-ọ̀sìn àti oko ní àṣà Yorùbá?",
+      "options": [
+        "Ẹ̀sìn Ìbílẹ̀ nìkan",
+        "Alágbède nìkan",
+        "Ọ̀gbìn àti Ẹran ọ̀sìn (agriculture and animal husbandry)",
+        "Adárosùn nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Agriculture and animal husbandry have traditionally formed an important part of the Yoruba economy, alongside crafts like weaving and dyeing."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ètò ìjọba ìbílẹ̀ ti ìlú Yorùbá kan (bí Ọ̀yọ́) ń pè ìgbìmọ̀ tí ń ràn Oba lọ́wọ́ nínú ìdájọ́ àti ìṣèlú, tí ó yàtọ̀ sí Ọ̀yọ́mèsì?",
+      "options": [
+        "Ọlọ́pọ́n nìkan",
+        "Ògbóni (a parallel judicial/political council)",
+        "Ọ̀yọ́mèsì nìkan",
+        "Baálẹ̀ nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alongside the Ọ̀yọ́mèsì, the Ogboni society traditionally served an important, sometimes overlapping, judicial and political function in some Yoruba towns."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí nìdí tí ìkẹ́kọ̀ọ́ àṣà (culture) fi ṣe pàtàkì gẹ́gẹ́ bí apá kan nínú ìkẹ́kọ̀ọ́ èdè Yorùbá?",
+      "options": [
+        "Kí àwọn akẹ́kọ̀ọ́ lè lóye ìṣe àti ìrònú àwọn ará Yorùbá pọ̀ mọ́ èdè wọn",
+        "Kí àwọn akẹ́kọ̀ọ́ lè kọ èdè mìíràn tí kò jẹ mọ́ Yorùbá",
+        "Kí àwọn akẹ́kọ̀ọ́ lè kọ ìṣirò",
+        "Kí àwọn akẹ́kọ̀ọ́ lè gbàgbé àṣà ìbílẹ̀ wọn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Studying culture alongside language helps students understand the social practices and worldview of the Yoruba people, deepening their linguistic competence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìtàn àròsọ tí a ń kọ láti ẹnu sí ẹnu, tí ó jẹ́ kún fún ẹ̀kọ́ ìwà rere ní àṣà Yorùbá?",
+      "options": [
+        "Ewì Alẹ́nu nìkan",
+        "Òwe nìkan",
+        "Àlọ́ Àpagbè (folktales)",
+        "Àwòko nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Folktales are traditional oral stories, often conveying moral lessons, passed down through generations among the Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìlànà tí a ń tẹ̀lé láti ṣàyẹ̀wò ìwé lítírẹ́ṣọ̀ kan fún kókó-ọ̀rọ̀ àti ọgbọ́n inú rẹ̀?",
+      "options": [
+        "Ìtúpalẹ̀ Lítírẹ́ṣọ̀ (literary analysis/criticism)",
+        "Ìtúmọ̀ ọ̀rọ̀ nìkan",
+        "Fonọ́lọ́jì nìkan",
+        "Àkàgbóòye nìkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Literary analysis involves closely examining a text's themes, characters, and structure to deepen understanding of the author's work."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni ipa tí àwọn baba ńlá (ancestors) kó nínú ìgbàgbọ́ ẹ̀sìn ìbílẹ̀ Yorùbá?",
+      "options": [
+        "A gbà pé wọ́n ń bójútó ìdílé wọn láti ayé mìíràn, a sì ń bọ̀wọ̀ fún wọn",
+        "Wọn kò ní ipa kankan nínú ìgbàgbọ́ ìbílẹ̀",
+        "A kò rántí wọn rárá",
+        "Wọ́n jẹ́ ọ̀tá àwọn Òrìṣà"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ancestral reverence forms an important part of traditional Yoruba belief, with ancestors regarded as continuing to watch over and guide their families."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè oríkì tí a ń kọ fún ọmọ ọba tàbí ìdílé pàtàkì kan, gẹ́gẹ́ bí ara oríkì ìbílẹ̀ Yorùbá?",
+      "options": [
+        "Oríkì (praise poetry)",
+        "Òwe nìkan",
+        "Ìtàn àròsọ nìkan",
+        "Àwòko nìkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oríkì (praise poetry) celebrates the qualities, lineage, and achievements of an individual or family, a significant form of Yoruba oral literature."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni à ń pè ìpìlẹ̀ ìṣàkóso ìbílẹ̀ Yorùbá tí ó gbé ọ̀wọ̀ àti ipò lélẹ̀ gẹ́gẹ́ bí a ti ń jogún oyè láti ìran dé ìran?",
+      "options": [
+        "Ìjọba tiwantiwa lóde òní nìkan",
+        "Ìṣàkóso oyè àbínibí (hereditary chieftaincy structure)",
+        "Àìsí ìjọba rárá",
+        "Ìjọba ológun nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traditional Yoruba political structures are often built around hereditary chieftaincy, with royal titles and positions passed down through specific lineages."
+    }
+  ]
+}

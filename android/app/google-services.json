@@ -7,12 +7,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:734285493928:android:fe940beec1a9baa038749d",
+        "mobilesdk_app_id": "1:734285493928:android:173172ed7fad5a3c38749d",
         "android_client_info": {
-          "package_name": "com.example.exam_prep"
+          "package_name": "aaj.examcoach.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "734285493928-9c5795tqut0cd20kin6rr8rvob0qpssr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCcW02I86HdaPwPfbSIyCTOpp0cE0xaTGY"
@@ -20,7 +25,91 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734285493928-9c5795tqut0cd20kin6rr8rvob0qpssr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734285493928-l033idaq1et5h4c8doktnd76nqtl02df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examPrep"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734285493928:android:8b05d5145d4b03f638749d",
+        "android_client_info": {
+          "package_name": "aaj.examcoah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734285493928-9c5795tqut0cd20kin6rr8rvob0qpssr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW02I86HdaPwPfbSIyCTOpp0cE0xaTGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734285493928-9c5795tqut0cd20kin6rr8rvob0qpssr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734285493928-l033idaq1et5h4c8doktnd76nqtl02df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examPrep"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734285493928:android:fe940beec1a9baa038749d",
+        "android_client_info": {
+          "package_name": "com.example.exam_prep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734285493928-9c5795tqut0cd20kin6rr8rvob0qpssr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcW02I86HdaPwPfbSIyCTOpp0cE0xaTGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734285493928-9c5795tqut0cd20kin6rr8rvob0qpssr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734285493928-l033idaq1et5h4c8doktnd76nqtl02df.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examPrep"
+              }
+            }
+          ]
         }
       }
     }

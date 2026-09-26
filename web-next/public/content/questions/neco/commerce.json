@@ -1,0 +1,1206 @@
+{
+  "subject": "Commerce",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Commerce",
+      "text": "Commerce is best defined as",
+      "options": [
+        "the growing of crops and rearing of animals",
+        "the process of taxing goods entering a country",
+        "the manufacturing of goods only",
+        "all activities connected with the buying, selling, and exchange of goods, including the aids that facilitate this"
+      ],
+      "correctIndex": 3,
+      "explanation": "Commerce covers trade (buying and selling) plus the aids-to-trade (banking, insurance, transport, etc.) that make trade possible."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The two main branches into which commerce is divided are",
+      "options": [
+        "trade and aids to trade",
+        "industry and agriculture",
+        "import and export only",
+        "production and consumption"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commerce is broadly divided into trade (the actual buying and selling) and aids to trade (services that support trade)."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is NOT classified as an aid to trade?",
+      "options": [
+        "Manufacturing",
+        "Transport",
+        "Insurance",
+        "Banking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Manufacturing is a form of production (industry), not a service that assists the movement or exchange of goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Trade may be broadly classified into",
+      "options": [
+        "banking and insurance",
+        "home trade and foreign trade",
+        "production and extraction",
+        "retail trade and warehousing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trade is divided into home (internal) trade, conducted within a country, and foreign (international) trade, conducted between countries."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Commerce serves as a link between",
+      "options": [
+        "banking and insurance only",
+        "production and consumption",
+        "government and taxation",
+        "agriculture and mining only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Commerce bridges the gap between producers of goods and the final consumers by moving goods to where and when they are needed."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The exchange of goods for other goods without the use of money is known as",
+      "options": [
+        "hire purchase",
+        "consignment",
+        "barter",
+        "credit sale"
+      ],
+      "correctIndex": 2,
+      "explanation": "Barter is the historical trading system in which goods are directly exchanged for other goods, without money as a medium."
+    },
+    {
+      "subject": "Commerce",
+      "text": "One major problem of the barter system was",
+      "options": [
+        "high import duties",
+        "excessive use of money",
+        "over-reliance on banks",
+        "lack of a common measure of value for goods being exchanged"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under barter, there was no standard unit to measure the value of different goods, making fair exchange difficult."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The introduction of money into trade mainly helped to solve the barter problem of",
+      "options": [
+        "excess production of goods",
+        "high cost of transportation",
+        "poor storage facilities",
+        "double coincidence of wants"
+      ],
+      "correctIndex": 3,
+      "explanation": "Money removed the need for a 'double coincidence of wants' — where each trader must want exactly what the other offers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of these is an example of an aid to trade?",
+      "options": [
+        "Fishing",
+        "Insurance",
+        "Mining",
+        "Farming"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insurance is a service (aid to trade) that supports commerce by covering risks; farming, fishing, and mining are extractive/production activities."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The main function of commerce in an economy is to",
+      "options": [
+        "manufacture finished goods from raw materials",
+        "extract raw materials from the earth",
+        "remove the hindrances that stand between producers and consumers",
+        "control the value of a country's currency"
+      ],
+      "correctIndex": 2,
+      "explanation": "Commerce exists to overcome barriers of place, time, information, and risk that separate producers from consumers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The hindrance of trade concerned with goods being in the wrong place is overcome mainly by",
+      "options": [
+        "insurance",
+        "transport",
+        "advertising",
+        "banking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transport moves goods from the place of production to the place of consumption, solving the hindrance of place."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The hindrance of trade concerned with goods not being available when needed is overcome mainly by",
+      "options": [
+        "banking",
+        "warehousing",
+        "insurance",
+        "advertising"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warehousing stores goods until they are needed, solving the hindrance of time."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The hindrance of trade concerned with buyers not knowing where to obtain goods is overcome mainly by",
+      "options": [
+        "insurance",
+        "warehousing",
+        "advertising",
+        "transport"
+      ],
+      "correctIndex": 2,
+      "explanation": "Advertising informs potential buyers about the availability and source of goods, overcoming the hindrance of knowledge/information."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The hindrance of trade concerned with risk of loss or damage to goods is overcome mainly by",
+      "options": [
+        "transport",
+        "advertising",
+        "warehousing",
+        "insurance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insurance provides financial protection against risks such as fire, theft, and accidents, overcoming the hindrance of risk."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The hindrance of trade concerned with the difficulty of paying for goods at a distance is overcome mainly by",
+      "options": [
+        "transport",
+        "advertising",
+        "warehousing",
+        "banking"
+      ],
+      "correctIndex": 3,
+      "explanation": "Banks provide payment and credit facilities that make it possible to settle transactions between distant parties, overcoming the hindrance of exchange of value."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Occupations can be broadly classified into",
+      "options": [
+        "trade and aids to trade only",
+        "home trade and foreign trade only",
+        "industrial, commercial, professional, and personal service occupations",
+        "banking and insurance only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Occupations are grouped into industrial (production), commercial (trade and aids to trade), professional, and personal service categories."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Industrial occupations that involve obtaining raw materials directly from nature are called",
+      "options": [
+        "extractive occupations",
+        "constructive occupations",
+        "commercial occupations",
+        "manufacturing occupations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Extractive occupations, such as mining and fishing, obtain raw materials directly from land, sea, or air."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Fishing, mining, and lumbering are examples of",
+      "options": [
+        "professional occupations",
+        "extractive occupations",
+        "personal service occupations",
+        "constructive occupations"
+      ],
+      "correctIndex": 1,
+      "explanation": "These occupations extract natural resources directly from the environment."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Building and civil engineering works are examples of",
+      "options": [
+        "commercial occupations",
+        "manufacturing occupations",
+        "constructive occupations",
+        "extractive occupations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Constructive occupations involve erecting structures such as buildings, roads, and bridges."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Turning raw materials such as cotton into finished goods such as cloth is an example of",
+      "options": [
+        "manufacturing occupation",
+        "constructive occupation",
+        "personal service occupation",
+        "extractive occupation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Manufacturing involves converting raw materials into finished or semi-finished products."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Commercial occupations include which of the following?",
+      "options": [
+        "Trading and banking",
+        "Building and construction",
+        "Teaching and medicine",
+        "Farming and fishing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commercial occupations cover trade and the aids to trade, such as banking, insurance, and transport."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is a professional occupation?",
+      "options": [
+        "Fishing",
+        "Trading",
+        "Medicine",
+        "Building"
+      ],
+      "correctIndex": 2,
+      "explanation": "Professional occupations require specialised training and expertise, such as medicine, law, and accountancy."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Hairdressing and catering are examples of",
+      "options": [
+        "personal service occupations",
+        "manufacturing occupations",
+        "extractive occupations",
+        "professional occupations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Personal service occupations directly serve individuals, such as hairdressing, catering, and laundry services."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major factor influencing a person's choice of occupation is",
+      "options": [
+        "personal interest and aptitude",
+        "the colour of the workplace",
+        "the type of currency in use",
+        "the distance between two markets"
+      ],
+      "correctIndex": 0,
+      "explanation": "People often choose occupations that match their interests, skills, and natural abilities."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of these best describes 'division of labour' as it relates to occupations?",
+      "options": [
+        "Dividing profits equally among partners",
+        "Sharing farmland among family members",
+        "Breaking a production process into separate tasks performed by different workers",
+        "Splitting a country into different trade regions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Division of labour splits a job into specialised tasks, increasing efficiency and output."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A business owned and controlled by one person, who bears all the risks and enjoys all the profits, is called a",
+      "options": [
+        "sole proprietorship",
+        "public corporation",
+        "private limited company",
+        "partnership"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sole proprietorship is owned by a single individual who has full control and unlimited liability."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major disadvantage of sole proprietorship is",
+      "options": [
+        "difficulty in making quick decisions",
+        "unlimited liability for business debts",
+        "sharing of profit with partners",
+        "separation of ownership from control"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sole trader is personally liable for all business debts, risking personal assets if the business fails."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An association of two to twenty persons carrying on business together with a view to making profit is called a",
+      "options": [
+        "partnership",
+        "sole proprietorship",
+        "cooperative society",
+        "public corporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "A partnership is formed by two or more people (subject to a maximum, traditionally twenty for ordinary trading partnerships) who share ownership and profit."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The document that governs the internal relationship between partners in a partnership is the",
+      "options": [
+        "partnership deed",
+        "memorandum of association",
+        "articles of association",
+        "certificate of incorporation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The partnership deed (or agreement) sets out the terms agreed upon by partners, such as profit sharing and capital contribution."
+    },
+    {
+      "subject": "Commerce",
+      "text": "In the absence of a partnership agreement, profits and losses are shared",
+      "options": [
+        "equally among the partners",
+        "according to the age of each partner",
+        "according to the number of years in the business",
+        "according to capital contributed"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under the Partnership Act, in the absence of an agreement, partners share profits and losses equally regardless of capital contributed."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A partner who takes an active part in the management of the business and has unlimited liability is called a",
+      "options": [
+        "sleeping partner",
+        "limited partner",
+        "nominal partner",
+        "general (active) partner"
+      ],
+      "correctIndex": 3,
+      "explanation": "A general partner participates actively in management and bears unlimited liability for the firm's debts."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A partner who contributes capital but takes no active part in management, with liability limited to their capital contribution, is called a",
+      "options": [
+        "nominal partner",
+        "active partner",
+        "limited partner",
+        "general partner"
+      ],
+      "correctIndex": 2,
+      "explanation": "A limited partner's liability is restricted to the amount of capital invested, and they do not take part in day-to-day management."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A company whose shares can be freely bought and sold on the stock exchange is called a",
+      "options": [
+        "sole proprietorship",
+        "private limited liability company",
+        "public limited liability company",
+        "partnership"
+      ],
+      "correctIndex": 2,
+      "explanation": "A public limited company can offer its shares to the general public and list them on a stock exchange."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A company whose shares cannot be offered to the general public and are restricted in transfer is called a",
+      "options": [
+        "private limited liability company",
+        "public corporation",
+        "public limited liability company",
+        "cooperative society"
+      ],
+      "correctIndex": 0,
+      "explanation": "A private limited company restricts the transfer of its shares and cannot invite the public to subscribe for shares."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The document that contains a company's name, objectives, and relationship with the outside world is the",
+      "options": [
+        "articles of association",
+        "prospectus",
+        "memorandum of association",
+        "partnership deed"
+      ],
+      "correctIndex": 2,
+      "explanation": "The memorandum of association defines a company's name, objectives, and its relationship with outsiders."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The document that contains the internal rules and regulations governing a company's management is the",
+      "options": [
+        "certificate of incorporation",
+        "memorandum of association",
+        "partnership deed",
+        "articles of association"
+      ],
+      "correctIndex": 3,
+      "explanation": "The articles of association govern the internal management and administration of a company."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A legal document issued to the public inviting them to subscribe for shares in a company is called a",
+      "options": [
+        "certificate of incorporation",
+        "prospectus",
+        "share certificate",
+        "memorandum of association"
+      ],
+      "correctIndex": 1,
+      "explanation": "A prospectus is an invitation to the public to buy shares or debentures of a company, containing relevant company information."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An organisation owned and controlled by the government to provide essential services, often not solely for profit, is called a",
+      "options": [
+        "partnership",
+        "cooperative society",
+        "public corporation",
+        "private limited company"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public corporations, such as national electricity or water boards, are established by government to provide essential services to the public."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A business organisation formed by people with common interests who pool resources for mutual economic benefit is called a",
+      "options": [
+        "public corporation",
+        "sole proprietorship",
+        "cooperative society",
+        "public limited company"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cooperative societies are voluntary associations where members combine resources for shared economic benefits, often on a one-member-one-vote basis."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Capital that a company is legally permitted to raise, as stated in its memorandum of association, is called",
+      "options": [
+        "authorized capital",
+        "issued capital",
+        "called-up capital",
+        "paid-up capital"
+      ],
+      "correctIndex": 0,
+      "explanation": "Authorized (or registered) capital is the maximum amount of share capital a company is allowed to raise, as stated in its memorandum."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The portion of authorized capital that a company has actually offered to shareholders is known as",
+      "options": [
+        "issued capital",
+        "called-up capital",
+        "working capital",
+        "authorized capital"
+      ],
+      "correctIndex": 0,
+      "explanation": "Issued capital refers to the part of the authorized capital that has been allotted to shareholders."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The part of the issued capital that shareholders have been asked to pay is called",
+      "options": [
+        "called-up capital",
+        "paid-up capital",
+        "issued capital",
+        "authorized capital"
+      ],
+      "correctIndex": 0,
+      "explanation": "Called-up capital is the portion of the issued capital which the company has requested shareholders to pay."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The amount actually paid by shareholders on the shares called up is known as",
+      "options": [
+        "paid-up capital",
+        "called-up capital",
+        "authorized capital",
+        "issued capital"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paid-up capital is the amount of the called-up capital that shareholders have actually paid to the company."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Working capital is best described as",
+      "options": [
+        "the total capital authorized by a company",
+        "the value of a company's fixed assets",
+        "the excess of current assets over current liabilities",
+        "the capital contributed by a sole owner only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Working capital measures a business's short-term financial health, calculated as current assets minus current liabilities."
+    },
+    {
+      "subject": "Commerce",
+      "text": "One reason a partnership or company may be dissolved is",
+      "options": [
+        "an increase in annual profit",
+        "expansion of the business into new markets",
+        "an increase in the number of customers",
+        "mutual agreement of the owners to end the business"
+      ],
+      "correctIndex": 3,
+      "explanation": "Businesses are commonly dissolved by mutual agreement, insolvency, death of a partner, expiry of an agreed term, or court order."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The sale of goods in large quantities to retailers and other traders, rather than directly to final consumers, is called",
+      "options": [
+        "entrepot trade",
+        "foreign trade",
+        "retail trade",
+        "wholesale trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wholesalers buy in bulk from producers and sell in smaller quantities to retailers, bridging producers and retailers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major function of the wholesaler to the manufacturer is",
+      "options": [
+        "granting import licences",
+        "buying in bulk, thereby relieving the manufacturer of storage and distribution costs",
+        "selling directly to final consumers",
+        "fixing the retail price of goods nationwide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wholesalers take bulk purchases off the manufacturer's hands, allowing manufacturers to focus on production rather than storage and distribution."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A major function of the wholesaler to the retailer is",
+      "options": [
+        "breaking bulk into smaller quantities suitable for retailers",
+        "fixing exchange rates",
+        "manufacturing finished goods",
+        "granting export licences"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wholesalers break bulk purchases into smaller units that retailers can afford and manage, saving retailers storage space and capital."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The sale of goods directly to the final consumer in relatively small quantities is called",
+      "options": [
+        "entrepot trade",
+        "wholesale trade",
+        "foreign trade",
+        "retail trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Retail trade is the final stage of distribution, selling goods directly to consumers for personal use."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A large-scale retail organisation that sells a wide variety of goods under one roof, organised into different departments, is a",
+      "options": [
+        "department store",
+        "itinerant trader",
+        "hawker",
+        "mail-order house"
+      ],
+      "correctIndex": 0,
+      "explanation": "Department stores offer a wide range of goods organised into separate departments within one large building."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Trade carried on between two or more countries is known as",
+      "options": [
+        "international (foreign) trade",
+        "retail trade",
+        "home trade",
+        "wholesale trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "International trade involves the exchange of goods and services across national borders."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The bringing of goods into a country from abroad is called",
+      "options": [
+        "import trade",
+        "home trade",
+        "export trade",
+        "entrepot trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Import trade involves purchasing goods from other countries and bringing them into the home country."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The sending of goods from a country to other countries is called",
+      "options": [
+        "retail trade",
+        "entrepot trade",
+        "import trade",
+        "export trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "Export trade involves selling and sending goods produced at home to buyers in other countries."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Trade that involves importing goods into a country and re-exporting them to other countries, often after minor processing, is called",
+      "options": [
+        "home trade",
+        "entrepot trade",
+        "hire purchase trade",
+        "wholesale trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Entrepot trade involves a country acting as a trading centre, importing goods for the purpose of re-exporting them."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A document that gives details of goods shipped, issued by the shipping company as evidence of a contract of carriage, is called a",
+      "options": [
+        "bill of lading",
+        "bill of exchange",
+        "certificate of origin",
+        "consular invoice"
+      ],
+      "correctIndex": 0,
+      "explanation": "The bill of lading is issued by the shipowner/carrier as a receipt for goods shipped and evidence of the contract of carriage."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A document that certifies the country in which goods were manufactured or produced is called a",
+      "options": [
+        "invoice",
+        "bill of exchange",
+        "certificate of origin",
+        "bill of lading"
+      ],
+      "correctIndex": 2,
+      "explanation": "A certificate of origin proves the country of manufacture of goods, often required for customs and tariff purposes."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A document showing the details, prices, and quantities of goods sold, sent by the seller to the buyer, is called an",
+      "options": [
+        "bill of lading",
+        "invoice",
+        "bill of exchange",
+        "certificate of origin"
+      ],
+      "correctIndex": 1,
+      "explanation": "An invoice is a bill sent by the seller detailing the goods, quantities, and prices, and requesting payment."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An invoice certified by the consul of the importing country, confirming the value and origin of goods, is called a",
+      "options": [
+        "certificate of origin",
+        "bill of lading",
+        "consular invoice",
+        "proforma invoice"
+      ],
+      "correctIndex": 2,
+      "explanation": "A consular invoice is certified by the consulate of the importing country to verify the value and details of the exported goods, often to prevent under-invoicing."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A written order by one person (the drawer) directing another (the drawee) to pay a specified sum to a third party is called a",
+      "options": [
+        "bill of exchange",
+        "certificate of origin",
+        "bill of lading",
+        "invoice"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bill of exchange is a written, unconditional order to pay a specified sum of money, commonly used in settling international trade debts."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A tax imposed by a government on goods entering or leaving a country is called a",
+      "options": [
+        "quota",
+        "embargo",
+        "tariff (customs duty)",
+        "subsidy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tariffs are taxes charged on imports (and sometimes exports) to raise revenue or protect local industries."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A restriction that limits the physical quantity of a commodity that may be imported into a country is called a",
+      "options": [
+        "quota",
+        "tariff",
+        "embargo",
+        "devaluation"
+      ],
+      "correctIndex": 0,
+      "explanation": "A quota fixes the maximum quantity of a good that can be imported (or exported) within a given period."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A total ban placed by a government on trade with a particular country or on a particular commodity is called an",
+      "options": [
+        "tariff",
+        "embargo",
+        "subsidy",
+        "quota"
+      ],
+      "correctIndex": 1,
+      "explanation": "An embargo is a complete prohibition on trade, often imposed for political or strategic reasons."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Government restrictions on the amount of foreign currency that can be bought, sold, or transferred are called",
+      "options": [
+        "exchange control",
+        "quota",
+        "embargo",
+        "tariff"
+      ],
+      "correctIndex": 0,
+      "explanation": "Exchange control regulates the buying, selling, and holding of foreign currencies to manage a country's balance of payments."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The difference between the value of a country's visible exports and visible imports over a period is called the",
+      "options": [
+        "balance of payments",
+        "national income",
+        "balance of trade",
+        "terms of trade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Balance of trade specifically compares visible (physical goods) exports and imports, unlike balance of payments which covers all transactions."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A record of all economic transactions between a country's residents and the rest of the world over a period is called the",
+      "options": [
+        "balance of trade",
+        "terms of trade",
+        "gross domestic product",
+        "balance of payments"
+      ],
+      "correctIndex": 3,
+      "explanation": "The balance of payments includes visible trade, invisible trade (services), and capital transactions, unlike the narrower balance of trade."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A financial institution that accepts deposits and grants loans to customers is called a",
+      "options": [
+        "stock exchange",
+        "insurance company",
+        "commercial bank",
+        "clearing house"
+      ],
+      "correctIndex": 2,
+      "explanation": "Commercial banks are the primary institutions for accepting deposits, granting loans, and providing payment services."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An account that allows customers to withdraw money on demand using a cheque, but usually earns little or no interest, is a",
+      "options": [
+        "domiciliary account",
+        "current account",
+        "savings account",
+        "fixed deposit account"
+      ],
+      "correctIndex": 1,
+      "explanation": "A current account permits frequent withdrawals via cheque and is mainly used by businesses for daily transactions."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An account designed for regular savings that earns interest, but with some restrictions on frequent withdrawals, is a",
+      "options": [
+        "loan account",
+        "current account",
+        "savings account",
+        "suspense account"
+      ],
+      "correctIndex": 2,
+      "explanation": "A savings account encourages saving and pays interest, though it typically restricts the number or size of withdrawals compared to a current account."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The system by which banks settle cheques drawn on one another is called the",
+      "options": [
+        "hire purchase system",
+        "consignment system",
+        "franchise system",
+        "clearing house system"
+      ],
+      "correctIndex": 3,
+      "explanation": "The clearing house allows banks to exchange and settle cheques and other instruments drawn on each other efficiently."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The bank that acts as banker to the government and other commercial banks, and controls the money supply, is the",
+      "options": [
+        "development bank",
+        "central bank",
+        "commercial bank",
+        "merchant bank"
+      ],
+      "correctIndex": 1,
+      "explanation": "The central bank (e.g., the Central Bank of Nigeria) regulates the banking system, controls money supply, and acts as banker of last resort."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A bank primarily involved in providing long-term capital and specialist advisory services to businesses, especially for large investments, is a",
+      "options": [
+        "commercial bank",
+        "savings bank",
+        "central bank",
+        "merchant (investment) bank"
+      ],
+      "correctIndex": 3,
+      "explanation": "Merchant/investment banks focus on corporate finance, underwriting, and long-term funding rather than everyday retail banking."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An agreement in which one party (the insured) pays a sum (premium) to another (the insurer) who agrees to compensate for a specified loss is called",
+      "options": [
+        "consignment",
+        "hire purchase",
+        "franchising",
+        "insurance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insurance is a risk-sharing arrangement where the insured pays premiums in exchange for compensation if a specified loss occurs."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The insurance principle stating that the insured should not profit from a claim, but should only be restored to their original financial position, is called",
+      "options": [
+        "insurable interest",
+        "subrogation",
+        "utmost good faith",
+        "indemnity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Indemnity ensures compensation only restores the insured to their pre-loss position, without allowing profit from a claim."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The insurance principle requiring both parties to disclose all material facts honestly when arranging a policy is called",
+      "options": [
+        "utmost good faith",
+        "subrogation",
+        "contribution",
+        "indemnity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Utmost good faith (uberrima fides) obliges both insurer and insured to reveal all relevant facts truthfully."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The insurance principle requiring that the insured must stand to lose financially if the insured event occurs is called",
+      "options": [
+        "proximate cause",
+        "subrogation",
+        "indemnity",
+        "insurable interest"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insurable interest means the policyholder must have a genuine financial stake in the item or life being insured."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The insurance principle allowing the insurer, after paying a claim, to take over the insured's rights of recovery against a third party is called",
+      "options": [
+        "utmost good faith",
+        "indemnity",
+        "contribution",
+        "subrogation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Subrogation lets the insurer step into the insured's shoes to recover losses from a responsible third party after settling a claim."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The insurance principle concerned with identifying the direct, dominant cause of a loss for a claim to be valid is called",
+      "options": [
+        "proximate cause",
+        "subrogation",
+        "utmost good faith",
+        "indemnity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proximate cause identifies the most direct and effective cause of a loss, which must be an insured peril for the claim to succeed."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A type of insurance policy that pays a sum of money on the death of the insured or at the end of an agreed term is called",
+      "options": [
+        "fire insurance",
+        "marine insurance",
+        "fidelity guarantee insurance",
+        "life assurance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Life assurance guarantees a payout either on death or at policy maturity, unlike general insurance which covers specific risk events only."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A type of insurance that covers ships, cargo, and freight against loss or damage during sea transport is called",
+      "options": [
+        "marine insurance",
+        "fire insurance",
+        "life assurance",
+        "burglary insurance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marine insurance protects vessels and their cargo from risks encountered during a sea voyage."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A type of insurance that compensates for loss or damage to property caused by fire outbreaks is called",
+      "options": [
+        "fidelity guarantee insurance",
+        "fire insurance",
+        "marine insurance",
+        "life assurance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fire insurance covers financial loss resulting from damage to property caused by fire."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The storage of goods in a safe place until they are needed is called",
+      "options": [
+        "warehousing",
+        "advertising",
+        "banking",
+        "insurance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warehousing is the aid to trade concerned with storing goods to bridge the gap between production and consumption periods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A warehouse owned and used by an individual firm solely to store its own goods is called a",
+      "options": [
+        "cold storage warehouse",
+        "bonded warehouse",
+        "public warehouse",
+        "private warehouse"
+      ],
+      "correctIndex": 3,
+      "explanation": "A private warehouse belongs to and is used exclusively by a particular firm to store its own goods."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A warehouse where imported goods are kept, under customs supervision, until import duty is paid, is called a",
+      "options": [
+        "cold storage warehouse",
+        "public warehouse",
+        "bonded warehouse",
+        "private warehouse"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bonded warehouses hold dutiable goods under customs control until the appropriate import duty is settled."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The main purpose of advertising in commerce is to",
+      "options": [
+        "inform and persuade potential customers about goods and services",
+        "store goods until needed",
+        "settle payments between traders",
+        "insure goods against risk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Advertising aims to inform consumers of a product's existence and persuade them to buy it, overcoming the hindrance of knowledge."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Advertising that seeks mainly to give consumers factual details about a product's features and uses is called",
+      "options": [
+        "surrogate advertising",
+        "competitive advertising",
+        "persuasive advertising",
+        "informative advertising"
+      ],
+      "correctIndex": 3,
+      "explanation": "Informative advertising focuses on educating consumers about a product's features, rather than emotional appeal."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An agreement between two or more parties that is enforceable by law is called a",
+      "options": [
+        "prospectus",
+        "memorandum",
+        "contract",
+        "invoice"
+      ],
+      "correctIndex": 2,
+      "explanation": "A contract is a legally binding agreement between parties, enforceable through the courts."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A definite proposal made by one party to another, showing willingness to enter into a contract, is called an",
+      "options": [
+        "consignment",
+        "acceptance",
+        "consideration",
+        "offer"
+      ],
+      "correctIndex": 3,
+      "explanation": "An offer is a clear proposal made with the intention of forming a binding agreement once accepted."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The unconditional agreement to the exact terms of an offer, which forms a binding contract, is called",
+      "options": [
+        "consideration",
+        "capacity",
+        "offer",
+        "acceptance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Acceptance must match the offer's terms exactly and be communicated to the offeror to form a valid contract."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Something of value given by each party to a contract, such as money or goods, in exchange for a promise, is called",
+      "options": [
+        "consideration",
+        "capacity",
+        "legality",
+        "offer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consideration is what each party gives or promises in a contract, and it must generally be of some value."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The legal ability of a party to enter into a binding contract is called",
+      "options": [
+        "capacity",
+        "consideration",
+        "offer",
+        "acceptance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Capacity refers to a party's legal competence to contract; minors, and persons of unsound mind, generally lack full contractual capacity."
+    },
+    {
+      "subject": "Commerce",
+      "text": "For a contract to be valid, its purpose and terms must be",
+      "options": [
+        "verbal only",
+        "legal",
+        "expensive",
+        "written in a foreign language"
+      ],
+      "correctIndex": 1,
+      "explanation": "A contract must have a lawful purpose; agreements to commit illegal acts are void and unenforceable."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A contract can be discharged (brought to an end) in which of the following ways?",
+      "options": [
+        "Performance, agreement, breach, or frustration",
+        "Advertising only",
+        "Warehousing only",
+        "Insurance only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contracts end through full performance, mutual agreement, breach by one party, or frustration (an unforeseen event making performance impossible)."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Latin maxim 'caveat emptor' used in the sale of goods means",
+      "options": [
+        "goods once sold cannot be returned",
+        "let the seller beware",
+        "let the buyer beware",
+        "all sales are final by law"
+      ],
+      "correctIndex": 2,
+      "explanation": "Caveat emptor places responsibility on the buyer to examine goods carefully before purchase, as sellers are not automatically liable for all defects."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A term in a contract of sale that is so essential that its breach entitles the buyer to reject the goods and terminate the contract is called a",
+      "options": [
+        "consignment",
+        "warranty",
+        "consideration",
+        "condition"
+      ],
+      "correctIndex": 3,
+      "explanation": "A condition is a major term of a contract; if breached, the innocent party may repudiate the contract and claim damages."
+    },
+    {
+      "subject": "Commerce",
+      "text": "A term in a contract of sale that is less essential, whose breach entitles the buyer only to claim damages but not to reject the goods, is called a",
+      "options": [
+        "warranty",
+        "consideration",
+        "prospectus",
+        "condition"
+      ],
+      "correctIndex": 0,
+      "explanation": "A warranty is a minor term; breaching it only gives the right to claim damages, not to reject the goods entirely."
+    },
+    {
+      "subject": "Commerce",
+      "text": "In a contract for the sale of specific goods, property (ownership) generally passes to the buyer when",
+      "options": [
+        "payment has been fully completed only",
+        "the goods have been advertised",
+        "the goods are delivered physically, regardless of intention",
+        "the parties intend it to pass"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under the Sale of Goods law, ownership passes when the parties intend it to, which may be at the time of the contract or later, depending on the terms."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Consumer protection agencies exist mainly to",
+      "options": [
+        "safeguard the interest and rights of consumers against exploitation",
+        "reduce the number of retailers in a country",
+        "eliminate competition among firms",
+        "increase the profit of manufacturers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consumer protection bodies exist to shield buyers from unfair trade practices, unsafe goods, and exploitation by sellers."
+    },
+    {
+      "subject": "Commerce",
+      "text": "An agency responsible for regulating and enforcing standards for food, drugs, and cosmetics in Nigeria is",
+      "options": [
+        "CBN",
+        "CPC",
+        "SON",
+        "NAFDAC"
+      ],
+      "correctIndex": 3,
+      "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates food, drugs, and related products for safety and quality."
+    },
+    {
+      "subject": "Commerce",
+      "text": "The Nigerian agency mainly responsible for setting and enforcing product quality standards is the",
+      "options": [
+        "Standards Organisation of Nigeria (SON)",
+        "NAFDAC",
+        "Central Bank of Nigeria (CBN)",
+        "Nigerian Stock Exchange (NSE)"
+      ],
+      "correctIndex": 0,
+      "explanation": "SON develops and enforces standards for the quality of products manufactured or sold in Nigeria."
+    },
+    {
+      "subject": "Commerce",
+      "text": "Which of the following is a basic right of the consumer?",
+      "options": [
+        "The right to determine another consumer's purchase",
+        "The right to control a company's production process",
+        "The right to fix the prices of all goods in the market",
+        "The right to safety and to be protected from hazardous goods"
+      ],
+      "correctIndex": 3,
+      "explanation": "Consumer rights typically include the right to safety, information, choice, and redress, protecting buyers from harm and exploitation."
+    }
+  ]
+}

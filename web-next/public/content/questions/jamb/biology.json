@@ -1,0 +1,2418 @@
+{
+  "subject": "Biology",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Biology",
+      "text": "Which of the following is NOT one of the seven characteristics of living things?",
+      "options": [
+        "Excretion",
+        "Crystallization",
+        "Reproduction",
+        "Irritability"
+      ],
+      "correctIndex": 1,
+      "explanation": "The recognised characteristics of life are nutrition, respiration, excretion, growth, reproduction, irritability, and movement; crystallization is a physical, non-living process."
+    },
+    {
+      "subject": "Biology",
+      "text": "The basic structural and functional unit of all living organisms is the",
+      "options": [
+        "cell",
+        "organ",
+        "tissue",
+        "system"
+      ],
+      "correctIndex": 0,
+      "explanation": "The cell theory establishes the cell as the smallest unit capable of carrying out all life processes independently."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which organelle is described as the 'powerhouse of the cell' because it is the site of aerobic respiration?",
+      "options": [
+        "Mitochondrion",
+        "Nucleus",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mitochondria contain the enzymes for the Krebs cycle and electron transport chain, generating most of a cell's ATP through aerobic respiration."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which structure is present in a plant cell but absent in an animal cell?",
+      "options": [
+        "Mitochondrion",
+        "Cell membrane",
+        "Cell wall",
+        "Nucleus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plant cells have a rigid cellulose cell wall external to the cell membrane, providing shape and support, which animal cells lack."
+    },
+    {
+      "subject": "Biology",
+      "text": "The correct order of increasing complexity in the organization of living matter is",
+      "options": [
+        "organ, tissue, cell, system",
+        "cell, tissue, organ, system",
+        "tissue, cell, system, organ",
+        "system, organ, cell, tissue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cells group into tissues, tissues combine to form organs, and organs work together as systems, representing increasing levels of biological organization."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which kingdom includes organisms that are prokaryotic, unicellular, and lack a true nucleus?",
+      "options": [
+        "Protista",
+        "Monera",
+        "Plantae",
+        "Fungi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kingdom Monera comprises bacteria and cyanobacteria, whose cells are prokaryotic, lacking a membrane-bound nucleus and other organelles."
+    },
+    {
+      "subject": "Biology",
+      "text": "Fungi differ from green plants mainly in that fungi",
+      "options": [
+        "are always unicellular",
+        "lack chlorophyll and cannot photosynthesise",
+        "have cell walls made of cellulose",
+        "carry out photosynthesis in chloroplasts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fungi are heterotrophic, absorbing nutrients from organic matter, since they lack chlorophyll and the chloroplasts needed for photosynthesis."
+    },
+    {
+      "subject": "Biology",
+      "text": "The chloroplast, found in green plant cells, is the site of",
+      "options": [
+        "photosynthesis",
+        "aerobic respiration",
+        "waste excretion",
+        "protein synthesis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chloroplasts contain chlorophyll pigments that trap light energy, driving the photosynthetic conversion of carbon dioxide and water into glucose and oxygen."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which cell organelle controls the cell's activities and contains the hereditary material?",
+      "options": [
+        "Cytoplasm",
+        "Cell membrane",
+        "Vacuole",
+        "Nucleus"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nucleus houses the chromosomes (DNA), directing protein synthesis and cellular activity, and is often called the control centre of the cell."
+    },
+    {
+      "subject": "Biology",
+      "text": "Binomial nomenclature, the scientific naming system for organisms, was introduced by",
+      "options": [
+        "Gregor Mendel",
+        "Carl Linnaeus",
+        "Charles Darwin",
+        "Robert Hooke"
+      ],
+      "correctIndex": 1,
+      "explanation": "Carl Linnaeus developed the two-name (genus and species) system of naming organisms, still used in modern taxonomy."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which taxonomic rank groups together organisms of similar genera?",
+      "options": [
+        "Species",
+        "Kingdom",
+        "Family",
+        "Phylum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taxonomic hierarchy from broadest to narrowest is Kingdom, Phylum, Class, Order, Family, Genus, Species; a family groups related genera."
+    },
+    {
+      "subject": "Biology",
+      "text": "The cell membrane's main function is to",
+      "options": [
+        "carry out photosynthesis",
+        "manufacture proteins",
+        "store genetic material",
+        "regulate the movement of substances into and out of the cell"
+      ],
+      "correctIndex": 3,
+      "explanation": "The selectively permeable cell membrane controls which substances enter or leave the cell, maintaining internal homeostasis."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following best defines a tissue?",
+      "options": [
+        "A group of different organs working together",
+        "A group of similar cells performing a specific function",
+        "A single cell performing all life functions",
+        "The outer covering of an organism"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tissue is an organized group of structurally similar cells that work together to carry out one or more specific functions, such as muscle tissue contracting."
+    },
+    {
+      "subject": "Biology",
+      "text": "Ribosomes in a cell are mainly responsible for",
+      "options": [
+        "protein synthesis",
+        "energy production",
+        "photosynthesis",
+        "waste storage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ribosomes translate messenger RNA into polypeptide chains, making them the site of protein synthesis in both prokaryotic and eukaryotic cells."
+    },
+    {
+      "subject": "Biology",
+      "text": "In a dicotyledonous root, the region responsible for absorbing water and mineral salts is the",
+      "options": [
+        "meristematic zone",
+        "region of elongation",
+        "root hair zone",
+        "root cap"
+      ],
+      "correctIndex": 2,
+      "explanation": "Root hairs greatly increase the surface area of the epidermis in the root hair (piliferous) zone, maximising water and mineral ion absorption."
+    },
+    {
+      "subject": "Biology",
+      "text": "The main function of the xylem tissue in a flowering plant is to",
+      "options": [
+        "conduct manufactured food from the leaves to other parts",
+        "conduct water and dissolved mineral salts upward from the root",
+        "carry out photosynthesis",
+        "store excess starch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xylem vessels are dead, lignified tubes that transport water and dissolved minerals from roots to the rest of the plant, and also provide structural support."
+    },
+    {
+      "subject": "Biology",
+      "text": "Phloem tissue is primarily responsible for",
+      "options": [
+        "translocation of manufactured food (mainly sucrose) from the leaves to other parts",
+        "absorption of water from the soil",
+        "gaseous exchange in the leaf",
+        "transport of water from roots to leaves"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phloem, composed of living sieve tubes and companion cells, translocates organic food substances made in the leaves to storage organs and growing regions."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which mammalian organ system is responsible for pumping blood around the body?",
+      "options": [
+        "Respiratory system",
+        "Circulatory system (heart)",
+        "Digestive system",
+        "Excretory system"
+      ],
+      "correctIndex": 1,
+      "explanation": "The heart, the central pumping organ of the circulatory system, rhythmically contracts to propel blood through arteries, capillaries, and veins."
+    },
+    {
+      "subject": "Biology",
+      "text": "Photosynthesis in green plants requires which combination of raw materials?",
+      "options": [
+        "Oxygen and carbon dioxide",
+        "Carbon dioxide and water",
+        "Oxygen and glucose",
+        "Nitrogen and water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The overall equation for photosynthesis is 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2, requiring carbon dioxide and water as raw materials."
+    },
+    {
+      "subject": "Biology",
+      "text": "Heterotrophic nutrition in which an organism lives in or on another living organism, deriving nutrients and causing it harm, is called",
+      "options": [
+        "holozoic nutrition",
+        "saprophytic nutrition",
+        "autotrophic nutrition",
+        "parasitic nutrition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parasitic nutrition involves an organism (the parasite) obtaining nutrients from a living host, usually to the host's detriment, e.g., tapeworms in the human gut."
+    },
+    {
+      "subject": "Biology",
+      "text": "Saprophytic nutrition involves an organism obtaining nutrients by",
+      "options": [
+        "manufacturing its own food using light energy",
+        "living inside a host and absorbing digested food directly",
+        "ingesting solid food and digesting it internally",
+        "secreting enzymes onto dead organic matter and absorbing the digested products"
+      ],
+      "correctIndex": 3,
+      "explanation": "Saprophytes such as many fungi and bacteria carry out extracellular digestion, releasing enzymes onto dead matter and absorbing the soluble products."
+    },
+    {
+      "subject": "Biology",
+      "text": "The mammalian tooth adapted for cutting and biting off food is the",
+      "options": [
+        "incisor",
+        "premolar",
+        "canine",
+        "molar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Incisors are chisel-shaped teeth at the front of the jaw, adapted for cutting and biting food into manageable pieces."
+    },
+    {
+      "subject": "Biology",
+      "text": "Canine teeth in carnivorous mammals are mainly adapted for",
+      "options": [
+        "tearing and gripping flesh",
+        "cutting food into pieces",
+        "crushing bones only",
+        "grinding and chewing plant material"
+      ],
+      "correctIndex": 0,
+      "explanation": "Canines are pointed, conical teeth well adapted for piercing, gripping, and tearing flesh, especially prominent in carnivores."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which enzyme, present in saliva, begins the digestion of starch in the mouth?",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Salivary amylase (ptyalin)",
+        "Trypsin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Salivary amylase hydrolyses starch into maltose, beginning carbohydrate digestion even before food reaches the stomach."
+    },
+    {
+      "subject": "Biology",
+      "text": "Pepsin, a protein-digesting enzyme, is secreted in the",
+      "options": [
+        "stomach",
+        "mouth",
+        "large intestine",
+        "small intestine only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pepsin is secreted by gastric glands in the stomach and works optimally in the highly acidic environment created by hydrochloric acid."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which blood vessel carries oxygenated blood away from the heart to the rest of the body?",
+      "options": [
+        "Vena cava",
+        "Pulmonary artery",
+        "Aorta",
+        "Hepatic portal vein"
+      ],
+      "correctIndex": 2,
+      "explanation": "The aorta is the largest artery, carrying oxygen-rich blood from the left ventricle of the heart to systemic circulation."
+    },
+    {
+      "subject": "Biology",
+      "text": "Red blood cells (erythrocytes) are mainly responsible for",
+      "options": [
+        "transporting digested food",
+        "clotting blood",
+        "fighting infections",
+        "transporting oxygen bound to haemoglobin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Haemoglobin within red blood cells binds oxygen in the lungs and releases it to respiring tissues throughout the body."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which type of blood vessel has walls only one cell thick, allowing exchange of substances with tissues?",
+      "options": [
+        "Capillary",
+        "Aorta",
+        "Artery",
+        "Vein"
+      ],
+      "correctIndex": 0,
+      "explanation": "Capillaries are the smallest blood vessels, with walls a single cell thick, permitting efficient diffusion of gases, nutrients, and wastes with surrounding tissues."
+    },
+    {
+      "subject": "Biology",
+      "text": "Aerobic respiration differs from anaerobic respiration mainly in that aerobic respiration",
+      "options": [
+        "requires oxygen and releases far more energy per glucose molecule",
+        "does not require oxygen",
+        "occurs only in plants",
+        "produces lactic acid as the main end-product in animals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aerobic respiration fully oxidises glucose using oxygen, yielding about 38 ATP molecules, far more than the 2 ATP from anaerobic respiration."
+    },
+    {
+      "subject": "Biology",
+      "text": "In humans, anaerobic respiration in muscles during vigorous exercise produces",
+      "options": [
+        "ethanol and carbon dioxide",
+        "large amounts of ATP",
+        "oxygen",
+        "lactic acid"
+      ],
+      "correctIndex": 3,
+      "explanation": "When oxygen supply is insufficient during strenuous activity, muscle cells respire anaerobically, converting glucose to lactic acid and releasing a small amount of energy."
+    },
+    {
+      "subject": "Biology",
+      "text": "The main respiratory organ in fish, adapted for extracting dissolved oxygen from water, is the",
+      "options": [
+        "skin",
+        "trachea",
+        "gill",
+        "lung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fish gills have thin, highly vascularised filaments with a large surface area, adapted to extract dissolved oxygen efficiently from water."
+    },
+    {
+      "subject": "Biology",
+      "text": "The main excretory product removed by the mammalian kidney is",
+      "options": [
+        "glucose",
+        "urea",
+        "amino acids",
+        "bile"
+      ],
+      "correctIndex": 1,
+      "explanation": "The kidneys filter blood and excrete urea, the main nitrogenous waste product formed from the breakdown of excess amino acids in the liver."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which excretory structure is found in earthworms, functioning similarly to the vertebrate kidney?",
+      "options": [
+        "Kidney",
+        "Malpighian tubule",
+        "Nephridium",
+        "Contractile vacuole"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nephridia are the excretory organs of earthworms and other annelids, filtering coelomic fluid and expelling nitrogenous waste."
+    },
+    {
+      "subject": "Biology",
+      "text": "Malpighian tubules, the excretory organs of insects, empty their waste products into the",
+      "options": [
+        "trachea",
+        "gut (alimentary canal)",
+        "Malpighian body",
+        "haemolymph directly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Malpighian tubules extract nitrogenous waste from the haemolymph and discharge it into the gut, where it is eliminated with faeces."
+    },
+    {
+      "subject": "Biology",
+      "text": "The skin contributes to excretion mainly by removing excess",
+      "options": [
+        "glucose",
+        "water, salts, and urea in sweat",
+        "carbon dioxide only",
+        "bile pigments"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sweat glands in the skin excrete water, dissolved salts, and small amounts of urea, also contributing to body temperature regulation."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which tissue provides mechanical support in the stems of herbaceous (non-woody) plants?",
+      "options": [
+        "Epidermis",
+        "Phloem fibres only",
+        "Xylem parenchyma only",
+        "Collenchyma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Collenchyma cells have unevenly thickened cellulose walls, providing flexible mechanical support especially in young, growing stems."
+    },
+    {
+      "subject": "Biology",
+      "text": "An exoskeleton, as found in insects and crustaceans, is mainly composed of",
+      "options": [
+        "cellulose",
+        "chitin",
+        "keratin only",
+        "calcium phosphate"
+      ],
+      "correctIndex": 1,
+      "explanation": "The insect exoskeleton (cuticle) is composed mainly of chitin, a tough polysaccharide that provides protection and attachment points for muscles."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which type of joint permits movement in almost all directions, as found at the shoulder?",
+      "options": [
+        "Gliding joint",
+        "Fixed (immovable) joint",
+        "Ball-and-socket joint",
+        "Hinge joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "A ball-and-socket joint, where a rounded bone head fits into a cup-like socket, allows the widest range of movement, as at the shoulder and hip."
+    },
+    {
+      "subject": "Biology",
+      "text": "A hinge joint, such as the elbow, permits movement",
+      "options": [
+        "with no movement at all",
+        "in all directions",
+        "by rotation only",
+        "in one plane only, like a door hinge"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hinge joints allow flexion and extension in a single plane, similar to the mechanical action of a door hinge, as seen at the elbow and knee."
+    },
+    {
+      "subject": "Biology",
+      "text": "The basic functional unit of the nervous system, responsible for transmitting nerve impulses, is the",
+      "options": [
+        "nephron",
+        "axon terminal only",
+        "synapse only",
+        "neuron"
+      ],
+      "correctIndex": 3,
+      "explanation": "Neurons (nerve cells) are specialised to generate and conduct electrical impulses, forming the structural and functional basis of the nervous system."
+    },
+    {
+      "subject": "Biology",
+      "text": "The part of the human eye that controls the amount of light entering the eye by adjusting the size of the pupil is the",
+      "options": [
+        "cornea",
+        "retina",
+        "iris",
+        "lens"
+      ],
+      "correctIndex": 2,
+      "explanation": "The iris, a pigmented muscular diaphragm, contracts or relaxes to control pupil diameter and hence the amount of light reaching the retina."
+    },
+    {
+      "subject": "Biology",
+      "text": "Light-sensitive cells that detect the image formed in the eye are located in the",
+      "options": [
+        "retina",
+        "cornea",
+        "iris",
+        "sclera"
+      ],
+      "correctIndex": 0,
+      "explanation": "The retina contains photoreceptor cells (rods and cones) that convert light into nerve impulses sent to the brain via the optic nerve."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which part of the mammalian ear is primarily responsible for maintaining balance?",
+      "options": [
+        "Pinna",
+        "Semicircular canals",
+        "Eardrum (tympanic membrane)",
+        "Cochlea"
+      ],
+      "correctIndex": 1,
+      "explanation": "The three fluid-filled semicircular canals in the inner ear detect changes in the head's rotational movement, helping maintain balance."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which endocrine gland, often called the 'master gland', regulates the activity of most other endocrine glands?",
+      "options": [
+        "Pituitary gland",
+        "Pancreas",
+        "Adrenal gland",
+        "Thyroid gland"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pituitary gland secretes hormones that control the activity of other endocrine glands, including the thyroid, adrenal glands, and gonads."
+    },
+    {
+      "subject": "Biology",
+      "text": "Homeostasis is best defined as the",
+      "options": [
+        "process of excreting metabolic waste",
+        "growth and development of an organism",
+        "maintenance of a stable internal environment despite external changes",
+        "process of obtaining food from the environment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Homeostasis refers to the regulatory mechanisms that keep internal conditions such as temperature, water balance, and blood glucose within narrow, stable limits."
+    },
+    {
+      "subject": "Biology",
+      "text": "The hormone responsible for lowering blood glucose levels after a meal is",
+      "options": [
+        "thyroxine",
+        "insulin",
+        "adrenaline",
+        "glucagon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Insulin, secreted by the beta cells of the pancreas, stimulates cells to absorb glucose and promotes glycogen storage, lowering blood glucose levels."
+    },
+    {
+      "subject": "Biology",
+      "text": "A deficiency in insulin production leads to a condition known as",
+      "options": [
+        "goitre",
+        "diabetes mellitus",
+        "rickets",
+        "anaemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without adequate insulin, cells cannot efficiently take up glucose, leading to persistently high blood glucose levels characteristic of diabetes mellitus."
+    },
+    {
+      "subject": "Biology",
+      "text": "The hormone glucagon, secreted by the pancreas, acts to",
+      "options": [
+        "control body temperature",
+        "raise blood glucose levels by promoting the breakdown of glycogen to glucose",
+        "regulate water reabsorption in the kidney",
+        "lower blood glucose by promoting glycogen storage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Glucagon opposes insulin, stimulating the liver to convert stored glycogen back into glucose when blood sugar levels fall too low."
+    },
+    {
+      "subject": "Biology",
+      "text": "Osmoregulation refers to the regulation of",
+      "options": [
+        "water and salt balance in the body",
+        "heart rate",
+        "blood glucose concentration only",
+        "body temperature"
+      ],
+      "correctIndex": 0,
+      "explanation": "Osmoregulation maintains the correct concentration of water and dissolved solutes in body fluids, primarily controlled by the kidneys."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which hormone increases water reabsorption in the kidney tubules, concentrating urine when the body is dehydrated?",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Antidiuretic hormone (ADH)",
+        "Thyroxine"
+      ],
+      "correctIndex": 2,
+      "explanation": "ADH, released by the pituitary gland, increases the permeability of the kidney's collecting ducts to water, reducing urine volume and conserving body water."
+    },
+    {
+      "subject": "Biology",
+      "text": "Sweating helps regulate body temperature mainly by",
+      "options": [
+        "evaporative cooling as sweat vaporises from the skin surface",
+        "trapping a layer of warm air near the skin",
+        "constricting blood vessels near the skin",
+        "increasing blood flow to the skin only"
+      ],
+      "correctIndex": 0,
+      "explanation": "As sweat evaporates from the skin, it absorbs latent heat from the body, producing a cooling effect that helps lower body temperature."
+    },
+    {
+      "subject": "Biology",
+      "text": "Vasodilation of blood vessels near the skin surface in hot conditions helps the body to",
+      "options": [
+        "reduce sweat production",
+        "retain heat within the body",
+        "lose more heat to the surroundings by increased blood flow near the surface",
+        "increase blood pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "When skin blood vessels widen (vasodilate), more warm blood flows near the skin surface, increasing heat loss to the environment by radiation and convection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Asexual reproduction in which a new individual develops as an outgrowth from the parent, as in Hydra, is called",
+      "options": [
+        "budding",
+        "spore formation",
+        "binary fission",
+        "vegetative propagation"
+      ],
+      "correctIndex": 0,
+      "explanation": "In budding, a small outgrowth (bud) forms on the parent and eventually detaches to become an independent organism, common in Hydra and yeast."
+    },
+    {
+      "subject": "Biology",
+      "text": "Binary fission, a form of asexual reproduction, is most typically seen in",
+      "options": [
+        "insects",
+        "flowering plants",
+        "mammals",
+        "bacteria and Amoeba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Binary fission involves a single-celled organism splitting into two genetically identical daughter cells, characteristic of bacteria and protozoans like Amoeba."
+    },
+    {
+      "subject": "Biology",
+      "text": "Vegetative propagation using stem cuttings, runners, or tubers is a form of",
+      "options": [
+        "asexual reproduction in plants",
+        "sexual reproduction in plants",
+        "external fertilisation",
+        "spore formation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vegetative propagation produces new plants from vegetative parts (stems, roots, leaves) without the fusion of gametes, making it asexual."
+    },
+    {
+      "subject": "Biology",
+      "text": "In flowering plants, the male reproductive part of the flower is the",
+      "options": [
+        "stamen",
+        "petal",
+        "sepal",
+        "carpel (pistil)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The stamen, consisting of the anther and filament, produces pollen grains containing the male gametes of a flowering plant."
+    },
+    {
+      "subject": "Biology",
+      "text": "The transfer of pollen grains from the anther to the stigma of the same flower or a different flower of the same species is called",
+      "options": [
+        "germination",
+        "dispersal",
+        "pollination",
+        "fertilisation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pollination is the physical transfer of pollen to the stigma, a necessary precursor step before fertilisation (fusion of gametes) can occur."
+    },
+    {
+      "subject": "Biology",
+      "text": "Fertilisation in flowering plants occurs when",
+      "options": [
+        "the fruit ripens",
+        "pollen lands on the stigma",
+        "the male gamete nucleus fuses with the egg nucleus in the ovule",
+        "a seed germinates"
+      ],
+      "correctIndex": 2,
+      "explanation": "After pollination, the pollen tube grows down to the ovule, delivering the male gamete nucleus, which fuses with the egg nucleus to form a zygote."
+    },
+    {
+      "subject": "Biology",
+      "text": "In mammals, fertilisation normally takes place in the",
+      "options": [
+        "uterus",
+        "oviduct (fallopian tube)",
+        "vagina",
+        "ovary"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sperm typically meets and fertilises the egg in the oviduct, after which the resulting zygote travels to the uterus for implantation."
+    },
+    {
+      "subject": "Biology",
+      "text": "The structure that connects the developing foetus to the uterine wall, allowing exchange of nutrients and waste, is the",
+      "options": [
+        "placenta",
+        "yolk sac",
+        "chorion",
+        "amnion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The placenta is a specialised organ that facilitates the exchange of oxygen, nutrients, and waste products between the mother's blood and the foetus."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is an example of external fertilisation?",
+      "options": [
+        "Fertilisation in birds",
+        "Fertilisation in most fish, where eggs and sperm are released into water",
+        "Fertilisation in mammals",
+        "Fertilisation in flowering plants"
+      ],
+      "correctIndex": 1,
+      "explanation": "In external fertilisation, gametes fuse outside the body, typically in water, as seen in most fish and amphibians, unlike the internal fertilisation in mammals."
+    },
+    {
+      "subject": "Biology",
+      "text": "The amnion, a membrane surrounding the developing embryo in reptiles, birds, and mammals, functions mainly to",
+      "options": [
+        "supply the embryo with food reserves",
+        "carry out gaseous exchange",
+        "produce amniotic fluid that cushions and protects the embryo",
+        "anchor the embryo to the uterine wall"
+      ],
+      "correctIndex": 2,
+      "explanation": "The amnion secretes amniotic fluid, which cushions the embryo against mechanical shock and prevents desiccation, an adaptation for reproduction on land."
+    },
+    {
+      "subject": "Biology",
+      "text": "The hereditary material found in the nucleus of a cell, responsible for transmitting traits from parents to offspring, is",
+      "options": [
+        "glycogen",
+        "ribonucleic acid (RNA) only",
+        "deoxyribonucleic acid (DNA)",
+        "adenosine triphosphate (ATP)"
+      ],
+      "correctIndex": 2,
+      "explanation": "DNA carries the genetic instructions encoded in genes, organized on chromosomes, and is passed from parents to offspring during reproduction."
+    },
+    {
+      "subject": "Biology",
+      "text": "A gene is best defined as",
+      "options": [
+        "the physical appearance of an organism",
+        "a segment of DNA that codes for a particular trait or protein",
+        "an entire chromosome",
+        "a pair of alleles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genes are specific sequences of DNA located at particular positions (loci) on chromosomes, each typically coding for a specific protein or trait."
+    },
+    {
+      "subject": "Biology",
+      "text": "Alternative forms of a gene occupying the same position on homologous chromosomes are called",
+      "options": [
+        "alleles",
+        "chromatids",
+        "phenotypes",
+        "genotypes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alleles are variant forms of the same gene (e.g., for flower colour) that occupy corresponding positions on a pair of homologous chromosomes."
+    },
+    {
+      "subject": "Biology",
+      "text": "In Mendelian genetics, if a tall plant (Tt) is crossed with another tall plant (Tt), what proportion of the offspring is expected to be tall, assuming T is completely dominant over t?",
+      "options": [
+        "3/4 (75%)",
+        "1/4 (25%)",
+        "1/2 (50%)",
+        "All of the offspring"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Tt x Tt cross gives a genotype ratio of 1 TT : 2 Tt : 1 tt. Since T is dominant, TT and Tt are both tall, giving 3/4 tall offspring by phenotype."
+    },
+    {
+      "subject": "Biology",
+      "text": "An organism with two identical alleles for a given gene (e.g., TT or tt) is described as",
+      "options": [
+        "heterozygous",
+        "hybrid",
+        "diploid only for that gene",
+        "homozygous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Homozygous describes an organism carrying two identical alleles for a particular gene, as opposed to heterozygous, which carries two different alleles."
+    },
+    {
+      "subject": "Biology",
+      "text": "The observable physical or biochemical characteristics of an organism, resulting from its genotype and environment, is called its",
+      "options": [
+        "genotype",
+        "karyotype",
+        "phenotype",
+        "allele"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phenotype refers to the outwardly expressed traits (e.g., flower colour, height) resulting from the interaction between an organism's genes and its environment."
+    },
+    {
+      "subject": "Biology",
+      "text": "In humans, red-green colour blindness is a sex-linked trait carried on the",
+      "options": [
+        "an autosome (non-sex chromosome)",
+        "Y chromosome",
+        "mitochondrial DNA",
+        "X chromosome"
+      ],
+      "correctIndex": 3,
+      "explanation": "The gene for red-green colour blindness is located on the X chromosome, which explains why the condition is far more common in males (XY) than females (XX)."
+    },
+    {
+      "subject": "Biology",
+      "text": "A cross between a pure-breeding tall plant and a pure-breeding short plant, producing all tall offspring in the first generation, illustrates",
+      "options": [
+        "the law of independent assortment",
+        "linkage",
+        "the principle of dominance",
+        "incomplete dominance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mendel's principle of dominance states that in a heterozygote, one allele (the dominant one) masks the expression of the other (recessive) allele, giving uniform tall offspring."
+    },
+    {
+      "subject": "Biology",
+      "text": "Continuous variation, such as human height, is characterised by",
+      "options": [
+        "only a few sharply distinct categories, such as blood group",
+        "a gradual range of values with no distinct categories, usually influenced by many genes and the environment",
+        "being entirely unaffected by environmental factors",
+        "control by a single gene only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Continuous variation, controlled by multiple genes (polygenic inheritance) and modified by environment, produces a smooth range of values rather than distinct classes."
+    },
+    {
+      "subject": "Biology",
+      "text": "Discontinuous variation, such as human blood groups, is characterised by",
+      "options": [
+        "a continuous range of values",
+        "being influenced mainly by environmental factors",
+        "gradual overlapping categories",
+        "distinct, separate categories with no intermediate forms"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discontinuous variation produces clearly distinguishable categories (e.g., blood groups A, B, AB, O), typically controlled by one or a few genes with little environmental influence."
+    },
+    {
+      "subject": "Biology",
+      "text": "The process by which chromosome number is halved during the formation of gametes is called",
+      "options": [
+        "mitosis",
+        "meiosis",
+        "binary fission",
+        "fertilisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Meiosis is a reduction division producing haploid gametes from diploid cells, ensuring the chromosome number is restored to diploid upon fertilisation."
+    },
+    {
+      "subject": "Biology",
+      "text": "Mitosis differs from meiosis in that mitosis produces",
+      "options": [
+        "two genetically identical daughter cells with the same chromosome number as the parent",
+        "cells with half the chromosome number of the parent",
+        "gametes for sexual reproduction",
+        "four genetically different haploid cells"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mitosis is used for growth and repair, producing two diploid daughter cells identical to the parent cell, unlike meiosis, which halves the chromosome number."
+    },
+    {
+      "subject": "Biology",
+      "text": "A test cross is used to determine",
+      "options": [
+        "the sex of an offspring",
+        "the exact phenotype of an organism",
+        "the number of chromosomes in a cell",
+        "whether an organism showing a dominant trait is homozygous or heterozygous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Crossing an organism of unknown genotype (showing the dominant phenotype) with a homozygous recessive individual reveals, from the offspring ratio, whether it is homozygous or heterozygous."
+    },
+    {
+      "subject": "Biology",
+      "text": "Mutation is best described as",
+      "options": [
+        "the normal process of gamete formation",
+        "the transfer of pollen between flowers",
+        "a sudden, random change in the genetic material (DNA) of an organism",
+        "the blending of parental traits in offspring"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mutations are spontaneous or induced changes in DNA sequence that can alter genes or chromosomes, serving as an important source of new genetic variation."
+    },
+    {
+      "subject": "Biology",
+      "text": "An ecosystem is best defined as",
+      "options": [
+        "a community of living organisms interacting with each other and their non-living environment",
+        "a single population of one species",
+        "a group of organisms of the same species living together",
+        "the non-living components of the environment only"
+      ],
+      "correctIndex": 0,
+      "explanation": "An ecosystem encompasses both the biotic community (living organisms) and the abiotic (non-living) environment, together with the interactions between them."
+    },
+    {
+      "subject": "Biology",
+      "text": "Organisms that manufacture their own organic food from inorganic substances, such as green plants, are called",
+      "options": [
+        "secondary consumers",
+        "producers",
+        "decomposers",
+        "primary consumers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Producers (autotrophs), mainly green plants and algae, form the base of most food chains by converting light energy into chemical energy via photosynthesis."
+    },
+    {
+      "subject": "Biology",
+      "text": "Organisms that feed directly on producers are termed",
+      "options": [
+        "decomposers",
+        "secondary consumers (carnivores)",
+        "primary consumers (herbivores)",
+        "tertiary consumers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Primary consumers, or herbivores, occupy the second trophic level, feeding directly on plant material produced by producers."
+    },
+    {
+      "subject": "Biology",
+      "text": "Decomposers, such as bacteria and fungi, play a vital ecological role by",
+      "options": [
+        "consuming living plants only",
+        "converting nitrogen gas directly into protein",
+        "manufacturing food using sunlight",
+        "breaking down dead organic matter and releasing nutrients back into the environment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Decomposers recycle nutrients locked in dead organisms and waste by breaking them down into simpler inorganic substances usable by producers again."
+    },
+    {
+      "subject": "Biology",
+      "text": "A food web differs from a simple food chain in that a food web",
+      "options": [
+        "has energy flowing in a single, unbranched line",
+        "involves only one species",
+        "excludes decomposers entirely",
+        "shows the many interconnected feeding relationships within a community"
+      ],
+      "correctIndex": 3,
+      "explanation": "A food web is a more realistic representation than a single food chain, showing multiple interconnected feeding pathways among many different organisms in a community."
+    },
+    {
+      "subject": "Biology",
+      "text": "The main process by which atmospheric nitrogen gas is converted into a usable form (nitrates) for plants, carried out by certain soil bacteria, is called",
+      "options": [
+        "nitrogen fixation",
+        "denitrification",
+        "nitrification only",
+        "decomposition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nitrogen-fixing bacteria, such as Rhizobium in root nodules, convert inert atmospheric nitrogen gas into ammonia and nitrogenous compounds usable by plants."
+    },
+    {
+      "subject": "Biology",
+      "text": "In the carbon cycle, carbon dioxide is returned to the atmosphere mainly through",
+      "options": [
+        "decomposition of rocks",
+        "photosynthesis only",
+        "respiration and combustion",
+        "nitrogen fixation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both the respiration of living organisms and the combustion of fuels (including fossil fuels) release carbon dioxide back into the atmosphere, balancing its removal by photosynthesis."
+    },
+    {
+      "subject": "Biology",
+      "text": "A biome characterised by low rainfall, extreme temperature ranges, and sparse vegetation adapted to conserve water is the",
+      "options": [
+        "temperate grassland",
+        "tundra",
+        "tropical rainforest",
+        "desert"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deserts receive very little rainfall and experience large daily temperature swings, so their vegetation (e.g., cacti) shows strong adaptations for water conservation."
+    },
+    {
+      "subject": "Biology",
+      "text": "The tropical rainforest biome is characterised mainly by",
+      "options": [
+        "extreme cold with very short growing seasons",
+        "low rainfall and sparse vegetation",
+        "permanently frozen subsoil (permafrost)",
+        "high rainfall, warm temperatures, and very high biodiversity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tropical rainforests receive abundant rainfall year-round and warm, stable temperatures, supporting some of the highest levels of biodiversity on Earth."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is an example of a density-dependent factor limiting population growth?",
+      "options": [
+        "A sudden volcanic eruption",
+        "An unusually cold winter affecting all individuals equally",
+        "Competition for food among members of the population",
+        "A flood destroying habitat regardless of population size"
+      ],
+      "correctIndex": 2,
+      "explanation": "Density-dependent factors, like competition, disease spread, and predation, have effects that intensify as population density increases, unlike density-independent factors like natural disasters."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which human activity is a major contributor to environmental pollution through the release of excess carbon dioxide and other greenhouse gases?",
+      "options": [
+        "Organic composting",
+        "Afforestation",
+        "Burning of fossil fuels",
+        "Crop rotation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Burning coal, petroleum, and natural gas releases large quantities of carbon dioxide and other pollutants, driving climate change and air pollution."
+    },
+    {
+      "subject": "Biology",
+      "text": "Overgrazing and deforestation commonly lead to which environmental problem?",
+      "options": [
+        "Soil erosion and desertification",
+        "Increased soil fertility",
+        "Higher rainfall in the affected area",
+        "Increased biodiversity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Removing vegetation cover through overgrazing or deforestation exposes soil to wind and water erosion, often leading to long-term land degradation and desertification."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following best describes 'conservation' in an ecological context?",
+      "options": [
+        "The uncontrolled extraction of natural resources for economic gain",
+        "The process of converting forests into farmland",
+        "The careful management and sustainable use of natural resources to prevent their depletion",
+        "The complete prohibition of any use of natural resources"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conservation involves the wise, sustainable management of resources such as forests, wildlife, and water to ensure their availability for future generations."
+    },
+    {
+      "subject": "Biology",
+      "text": "A population, in ecological terms, refers to",
+      "options": [
+        "a single organism and its immediate offspring",
+        "the physical habitat of an organism",
+        "all the different species living in an area",
+        "all the individuals of the same species living in a particular area at a given time"
+      ],
+      "correctIndex": 3,
+      "explanation": "A population consists of interbreeding individuals of one species occupying a defined geographic area during a specific period."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which ecological factor is classified as a biotic (living) factor rather than an abiotic factor?",
+      "options": [
+        "Predation by other organisms",
+        "Rainfall",
+        "Temperature",
+        "Soil pH"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biotic factors involve interactions with other living organisms (predation, competition, disease), while abiotic factors are non-living physical/chemical conditions like temperature and rainfall."
+    },
+    {
+      "subject": "Biology",
+      "text": "The theory of evolution proposes that",
+      "options": [
+        "all species were created independently and remain unchanged",
+        "species never change over geological time",
+        "present-day species have descended, with gradual modification, from earlier, often simpler ancestral forms",
+        "organisms can acquire entirely new organs within a single generation by will"
+      ],
+      "correctIndex": 2,
+      "explanation": "Evolutionary theory holds that all life shares common ancestry, with species gradually changing over long time periods through processes such as natural selection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Lamarck's theory of evolution proposed that",
+      "options": [
+        "evolution occurs suddenly within a single generation",
+        "natural selection acts on random genetic variation",
+        "species arise only through special creation",
+        "acquired characteristics developed during an organism's lifetime could be inherited by its offspring"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lamarck's theory of 'inheritance of acquired characteristics' (e.g., a giraffe's neck lengthening from stretching, then being passed to offspring) is now considered incorrect by modern genetics."
+    },
+    {
+      "subject": "Biology",
+      "text": "Charles Darwin's theory of evolution is primarily based on the mechanism of",
+      "options": [
+        "special creation of each species",
+        "natural selection acting on heritable variation",
+        "inheritance of acquired characteristics",
+        "spontaneous generation of life"
+      ],
+      "correctIndex": 1,
+      "explanation": "Darwin proposed that individuals with heritable traits better suited to their environment survive and reproduce more successfully, gradually shifting a population's characteristics over generations."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is considered strong evidence for evolution from comparative anatomy?",
+      "options": [
+        "Identical behaviour in unrelated species",
+        "The presence of water in all living cells",
+        "Homologous structures, such as the similar bone arrangement in a bird's wing and a human arm",
+        "The universal use of the same language of instruction in biology"
+      ],
+      "correctIndex": 2,
+      "explanation": "Homologous structures share a similar underlying skeletal arrangement despite different functions, suggesting descent from a common ancestor, a key evolutionary evidence."
+    },
+    {
+      "subject": "Biology",
+      "text": "Fossils provide evidence for evolution mainly by",
+      "options": [
+        "proving that all species appeared at the same time",
+        "showing that organisms never change",
+        "showing a chronological record of gradual changes in organisms over geological time",
+        "demonstrating spontaneous generation of new species"
+      ],
+      "correctIndex": 2,
+      "explanation": "The fossil record, when arranged by the age of rock strata, often shows a progressive sequence of gradual anatomical change, supporting the concept of evolution over time."
+    },
+    {
+      "subject": "Biology",
+      "text": "Vestigial structures, such as the human appendix, are considered evidence for evolution because they",
+      "options": [
+        "are essential for current survival",
+        "prove that acquired characteristics are inherited",
+        "are remnants of organs that were functional in ancestral species but have reduced or lost function today",
+        "appear only in the fossil record, never in living organisms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vestigial organs are reduced, seemingly non-functional structures inherited from ancestors in whom they served a clear purpose, suggesting evolutionary descent with modification."
+    },
+    {
+      "subject": "Biology",
+      "text": "Natural selection acts on variation within a population mainly through differences in",
+      "options": [
+        "survival and reproductive success among individuals with different heritable traits",
+        "the total number of offspring produced regardless of trait",
+        "the age at which individuals die of natural causes only",
+        "random mutation rates that are identical for all individuals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Individuals with traits better suited to their environment tend to survive longer and produce more offspring, passing those advantageous traits on more frequently."
+    },
+    {
+      "subject": "Biology",
+      "text": "Adaptation, in the context of evolution, refers to",
+      "options": [
+        "the process of an individual organism changing its own body structure at will",
+        "a heritable trait that improves an organism's chances of survival and reproduction in its environment",
+        "a trait that has no effect on survival",
+        "any random change acquired during an organism's life"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adaptations are inherited features shaped by natural selection over generations that enhance an organism's fitness for its specific environment."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is an example of camouflage as an adaptation for survival?",
+      "options": [
+        "A fish having gills for respiration",
+        "A chameleon changing colour to blend with its surroundings",
+        "A cactus storing water in its stem",
+        "A bird building a nest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Camouflage allows organisms to blend with their environment, reducing detection by predators or improving success as a predator, a classic survival adaptation."
+    },
+    {
+      "subject": "Biology",
+      "text": "The concept of 'survival of the fittest' in evolutionary theory means that",
+      "options": [
+        "all organisms in a population have an equal chance of survival regardless of traits",
+        "organisms best suited to their environment are more likely to survive and reproduce",
+        "only the physically strongest organisms in a population ever survive",
+        "fitness refers only to physical strength and speed"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Fitness' in evolutionary biology means reproductive success relative to the environment, not just physical strength, so well-adapted individuals of any trait can be 'fittest'."
+    },
+    {
+      "subject": "Biology",
+      "text": "Members of the kingdom Protista are mainly characterised by being",
+      "options": [
+        "eukaryotic and mostly unicellular organisms such as Amoeba and Paramecium",
+        "prokaryotic organisms lacking a true nucleus",
+        "organisms that reproduce only by spore formation on land",
+        "multicellular organisms with differentiated tissues and organs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Protists are eukaryotic organisms, mostly unicellular, that do not fit neatly into the plant, animal, or fungal kingdoms, such as Amoeba and Paramecium."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is a defining characteristic of the kingdom Animalia?",
+      "options": [
+        "Prokaryotic organisms with no membrane-bound organelles",
+        "Organisms with cell walls made of chitin that absorb their food",
+        "Organisms that photosynthesise using chlorophyll in chloroplasts",
+        "Multicellular, eukaryotic, heterotrophic organisms that typically lack cell walls"
+      ],
+      "correctIndex": 3,
+      "explanation": "Animals are multicellular eukaryotes without cell walls that obtain nutrition heterotrophically by ingesting other organisms."
+    },
+    {
+      "subject": "Biology",
+      "text": "Members of the kingdom Plantae are distinguished from animals mainly by",
+      "options": [
+        "obtaining nutrients only by absorbing dead organic matter",
+        "having cellulose cell walls and chlorophyll for photosynthesis",
+        "lacking any form of cell wall",
+        "being unicellular and prokaryotic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plants possess cellulose cell walls and chloroplasts containing chlorophyll, enabling them to manufacture their own food through photosynthesis."
+    },
+    {
+      "subject": "Biology",
+      "text": "Viruses are generally excluded from the five-kingdom classification system because they",
+      "options": [
+        "are non-cellular and can only reproduce inside a living host cell",
+        "are multicellular but lack chlorophyll",
+        "possess mitochondria but no nucleus",
+        "are prokaryotic organisms similar to bacteria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Viruses lack cellular structure and independent metabolism, replicating only by hijacking the machinery of a living host cell, so they fall outside the five kingdoms of living organisms."
+    },
+    {
+      "subject": "Biology",
+      "text": "The five-kingdom system of classification (Monera, Protista, Fungi, Plantae, Animalia) was proposed by",
+      "options": [
+        "Robert Whittaker",
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Carl Linnaeus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Robert Whittaker proposed the five-kingdom classification system in 1969, grouping organisms based on cell structure, nutrition, and organisation."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which class of vertebrates is characterised by moist, scaleless skin and a life cycle that typically begins with an aquatic, gill-breathing larval stage?",
+      "options": [
+        "Amphibia",
+        "Reptilia",
+        "Aves",
+        "Pisces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amphibians such as frogs typically hatch as aquatic, gill-breathing tadpoles before metamorphosing into air-breathing adults with moist, permeable skin."
+    },
+    {
+      "subject": "Biology",
+      "text": "A major distinguishing feature of the phylum Arthropoda is",
+      "options": [
+        "a soft, unsegmented body protected by a calcareous shell",
+        "a segmented body with jointed appendages and a chitinous exoskeleton",
+        "the presence of a backbone enclosing the spinal cord",
+        "the absence of any body segmentation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arthropods (insects, crustaceans, arachnids) are defined by segmented bodies, paired jointed appendages, and a hard exoskeleton made of chitin."
+    },
+    {
+      "subject": "Biology",
+      "text": "The cell theory, which states that all living organisms are composed of cells, is credited mainly to the work of",
+      "options": [
+        "Charles Darwin and Alfred Wallace",
+        "Gregor Mendel and Thomas Morgan",
+        "Schleiden and Schwann",
+        "Louis Pasteur and Robert Koch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Matthias Schleiden (plants) and Theodor Schwann (animals) jointly proposed that the cell is the basic unit of structure and function in all living organisms."
+    },
+    {
+      "subject": "Biology",
+      "text": "The Golgi apparatus in a cell functions mainly to",
+      "options": [
+        "store the cell's hereditary material",
+        "synthesise proteins directly from messenger RNA",
+        "synthesise ATP through aerobic respiration",
+        "modify, package, and sort proteins for secretion or use within the cell"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Golgi apparatus receives proteins from the endoplasmic reticulum, modifies them, and packages them into vesicles for secretion or delivery to other organelles."
+    },
+    {
+      "subject": "Biology",
+      "text": "The rough endoplasmic reticulum, studded with ribosomes, is mainly involved in",
+      "options": [
+        "the digestion of worn-out cell parts",
+        "the storage of lipids and steroids",
+        "the generation of ATP through respiration",
+        "the synthesis and transport of proteins within the cell"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ribosomes attached to the rough endoplasmic reticulum synthesise proteins, which are then folded and transported through its membranous channels."
+    },
+    {
+      "subject": "Biology",
+      "text": "Lysosomes within a cell function mainly to",
+      "options": [
+        "contain digestive enzymes that break down worn-out organelles and cellular debris",
+        "direct all hereditary activities of the cell",
+        "store water and maintain turgor pressure",
+        "produce energy through aerobic respiration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lysosomes are membrane-bound sacs containing hydrolytic enzymes that digest damaged organelles, foreign material, and cellular waste."
+    },
+    {
+      "subject": "Biology",
+      "text": "The large central vacuole found in a mature plant cell mainly functions to",
+      "options": [
+        "carry out aerobic respiration",
+        "synthesise proteins for the cell",
+        "house the chromosomes during cell division",
+        "maintain turgor pressure by storing water and dissolved solutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The central vacuole stores water and solutes, and the resulting osmotic pressure pushes the cytoplasm against the cell wall, keeping the cell turgid and rigid."
+    },
+    {
+      "subject": "Biology",
+      "text": "The plant cell wall is composed mainly of",
+      "options": [
+        "chitin",
+        "cellulose",
+        "calcium carbonate",
+        "keratin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plant cell walls consist mainly of cellulose fibres, which give the wall its characteristic strength while remaining freely permeable to water and solutes."
+    },
+    {
+      "subject": "Biology",
+      "text": "A key structural difference between prokaryotic and eukaryotic cells is that prokaryotic cells",
+      "options": [
+        "are always larger than eukaryotic cells",
+        "lack a membrane-bound nucleus and membrane-bound organelles",
+        "contain mitochondria but no ribosomes",
+        "possess a true nucleus enclosed by a nuclear envelope"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prokaryotic cells, such as bacteria, lack a nucleus enclosed in a membrane and lack membrane-bound organelles like mitochondria, unlike eukaryotic cells."
+    },
+    {
+      "subject": "Biology",
+      "text": "During the prophase stage of mitosis, the chromatin condenses into visible chromosomes and",
+      "options": [
+        "the chromosomes align at the cell's equator",
+        "sister chromatids separate and move to opposite poles",
+        "the nuclear membrane begins to break down as spindle fibres start to form",
+        "the cell membrane pinches inward to divide the cytoplasm"
+      ],
+      "correctIndex": 2,
+      "explanation": "In prophase, chromatin condenses into distinct chromosomes, the nuclear envelope disintegrates, and spindle fibres begin to form in preparation for chromosome alignment."
+    },
+    {
+      "subject": "Biology",
+      "text": "Meiosis contributes to genetic variation in offspring mainly through",
+      "options": [
+        "crossing over and independent assortment of chromosomes",
+        "the formation of two identical diploid daughter cells",
+        "the fusion of two gametes during fertilisation",
+        "the exact duplication of chromosomes before division"
+      ],
+      "correctIndex": 0,
+      "explanation": "During meiosis, crossing over between homologous chromosomes and their independent assortment shuffle genetic material, producing gametes with new combinations of alleles."
+    },
+    {
+      "subject": "Biology",
+      "text": "The centromere of a chromosome is best described as the region that",
+      "options": [
+        "is found only in prokaryotic cells",
+        "separates two different chromosomes permanently",
+        "contains the genes coding for ribosomal proteins only",
+        "joins sister chromatids together and serves as the attachment point for spindle fibres"
+      ],
+      "correctIndex": 3,
+      "explanation": "The centromere is the constricted region holding sister chromatids together, and spindle fibres attach here to pull chromatids apart during cell division."
+    },
+    {
+      "subject": "Biology",
+      "text": "The reduction of leaves to spines in cactus plants is a structural adaptation that mainly helps to",
+      "options": [
+        "attract pollinators to the flowers",
+        "increase the rate of photosynthesis in the leaves",
+        "increase the surface area for gaseous exchange",
+        "reduce water loss through transpiration in a dry environment"
+      ],
+      "correctIndex": 3,
+      "explanation": "By reducing leaves to spines, cacti minimise the surface area exposed to the dry desert air, greatly reducing water loss through transpiration, while photosynthesis occurs in the fleshy stem."
+    },
+    {
+      "subject": "Biology",
+      "text": "The ability of the camel's kidney to produce a small volume of highly concentrated urine is an example of a",
+      "options": [
+        "behavioural adaptation for avoiding predators",
+        "structural adaptation for locomotion on sand",
+        "physiological adaptation for water conservation in a desert environment",
+        "reproductive adaptation for surviving drought"
+      ],
+      "correctIndex": 2,
+      "explanation": "Producing highly concentrated urine is an internal, functional (physiological) adaptation that allows the camel to conserve body water in its arid habitat."
+    },
+    {
+      "subject": "Biology",
+      "text": "The seasonal, long-distance movement of certain birds to warmer regions in search of food and favourable breeding conditions is an example of",
+      "options": [
+        "a structural adaptation for flight",
+        "an example of continuous variation",
+        "a physiological adaptation for temperature regulation",
+        "a behavioural adaptation known as migration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Migration is a learned or instinctive behavioural adaptation that allows animals to avoid unfavourable seasonal conditions by moving to more suitable habitats."
+    },
+    {
+      "subject": "Biology",
+      "text": "Stomata on the surface of a leaf mainly function to allow",
+      "options": [
+        "the exchange of gases such as carbon dioxide and oxygen with the atmosphere",
+        "the transport of manufactured food to the roots",
+        "the absorption of water and mineral salts from the soil",
+        "the anchorage of the plant to the substrate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stomata are microscopic pores in the leaf epidermis that permit carbon dioxide to enter for photosynthesis and allow oxygen and water vapour to exit."
+    },
+    {
+      "subject": "Biology",
+      "text": "Nitrogen is an essential mineral element for plants mainly because it is required for the synthesis of",
+      "options": [
+        "amino acids, proteins, and chlorophyll",
+        "calcium pectate for the middle lamella",
+        "cellulose for cell walls only",
+        "starch for energy storage only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nitrogen is a key component of amino acids (and thus proteins) and of the chlorophyll molecule, so a deficiency severely limits plant growth and causes yellowing of leaves."
+    },
+    {
+      "subject": "Biology",
+      "text": "A plant showing chlorosis, or yellowing of the leaves, due to reduced chlorophyll production is most likely deficient in the mineral",
+      "options": [
+        "phosphorus",
+        "calcium",
+        "potassium",
+        "magnesium"
+      ],
+      "correctIndex": 3,
+      "explanation": "Magnesium is a central component of the chlorophyll molecule, so its deficiency impairs chlorophyll synthesis, resulting in yellowing (chlorosis) of leaves."
+    },
+    {
+      "subject": "Biology",
+      "text": "Bile, produced by the liver and stored in the gall bladder, aids digestion mainly by",
+      "options": [
+        "digesting proteins into amino acids",
+        "emulsifying fats into smaller droplets to increase the surface area for enzyme action",
+        "neutralising excess acid in the large intestine",
+        "breaking down starch into maltose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bile salts emulsify large fat globules into tiny droplets, greatly increasing the surface area available for lipase to act upon during fat digestion."
+    },
+    {
+      "subject": "Biology",
+      "text": "The pancreas contributes to digestion mainly by secreting pancreatic juice containing",
+      "options": [
+        "hydrochloric acid into the stomach",
+        "saliva into the mouth",
+        "bile salts into the duodenum",
+        "amylase, lipase, and trypsin into the small intestine"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pancreas secretes a mixture of digestive enzymes, including amylase, lipase, and trypsin, into the duodenum to digest carbohydrates, fats, and proteins respectively."
+    },
+    {
+      "subject": "Biology",
+      "text": "The finger-like projections lining the small intestine, called villi, function mainly to",
+      "options": [
+        "secrete hydrochloric acid for protein digestion",
+        "increase the surface area available for the absorption of digested food",
+        "produce bile for fat digestion",
+        "store undigested food temporarily"
+      ],
+      "correctIndex": 1,
+      "explanation": "Villi greatly increase the internal surface area of the small intestine, each containing a network of capillaries and a lacteal that efficiently absorb digested nutrients."
+    },
+    {
+      "subject": "Biology",
+      "text": "A major function of the large intestine (colon) in the digestive system is to",
+      "options": [
+        "absorb the bulk of digested nutrients into the blood",
+        "secrete enzymes for protein digestion",
+        "carry out the initial digestion of starch",
+        "absorb water and some salts from undigested food, forming faeces"
+      ],
+      "correctIndex": 3,
+      "explanation": "The large intestine reabsorbs water and some mineral salts from the indigestible food residue, compacting it into semi-solid faeces for elimination."
+    },
+    {
+      "subject": "Biology",
+      "text": "The mammalian molar teeth, with their broad, ridged surfaces, are mainly adapted for",
+      "options": [
+        "piercing and tearing flesh",
+        "grinding and crushing food before swallowing",
+        "gripping struggling prey",
+        "cutting food into smaller pieces"
+      ],
+      "correctIndex": 1,
+      "explanation": "Molars have broad, flattened, ridged crowns that efficiently grind and crush food, especially plant material, increasing the surface area for enzyme action."
+    },
+    {
+      "subject": "Biology",
+      "text": "Carnivorous mammals typically possess specialised carnassial teeth, which are adapted for",
+      "options": [
+        "shearing and slicing through flesh and tendons",
+        "crushing hard seed coats",
+        "filtering plankton from water",
+        "grinding tough plant fibres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carnassial teeth are modified premolars and molars with sharp, blade-like edges that shear through meat and tendons efficiently, an adaptation for a carnivorous diet."
+    },
+    {
+      "subject": "Biology",
+      "text": "The mammalian heart is divided internally into how many chambers?",
+      "options": [
+        "Six (three atria and three ventricles)",
+        "Two (one atrium and one ventricle)",
+        "Four (two atria and two ventricles)",
+        "Three (two atria and one ventricle)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mammalian heart has four chambers, two upper atria that receive blood and two lower, more muscular ventricles that pump blood out of the heart."
+    },
+    {
+      "subject": "Biology",
+      "text": "A major advantage of the double circulatory system found in mammals is that it",
+      "options": [
+        "reduces the total number of heart chambers required",
+        "allows blood to pass through the heart twice per full circuit, maintaining higher blood pressure and more efficient oxygen delivery",
+        "eliminates the need for a closed circulatory system",
+        "allows oxygenated and deoxygenated blood to mix freely"
+      ],
+      "correctIndex": 1,
+      "explanation": "In double circulation, blood returns to the heart after passing through the lungs before being pumped again to the body, keeping pressure high and preventing dilution of oxygenated blood."
+    },
+    {
+      "subject": "Biology",
+      "text": "White blood cells (leucocytes) in the blood mainly function to",
+      "options": [
+        "defend the body against infection through phagocytosis and antibody production",
+        "transport digested food from the gut",
+        "initiate blood clotting at a wound site",
+        "transport oxygen to respiring tissues"
+      ],
+      "correctIndex": 0,
+      "explanation": "White blood cells are part of the immune system, engulfing pathogens by phagocytosis or producing antibodies to fight infection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Platelets present in mammalian blood are essential mainly for",
+      "options": [
+        "initiating the process of blood clotting at a wound",
+        "fighting bacterial infections",
+        "transporting digested lipids",
+        "transporting oxygen bound to haemoglobin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Platelets release substances that trigger a cascade of reactions converting fibrinogen to fibrin, forming a clot that seals wounds and prevents blood loss."
+    },
+    {
+      "subject": "Biology",
+      "text": "Transpiration in plants is best defined as the",
+      "options": [
+        "upward movement of water in the xylem vessels",
+        "loss of water vapour from the aerial parts of a plant, mainly through the stomata",
+        "process of photosynthesis occurring in the leaf",
+        "uptake of water by root hairs from the soil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transpiration is the evaporation of water vapour from plant surfaces, chiefly through open stomata in the leaves, which also helps draw water up through the xylem."
+    },
+    {
+      "subject": "Biology",
+      "text": "Guard cells surrounding a stoma regulate its opening and closing mainly by",
+      "options": [
+        "dividing to form new stomata",
+        "absorbing carbon dioxide directly from the air",
+        "secreting enzymes that digest the stomatal pore",
+        "changing their turgidity in response to water content and light conditions"
+      ],
+      "correctIndex": 3,
+      "explanation": "When guard cells become turgid (usually in light, with adequate water), they bow outward and open the stoma; when they lose turgor, the stoma closes."
+    },
+    {
+      "subject": "Biology",
+      "text": "The alveoli of the human lungs are well adapted for efficient gaseous exchange mainly because they are",
+      "options": [
+        "thick-walled and lined with cartilage rings",
+        "connected directly to the heart's ventricles",
+        "surrounded by skeletal muscle for contraction",
+        "thin-walled, moist, and richly supplied with blood capillaries, providing a large surface area"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alveoli have very thin, moist walls, a vast total surface area, and a dense network of capillaries, all of which maximise the rate of diffusion of oxygen and carbon dioxide."
+    },
+    {
+      "subject": "Biology",
+      "text": "During inhalation in humans, the diaphragm",
+      "options": [
+        "remains completely still while the ribs do all the work",
+        "contracts to force air out of the lungs",
+        "relaxes and domes upward, decreasing thoracic volume",
+        "contracts and flattens, increasing the volume of the thoracic cavity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diaphragm contraction flattens its dome shape, enlarging the thoracic cavity and lowering internal pressure, causing air to be drawn into the lungs."
+    },
+    {
+      "subject": "Biology",
+      "text": "When yeast respires anaerobically in the absence of oxygen, the glucose is broken down to produce",
+      "options": [
+        "lactic acid and a large amount of energy",
+        "oxygen and glucose",
+        "ethanol, carbon dioxide, and a small amount of energy",
+        "water, carbon dioxide, and a large amount of energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yeast carries out alcoholic fermentation, converting glucose into ethanol and carbon dioxide while releasing only a small amount of usable energy, a process exploited in brewing and baking."
+    },
+    {
+      "subject": "Biology",
+      "text": "Deamination, a process carried out in the liver, involves the",
+      "options": [
+        "breakdown of glycogen into glucose",
+        "conversion of glucose into fat for storage",
+        "synthesis of bile salts from cholesterol",
+        "removal of the amino group from excess amino acids to form urea"
+      ],
+      "correctIndex": 3,
+      "explanation": "During deamination, the liver removes the nitrogen-containing amino group from surplus amino acids, converting it into urea for excretion by the kidneys."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is NOT a function of the human skeletal system?",
+      "options": [
+        "Manufacturing digestive enzymes",
+        "Providing support for the body",
+        "Protecting delicate internal organs",
+        "Enabling movement in conjunction with muscles"
+      ],
+      "correctIndex": 0,
+      "explanation": "The skeleton supports the body, protects organs, and works with muscles to enable movement, but it does not manufacture digestive enzymes, a function of glands like the pancreas."
+    },
+    {
+      "subject": "Biology",
+      "text": "In the human arm, the biceps and triceps muscles work as an antagonistic pair, meaning that",
+      "options": [
+        "the triceps alone is responsible for all arm movement",
+        "the biceps contracts to flex the arm while the triceps contracts to extend it",
+        "both muscles always contract together to move the arm",
+        "the biceps and triceps never act on the same joint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antagonistic muscle pairs work in opposition; the biceps contracts to bend (flex) the elbow while the triceps contracts to straighten (extend) it, since muscles can only pull, not push."
+    },
+    {
+      "subject": "Biology",
+      "text": "The structure that attaches a skeletal muscle to a bone, transmitting the force of contraction, is called a",
+      "options": [
+        "tendon",
+        "synovial membrane",
+        "ligament",
+        "cartilage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tendons are tough, fibrous connective tissue that anchor muscles to bones, whereas ligaments connect bone to bone at joints."
+    },
+    {
+      "subject": "Biology",
+      "text": "Seeds such as those of the dandelion, which possess a feathery parachute-like structure, are adapted for dispersal by",
+      "options": [
+        "water",
+        "wind",
+        "animals",
+        "explosive mechanisms"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light seeds with feathery or winged structures are carried easily by air currents over long distances, an adaptation for wind dispersal."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following conditions is generally required for the germination of a typical seed?",
+      "options": [
+        "Complete absence of water",
+        "Continuous darkness and freezing temperatures",
+        "Adequate water, oxygen, and a suitable temperature",
+        "High salt concentration and no oxygen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seeds require water to activate enzymes, oxygen for aerobic respiration, and a suitable temperature for metabolic activity to begin germination."
+    },
+    {
+      "subject": "Biology",
+      "text": "The primary functions of the testes in the human male reproductive system are to",
+      "options": [
+        "produce sperm cells and secrete the hormone testosterone",
+        "store sperm until ejaculation only",
+        "produce seminal fluid only",
+        "produce eggs and secrete oestrogen"
+      ],
+      "correctIndex": 0,
+      "explanation": "The testes contain seminiferous tubules that produce sperm through spermatogenesis, and interstitial cells that secrete testosterone, the male sex hormone."
+    },
+    {
+      "subject": "Biology",
+      "text": "In complete metamorphosis, as seen in butterflies, the insect develops through the stages of",
+      "options": [
+        "egg and adult only, with no intermediate stages",
+        "larva and adult only",
+        "egg, nymph, and adult only",
+        "egg, larva, pupa, and adult"
+      ],
+      "correctIndex": 3,
+      "explanation": "Complete metamorphosis involves four distinct stages, egg, larva, pupa, and adult, with the larva and adult often looking and feeding very differently."
+    },
+    {
+      "subject": "Biology",
+      "text": "The plant hormone primarily responsible for cell elongation and the bending of a shoot towards a light source (phototropism) is",
+      "options": [
+        "auxin",
+        "gibberellin",
+        "abscisic acid",
+        "cytokinin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Auxin accumulates on the shaded side of a shoot, stimulating greater cell elongation there and causing the shoot to bend towards the light."
+    },
+    {
+      "subject": "Biology",
+      "text": "In flowering plants, active cell division responsible for growth occurs mainly in regions called",
+      "options": [
+        "the pith",
+        "meristems",
+        "mature vascular tissue",
+        "the cortex"
+      ],
+      "correctIndex": 1,
+      "explanation": "Meristematic tissue, located at root and shoot tips (apical meristems) and in the cambium, consists of continually dividing, undifferentiated cells responsible for plant growth."
+    },
+    {
+      "subject": "Biology",
+      "text": "A reflex action, such as quickly withdrawing a hand from a hot object, is best described as a",
+      "options": [
+        "rapid, involuntary response to a stimulus that does not require conscious thought",
+        "hormonal response mediated by the endocrine system",
+        "response that only occurs during sleep",
+        "slow, voluntary response controlled by the cerebrum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reflex actions are fast, automatic, protective responses coordinated by the spinal cord via a reflex arc, bypassing the need for conscious processing in the brain."
+    },
+    {
+      "subject": "Biology",
+      "text": "The hormone adrenaline, secreted by the adrenal medulla in response to stress or danger, prepares the body for 'fight or flight' mainly by",
+      "options": [
+        "regulating water reabsorption in the kidney",
+        "lowering blood pressure and heart rate",
+        "promoting long-term growth and development",
+        "increasing heart rate and blood glucose levels for rapid energy release"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adrenaline rapidly increases heart rate, dilates airways, and raises blood glucose levels, mobilising the body's resources for an immediate physical response to danger."
+    },
+    {
+      "subject": "Biology",
+      "text": "An organism occupying the top of a food chain, feeding on secondary consumers, is called a",
+      "options": [
+        "primary consumer",
+        "producer",
+        "tertiary consumer",
+        "decomposer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tertiary consumers are carnivores that feed on secondary consumers, typically occupying the highest trophic level in a food chain."
+    },
+    {
+      "subject": "Biology",
+      "text": "In a pyramid of energy, the amount of energy available generally decreases at each successive trophic level mainly because",
+      "options": [
+        "energy is created anew at each trophic level",
+        "consumers absorb 100% of the energy from the level below",
+        "producers trap more energy than they use",
+        "much energy is lost as heat during respiration at each level"
+      ],
+      "correctIndex": 3,
+      "explanation": "At each trophic level, a large proportion of the energy consumed is lost as heat through respiration and in undigested waste, so only a small fraction is passed on to the next level."
+    },
+    {
+      "subject": "Biology",
+      "text": "The overall direction of energy flow through an ecosystem's food chains is best described as",
+      "options": [
+        "bidirectional between predator and prey",
+        "unidirectional, moving from producers to various levels of consumers",
+        "random, with no consistent pattern",
+        "cyclical, returning fully back to producers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike nutrients, which are recycled, energy flows in one direction only through an ecosystem, entering as sunlight and being progressively lost as heat at each trophic transfer."
+    },
+    {
+      "subject": "Biology",
+      "text": "The association between a fungus and an alga living together as a lichen, in which both partners benefit, is an example of",
+      "options": [
+        "mutualism",
+        "parasitism",
+        "predation",
+        "commensalism"
+      ],
+      "correctIndex": 0,
+      "explanation": "In a lichen, the fungus provides structure and water absorption while the alga (or cyanobacterium) provides food via photosynthesis, so both partners benefit in this mutualistic relationship."
+    },
+    {
+      "subject": "Biology",
+      "text": "A relationship in which one organism benefits while the other is neither helped nor harmed is termed",
+      "options": [
+        "parasitism",
+        "commensalism",
+        "competition",
+        "mutualism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Commensalism describes a relationship where one species gains a benefit, such as shelter or transport, while the other species experiences no significant effect."
+    },
+    {
+      "subject": "Biology",
+      "text": "Competition occurring between individuals of the same species for a limited resource, such as food or mates, is called",
+      "options": [
+        "interspecific competition",
+        "mutualism",
+        "predation",
+        "intraspecific competition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Intraspecific competition occurs among members of the same species, whereas interspecific competition occurs between individuals of different species."
+    },
+    {
+      "subject": "Biology",
+      "text": "The 'niche' of an organism, as distinct from its habitat, refers to",
+      "options": [
+        "the total population size of the species",
+        "the taxonomic classification of the organism",
+        "the functional role it plays within its ecosystem, including its feeding relationships and interactions",
+        "only the physical location where the organism lives"
+      ],
+      "correctIndex": 2,
+      "explanation": "While habitat describes where an organism lives, its ecological niche describes its functional role, including how it obtains food, interacts with other species, and affects its environment."
+    },
+    {
+      "subject": "Biology",
+      "text": "The uppermost layer of a soil profile, typically dark in colour and richest in organic matter and nutrients, is called the",
+      "options": [
+        "bedrock",
+        "subsoil (B horizon)",
+        "topsoil (A horizon)",
+        "parent material"
+      ],
+      "correctIndex": 2,
+      "explanation": "The topsoil, or A horizon, is the uppermost soil layer, rich in humus and nutrients, and is where most plant roots and soil organisms are concentrated."
+    },
+    {
+      "subject": "Biology",
+      "text": "Humus, an important component of fertile soil, improves soil quality mainly by",
+      "options": [
+        "increasing the soil's sand content",
+        "preventing root penetration into the soil",
+        "increasing water retention and supplying nutrients as it decomposes",
+        "reducing the number of soil microorganisms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Humus, derived from decomposed organic matter, improves soil structure, boosts water-holding capacity, and gradually releases nutrients as it continues to break down."
+    },
+    {
+      "subject": "Biology",
+      "text": "In the water cycle, the loss of water vapour from plant leaves into the atmosphere is specifically termed",
+      "options": [
+        "condensation",
+        "transpiration",
+        "infiltration",
+        "precipitation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transpiration is the specific term for water vapour loss from plant surfaces, contributing significantly to atmospheric moisture alongside evaporation from open water bodies."
+    },
+    {
+      "subject": "Biology",
+      "text": "Excessive use of chemical fertilisers that run off into rivers and lakes commonly leads to eutrophication, a process in which",
+      "options": [
+        "soil fertility in the surrounding farmland increases dramatically",
+        "water bodies become permanently frozen",
+        "fish populations increase without limit",
+        "excess nutrients cause algal blooms that deplete dissolved oxygen, killing aquatic life"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eutrophication occurs when nutrient-rich runoff triggers excessive algal growth; as the algae die and decompose, oxygen-consuming bacteria deplete dissolved oxygen, causing fish kills."
+    },
+    {
+      "subject": "Biology",
+      "text": "Acid rain is mainly caused by the release of which gases from the burning of fossil fuels?",
+      "options": [
+        "Sulphur dioxide and nitrogen oxides",
+        "Carbon monoxide and methane",
+        "Oxygen and nitrogen",
+        "Water vapour and helium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sulphur dioxide and nitrogen oxides released from burning fossil fuels react with atmospheric water vapour to form sulphuric and nitric acids, which fall as acid rain."
+    },
+    {
+      "subject": "Biology",
+      "text": "The 'greenhouse effect', linked to global warming, refers to the",
+      "options": [
+        "cooling of the Earth's surface due to reflected sunlight",
+        "formation of acid rain from industrial gases",
+        "trapping of heat in the atmosphere by gases such as carbon dioxide and methane",
+        "depletion of the ozone layer by chlorofluorocarbons"
+      ],
+      "correctIndex": 2,
+      "explanation": "Greenhouse gases like carbon dioxide and methane absorb and re-radiate infrared heat, trapping it within the Earth's atmosphere and gradually raising global temperatures."
+    },
+    {
+      "subject": "Biology",
+      "text": "Large-scale deforestation can contribute to climate change mainly because it",
+      "options": [
+        "increases local rainfall dramatically",
+        "has no measurable effect on the carbon cycle",
+        "reduces the removal of atmospheric carbon dioxide by photosynthesis, increasing greenhouse gas levels",
+        "increases the amount of oxygen released by plants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fewer trees mean less carbon dioxide is absorbed through photosynthesis, while the burning or decay of felled trees releases stored carbon, both increasing atmospheric CO2 levels."
+    },
+    {
+      "subject": "Biology",
+      "text": "The maximum population size that a given environment can sustainably support, considering available resources, is known as the",
+      "options": [
+        "biotic potential",
+        "population density",
+        "carrying capacity",
+        "ecological niche"
+      ],
+      "correctIndex": 2,
+      "explanation": "Carrying capacity is the largest population size an environment can support indefinitely given the food, water, space, and other resources available."
+    },
+    {
+      "subject": "Biology",
+      "text": "In a classic predator-prey relationship, such as between the lynx and the snowshoe hare, population sizes typically",
+      "options": [
+        "both increase indefinitely without limit",
+        "fluctuate cyclically, with predator numbers rising and falling in response to prey abundance",
+        "both crash to zero simultaneously",
+        "remain constant and unaffected by each other"
+      ],
+      "correctIndex": 1,
+      "explanation": "Predator and prey populations commonly show linked cyclical fluctuations, as an increase in prey supports more predators, whose increased predation later reduces the prey population."
+    },
+    {
+      "subject": "Biology",
+      "text": "The quadrat method used by ecologists is mainly employed to",
+      "options": [
+        "measure rainfall and temperature in an ecosystem",
+        "determine the genetic makeup of a population",
+        "measure the exact age of individual organisms",
+        "estimate the population density and distribution of organisms within a habitat"
+      ],
+      "correctIndex": 3,
+      "explanation": "A quadrat is a sampling frame placed at random or systematic points within a habitat to count organisms, allowing ecologists to estimate overall population density and distribution."
+    },
+    {
+      "subject": "Biology",
+      "text": "Ecological succession refers to the",
+      "options": [
+        "annual migration pattern of a species",
+        "gradual, predictable change in the species composition of a community over time",
+        "sudden and permanent destruction of an ecosystem",
+        "process by which a single species evolves into another"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ecological succession describes the orderly progression of community changes over time, from pioneer species colonising bare ground to an eventual, relatively stable climax community."
+    },
+    {
+      "subject": "Biology",
+      "text": "Solar energy, wind, and forest timber are generally classified as",
+      "options": [
+        "fossil fuels",
+        "inorganic minerals only",
+        "non-renewable natural resources",
+        "renewable natural resources"
+      ],
+      "correctIndex": 3,
+      "explanation": "Renewable resources are naturally replenished within a human lifetime, unlike non-renewable resources such as coal, oil, and natural gas, which take millions of years to form."
+    },
+    {
+      "subject": "Biology",
+      "text": "Conservation efforts aimed at protecting endangered species are important mainly because they help to",
+      "options": [
+        "increase the population of predators uncontrollably",
+        "maintain biodiversity and prevent the permanent loss of species from an ecosystem",
+        "eliminate competition between species entirely",
+        "convert natural habitats into farmland"
+      ],
+      "correctIndex": 1,
+      "explanation": "Protecting endangered species preserves genetic diversity and the ecological roles those species play, helping to maintain the overall stability and functioning of ecosystems."
+    },
+    {
+      "subject": "Biology",
+      "text": "Every cell in a normal human body (except gametes) contains how many chromosomes?",
+      "options": [
+        "23, arranged in 23 pairs",
+        "44, arranged in 22 pairs",
+        "92, arranged in 46 pairs",
+        "46, arranged in 23 pairs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Normal human somatic cells are diploid, containing 46 chromosomes organised into 23 homologous pairs, one set inherited from each parent."
+    },
+    {
+      "subject": "Biology",
+      "text": "In humans, the sex of an offspring is determined by the combination of sex chromosomes such that",
+      "options": [
+        "XX and XY both always produce females",
+        "XX produces a female and XY produces a male",
+        "XX produces a male and XY produces a female",
+        "the sex is determined solely by the mother's chromosomes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Females normally carry two X chromosomes (XX) while males carry one X and one Y chromosome (XY); the sperm, carrying either an X or Y, determines the offspring's sex."
+    },
+    {
+      "subject": "Biology",
+      "text": "Mendel's law of independent assortment states that",
+      "options": [
+        "only one allele for a trait exists in a population",
+        "genes located on the same chromosome always assort independently",
+        "alleles always blend to produce intermediate offspring",
+        "genes for different traits are inherited independently of one another during gamete formation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The law of independent assortment states that allele pairs for different traits separate independently during meiosis, provided the genes are on different chromosomes (or far apart on the same one)."
+    },
+    {
+      "subject": "Biology",
+      "text": "When a red-flowered plant is crossed with a white-flowered plant and all offspring are pink, this is an example of",
+      "options": [
+        "codominance",
+        "multiple allelism",
+        "incomplete dominance",
+        "complete dominance"
+      ],
+      "correctIndex": 2,
+      "explanation": "In incomplete dominance, neither allele is fully dominant, so the heterozygote displays an intermediate phenotype, such as pink flowers resulting from a red and white cross."
+    },
+    {
+      "subject": "Biology",
+      "text": "The AB blood group in humans, in which both the A and B antigens are simultaneously expressed on red blood cells, is an example of",
+      "options": [
+        "incomplete dominance",
+        "complete dominance of one allele",
+        "codominance",
+        "recessive inheritance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Codominance occurs when both alleles are fully and simultaneously expressed in the phenotype, as seen with the IA and IB alleles both being expressed in the AB blood group."
+    },
+    {
+      "subject": "Biology",
+      "text": "Mendel's law of segregation states that",
+      "options": [
+        "all offspring of a cross will show an identical phenotype",
+        "alleles from both parents blend permanently in the offspring",
+        "only dominant alleles are passed on to offspring",
+        "the two alleles for a gene separate during gamete formation, so each gamete carries only one allele"
+      ],
+      "correctIndex": 3,
+      "explanation": "The law of segregation states that during meiosis, the paired alleles for a gene separate so that each gamete receives only one allele from each pair, restoring the pair upon fertilisation."
+    },
+    {
+      "subject": "Biology",
+      "text": "In a dihybrid cross between two heterozygous parents (e.g., RrYy x RrYy), the expected phenotypic ratio of offspring in the F2 generation is",
+      "options": [
+        "9:3:3:1",
+        "1:2:1",
+        "3:1",
+        "1:1:1:1"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dihybrid cross between two heterozygotes for independently assorting genes produces a characteristic 9:3:3:1 phenotypic ratio in the offspring."
+    },
+    {
+      "subject": "Biology",
+      "text": "Human fingerprint patterns are often cited as an example of variation because they",
+      "options": [
+        "are entirely determined by environmental factors alone",
+        "change significantly with a person's age",
+        "are identical among all members of a family",
+        "are unique to each individual, even among identical twins"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fingerprint patterns are formed by a complex interaction of genetic and environmental (developmental) factors in the womb, making them unique to each individual, even genetically identical twins."
+    },
+    {
+      "subject": "Biology",
+      "text": "Which of the following is a major source of genetic variation among offspring of sexually reproducing organisms?",
+      "options": [
+        "Crossing over and independent assortment during meiosis, and random fertilisation",
+        "Vegetative propagation from stem cuttings",
+        "Binary fission in the parent organism",
+        "Mitotic cell division in body tissues"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crossing over and independent assortment during meiosis, combined with the random fusion of gametes at fertilisation, generate new combinations of alleles, driving genetic variation."
+    },
+    {
+      "subject": "Biology",
+      "text": "Genes that are located close together on the same chromosome and tend to be inherited together, rather than assorting independently, are said to show",
+      "options": [
+        "codominance",
+        "incomplete dominance",
+        "linkage",
+        "multiple allelism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Linked genes lie close together on the same chromosome and are usually inherited together as a unit, since they are less likely to be separated by crossing over."
+    },
+    {
+      "subject": "Biology",
+      "text": "The ABO blood group system in humans, controlled by three possible alleles (IA, IB, and i) at a single gene locus, is an example of",
+      "options": [
+        "sex-linked inheritance",
+        "codominance only",
+        "incomplete dominance only",
+        "multiple allelism"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiple allelism refers to a gene having more than two alleles in the population, as seen with the three alleles (IA, IB, i) controlling the ABO blood group system."
+    },
+    {
+      "subject": "Biology",
+      "text": "Down syndrome in humans is caused by a chromosomal abnormality in which an individual has",
+      "options": [
+        "an extra copy of chromosome 21 (trisomy 21)",
+        "an extra Y chromosome only",
+        "a deletion of chromosome 1",
+        "a missing X chromosome"
+      ],
+      "correctIndex": 0,
+      "explanation": "Down syndrome results from nondisjunction during gamete formation, leading to an individual having three copies of chromosome 21 instead of the usual two."
+    },
+    {
+      "subject": "Biology",
+      "text": "A pedigree chart in genetics is used mainly to",
+      "options": [
+        "measure the exact number of chromosomes in a cell",
+        "trace the inheritance pattern of a particular trait through several generations of a family",
+        "determine the rate of mutation in a population",
+        "calculate the carrying capacity of a habitat"
+      ],
+      "correctIndex": 1,
+      "explanation": "A pedigree chart records the occurrence of a trait or disorder across generations of a family, helping geneticists determine whether it is dominant, recessive, or sex-linked."
+    },
+    {
+      "subject": "Biology",
+      "text": "Of the 23 pairs of chromosomes in a human cell, how many pairs are autosomes (non-sex chromosomes)?",
+      "options": [
+        "21 pairs",
+        "20 pairs",
+        "23 pairs",
+        "22 pairs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Humans have 22 pairs of autosomes, which carry most of the genetic information, plus one additional pair of sex chromosomes (XX or XY) that determines sex."
+    },
+    {
+      "subject": "Biology",
+      "text": "Haemophilia, a blood clotting disorder, is inherited in humans as a",
+      "options": [
+        "sex-linked recessive condition carried on the X chromosome",
+        "condition carried only on the Y chromosome",
+        "codominant condition",
+        "dominant autosomal condition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Haemophilia is caused by a recessive allele located on the X chromosome, explaining why the disorder occurs far more frequently in males than in females."
+    },
+    {
+      "subject": "Biology",
+      "text": "Human skin colour, which shows a smooth range of shades rather than distinct categories, is best described as an example of",
+      "options": [
+        "discontinuous variation",
+        "polygenic (continuous) inheritance, influenced by several genes",
+        "a purely environmentally determined trait",
+        "inheritance controlled by a single gene with two alleles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skin colour is controlled by several genes acting together (polygenic inheritance), producing a continuous range of phenotypes rather than a few distinct categories."
+    },
+    {
+      "subject": "Biology",
+      "text": "The peppered moth (Biston betularia), which shifted from predominantly light-coloured to predominantly dark-coloured forms in polluted, industrial areas of England, is a classic example of",
+      "options": [
+        "artificial selection by breeders",
+        "spontaneous generation",
+        "natural selection acting on existing variation (industrial melanism)",
+        "the inheritance of acquired characteristics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dark moths, better camouflaged against soot-blackened tree trunks, survived predation more successfully than light moths in polluted areas, illustrating natural selection favouring an existing variant."
+    },
+    {
+      "subject": "Biology",
+      "text": "The rapid spread of antibiotic-resistant bacteria is considered strong modern evidence for evolution because it demonstrates",
+      "options": [
+        "spontaneous generation of new bacterial species",
+        "that all bacteria are naturally immune to antibiotics",
+        "natural selection favouring individuals with a heritable resistance trait when exposed to a selective pressure",
+        "the inheritance of characteristics acquired during an organism's lifetime"
+      ],
+      "correctIndex": 2,
+      "explanation": "When exposed to antibiotics, only bacteria with pre-existing resistance genes survive and reproduce, rapidly increasing the frequency of resistance in the population, a direct observation of natural selection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Analogous structures, such as the wings of an insect and the wings of a bird, differ from homologous structures in that they",
+      "options": [
+        "are always found only in closely related species",
+        "never appear in unrelated groups of organisms",
+        "have the same underlying bone structure inherited from a common ancestor",
+        "perform a similar function but arose independently, without a shared evolutionary origin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Analogous structures perform similar functions due to similar environmental pressures (convergent evolution) but do not share a common evolutionary origin, unlike homologous structures."
+    },
+    {
+      "subject": "Biology",
+      "text": "Speciation is best defined as the process by which",
+      "options": [
+        "an individual organism adapts to its environment within its own lifetime",
+        "two different species interbreed to form a hybrid",
+        "a population's chromosome number is halved during meiosis",
+        "a new, distinct species arises from an existing ancestral population"
+      ],
+      "correctIndex": 3,
+      "explanation": "Speciation occurs when populations of the same species diverge, usually through prolonged reproductive isolation, until they can no longer interbreed and are considered separate species."
+    },
+    {
+      "subject": "Biology",
+      "text": "When a physical barrier, such as a mountain range or river, separates a population into two groups that evolve independently, this can eventually lead to",
+      "options": [
+        "allopatric (geographic) speciation",
+        "identical evolutionary changes in both groups",
+        "increased gene flow between the groups",
+        "a return to a single interbreeding population"
+      ],
+      "correctIndex": 0,
+      "explanation": "Geographic isolation prevents gene flow between separated populations, allowing them to accumulate different mutations and adaptations independently, potentially resulting in the formation of new species."
+    },
+    {
+      "subject": "Biology",
+      "text": "The striking similarities observed in the early embryonic stages of fish, reptiles, birds, and mammals (comparative embryology) are considered evidence for",
+      "options": [
+        "the concept of vestigial organs only",
+        "the theory of special creation",
+        "the inheritance of acquired characteristics",
+        "a shared evolutionary ancestry among vertebrates"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vertebrate embryos show remarkably similar early developmental features (such as gill slits and tails), suggesting that these groups share a common evolutionary ancestor."
+    },
+    {
+      "subject": "Biology",
+      "text": "Darwin observed that organisms typically produce far more offspring than can survive to reproduce, leading to a 'struggle for existence.' This observation was influenced by the writings of",
+      "options": [
+        "Robert Whittaker on classification",
+        "Jean-Baptiste Lamarck on acquired characteristics",
+        "Thomas Malthus on population growth and limited resources",
+        "Gregor Mendel on inheritance patterns"
+      ],
+      "correctIndex": 2,
+      "explanation": "Darwin drew on Thomas Malthus's essay on population, which argued that populations grow faster than food supply, to develop the idea that limited resources drive competition and natural selection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Darwin's observations of finches with different beak shapes adapted to different food sources on the Galapagos Islands, made during the voyage of HMS Beagle, provided important support for his theory of",
+      "options": [
+        "spontaneous generation",
+        "special creation of species",
+        "evolution by natural selection",
+        "the inheritance of acquired characteristics"
+      ],
+      "correctIndex": 2,
+      "explanation": "The varying beak shapes of Galapagos finches, each suited to a different food source, illustrated how populations can diverge and adapt to different niches, a key observation supporting natural selection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Archaeopteryx, a fossil possessing both reptilian features (teeth, a bony tail) and avian features (feathers, wings), is significant to evolutionary biology as an example of a",
+      "options": [
+        "transitional fossil linking reptiles and birds",
+        "modern bird species",
+        "vestigial organism with no evolutionary significance",
+        "purely reptilian organism with no bird traits"
+      ],
+      "correctIndex": 0,
+      "explanation": "Archaeopteryx displays a mixture of reptilian and avian characteristics, making it a classic transitional fossil that supports the evolutionary link between dinosaurs/reptiles and modern birds."
+    },
+    {
+      "subject": "Biology",
+      "text": "The observation that marsupial mammals (such as kangaroos) are found predominantly in Australia, isolated from placental mammals elsewhere, is used as evidence for evolution from the field of",
+      "options": [
+        "the fossil record only",
+        "molecular biology only",
+        "comparative anatomy only",
+        "biogeography, the study of species distribution across geography"
+      ],
+      "correctIndex": 3,
+      "explanation": "Biogeography shows that unique groups of organisms, like Australia's marsupials, evolved in geographic isolation, supporting the idea that species diverge independently once separated from related populations."
+    },
+    {
+      "subject": "Biology",
+      "text": "Dolphins (mammals) and sharks (fish) both have similarly streamlined, torpedo-shaped bodies suited to fast swimming, despite not sharing a recent common ancestor. This is an example of",
+      "options": [
+        "homologous structures inherited from a common ancestor",
+        "convergent evolution, where unrelated species evolve similar traits due to similar environmental pressures",
+        "divergent evolution from a shared ancestor",
+        "the inheritance of acquired characteristics"
+      ],
+      "correctIndex": 1,
+      "explanation": "Convergent evolution occurs when unrelated organisms independently evolve similar adaptations because they face similar environmental pressures, such as the need for a streamlined body for efficient swimming."
+    },
+    {
+      "subject": "Biology",
+      "text": "Mutations are considered important in the process of evolution mainly because they",
+      "options": [
+        "introduce new heritable variation into a population upon which natural selection can act",
+        "occur identically and simultaneously in every member of a population",
+        "always improve the fitness of the organism that carries them",
+        "are inherited only if acquired during the parent's lifetime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mutations are the ultimate source of new alleles in a population; while most are neutral or harmful, occasionally a mutation proves advantageous and can be favoured by natural selection."
+    },
+    {
+      "subject": "Biology",
+      "text": "Comparative studies of DNA and protein sequences across different species provide evidence for evolution mainly by showing that",
+      "options": [
+        "DNA sequences cannot be compared between different species",
+        "all species have identical DNA sequences",
+        "protein sequences never change over evolutionary time",
+        "species with more similar sequences are generally more closely related through common ancestry"
+      ],
+      "correctIndex": 3,
+      "explanation": "The degree of similarity in DNA and protein sequences between species generally reflects how recently they shared a common ancestor, providing strong molecular evidence for evolutionary relationships."
+    },
+    {
+      "subject": "Biology",
+      "text": "Bacteria belonging to the kingdom Monera reproduce mainly by",
+      "options": [
+        "spore formation within a fruiting body only",
+        "binary fission, a rapid form of asexual reproduction",
+        "budding from a parent cell over several weeks",
+        "complex sexual reproduction involving distinct male and female gametes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most bacteria reproduce asexually and rapidly through binary fission, in which a single cell duplicates its DNA and divides into two genetically identical daughter cells."
+    }
+  ]
+}

@@ -1,0 +1,2406 @@
+{
+  "subject": "Economics",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Economics",
+      "text": "Economics is best defined as the study of how",
+      "options": [
+        "scarce resources are allocated to satisfy unlimited human wants",
+        "businesses advertise their products",
+        "countries maintain diplomatic relations",
+        "governments collect taxes from citizens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Economics fundamentally studies the allocation of limited (scarce) resources among competing, virtually unlimited human wants and needs."
+    },
+    {
+      "subject": "Economics",
+      "text": "Scarcity in economics refers to the situation where",
+      "options": [
+        "there is an oversupply of goods and services",
+        "prices of goods are fixed by the government",
+        "goods are deliberately withheld from the market",
+        "available resources are insufficient to satisfy all human wants"
+      ],
+      "correctIndex": 3,
+      "explanation": "Scarcity is the basic economic problem: resources (land, labour, capital) are limited relative to the unlimited wants of individuals and society."
+    },
+    {
+      "subject": "Economics",
+      "text": "Because of scarcity, every economic decision necessarily involves making a",
+      "options": [
+        "guaranteed profit",
+        "government intervention",
+        "permanent solution to all wants",
+        "choice among competing alternatives"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since resources cannot satisfy every want, individuals and societies must choose which wants to satisfy and which to forgo, a direct consequence of scarcity."
+    },
+    {
+      "subject": "Economics",
+      "text": "Opportunity cost is best defined as the",
+      "options": [
+        "profit earned from a business venture",
+        "amount of money spent on a purchase",
+        "total cost of producing a good",
+        "value of the next best alternative forgone when a choice is made"
+      ],
+      "correctIndex": 3,
+      "explanation": "Opportunity cost measures what is sacrificed (the best alternative given up) when a particular choice is made among scarce resources."
+    },
+    {
+      "subject": "Economics",
+      "text": "A scale of preference is a list that arranges an individual's",
+      "options": [
+        "wants in order of importance, from the most pressing to the least pressing",
+        "possessions by monetary value",
+        "income sources from highest to lowest",
+        "debts from largest to smallest"
+      ],
+      "correctIndex": 0,
+      "explanation": "A scale of preference helps an individual rank their many wants by priority, guiding decisions on which wants to satisfy first given limited resources."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following best illustrates the concept of opportunity cost?",
+      "options": [
+        "A farmer plants more than one crop",
+        "A student chooses to study instead of watching a movie, giving up the enjoyment of the movie",
+        "A government prints more currency",
+        "A company increases its total revenue"
+      ],
+      "correctIndex": 1,
+      "explanation": "By choosing to study, the student forgoes the next best alternative use of that time (watching the movie), which represents the opportunity cost of studying."
+    },
+    {
+      "subject": "Economics",
+      "text": "Human wants are generally considered to be",
+      "options": [
+        "identical for every individual",
+        "unaffected by income levels",
+        "limited and easily satisfied completely",
+        "unlimited, since satisfying one want often creates new ones"
+      ],
+      "correctIndex": 3,
+      "explanation": "A basic assumption in economics is that human wants are virtually insatiable; even after one want is satisfied, new wants tend to arise."
+    },
+    {
+      "subject": "Economics",
+      "text": "The basic economic problems every society must solve include deciding",
+      "options": [
+        "only what price to charge for goods",
+        "only how to spend government revenue",
+        "only how much tax to collect",
+        "what to produce, how to produce, and for whom to produce"
+      ],
+      "correctIndex": 3,
+      "explanation": "Every economic system, regardless of type, must answer these three fundamental questions given the scarcity of resources relative to wants."
+    },
+    {
+      "subject": "Economics",
+      "text": "In a capitalist (free market) economic system, economic decisions are primarily made by",
+      "options": [
+        "international organisations only",
+        "the central government through central planning",
+        "a council of religious leaders",
+        "individuals and private businesses responding to market forces"
+      ],
+      "correctIndex": 3,
+      "explanation": "Capitalism relies on private ownership of resources and decisions driven by supply, demand, and price signals in free markets, with minimal government intervention."
+    },
+    {
+      "subject": "Economics",
+      "text": "In a socialist (command) economic system, the basic economic problems are solved mainly by",
+      "options": [
+        "a completely unregulated market",
+        "religious institutions",
+        "central government planning and control of resources",
+        "the free interaction of individual buyers and sellers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Socialist/command economies rely on centralized government planning to determine what, how, and for whom goods are produced, rather than market forces."
+    },
+    {
+      "subject": "Economics",
+      "text": "A mixed economic system is characterised by",
+      "options": [
+        "the total absence of private businesses",
+        "complete government ownership of all resources",
+        "a total absence of any government regulation",
+        "a combination of both private enterprise and government intervention in economic activities"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mixed economies blend elements of both capitalism and socialism, allowing private enterprise to operate alongside government regulation and public sector involvement."
+    },
+    {
+      "subject": "Economics",
+      "text": "One key feature of a capitalist economic system is",
+      "options": [
+        "the absence of a price mechanism",
+        "state ownership of all major industries",
+        "the right to private ownership of property and means of production",
+        "central planning of all production decisions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Private property rights, allowing individuals and firms to own and control resources and businesses, are a defining feature of capitalism."
+    },
+    {
+      "subject": "Economics",
+      "text": "The Nigerian economy is generally classified as a",
+      "options": [
+        "purely traditional economy",
+        "purely capitalist economy",
+        "purely socialist (command) economy",
+        "mixed economy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria's economy combines private enterprise with significant government involvement and regulation in sectors such as oil, utilities, and infrastructure, making it a mixed economy."
+    },
+    {
+      "subject": "Economics",
+      "text": "One disadvantage commonly associated with a purely socialist economic system is that it",
+      "options": [
+        "guarantees the fastest possible economic growth",
+        "may reduce individual initiative and efficiency due to lack of profit motive",
+        "relies entirely on the price mechanism",
+        "always leads to extreme income inequality"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because production decisions are centrally planned rather than profit-driven, socialist economies are often criticised for potentially weaker incentives for efficiency and innovation."
+    },
+    {
+      "subject": "Economics",
+      "text": "In statistics, the arithmetic mean of a set of values is calculated as the",
+      "options": [
+        "difference between the highest and lowest values",
+        "value that occurs most frequently",
+        "middle value when data is arranged in order",
+        "sum of all the values divided by the number of values"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mean (average) is found by adding all data values together and dividing by the total count of values."
+    },
+    {
+      "subject": "Economics",
+      "text": "The median of a data set is defined as the",
+      "options": [
+        "middle value when the data is arranged in ascending or descending order",
+        "most frequently occurring value",
+        "sum of all values divided by their count",
+        "difference between the largest and smallest values"
+      ],
+      "correctIndex": 0,
+      "explanation": "The median is the middle value of an ordered data set, dividing the data into two equal halves; for an even number of values, it is the average of the two middle values."
+    },
+    {
+      "subject": "Economics",
+      "text": "The mode of a data set refers to the",
+      "options": [
+        "average of all the values",
+        "middle value of an ordered data set",
+        "range between the highest and lowest values",
+        "value that occurs most frequently in the data set"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mode identifies the most commonly occurring value(s) in a data set, useful for categorical or frequently repeated numerical data."
+    },
+    {
+      "subject": "Economics",
+      "text": "What is the mean of the following set of numbers: 4, 6, 8, 10, 12?",
+      "options": [
+        "40",
+        "10",
+        "8",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sum = 4+6+8+10+12 = 40. Mean = 40/5 = 8."
+    },
+    {
+      "subject": "Economics",
+      "text": "The range of a data set is calculated as the",
+      "options": [
+        "difference between the highest and lowest values",
+        "middle value of the data set",
+        "average of the highest and lowest values",
+        "sum of all the values"
+      ],
+      "correctIndex": 0,
+      "explanation": "Range = highest value - lowest value, providing a simple measure of the spread (dispersion) of a data set."
+    },
+    {
+      "subject": "Economics",
+      "text": "Standard deviation is a statistical measure used to indicate the",
+      "options": [
+        "most frequently occurring value in a data set",
+        "total sum of all data values",
+        "degree of dispersion (spread) of data values around the mean",
+        "central tendency of a data set"
+      ],
+      "correctIndex": 2,
+      "explanation": "Standard deviation quantifies how much individual data points typically deviate from the mean, with a larger value indicating greater spread/variability."
+    },
+    {
+      "subject": "Economics",
+      "text": "A pie chart is most useful for representing data as",
+      "options": [
+        "trends changing continuously over time",
+        "the relationship between two continuous variables",
+        "raw, unprocessed numerical data only",
+        "proportions of a whole, shown as slices of a circle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pie charts visually represent how a total quantity is divided into categorical proportions, with each slice representing a percentage of the whole."
+    },
+    {
+      "subject": "Economics",
+      "text": "A line graph is particularly useful in economics for showing",
+      "options": [
+        "how a variable changes continuously over a period of time",
+        "the proportion of a total represented by different categories",
+        "the frequency of a single categorical value",
+        "unordered qualitative data"
+      ],
+      "correctIndex": 0,
+      "explanation": "Line graphs effectively illustrate trends and changes in a variable (e.g., price, GDP) over successive time periods, making patterns easy to observe."
+    },
+    {
+      "subject": "Economics",
+      "text": "The law of demand states that, other things being equal, as the price of a good rises, the quantity demanded",
+      "options": [
+        "remains constant",
+        "becomes infinite",
+        "falls",
+        "rises"
+      ],
+      "correctIndex": 2,
+      "explanation": "The law of demand describes an inverse relationship between price and quantity demanded: consumers buy less of a good as its price increases, ceteris paribus."
+    },
+    {
+      "subject": "Economics",
+      "text": "The law of supply states that, other things being equal, as the price of a good rises, the quantity supplied",
+      "options": [
+        "becomes zero",
+        "falls",
+        "rises",
+        "remains constant"
+      ],
+      "correctIndex": 2,
+      "explanation": "The law of supply describes a direct (positive) relationship between price and quantity supplied: producers are willing to supply more as price increases, ceteris paribus."
+    },
+    {
+      "subject": "Economics",
+      "text": "Market equilibrium occurs at the price where",
+      "options": [
+        "quantity supplied exceeds quantity demanded",
+        "quantity demanded exceeds quantity supplied",
+        "quantity demanded equals quantity supplied",
+        "price is at its highest possible level"
+      ],
+      "correctIndex": 2,
+      "explanation": "Equilibrium price is where the demand and supply curves intersect, at which the amount buyers wish to purchase exactly matches the amount sellers wish to sell."
+    },
+    {
+      "subject": "Economics",
+      "text": "A rightward shift of the demand curve (an increase in demand) can be caused by",
+      "options": [
+        "an increase in the price of the good itself",
+        "an increase in the number of sellers only",
+        "a decrease in consumer income (for a normal good)",
+        "an increase in consumer income (for a normal good)"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a normal good, rising consumer income increases the quantity demanded at every price level, shifting the entire demand curve to the right."
+    },
+    {
+      "subject": "Economics",
+      "text": "A leftward shift of the supply curve (a decrease in supply) can be caused by",
+      "options": [
+        "a decrease in the price of production inputs",
+        "an improvement in production technology",
+        "an increase in the cost of production inputs",
+        "an increase in the number of firms in the market"
+      ],
+      "correctIndex": 2,
+      "explanation": "Higher input costs make production less profitable at every price level, causing producers to supply less, shifting the supply curve to the left."
+    },
+    {
+      "subject": "Economics",
+      "text": "If the price of a good is set above the equilibrium price, the immediate result will be",
+      "options": [
+        "no change in the market",
+        "an automatic decrease in supply to zero",
+        "a shortage, as quantity demanded exceeds quantity supplied",
+        "a surplus, as quantity supplied exceeds quantity demanded"
+      ],
+      "correctIndex": 3,
+      "explanation": "At a price above equilibrium, producers are willing to supply more than consumers wish to buy, creating a surplus (excess supply) that tends to push the price back down."
+    },
+    {
+      "subject": "Economics",
+      "text": "If the price of a good is set below the equilibrium price, the immediate result will be",
+      "options": [
+        "a shortage, as quantity demanded exceeds quantity supplied",
+        "a surplus, as quantity supplied exceeds quantity demanded",
+        "no change in the market",
+        "an automatic increase in supply to infinity"
+      ],
+      "correctIndex": 0,
+      "explanation": "At a price below equilibrium, consumers want to buy more than producers are willing to supply at that price, creating a shortage (excess demand)."
+    },
+    {
+      "subject": "Economics",
+      "text": "Price elasticity of demand measures the",
+      "options": [
+        "total revenue earned from selling a good",
+        "responsiveness of quantity demanded to a change in price",
+        "absolute change in price of a good",
+        "cost of producing an additional unit of a good"
+      ],
+      "correctIndex": 1,
+      "explanation": "Price elasticity of demand (percentage change in quantity demanded / percentage change in price) shows how sensitive consumer purchasing is to price changes."
+    },
+    {
+      "subject": "Economics",
+      "text": "A good is said to have elastic demand when",
+      "options": [
+        "a large percentage change in price causes a smaller percentage change in quantity demanded",
+        "a small percentage change in price causes a proportionately larger percentage change in quantity demanded",
+        "quantity demanded does not change at all when price changes",
+        "the price of the good has no effect on any other good"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elastic demand (elasticity greater than 1) means consumers are highly responsive to price changes, so quantity demanded changes proportionately more than price."
+    },
+    {
+      "subject": "Economics",
+      "text": "Necessities such as salt typically have _____ demand, since consumers must buy them regardless of price changes.",
+      "options": [
+        "highly elastic",
+        "inelastic",
+        "unitary elastic",
+        "perfectly elastic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Goods considered necessities tend to have inelastic demand (elasticity less than 1), since consumers continue purchasing similar quantities even when price rises."
+    },
+    {
+      "subject": "Economics",
+      "text": "Complementary goods, such as bread and butter, are characterised by the fact that a rise in the price of one",
+      "options": [
+        "leads to a fall in the demand for the other",
+        "has no effect whatsoever on the demand for the other",
+        "always causes both goods to disappear from the market",
+        "leads to a rise in the demand for the other"
+      ],
+      "correctIndex": 0,
+      "explanation": "Complementary goods are used together, so a price rise in one (reducing its quantity demanded) also reduces demand for the other good typically consumed alongside it."
+    },
+    {
+      "subject": "Economics",
+      "text": "Substitute goods, such as tea and coffee, are characterised by the fact that a rise in the price of one",
+      "options": [
+        "leads to a rise in the demand for the other",
+        "has no effect on the demand for the other",
+        "causes both goods to become complementary",
+        "leads to a fall in the demand for the other"
+      ],
+      "correctIndex": 0,
+      "explanation": "When the price of one substitute good rises, consumers tend to switch to the relatively cheaper alternative, increasing demand for the substitute good."
+    },
+    {
+      "subject": "Economics",
+      "text": "Total utility refers to the",
+      "options": [
+        "price paid for a unit of a good",
+        "overall satisfaction a consumer derives from consuming a given quantity of a good",
+        "cost of producing a good",
+        "additional satisfaction from consuming one more unit of a good"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total utility measures the entire satisfaction gained from consuming a certain total amount of a good or service, accumulating as more units are consumed."
+    },
+    {
+      "subject": "Economics",
+      "text": "Marginal utility is defined as the",
+      "options": [
+        "cost of the last unit produced",
+        "total satisfaction from all units consumed",
+        "additional satisfaction gained from consuming one more unit of a good",
+        "average price of all units consumed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marginal utility is the extra utility (satisfaction) a consumer gains from consuming one additional unit of a good, beyond what was already consumed."
+    },
+    {
+      "subject": "Economics",
+      "text": "The Law of Diminishing Marginal Utility states that as a consumer consumes more units of a good,",
+      "options": [
+        "the additional satisfaction gained from each successive unit tends to decrease",
+        "the additional satisfaction from each successive unit tends to increase",
+        "the price of the good automatically falls",
+        "total utility always decreases"
+      ],
+      "correctIndex": 0,
+      "explanation": "This law explains that, beyond a certain point, each extra unit of a good consumed yields progressively less additional satisfaction than the unit before it."
+    },
+    {
+      "subject": "Economics",
+      "text": "A rational consumer aims to maximise total utility by allocating income such that the",
+      "options": [
+        "cheapest good available is always purchased exclusively",
+        "entire income is spent on a single good only",
+        "most expensive good available is always purchased exclusively",
+        "marginal utility per naira spent is equal across all goods purchased"
+      ],
+      "correctIndex": 3,
+      "explanation": "Utility-maximising behaviour occurs when a consumer allocates spending so that the marginal utility obtained per unit of currency is equalised across all goods bought."
+    },
+    {
+      "subject": "Economics",
+      "text": "The point at which marginal utility becomes zero indicates that the consumer has reached",
+      "options": [
+        "the minimum possible price for the good",
+        "zero total utility from the good",
+        "maximum total utility from consuming that good",
+        "a state where the good is no longer needed at any price"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total utility is at its peak precisely when marginal utility (the addition to total utility) falls to zero; consuming further units beyond this point would begin to reduce total utility."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following best illustrates the Law of Diminishing Marginal Utility?",
+      "options": [
+        "A firm producing more output as its costs decrease",
+        "The satisfaction gained from eating the fourth slice of bread is less than that from the first slice",
+        "A consumer buying more of a good as its price falls",
+        "A government increasing tax rates on luxury goods"
+      ],
+      "correctIndex": 1,
+      "explanation": "As successive units of the same good are consumed within a given period, each additional unit typically yields less extra satisfaction than the one before, exactly as the law describes."
+    },
+    {
+      "subject": "Economics",
+      "text": "Fixed costs of production are costs that",
+      "options": [
+        "are always higher than variable costs",
+        "vary directly and proportionately with output",
+        "only occur when output is zero",
+        "do not change with the level of output in the short run"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fixed costs (e.g., rent, insurance) remain constant regardless of how much is produced in the short run, unlike variable costs, which change with output level."
+    },
+    {
+      "subject": "Economics",
+      "text": "Variable costs of production are costs that",
+      "options": [
+        "change directly with the level of output produced",
+        "never change over the life of a business",
+        "are incurred only once, at the start of production",
+        "remain constant regardless of output level"
+      ],
+      "correctIndex": 0,
+      "explanation": "Variable costs (e.g., raw materials, hourly wages) rise and fall with the quantity of output produced, unlike fixed costs."
+    },
+    {
+      "subject": "Economics",
+      "text": "Total cost of production is calculated as the",
+      "options": [
+        "difference between total fixed and total variable cost",
+        "sum of total fixed cost and total variable cost",
+        "total revenue minus total profit",
+        "average cost multiplied by fixed cost"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total Cost (TC) = Total Fixed Cost (TFC) + Total Variable Cost (TVC), combining both cost components at a given output level."
+    },
+    {
+      "subject": "Economics",
+      "text": "Average cost of production is calculated by",
+      "options": [
+        "multiplying total cost by the quantity of output",
+        "subtracting fixed cost from total cost",
+        "dividing total cost by the quantity of output produced",
+        "dividing total revenue by total cost"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average cost (AC = TC/Q) shows the cost incurred per unit of output produced, a key measure for assessing production efficiency."
+    },
+    {
+      "subject": "Economics",
+      "text": "Marginal cost is defined as the",
+      "options": [
+        "additional cost incurred from producing one more unit of output",
+        "total cost of producing all units",
+        "fixed cost divided by variable cost",
+        "average cost of production at the maximum output level"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marginal cost (MC) measures the extra cost a firm incurs by producing one additional unit of output, crucial for output and pricing decisions."
+    },
+    {
+      "subject": "Economics",
+      "text": "The Law of Diminishing Returns states that as more units of a variable factor are added to a fixed factor, eventually",
+      "options": [
+        "the fixed factor becomes variable",
+        "the additional (marginal) output from each extra unit of the variable factor will decrease",
+        "output will increase indefinitely at a constant rate",
+        "total output will immediately fall to zero"
+      ],
+      "correctIndex": 1,
+      "explanation": "This law describes short-run production: beyond an optimal point, adding more of a variable input (e.g., labour) to fixed factors (e.g., land) yields progressively smaller marginal output."
+    },
+    {
+      "subject": "Economics",
+      "text": "Economies of scale refer to the",
+      "options": [
+        "total cost of producing a single unit of output",
+        "fixed costs incurred regardless of firm size",
+        "reduction in average cost of production as a firm increases its scale (size) of output",
+        "increase in average cost as output rises"
+      ],
+      "correctIndex": 2,
+      "explanation": "Economies of scale occur when a firm's average cost per unit falls as it expands production, often due to specialisation, bulk purchasing, or more efficient use of resources."
+    },
+    {
+      "subject": "Economics",
+      "text": "Diseconomies of scale occur when a firm expands beyond an optimal size, resulting in",
+      "options": [
+        "continuously falling average costs",
+        "rising average costs due to inefficiencies such as poor coordination and communication",
+        "constant average costs regardless of size",
+        "an automatic increase in profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beyond a certain size, further expansion can create management and coordination difficulties, causing average costs to rise rather than continue falling."
+    },
+    {
+      "subject": "Economics",
+      "text": "Total revenue of a firm is calculated as",
+      "options": [
+        "marginal cost multiplied by output",
+        "price per unit multiplied by the quantity of units sold",
+        "average cost multiplied by fixed cost",
+        "total cost minus total profit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total Revenue (TR) = Price (P) x Quantity sold (Q), representing the total income a firm earns from selling its output."
+    },
+    {
+      "subject": "Economics",
+      "text": "Profit is calculated as the",
+      "options": [
+        "average of total revenue and total cost",
+        "product of total revenue and total cost",
+        "sum of total revenue and total cost",
+        "difference between total revenue and total cost"
+      ],
+      "correctIndex": 3,
+      "explanation": "Profit = Total Revenue - Total Cost; a positive value indicates the firm earns more than it spends, while a negative value indicates a loss."
+    },
+    {
+      "subject": "Economics",
+      "text": "Perfect competition is a market structure characterised by",
+      "options": [
+        "product differentiation as the main basis of competition",
+        "many buyers and sellers, homogeneous products, and free entry and exit",
+        "a few large firms dominating the market",
+        "a single seller controlling the entire market"
+      ],
+      "correctIndex": 1,
+      "explanation": "Perfect competition assumes numerous small firms selling identical products, with no barriers to entering or leaving the industry, and no single firm able to influence price."
+    },
+    {
+      "subject": "Economics",
+      "text": "A monopoly market structure exists when",
+      "options": [
+        "a single firm is the sole supplier of a good or service with no close substitutes",
+        "many firms sell identical products",
+        "a few large firms dominate the market",
+        "firms compete mainly through product differentiation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Monopoly describes a market dominated entirely by one seller, who therefore has significant control over price due to the absence of close substitute products."
+    },
+    {
+      "subject": "Economics",
+      "text": "Monopolistic competition is a market structure in which",
+      "options": [
+        "only one firm supplies the entire market",
+        "a few large firms dominate through interdependent pricing decisions",
+        "products are completely identical across all sellers",
+        "many firms sell similar but slightly differentiated products"
+      ],
+      "correctIndex": 3,
+      "explanation": "Monopolistic competition combines features of competition (many sellers) and monopoly (product differentiation), as firms sell similar goods marketed as distinct through branding."
+    },
+    {
+      "subject": "Economics",
+      "text": "An oligopoly market structure is characterised by",
+      "options": [
+        "completely homogeneous products with no branding at all",
+        "an unlimited number of small firms",
+        "one firm controlling the entire supply",
+        "a small number of large firms dominating the market, often with interdependent pricing decisions"
+      ],
+      "correctIndex": 3,
+      "explanation": "In oligopoly, a few large firms dominate the industry, and each firm's decisions (especially on price) significantly affect and are affected by rivals' actions."
+    },
+    {
+      "subject": "Economics",
+      "text": "Under perfect competition, an individual firm is considered a 'price taker' because it",
+      "options": [
+        "controls the total market supply",
+        "sets its own price independently of the market",
+        "has no power to influence the market price and must accept the prevailing price",
+        "can charge different prices to different customers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since each firm in perfect competition is small relative to the whole market and sells an identical product, it must sell at the market-determined price."
+    },
+    {
+      "subject": "Economics",
+      "text": "A key barrier to entry that helps sustain a monopoly is",
+      "options": [
+        "zero fixed costs of production",
+        "the presence of many competing firms",
+        "exclusive control over a key resource, patent, or government licence",
+        "perfectly homogeneous products across the industry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Monopolies are often sustained by barriers to entry such as patents, exclusive licences, or sole control of an essential resource, preventing competitors from entering the market."
+    },
+    {
+      "subject": "Economics",
+      "text": "Price discrimination, sometimes practised by a monopolist, involves",
+      "options": [
+        "charging different prices to different groups of consumers for the same product",
+        "charging the same price to all consumers regardless of circumstances",
+        "always charging the lowest possible price to all consumers",
+        "eliminating all price differences in a market"
+      ],
+      "correctIndex": 0,
+      "explanation": "Price discrimination allows a firm with market power to charge different consumer segments different prices for an identical good, maximising its revenue."
+    },
+    {
+      "subject": "Economics",
+      "text": "Advertising and branding are commonly used as competitive tools mainly in which market structure?",
+      "options": [
+        "Monopolistic competition",
+        "Pure monopoly with no substitutes",
+        "Perfect competition",
+        "None of these market structures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since firms in monopolistic competition sell similar products, they rely heavily on advertising and branding to differentiate their goods and attract customers."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following market structures has the largest number of buyers and sellers, with no single participant able to affect price?",
+      "options": [
+        "Perfect competition",
+        "Monopoly",
+        "Monopolistic competition",
+        "Oligopoly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perfect competition, by definition, involves the greatest number of small, price-taking buyers and sellers, none of whom can individually influence market price."
+    },
+    {
+      "subject": "Economics",
+      "text": "A cartel, sometimes formed under an oligopoly, refers to an agreement among firms to",
+      "options": [
+        "collude on price and output levels to reduce competition among themselves",
+        "merge into a single large monopoly firm",
+        "eliminate all forms of advertising",
+        "compete aggressively on price to gain market share"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cartel is a formal or informal agreement among typically oligopolistic firms to coordinate pricing and output, effectively reducing competition and behaving somewhat like a monopoly."
+    },
+    {
+      "subject": "Economics",
+      "text": "Gross Domestic Product (GDP) is defined as the total value of",
+      "options": [
+        "all final goods and services produced within a country's borders in a given period",
+        "government spending alone in a fiscal year",
+        "goods and services produced by a country's citizens abroad only",
+        "raw materials extracted from a country"
+      ],
+      "correctIndex": 0,
+      "explanation": "GDP measures the market value of all final goods and services produced domestically (within the country's borders) over a specific time period, usually a year."
+    },
+    {
+      "subject": "Economics",
+      "text": "Gross National Product (GNP) differs from GDP mainly in that GNP includes",
+      "options": [
+        "only domestic production within the country's borders",
+        "only exports and excludes all imports",
+        "income earned by a country's citizens both domestically and abroad, but excludes income earned by foreigners within the country",
+        "only government expenditure"
+      ],
+      "correctIndex": 2,
+      "explanation": "GNP measures output produced by a nation's citizens and businesses regardless of location, while GDP measures output produced within the country's borders regardless of nationality."
+    },
+    {
+      "subject": "Economics",
+      "text": "Net National Product (NNP) is obtained by",
+      "options": [
+        "adding depreciation to Gross National Product",
+        "subtracting depreciation (capital consumption) from Gross National Product",
+        "subtracting exports from Gross National Product",
+        "adding government transfer payments to GDP"
+      ],
+      "correctIndex": 1,
+      "explanation": "NNP = GNP - Depreciation, accounting for the wearing out of capital equipment during the production process over the period measured."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following is a common method of measuring national income?",
+      "options": [
+        "Only the population census method",
+        "Only the import-export method",
+        "The income method, output method, and expenditure method",
+        "Only the taxation method"
+      ],
+      "correctIndex": 2,
+      "explanation": "National income can be estimated using three approaches: summing incomes earned, summing the value of output produced, or summing total expenditure, which should theoretically yield the same total."
+    },
+    {
+      "subject": "Economics",
+      "text": "The circular flow of income model illustrates the",
+      "options": [
+        "process of setting the exchange rate",
+        "flow of exports and imports between two countries",
+        "flow of income and expenditure between households and firms in an economy",
+        "structure of a country's banking system alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "The circular flow model shows how households supply factors of production to firms in exchange for income, which they then spend on goods and services produced by those firms."
+    },
+    {
+      "subject": "Economics",
+      "text": "Per capita income is calculated by",
+      "options": [
+        "subtracting the population from national income",
+        "multiplying national income by the population",
+        "dividing the government budget by national income",
+        "dividing a country's total national income by its total population"
+      ],
+      "correctIndex": 3,
+      "explanation": "Per capita income (national income / population) provides an average measure of income per person, often used as a rough indicator of living standards."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following would be excluded when calculating a country's GDP to avoid double counting?",
+      "options": [
+        "The value of final consumer goods",
+        "Exports of finished manufactured goods",
+        "The value of intermediate goods used up in producing final goods",
+        "Government spending on public services"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only final goods and services are counted in GDP; including the value of intermediate goods (already embedded in the price of final goods) would result in double counting."
+    },
+    {
+      "subject": "Economics",
+      "text": "Money performs several key functions, including serving as a",
+      "options": [
+        "form of agricultural produce",
+        "type of tax levied by government",
+        "physical raw material for industry",
+        "medium of exchange, store of value, and unit of account"
+      ],
+      "correctIndex": 3,
+      "explanation": "Money's core functions include facilitating trade (medium of exchange), preserving value over time (store of value), and providing a common measure of value (unit of account)."
+    },
+    {
+      "subject": "Economics",
+      "text": "Before the introduction of money, trade was conducted mainly through",
+      "options": [
+        "electronic bank transfers",
+        "the use of cheques",
+        "credit cards",
+        "the barter system, involving direct exchange of goods for goods"
+      ],
+      "correctIndex": 3,
+      "explanation": "Barter, the direct exchange of goods and services without money, was the primary trading method before money was introduced, but it suffered from the problem of the 'double coincidence of wants'."
+    },
+    {
+      "subject": "Economics",
+      "text": "The Central Bank of a country is primarily responsible for",
+      "options": [
+        "setting the retail prices of all goods",
+        "regulating the money supply and overseeing the banking system",
+        "collecting personal income tax directly from workers",
+        "manufacturing consumer goods for export"
+      ],
+      "correctIndex": 1,
+      "explanation": "A country's central bank (e.g., the Central Bank of Nigeria) controls monetary policy, regulates commercial banks, and manages the overall money supply and currency stability."
+    },
+    {
+      "subject": "Economics",
+      "text": "Commercial banks primarily function to",
+      "options": [
+        "accept deposits from customers and provide loans and other banking services",
+        "regulate international trade agreements",
+        "print the national currency",
+        "set national fiscal policy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Commercial banks serve as intermediaries between savers and borrowers, taking deposits and extending credit (loans) to individuals and businesses, unlike the central bank, which regulates the whole system."
+    },
+    {
+      "subject": "Economics",
+      "text": "Inflation is best defined as a",
+      "options": [
+        "one-time increase in the price of a single good",
+        "persistent and sustained rise in the general price level of goods and services",
+        "fixed exchange rate policy",
+        "fall in the general price level over time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inflation refers to an ongoing, generalised increase in prices across an economy over time, which reduces the purchasing power of money."
+    },
+    {
+      "subject": "Economics",
+      "text": "Demand-pull inflation occurs mainly when",
+      "options": [
+        "the government reduces the money supply",
+        "aggregate demand in the economy exceeds the available aggregate supply",
+        "there is a sudden increase in unemployment",
+        "the cost of production inputs rises significantly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Demand-pull inflation arises when total spending in an economy outpaces the economy's capacity to produce goods and services, pushing prices upward."
+    },
+    {
+      "subject": "Economics",
+      "text": "Cost-push inflation occurs mainly when",
+      "options": [
+        "the government increases interest rates",
+        "rising costs of production, such as wages or raw materials, push up the general price level",
+        "aggregate demand falls sharply",
+        "the exchange rate strengthens significantly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cost-push inflation results from increased costs of production (e.g., wage rises, raw material price increases), which firms pass on to consumers as higher prices."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following is a common measure taken by a central bank to control inflation?",
+      "options": [
+        "Lowering interest rates to encourage more borrowing",
+        "Removing all taxes on imported goods",
+        "Raising interest rates to reduce borrowing and spending",
+        "Increasing government subsidies on all goods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Central banks often raise interest rates during inflationary periods to discourage borrowing and spending, cooling down aggregate demand and easing upward pressure on prices."
+    },
+    {
+      "subject": "Economics",
+      "text": "Deflation refers to a sustained",
+      "options": [
+        "rise in the general price level of goods and services",
+        "increase in government expenditure",
+        "increase in the exchange rate of a currency",
+        "fall in the general price level of goods and services"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deflation is the opposite of inflation: a persistent decrease in the overall price level in an economy, which can also cause economic difficulties like reduced spending."
+    },
+    {
+      "subject": "Economics",
+      "text": "The demand for money to carry out everyday transactions is known as the",
+      "options": [
+        "investment motive for holding bonds",
+        "precautionary motive against inflation only",
+        "speculative motive for holding money",
+        "transactionary motive for holding money"
+      ],
+      "correctIndex": 3,
+      "explanation": "Keynes identified the transactionary motive as the need to hold money to cover routine, planned day-to-day purchases and expenses."
+    },
+    {
+      "subject": "Economics",
+      "text": "Public finance is the branch of economics concerned with the",
+      "options": [
+        "personal savings decisions of households",
+        "trade agreements between two private companies",
+        "revenue, expenditure, and debt management of government",
+        "profit-making activities of private firms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public finance studies how governments raise revenue (mainly through taxation), spend it on public goods and services, and manage public debt."
+    },
+    {
+      "subject": "Economics",
+      "text": "A major source of government revenue in most economies is",
+      "options": [
+        "personal loans from citizens",
+        "taxation",
+        "private charitable donations",
+        "foreign remittances from individuals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taxation, in its various forms (income tax, VAT, customs duties, etc.), is typically the largest and most reliable source of revenue for national governments."
+    },
+    {
+      "subject": "Economics",
+      "text": "A balanced government budget occurs when",
+      "options": [
+        "government expenditure exceeds government revenue",
+        "the government has no revenue at all",
+        "government revenue equals government expenditure",
+        "government revenue exceeds government expenditure"
+      ],
+      "correctIndex": 2,
+      "explanation": "A balanced budget is achieved when total planned government spending exactly matches total planned government revenue over a fiscal period."
+    },
+    {
+      "subject": "Economics",
+      "text": "A budget deficit occurs when",
+      "options": [
+        "government revenue equals government expenditure",
+        "the government eliminates all forms of spending",
+        "government revenue exceeds government expenditure",
+        "government expenditure exceeds government revenue"
+      ],
+      "correctIndex": 3,
+      "explanation": "A deficit budget arises when planned government spending is greater than the revenue collected, often requiring the government to borrow to cover the shortfall."
+    },
+    {
+      "subject": "Economics",
+      "text": "A budget surplus occurs when",
+      "options": [
+        "government revenue exceeds government expenditure",
+        "government revenue equals government expenditure",
+        "government expenditure exceeds government revenue",
+        "the government has zero revenue"
+      ],
+      "correctIndex": 0,
+      "explanation": "A surplus budget occurs when the government collects more revenue than it spends within a given fiscal period."
+    },
+    {
+      "subject": "Economics",
+      "text": "Public debt refers to the",
+      "options": [
+        "total income earned by government employees",
+        "total taxes collected by a government in a year",
+        "total value of goods exported by a country",
+        "total amount of money owed by a government to domestic and foreign creditors"
+      ],
+      "correctIndex": 3,
+      "explanation": "Public debt represents the accumulated borrowing a government has undertaken, often to finance budget deficits, owed to both local and international lenders."
+    },
+    {
+      "subject": "Economics",
+      "text": "The theory of absolute advantage states that a country should specialise in producing goods it can produce",
+      "options": [
+        "using the most expensive available technology",
+        "only for its own domestic consumption",
+        "more efficiently (using fewer resources) than other countries",
+        "at exactly the same efficiency as other countries"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adam Smith's theory of absolute advantage suggests countries benefit from trade by specialising in goods they can produce using fewer resources than their trading partners."
+    },
+    {
+      "subject": "Economics",
+      "text": "The theory of comparative advantage suggests that a country should specialise in producing goods for which it has the",
+      "options": [
+        "highest opportunity cost among all its industries",
+        "largest absolute advantage over all trading partners",
+        "government subsidy support only",
+        "lowest opportunity cost compared to other countries, even without an absolute advantage"
+      ],
+      "correctIndex": 3,
+      "explanation": "David Ricardo's comparative advantage theory shows that countries gain from trade by specialising in goods where their opportunity cost is relatively lowest, even if they have no absolute advantage in anything."
+    },
+    {
+      "subject": "Economics",
+      "text": "The balance of trade refers to the difference between a country's",
+      "options": [
+        "total savings and total investment",
+        "total value of exports and total value of imports of goods",
+        "money supply and demand for money",
+        "government revenue and government expenditure"
+      ],
+      "correctIndex": 1,
+      "explanation": "The balance of trade specifically measures the difference between the value of a country's merchandise exports and imports over a period."
+    },
+    {
+      "subject": "Economics",
+      "text": "A favourable balance of trade occurs when a country's",
+      "options": [
+        "exports exceed its imports",
+        "imports exceed its exports",
+        "government budget is balanced",
+        "exports equal its imports exactly"
+      ],
+      "correctIndex": 0,
+      "explanation": "A trade surplus (favourable balance of trade) exists when the value of a country's exports is greater than the value of its imports."
+    },
+    {
+      "subject": "Economics",
+      "text": "The balance of payments is a broader record than the balance of trade because it includes",
+      "options": [
+        "only stock market transactions",
+        "all financial transactions between a country and the rest of the world, including trade, services, and capital flows",
+        "only the trade in physical merchandise goods",
+        "only government-to-government financial aid"
+      ],
+      "correctIndex": 1,
+      "explanation": "The balance of payments records all economic transactions with the rest of the world, encompassing the trade balance plus services, income flows, and capital/financial account movements."
+    },
+    {
+      "subject": "Economics",
+      "text": "An exchange rate is best defined as the",
+      "options": [
+        "tax rate imposed on imported goods",
+        "interest rate set by a country's central bank",
+        "price of one country's currency expressed in terms of another currency",
+        "total value of a country's exports"
+      ],
+      "correctIndex": 2,
+      "explanation": "The exchange rate specifies how much of one currency must be given up to obtain a unit of another currency, essential for international trade and finance."
+    },
+    {
+      "subject": "Economics",
+      "text": "ECOWAS (Economic Community of West African States) was established mainly to promote",
+      "options": [
+        "military alliances among European nations",
+        "trade exclusively between Nigeria and the United States",
+        "economic cooperation and integration among West African countries",
+        "the standardisation of global currencies"
+      ],
+      "correctIndex": 2,
+      "explanation": "ECOWAS is a regional economic organisation aimed at fostering trade, economic integration, and cooperation among its member states in West Africa."
+    },
+    {
+      "subject": "Economics",
+      "text": "The International Monetary Fund (IMF) primarily assists member countries by",
+      "options": [
+        "directly managing member countries' agricultural sectors",
+        "manufacturing goods for export on behalf of member states",
+        "providing financial assistance and policy advice to promote monetary cooperation and economic stability",
+        "setting domestic tax rates for its member countries"
+      ],
+      "correctIndex": 2,
+      "explanation": "The IMF works to foster global monetary cooperation, financial stability, and sustainable economic growth, often providing loans and policy guidance to countries facing balance of payments difficulties."
+    },
+    {
+      "subject": "Economics",
+      "text": "The World Bank primarily focuses on providing",
+      "options": [
+        "military support to developing nations",
+        "long-term loans and financial/technical assistance for development projects in member countries",
+        "direct cash transfers to individual citizens",
+        "short-term currency stabilisation loans only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike the IMF's focus on monetary stability, the World Bank primarily funds long-term development projects (infrastructure, education, health) in developing countries."
+    },
+    {
+      "subject": "Economics",
+      "text": "Historically, before the discovery of oil, the mainstay of the Nigerian economy was",
+      "options": [
+        "information technology services",
+        "agriculture",
+        "petroleum",
+        "manufacturing of automobiles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prior to the oil boom, Nigeria's economy relied heavily on agricultural exports such as cocoa, groundnut, palm oil, and cotton for foreign exchange and employment."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following is a major problem currently facing agriculture in Nigeria?",
+      "options": [
+        "Reliance on outdated farming methods and inadequate infrastructure",
+        "Overproduction of food crops beyond domestic and export needs",
+        "Excessive government funding for agricultural research",
+        "Too many young people going into farming"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigerian agriculture continues to be hampered by traditional farming techniques, poor rural infrastructure (roads, storage), and limited access to modern inputs and credit."
+    },
+    {
+      "subject": "Economics",
+      "text": "Industrialization refers to the process by which an economy transforms from being primarily",
+      "options": [
+        "monetary to purely barter-based",
+        "service-based to purely agricultural",
+        "agrarian to one dominated by manufacturing and industrial activities",
+        "industrial to primarily agricultural"
+      ],
+      "correctIndex": 2,
+      "explanation": "Industrialization describes the structural shift of an economy from reliance on agriculture toward greater manufacturing and industrial production."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following is a significant challenge to industrialization in Nigeria?",
+      "options": [
+        "Complete absence of raw materials nationwide",
+        "Overregulation preventing any foreign investment whatsoever",
+        "Inadequate and unreliable power (electricity) supply",
+        "Excess availability of skilled industrial labour"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unreliable electricity supply significantly raises production costs and discourages both local and foreign investment in Nigerian manufacturing industries."
+    },
+    {
+      "subject": "Economics",
+      "text": "Population growth in Nigeria presents an economic challenge mainly because it can lead to",
+      "options": [
+        "a permanent reduction in the labour force",
+        "a decrease in the demand for goods and services",
+        "pressure on limited resources, unemployment, and strain on social infrastructure",
+        "an automatic and immediate rise in per capita income"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rapid population growth, if not matched by corresponding economic growth, can strain available resources, increase unemployment, and overburden schools, hospitals, and other infrastructure."
+    },
+    {
+      "subject": "Economics",
+      "text": "The labour market in Nigeria is often characterised by",
+      "options": [
+        "an absence of any informal sector employment",
+        "guaranteed full employment for all job seekers",
+        "a persistent shortage of available workers in all sectors",
+        "a high rate of unemployment and underemployment, especially among youths"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria faces significant challenges of unemployment and underemployment, particularly affecting young graduates, due to a mismatch between labour supply and available formal jobs."
+    },
+    {
+      "subject": "Economics",
+      "text": "Diversification of the Nigerian economy refers to efforts to",
+      "options": [
+        "reduce dependence on oil revenue by developing other sectors such as agriculture and manufacturing",
+        "eliminate the agricultural sector entirely",
+        "focus exclusively on the service sector",
+        "increase the country's reliance solely on crude oil exports"
+      ],
+      "correctIndex": 0,
+      "explanation": "Economic diversification aims to broaden Nigeria's revenue base beyond oil by strengthening other productive sectors, reducing vulnerability to oil price shocks."
+    },
+    {
+      "subject": "Economics",
+      "text": "The informal sector of the Nigerian economy typically consists of",
+      "options": [
+        "large multinational corporations only",
+        "publicly listed companies on the stock exchange",
+        "small-scale, often unregistered businesses and self-employed workers operating outside formal regulation",
+        "government ministries and parastatals"
+      ],
+      "correctIndex": 2,
+      "explanation": "The informal sector includes small traders, artisans, and self-employed individuals who typically operate without formal registration, taxation, or regulatory oversight, but who provide significant employment."
+    },
+    {
+      "subject": "Economics",
+      "text": "A country's Production Possibility Frontier (PPF) shows that to produce 20 more units of food, it must give up 20 units of cloth (moving from 100 cloth/0 food to 80 cloth/20 food). The opportunity cost of the first 20 units of food produced is",
+      "options": [
+        "100 units of cloth",
+        "0 units of cloth, since resources are unlimited",
+        "80 units of cloth",
+        "20 units of cloth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Opportunity cost is measured by what is given up; here, producing 20 units of food required sacrificing 20 units of cloth (100-80)."
+    },
+    {
+      "subject": "Economics",
+      "text": "The typical concave (bowed-out) shape of a Production Possibility Frontier illustrates the",
+      "options": [
+        "law of increasing opportunity cost as more of one good is produced",
+        "principle of absolute advantage",
+        "law of demand",
+        "law of diminishing marginal utility"
+      ],
+      "correctIndex": 0,
+      "explanation": "The concave shape reflects that resources are not perfectly adaptable between uses, so producing successive units of one good requires giving up increasing amounts of the other good."
+    },
+    {
+      "subject": "Economics",
+      "text": "A point lying inside (below) a country's Production Possibility Frontier indicates that the economy is",
+      "options": [
+        "producing at maximum attainable efficiency",
+        "producing an output combination that is currently unattainable",
+        "exporting more than it imports",
+        "experiencing unemployment or underutilisation of resources"
+      ],
+      "correctIndex": 3,
+      "explanation": "Points inside the PPF represent inefficient use of available resources, such as unemployed labour or idle capital, since more of both goods could be produced."
+    },
+    {
+      "subject": "Economics",
+      "text": "An outward shift of an entire Production Possibility Frontier is most likely caused by",
+      "options": [
+        "an increase in unemployment",
+        "an improvement in technology or an increase in available resources",
+        "a fall in consumer income",
+        "a rise in the price of one of the two goods produced"
+      ],
+      "correctIndex": 1,
+      "explanation": "An outward shift represents economic growth in productive capacity, typically resulting from technological advancement or a growth in the quantity/quality of factors of production."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which statement correctly distinguishes a scale of preference from opportunity cost?",
+      "options": [
+        "Opportunity cost ranks wants, while a scale of preference measures forgone alternatives",
+        "A scale of preference ranks wants in order of urgency, while opportunity cost is the value of the next best alternative forgone in satisfying the top want",
+        "They are identical concepts with no difference",
+        "Both concepts apply only to government budgeting"
+      ],
+      "correctIndex": 1,
+      "explanation": "A scale of preference is a ranked list of wants, whereas opportunity cost specifically refers to what is sacrificed when a choice from that list is made."
+    },
+    {
+      "subject": "Economics",
+      "text": "The statement 'the government should reduce fuel subsidy to save more money' is an example of",
+      "options": [
+        "normative economics, since it expresses an opinion or value judgement",
+        "a purely descriptive statistical statement",
+        "a positive economic statement",
+        "a law of supply"
+      ],
+      "correctIndex": 0,
+      "explanation": "Normative economics deals with value judgements about what 'should' happen, unlike positive economics, which deals with objective, testable facts."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following correctly matches a factor of production with its reward?",
+      "options": [
+        "Land - profit; Capital - wages",
+        "Labour - rent; Land - wages",
+        "Capital - interest; Entrepreneur - profit",
+        "Entrepreneur - rent; Labour - interest"
+      ],
+      "correctIndex": 2,
+      "explanation": "The conventional rewards to factors of production are: land - rent, labour - wages, capital - interest, and entrepreneur - profit."
+    },
+    {
+      "subject": "Economics",
+      "text": "In answering the basic economic question of 'for whom to produce', an economy is essentially deciding",
+      "options": [
+        "which technology to adopt",
+        "how to advertise finished goods",
+        "what quantity of goods to import",
+        "how goods and services should be distributed among members of society"
+      ],
+      "correctIndex": 3,
+      "explanation": "'For whom to produce' concerns the distribution of the output produced among the members of society, based on income, needs, or government policy."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following is NOT a typical feature of a free enterprise (capitalist) economic system?",
+      "options": [
+        "Private ownership of the means of production",
+        "Profit as the main motive for production",
+        "Freedom of choice for consumers and producers",
+        "Government fixing of prices for virtually all goods and services"
+      ],
+      "correctIndex": 3,
+      "explanation": "Widespread government price-fixing across virtually all goods is characteristic of a command economy, not a free enterprise system, which relies on market-determined prices."
+    },
+    {
+      "subject": "Economics",
+      "text": "A key weakness often associated with pure central planning, compared with a market economy, is that it",
+      "options": [
+        "responds more quickly to changes in consumer tastes than markets do",
+        "guarantees zero unemployment in all circumstances",
+        "eliminates the need for economic decision-making entirely",
+        "tends to be slower in responding to changing consumer demand due to the absence of price signals"
+      ],
+      "correctIndex": 3,
+      "explanation": "Without a functioning price mechanism to signal changes in demand and supply, centrally planned economies often adjust output more slowly and less efficiently than market economies."
+    },
+    {
+      "subject": "Economics",
+      "text": "The price of a good rises from N20 to N25, and the quantity demanded falls from 100 units to 80 units. The price elasticity of demand is approximately",
+      "options": [
+        "1.25 (elastic)",
+        "0.8 (inelastic)",
+        "0.2 (perfectly inelastic)",
+        "2.0 (elastic)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Percentage change in quantity = -20/100 = -20%; percentage change in price = 5/20 = 25%. PED = -20%/25% = -0.8, indicating inelastic demand."
+    },
+    {
+      "subject": "Economics",
+      "text": "Given the demand function Qd = 100 - 2P and the supply function Qs = 20 + 3P, the equilibrium price and quantity are",
+      "options": [
+        "P = 16, Q = 52",
+        "P = 10, Q = 50",
+        "P = 16, Q = 68",
+        "P = 20, Q = 60"
+      ],
+      "correctIndex": 2,
+      "explanation": "Setting Qd = Qs: 100 - 2P = 20 + 3P gives 80 = 5P, so P = 16; substituting gives Q = 100 - 2(16) = 68."
+    },
+    {
+      "subject": "Economics",
+      "text": "If a rise in the price of good A causes an increase in the demand for good B, then goods A and B are best described as",
+      "options": [
+        "inferior goods, with a negative income elasticity of demand",
+        "independent goods, with zero cross elasticity of demand",
+        "substitute goods, with a positive cross elasticity of demand",
+        "complementary goods, with a negative cross elasticity of demand"
+      ],
+      "correctIndex": 2,
+      "explanation": "A positive cross elasticity of demand (quantity demanded of B rises when price of A rises) indicates that A and B are substitutes."
+    },
+    {
+      "subject": "Economics",
+      "text": "When the price of a good falls and, as a result, the quantity demanded of that same good rises along an unchanged demand curve, this is correctly called",
+      "options": [
+        "a shift of the demand curve",
+        "an extension (movement along) of demand",
+        "an increase in demand",
+        "a decrease in demand"
+      ],
+      "correctIndex": 1,
+      "explanation": "A change in quantity demanded due solely to a change in the good's own price is a movement along the existing demand curve, known as an extension or contraction, not a shift."
+    },
+    {
+      "subject": "Economics",
+      "text": "The price of a good rises from N50 to N60, and the quantity supplied rises from 200 to 260 units. The price elasticity of supply is",
+      "options": [
+        "1.0 (unitary)",
+        "2.0 (elastic)",
+        "0.67 (inelastic)",
+        "1.5 (elastic)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Percentage change in quantity supplied = 60/200 = 30%; percentage change in price = 10/50 = 20%. PES = 30%/20% = 1.5, indicating elastic supply."
+    },
+    {
+      "subject": "Economics",
+      "text": "A Giffen good is unusual because",
+      "options": [
+        "it is always a luxury good with high income elasticity",
+        "a fall in its price leads to a decrease in the quantity demanded, defying the ordinary law of demand",
+        "it has zero price elasticity of demand at every price",
+        "its demand curve slopes downward like a normal good"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Giffen good violates the law of demand: as its price falls, the strong negative income effect for very poor consumers causes quantity demanded to fall rather than rise."
+    },
+    {
+      "subject": "Economics",
+      "text": "A government subsidy paid to producers of a good will most likely cause the",
+      "options": [
+        "demand curve to shift right, raising equilibrium quantity",
+        "supply curve to shift left, raising equilibrium price",
+        "supply curve to shift right, lowering equilibrium price and raising equilibrium quantity",
+        "demand curve to shift left, lowering equilibrium quantity"
+      ],
+      "correctIndex": 2,
+      "explanation": "A subsidy lowers producers' effective cost of production, increasing supply at every price, which shifts the supply curve rightward, lowering price and raising the equilibrium quantity."
+    },
+    {
+      "subject": "Economics",
+      "text": "Given Qd = 200 - 2P and Qs = 50 + 3P, if the government imposes a price ceiling of N20 (below the free-market equilibrium), the resulting shortage will be",
+      "options": [
+        "110 units",
+        "160 units",
+        "30 units",
+        "50 units"
+      ],
+      "correctIndex": 3,
+      "explanation": "At P = 20, Qd = 200 - 40 = 160 and Qs = 50 + 60 = 110; the shortage equals Qd - Qs = 160 - 110 = 50 units."
+    },
+    {
+      "subject": "Economics",
+      "text": "If demand for a good is price elastic, a reduction in its price will cause total revenue to",
+      "options": [
+        "increase, since the percentage rise in quantity demanded exceeds the percentage fall in price",
+        "become zero immediately",
+        "fall, since less is being charged per unit",
+        "remain exactly unchanged"
+      ],
+      "correctIndex": 0,
+      "explanation": "With elastic demand, quantity demanded increases proportionately more than the price falls, so total revenue (price x quantity) rises."
+    },
+    {
+      "subject": "Economics",
+      "text": "An increase in consumer income causing the entire demand curve for a normal good to shift rightward is correctly termed",
+      "options": [
+        "an extension of demand",
+        "a contraction of demand",
+        "a decrease in demand",
+        "an increase in demand"
+      ],
+      "correctIndex": 3,
+      "explanation": "A shift of the whole demand curve, caused by a factor other than the good's own price (such as income), is called an increase or decrease in demand, not a movement along the curve."
+    },
+    {
+      "subject": "Economics",
+      "text": "The demand for a good and its complementary good, such as cars and petrol, purchased together to satisfy one want, is an example of",
+      "options": [
+        "composite demand",
+        "joint demand",
+        "derived demand",
+        "competitive demand"
+      ],
+      "correctIndex": 1,
+      "explanation": "Joint demand occurs when two or more goods are demanded together because they are used in conjunction with one another, such as cars and petrol."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which statement correctly distinguishes cardinal utility from ordinal utility?",
+      "options": [
+        "Cardinal utility assumes satisfaction can be measured numerically in units (utils), while ordinal utility only ranks preferences without assigning numbers",
+        "Ordinal utility measures satisfaction in numerical units, while cardinal utility only ranks preferences",
+        "Both approaches assume utility cannot be compared across goods",
+        "Cardinal utility applies only to producers, while ordinal utility applies only to consumers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cardinal utility theory assumes utility is quantifiable (e.g., in 'utils'), whereas ordinal utility theory (used in indifference curve analysis) assumes consumers can only rank bundles by preference, not measure satisfaction numerically."
+    },
+    {
+      "subject": "Economics",
+      "text": "An indifference curve, used in ordinal utility analysis, represents",
+      "options": [
+        "the market price of two goods over time",
+        "the maximum income a consumer can spend on goods",
+        "combinations of two goods yielding equal levels of a consumer's satisfaction",
+        "the exact numerical utility value obtained from a single good"
+      ],
+      "correctIndex": 2,
+      "explanation": "An indifference curve shows all combinations of two goods that give a consumer the same total level of satisfaction, without requiring utility to be numerically measured."
+    },
+    {
+      "subject": "Economics",
+      "text": "A consumer buys good X (Px = N5) with marginal utility of 20 utils, and good Y (Py = N8) with marginal utility of 32 utils. Based on the equi-marginal principle, the consumer is",
+      "options": [
+        "not in equilibrium, and should buy more of Y",
+        "in equilibrium, since marginal utility per naira spent is equal for both goods",
+        "unable to reach equilibrium with these two goods",
+        "not in equilibrium, and should buy more of X"
+      ],
+      "correctIndex": 1,
+      "explanation": "MUx/Px = 20/5 = 4 and MUy/Py = 32/8 = 4; since both ratios are equal, the consumer is maximising total utility and is in equilibrium."
+    },
+    {
+      "subject": "Economics",
+      "text": "A consumer is willing to pay up to N500 for a pair of shoes but only pays the market price of N350. The consumer surplus obtained is",
+      "options": [
+        "N350",
+        "N850",
+        "N150",
+        "N500"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consumer surplus is the difference between what a consumer is willing to pay and what they actually pay: N500 - N350 = N150."
+    },
+    {
+      "subject": "Economics",
+      "text": "A consumer's marginal utility from successive units of a good is: 10, 8, 6, 3, -2. Total utility begins to fall",
+      "options": [
+        "after the 5th unit, since marginal utility only becomes negative there",
+        "it never falls, since total utility always increases",
+        "after the 3rd unit",
+        "after the 2nd unit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total utility rises as long as marginal utility is positive; it only starts to fall once marginal utility becomes negative, which occurs at the 5th unit (-2)."
+    },
+    {
+      "subject": "Economics",
+      "text": "The law of equi-marginal utility differs from the law of diminishing marginal utility in that it",
+      "options": [
+        "describes how a rational consumer allocates a fixed income across goods to equalise marginal utility per naira, rather than describing the decline in utility from consuming more of one good",
+        "applies only to producers, not consumers",
+        "states that marginal utility always increases with consumption",
+        "is simply another name for the same law"
+      ],
+      "correctIndex": 0,
+      "explanation": "The law of diminishing marginal utility explains why successive units of one good yield less satisfaction, while the equi-marginal (or substitution) principle explains how income is allocated among several goods to maximise total utility."
+    },
+    {
+      "subject": "Economics",
+      "text": "Indifference curves representing consistent consumer preferences cannot intersect each other because",
+      "options": [
+        "intersection would violate the assumption of transitivity of preferences, leading to a logical contradiction",
+        "intersection would imply the consumer's preferences are transitive",
+        "consumers only ever consider a single good at a time",
+        "curves are always drawn as straight lines"
+      ],
+      "correctIndex": 0,
+      "explanation": "If two indifference curves crossed, it would imply inconsistent rankings of the same bundles of goods, contradicting the basic assumption that consumer preferences are transitive and consistent."
+    },
+    {
+      "subject": "Economics",
+      "text": "The slope of a consumer's budget line is equal to",
+      "options": [
+        "the negative of the ratio of the price of the good on the horizontal axis to the price of the good on the vertical axis",
+        "the ratio of total utility to income",
+        "the marginal utility of the two goods",
+        "the consumer's total income"
+      ],
+      "correctIndex": 0,
+      "explanation": "The budget line's slope, -Px/Py, reflects the rate at which the market allows a consumer to trade off one good for another given fixed prices and income."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm's total variable cost is N600 when it produces 50 units of output. Its average variable cost is",
+      "options": [
+        "N600",
+        "N30",
+        "N50",
+        "N12"
+      ],
+      "correctIndex": 3,
+      "explanation": "Average variable cost = Total Variable Cost / Quantity = 600 / 50 = N12."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm's total cost is N200 at 4 units of output and N250 at 5 units of output. The marginal cost of producing the 5th unit is",
+      "options": [
+        "N250",
+        "N200",
+        "N50",
+        "N45"
+      ],
+      "correctIndex": 2,
+      "explanation": "Marginal cost equals the change in total cost from producing one more unit: N250 - N200 = N50."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm has total fixed costs of N1,000 and produces 20 units of output. Its average fixed cost is",
+      "options": [
+        "N20",
+        "N980",
+        "N50",
+        "N1,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average fixed cost = Total Fixed Cost / Quantity = 1,000 / 20 = N50."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm's break-even point occurs at the level of output where",
+      "options": [
+        "total revenue equals total cost, so the firm earns exactly normal profit",
+        "total revenue exceeds total cost by the maximum amount",
+        "average fixed cost equals average variable cost",
+        "marginal cost equals marginal revenue only"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the break-even point, total revenue equals total cost, meaning the firm makes zero economic (abnormal) profit but still covers all costs, earning only normal profit."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm sells 10 units at N100 each (TR = N1,000) and 11 units at N95 each (TR = N1,045). The marginal revenue of the 11th unit is",
+      "options": [
+        "N45",
+        "N100",
+        "N1,045",
+        "N95"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marginal revenue equals the change in total revenue from selling one more unit: N1,045 - N1,000 = N45."
+    },
+    {
+      "subject": "Economics",
+      "text": "A profit-maximising firm, regardless of the market structure it operates in, will produce at the level of output where",
+      "options": [
+        "average revenue equals average cost",
+        "average cost is at its lowest possible point",
+        "total revenue is at its absolute maximum",
+        "marginal cost equals marginal revenue"
+      ],
+      "correctIndex": 3,
+      "explanation": "Profit is maximised where marginal cost equals marginal revenue (MC = MR); producing beyond this point would add more to cost than to revenue."
+    },
+    {
+      "subject": "Economics",
+      "text": "According to the law of variable proportions, a rational firm should ideally operate in the stage where",
+      "options": [
+        "Stage III, where marginal product is negative and total product is falling",
+        "none of the three stages, since output should always be zero",
+        "Stage II, where marginal product is positive but diminishing",
+        "Stage I, where marginal product is still rising"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stage II, where marginal returns are diminishing but still positive, is the economically rational range of production, balancing output against the cost of the variable factor."
+    },
+    {
+      "subject": "Economics",
+      "text": "The long run in production theory is best defined as the period in which",
+      "options": [
+        "all factors of production are variable, with none fixed",
+        "only fixed costs can be adjusted",
+        "only labour can be varied while capital remains fixed",
+        "output cannot be changed at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the long run, a firm can adjust all its factors of production, including capital and plant size, unlike the short run, where at least one factor is fixed."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm's total cost is N800 at an output of 40 units. Its average cost is",
+      "options": [
+        "N800",
+        "N32,000",
+        "N20",
+        "N40"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average cost = Total Cost / Quantity = 800 / 40 = N20."
+    },
+    {
+      "subject": "Economics",
+      "text": "Economies of scale that arise specifically from a firm's own internal expansion, such as bulk-buying discounts, are called",
+      "options": [
+        "internal economies of scale",
+        "external economies of scale",
+        "diseconomies of scale",
+        "economies of scope only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Internal economies of scale arise from a firm's own growth (e.g., bulk purchasing, specialisation), as opposed to external economies, which benefit an entire industry (e.g., improved regional infrastructure)."
+    },
+    {
+      "subject": "Economics",
+      "text": "A firm earns total revenue of N15,000 and incurs total cost of N12,000. Its profit is",
+      "options": [
+        "N15,000",
+        "N12,000",
+        "N3,000",
+        "N27,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profit = Total Revenue - Total Cost = N15,000 - N12,000 = N3,000."
+    },
+    {
+      "subject": "Economics",
+      "text": "Increasing returns to scale in the long run should be distinguished from the short-run law of diminishing returns in that returns to scale describe",
+      "options": [
+        "only price changes in a monopoly market",
+        "output changes when all factors of production are varied proportionately in the long run, while diminishing returns describe short-run output changes with one factor fixed",
+        "only what happens to fixed costs in the short run",
+        "the same phenomenon, just under a different name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Returns to scale relate to long-run changes in output when all inputs are increased together, while diminishing returns (law of variable proportions) apply in the short run when only a variable factor changes against a fixed factor."
+    },
+    {
+      "subject": "Economics",
+      "text": "A key difference between the demand curve facing a perfectly competitive firm and that facing a monopolist is that the",
+      "options": [
+        "both firms face identical, perfectly inelastic demand curves",
+        "perfectly competitive firm can set any price it wishes, unlike the monopolist",
+        "monopolist faces a horizontal demand curve, while the perfectly competitive firm faces a downward-sloping curve",
+        "perfectly competitive firm faces a perfectly elastic (horizontal) demand curve at the market price, while the monopolist faces the downward-sloping market demand curve"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because a perfectly competitive firm is a price taker, it can sell any quantity at the going market price (horizontal demand), while a monopolist, being the only supplier, faces the entire downward-sloping market demand curve."
+    },
+    {
+      "subject": "Economics",
+      "text": "A monopolist finds that at an output of 100 units, marginal cost is N50 and marginal revenue is N50, while at 101 units marginal cost exceeds marginal revenue. The profit-maximising output is",
+      "options": [
+        "100 units",
+        "150 units",
+        "greater than 101 units",
+        "0 units"
+      ],
+      "correctIndex": 0,
+      "explanation": "Profit is maximised where MC = MR; since this occurs at 100 units, and producing beyond this point would make MC exceed MR (reducing profit), 100 units is optimal."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which pairing correctly matches a market structure with its defining feature?",
+      "options": [
+        "Monopoly - many sellers offering slightly differentiated products",
+        "Oligopoly - a single seller with no substitutes",
+        "Perfect competition - a few large interdependent firms",
+        "Monopolistic competition - many sellers offering similar but differentiated products"
+      ],
+      "correctIndex": 3,
+      "explanation": "Monopolistic competition is defined by many sellers offering products that are similar but differentiated (e.g., through branding), distinguishing it from monopoly, oligopoly, and perfect competition."
+    },
+    {
+      "subject": "Economics",
+      "text": "The kinked demand curve model is used to explain why, in an oligopoly, firms often",
+      "options": [
+        "face a perfectly elastic demand curve",
+        "exhibit price rigidity, since rivals are assumed to match price cuts but not price increases",
+        "change prices very frequently in response to minor cost changes",
+        "always merge to form a single monopoly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The kinked demand curve suggests oligopolists avoid changing prices because rivals would follow a price cut (losing the benefit) but not follow a price rise (losing market share), creating price stability."
+    },
+    {
+      "subject": "Economics",
+      "text": "A natural monopoly typically arises in an industry where",
+      "options": [
+        "substantial economies of scale make it most efficient for a single firm to supply the entire market, as in utilities",
+        "there are very low barriers to entry for new firms",
+        "many small firms can compete effectively at low cost",
+        "products are highly differentiated through branding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Natural monopolies (e.g., electricity or water distribution) occur where large fixed costs and economies of scale mean that a single large producer can supply the market more cheaply than multiple competing firms."
+    },
+    {
+      "subject": "Economics",
+      "text": "Price leadership, sometimes observed in an oligopoly, occurs when",
+      "options": [
+        "all firms independently set identical prices by coincidence",
+        "firms compete only through non-price methods such as advertising",
+        "the government fixes prices for the entire industry",
+        "a dominant firm sets the price and other firms in the industry follow suit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Price leadership is a form of tacit collusion where a dominant or established firm sets the price, and smaller rival firms adjust their own prices to match it."
+    },
+    {
+      "subject": "Economics",
+      "text": "In the long-run equilibrium of a perfectly competitive market, firms earn only normal profit because",
+      "options": [
+        "firms collude to fix a common price above cost",
+        "barriers to entry prevent new firms from joining the industry",
+        "price equals marginal cost, which equals the minimum point of the average cost curve",
+        "the government subsidises all firms equally"
+      ],
+      "correctIndex": 2,
+      "explanation": "Free entry and exit in perfect competition erode any supernormal profit until price equals marginal cost and minimum average cost, leaving firms with only normal profit in the long run."
+    },
+    {
+      "subject": "Economics",
+      "text": "Unlike a firm in perfect competition, a monopolist can continue to earn supernormal (abnormal) profit even in the long run mainly because",
+      "options": [
+        "monopolists are legally required to reinvest all profits",
+        "monopoly products are always cheaper than competitive products",
+        "monopolists always operate at the lowest point of their average cost curve",
+        "barriers to entry prevent new firms from entering the market to compete away the excess profit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because entry barriers (patents, licences, control of resources) block new competitors, a monopolist can sustain supernormal profits in the long run, unlike firms in perfectly competitive markets."
+    },
+    {
+      "subject": "Economics",
+      "text": "In the long-run equilibrium of monopolistic competition, firms typically operate with",
+      "options": [
+        "output exactly at the minimum point of the average cost curve, as in perfect competition",
+        "a completely homogeneous product identical to all rivals",
+        "zero economic profit and excess (idle) capacity, producing below the output that minimises average cost",
+        "permanent supernormal profit protected by high barriers to entry"
+      ],
+      "correctIndex": 2,
+      "explanation": "In monopolistic competition, free entry drives economic profit to zero in the long run, but because the demand curve is downward-sloping (due to differentiation), firms produce at a point with excess capacity, below the minimum-cost output."
+    },
+    {
+      "subject": "Economics",
+      "text": "A monopolist sells 5 units at N40 each (TR = N200) and 6 units at N35 each (TR = N210). The marginal revenue of the 6th unit is",
+      "options": [
+        "N10",
+        "N210",
+        "N40",
+        "N35"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marginal revenue is the change in total revenue: N210 - N200 = N10, illustrating why a monopolist's marginal revenue falls below price as output rises."
+    },
+    {
+      "subject": "Economics",
+      "text": "When a monopolist charges each individual consumer the maximum price that consumer is willing to pay, this is known as",
+      "options": [
+        "uniform pricing",
+        "third-degree price discrimination",
+        "first-degree (perfect) price discrimination",
+        "predatory pricing"
+      ],
+      "correctIndex": 2,
+      "explanation": "First-degree price discrimination involves charging each consumer their exact maximum willingness to pay, allowing the seller to capture the entire consumer surplus as revenue."
+    },
+    {
+      "subject": "Economics",
+      "text": "The four-firm concentration ratio, often used to measure the degree of oligopoly in an industry, indicates the",
+      "options": [
+        "combined market share of the four largest firms in the industry",
+        "total government tax revenue from the industry",
+        "average profit earned by all firms in the industry",
+        "total number of firms operating in an industry"
+      ],
+      "correctIndex": 0,
+      "explanation": "The concentration ratio measures what proportion of total industry output or sales is accounted for by the largest few firms (commonly four), with a high ratio indicating an oligopolistic market."
+    },
+    {
+      "subject": "Economics",
+      "text": "Using the expenditure approach, if C = N500m, I = N150m, G = N200m, exports (X) = N100m, and imports (M) = N80m, GDP is",
+      "options": [
+        "N850m",
+        "N870m",
+        "N950m",
+        "N930m"
+      ],
+      "correctIndex": 1,
+      "explanation": "GDP = C + I + G + (X - M) = 500 + 150 + 200 + (100 - 80) = 500 + 150 + 200 + 20 = N870m."
+    },
+    {
+      "subject": "Economics",
+      "text": "Using the income approach, if wages = N300m, rent = N50m, interest = N40m, and profit = N110m, national income is",
+      "options": [
+        "N450m",
+        "N600m",
+        "N500m",
+        "N400m"
+      ],
+      "correctIndex": 2,
+      "explanation": "National income by the income method sums all factor incomes: 300 + 50 + 40 + 110 = N500m."
+    },
+    {
+      "subject": "Economics",
+      "text": "A country's GDP is N800bn, and its net factor income from abroad is +N30bn. Its GNP is",
+      "options": [
+        "N30bn",
+        "N830bn",
+        "N800bn",
+        "N770bn"
+      ],
+      "correctIndex": 1,
+      "explanation": "GNP = GDP + Net Factor Income from Abroad = 800 + 30 = N830bn."
+    },
+    {
+      "subject": "Economics",
+      "text": "A country's NNP at market price is N900bn. Indirect taxes total N80bn and subsidies total N20bn. NNP at factor cost is",
+      "options": [
+        "N800bn",
+        "N840bn",
+        "N1,000bn",
+        "N960bn"
+      ],
+      "correctIndex": 1,
+      "explanation": "NNP at factor cost = NNP at market price - indirect taxes + subsidies = 900 - 80 + 20 = N840bn."
+    },
+    {
+      "subject": "Economics",
+      "text": "Nominal GDP is N1,000bn and the GDP deflator is 125. Real GDP is",
+      "options": [
+        "N1,125bn",
+        "N1,250bn",
+        "N875bn",
+        "N800bn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Real GDP = (Nominal GDP / GDP Deflator) x 100 = (1,000 / 125) x 100 = N800bn."
+    },
+    {
+      "subject": "Economics",
+      "text": "Nominal GDP is N660bn and real GDP is N600bn. The GDP deflator is",
+      "options": [
+        "120",
+        "110",
+        "90",
+        "100"
+      ],
+      "correctIndex": 1,
+      "explanation": "GDP Deflator = (Nominal GDP / Real GDP) x 100 = (660 / 600) x 100 = 110."
+    },
+    {
+      "subject": "Economics",
+      "text": "National income figures in many developing countries are considered unreliable mainly because",
+      "options": [
+        "a large informal and subsistence sector produces goods and services that are not officially recorded",
+        "developed countries refuse to share statistical methods",
+        "governments deliberately overstate figures every year",
+        "all transactions are conducted using foreign currency"
+      ],
+      "correctIndex": 0,
+      "explanation": "Substantial non-monetised, informal, or subsistence economic activity often goes unrecorded in official statistics, leading to understatement of true national income in many developing economies."
+    },
+    {
+      "subject": "Economics",
+      "text": "Transfer payments, such as pensions and unemployment benefits, are excluded when calculating national income because they",
+      "options": [
+        "are counted twice under the expenditure method",
+        "are always paid in foreign currency",
+        "are illegal in most countries",
+        "represent a redistribution of existing income rather than payment for newly produced goods or services"
+      ],
+      "correctIndex": 3,
+      "explanation": "Transfer payments do not correspond to any current production of goods or services; they merely redistribute income, so including them would overstate national output."
+    },
+    {
+      "subject": "Economics",
+      "text": "If a country records a positive net factor income from abroad, then, all else equal,",
+      "options": [
+        "GNP will exceed GDP",
+        "NNP will exceed GNP",
+        "GNP will be less than GDP",
+        "GDP and GNP must always be equal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since GNP = GDP + net factor income from abroad, a positive net factor income means citizens/firms earn more abroad (net) than foreigners earn domestically, making GNP greater than GDP."
+    },
+    {
+      "subject": "Economics",
+      "text": "Counting both the value of flour sold to a baker and the value of the bread the baker sells to consumers, without adjustment, in national income would result in",
+      "options": [
+        "a negative national income figure",
+        "an accurate measure of national income",
+        "double counting, which is avoided by using the value-added method",
+        "an understatement of national income"
+      ],
+      "correctIndex": 2,
+      "explanation": "Including the value of intermediate goods (flour) alongside the final good (bread) double counts output; the value-added method avoids this by only summing the value added at each stage of production."
+    },
+    {
+      "subject": "Economics",
+      "text": "A country's national income is N2,000,000,000 and its population is 20,000,000. Its per capita income is",
+      "options": [
+        "N100",
+        "N10,000",
+        "N1,000",
+        "N10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Per capita income = National Income / Population = 2,000,000,000 / 20,000,000 = N100."
+    },
+    {
+      "subject": "Economics",
+      "text": "A farmer sells wheat worth N50 to a miller, who processes it into flour and sells it for N80 to a baker, who bakes bread and sells it for N150 to consumers. Using the value-added method, the total contribution to national income from this chain is",
+      "options": [
+        "N150, matching the final value of the bread",
+        "N230",
+        "N280 (50+80+150 summed directly)",
+        "N80"
+      ],
+      "correctIndex": 0,
+      "explanation": "Value added at each stage (50 + 30 + 70 = 150) equals the final market value of the bread, confirming that the value-added method avoids double counting intermediate transactions."
+    },
+    {
+      "subject": "Economics",
+      "text": "Using the Quantity Theory of Money, MV = PT, if the money supply (M) is N200m, velocity of circulation (V) is 5, and the volume of transactions (T) is 1,000 units, the general price level (P) is",
+      "options": [
+        "N1,000",
+        "N200",
+        "N5,000",
+        "N40"
+      ],
+      "correctIndex": 0,
+      "explanation": "P = MV / T = (200,000,000 x 5) / 1,000 = 1,000,000,000 / 1,000 = 1,000, giving the average price level per transaction."
+    },
+    {
+      "subject": "Economics",
+      "text": "Narrow money (M1) differs from broad money (M2) in that M1 consists mainly of",
+      "options": [
+        "long-term government bonds only",
+        "only foreign currency reserves",
+        "currency in circulation and demand deposits, while M2 additionally includes savings and time deposits",
+        "physical gold and other commodities"
+      ],
+      "correctIndex": 2,
+      "explanation": "M1 (narrow money) includes only the most liquid forms of money (cash and demand/current account deposits), while M2 (broad money) adds less liquid forms such as savings and time deposits."
+    },
+    {
+      "subject": "Economics",
+      "text": "Legal tender money is best described as currency that",
+      "options": [
+        "must be accepted by law in settlement of a debt within a country",
+        "is issued exclusively by commercial banks",
+        "can only be used for international trade",
+        "has intrinsic commodity value equal to its face value"
+      ],
+      "correctIndex": 0,
+      "explanation": "Legal tender status means that a currency must, by law, be accepted as a means of settling debts within the issuing country, regardless of its intrinsic material value."
+    },
+    {
+      "subject": "Economics",
+      "text": "The Consumer Price Index (CPI) was 150 in 2024 and rose to 165 in 2025. The rate of inflation between the two years was",
+      "options": [
+        "15%",
+        "6.5%",
+        "10%",
+        "150%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inflation rate = [(165 - 150) / 150] x 100 = (15/150) x 100 = 10%."
+    },
+    {
+      "subject": "Economics",
+      "text": "A sharp rise in global crude oil prices that increases the cost of production for firms across an economy, pushing up the general price level, is an example of",
+      "options": [
+        "cost-push inflation",
+        "demand-pull inflation",
+        "structural unemployment",
+        "imported deflation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cost-push inflation results from rising production costs (such as oil, an important input), which firms pass on to consumers as higher prices."
+    },
+    {
+      "subject": "Economics",
+      "text": "During a period of unanticipated inflation, which group is most likely to benefit at the expense of creditors and fixed-income earners?",
+      "options": [
+        "Savers holding cash deposits",
+        "Pensioners on a fixed monthly pension",
+        "Debtors, who repay loans with money of lower real purchasing power",
+        "Lenders who issued loans at fixed interest rates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inflation erodes the real value of money, so debtors benefit by repaying fixed-value loans with money that is worth less than when it was borrowed, at the expense of creditors and those on fixed incomes."
+    },
+    {
+      "subject": "Economics",
+      "text": "Hyperinflation refers to a situation of",
+      "options": [
+        "an extremely rapid and often accelerating rise in prices, severely eroding the value of money",
+        "zero change in the general price level",
+        "a mild and stable annual rise in prices of about 2%",
+        "a steady fall in prices over several years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hyperinflation describes an extremely high and typically rapidly accelerating inflation rate, which can destroy the value and usefulness of a currency within a short period."
+    },
+    {
+      "subject": "Economics",
+      "text": "A sustained fall in the general price level (deflation) is most commonly caused by",
+      "options": [
+        "a rapid rise in government spending",
+        "a rise in the price of imported raw materials",
+        "a significant and sustained fall in aggregate demand or contraction of the money supply",
+        "an increase in the minimum wage across the economy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deflation typically results from weak aggregate demand or a shrinking money supply, leading to falling prices as spending in the economy declines."
+    },
+    {
+      "subject": "Economics",
+      "text": "Persistent inflation undermines money's function as a",
+      "options": [
+        "medium of exchange only",
+        "store of value, since the purchasing power of money held over time falls",
+        "legal tender in international trade",
+        "unit of account only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because inflation continuously erodes purchasing power, money becomes a less reliable store of value the longer it is held during inflationary periods."
+    },
+    {
+      "subject": "Economics",
+      "text": "An economy experiencing simultaneously high inflation, high unemployment, and stagnant economic growth is said to be facing",
+      "options": [
+        "deflation",
+        "stagflation",
+        "hyperinflation only",
+        "a balanced budget crisis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stagflation is the unusual combination of high inflation with high unemployment and low or stagnant output growth, difficult to resolve with conventional demand-management policy."
+    },
+    {
+      "subject": "Economics",
+      "text": "The central bank's role as 'lender of last resort' means it",
+      "options": [
+        "provides personal loans directly to individual citizens",
+        "only lends money to foreign governments",
+        "refuses to lend to any financial institution under any circumstance",
+        "lends to commercial banks facing severe liquidity shortages when no other source of funds is available"
+      ],
+      "correctIndex": 3,
+      "explanation": "As lender of last resort, the central bank provides emergency liquidity support to solvent commercial banks in crisis, helping to maintain stability in the banking system."
+    },
+    {
+      "subject": "Economics",
+      "text": "Which of the following is best classified as a non-bank financial institution?",
+      "options": [
+        "The central bank issuing currency",
+        "An insurance company or pension fund administrator",
+        "A commercial bank accepting current account deposits",
+        "A merchant bank offering demand deposit accounts"
+      ],
+      "correctIndex": 1,
+      "explanation": "Non-bank financial institutions, such as insurance companies and pension fund administrators, mobilise and invest funds but do not accept demand deposits or create money like commercial banks."
+    },
+    {
+      "subject": "Economics",
+      "text": "Open market operations, as a tool of monetary policy, involve the central bank",
+      "options": [
+        "printing new currency notes without limit",
+        "buying or selling government securities to influence the level of money supply in the economy",
+        "directly setting the prices of consumer goods",
+        "collecting personal income tax from citizens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Open market operations involve the central bank buying or selling government bonds/securities in the open market to expand or contract the money supply and influence interest rates."
+    },
+    {
+      "subject": "Economics",
+      "text": "A commercial bank holds total deposits of N10 million, and the central bank sets the Cash Reserve Ratio (CRR) at 25%. The amount the bank can legally lend out (loanable funds) is",
+      "options": [
+        "N2.5 million",
+        "N7.5 million",
+        "N10 million",
+        "N12.5 million"
+      ],
+      "correctIndex": 1,
+      "explanation": "Required reserves = 25% x N10m = N2.5m; the remaining N10m - N2.5m = N7.5m is available for the bank to lend out."
+    },
+    {
+      "subject": "Economics",
+      "text": "Merchant/discount houses differ from ordinary commercial banks mainly in that they",
+      "options": [
+        "accept small personal savings deposits from the general public",
+        "issue the national currency",
+        "primarily provide short-term wholesale finance, bill discounting, and services to corporate clients rather than retail deposit-taking",
+        "are owned exclusively by the central bank"
+      ],
+      "correctIndex": 2,
+      "explanation": "Merchant and discount houses typically focus on short-term corporate and wholesale financial services (such as discounting bills), rather than accepting everyday retail deposits like commercial banks."
+    },
+    {
+      "subject": "Economics",
+      "text": "One of the main functions of a stock exchange in an economy is to",
+      "options": [
+        "facilitate the buying and selling of existing shares and help firms raise long-term capital by issuing new securities",
+        "act as the sole lender of last resort to commercial banks",
+        "collect value-added tax on behalf of government",
+        "set the country's minimum wage"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stock exchange provides a marketplace for trading existing securities and enables companies to raise long-term capital by issuing new shares or bonds to investors."
+    },
+    {
+      "subject": "Economics",
+      "text": "A tax system in which the rate of tax increases as a taxpayer's income increases is called",
+      "options": [
+        "a regressive tax",
+        "an indirect tax",
+        "a progressive tax",
+        "a proportional tax"
+      ],
+      "correctIndex": 2,
+      "explanation": "A progressive tax takes a larger percentage of income from higher-income earners than from lower-income earners, as the tax rate rises with income."
+    },
+    {
+      "subject": "Economics",
+      "text": "Under a progressive tax system, the first N300,000 of income is taxed at 10% and the next N200,000 at 20%. For a taxpayer earning N500,000, the total tax payable is",
+      "options": [
+        "N70,000",
+        "N100,000",
+        "N50,000",
+        "N30,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tax = (10% x 300,000) + (20% x 200,000) = 30,000 + 40,000 = N70,000."
+    },
+    {
+      "subject": "Economics",
+      "text": "An indirect tax, such as Value Added Tax (VAT), differs from a direct tax mainly because it",
+      "options": [
+        "is levied on goods and services and its burden can be shifted, at least partly, from the seller to the buyer",
+        "is only paid by government agencies",
+        "is levied directly on income and cannot be shifted to another party",
+        "can never be included in the price of a good"
+      ],
+      "correctIndex": 0,
+      "explanation": "Indirect taxes are imposed on transactions (goods/services), and sellers can often shift some or all of the tax burden onto buyers through higher prices, unlike direct taxes on income or wealth."
+    },
+    {
+      "subject": "Economics",
+      "text": "Adam Smith's canons (principles) of taxation include all of the following EXCEPT",
+      "options": [
+        "certainty",
+        "equity (ability to pay)",
+        "convenience of payment",
+        "maximisation of government secrecy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adam Smith's classical canons of taxation are equity, certainty, convenience, and economy; secrecy in government operations is not one of these recognised principles."
+    },
+    {
+      "subject": "Economics",
+      "text": "When the demand for a good is very inelastic, an indirect tax imposed on that good will most likely result in the tax burden falling mainly on",
+      "options": [
+        "consumers, since they are less responsive to the resulting price rise",
+        "no one, since inelastic goods cannot be taxed",
+        "producers only, regardless of demand elasticity",
+        "the government, since it must absorb the tax cost"
+      ],
+      "correctIndex": 0,
+      "explanation": "When demand is inelastic, consumers continue buying similar quantities even as price rises, allowing producers to pass most of the tax burden onto consumers through higher prices."
+    },
+    {
+      "subject": "Economics",
+      "text": "An expansionary fiscal policy, used to stimulate a sluggish economy, typically involves the government",
+      "options": [
+        "reducing the money supply through open market sales",
+        "raising interest rates sharply",
+        "increasing government spending and/or reducing taxes to boost aggregate demand",
+        "cutting government spending and raising taxes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Expansionary fiscal policy aims to boost aggregate demand and economic activity by increasing government expenditure and/or cutting taxes, unlike contractionary policy, which does the opposite."
+    },
+    {
+      "subject": "Economics",
+      "text": "A good is priced at N5,000 before tax, and VAT is charged at 7.5%. The total price the consumer pays, including VAT, is",
+      "options": [
+        "N5,750",
+        "N5,500",
+        "N5,075",
+        "N5,375"
+      ],
+      "correctIndex": 3,
+      "explanation": "VAT amount = 7.5% x 5,000 = N375; total price = 5,000 + 375 = N5,375."
+    },
+    {
+      "subject": "Economics",
+      "text": "Public debt owed by a government to lenders within its own country, denominated in local currency, is known as",
+      "options": [
+        "a trade deficit",
+        "internal (domestic) debt",
+        "external (foreign) debt",
+        "a balance of payments surplus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Internal (domestic) debt is owed to lenders within the country, usually in local currency, distinguishing it from external debt owed to foreign creditors or institutions."
+    },
+    {
+      "subject": "Economics",
+      "text": "Economic growth differs from economic development in that economic growth refers mainly to",
+      "options": [
+        "a quantitative increase in a country's real output (real GDP) over time, without necessarily improving welfare",
+        "the elimination of all forms of poverty",
+        "improvements in literacy, health, and income distribution",
+        "the balance of payments position of a country"
+      ],
+      "correctIndex": 0,
+      "explanation": "Economic growth is a narrower, quantitative measure (rise in real GDP/output), while economic development is a broader concept encompassing improvements in living standards, health, education, and equity."
+    },
+    {
+      "subject": "Economics",
+      "text": "Country A can use one unit of labour to produce 10 units of cloth or 5 units of wine (opportunity cost of 1 wine = 2 cloth). Country B can use one unit of labour to produce 6 units of cloth or 6 units of wine (opportunity cost of 1 wine = 1 cloth). Based on comparative advantage, Country B should specialise in",
+      "options": [
+        "cloth, since it has the lower opportunity cost in cloth",
+        "wine, since it has the lower opportunity cost of producing wine",
+        "both goods equally, since costs are identical",
+        "neither good, since it has no absolute advantage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Country B's opportunity cost of producing wine (1 cloth) is lower than Country A's (2 cloth), so B has a comparative advantage in wine and should specialise in it, leaving cloth to Country A."
+    },
+    {
+      "subject": "Economics",
+      "text": "The current account of a country's balance of payments primarily records",
+      "options": [
+        "only foreign exchange reserve movements",
+        "trade in goods and services, plus income and current transfers",
+        "only long-term capital investment flows into the country",
+        "the sale of government bonds to foreign investors"
+      ],
+      "correctIndex": 1,
+      "explanation": "The current account records trade in visible goods and invisible services, along with primary income (e.g., investment income) and current transfers, distinct from the capital/financial account, which records investment and asset flows."
+    },
+    {
+      "subject": "Economics",
+      "text": "A tariff differs from an import quota mainly in that a tariff",
+      "options": [
+        "bans the importation of a good entirely, unlike a quota",
+        "is a tax imposed on imported goods, while a quota is a direct physical limit on the quantity that may be imported",
+        "applies only to exported goods, not imports",
+        "is a physical limit on the quantity of a good that may be imported, while a quota is a tax"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tariff is a tax levied on imports (raising their price), whereas a quota directly restricts the physical quantity of a good that can be imported, regardless of price."
+    },
+    {
+      "subject": "Economics",
+      "text": "A country's export price index is 120 and its import price index is 100. Its terms of trade is",
+      "options": [
+        "83.3, indicating unfavourable terms of trade",
+        "120, indicating favourable (improved) terms of trade",
+        "20, indicating a trade deficit",
+        "100, indicating unchanged terms of trade"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terms of Trade = (Export Price Index / Import Price Index) x 100 = (120/100) x 100 = 120, a value above 100 indicating favourable terms of trade."
+    },
+    {
+      "subject": "Economics",
+      "text": "Devaluation of a currency differs from depreciation in that devaluation is",
+      "options": [
+        "a market-driven fall in currency value under a floating exchange rate system",
+        "always caused by inflation alone",
+        "only possible when a country has no central bank",
+        "a deliberate, official reduction in the value of a currency under a fixed exchange rate regime, while depreciation occurs automatically under a floating regime"
+      ],
+      "correctIndex": 3,
+      "explanation": "Devaluation is a deliberate policy action by the monetary authorities to lower a currency's fixed exchange rate value, whereas depreciation is a market-determined fall in value under a floating exchange rate system."
+    },
+    {
+      "subject": "Economics",
+      "text": "Compared to the IMF, which focuses on short-term monetary stability and balance of payments support, the World Bank primarily focuses on",
+      "options": [
+        "setting exchange rates for all its member countries",
+        "providing long-term loans and technical assistance for development projects in member countries",
+        "printing currency notes for developing nations",
+        "managing the day-to-day monetary policy of member states"
+      ],
+      "correctIndex": 1,
+      "explanation": "While the IMF addresses short-term balance of payments and monetary stability issues, the World Bank concentrates on financing long-term development projects such as infrastructure, health, and education."
+    },
+    {
+      "subject": "Economics",
+      "text": "Dumping, in international trade, refers to the practice of",
+      "options": [
+        "imposing high tariffs on all imported goods",
+        "a country refusing to trade with any other nation",
+        "banning the export of a particular good",
+        "a firm selling goods in a foreign market at a price below cost or below its home market price, often to eliminate competition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dumping occurs when a firm exports goods at prices below their cost of production or below the price charged domestically, often used strategically to undercut competitors in the foreign market."
+    },
+    {
+      "subject": "Economics",
+      "text": "Nigeria's post-independence National Development Plans were primarily designed to",
+      "options": [
+        "fix permanent prices for all goods and services",
+        "eliminate the need for any future economic planning",
+        "exclusively fund military expenditure",
+        "provide medium-term frameworks for guiding economic growth, resource allocation, and infrastructural development"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria's National Development Plans set medium-term goals and priorities to guide public investment, resource allocation, and structural transformation of the economy."
+    },
+    {
+      "subject": "Economics",
+      "text": "A persistent balance of payments deficit is most commonly financed by",
+      "options": [
+        "permanently banning all imports",
+        "drawing down foreign exchange reserves, borrowing from abroad, or securing IMF financial assistance",
+        "reducing the population through migration policy",
+        "increasing domestic tax rates on all citizens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Countries facing a balance of payments deficit typically finance the shortfall by depleting foreign reserves, taking on foreign loans, or seeking support from international bodies such as the IMF."
+    },
+    {
+      "subject": "Economics",
+      "text": "Third-degree price discrimination, commonly practised by monopolists, differs from first-degree price discrimination in that the seller",
+      "options": [
+        "refuses to sell to any group with elastic demand",
+        "charges a single uniform price to all consumers regardless of group",
+        "charges different prices to distinct identifiable groups of consumers (such as students versus adults) based on differing group elasticities of demand",
+        "charges every individual consumer their own exact maximum willingness to pay"
+      ],
+      "correctIndex": 2,
+      "explanation": "Third-degree price discrimination segments the market into identifiable groups with different price elasticities and charges each group a different price, unlike first-degree discrimination, which targets each individual consumer's exact willingness to pay."
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "subject": "Geography",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Geography",
+      "text": "On a topographical map, the scale expressed as '1 centimetre represents 1 kilometre' is an example of a",
+      "options": [
+        "linear (graphical) scale",
+        "representative fraction",
+        "vertical scale",
+        "statement scale"
+      ],
+      "correctIndex": 3,
+      "explanation": "A statement scale expresses the map-to-ground relationship in words, unlike a representative fraction which uses a ratio."
+    },
+    {
+      "subject": "Geography",
+      "text": "A scale expressed as a ratio, such as 1:50,000, with no units attached, is called a",
+      "options": [
+        "linear scale",
+        "representative fraction (R.F.)",
+        "statement scale",
+        "vertical exaggeration scale"
+      ],
+      "correctIndex": 1,
+      "explanation": "A representative fraction shows the ratio between map distance and ground distance, applicable regardless of the unit of measurement used."
+    },
+    {
+      "subject": "Geography",
+      "text": "A scale drawn as a line divided into units to allow direct measurement of distances on a map is called a",
+      "options": [
+        "representative fraction",
+        "statement scale",
+        "contour scale",
+        "linear (graphical) scale"
+      ],
+      "correctIndex": 3,
+      "explanation": "A linear scale is a drawn bar marked with distance units, allowing map users to measure ground distances directly using a ruler or divider."
+    },
+    {
+      "subject": "Geography",
+      "text": "If a map has a scale of 1:50,000, a distance of 4 centimetres on the map represents an actual ground distance of",
+      "options": [
+        "20 kilometres",
+        "4 kilometres",
+        "200 kilometres",
+        "2 kilometres"
+      ],
+      "correctIndex": 3,
+      "explanation": "4 cm x 50,000 = 200,000 cm = 2,000 metres = 2 kilometres on the ground."
+    },
+    {
+      "subject": "Geography",
+      "text": "The direction of a point on a map, measured clockwise from north and expressed in degrees, is called its",
+      "options": [
+        "contour interval",
+        "gradient",
+        "scale",
+        "bearing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bearing gives the precise direction to a point, measured in degrees clockwise from north (0°/360°)."
+    },
+    {
+      "subject": "Geography",
+      "text": "The imaginary lines on a topographical map joining points of equal height above sea level are called",
+      "options": [
+        "contour lines",
+        "isohyets",
+        "graticules",
+        "grid lines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contour lines represent equal elevation, allowing the shape and steepness of the land to be visualised on a flat map."
+    },
+    {
+      "subject": "Geography",
+      "text": "Where contour lines are drawn very close together on a map, the land they represent is",
+      "options": [
+        "gentle",
+        "steep",
+        "at sea level only",
+        "flat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Closely spaced contour lines indicate rapid changes in elevation over a short horizontal distance, representing steep slopes."
+    },
+    {
+      "subject": "Geography",
+      "text": "Where contour lines are widely spaced apart on a map, the land they represent is",
+      "options": [
+        "a vertical cliff",
+        "very steep",
+        "gentle (gradual) in slope",
+        "underwater"
+      ],
+      "correctIndex": 2,
+      "explanation": "Widely spaced contours indicate a gradual change in elevation, representing gently sloping terrain."
+    },
+    {
+      "subject": "Geography",
+      "text": "A steep, near-vertical rock face, often found at a coastline or valley edge, is best identified on a map by",
+      "options": [
+        "concentric circles far apart from each other",
+        "the complete absence of contour lines",
+        "widely spaced, evenly distributed contour lines",
+        "closely packed contour lines forming a near-continuous line"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cliff is shown where contour lines converge tightly, sometimes merging, indicating an almost vertical change in elevation."
+    },
+    {
+      "subject": "Geography",
+      "text": "A long, narrow depression, usually containing a river, and bounded by higher land on either side, is called a",
+      "options": [
+        "valley",
+        "ridge",
+        "spur",
+        "col"
+      ],
+      "correctIndex": 0,
+      "explanation": "A valley is a low-lying stretch of land between hills or mountains, typically formed by river erosion."
+    },
+    {
+      "subject": "Geography",
+      "text": "A narrow strip of high land projecting outward from a mountain or hill, often between two valleys, is called a",
+      "options": [
+        "spur",
+        "col",
+        "plain",
+        "valley"
+      ],
+      "correctIndex": 0,
+      "explanation": "A spur is a projecting ridge of higher ground extending from a main upland area, often separating two valleys."
+    },
+    {
+      "subject": "Geography",
+      "text": "An extensive area of flat or gently undulating low-lying land is called a",
+      "options": [
+        "plateau",
+        "plain",
+        "col",
+        "cliff"
+      ],
+      "correctIndex": 1,
+      "explanation": "A plain is a large area of relatively flat land at low elevation, often suited to agriculture and settlement."
+    },
+    {
+      "subject": "Geography",
+      "text": "An extensive, relatively flat area of land raised significantly above sea level, often with steep sides, is called a",
+      "options": [
+        "valley",
+        "col",
+        "plain",
+        "plateau"
+      ],
+      "correctIndex": 3,
+      "explanation": "A plateau is an elevated flatland, distinguished from a plain mainly by its higher elevation and often steep-sided edges."
+    },
+    {
+      "subject": "Geography",
+      "text": "A diagram showing the shape of the land surface along a straight line drawn across a map is called a",
+      "options": [
+        "contour map",
+        "cross-section",
+        "sketch map",
+        "choropleth map"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cross-section is constructed by plotting the elevations along a chosen line to reveal the profile of the terrain."
+    },
+    {
+      "subject": "Geography",
+      "text": "On a topographical map, settlements that cluster closely together around a central point, such as a market or road junction, are described as having a",
+      "options": [
+        "radial pattern only",
+        "linear settlement pattern",
+        "dispersed settlement pattern",
+        "nucleated settlement pattern"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nucleated settlements are tightly clustered around a focal point, unlike dispersed settlements which are spread out."
+    },
+    {
+      "subject": "Geography",
+      "text": "The shape and size of the Earth is best described as",
+      "options": [
+        "a flat disc",
+        "an irregular cube",
+        "a slightly flattened sphere (oblate spheroid)",
+        "a perfect sphere with no flattening"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Earth bulges slightly at the equator and is flattened at the poles due to its rotation, making it an oblate spheroid rather than a perfect sphere."
+    },
+    {
+      "subject": "Geography",
+      "text": "The spinning of the Earth on its own axis, completing one full turn approximately every 24 hours, is called",
+      "options": [
+        "revolution",
+        "declination",
+        "rotation",
+        "precession"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rotation is the Earth's spin on its axis, which causes the daily cycle of day and night."
+    },
+    {
+      "subject": "Geography",
+      "text": "The movement of the Earth around the Sun, taking approximately 365¼ days to complete one cycle, is called",
+      "options": [
+        "inclination",
+        "rotation",
+        "revolution",
+        "precession"
+      ],
+      "correctIndex": 2,
+      "explanation": "Revolution refers to the Earth's annual orbit around the Sun, which, combined with axial tilt, produces the seasons."
+    },
+    {
+      "subject": "Geography",
+      "text": "The alternation of day and night is directly caused by the Earth's",
+      "options": [
+        "rotation on its axis",
+        "tilt of 23.5 degrees alone",
+        "distance from the Moon",
+        "revolution around the Sun"
+      ],
+      "correctIndex": 0,
+      "explanation": "As the Earth rotates, different parts face the Sun (daytime) or away from it (nighttime), producing the day-night cycle."
+    },
+    {
+      "subject": "Geography",
+      "text": "The changing seasons experienced at different times of the year are mainly caused by the",
+      "options": [
+        "changing distance between the Earth and the Moon",
+        "tilt of the Earth's axis combined with its revolution around the Sun",
+        "Earth's rotation on its axis alone",
+        "changing speed of the Earth's rotation"
+      ],
+      "correctIndex": 1,
+      "explanation": "As the tilted Earth orbits the Sun, different hemispheres receive varying intensities of sunlight at different times of year, producing seasons."
+    },
+    {
+      "subject": "Geography",
+      "text": "The outermost, thin, solid layer of the Earth on which we live is called the",
+      "options": [
+        "crust (lithosphere)",
+        "core (barysphere)",
+        "atmosphere",
+        "mantle (mesosphere)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The crust, part of the lithosphere, is the Earth's outermost solid layer, relatively thin compared to the layers beneath it."
+    },
+    {
+      "subject": "Geography",
+      "text": "The thick layer of the Earth found between the crust and the core, composed of hot, semi-solid rock, is called the",
+      "options": [
+        "stratosphere",
+        "crust",
+        "core",
+        "mantle (mesosphere)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mantle lies beneath the crust and above the core, consisting of dense, hot rock that can flow slowly over long periods."
+    },
+    {
+      "subject": "Geography",
+      "text": "The innermost layer of the Earth, believed to consist mainly of iron and nickel, is called the",
+      "options": [
+        "mantle",
+        "troposphere",
+        "crust",
+        "core (barysphere)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The core, at the centre of the Earth, is composed largely of iron and nickel and is divided into a solid inner core and liquid outer core."
+    },
+    {
+      "subject": "Geography",
+      "text": "Rocks formed from the cooling and solidification of molten magma or lava are called",
+      "options": [
+        "metamorphic rocks",
+        "igneous rocks",
+        "organic rocks",
+        "sedimentary rocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Igneous rocks form directly from the cooling of magma (below ground) or lava (on the surface)."
+    },
+    {
+      "subject": "Geography",
+      "text": "Rocks formed from the compaction and cementation of layers of sediment over long periods are called",
+      "options": [
+        "igneous rocks",
+        "sedimentary rocks",
+        "metamorphic rocks",
+        "volcanic rocks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sedimentary rocks form as layers of eroded material accumulate and are compressed and cemented together over time."
+    },
+    {
+      "subject": "Geography",
+      "text": "Rocks that have been changed in structure or mineral composition by intense heat and/or pressure are called",
+      "options": [
+        "sedimentary rocks",
+        "igneous rocks",
+        "metamorphic rocks",
+        "extrusive rocks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metamorphic rocks form when existing rocks are transformed by heat, pressure, or chemically active fluids, without fully melting."
+    },
+    {
+      "subject": "Geography",
+      "text": "The bending or buckling of rock layers due to compressional earth movements is called",
+      "options": [
+        "folding",
+        "faulting",
+        "weathering",
+        "erosion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Folding occurs when horizontal compressional forces cause rock layers to bend, often producing mountain ranges."
+    },
+    {
+      "subject": "Geography",
+      "text": "A fracture in the Earth's crust along which rock masses have moved relative to one another is called a",
+      "options": [
+        "sill",
+        "fold",
+        "dyke",
+        "fault"
+      ],
+      "correctIndex": 3,
+      "explanation": "Faulting occurs when rock strata break and shift along a fracture line, often associated with earthquakes."
+    },
+    {
+      "subject": "Geography",
+      "text": "Sudden, violent shaking of the ground caused by the release of energy along a fault line is called",
+      "options": [
+        "a tsunami directly",
+        "a landslide",
+        "an earthquake",
+        "a volcano"
+      ],
+      "correctIndex": 2,
+      "explanation": "Earthquakes result from the sudden release of built-up stress along faults, generating seismic waves that shake the ground."
+    },
+    {
+      "subject": "Geography",
+      "text": "A sheet of igneous rock intruded parallel to existing rock layers underground is called a",
+      "options": [
+        "sill",
+        "crater",
+        "dyke",
+        "caldera"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sill is a horizontal (or near-horizontal) intrusion of magma that solidifies between existing rock layers."
+    },
+    {
+      "subject": "Geography",
+      "text": "A large, basin-shaped depression formed after a volcanic eruption or the collapse of a volcano's summit is called a",
+      "options": [
+        "caldera",
+        "crater",
+        "sill",
+        "dyke"
+      ],
+      "correctIndex": 0,
+      "explanation": "A caldera is a broad depression resulting from the collapse of land following a major eruption or emptying of a magma chamber."
+    },
+    {
+      "subject": "Geography",
+      "text": "The breakdown of rocks in situ through the mechanical action of temperature changes, frost, or plant roots, without chemical change, is called",
+      "options": [
+        "biological weathering only",
+        "chemical weathering",
+        "physical (mechanical) weathering",
+        "mass wasting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Physical weathering breaks rock into smaller fragments through mechanical processes, without altering its chemical composition."
+    },
+    {
+      "subject": "Geography",
+      "text": "The breakdown or decomposition of rocks through chemical reactions such as oxidation and carbonation is called",
+      "options": [
+        "erosion",
+        "chemical weathering",
+        "physical weathering",
+        "mass wasting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chemical weathering alters the mineral composition of rocks through reactions with water, oxygen, and carbon dioxide."
+    },
+    {
+      "subject": "Geography",
+      "text": "A rapid, sudden downward movement of a large mass of rock and soil down a slope is called a",
+      "options": [
+        "landslide",
+        "weathering",
+        "soil creep",
+        "deposition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Landslides involve the fast, often catastrophic, movement of large volumes of material downslope, usually triggered by heavy rain or instability."
+    },
+    {
+      "subject": "Geography",
+      "text": "The stage of a river's course characterised by rapid vertical erosion, waterfalls, and V-shaped valleys is called the",
+      "options": [
+        "estuarine stage",
+        "mature (middle) stage",
+        "youthful (upper) stage",
+        "old age (lower) stage"
+      ],
+      "correctIndex": 2,
+      "explanation": "In its upper (youthful) course, a river actively cuts downward, producing steep-sided V-shaped valleys and features like waterfalls and rapids."
+    },
+    {
+      "subject": "Geography",
+      "text": "A loop-shaped lake formed when a meander is cut off from the main river channel is called an",
+      "options": [
+        "oxbow lake",
+        "delta",
+        "estuary",
+        "gorge"
+      ],
+      "correctIndex": 0,
+      "explanation": "An oxbow lake forms when a river meander is bypassed and cut off, leaving a crescent-shaped body of standing water."
+    },
+    {
+      "subject": "Geography",
+      "text": "A landform created at a river's mouth where sediment is deposited as the river enters a sea or lake is called a",
+      "options": [
+        "oxbow lake",
+        "delta",
+        "gorge",
+        "waterfall"
+      ],
+      "correctIndex": 1,
+      "explanation": "A delta forms as a river loses velocity upon entering a larger body of water, depositing its sediment load in a fan-like or triangular shape."
+    },
+    {
+      "subject": "Geography",
+      "text": "Landforms produced when waves erode a coastline, such as cliffs and wave-cut platforms, result mainly from",
+      "options": [
+        "river erosion",
+        "glacial erosion",
+        "coastal (marine) erosion",
+        "wind erosion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Coastal erosion, driven by wave action, sculpts features such as cliffs, wave-cut platforms, caves, and arches along shorelines."
+    },
+    {
+      "subject": "Geography",
+      "text": "Landforms such as sand dunes and yardangs, common in arid regions, are shaped mainly by",
+      "options": [
+        "glacial deposition",
+        "river erosion",
+        "volcanic activity",
+        "wind erosion and deposition"
+      ],
+      "correctIndex": 3,
+      "explanation": "In deserts, wind is a dominant agent of erosion and deposition, sculpting features like sand dunes through the movement of loose sediment."
+    },
+    {
+      "subject": "Geography",
+      "text": "The degree of hotness or coldness of the atmosphere, measured using a thermometer, is called",
+      "options": [
+        "temperature",
+        "humidity",
+        "precipitation",
+        "pressure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Temperature measures the heat energy in the air and is a fundamental element of weather and climate."
+    },
+    {
+      "subject": "Geography",
+      "text": "The force exerted by the weight of the atmosphere on the Earth's surface, measured using a barometer, is called",
+      "options": [
+        "temperature",
+        "wind speed",
+        "atmospheric pressure",
+        "humidity"
+      ],
+      "correctIndex": 2,
+      "explanation": "Atmospheric pressure reflects the weight of the air above a given point, and its variations drive wind patterns."
+    },
+    {
+      "subject": "Geography",
+      "text": "The horizontal movement of air from areas of high pressure to areas of low pressure is called",
+      "options": [
+        "wind",
+        "insolation",
+        "humidity",
+        "precipitation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wind results from pressure differences in the atmosphere, with air flowing from high-pressure to low-pressure zones."
+    },
+    {
+      "subject": "Geography",
+      "text": "The amount of water vapour present in the air is called",
+      "options": [
+        "humidity",
+        "insolation",
+        "temperature",
+        "pressure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Humidity measures the moisture content of the air, which influences cloud formation and the likelihood of precipitation."
+    },
+    {
+      "subject": "Geography",
+      "text": "Water falling from the atmosphere to the Earth's surface in forms such as rain, snow, and hail is called",
+      "options": [
+        "humidity",
+        "condensation",
+        "evaporation",
+        "precipitation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Precipitation includes all forms of moisture that fall from clouds to the ground, driven by condensation processes in the atmosphere."
+    },
+    {
+      "subject": "Geography",
+      "text": "The weather instrument used to measure atmospheric temperature is the",
+      "options": [
+        "rain gauge",
+        "thermometer",
+        "anemometer",
+        "barometer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A thermometer measures the temperature of the air, typically housed in a shaded, ventilated enclosure called a Stevenson screen."
+    },
+    {
+      "subject": "Geography",
+      "text": "The weather instrument used to measure atmospheric pressure is the",
+      "options": [
+        "hygrometer",
+        "anemometer",
+        "thermometer",
+        "barometer"
+      ],
+      "correctIndex": 3,
+      "explanation": "A barometer measures the pressure exerted by the atmosphere, helping to forecast changes in weather."
+    },
+    {
+      "subject": "Geography",
+      "text": "The weather instrument used to measure wind speed is the",
+      "options": [
+        "anemometer",
+        "rain gauge",
+        "barometer",
+        "wind vane"
+      ],
+      "correctIndex": 0,
+      "explanation": "An anemometer measures the speed of the wind, typically using rotating cups exposed to the airflow."
+    },
+    {
+      "subject": "Geography",
+      "text": "The instrument used to indicate wind direction is the",
+      "options": [
+        "barometer",
+        "hygrometer",
+        "wind vane",
+        "anemometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A wind vane points in the direction from which the wind is blowing, showing wind direction rather than speed."
+    },
+    {
+      "subject": "Geography",
+      "text": "The instrument used to measure the amount of rainfall received at a location is the",
+      "options": [
+        "thermometer",
+        "rain gauge",
+        "barometer",
+        "anemometer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rain gauge collects and measures the depth of rainfall over a set period at a particular location."
+    },
+    {
+      "subject": "Geography",
+      "text": "The instrument used to measure atmospheric humidity is the",
+      "options": [
+        "barometer",
+        "hygrometer",
+        "anemometer",
+        "rain gauge"
+      ],
+      "correctIndex": 1,
+      "explanation": "A hygrometer measures the amount of water vapour (relative humidity) present in the air."
+    },
+    {
+      "subject": "Geography",
+      "text": "Weather instruments are typically placed in a white, louvred box mounted on a stand, known as a",
+      "options": [
+        "Stevenson screen",
+        "wind sock",
+        "weather balloon",
+        "rain gauge stand"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Stevenson screen shields instruments like thermometers from direct sunlight and precipitation while allowing free air circulation for accurate readings."
+    },
+    {
+      "subject": "Geography",
+      "text": "The hot, wet climate found near the equator, with high year-round temperatures and rainfall, is called the",
+      "options": [
+        "equatorial (tropical rainforest) climate",
+        "Mediterranean climate",
+        "hot desert climate",
+        "cool temperate climate"
+      ],
+      "correctIndex": 0,
+      "explanation": "The equatorial climate is characterised by consistently high temperatures and abundant rainfall throughout the year, supporting dense rainforest vegetation."
+    },
+    {
+      "subject": "Geography",
+      "text": "The hot, dry climate typically found in regions such as the Sahara, with very low and unreliable rainfall, is called the",
+      "options": [
+        "hot desert climate",
+        "tundra climate",
+        "temperate maritime climate",
+        "equatorial climate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot desert climates experience extremely low rainfall and large diurnal temperature ranges, supporting sparse desert vegetation."
+    },
+    {
+      "subject": "Geography",
+      "text": "A climatic zone experiencing moderate temperatures and rainfall spread across four distinct seasons is called a",
+      "options": [
+        "equatorial climate",
+        "polar climate",
+        "tropical climate",
+        "temperate climate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Temperate climates, found in the mid-latitudes, typically feature four seasons with moderate variations in temperature and precipitation."
+    },
+    {
+      "subject": "Geography",
+      "text": "A very cold climatic zone found near the poles, with extremely low temperatures and minimal precipitation, is called a",
+      "options": [
+        "equatorial climate",
+        "tropical climate",
+        "polar (cold) climate",
+        "temperate climate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Polar climates are characterised by long, extremely cold winters and short, cool summers, with vegetation limited mainly to mosses and lichens."
+    },
+    {
+      "subject": "Geography",
+      "text": "The dense forest vegetation found in areas of the equatorial climate, characterised by tall trees and multiple canopy layers, is called",
+      "options": [
+        "tropical rainforest",
+        "savanna grassland",
+        "desert vegetation",
+        "tundra vegetation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tropical rainforests thrive under the high rainfall and temperatures of equatorial regions, producing dense, multi-layered vegetation."
+    },
+    {
+      "subject": "Geography",
+      "text": "The vegetation zone characterised by grassland interspersed with scattered trees, common across much of West Africa between the forest and desert, is called",
+      "options": [
+        "temperate grassland",
+        "tundra",
+        "tropical rainforest",
+        "savanna"
+      ],
+      "correctIndex": 3,
+      "explanation": "The savanna is a transitional vegetation belt of grasses and scattered trees, adapted to a climate with distinct wet and dry seasons."
+    },
+    {
+      "subject": "Geography",
+      "text": "The vegetation type typical of hot desert regions, adapted to survive with very little water, includes plants such as",
+      "options": [
+        "tall broadleaf rainforest trees",
+        "mangrove swamp vegetation",
+        "cacti and other drought-resistant (xerophytic) plants",
+        "dense coniferous forest"
+      ],
+      "correctIndex": 2,
+      "explanation": "Desert vegetation consists mainly of xerophytes, plants specially adapted with features like thick stems and reduced leaves to conserve water."
+    },
+    {
+      "subject": "Geography",
+      "text": "The vegetation zone found in polar and sub-polar regions, consisting mainly of mosses, lichens, and low shrubs due to permanently frozen subsoil, is called the",
+      "options": [
+        "desert",
+        "tropical rainforest",
+        "savanna",
+        "tundra"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tundra vegetation is limited by extreme cold and permafrost, supporting only low-growing plants adapted to short growing seasons."
+    },
+    {
+      "subject": "Geography",
+      "text": "A key factor influencing the distribution of vegetation across the world is",
+      "options": [
+        "the number of rivers in a country",
+        "the size of a country's population",
+        "the colour of the local soil alone",
+        "climate, especially temperature and rainfall patterns"
+      ],
+      "correctIndex": 3,
+      "explanation": "Climate, particularly rainfall and temperature, is the primary control on which types of vegetation can grow in a given region."
+    },
+    {
+      "subject": "Geography",
+      "text": "The distinct layers of soil, visible when a vertical cut is made into the ground, are collectively called the",
+      "options": [
+        "soil profile",
+        "soil erosion pattern",
+        "soil texture chart",
+        "soil horizon map"
+      ],
+      "correctIndex": 0,
+      "explanation": "A soil profile shows the sequence of layers (horizons) that make up the soil, from the surface down to the parent rock."
+    },
+    {
+      "subject": "Geography",
+      "text": "The uppermost, most fertile layer of soil, rich in organic matter (humus), is called",
+      "options": [
+        "bedrock",
+        "parent rock",
+        "subsoil",
+        "topsoil"
+      ],
+      "correctIndex": 3,
+      "explanation": "Topsoil is the fertile surface layer where most plant roots and organic decomposition occur, making it critical for agriculture."
+    },
+    {
+      "subject": "Geography",
+      "text": "The removal of the fertile topsoil layer by the action of wind or water is called",
+      "options": [
+        "soil conservation",
+        "soil erosion",
+        "soil profile formation",
+        "soil fertility"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soil erosion strips away valuable topsoil, reducing agricultural productivity and often caused by deforestation, overgrazing, or poor farming practices."
+    },
+    {
+      "subject": "Geography",
+      "text": "A common method used to reduce soil erosion on farmland with sloping terrain is",
+      "options": [
+        "removal of all vegetation cover",
+        "complete deforestation of the area",
+        "terracing and contour ploughing",
+        "increasing the slope's steepness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Terracing and contour ploughing slow the flow of water down slopes, reducing the erosive power of surface runoff on farmland."
+    },
+    {
+      "subject": "Geography",
+      "text": "The general shape and features of the floor of the ocean, including ridges, trenches, and plains, is referred to as",
+      "options": [
+        "ocean floor configuration (bathymetry)",
+        "the coastal plain",
+        "the continental interior",
+        "the water cycle"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ocean floor configuration describes the relief of the seabed, including features such as mid-ocean ridges, abyssal plains, and deep trenches."
+    },
+    {
+      "subject": "Geography",
+      "text": "Large-scale, persistent movements of ocean water in a fairly constant direction are called",
+      "options": [
+        "waves",
+        "tsunamis",
+        "tides",
+        "ocean currents"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ocean currents are continuous, directed movements of seawater, driven by factors such as wind, temperature, and salinity differences."
+    },
+    {
+      "subject": "Geography",
+      "text": "Ocean currents that carry warm water from tropical regions toward higher latitudes are called",
+      "options": [
+        "longshore currents",
+        "tidal currents",
+        "warm currents",
+        "cold currents"
+      ],
+      "correctIndex": 2,
+      "explanation": "Warm currents originate near the equator and move warm water polewards, often raising coastal temperatures along their path."
+    },
+    {
+      "subject": "Geography",
+      "text": "Ocean currents that carry cold water from polar regions toward the tropics are called",
+      "options": [
+        "tidal currents",
+        "warm currents",
+        "cold currents",
+        "rip currents"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cold currents flow from higher latitudes toward the equator, often cooling coastal climates and contributing to desert formation nearby."
+    },
+    {
+      "subject": "Geography",
+      "text": "The Benguela Current, a cold ocean current flowing along the south-western coast of Africa, has the effect of",
+      "options": [
+        "reducing rainfall and contributing to desert conditions along the adjacent coast",
+        "increasing rainfall and creating tropical rainforest along the coast",
+        "causing frequent volcanic eruptions along the coast",
+        "raising coastal temperatures significantly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cold currents like the Benguela cool and stabilise the air above them, suppressing rainfall and helping to create arid coastal conditions, as seen near the Namib Desert."
+    },
+    {
+      "subject": "Geography",
+      "text": "The uneven distribution of the world's population, with dense clusters in some regions and sparse settlement in others, is best explained mainly by differences in",
+      "options": [
+        "the exact shape of a country's borders",
+        "climate, relief, soil fertility, and economic opportunities",
+        "the number of rivers with no other factor",
+        "the length of a country's coastline alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Population distribution is shaped by a combination of physical factors (climate, relief, soils) and human/economic factors (job opportunities, infrastructure)."
+    },
+    {
+      "subject": "Geography",
+      "text": "Regions with harsh climates, poor soils, or rugged relief, such as deserts and high mountains, typically have",
+      "options": [
+        "a population density equal to fertile plains",
+        "the highest population density in the world",
+        "very high population density",
+        "low population density"
+      ],
+      "correctIndex": 3,
+      "explanation": "Areas with challenging physical conditions for farming and settlement generally support fewer people, resulting in sparse population density."
+    },
+    {
+      "subject": "Geography",
+      "text": "Fertile river valleys and plains, such as the Nile Valley, typically have",
+      "options": [
+        "population density similar to deserts",
+        "high population density",
+        "no permanent settlements",
+        "very low population density"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fertile lowland areas with reliable water supply support intensive agriculture, attracting dense human settlement."
+    },
+    {
+      "subject": "Geography",
+      "text": "The movement of people from rural areas to urban centres in search of better economic opportunities is called",
+      "options": [
+        "rural-urban migration (rural-urban drift)",
+        "seasonal migration only",
+        "urban-rural migration",
+        "international migration only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rural-urban migration describes the widespread movement of people from the countryside to cities and towns, often driven by the search for jobs and services."
+    },
+    {
+      "subject": "Geography",
+      "text": "A major factor commonly pushing people to migrate from rural to urban areas in West Africa is",
+      "options": [
+        "limited job opportunities and poor social amenities in rural areas",
+        "an oversupply of social amenities in rural areas",
+        "abundant well-paid rural employment",
+        "the total absence of any cities to migrate to"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rural areas often lack sufficient employment, healthcare, and educational facilities, pushing residents toward cities in search of a better life."
+    },
+    {
+      "subject": "Geography",
+      "text": "Settlements whose main economic activities are farming, fishing, and other primary occupations are generally classified as",
+      "options": [
+        "rural settlements",
+        "port settlements only",
+        "industrial settlements only",
+        "urban settlements"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rural settlements are typically characterised by low population density and reliance on primary economic activities such as agriculture."
+    },
+    {
+      "subject": "Geography",
+      "text": "Settlements characterised by high population density, and dominated by commerce, industry, and administrative functions, are generally classified as",
+      "options": [
+        "pastoral settlements",
+        "nomadic settlements",
+        "urban settlements",
+        "rural settlements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Urban settlements (towns and cities) are marked by dense populations and a concentration of secondary and tertiary economic activities."
+    },
+    {
+      "subject": "Geography",
+      "text": "The type of shifting agriculture in which farmers clear and cultivate land for a few years before moving on to allow the land to regenerate is called",
+      "options": [
+        "pastoral nomadism",
+        "commercial plantation agriculture",
+        "shifting cultivation",
+        "sedentary farming"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shifting cultivation involves rotating farmland use, clearing new plots as older ones lose fertility, common in traditional tropical farming systems."
+    },
+    {
+      "subject": "Geography",
+      "text": "Farming carried out permanently on the same piece of land, often supported by fertilisers to maintain soil fertility, is called",
+      "options": [
+        "shifting cultivation",
+        "pastoral nomadism",
+        "transhumance",
+        "sedentary farming"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sedentary farming involves continuous cultivation of a fixed plot of land, relying on soil management techniques rather than relocating."
+    },
+    {
+      "subject": "Geography",
+      "text": "Large-scale, organised farming of a single cash crop, such as rubber or oil palm, mainly for export, is called",
+      "options": [
+        "shifting cultivation",
+        "pastoral nomadism",
+        "subsistence farming",
+        "commercial plantation agriculture"
+      ],
+      "correctIndex": 3,
+      "explanation": "Plantation agriculture involves large, often monoculture farms producing cash crops for sale, typically requiring significant capital investment."
+    },
+    {
+      "subject": "Geography",
+      "text": "A system of livestock rearing in which herders move their animals from place to place in search of pasture and water is called",
+      "options": [
+        "pastoral nomadism",
+        "sedentary farming",
+        "shifting cultivation",
+        "commercial plantation agriculture"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pastoral nomadism is common in semi-arid regions where herders must constantly relocate their livestock to find adequate grazing and water."
+    },
+    {
+      "subject": "Geography",
+      "text": "The exploitation of trees from natural or planted forests for timber and other wood products is called",
+      "options": [
+        "lumbering",
+        "shifting cultivation",
+        "pastoralism",
+        "commercial farming"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lumbering involves the felling, processing, and marketing of timber, an important economic activity in forested regions of West Africa."
+    },
+    {
+      "subject": "Geography",
+      "text": "A major problem associated with lumbering in West Africa is",
+      "options": [
+        "the complete absence of forest resources in the region",
+        "an oversupply of timber with no market demand",
+        "excessive government restriction preventing any logging",
+        "deforestation and loss of biodiversity from overexploitation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unsustainable logging practices in West Africa have contributed to significant deforestation, threatening biodiversity and forest-dependent livelihoods."
+    },
+    {
+      "subject": "Geography",
+      "text": "A key measure used to conserve forest resources exploited through lumbering is",
+      "options": [
+        "clearing all forests for farmland immediately",
+        "increasing uncontrolled logging activity",
+        "reforestation (replanting trees) and controlled/selective logging",
+        "banning all use of timber products permanently"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sustainable forestry practices, such as replanting trees and limiting harvest rates, help conserve forest resources for future use."
+    },
+    {
+      "subject": "Geography",
+      "text": "Nigeria's most economically significant mineral resource, extracted mainly from the Niger Delta region, is",
+      "options": [
+        "crude oil (petroleum)",
+        "iron ore",
+        "gold",
+        "coal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crude oil, concentrated in the Niger Delta, is Nigeria's most valuable mineral resource and dominant export earner."
+    },
+    {
+      "subject": "Geography",
+      "text": "A major coal mining town historically associated with Nigeria's coal industry is",
+      "options": [
+        "Kano",
+        "Jos",
+        "Enugu",
+        "Sokoto"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enugu became a major centre of Nigeria's coal mining industry, which was historically significant before the rise of petroleum."
+    },
+    {
+      "subject": "Geography",
+      "text": "A prominent location for tin mining on the Jos Plateau in Nigeria is closely associated with the town of",
+      "options": [
+        "Jos",
+        "Sokoto",
+        "Enugu",
+        "Warri"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Jos Plateau has long been associated with Nigeria's tin mining industry, alongside associated columbite deposits."
+    },
+    {
+      "subject": "Geography",
+      "text": "Iron ore deposits significant to Nigeria's steel industry are notably found around",
+      "options": [
+        "Sokoto",
+        "Jos",
+        "Enugu",
+        "Itakpe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Itakpe in Kogi State hosts major iron ore deposits, feeding Nigeria's steel production efforts, including the Ajaokuta Steel Complex."
+    },
+    {
+      "subject": "Geography",
+      "text": "Bauxite, an ore used mainly in the production of aluminium, is significant in some West African countries, most notably",
+      "options": [
+        "Senegal",
+        "Guinea",
+        "Niger",
+        "Chad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Guinea holds some of the world's largest bauxite reserves, making it a major global supplier of this aluminium ore."
+    },
+    {
+      "subject": "Geography",
+      "text": "Gold mining has long been economically significant in parts of West Africa, particularly in",
+      "options": [
+        "Niger",
+        "Chad",
+        "Ghana",
+        "Cape Verde"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ghana, historically known as the 'Gold Coast', has a long tradition of gold mining that remains economically important today."
+    },
+    {
+      "subject": "Geography",
+      "text": "The location of industries close to their sources of raw materials, markets, or labour supply is influenced mainly by",
+      "options": [
+        "industrial location factors such as proximity to raw materials, markets, transport, and power supply",
+        "the colour of a country's flag",
+        "the length of a country's history",
+        "the number of political parties in a country"
+      ],
+      "correctIndex": 0,
+      "explanation": "Industries typically locate where costs are minimised and access to inputs, markets, and infrastructure is most favourable."
+    },
+    {
+      "subject": "Geography",
+      "text": "A major challenge facing manufacturing industries in many developing West African countries is",
+      "options": [
+        "inadequate infrastructure, such as unreliable power supply and poor transport networks",
+        "excessive and cheap electricity supply",
+        "an oversupply of skilled labour with no jobs available",
+        "too much government investment in industry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Poor infrastructure, especially unreliable electricity and transport, significantly raises production costs and limits industrial growth in the region."
+    },
+    {
+      "subject": "Geography",
+      "text": "The mode of transport generally considered most flexible for door-to-door movement of goods and people over short to medium distances is",
+      "options": [
+        "road transport",
+        "water transport",
+        "rail transport",
+        "air transport"
+      ],
+      "correctIndex": 0,
+      "explanation": "Road transport offers the greatest flexibility, reaching destinations that other transport modes, such as rail or water, cannot access directly."
+    },
+    {
+      "subject": "Geography",
+      "text": "The mode of transport generally most economical for moving heavy, bulky goods over long distances within a country is",
+      "options": [
+        "road transport for very long hauls",
+        "pipeline transport for solid goods",
+        "rail transport",
+        "air transport"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rail transport can move large volumes of heavy freight efficiently over long overland distances, often more cheaply than road transport."
+    },
+    {
+      "subject": "Geography",
+      "text": "The mode of transport most suitable for moving goods and passengers between countries separated by large bodies of water is",
+      "options": [
+        "rail transport",
+        "water (sea) transport",
+        "pipeline transport",
+        "road transport"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sea transport remains the dominant means of moving bulky goods internationally, especially between countries separated by oceans."
+    },
+    {
+      "subject": "Geography",
+      "text": "West Africa's physical setting is generally characterised by",
+      "options": [
+        "the complete absence of any river systems",
+        "a landscape consisting entirely of high fold mountains",
+        "a continuous ice sheet covering the entire region",
+        "a mix of coastal plains, plateaus, and river basins such as the Niger and Senegal basins"
+      ],
+      "correctIndex": 3,
+      "explanation": "West Africa's relief includes coastal lowlands, extensive plateaus, and major river systems like the Niger, shaping its human and economic geography."
+    },
+    {
+      "subject": "Geography",
+      "text": "The River Niger, one of West Africa's most important rivers, generally flows through countries including",
+      "options": [
+        "Egypt and Sudan only",
+        "South Africa and Namibia only",
+        "Kenya, Tanzania, and Uganda only",
+        "Guinea, Mali, Niger, and Nigeria"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Niger River originates in Guinea and flows through Mali, Niger, and Nigeria before emptying into the Gulf of Guinea via its delta."
+    },
+    {
+      "subject": "Geography",
+      "text": "A major environmental challenge facing the Sahel region on the edge of the Sahara Desert is",
+      "options": [
+        "excessive year-round rainfall causing constant flooding",
+        "permanent snow cover across the region",
+        "desertification, caused by overgrazing, deforestation, and low rainfall",
+        "an overabundance of forest cover with no farmland"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Sahel faces desertification as unsustainable land use combines with low and unreliable rainfall, gradually turning productive land into desert."
+    },
+    {
+      "subject": "Geography",
+      "text": "A significant environmental problem in the Niger Delta region of Nigeria, linked to petroleum extraction, is",
+      "options": [
+        "excessive cold temperatures damaging crops",
+        "oil pollution affecting land, water, and local livelihoods",
+        "widespread desertification of the delta",
+        "a complete absence of any industrial activity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oil spills and gas flaring associated with petroleum extraction in the Niger Delta have caused significant environmental damage, harming farming and fishing livelihoods."
+    },
+    {
+      "subject": "Geography",
+      "text": "Regional cooperation among West African states, particularly through bodies such as ECOWAS, is aimed mainly at",
+      "options": [
+        "encouraging countries to withdraw from all international cooperation",
+        "restricting all trade and movement between member countries",
+        "eliminating the need for any national governments",
+        "promoting economic integration, free trade, and regional stability"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regional bodies like ECOWAS seek to foster cooperation on trade, security, and development among West African nations."
+    },
+    {
+      "subject": "Geography",
+      "text": "Coastal flooding is an increasing environmental challenge for many West African cities mainly because of",
+      "options": [
+        "a combination of rising sea levels, heavy rainfall, and poor urban drainage systems",
+        "a permanent decrease in regional rainfall",
+        "the complete absence of any coastline in the region",
+        "excessive snowfall along the coast"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coastal West African cities face growing flood risk due to a mix of climatic factors, such as heavy rains and rising seas, combined with inadequate drainage infrastructure."
+    }
+  ]
+}

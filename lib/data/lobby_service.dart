@@ -23,10 +23,20 @@ class LobbyService {
   CollectionReference<Map<String, dynamic>> _members(String school) =>
       _firestore.collection('lobbies').doc(school).collection('members');
 
-  CollectionReference<Map<String, dynamic>> get _challenges => _firestore.collection('challenges');
+  CollectionReference<Map<String, dynamic>> get _challenges =>
+      _firestore.collection('challenges');
 
-  Future<void> heartbeat({required String school, required String uid, required String name}) {
-    final presence = LobbyPresence(uid: uid, name: name, school: school, lastActiveAt: DateTime.now());
+  Future<void> heartbeat({
+    required String school,
+    required String uid,
+    required String name,
+  }) {
+    final presence = LobbyPresence(
+      uid: uid,
+      name: name,
+      school: school,
+      lastActiveAt: DateTime.now(),
+    );
     return _members(school).doc(uid).set(presence.toJson());
   }
 
@@ -34,12 +44,18 @@ class LobbyService {
     return _members(school).doc(uid).delete();
   }
 
-  Stream<List<LobbyPresence>> watchOnline({required String school, required String selfUid}) {
+  Stream<List<LobbyPresence>> watchOnline({
+    required String school,
+    required String selfUid,
+  }) {
     return _members(school).snapshots().map((snapshot) {
       final cutoff = DateTime.now().subtract(onlineWindow);
       return snapshot.docs
           .map((doc) => LobbyPresence.fromJson(doc.data()))
-          .where((member) => member.uid != selfUid && member.lastActiveAt.isAfter(cutoff))
+          .where(
+            (member) =>
+                member.uid != selfUid && member.lastActiveAt.isAfter(cutoff),
+          )
           .toList();
     });
   }
@@ -77,15 +93,22 @@ class LobbyService {
         .where('status', isEqualTo: ChallengeStatus.pending.name)
         .snapshots()
         .map(
-          (snapshot) => snapshot.docs.map((doc) => Challenge.fromJson(doc.data())).toList()
-            ..sort((a, b) => b.createdAt.compareTo(a.createdAt)),
+          (snapshot) =>
+              snapshot.docs
+                  .map((doc) => Challenge.fromJson(doc.data()))
+                  .toList()
+                ..sort((a, b) => b.createdAt.compareTo(a.createdAt)),
         );
   }
 
-  Future<void> respond({required String challengeId, required ChallengeStatus status, String? duelId}) {
+  Future<void> respond({
+    required String challengeId,
+    required ChallengeStatus status,
+    String? duelId,
+  }) {
     return _challenges.doc(challengeId).update({
       'status': status.name,
-      if (duelId != null) 'duelId': duelId,
+      'duelId': ?duelId,
     });
   }
 
@@ -93,8 +116,9 @@ class LobbyService {
   /// recipient accepts/declines, since [watchIncomingChallenges] only
   /// surfaces challenges to the recipient).
   Stream<Challenge?> watchChallenge(String challengeId) {
-    return _challenges.doc(challengeId).snapshots().map(
-          (doc) => doc.exists ? Challenge.fromJson(doc.data()!) : null,
-        );
+    return _challenges
+        .doc(challengeId)
+        .snapshots()
+        .map((doc) => doc.exists ? Challenge.fromJson(doc.data()!) : null);
   }
 }

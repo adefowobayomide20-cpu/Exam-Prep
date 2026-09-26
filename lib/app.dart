@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart' show kIsWeb;
 
 import 'data/app_data_store.dart';
 import 'data/onboarding_store.dart';
 import 'features/auth/auth_gate.dart';
 import 'features/auth/loading_screen.dart';
 import 'features/onboarding/onboarding_page.dart';
+import 'features/legal/account_deletion_request_page.dart';
 import 'navigation/root_navigator.dart';
 import 'theme/app_theme.dart';
 import 'widgets/pwa_install_overlay.dart';
@@ -89,13 +91,14 @@ class _ExamCoachAppState extends State<ExamCoachApp> {
 
   @override
   Widget build(BuildContext context) {
+    final isAccountDeletionRequest = kIsWeb && Uri.base.path == '/account-deletion-request';
     return MaterialApp(
       navigatorKey: rootNavigatorKey,
       title: 'Exam Coach',
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
       themeMode: _themeMode,
-      home: const _AppEntryPoint(),
+      home: isAccountDeletionRequest ? const AccountDeletionRequestPage() : const _AppEntryPoint(),
       builder: (context, child) => PwaInstallOverlay(child: child ?? const SizedBox.shrink()),
     );
   }

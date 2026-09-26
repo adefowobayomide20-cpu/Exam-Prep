@@ -1,0 +1,1206 @@
+{
+  "subject": "Home Management",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "Home Management",
+      "text": "The step in the home management process that involves deciding in advance what needs to be done to achieve a family goal is called",
+      "options": [
+        "controlling",
+        "evaluating",
+        "planning",
+        "organising"
+      ],
+      "correctIndex": 2,
+      "explanation": "Planning is the initial step in the management process, involving deciding in advance what actions are needed to achieve a desired goal."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The step in the home management process that involves arranging resources and assigning tasks to carry out a plan is called",
+      "options": [
+        "organising",
+        "evaluating",
+        "planning",
+        "controlling"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organising arranges the necessary resources, people, and tasks in a logical structure needed to carry out a plan effectively."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The step in the home management process that involves actually carrying out planned tasks is called",
+      "options": [
+        "executing (implementing)",
+        "planning",
+        "controlling",
+        "evaluating"
+      ],
+      "correctIndex": 0,
+      "explanation": "Executing (implementing) is the stage where the planned and organised activities are actually put into action."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The step in the home management process that involves monitoring activities and adjusting them as needed to stay on track is called",
+      "options": [
+        "planning",
+        "controlling",
+        "evaluating",
+        "organising"
+      ],
+      "correctIndex": 1,
+      "explanation": "Controlling involves monitoring ongoing activities against the original plan, making adjustments as needed to keep things on track."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The step in the home management process that involves assessing whether a goal was successfully achieved, and identifying lessons for future planning, is called",
+      "options": [
+        "planning",
+        "organising",
+        "evaluating",
+        "controlling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Evaluating reviews the outcome of a completed task or goal, assessing success and identifying lessons to improve future planning and execution."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Family resources that include time, energy, skills, intelligence, and attitude are classified as",
+      "options": [
+        "financial resources only",
+        "human resources",
+        "community resources only",
+        "material resources"
+      ],
+      "correctIndex": 1,
+      "explanation": "Human resources encompass the personal attributes and capacities individuals bring to managing the home, such as time, energy, skills, and attitude."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Family resources that include money, property, and communal facilities are classified as",
+      "options": [
+        "material resources",
+        "human resources",
+        "attitude resources only",
+        "time resources only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Material resources include tangible assets such as money, property, equipment, and community facilities available to a family."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Time management in the home is important mainly because time is a resource that",
+      "options": [
+        "has no effect on the achievement of family goals",
+        "can always be purchased in unlimited quantities",
+        "is identical in value for every task, regardless of priority",
+        "cannot be stored, replaced, or recovered once it has passed"
+      ],
+      "correctIndex": 3,
+      "explanation": "Time is a uniquely limited resource that, once passed, cannot be stored or recovered, making its careful management essential to achieving family goals."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A technique used to reduce unnecessary effort and time spent on household tasks, often by rearranging tools or combining steps, is called",
+      "options": [
+        "ergonomics only",
+        "financial planning",
+        "work simplification",
+        "fatigue management only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work simplification involves analysing and streamlining household tasks to reduce wasted time, effort, and motion."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The study of designing tasks, tools, and environments to fit the physical capabilities of the person doing the work is called",
+      "options": [
+        "work simplification only",
+        "ergonomics",
+        "fatigue management only",
+        "budgeting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ergonomics focuses on designing tasks and equipment to suit the physical needs and capabilities of the person performing them, reducing strain and injury risk."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Managing the onset of tiredness during household tasks, such as through proper posture and scheduled breaks, is called",
+      "options": [
+        "budgeting",
+        "ergonomics only",
+        "fatigue management",
+        "work simplification only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fatigue management involves strategies such as proper posture, task rotation, and scheduled rest breaks to reduce and manage tiredness during work."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A schedule that allocates time appropriately across work, rest, and leisure activities throughout the day is called a",
+      "options": [
+        "consumer report",
+        "balanced daily work schedule",
+        "family budget",
+        "house plan"
+      ],
+      "correctIndex": 1,
+      "explanation": "A balanced daily work schedule allocates appropriate time to work, rest, and leisure, helping to prevent overwork and burnout."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Family income received directly in the form of wages, salaries, or business profits is classified as",
+      "options": [
+        "net income only",
+        "gross income only",
+        "indirect income",
+        "direct income"
+      ],
+      "correctIndex": 3,
+      "explanation": "Direct income refers to money received directly, such as wages and salaries, as opposed to indirect income received in other forms, such as benefits."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Family income received in forms other than direct money payments, such as free housing or subsidised meals, is classified as",
+      "options": [
+        "direct income",
+        "gross income only",
+        "indirect income",
+        "net income only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indirect income includes non-cash benefits, such as free accommodation or subsidised services, that contribute to a family's overall economic wellbeing."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family's total income before any deductions, such as taxes, are made is called its",
+      "options": [
+        "indirect income only",
+        "net income",
+        "disposable income only",
+        "gross income"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gross income represents total earnings before any deductions, such as taxes or other withholdings, are subtracted."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family's income remaining after all necessary deductions, such as taxes, have been subtracted is called its",
+      "options": [
+        "direct income only",
+        "net income",
+        "indirect income only",
+        "gross income"
+      ],
+      "correctIndex": 1,
+      "explanation": "Net income is the amount remaining after deductions like taxes have been subtracted from gross income, representing what is actually available for spending or saving."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A financial plan that outlines expected income and planned expenditure over a specific period is called a",
+      "options": [
+        "house plan",
+        "consumer report",
+        "ledger",
+        "budget"
+      ],
+      "correctIndex": 3,
+      "explanation": "A budget is a financial plan estimating expected income and allocating planned expenditure over a given period, helping guide spending decisions."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A record used to systematically track and record a family's actual income and expenses over time is called an",
+      "options": [
+        "accounting ledger",
+        "house plan",
+        "care label",
+        "advertisement"
+      ],
+      "correctIndex": 0,
+      "explanation": "An accounting ledger provides an organised record of actual income and expenditure, helping families monitor their finances against their budget."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Setting aside a portion of income for future use, rather than spending it immediately, is called",
+      "options": [
+        "consumer advocacy",
+        "budgeting only",
+        "work simplification",
+        "saving"
+      ],
+      "correctIndex": 3,
+      "explanation": "Saving involves deliberately setting aside income for future needs or goals, rather than spending it all immediately."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Putting money into an asset, such as property or shares, with the expectation of future financial growth is called",
+      "options": [
+        "budgeting only",
+        "direct income",
+        "investment",
+        "saving only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Investment involves committing money to an asset with the goal of generating future returns or growth, distinct from simple saving."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A common channel used by families to save money regularly while earning modest interest is a",
+      "options": [
+        "spending all income immediately with no savings plan",
+        "keeping all cash uninvested at home indefinitely",
+        "savings account with a bank",
+        "unregistered informal lending scheme with no records"
+      ],
+      "correctIndex": 2,
+      "explanation": "A bank savings account provides a secure channel for regularly setting aside money while earning some interest over time."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A traditional cooperative savings arrangement in which members contribute a fixed amount regularly, with each member taking turns to receive the collected sum, is often called a",
+      "options": [
+        "corporate share issue only",
+        "thrift and savings (esusu/ajo) scheme",
+        "insurance policy only",
+        "government bond only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traditional thrift and savings schemes (such as esusu or ajo) allow members to pool regular contributions, with each member taking turns to receive the accumulated sum."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key benefit of preparing a written family budget is that it helps",
+      "options": [
+        "replace the need for any family income at all",
+        "prevent overspending by planning expenditure against expected income",
+        "guarantee unlimited spending regardless of income",
+        "eliminate the need to track any expenses"
+      ],
+      "correctIndex": 1,
+      "explanation": "A written budget helps families plan spending realistically against expected income, reducing the risk of overspending."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family's fixed expenses, such as rent or loan repayments, are best described as costs that",
+      "options": [
+        "are entirely optional and can be skipped freely",
+        "remain the same each period, regardless of changes in usage or consumption",
+        "occur only once in a family's lifetime",
+        "vary significantly from month to month with usage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fixed expenses, such as rent or loan repayments, remain constant each period, unlike variable expenses which fluctuate with usage or consumption."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family's variable expenses, such as food or utility bills, are best described as costs that",
+      "options": [
+        "remain exactly the same amount every single period",
+        "can fluctuate from period to period depending on usage or need",
+        "are always higher than fixed expenses in every family",
+        "never need to be included in a budget"
+      ],
+      "correctIndex": 1,
+      "explanation": "Variable expenses change from period to period based on actual usage or need, unlike fixed expenses which remain constant."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key step in effective time management for household tasks is to",
+      "options": [
+        "complete tasks in a completely random order",
+        "prioritise tasks according to their urgency and importance",
+        "always complete the least important tasks first",
+        "avoid any form of planning or scheduling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Effective time management involves prioritising tasks based on their urgency and importance, ensuring critical tasks are completed first."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Delegating household tasks among family members is a management technique used mainly to",
+      "options": [
+        "eliminate the need for any task completion at all",
+        "share the workload and develop responsibility among family members",
+        "concentrate all tasks on a single family member exclusively",
+        "create unnecessary conflict within the family"
+      ],
+      "correctIndex": 1,
+      "explanation": "Delegating tasks distributes the household workload more evenly and helps develop a sense of responsibility among family members."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family's intelligence and skills, considered part of its human resources, can be developed through",
+      "options": [
+        "complete inactivity and avoidance of new challenges",
+        "ignoring opportunities for learning entirely",
+        "education, training, and practical experience",
+        "relying solely on inherited traits with no further development"
+      ],
+      "correctIndex": 2,
+      "explanation": "Human resources such as intelligence and skills can be actively developed and enhanced through education, training, and practical experience over time."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A positive attitude toward household responsibilities is considered a valuable human resource mainly because it",
+      "options": [
+        "guarantees financial success regardless of effort",
+        "improves motivation and the overall efficiency of completing tasks",
+        "has no effect on how tasks are completed",
+        "only matters for tasks performed outside the home"
+      ],
+      "correctIndex": 1,
+      "explanation": "A positive attitude improves motivation and can significantly enhance the efficiency and quality of how household tasks are carried out."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Community facilities, such as public libraries, health centres, and recreational parks, are considered part of a family's",
+      "options": [
+        "material resources",
+        "indirect income only",
+        "human resources only",
+        "direct income only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Community facilities represent material resources that a family can access and use to support its overall wellbeing, alongside personally owned property."
+    },
+    {
+      "subject": "Home Management",
+      "text": "An accounting ledger used in home management typically records",
+      "options": [
+        "advertisements viewed by family members",
+        "dates, descriptions, and amounts of income and expenditure",
+        "only the family's long-term investment goals",
+        "personal opinions about spending habits, with no figures"
+      ],
+      "correctIndex": 1,
+      "explanation": "A home accounting ledger systematically records the dates, descriptions, and amounts of both income received and expenses incurred."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key reason for regularly reviewing and evaluating a family's budget is to",
+      "options": [
+        "avoid any changes to spending habits, regardless of outcomes",
+        "identify areas of overspending and adjust future financial plans accordingly",
+        "guarantee that no adjustments will ever be needed",
+        "eliminate the need for future budgeting entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regularly reviewing a budget helps identify overspending or shortfalls, allowing families to make informed adjustments to future financial plans."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Effective family financial planning generally considers both",
+      "options": [
+        "only short-term needs, with no consideration of the future",
+        "short-term needs and long-term goals, such as education or retirement savings",
+        "only long-term goals, with no attention to immediate needs",
+        "neither short-term nor long-term financial considerations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sound financial planning balances immediate short-term needs with longer-term goals, such as saving for children's education or retirement."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Wise purchasing behaviour generally involves consumers",
+      "options": [
+        "comparing prices, quality, and value before making a purchase decision",
+        "ignoring product labels and advertisements entirely",
+        "purchasing based purely on advertising claims without verification",
+        "buying the first available item regardless of price or quality"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wise purchasing involves carefully comparing available options for price, quality, and overall value before committing to a purchase."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Consumer protection agencies exist mainly to",
+      "options": [
+        "eliminate competition between different businesses",
+        "prevent consumers from making any purchases at all",
+        "safeguard buyers from exploitation, unsafe products, and unfair trade practices",
+        "increase the profit margins of manufacturers exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consumer protection agencies exist to protect buyers from exploitation, unsafe goods, and unfair or deceptive trade practices."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The Nigerian regulatory agency primarily responsible for the safety and quality of food and drugs is",
+      "options": [
+        "INEC",
+        "CBN",
+        "NAFDAC",
+        "SON"
+      ],
+      "correctIndex": 2,
+      "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates the safety and quality of food, drugs, and related products in Nigeria."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The Nigerian regulatory agency primarily responsible for setting and enforcing general product quality standards is",
+      "options": [
+        "INEC",
+        "SON (Standards Organisation of Nigeria)",
+        "NAFDAC",
+        "CBN"
+      ],
+      "correctIndex": 1,
+      "explanation": "SON develops and enforces quality standards for products manufactured or sold in Nigeria, helping protect consumers from substandard goods."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Reading and understanding product labels before purchase helps consumers mainly to",
+      "options": [
+        "increase the price paid for the product",
+        "make informed decisions about ingredients, quality, and safety",
+        "avoid comparing products with one another",
+        "ignore all information about the product entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Product labels provide important information about ingredients, usage instructions, and safety, helping consumers make informed purchasing decisions."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Advertisements should generally be evaluated by consumers with a degree of",
+      "options": [
+        "complete, unquestioning trust in every claim made",
+        "total disregard, without ever considering the product advertised",
+        "indifference to the accuracy of any information presented",
+        "critical judgement, verifying claims rather than accepting them uncritically"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wise consumers approach advertisements critically, verifying claims through independent research rather than accepting marketing statements at face value."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key factor to consider when choosing a house to live in is its",
+      "options": [
+        "colour of the exterior paint alone",
+        "the number of neighbouring houses only",
+        "location, structural condition, and cost relative to the family's budget",
+        "the brand of the front door alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Key considerations in choosing a house include its location (proximity to work, schools, amenities), structural soundness, and affordability."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A house plan is best described as a",
+      "options": [
+        "record of the house's purchase price only",
+        "list of building materials used only",
+        "schedule of house maintenance tasks only",
+        "scaled drawing showing the layout of rooms and spaces within a building"
+      ],
+      "correctIndex": 3,
+      "explanation": "A house plan is a scaled architectural drawing illustrating the arrangement and dimensions of rooms and spaces within a building."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key principle of interior design concerned with how furniture, walls, and open spaces are arranged within a room is called",
+      "options": [
+        "space allocation",
+        "ventilation only",
+        "lighting only",
+        "colour selection only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Space allocation considers how furniture and open areas are arranged within a room to optimise function, flow, and comfort."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key principle of interior design concerned with choosing hues that create a desired mood or complement a room's function is called",
+      "options": [
+        "furniture arrangement only",
+        "ventilation only",
+        "space allocation only",
+        "colour selection"
+      ],
+      "correctIndex": 3,
+      "explanation": "Colour selection involves choosing hues that create a desired atmosphere and complement the intended use of a room."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key principle of interior design concerned with positioning furniture to balance function, traffic flow, and appearance is called",
+      "options": [
+        "space allocation only",
+        "furniture arrangement",
+        "lighting only",
+        "colour selection only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Furniture arrangement considers how pieces are positioned to support the room's function, allow comfortable movement, and create visual balance."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key principle of interior design concerned with the natural or artificial illumination provided within a room is called",
+      "options": [
+        "lighting",
+        "colour selection only",
+        "ventilation only",
+        "space allocation only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lighting design considers both natural and artificial illumination sources, affecting a room's mood, function, and visual comfort."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key principle of interior design concerned with the movement of fresh air through a room, important for comfort and health, is called",
+      "options": [
+        "furniture arrangement only",
+        "ventilation",
+        "colour selection only",
+        "lighting only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ventilation ensures adequate fresh air circulation within a room, important for both comfort and healthy indoor air quality."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Items such as curtains, cushions, and rugs, used to add comfort and decorative appeal to a room, are collectively known as",
+      "options": [
+        "hard furnishings only",
+        "structural fittings only",
+        "ironmongery",
+        "soft furnishings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soft furnishings, such as curtains, cushions, and rugs, add comfort, texture, and decorative appeal to interior spaces."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Before purchasing a refrigerator, an important consideration is its",
+      "options": [
+        "brand name alone, regardless of features",
+        "energy efficiency and storage capacity relative to family needs",
+        "weight alone, regardless of capacity",
+        "exterior colour alone, regardless of function"
+      ],
+      "correctIndex": 1,
+      "explanation": "Energy efficiency and appropriate storage capacity are key practical considerations when selecting a refrigerator suited to a family's needs."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key safety practice when using a gas cooker at home is to",
+      "options": [
+        "regularly check for gas leaks and ensure proper ventilation",
+        "store the cooker in an unventilated, sealed room",
+        "ignore the smell of gas, assuming it is not dangerous",
+        "leave the gas supply valve permanently open when not cooking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Regularly checking for leaks and maintaining good ventilation are essential safety practices for households using gas cookers."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key maintenance practice for extending the life of a washing machine is to",
+      "options": [
+        "ignore all manufacturer guidelines",
+        "leave it permanently connected to water even when not in use, with no supervision",
+        "avoid overloading it and follow the manufacturer's care instructions",
+        "always overload it to save time on multiple loads"
+      ],
+      "correctIndex": 2,
+      "explanation": "Avoiding overloading and following manufacturer guidelines helps extend the working life and performance of a washing machine."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Small kitchen utensils, such as knives and graters, should generally be",
+      "options": [
+        "stored loosely mixed together with no organisation",
+        "cleaned, dried, and stored safely after each use",
+        "left exposed to moisture indefinitely",
+        "left wet and unwashed after use"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proper cleaning, drying, and safe storage of small kitchen utensils after use helps maintain hygiene and prevent accidents or damage."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A major factor influencing the overall cost of building or purchasing a house is",
+      "options": [
+        "the season in which the family plans to move in",
+        "its location and the quality of materials used in construction",
+        "the number of family members who will visit occasionally",
+        "the colour of the surrounding neighbourhood's houses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Location and the quality of construction materials are major factors influencing the overall cost of a house."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Understanding a product's warranty before purchase helps a consumer mainly by",
+      "options": [
+        "guaranteeing the product will never develop any fault",
+        "eliminating the need to keep the purchase receipt",
+        "clarifying what repairs or replacements are covered if the product fails",
+        "reducing the actual purchase price of the item"
+      ],
+      "correctIndex": 2,
+      "explanation": "A warranty specifies what repairs, replacements, or remedies are available if a product develops a fault, helping consumers understand their protections before a fault occurs."
+    },
+    {
+      "subject": "Home Management",
+      "text": "One of the basic rights of a consumer is the right to",
+      "options": [
+        "safety, ensuring products purchased do not pose unreasonable harm",
+        "purchase any product regardless of its safety record",
+        "be denied any information about a product before purchase",
+        "receive false or misleading information from sellers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The right to safety is a fundamental consumer right, protecting buyers from products that could cause unreasonable harm."
+    },
+    {
+      "subject": "Home Management",
+      "text": "One of the basic rights of a consumer is the right to",
+      "options": [
+        "be denied any choice among available products",
+        "be informed, receiving accurate information needed to make a wise purchasing decision",
+        "be charged prices with no relation to product value",
+        "be deliberately misled by sellers regarding product quality"
+      ],
+      "correctIndex": 1,
+      "explanation": "The right to be informed ensures consumers receive accurate, adequate information to make well-considered purchasing decisions."
+    },
+    {
+      "subject": "Home Management",
+      "text": "One of the basic responsibilities of a consumer is to",
+      "options": [
+        "use products safely and according to the manufacturer's instructions",
+        "deliberately misuse products without any consequence",
+        "ignore all safety instructions provided with a product",
+        "avoid ever reporting faulty or unsafe products"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consumers share responsibility for using products safely and correctly, following manufacturer instructions to avoid harm or misuse."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key reason to keep receipts after making a purchase is to",
+      "options": [
+        "provide proof of purchase for warranty claims, returns, or exchanges",
+        "prevent any future returns or exchanges from being processed",
+        "increase the price of the item retroactively",
+        "eliminate the need for any consumer protection at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "Keeping receipts provides essential proof of purchase, often required to process warranty claims, returns, or exchanges."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Comparing unit prices (cost per standard quantity) when shopping helps consumers to",
+      "options": [
+        "avoid comparing any products before purchase",
+        "always choose the most expensive option available",
+        "identify the most economical option among different package sizes or brands",
+        "ignore price differences between similar products"
+      ],
+      "correctIndex": 2,
+      "explanation": "Comparing unit prices allows consumers to accurately identify the most economical choice, even when comparing different package sizes or brands."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key factor to consider regarding a house's location is its",
+      "options": [
+        "proximity to essential amenities such as schools, markets, and healthcare facilities",
+        "isolation from any form of community or infrastructure",
+        "distance from all forms of transportation",
+        "complete lack of access to water or electricity"
+      ],
+      "correctIndex": 0,
+      "explanation": "A house's proximity to essential amenities like schools, markets, and healthcare significantly affects its convenience and suitability for a family."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Before purchasing land or a house, verifying legal ownership documents is important mainly to",
+      "options": [
+        "guarantee immediate resale value regardless of condition",
+        "increase the total cost of the transaction unnecessarily",
+        "eliminate the need for any future documentation",
+        "avoid disputes over rightful ownership in the future"
+      ],
+      "correctIndex": 3,
+      "explanation": "Verifying legal ownership documents before purchase helps prevent future disputes over rightful ownership of the property."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A house's structural integrity refers mainly to",
+      "options": [
+        "the style of furniture placed within it",
+        "the colour scheme used for interior decoration",
+        "the soundness and safety of its physical construction",
+        "the number of visitors it typically receives"
+      ],
+      "correctIndex": 2,
+      "explanation": "Structural integrity concerns the physical soundness and safety of a building's construction, a critical factor when choosing a house."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Natural lighting in a room, provided through windows, is generally preferred where possible mainly because it",
+      "options": [
+        "has no effect on the room's atmosphere",
+        "reduces reliance on artificial lighting and can improve mood and wellbeing",
+        "eliminates the need for any ventilation",
+        "always increases household electricity costs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natural lighting reduces the need for artificial light sources and can positively affect mood and general wellbeing within a home."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Selecting furniture appropriate to the size of a room is important mainly to",
+      "options": [
+        "ensure the room is always completely empty",
+        "avoid overcrowding and maintain comfortable movement within the space",
+        "guarantee that furniture never matches the room's colour scheme",
+        "eliminate the need for any furniture arrangement planning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Appropriately sized furniture prevents overcrowding, maintaining comfortable movement and a balanced appearance within a room."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A well-designed kitchen layout in a home should ideally",
+      "options": [
+        "support an efficient workflow between storage, preparation, and cooking areas",
+        "combine sleeping and cooking areas into a single undivided space",
+        "eliminate the need for any storage space",
+        "position all equipment far from any workflow logic"
+      ],
+      "correctIndex": 0,
+      "explanation": "An effective kitchen layout, similar to the culinary work triangle principle, supports smooth movement and workflow between storage, preparation, and cooking areas."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Before purchasing a gas cooker for the home, an important safety consideration is",
+      "options": [
+        "choosing the cheapest option regardless of safety features",
+        "ignoring any certification or safety standard entirely",
+        "verifying that it meets recognised safety standards and has functioning safety features",
+        "assuming all cookers are equally safe regardless of brand"
+      ],
+      "correctIndex": 2,
+      "explanation": "Verifying that a gas cooker meets recognised safety standards helps ensure safer operation and reduces the risk of accidents in the home."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Regular servicing and cleaning of major household appliances, such as refrigerators and cookers, helps to",
+      "options": [
+        "shorten their working lifespan intentionally",
+        "eliminate the need for any future maintenance",
+        "extend their working lifespan and maintain efficient performance",
+        "increase the risk of malfunction over time"
+      ],
+      "correctIndex": 2,
+      "explanation": "Regular servicing and cleaning helps extend the working lifespan of household appliances and keeps them operating efficiently."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family structure consisting of parents and their children living together, without other relatives, is called a",
+      "options": [
+        "blended family",
+        "extended family",
+        "single-parent family only",
+        "nuclear family"
+      ],
+      "correctIndex": 3,
+      "explanation": "A nuclear family consists of parents and their children living as a single household unit, distinct from extended family arrangements."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family structure that includes parents, children, and other relatives such as grandparents, uncles, or aunts living together or closely connected, is called an",
+      "options": [
+        "blended family",
+        "extended family",
+        "nuclear family",
+        "single-parent family only"
+      ],
+      "correctIndex": 1,
+      "explanation": "An extended family includes additional relatives beyond parents and children, such as grandparents or other relatives, often living together or maintaining close ties."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family structure formed when parents with children from previous relationships combine to form a new family unit is called a",
+      "options": [
+        "blended family",
+        "nuclear family",
+        "single-parent family only",
+        "extended family only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A blended family forms when parents, each potentially bringing children from previous relationships, unite to create a new combined family unit."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Within a household, the role of providing financial support, guidance, and protection is traditionally associated with",
+      "options": [
+        "parents (or guardians) as heads of the household",
+        "no one in particular, as roles are never defined",
+        "distant relatives with no household ties",
+        "young children exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parents or guardians traditionally hold primary responsibility for providing financial support, guidance, and protection within a household, though roles can vary by family."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Proper disposal of solid waste in the home, such as regular refuse collection and appropriate bins, is important mainly to",
+      "options": [
+        "prevent the spread of disease and maintain a clean, healthy environment",
+        "attract pests and rodents intentionally",
+        "have no effect on household health at all",
+        "increase the accumulation of waste around the home"
+      ],
+      "correctIndex": 0,
+      "explanation": "Proper solid waste disposal prevents the buildup of refuse that can attract pests and spread disease, supporting a clean, healthy home environment."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Proper disposal of liquid waste, such as through appropriate drainage systems, is important mainly to",
+      "options": [
+        "increase the risk of water contamination intentionally",
+        "eliminate the need for any water supply system",
+        "prevent contamination of water sources and reduce breeding grounds for disease vectors",
+        "have no impact on public health"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proper liquid waste disposal prevents contamination of clean water sources and reduces breeding grounds for disease-carrying insects like mosquitoes."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Access to a clean, safe water supply within the home is essential mainly for",
+      "options": [
+        "drinking, cooking, and hygiene, preventing waterborne diseases",
+        "increasing household expenses unnecessarily",
+        "no significant health-related purpose",
+        "decorative purposes only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clean water is essential for safe drinking, cooking, and hygiene practices, directly helping to prevent waterborne diseases within the household."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Effective pest and rodent control in the home is important mainly to",
+      "options": [
+        "have no bearing on household health or safety",
+        "encourage the growth of pest populations",
+        "increase food contamination risks intentionally",
+        "prevent damage to property and reduce the risk of disease transmission"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pests and rodents can damage property and carry diseases, making effective control measures important for maintaining a safe, healthy home."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Basic home first-aid nursing skills, such as treating minor cuts and burns, are important mainly to",
+      "options": [
+        "provide immediate care for minor injuries before further medical attention, if needed",
+        "worsen minor injuries intentionally",
+        "have no practical benefit within the household",
+        "replace the need for professional medical care in all situations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Basic first-aid skills allow household members to provide immediate, appropriate care for minor injuries, and to stabilise more serious situations before professional help arrives."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Planning a hospitality event, such as a family celebration, generally involves considering",
+      "options": [
+        "no advance preparation of any kind",
+        "ignoring the preferences and needs of guests entirely",
+        "the guest list, menu, venue, and budget in advance",
+        "inviting guests without any consideration of numbers or space"
+      ],
+      "correctIndex": 2,
+      "explanation": "Effective event planning considers key factors such as the guest list, menu, venue, and budget well in advance of the occasion."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A formal table setting typically includes",
+      "options": [
+        "only a single plate with no other place settings",
+        "no defined arrangement at all",
+        "identical arrangements regardless of the meal being served",
+        "a defined arrangement of cutlery, glassware, and dishware according to the courses to be served"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formal table settings follow established conventions for arranging cutlery, glassware, and dishware, often varying according to the specific courses to be served."
+    },
+    {
+      "subject": "Home Management",
+      "text": "An informal table setting, compared to a formal one, is generally",
+      "options": [
+        "used exclusively for large, ceremonial banquets",
+        "identical in every respect to a formal table setting",
+        "more elaborate and rigidly structured than a formal setting",
+        "simpler and more relaxed, with fewer pieces of cutlery and less rigid arrangement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Informal table settings are generally simpler and more relaxed than formal settings, using fewer utensils and less rigid arrangement."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Good serving etiquette when hosting guests generally includes",
+      "options": [
+        "serving food from the left and clearing plates from the right, or following consistent local convention",
+        "ignoring guests' dietary preferences entirely",
+        "serving the host before any guests, in every situation",
+        "serving food in a completely random and inconsistent manner"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traditional Western serving etiquette generally follows serving from the left and clearing from the right, though the key principle is consistent, considerate practice."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Good social manners during a shared meal generally include",
+      "options": [
+        "ignoring other guests entirely throughout the meal",
+        "leaving the table abruptly without any acknowledgement",
+        "speaking with a full mouth as a sign of enjoyment",
+        "polite conversation, appropriate table manners, and consideration for other guests"
+      ],
+      "correctIndex": 3,
+      "explanation": "Good social manners at a shared meal include polite conversation, proper table manners, and general consideration and courtesy toward other guests."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key consideration when planning the menu for a hospitality event is",
+      "options": [
+        "preparing only foods the host personally dislikes",
+        "the dietary preferences, restrictions, and number of guests attending",
+        "selecting a menu with no regard for the number of attendees",
+        "ignoring guests' preferences entirely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Effective menu planning takes into account guests' dietary preferences, restrictions, and the total number of people attending the event."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key advantage of the nuclear family structure is that it",
+      "options": [
+        "allows for closer, more direct supervision of children by their immediate parents",
+        "always includes numerous extended relatives living together",
+        "eliminates the need for any parental responsibility",
+        "guarantees greater financial resources than any other family type"
+      ],
+      "correctIndex": 0,
+      "explanation": "The nuclear family structure often allows for closer, more direct parental supervision and attention, given its smaller, more immediate household unit."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key advantage of the extended family structure is that it",
+      "options": [
+        "provides additional support, such as childcare and shared resources, from wider family members",
+        "guarantees there will be no family conflict of any kind",
+        "always eliminates the need for any parental responsibility",
+        "excludes grandparents and other relatives from any involvement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Extended family structures often provide valuable additional support, such as shared childcare responsibilities and pooled resources among relatives."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Within a household, the role of children generally includes",
+      "options": [
+        "having no responsibilities of any kind within the home",
+        "making all major financial decisions for the family",
+        "assisting with age-appropriate chores and respecting household rules",
+        "being solely responsible for the family's income"
+      ],
+      "correctIndex": 2,
+      "explanation": "Children typically contribute to household life through age-appropriate chores and by respecting the rules and structure set within the family."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Good sanitation practices in the home include",
+      "options": [
+        "allowing waste to accumulate indefinitely",
+        "contaminating water sources intentionally",
+        "avoiding any form of regular cleaning",
+        "regular cleaning, proper waste disposal, and maintaining clean water sources"
+      ],
+      "correctIndex": 3,
+      "explanation": "Good sanitation combines regular cleaning, proper waste disposal, and protection of clean water sources to maintain a healthy home environment."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A soakaway pit, used in some home sanitation systems, functions mainly to",
+      "options": [
+        "generate electricity for the home",
+        "store clean drinking water for household use",
+        "allow wastewater to gradually disperse and filter into the surrounding soil",
+        "act as the primary cooking area of the home"
+      ],
+      "correctIndex": 2,
+      "explanation": "A soakaway pit allows treated wastewater to disperse gradually into the surrounding soil, a common feature of some home sanitation systems."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A basic home first-aid kit should generally include items such as",
+      "options": [
+        "only sharp tools with no protective supplies",
+        "antiseptic, bandages, and adhesive plasters",
+        "no supplies at all, relying solely on professional help",
+        "expired medications only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A well-stocked basic first-aid kit typically includes antiseptic, bandages, and adhesive plasters, among other essential supplies for treating minor injuries."
+    },
+    {
+      "subject": "Home Management",
+      "text": "When treating a minor cut at home, the first step generally recommended is to",
+      "options": [
+        "apply an unclean cloth directly to the wound",
+        "clean the wound and stop any bleeding using gentle pressure",
+        "ignore the wound completely without any treatment",
+        "avoid any form of first aid regardless of severity"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a minor cut, the recommended first step is to clean the wound and apply gentle pressure to control any bleeding, before further care such as bandaging."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A well-planned family celebration, such as a birthday or naming ceremony, typically requires advance consideration of",
+      "options": [
+        "no planning at all, relying entirely on spontaneous decisions",
+        "excluding any consideration of cost",
+        "the budget, guest list, venue, and required materials",
+        "ignoring the preferences of family members entirely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Successful family celebrations require advance planning across several areas, including budget, guest list, venue, and materials needed."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Proper etiquette when receiving guests in the home generally includes",
+      "options": [
+        "greeting them warmly and ensuring their comfort",
+        "showing open hostility toward invited guests",
+        "ignoring guests upon their arrival",
+        "leaving guests unattended throughout their visit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Good hospitality etiquette begins with a warm greeting and continues with attentiveness to guests' comfort throughout their visit."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A napkin at a formal table setting is generally placed",
+      "options": [
+        "underneath the tablecloth, out of sight",
+        "to the left of the forks, or on the centre of the plate",
+        "inside a closed drawer during the meal",
+        "directly on the floor beside the chair"
+      ],
+      "correctIndex": 1,
+      "explanation": "In formal table settings, the napkin is conventionally placed either to the left of the forks or folded on the centre of the plate."
+    },
+    {
+      "subject": "Home Management",
+      "text": "At a formal dinner, cutlery is generally used",
+      "options": [
+        "from the plate outward, in reverse of the conventional order",
+        "using only one utensil throughout the entire meal",
+        "in any random order, with no defined sequence",
+        "from the outside in, working toward the plate as each course is served"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formal dining etiquette conventionally uses cutlery from the outside in, with each utensil corresponding to a specific course as the meal progresses."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A key aspect of good hospitality when serving guests with dietary restrictions is to",
+      "options": [
+        "ask about their needs in advance and accommodate them where possible",
+        "ignore any dietary restrictions entirely",
+        "assume all guests share identical dietary preferences",
+        "serve only foods that conflict with their known restrictions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Good hospitality involves proactively asking about guests' dietary needs in advance and accommodating them wherever reasonably possible."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The primary function of the family as a social unit includes",
+      "options": [
+        "isolating its members from all social interaction",
+        "eliminating any responsibility for child development",
+        "providing emotional support, socialisation, and care for its members",
+        "providing no economic or emotional function whatsoever"
+      ],
+      "correctIndex": 2,
+      "explanation": "Families serve fundamental social functions, including providing emotional support, socialisation, and care for their members throughout life."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Regular health check-ups for family members are important mainly to",
+      "options": [
+        "increase household expenses without any real benefit",
+        "detect potential health issues early and maintain overall wellbeing",
+        "have no bearing on a family's overall wellbeing",
+        "replace the need for good sanitation practices"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regular health check-ups help detect potential health issues early, supporting the overall health and wellbeing of family members."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Adequate home ventilation contributes to family health mainly by",
+      "options": [
+        "increasing indoor pollutant levels intentionally",
+        "having no effect on indoor air quality",
+        "eliminating the need for any fresh air circulation",
+        "reducing the buildup of indoor pollutants and improving air quality"
+      ],
+      "correctIndex": 3,
+      "explanation": "Good ventilation reduces the buildup of indoor pollutants and stale air, contributing to better indoor air quality and family health."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A well-organised host, when planning a hospitality event, should ideally prepare a",
+      "options": [
+        "single, vague idea with no concrete details",
+        "plan finalised only after the event has already begun",
+        "list of tasks with no consideration of time constraints",
+        "checklist of tasks and a realistic timeline leading up to the event"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective event planning benefits from a clear checklist of tasks and a realistic timeline, ensuring all preparations are completed in good time."
+    },
+    {
+      "subject": "Home Management",
+      "text": "Understanding basic social manners, such as saying 'please' and 'thank you', contributes to",
+      "options": [
+        "increased conflict between family members and guests",
+        "positive social relationships and mutual respect among family and guests",
+        "no meaningful effect on social relationships",
+        "unnecessary formality with no real social benefit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Basic social manners, such as courteous expressions, help build positive relationships and demonstrate mutual respect among family members and guests."
+    },
+    {
+      "subject": "Home Management",
+      "text": "The way household chores are distributed among family members can significantly affect",
+      "options": [
+        "family harmony and each member's sense of shared responsibility",
+        "only the family's financial situation, with no social impact",
+        "nothing of significance within the family dynamic",
+        "only the physical appearance of the home, with no other effects"
+      ],
+      "correctIndex": 0,
+      "explanation": "How chores are distributed can meaningfully affect family harmony and how responsible each member feels for the household's overall functioning."
+    },
+    {
+      "subject": "Home Management",
+      "text": "A family's approach to conflict resolution significantly affects",
+      "options": [
+        "nothing related to household functioning",
+        "only the physical cleanliness of the home",
+        "only the family's financial planning process",
+        "the overall emotional wellbeing and stability of the household"
+      ],
+      "correctIndex": 3,
+      "explanation": "How a family resolves conflict has a significant impact on the emotional wellbeing and overall stability of the household."
+    }
+  ]
+}

@@ -1,0 +1,1206 @@
+{
+  "subject": "Principles of Accounts",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which branch of accounting is primarily concerned with providing cost information to help management control operations and make decisions?",
+      "options": [
+        "Cost accounting",
+        "Public sector accounting",
+        "Financial accounting",
+        "Tax accounting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cost accounting focuses on capturing, analysing, and reporting the cost of producing goods or services to aid managerial planning and control."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Auditing, as a branch of accounting, is best described as the",
+      "options": [
+        "independent examination and verification of a business's financial statements and records",
+        "preparation of a company's annual budget",
+        "day-to-day recording of cash transactions only",
+        "computation of a firm's cost of production"
+      ],
+      "correctIndex": 0,
+      "explanation": "Auditing involves an independent professional examining financial records to express an opinion on whether they present a true and fair view."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following best distinguishes financial accounting from management accounting?",
+      "options": [
+        "Management accounting deals only with cash while financial accounting deals only with credit",
+        "Financial accounting is mainly for external users while management accounting is mainly for internal users",
+        "Financial accounting ignores profit while management accounting focuses only on profit",
+        "Financial accounting is optional while management accounting is compulsory by law"
+      ],
+      "correctIndex": 1,
+      "explanation": "Financial accounting produces statutory reports for shareholders, creditors and regulators, whereas management accounting produces internal reports tailored for planning and decision-making by management."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A qualified accountant who independently reports on whether a company's financial statements show a true and fair view is called a(n)",
+      "options": [
+        "bookkeeper",
+        "storekeeper",
+        "auditor",
+        "cashier"
+      ],
+      "correctIndex": 2,
+      "explanation": "An auditor is engaged specifically to give an independent opinion on the fairness and accuracy of financial statements."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of these is NOT normally regarded as a function of accounting?",
+      "options": [
+        "Recording financial transactions",
+        "Manufacturing and packaging of goods for sale",
+        "Communicating financial results to users",
+        "Interpreting financial information for decision-making"
+      ],
+      "correctIndex": 1,
+      "explanation": "Manufacturing and packaging are production activities, not accounting functions; accounting records, classifies, summarises, communicates and interprets financial data."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The main advantage of maintaining proper accounting records for a small business is that they",
+      "options": [
+        "eliminate the need to pay any form of tax",
+        "automatically increase the business's sales revenue",
+        "provide a reliable basis for measuring profit or loss and the financial position of the business",
+        "guarantee that the business will never make a loss"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proper records allow the owner and other stakeholders to accurately determine how much profit was made and what the business owns and owes."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Government accounting differs from private-sector accounting mainly because government accounting",
+      "options": [
+        "is concerned solely with maximising shareholder returns",
+        "is prepared only once every ten years",
+        "emphasises compliance with budgetary appropriations and public accountability rather than profit measurement",
+        "does not require any form of record keeping"
+      ],
+      "correctIndex": 2,
+      "explanation": "Public sector accounting focuses on how public funds were budgeted for and spent, stressing accountability rather than profitability."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trader who buys a delivery van for personal family use but records it as a business asset has violated the",
+      "options": [
+        "materiality concept",
+        "business entity concept",
+        "matching concept",
+        "going concern concept"
+      ],
+      "correctIndex": 1,
+      "explanation": "The business entity concept requires that only transactions belonging to the business, not the owner's personal transactions, be recorded in the business's books."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The matching (accruals) concept requires that expenses be",
+      "options": [
+        "matched against the revenue of the following accounting period",
+        "matched against the revenue they helped to generate within the same accounting period",
+        "recorded only when they are eventually paid for in cash",
+        "ignored if they were incurred in a previous accounting period"
+      ],
+      "correctIndex": 1,
+      "explanation": "The matching concept ensures that expenses incurred in earning a period's revenue are recognised in that same period, giving a true picture of profit."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Depreciating a non-current asset over its useful life rather than writing it off entirely in the year of purchase is an application of the",
+      "options": [
+        "money measurement concept",
+        "realisation concept",
+        "prudence concept alone",
+        "going concern and matching concepts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Depreciation spreads the cost of an asset over the periods that benefit from its use, which assumes the business will continue operating (going concern) and matches the cost to the revenue it helps generate."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Under the money measurement concept, which of the following would NOT be recorded in a firm's accounts?",
+      "options": [
+        "Cash sales of N50,000",
+        "Purchase of furniture for N80,000",
+        "A bank loan of N1,000,000",
+        "The excellent morale and skill of the workforce"
+      ],
+      "correctIndex": 3,
+      "explanation": "Only items that can be expressed reliably in monetary terms are recorded; qualitative factors like staff morale, however important, cannot be objectively measured in money."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The realisation concept states that revenue should be recognised when",
+      "options": [
+        "the goods are merely ordered by a customer",
+        "goods or services have been supplied and legal title has passed to the buyer",
+        "cash is eventually received from the customer, however long that takes",
+        "an invoice is only drafted but not yet sent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Revenue is realised, and therefore recognised, once the sale has actually taken place and ownership has effectively transferred to the buyer, not merely when cash changes hands."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A firm charges depreciation on its machinery using the straight-line method every year without changing the method. This best illustrates the",
+      "options": [
+        "dual aspect concept",
+        "prudence concept",
+        "money measurement concept",
+        "consistency concept"
+      ],
+      "correctIndex": 3,
+      "explanation": "Applying the same depreciation method year after year keeps financial statements comparable over time, which is the essence of the consistency concept."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Valuing closing inventory at the lower of cost and net realisable value is a direct application of the",
+      "options": [
+        "going concern concept",
+        "consistency concept",
+        "entity concept",
+        "prudence concept"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prudence requires that assets, including inventory, are not overstated, so inventory is valued at whichever is lower between its cost and what it can actually be sold for."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Ignoring a stapler costing N200 as an expense immediately rather than capitalising and depreciating it over several years illustrates the",
+      "options": [
+        "accrual concept",
+        "business entity concept",
+        "materiality concept",
+        "realisation concept"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cost and effort of tracking such a trivial item as a depreciable asset outweighs any benefit, so materiality permits it to be expensed immediately."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A business starts with capital of N800,000. During the year it earns a profit of N150,000 and the owner withdraws N60,000 as drawings. What is the closing capital?",
+      "options": [
+        "N800,000",
+        "N1,010,000",
+        "N890,000",
+        "N710,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Closing capital = Opening capital + Profit - Drawings = 800,000 + 150,000 - 60,000 = N890,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A business has capital of N450,000 and total liabilities of N320,000. What is the value of its total assets?",
+      "options": [
+        "N450,000",
+        "N770,000",
+        "N130,000",
+        "N320,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since Assets = Capital + Liabilities, Assets = 450,000 + 320,000 = N770,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "If total assets are N960,000 and capital is N610,000, total liabilities must be",
+      "options": [
+        "N610,000",
+        "N350,000",
+        "N1,570,000",
+        "N960,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liabilities = Assets - Capital = 960,000 - 610,000 = N350,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A business purchases stock on credit from a supplier. This transaction is recorded as a",
+      "options": [
+        "debit to the sales account and a credit to the supplier's account",
+        "debit to the cash account and a credit to the purchases account",
+        "debit to the supplier's account and a credit to the purchases account",
+        "debit to the purchases account and a credit to the supplier's (creditor's) account"
+      ],
+      "correctIndex": 3,
+      "explanation": "Purchases (an expense/asset increase for goods bought) is debited, while the supplier's account (a liability) is credited since the amount is now owed."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "An increase in an expense account is normally recorded as a",
+      "options": [
+        "a reduction in the liability account",
+        "debit",
+        "credit",
+        "neither debit nor credit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Expenses reduce capital (owner's equity), and since capital increases are credits, expense increases are recorded as debits."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "An increase in a revenue (income) account is normally recorded as a",
+      "options": [
+        "an adjustment to the asset account only",
+        "debit",
+        "credit",
+        "neither debit nor credit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Revenue increases capital, and since capital increases are credited, revenue increases are also recorded as credits."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The owner of a business withdraws N40,000 cash for personal use. The correct double entry is to",
+      "options": [
+        "debit the capital account and credit the drawings account",
+        "debit the drawings account and credit the cash account",
+        "debit the drawings account and credit the capital account",
+        "debit the cash account and credit the drawings account"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drawings increase (reducing capital indirectly), so drawings is debited, while cash decreases, so cash is credited."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A business's total assets increased by N90,000 and its total liabilities increased by N25,000 during the year, with no additional capital introduced and no drawings taken. What was the profit or loss for the year?",
+      "options": [
+        "Profit of N115,000",
+        "Loss of N65,000",
+        "Loss of N25,000",
+        "Profit of N65,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Change in capital = Change in assets - Change in liabilities = 90,000 - 25,000 = N65,000 increase; since no capital was introduced and no drawings taken, this increase in capital represents profit."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trader's capital was N600,000 at the start of the year and N705,000 at the end. During the year the owner introduced N50,000 of additional capital and took drawings of N35,000. What was the profit for the year?",
+      "options": [
+        "N90,000",
+        "N105,000",
+        "N20,000",
+        "N40,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Closing capital = Opening capital + Additional capital + Profit - Drawings, so 705,000 = 600,000 + 50,000 + Profit - 35,000, giving Profit = 705,000 - 615,000 = N90,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following correctly states the rule for recording transactions in a personal account of a debtor?",
+      "options": [
+        "Always debit the debtor's account regardless of the transaction",
+        "Debit the debtor when the business supplies goods on credit; credit when the debtor pays",
+        "Credit the debtor when goods are supplied on credit; debit when the debtor pays",
+        "Always credit the debtor's account regardless of the transaction"
+      ],
+      "correctIndex": 1,
+      "explanation": "A debtor owes the business money (an asset), so the account is debited when the debt arises (credit sale) and credited when the debtor settles the amount."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trial balance failing to balance after posting is most likely evidence of",
+      "options": [
+        "an error of complete omission of a transaction from both accounts",
+        "a one-sided entry or an arithmetic error in the ledger",
+        "a fully compensating error that cancels out completely",
+        "a transaction correctly recorded using the correct concept but wrong amount only where both sides used the same wrong figure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Only errors that break the equality of total debits and total credits (such as a one-sided posting or a casting error) will cause a trial balance to fail to balance; the other options describe errors that still leave debits equal to credits."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which book of prime entry would a business use to record the purchase of a delivery van on credit from a motor dealer?",
+      "options": [
+        "The Purchases Journal",
+        "The General Journal",
+        "The Sales Journal",
+        "The Cash Book"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Purchases Journal is reserved for credit purchases of trading goods (stock); non-trading asset purchases on credit, like a delivery van, are recorded through the General Journal."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The source document used to prepare entries in the Sales Journal is normally the",
+      "options": [
+        "supplier's invoice received by the business",
+        "sales invoice (copy) issued to the customer",
+        "credit note issued by the business",
+        "debit note received from the supplier"
+      ],
+      "correctIndex": 1,
+      "explanation": "A copy of the invoice sent to the customer for goods sold on credit is the source document used to record entries in the Sales Journal."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A credit note issued by a business to a customer is used as the source document for entries in the",
+      "options": [
+        "Purchases Journal",
+        "Sales Journal",
+        "Returns Inwards Journal",
+        "Returns Outwards Journal"
+      ],
+      "correctIndex": 2,
+      "explanation": "A credit note is issued when a business accepts returned goods from a customer, reducing what the customer owes, and is posted through the Returns Inwards Journal."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A debit note received from a supplier, evidencing an undercharge on a previous invoice, would be recorded in the",
+      "options": [
+        "Sales Journal",
+        "Returns Outwards Journal",
+        "Returns Inwards Journal",
+        "Purchases Journal"
+      ],
+      "correctIndex": 3,
+      "explanation": "A debit note for an undercharge increases the amount owed to the supplier for goods purchased, so it is treated as an additional credit purchase entry."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The contra entry in a three-column cash book arises when",
+      "options": [
+        "a bad debt is written off",
+        "goods are sold on credit to a customer",
+        "cash is banked, or cash is withdrawn from the bank for office use",
+        "a discount is allowed to a debtor"
+      ],
+      "correctIndex": 2,
+      "explanation": "A contra entry occurs when a transaction affects both the cash column and the bank column of the same cash book, such as banking cash takings or withdrawing cash from the bank."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Discount allowed, recorded in the cash book, refers to a reduction given by the business to",
+      "options": [
+        "an employee as part of their salary",
+        "a debtor for prompt payment of an amount owed",
+        "a creditor for prompt payment made by the business",
+        "the government as a tax rebate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount allowed is granted by the business to its own customers (debtors) as an incentive for settling their accounts promptly."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Discount received, recorded in the cash book, refers to a reduction granted to the business by its",
+      "options": [
+        "customers, for prompt payment received",
+        "bank, as an interest waiver",
+        "suppliers (creditors), for prompt payment made by the business",
+        "shareholders, as a dividend adjustment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discount received is the reduction a business enjoys from its own suppliers when it pays them promptly."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trader maintains a petty cash float of N15,000 under the imprest system. During the month, N11,200 was spent on various small expenses. How much will the petty cashier be reimbursed at the end of the month?",
+      "options": [
+        "N3,800",
+        "N11,200",
+        "N15,000",
+        "N26,200"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under the imprest system, reimbursement always equals the exact amount spent (N11,200), restoring the float back to its fixed N15,000 for the next period."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following would correctly appear in the Returns Outwards Journal?",
+      "options": [
+        "Goods purchased for cash from a new supplier",
+        "Defective goods sent back by the business to a supplier",
+        "Goods returned by a customer due to poor quality",
+        "Goods sold on credit to a regular customer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Returns Outwards records goods that the business itself sends back to its suppliers."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Balancing the cash book and comparing it against the bank statement is primarily made necessary because",
+      "options": [
+        "banks never make any recording errors",
+        "the cash book records only credit transactions",
+        "the cash book is a book of prime entry not requiring balancing",
+        "timing differences and errors can cause the cash book balance to differ from the bank statement balance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Differences such as unpresented cheques, uncredited deposits, bank charges and errors can cause the two balances to diverge, making reconciliation necessary."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "An error where a transaction is completely omitted from both the debit and credit sides of the ledger is called an error of",
+      "options": [
+        "principle",
+        "original entry",
+        "complete omission",
+        "commission"
+      ],
+      "correctIndex": 2,
+      "explanation": "An error of complete omission occurs when a transaction is left out of the accounting records entirely, so it affects neither the debit nor the credit side, and the trial balance still balances."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Recording a purchase of a motor vehicle by debiting the motor vehicle repairs account instead of the motor vehicle (asset) account is an error of",
+      "options": [
+        "commission",
+        "complete reversal",
+        "principle",
+        "original entry"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is an error of principle because a capital item was wrongly treated as a revenue expense, breaching an accounting principle even though the amount is correct and the trial balance still balances."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Recording a payment to Okafor, a supplier, in the account of Okoro, another supplier, is an error of",
+      "options": [
+        "principle",
+        "complete omission",
+        "commission",
+        "compensating error"
+      ],
+      "correctIndex": 2,
+      "explanation": "An error of commission occurs when an entry is posted to the correct class of account (a creditor's account) but to the wrong person's account, here Okoro instead of Okafor."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A cash sale of N18,000 was correctly entered in the cash book but was posted to the sales account as N1,800. This is an error of",
+      "options": [
+        "original entry",
+        "complete reversal of entries",
+        "principle",
+        "commission"
+      ],
+      "correctIndex": 0,
+      "explanation": "An error of original entry occurs when the wrong figure is used consistently for both the debit and credit postings, here the transposed figure N1,800 instead of N18,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A cheque payment of N25,000 to a creditor was debited to the creditor's account and credited to the bank account. This is an error of",
+      "options": [
+        "commission",
+        "complete reversal of entries",
+        "original entry",
+        "compensating error"
+      ],
+      "correctIndex": 1,
+      "explanation": "A reversal error occurs when the correct accounts are used but the debit and credit entries are swapped, exactly reversing the transaction's effect."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "An overcast of N5,000 on the purchases account was exactly cancelled out by an equal overcast of N5,000 on the sales account. This is an example of a",
+      "options": [
+        "error of complete omission",
+        "compensating error",
+        "error of commission",
+        "error of principle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compensating errors are two or more separate errors that, by coincidence, cancel each other out, so the trial balance still balances despite both errors existing."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trial balance fails to agree; the credit side exceeds the debit side by N3,600. This difference would normally be placed in a",
+      "options": [
+        "drawings account",
+        "suspense account, as a debit balance",
+        "capital account directly, with no suspense account needed",
+        "suspense account, as a credit balance"
+      ],
+      "correctIndex": 1,
+      "explanation": "To make the trial balance balance temporarily, the shortfall on the debit side (N3,600) is entered as a debit balance in a suspense account pending investigation."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following errors would cause a trial balance to disagree?",
+      "options": [
+        "A cash purchase debited to purchases and credited to cash, but with both entries at the wrong (though equal) amount",
+        "A credit sale of N4,000 recorded twice, once in the sales account and once in the debtor's account, with equal and correct amounts on both sides",
+        "Sales of N7,000 posted to the sales account but omitted from the debtor's account",
+        "A purchase of stationery debited to the office equipment account instead of the stationery account"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is a one-sided entry (posted to only one account), which breaks the equality of total debits and credits and therefore causes the trial balance to disagree; the other options are two-sided errors that keep debits equal to credits."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Before the discovery and correction of errors revealed by a suspense account, the profit calculated is described as the",
+      "options": [
+        "draft (unadjusted) profit",
+        "gross profit only",
+        "final audited profit",
+        "net realisable profit"
+      ],
+      "correctIndex": 0,
+      "explanation": "The profit figure calculated before all errors affecting the profit and loss account are corrected is only a provisional or draft figure, subject to adjustment."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A suspense account with a debit balance of N2,000 was opened after a trial balance failed to agree. It was later discovered that a discount received of N2,000 had not been posted to the discount received account. What entry clears the suspense account?",
+      "options": [
+        "Credit the suspense account again with a further N2,000",
+        "Debit the discount received account and debit the suspense account",
+        "Debit the suspense account and credit the discount allowed account",
+        "Debit suspense account is cleared by crediting the discount received account with N2,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since the discount received (a credit item) was never posted, the correcting entry credits discount received N2,000 and debits (clears) the suspense account by the same amount."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trader's records show: Opening stock N60,000, Purchases N420,000, Carriage inwards N15,000, Closing stock N75,000. What is the cost of goods sold?",
+      "options": [
+        "N450,000",
+        "N405,000",
+        "N435,000",
+        "N420,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cost of goods sold = Opening stock + Purchases + Carriage inwards - Closing stock = 60,000 + 420,000 + 15,000 - 75,000 = N420,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Using the figures: Sales N600,000, Cost of goods sold N420,000, what is the gross profit?",
+      "options": [
+        "N1,020,000",
+        "N600,000",
+        "N180,000",
+        "N420,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gross profit = Sales - Cost of goods sold = 600,000 - 420,000 = N180,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A trader's gross profit is N180,000. Other operating expenses total N95,000 and other income (discount received) is N8,000. What is the net profit?",
+      "options": [
+        "N188,000",
+        "N93,000",
+        "N85,000",
+        "N283,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Net profit = Gross profit + Other income - Expenses = 180,000 + 8,000 - 95,000 = N93,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Carriage outwards on goods sold is treated in the final accounts as a",
+      "options": [
+        "selling and distribution expense in the profit and loss account",
+        "direct cost added to the cost of goods sold in the trading account",
+        "capital expenditure added to non-current assets",
+        "deduction from sales revenue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carriage outwards relates to delivering goods to customers after sale, so it is a selling expense charged in the profit and loss account, unlike carriage inwards which forms part of the cost of goods sold."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following is correctly classified as a current asset in a sole trader's balance sheet (statement of financial position)?",
+      "options": [
+        "Motor vehicles",
+        "Long-term bank loan",
+        "Closing inventory",
+        "Goodwill"
+      ],
+      "correctIndex": 2,
+      "explanation": "Closing inventory (stock) is expected to be sold or used within the normal operating cycle, making it a current asset, unlike motor vehicles (non-current asset) or a long-term loan (non-current liability)."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A business bought equipment for N400,000 with an estimated residual value of N40,000 and a useful life of 6 years. Using the straight-line method, what is the annual depreciation charge?",
+      "options": [
+        "N60,000",
+        "N66,667",
+        "N360,000",
+        "N40,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Straight-line depreciation = (Cost - Residual value) / Useful life = (400,000 - 40,000) / 6 = 360,000 / 6 = N60,000 per year."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A machine costing N250,000 is depreciated at 20% per annum using the reducing balance method. What is the depreciation charge for the second year?",
+      "options": [
+        "N30,000",
+        "N50,000",
+        "N45,000",
+        "N40,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Year 1 depreciation = 20% x 250,000 = 50,000, leaving a net book value of 200,000; Year 2 depreciation = 20% x 200,000 = N40,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "At the end of the year, rent of N24,000 has been paid in advance. In the final accounts, this prepayment should be",
+      "options": [
+        "deducted from the rent expense in the profit and loss account and shown as a current asset in the balance sheet",
+        "added to the rent expense in the profit and loss account only",
+        "shown only in the balance sheet as a current liability",
+        "ignored completely until the following year"
+      ],
+      "correctIndex": 0,
+      "explanation": "A prepayment reduces the expense charged for the current period (since it relates to a future period) and is recorded as a current asset, since the business is owed the benefit of that future service."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "At the year end, wages of N18,000 for the last week of the year remain unpaid (accrued). This should be",
+      "options": [
+        "shown only in the balance sheet as a current asset",
+        "added to the wages expense in the profit and loss account and shown as a current liability in the balance sheet",
+        "ignored since it was not actually paid during the year",
+        "deducted from the wages expense in the profit and loss account"
+      ],
+      "correctIndex": 1,
+      "explanation": "Accrued wages relate to the current period even though unpaid, so under the accrual concept they are added to the expense for the year and shown as a liability owed."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A debtor's balance of N30,000 is considered irrecoverable and is written off as a bad debt. The correct double entry is to",
+      "options": [
+        "debit the debtor's account and credit bad debts account",
+        "debit the provision for doubtful debts account and credit cash",
+        "debit bad debts account and credit the debtor's account",
+        "debit bad debts account and credit the sales account"
+      ],
+      "correctIndex": 2,
+      "explanation": "Writing off a bad debt removes it from debtors (credit) and records the loss as an expense in the bad debts account (debit)."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "At the year end, total debtors are N500,000. The business wishes to maintain a provision for doubtful debts of 4%. If the existing provision brought forward is N15,000, what adjustment is needed in the profit and loss account?",
+      "options": [
+        "An additional charge (expense) of N20,000",
+        "A reduction (income) of N15,000",
+        "A reduction (income) of N5,000",
+        "An additional charge (expense) of N5,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Required provision = 4% x 500,000 = 20,000; since the existing provision is 15,000, an additional 20,000 - 15,000 = N5,000 must be charged as an extra expense to increase the provision."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "In a balance sheet, the provision for doubtful debts is",
+      "options": [
+        "added to total debtors",
+        "deducted from total debtors to arrive at the net realisable value of debtors",
+        "shown as an addition to the bad debts expense in the balance sheet",
+        "shown as a liability separate from debtors"
+      ],
+      "correctIndex": 1,
+      "explanation": "The provision for doubtful debts is a contra-asset, deducted from gross debtors on the balance sheet to show the estimated amount actually expected to be collected."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following best describes 'working capital' of a business?",
+      "options": [
+        "Current assets plus current liabilities",
+        "Fixed assets minus current liabilities",
+        "Current assets minus current liabilities",
+        "Total assets minus total liabilities"
+      ],
+      "correctIndex": 2,
+      "explanation": "Working capital measures a business's short-term liquidity, calculated as current assets minus current liabilities."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A sole trader's current assets total N340,000 and current liabilities total N210,000. What is the working capital?",
+      "options": [
+        "N210,000",
+        "N550,000",
+        "N340,000",
+        "N130,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Working capital = Current assets - Current liabilities = 340,000 - 210,000 = N130,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which item would NOT appear in a sole trader's trading account?",
+      "options": [
+        "Rent and rates",
+        "Sales",
+        "Purchases",
+        "Carriage inwards"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rent and rates is an operating expense recorded in the profit and loss account, not the trading account, which is concerned only with items directly related to buying and selling goods."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Goods withdrawn by the owner of a business for personal use should be recorded by",
+      "options": [
+        "debiting purchases and crediting drawings",
+        "debiting drawings and crediting sales",
+        "debiting sales and crediting drawings",
+        "debiting drawings and crediting purchases"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since the goods are no longer available for sale, purchases is credited (reduced), and drawings is debited to reflect the owner's private benefit at cost."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The 'net realisable value' of inventory refers to",
+      "options": [
+        "the insured value of the inventory",
+        "the replacement cost of similar inventory today",
+        "the original cost price paid for the inventory",
+        "the estimated selling price less any further costs needed to complete the sale"
+      ],
+      "correctIndex": 3,
+      "explanation": "Net realisable value is the amount expected to be obtained from selling an item, after deducting any costs still needed to make it ready for sale and to sell it."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A business's opening capital was N900,000. Its closing statement of affairs shows net assets of N1,150,000, and the owner introduced N100,000 of fresh capital during the year but took no drawings. The profit for the year was",
+      "options": [
+        "N150,000",
+        "N250,000",
+        "N1,050,000",
+        "N50,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Closing capital = Opening capital + Capital introduced + Profit - Drawings, so 1,150,000 = 900,000 + 100,000 + Profit - 0, giving Profit = 1,150,000 - 1,000,000 = N150,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A bank reconciliation statement is prepared primarily to",
+      "options": [
+        "explain the differences between the balance shown in the cash book and the balance shown on the bank statement",
+        "calculate the total profit earned by a business during the year",
+        "replace the need to maintain a cash book",
+        "record all credit transactions of a business"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bank reconciliation statement identifies and explains timing differences and errors that cause the cash book (bank column) balance to differ from the bank statement balance."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A cheque issued by a business to a supplier but not yet presented to the bank for payment is called a(n)",
+      "options": [
+        "standing order",
+        "uncredited (outstanding) lodgement",
+        "dishonoured cheque",
+        "unpresented cheque"
+      ],
+      "correctIndex": 3,
+      "explanation": "An unpresented cheque has been written and recorded in the cash book but has not yet been processed and deducted by the bank, causing a timing difference."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Cash and cheques paid into the bank by a business but not yet recorded (credited) by the bank at the statement date are called",
+      "options": [
+        "uncredited lodgements (deposits in transit)",
+        "dishonoured cheques",
+        "unpresented cheques",
+        "bank charges"
+      ],
+      "correctIndex": 0,
+      "explanation": "These are amounts the business has already recorded as received and banked, but which the bank has not yet processed and shown on its statement."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A cash book showed a debit balance of N185,000. On comparing with the bank statement, it was found that bank charges of N3,500 had not yet been entered in the cash book, and an unpresented cheque of N22,000 existed. What is the corrected (adjusted) cash book balance?",
+      "options": [
+        "N181,500",
+        "N159,500",
+        "N203,500",
+        "N188,500"
+      ],
+      "correctIndex": 0,
+      "explanation": "Only items missing from the cash book are used to adjust it; unpresented cheques affect the bank statement side, not the cash book. Adjusted cash book balance = 185,000 - 3,500 (bank charges) = N181,500."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Using the adjusted cash book balance of N181,500 from the previous scenario, and an unpresented cheque of N22,000, what balance would appear on the bank reconciliation statement as the balance per bank statement?",
+      "options": [
+        "N181,500",
+        "N225,500",
+        "N159,500",
+        "N203,500"
+      ],
+      "correctIndex": 3,
+      "explanation": "Starting from the adjusted cash book balance and adding back the unpresented cheque (since the bank has not yet deducted it): 181,500 + 22,000 = N203,500 balance per bank statement."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A cheque received from a customer and paid into the bank was later returned unpaid (dishonoured) due to insufficient funds. In the cash book, this should be treated by",
+      "options": [
+        "crediting (deducting) the amount from the cash book, reversing the earlier receipt",
+        "crediting the customer's account without adjusting the cash book",
+        "debiting the amount again to the cash book",
+        "ignoring the cash book and adjusting only the bank statement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since the money was never actually received, the earlier debit entry in the cash book must be reversed by a credit entry, and the customer's account is re-debited with the amount owed."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A standing order payment of N12,000 made by the bank on behalf of the business was not yet entered in the cash book when the reconciliation was prepared. This item should be",
+      "options": [
+        "added to the balance per bank statement",
+        "added to the cash book balance",
+        "ignored, as standing orders never affect the cash book",
+        "deducted from the cash book balance as part of the adjustments"
+      ],
+      "correctIndex": 3,
+      "explanation": "A standing order is a payment the bank makes automatically; since it reduces the bank balance but has not yet been recorded in the cash book, it must be deducted (credited) to update the cash book."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following would cause the bank statement balance to differ from the adjusted cash book balance, even after all cash book adjustments have been made?",
+      "options": [
+        "Direct debits not yet recorded in the cash book",
+        "Bank charges not yet recorded in the cash book",
+        "Unpresented cheques and uncredited lodgements",
+        "Interest earned not yet recorded in the cash book"
+      ],
+      "correctIndex": 2,
+      "explanation": "Once all items requiring correction of the cash book (like bank charges, direct debits, and interest) are adjusted, the remaining differences are purely timing items on the bank's side: unpresented cheques and uncredited lodgements, which are reconciled in the statement itself."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "In the accounts of a non-profit making organisation such as a club, the equivalent of the 'net profit' figure in a trading business is called the",
+      "options": [
+        "gross profit",
+        "trading profit",
+        "surplus (or deficit) of income over expenditure",
+        "retained earnings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since clubs and societies do not trade for profit in the ordinary sense, their income and expenditure account produces a surplus (if income exceeds expenditure) or a deficit (if expenditure exceeds income)."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The receipts and payments account of a club is best described as a summary of",
+      "options": [
+        "the club's assets and liabilities at the year end",
+        "only the capital expenditure incurred by the club",
+        "all actual cash and bank receipts and payments during the period, regardless of the period to which they relate",
+        "only the income earned during the period, on an accrual basis"
+      ],
+      "correctIndex": 2,
+      "explanation": "The receipts and payments account is essentially a summarised cash book, recording actual cash movements without adjusting for accruals or prepayments."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A club's receipts and payments account showed subscriptions received of N480,000 during the year. Subscriptions owing at the start of the year were N30,000 and owing at the end were N45,000. What is the subscription income to be credited to the income and expenditure account?",
+      "options": [
+        "N495,000",
+        "N555,000",
+        "N480,000",
+        "N465,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subscription income = Cash received + Closing amount owing - Opening amount owing = 480,000 + 45,000 - 30,000 = N495,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The excess of a non-profit organisation's assets over its liabilities at any point in time is referred to as its",
+      "options": [
+        "trading capital",
+        "accumulated fund",
+        "retained earnings",
+        "share capital"
+      ],
+      "correctIndex": 1,
+      "explanation": "For clubs and societies, which have no shareholders, the accumulated fund plays the same role as capital does for a sole trader, representing the net worth built up over time."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A sports club's bar operates as a trading activity within the club. The profit or loss from this bar is normally",
+      "options": [
+        "shown only in the receipts and payments account",
+        "ignored completely since the club is non-profit making",
+        "deducted directly from the accumulated fund without any calculation",
+        "calculated separately in a bar trading account and the resulting profit transferred to the income and expenditure account"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because the bar is a trading activity, its own trading account is prepared to determine its profit, which is then included as income in the main income and expenditure account."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A club's accumulated fund at the start of the year was N620,000. At the year end, total assets were N910,000 and total liabilities were N140,000. What was the surplus or deficit for the year (assuming no other adjustments)?",
+      "options": [
+        "Surplus of N770,000",
+        "Surplus of N150,000",
+        "Deficit of N150,000",
+        "Surplus of N290,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Closing accumulated fund = Assets - Liabilities = 910,000 - 140,000 = 770,000; Surplus = Closing accumulated fund - Opening accumulated fund = 770,000 - 620,000 = N150,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Life membership fees received by a club are usually treated in the accounts by",
+      "options": [
+        "treating the full amount as a liability that is never released to income",
+        "treating the full amount as income in the year it is received",
+        "crediting the amount to a life membership fund and transferring a portion to income each year, rather than treating it all as income in the year received",
+        "deducting the amount directly from the club's expenses"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since life membership covers many future years, prudent practice spreads the benefit over an estimated period rather than recognising it all as income in a single year."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "In the absence of a partnership agreement, the Partnership Act provides that partners should share profits and losses",
+      "options": [
+        "in proportion to each partner's drawings",
+        "according to the time each partner spends working in the business",
+        "in the ratio of capital contributed by each partner",
+        "equally, regardless of capital contributed"
+      ],
+      "correctIndex": 3,
+      "explanation": "Where there is no agreement, the default legal rule under partnership law is that profits and losses are shared equally among all partners."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Under the fixed capital method of maintaining partners' accounts, partners' salaries, interest on capital, and drawings are recorded in the",
+      "options": [
+        "profit and loss account only, with no separate accounts kept",
+        "goodwill account of each partner",
+        "capital accounts directly, so the capital account balance changes every year",
+        "current accounts, while the capital accounts remain unchanged except for permanent capital adjustments"
+      ],
+      "correctIndex": 3,
+      "explanation": "With fixed capital accounts, each partner's capital account stays constant, and fluctuating items like salary, interest, drawings and share of profit are recorded in a separate current account."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Interest on partners' drawings, when charged, is treated in the appropriation account as a(n)",
+      "options": [
+        "addition to the profit available for distribution among partners",
+        "expense in the trading account",
+        "deduction from the profit available for distribution among partners",
+        "reduction in the partners' capital accounts only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interest charged on drawings is income to the partnership as a whole, so it increases the residual profit available to be shared among the partners in the appropriation account."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Two partners, Ade and Bola, share profits equally. The partnership's net profit for the year is N800,000. Ade is entitled to an annual salary of N120,000 and interest on capital of N40,000; Bola is entitled to interest on capital of N60,000. What is the residual profit to be shared equally between them?",
+      "options": [
+        "N640,000",
+        "N580,000",
+        "N800,000",
+        "N700,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Residual profit = Net profit - Salary - Total interest on capital = 800,000 - 120,000 - (40,000 + 60,000) = 800,000 - 220,000 = N580,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Using the previous scenario, what is Ade's total share of the appropriated profit (salary plus interest on capital plus share of residual profit)?",
+      "options": [
+        "N450,000",
+        "N400,000",
+        "N410,000",
+        "N290,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ade's share of residual profit = 580,000 / 2 = 290,000. Total for Ade = Salary 120,000 + Interest on capital 40,000 + Share of residual profit 290,000 = N450,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "When a new partner is admitted into a partnership and pays a premium for goodwill that is not retained in the business, the existing partners share the premium in their",
+      "options": [
+        "new profit-sharing ratio",
+        "capital contribution ratio",
+        "equal ratio regardless of any agreement",
+        "old profit-sharing ratio"
+      ],
+      "correctIndex": 3,
+      "explanation": "The premium for goodwill compensates the existing partners for the share of future profits they are giving up to the incoming partner, so it is shared among them in their old (pre-admission) ratio."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "On the dissolution of a partnership, after all assets are realised and external liabilities settled, any resulting loss on realisation is shared among the partners in their",
+      "options": [
+        "capital account balances at the date of dissolution",
+        "profit and loss sharing ratio",
+        "ratio of drawings taken during the final year",
+        "equal ratio, irrespective of any agreed sharing ratio"
+      ],
+      "correctIndex": 1,
+      "explanation": "Losses (and profits) arising from realising the partnership's assets on dissolution are shared among partners according to the ratio in which they normally share profits and losses."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A partner's current account had an opening credit balance of N35,000. During the year, she was credited with a salary of N90,000 and interest on capital of N15,000, and her share of residual profit was N60,000; she withdrew N70,000 in drawings. What is the closing balance on her current account?",
+      "options": [
+        "N60,000 credit",
+        "N130,000 debit",
+        "N200,000 credit",
+        "N130,000 credit"
+      ],
+      "correctIndex": 3,
+      "explanation": "Closing balance = Opening balance + Salary + Interest on capital + Share of profit - Drawings = 35,000 + 90,000 + 15,000 + 60,000 - 70,000 = N130,000 credit."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Goodwill in a partnership is best described as",
+      "options": [
+        "the cash balance held by the partnership at year end",
+        "the total capital contributed by all the partners",
+        "the total of a partnership's tangible fixed assets",
+        "the value of a business's reputation and other intangible advantages that enable it to earn more than a normal return"
+      ],
+      "correctIndex": 3,
+      "explanation": "Goodwill represents intangible factors, such as reputation, customer loyalty and location, that give a business the capacity to earn profits above what its tangible net assets alone would justify."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The maximum amount of share capital that a company is authorised, by its constitutional documents, to issue is called its",
+      "options": [
+        "issued share capital",
+        "authorised (nominal) share capital",
+        "paid-up share capital",
+        "called-up share capital"
+      ],
+      "correctIndex": 1,
+      "explanation": "Authorised share capital is the ceiling amount of capital a company is permitted to raise by issuing shares, as stated in its memorandum/constitutional documents; it may issue up to, but not more than, this amount."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Ordinary shareholders differ from preference shareholders mainly in that ordinary shareholders",
+      "options": [
+        "have no voting rights at all, unlike preference shareholders",
+        "rank ahead of preference shareholders when dividends are paid",
+        "receive dividends that vary with the company's profitability and normally carry voting rights, while preference shareholders receive a fixed rate of dividend",
+        "always receive a fixed dividend regardless of profit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ordinary shares carry variable, discretionary dividends and typically voting rights, whereas preference shares usually receive a fixed dividend rate and rank ahead of ordinary shares in dividend payment, but often without voting rights."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A company issued 200,000 ordinary shares of N1 each at a price of N1.30 per share. What is the total amount credited to the share premium account?",
+      "options": [
+        "N40,000",
+        "N60,000",
+        "N260,000",
+        "N200,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Share premium per share = 1.30 - 1.00 = N0.30; Total share premium = 200,000 x 0.30 = N60,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A debenture issued by a company represents",
+      "options": [
+        "a long-term loan to the company, on which fixed interest must be paid regardless of profit levels",
+        "a unit of ownership (equity) in the company",
+        "a short-term trade payable owed to a supplier",
+        "a share of the company's retained profits distributed to shareholders"
+      ],
+      "correctIndex": 0,
+      "explanation": "Debenture holders are creditors, not owners, of the company; they are entitled to fixed interest payments regardless of whether the company makes a profit, and rank ahead of shareholders on liquidation."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "In a company's appropriation account, which of the following would typically appear as a deduction from net profit?",
+      "options": [
+        "Carriage inwards",
+        "Transfer to general reserve and proposed dividends",
+        "Cost of goods sold",
+        "Directors' salaries only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The appropriation account shows how the net profit after tax is distributed or retained, including transfers to reserves and dividends proposed to shareholders."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A company's issued share capital consists of 500,000 ordinary shares of N1 each, fully paid. The directors propose a dividend of 8%. What is the total dividend to be paid?",
+      "options": [
+        "N62,500",
+        "N400,000",
+        "N4,000",
+        "N40,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dividend = 8% x (500,000 x N1) = 8% x 500,000 = N40,000."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Retained earnings (revenue reserves) of a company represent",
+      "options": [
+        "the total nominal value of all shares issued",
+        "the amount of long-term loans owed by the company",
+        "the total value of a company's non-current assets",
+        "accumulated profits that have not been distributed to shareholders as dividends"
+      ],
+      "correctIndex": 3,
+      "explanation": "Retained earnings build up over time from profits the company chooses to keep within the business rather than pay out as dividends."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Which of the following best describes a rights issue of shares?",
+      "options": [
+        "An issue of shares only to new investors outside the company",
+        "An offer of new shares to existing shareholders, usually at a price below the market price, in proportion to their existing holdings",
+        "A free issue of bonus shares funded from reserves, with no cash paid by shareholders",
+        "An offer of debentures to existing shareholders"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rights issue gives existing shareholders the first opportunity to buy additional shares, proportionate to their current holding, typically at a discount to the market price."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "A bonus issue of shares is best described as",
+      "options": [
+        "shares issued exclusively to company directors as salary",
+        "an issue of debentures convertible into shares at a future date",
+        "shares sold to the public for cash at a premium",
+        "a capitalisation of reserves into additional shares issued free to existing shareholders"
+      ],
+      "correctIndex": 3,
+      "explanation": "A bonus (scrip) issue converts part of a company's reserves into share capital, giving existing shareholders extra shares without any cash payment."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "In a manufacturing account, 'prime cost' refers to the total of",
+      "options": [
+        "all manufacturing and non-manufacturing costs combined",
+        "direct labour and administrative expenses",
+        "direct materials and factory overheads only",
+        "direct materials, direct labour, and direct expenses"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prime cost captures only the costs directly attributable to producing the goods: direct materials consumed, direct labour, and any direct expenses incurred specifically in production."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "Incomplete records refer to a situation where a business",
+      "options": [
+        "maintains records only for tax authorities and no other purpose",
+        "keeps a perfect double-entry system with no errors",
+        "does not maintain a full double-entry bookkeeping system, keeping only partial or informal records",
+        "records transactions using computerised accounting software exclusively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many small traders keep only basic records, such as a cash book and some memoranda, rather than a complete set of double-entry ledgers, which is described as incomplete records."
+    },
+    {
+      "subject": "Principles of Accounts",
+      "text": "The statement of affairs method is used in incomplete records primarily to determine",
+      "options": [
+        "the exact gross profit margin of the business",
+        "the opening or closing capital of the business by listing assets and liabilities",
+        "the depreciation charge for non-current assets",
+        "the total sales made on credit during the year"
+      ],
+      "correctIndex": 1,
+      "explanation": "A statement of affairs is essentially a balance sheet compiled from available information to estimate capital at a given date, calculated as assets minus liabilities."
+    }
+  ]
+}

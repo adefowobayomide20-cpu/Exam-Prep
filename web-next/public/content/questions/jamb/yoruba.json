@@ -1,0 +1,2430 @@
+{
+  "subject": "Yoruba",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ohun ti a n pe ni afoniwasi ninu ede Yoruba?",
+      "options": [
+        "Ohun ti a n pe pelu didena emi lenu (consonants)",
+        "Oro ti n fi han igbese",
+        "Ohun ti a n pe lai dena emi lenu (vowels)",
+        "Ami ti a n fi han ibeere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vowels (afoniwasi) in Yoruba are speech sounds produced without significant obstruction of airflow, unlike consonants (kọnsonanti), which involve some closure or narrowing in the vocal tract."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ohun ti a n pe pelu didena emi lenu ninu ede Yoruba?",
+      "options": [
+        "Owe (proverb)",
+        "Ami ohun (tone mark)",
+        "Kọnsonanti (consonants)",
+        "Afoniwasi (vowels)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consonants (kọnsonanti) are produced by partially or fully obstructing airflow at some point in the vocal tract, in contrast to the more open articulation of vowels."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Afoniwasi melo ni o wa ninu ede Yoruba boṣewa?",
+      "options": [
+        "Marun (5)",
+        "Meje (7)",
+        "Mewa (10)",
+        "Merin (4)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Standard Yoruba is generally described as having seven oral vowel sounds (a, e, ẹ, i, o, ọ, u), along with additional nasalised vowels."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ami ti a n lo lati fi han bi a se n pe oro ga tabi ki lo silẹ ninu ede Yoruba?",
+      "options": [
+        "Ami ohun (tone marks)",
+        "Ami ibeere",
+        "Ami idaduro",
+        "Ohun elo oro"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tone marks (ami ohun) indicate the pitch pattern of syllables in written Yoruba, an essential feature since tone can change a word's entire meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ohun elo melo ni Yoruba n lo lati fi han ohun ninu ede naa?",
+      "options": [
+        "Marun",
+        "Meta: ohun oke, ohun aarin, ati ohun isale (high, mid, and low tone)",
+        "Meji nikan",
+        "Mewa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yoruba phonology is fundamentally built around three tone levels: high, mid, and low, forming the basic tonal system used to distinguish word meanings."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ti afoniwasi kan ba parẹ nigba ti oro meji ba ti sopọ ninu gbolohun (elision)?",
+      "options": [
+        "Isunki vaweli (vowel elision)",
+        "Idasile oro",
+        "Ami ohun",
+        "Iselu oro"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vowel elision (isunki vaweli) is a phonological process where a vowel sound is dropped when two words come together in speech, common in fluent Yoruba pronunciation."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe mimu oro kan kuro patapata ninu gbolohun nitori idi asayan (deletion)?",
+      "options": [
+        "Isunki vaweli",
+        "Ami ohun",
+        "Iparẹ oro (deletion)",
+        "Iṣẹda oro"
+      ],
+      "correctIndex": 2,
+      "explanation": "Deletion refers to the complete omission of a sound or word element under certain phonological conditions, distinct from elision, which specifically involves vowel reduction."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe apa ti gbolohun ede ti o ni afoniwasi kan ti a n pe ni akoko kan naa?",
+      "options": [
+        "Alusilo (syllable)",
+        "Alọ",
+        "Ami ohun",
+        "Owe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A syllable (alusilo) is a unit of pronunciation typically organised around a single vowel sound, which may be preceded by one or more consonants."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini abajade ti o wọpọ nigba ti a ba fi ohun oke si oro ti o gbọdọ ni ohun isale, ninu apeere bi 'oko' (farm) ati 'oko' (husband, pẹlu ohun ti o yatọ)?",
+      "options": [
+        "Ko si iyipada kankan",
+        "Oro naa a di afoniwasi nikan",
+        "Oro naa a maa dawọ lati je oro",
+        "Iyipada ninu itumọ oro naa patapata"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since Yoruba is a tonal language, changing the tone pattern on an otherwise identical sequence of letters can completely change the word's meaning, as in the contrast between 'oko' (farm) and 'ọkọ' (husband/vehicle)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini isẹ akọkọ ti a n ṣe ninu iwadi Fonọlọji ninu ede Yoruba?",
+      "options": [
+        "Iwadi nipa iṣowo",
+        "Iwadi itan awọn oba atijọ",
+        "Iwadi ohun ede ati bi a se n to wọn sọtọ ninu oro ati gbolohun",
+        "Iwadi nipa ounjẹ ibile"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phonology (Fonọlọji) is the branch of language study focused on the sound system of a language and how those sounds are systematically organised within words and sentences."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi pataki ti a fi n kọ awọn ọmọ ile-iwe nipa ami ohun ninu ede Yoruba?",
+      "options": [
+        "Nitori ko si idi kankan to ye",
+        "Ki won le ma lo ami ohun rara",
+        "Nitori ami ohun ko ni ipa kankan lori itumọ",
+        "Ki won le ka ati ko ede naa ni ọna to peye, nitori pe ami ohun le yi itumọ oro pada"
+      ],
+      "correctIndex": 3,
+      "explanation": "Teaching tone marks is essential because Yoruba is a tonal language, where the correct tone can be the difference between two entirely different words or meanings."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe eto ninu eyi ti a n to awọn ohun kọ jọpọ lati mọ bi won ṣe n sise ninu ọrọ sisọ?",
+      "options": [
+        "Asa",
+        "Girama",
+        "Fonọlọji (phonology)",
+        "Litereso"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phonology (Fonọlọji) is specifically the study of how sounds pattern and function together within a language, as opposed to grammar, literature, or culture."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ọrọ isọ meji ti a ba so pọ lati fi han ohun kan pataki, bi 'gb' ninu 'igba'?",
+      "options": [
+        "Ami ohun",
+        "Alusilo",
+        "Afoniwasi ẹyọkan",
+        "Kọnsonanti didapọ (consonant digraph)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A consonant digraph is a combination of two letters representing a single distinct sound, such as 'gb' in Yoruba, common in the Yoruba alphabet."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to ye ki a mo daju iyato laarin afoniwasi imu (nasalized vowels) ati afoniwasi lasan ninu ede Yoruba?",
+      "options": [
+        "Nitori afoniwasi imu ko si ninu ede Yoruba",
+        "Nitori ko si iyato kankan",
+        "Nitori afoniwasi imu maa n yato ni itumọ ati bi a se n ka won",
+        "Nitori won je oro kan naa nigbagbogbo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nasalised vowels in Yoruba are distinct sounds produced with airflow through the nose, and distinguishing them correctly from oral vowels is important for accurate pronunciation and meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti n so oruko eniyan, ibi, tabi nkan kan ninu ede Yoruba?",
+      "options": [
+        "Oro-oruko (noun)",
+        "Oro-atokun (preposition)",
+        "Oro-aponle (adjective)",
+        "Oro-ise (verb)"
+      ],
+      "correctIndex": 0,
+      "explanation": "A noun (oro-oruko) is a word class used to name a person, place, thing, or idea, a fundamental word category in Yoruba grammar."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti n so ise tabi iṣẹlẹ kan ninu ede Yoruba, bi 'lọ' tabi 'jẹ'?",
+      "options": [
+        "Oro-aponle (adjective)",
+        "Oro-atokun (preposition)",
+        "Oro-oruko (noun)",
+        "Oro-ise (verb)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A verb (oro-ise) expresses an action or occurrence, such as 'lọ' (go) or 'jẹ' (eat), forming the core predicate of a Yoruba sentence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti n ṣàpèjúwe oro-oruko kan ninu ede Yoruba, bi 'dara' tabi 'buburu'?",
+      "options": [
+        "Oro-aponle (adjective)",
+        "Oro-atokun (preposition)",
+        "Oro-ise (verb)",
+        "Oro-oruko (noun)"
+      ],
+      "correctIndex": 0,
+      "explanation": "An adjective (oro-aponle) describes or modifies a noun by attributing a quality to it, such as 'dara' (good) or 'buburu' (bad)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ti a n gba lati da oro tuntun ninu ede Yoruba (word formation)?",
+      "options": [
+        "Ami ohun",
+        "Fahimta",
+        "Iṣẹda oro (word formation)",
+        "Ọrọ àyálò"
+      ],
+      "correctIndex": 2,
+      "explanation": "Word formation (Iṣẹda ọrọ) is the morphological process of creating words in Yoruba, including through compounding, reduplication, and other structural methods."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti a mu wa lati ede miran wọle sinu ede Yoruba, bi oro ti a mu lati ede Gẹẹsi?",
+      "options": [
+        "Oro-oruko",
+        "Ọrọ àyálò (loan word)",
+        "Iṣẹda oro",
+        "Ami ohun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loan words (ọrọ àyálò) are terms borrowed from another language, such as English, and incorporated into Yoruba vocabulary."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti n ṣàpèjúwe oro-ise, oro-aponle, tabi oro-atokun miran ninu ede Yoruba (adverb)?",
+      "options": [
+        "Oro-atokun-ise (adverb)",
+        "Oro-aponle",
+        "Oro-oruko",
+        "Oro-nfiropo"
+      ],
+      "correctIndex": 0,
+      "explanation": "An adverb modifies a verb, adjective, or another adverb, typically indicating manner, time, or degree in a Yoruba sentence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti n dipo oro-oruko ninu gbolohun, bi 'o' tabi 'won'?",
+      "options": [
+        "Oro-nfiropo (pronoun)",
+        "Oro-atokun",
+        "Oro-ise",
+        "Oro-aponle"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pronoun (oro-nfiropo) stands in place of a noun, such as 'o' (he/she/it) or 'won' (they), avoiding repetition of the noun itself."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro ti n so ipo ohun kan si ohun miran ninu gbolohun, bi 'lori' tabi 'labẹ'?",
+      "options": [
+        "Oro-oruko",
+        "Oro-atokun (preposition)",
+        "Oro-ise",
+        "Oro-aponle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A preposition (oro-atokun) indicates the relationship, often of place or time, between a noun and another element in the sentence, such as 'lori' (on) or 'labẹ' (under)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe gbolohun ti o pe ni kikun to ni eni ti n se ise (subject) ati ise ti won n se (predicate)?",
+      "options": [
+        "Ami ohun",
+        "Alusilo",
+        "Owe",
+        "Gbolohun (sentence)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A complete sentence (gbolohun) consists of a subject (the doer or topic) and a predicate (what is said about the subject), forming a grammatically complete statement."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ọrọ ti n so 'ati' tabi 'sugbon' ti n so gbolohun meji pọ ninu ede Yoruba?",
+      "options": [
+        "Oro-asopọ (conjunction)",
+        "Oro-aponle",
+        "Oro-atokun",
+        "Oro-nfiropo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A conjunction (oro-asopọ) links words, phrases, or clauses, such as 'ati' (and) or 'sugbon' (but), showing the relationship between the connected elements."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini isẹ akọkọ ti a n ṣe ninu iwadi Girama ninu ede Yoruba?",
+      "options": [
+        "Iwadi ohun ede nikan",
+        "Iwadi itan atijọ nikan",
+        "Iwadi bi a ṣe n to awọn oro jọ lati mọ gbolohun to pe",
+        "Iwadi nipa asa ijeun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Grammar (Girama) is the area of language study concerned with how words are correctly combined and arranged to form grammatically sound sentences."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini gbolohun aṣẹ (imperative sentence) ninu ede Yoruba, bi 'Lọ si ile-iwe!'?",
+      "options": [
+        "Gbolohun ti n beere ibeere",
+        "Gbolohun iyanu",
+        "Gbolohun ti n fun ni aṣẹ tabi ibeere",
+        "Gbolohun akọọlẹ lasan"
+      ],
+      "correctIndex": 2,
+      "explanation": "An imperative sentence issues a command or request, such as 'Lọ si ile-iwe!' (Go to school!), distinct from a statement or question."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe gbolohun meji tabi ju bẹẹ lọ ti a ba so pọ pẹlu oro-asopọ ninu ede Yoruba?",
+      "options": [
+        "Gbolohun aṣẹ",
+        "Gbolohun rọrun (simple sentence)",
+        "Gbolohun idapọ (compound sentence)",
+        "Gbolohun iyanu"
+      ],
+      "correctIndex": 2,
+      "explanation": "A compound sentence joins two or more independent clauses using a conjunction, combining related ideas of equal grammatical weight."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe mimu oro meji sopọ mọ ara won lati da oro tuntun kan silẹ (compounding), bi 'ile' ati 'iwe' di 'ile-iwe'?",
+      "options": [
+        "Ami ohun",
+        "Idapọ oro (compounding)",
+        "Ọrọ àyálò",
+        "Isunki vaweli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Compounding is a word formation process where two or more independent words are joined together to create a new word with its own meaning, such as 'ile' (house) and 'iwe' (book) combining to form 'ile-iwe' (school)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe kikọ ti n ṣàlàyé ero eniyan lori koko-ọrọ kan pẹlu ẹri ti n gbe ero yẹn ga (argumentative essay)?",
+      "options": [
+        "Aroko ijiyan (argumentative essay)",
+        "Aroko apejuwe (descriptive essay)",
+        "Aroko akọọlẹ (narrative essay)",
+        "Iwe ẹbẹ (application letter)"
+      ],
+      "correctIndex": 0,
+      "explanation": "An argumentative essay presents a clear position or opinion on a topic, supporting it with logical reasoning and evidence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe kikọ ti n ṣàpèjúwe ibi kan tabi eniyan kan ni kikun ninu ede Yoruba (descriptive essay)?",
+      "options": [
+        "Aroko apejuwe (descriptive essay)",
+        "Aroko akọọlẹ",
+        "Aroko ijiyan",
+        "Iwe ẹbẹ"
+      ],
+      "correctIndex": 0,
+      "explanation": "A descriptive essay vividly describes a person, place, object, or situation, using detailed language to create a clear mental image for the reader."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe kikọ ti n ro itan iṣẹlẹ kan ni ọna to tẹle ilana akoko (narrative essay)?",
+      "options": [
+        "Aroko akọọlẹ (narrative essay)",
+        "Aroko ijiyan",
+        "Aroko apejuwe",
+        "Iwe ẹbẹ"
+      ],
+      "correctIndex": 0,
+      "explanation": "A narrative essay tells a story or recounts a sequence of events, typically following a clear chronological structure."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iyipada oro tabi gbolohun lati ede kan si ede miran, gẹgẹ bi lati Gẹẹsi si Yoruba?",
+      "options": [
+        "Ogbufo (translation)",
+        "Fahimta",
+        "Girama",
+        "Aroko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Translation (ogbufo) involves accurately converting text or speech from one language to another, requiring careful attention to both meaning and grammatical correctness."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nigba ti a ba n ṣe ogbufo lati Gẹẹsi si Yoruba, kini o ṣe pataki julọ lati ṣe amojuto?",
+      "options": [
+        "Ki a yọ ami ohun kuro patapata",
+        "Ki itumọ oro ki o dara ati pe ki gbolohun to yo jade ni oye pẹlu girama Yoruba to pe",
+        "Ki a fi ede Gẹẹsi kun inu gbolohun Yoruba",
+        "Ki a ka gbolohun kọọkan gangan bi Gẹẹsi laisi iyipada eyikeyi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good translation prioritises preserving accurate meaning while producing a sentence that follows correct and natural Yoruba grammar, rather than a rigid word-for-word rendering."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe be ti a n bere si aroko kan ninu ede Yoruba ti o n fi koko-ọrọ han kedere?",
+      "options": [
+        "Ara (body) nikan",
+        "Ipari (conclusion)",
+        "Ifihan (introduction)",
+        "Akole (title) nikan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The introduction (ifihan) of an essay is the opening section that clearly presents the topic and sets up what the essay will discuss."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe apakan ikẹhin ti aroko kan ninu ede Yoruba ti n ṣàkópọ ohun ti a ti sọ?",
+      "options": [
+        "Ifihan (introduction)",
+        "Ara (body)",
+        "Akole (title)",
+        "Ipari (conclusion)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The conclusion (ipari) summarises the essay's main points and provides a closing statement, wrapping up the discussion presented in the body."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi pataki ti a fi n ko ẹkọ Aroko ati Ogbufo ninu idanwo Yoruba?",
+      "options": [
+        "Lati mọ agbara won lati ṣe iṣiro",
+        "Lati mọ agbara ọmọ ile-iwe lati ṣe alaye ero won ni kikọ ati lati yi ede pada ni ọna to pe",
+        "Lati mọ agbara won lati sise oko",
+        "Lati mọ agbara won lati kọrin nikan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Essay writing and translation skills assess a student's ability to express ideas clearly in writing and accurately convert meaning between languages."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nigba idanwo Fahimta, kini a n reti lọwọ akẹkọ lẹhin ti o ba ka ẹsẹ kan?",
+      "options": [
+        "Ki o dahun ibeere lori ohun ti o ti ka ati loye rẹ",
+        "Ki o ko ẹsẹ tuntun kan dipo",
+        "Ki o kọrin ẹsẹ naa",
+        "Ki o yi ẹsẹ naa pada si ede miran patapata"
+      ],
+      "correctIndex": 0,
+      "explanation": "Comprehension exercises require the reader to understand the meaning and details of a passage and accurately answer related questions about it."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a n pe koko-ọrọ pataki tabi ero akọkọ ti onkọwe kan n gbiyanju lati fi han ninu ẹsẹ kan?",
+      "options": [
+        "Alọ",
+        "Akọle akọkọ (main idea/theme)",
+        "Ami ohun",
+        "Owe"
+      ],
+      "correctIndex": 1,
+      "explanation": "The main idea or theme represents the central message that the author is primarily trying to convey through the passage."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu idanwo Fahimta ti JAMB fun Yoruba, iru ẹsẹ meji wo ni a maa n lo?",
+      "options": [
+        "Ẹsẹ arọ (prose) ati ẹsẹ ẹwi (verse)",
+        "Ẹsẹ alọ nikan",
+        "Ẹsẹ owe nikan",
+        "Ẹsẹ oriki nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The JAMB Yoruba comprehension section typically includes both a prose passage and a verse (poetic) passage, testing the student's ability to interpret central themes from both forms."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o yẹ ki akẹkọ ṣe ti ko ba loye itumọ oro kan gangan bi a ti lo o ninu ẹsẹ kan?",
+      "options": [
+        "Ko wo bi oro naa ṣe baamu pelu iyoku gbolohun lati mọ itumọ rẹ nibẹ",
+        "Ko lo itumọ oro naa lati inu iwe itumọ Gẹẹsi laisi ero si ọrọ inu ẹsẹ naa",
+        "Ko yara dahun laisi ero",
+        "Ko fo ibeere naa lasan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Understanding a word's meaning within context requires examining how it fits with the surrounding sentence, since many words carry different meanings depending on usage."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a n pe agbara lati ṣàkópọ ẹsẹ gigun kan sinu alaye kukuru ti o ni ohun pataki ninu rẹ?",
+      "options": [
+        "Akopo (summarising)",
+        "Iyipada ede",
+        "Iṣẹda oro",
+        "Isunki vaweli"
+      ],
+      "correctIndex": 0,
+      "explanation": "Summarising involves condensing a longer passage into a brief statement that captures its most essential points, without including every minor detail."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu ẹsẹ ẹwi (verse passage), kini o yẹ ki akẹkọ ṣe akiyesi rẹ ju bi ninu ẹsẹ arọ lasan?",
+      "options": [
+        "Ọjọ ti a ti kọ ẹsẹ naa nikan",
+        "Lilo ede ati aworan (imagery) ti a lo lati fi han ero jinlẹ",
+        "Iye oro ti o wa ninu ẹsẹ naa nikan",
+        "Aṣọ ti onkọwe wọ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poetic passages often use figurative language and vivid imagery to convey deeper meaning, requiring careful attention beyond a literal reading, unlike straightforward prose."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o ṣe pataki lati ṣe ki a to dahun ibeere ninu idanwo Fahimta?",
+      "options": [
+        "Ka ẹsẹ naa daradara ki a to bere si dahun ibeere",
+        "Dahun ibeere ki a to ka ẹsẹ naa",
+        "Fo kika ẹsẹ naa patapata",
+        "Ko ẹsẹ tuntun dipo idahun"
+      ],
+      "correctIndex": 0,
+      "explanation": "An effective comprehension strategy involves thoroughly reading the passage first before attempting to answer any questions, ensuring accurate understanding of the content."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ibeere ti n beere lati mọ ohun ti a ko sọ ni gbangba ninu ẹsẹ ṣugbọn ti a le mọ lati inu awọn ami inu rẹ (inference)?",
+      "options": [
+        "Ibeere akopo",
+        "Ibeere ami ohun",
+        "Ibeere itumọ oro taara",
+        "Ibeere amoro (inference question)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inference questions require the reader to deduce information that is implied rather than explicitly stated, using contextual clues within the passage."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Litereso Alenu ninu asa Yoruba?",
+      "options": [
+        "Litereso ti a mu wa lati ede miran",
+        "Litereso ti a kọ sinu iwe nikan",
+        "Litereso ti a n gbe kalẹ ni ẹnu, ti a ko kọ sile",
+        "Iṣiro atijọ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oral literature (Litereso Alenu) refers to literary traditions transmitted verbally from generation to generation, rather than through written texts, including proverbs, riddles, and praise chants."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ọrọ kukuru ti o ni ọgbọn tabi otitọ ti a n lo ninu ọrọ sisọ lojoojumọ, bi 'Bi a ba n gun igi, a n wo isalẹ'?",
+      "options": [
+        "Owe (proverb)",
+        "Alọ (riddle)",
+        "Ofo (incantation)",
+        "Oriki (praise chant)"
+      ],
+      "correctIndex": 0,
+      "explanation": "A proverb (owe) is a short, traditional saying expressing widely accepted wisdom or truth, passed down through generations within Yoruba society."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ere ibeere ati idahun ti a n lo lati wadi ogbọn eniyan, bi 'Kini n rin lai ni ẹsẹ?'?",
+      "options": [
+        "Oriki",
+        "Alọ ọlọgbọn (riddle)",
+        "Owe",
+        "Ofo"
+      ],
+      "correctIndex": 1,
+      "explanation": "A riddle (alọ ọlọgbọn) is a traditional question-and-answer game designed to test cleverness and stimulate creative, logical thinking."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ọrọ pataki ti a n so lati pe agbara aiye ba wa fun idi kan pato, gẹgẹ bi aabo tabi iwosan?",
+      "options": [
+        "Oriki",
+        "Alọ",
+        "Owe",
+        "Ofo (incantation)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Incantations (ofo, sometimes associated with Ọsanyìn, the deity of herbal medicine) are traditional spoken formulas believed to invoke spiritual or mystical power for a specific purpose, such as protection or healing."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ẹsẹ tabi orin ti a n lo lati yin iyi eniyan, idile, tabi ilu kan ninu asa Yoruba?",
+      "options": [
+        "Ofo",
+        "Oriki (praise chant)",
+        "Alọ",
+        "Owe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oriki are traditional praise chants or poetry used to honour and celebrate an individual, family lineage, deity, or town in Yoruba oral tradition."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to fa lilo owe ninu ọrọ sisọ Yoruba dipo ki a fi ọrọ han taara?",
+      "options": [
+        "Nitori ko si ọna miran lati soro",
+        "Lati fi ibinu han taara si eniyan",
+        "Lati fi ọgbọn ati ibawi han ni ọna ti o ni itumọ jinlẹ ati ọwọ fun olutẹtisi",
+        "Lati da eniyan loju nikan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proverbs allow speakers to convey wisdom, advice, or subtle correction in a respectful, indirect, and often more persuasive manner than blunt direct speech."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini akoko ti a ma n ka Alọ Ọlọgbọn julọ ninu asa Yoruba atijọ?",
+      "options": [
+        "Ni akoko isinku nikan",
+        "Ni akoko igbeyawo nikan",
+        "Ni oru, lẹhin ti iṣẹ ọjọ ti pari",
+        "Ni ọsan nikan lakoko iṣẹ oko"
+      ],
+      "correctIndex": 2,
+      "explanation": "Traditionally, riddle-telling sessions in Yoruba communities commonly took place in the evening, providing entertainment and mental stimulation after the day's work was completed."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa ti Litereso Alenu n ṣe ninu itọju itan ati asa Yoruba?",
+      "options": [
+        "O n ran lọwọ lati gbe itan, iwa rere, ati ọgbọn atọwọdọwọ lati iran de iran",
+        "O n fun idaraya lasan lai ni itumọ",
+        "Ko ni ibatan kankan si itan tabi asa",
+        "O n dojukọ imọ-ẹrọ ode oni nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oral literature plays a vital role in preserving and transmitting a community's history, values, and traditional wisdom across successive generations."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin owe ati alọ ninu ọna ti won n sise?",
+      "options": [
+        "Alọ je gbolohun pipe nikan lai ni ibeere",
+        "Owe je ere ibeere nikan",
+        "Owe je gbolohun pipe ti o ni itumọ ni kikun, nigba ti alọ je ibeere ti o nilo idahun ti o ni ogbọn",
+        "Won je ohun kan naa lai si iyato"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proverbs are complete, standalone statements of wisdom, while riddles are structured as an interactive question requiring a clever answer, making them distinct forms within oral literature."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa ti awọn agbalagba n ṣe ninu titọju ati fifiranṣẹ Litereso Alenu ninu awujọ Yoruba?",
+      "options": [
+        "Won n dojukọ iṣowo nikan",
+        "Won n dojukọ ere idaraya ode oni nikan",
+        "Won n ṣagbekalẹ owe, alọ, ati oriki fun awọn ọdọ ati ọmọde",
+        "Won ko ni ipa kankan ninu ọrọ yii"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elders traditionally serve as the primary custodians and transmitters of oral literature, sharing proverbs, riddles, and praise chants with younger generations."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oriki ti a n ki fun ẹnikan ni pataki lati ṣe ayẹyẹ idile tabi itan won?",
+      "options": [
+        "Owe lasan",
+        "Ofo aabo",
+        "Alọ ọlọgbọn",
+        "Oriki-orile (lineage praise chant)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oriki-orile are specific lineage-based praise chants that celebrate the history, achievements, and identity of a particular family or ancestral line."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi ti Ọsanyìn ṣe ni ibatan pẹkipẹki pẹlu Ofo ninu asa Yoruba?",
+      "options": [
+        "Ọsanyìn ko ni ibatan kankan pẹlu ofo",
+        "Ọsanyìn ni orisa ti a mọ si oogun ati ewe, ti won maa n pe ninu ofo iwosan",
+        "Ọsanyìn je orisa omi nikan",
+        "Ọsanyìn je orukọ oba kan atijọ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ọsanyìn is traditionally recognised as the deity associated with herbal medicine and healing, closely linked to incantations (ofo) invoked for medicinal and protective purposes."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ewi ti a n ka ni gbangba pẹlu ohun orin tabi ilu ti n ba a lọ ninu asa Yoruba?",
+      "options": [
+        "Ewi (oral/performed poetry)",
+        "Iwe akọọlẹ",
+        "Ogbufo",
+        "Aroko"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewi refers to a distinctive Yoruba tradition of performed oral poetry, often chanted or recited with musical or rhythmic accompaniment."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin Litereso Alenu ati Litereso Kiko?",
+      "options": [
+        "Litereso Alenu ni a n kọ sinu iwe nikan",
+        "Litereso Kiko ni a n gbe kalẹ ni ẹnu nikan",
+        "Ko si iyato kankan laarin awọn mejeeji",
+        "Litereso Alenu ni a n gbe kalẹ ni ẹnu, nigba ti Litereso Kiko ni a n kọ sinu iwe"
+      ],
+      "correctIndex": 3,
+      "explanation": "The fundamental distinction lies in the mode of transmission and preservation: oral literature is passed down verbally, while written literature is recorded in text form."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi pataki ti a fi n ṣe iwadi Litereso Alenu ninu eto eko JAMB fun ede Yoruba?",
+      "options": [
+        "Ki awọn akẹkọ le loye ati mọriri asa ati ọgbọn ibile awọn baba won",
+        "Ki won kọ ede miran dipo",
+        "Ko si idi pataki eyikeyi",
+        "Ki won gbagbe asa won"
+      ],
+      "correctIndex": 0,
+      "explanation": "Studying oral literature helps students understand and appreciate the cultural heritage and traditional wisdom of their ancestors, an important educational goal at the JAMB level."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o wọpọ laarin owe, alọ, ati oriki gẹgẹ bi apa kan ti Litereso Alenu?",
+      "options": [
+        "Won je oro ti a mu wa lati ede miran",
+        "Gbogbo won je akọọlẹ ti a kọ sinu iwe",
+        "Gbogbo won je ọna ikosile ti a n gbe kalẹ ni ẹnu ti o gbe iye asa Yoruba jade",
+        "Won ko ni ibatan kankan si asa Yoruba"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proverbs, riddles, and praise chants are all forms of orally transmitted expression that collectively embody and communicate Yoruba cultural values and wisdom."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o le fa ki eniyan ma loye itumọ jinlẹ ti owe kan ti a ba ko mọ asa ti o wa lẹhin rẹ?",
+      "options": [
+        "Nitori gbogbo eniyan ni oye kanna nipa owe",
+        "Nitori owe ko ni itumọ kankan ni gbogbo igba",
+        "Aini imọ nipa asa ati ipo ti a lo owe naa",
+        "Nitori owe je oro tuntun nikan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fully grasping the deeper meaning of a proverb often requires cultural and contextual knowledge, since much of the intended wisdom relies on shared cultural understanding."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa ti Ewi/Oriki n ṣe ninu ayẹyẹ gbangba ni asa Yoruba, gẹgẹ bi igbeyawo tabi isipade oba?",
+      "options": [
+        "O n gbe iyi ati itan wọle sinu ayẹyẹ naa nipasẹ orin ati kikorin",
+        "Ko ni ipa kankan ninu ayẹyẹ gbangba",
+        "O n ropo iṣẹ awọn alufaa patapata",
+        "O n dojukọ iṣowo lakoko ayẹyẹ nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ewi and oriki performances add dignity, historical resonance, and ceremonial significance to public celebrations such as weddings or the installation of a traditional ruler."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a n pe eniyan ti oye rẹ ninu owe, alọ, ati oriki ma n ga ninu awujọ Yoruba?",
+      "options": [
+        "Alaroje nikan",
+        "Alagbede nikan",
+        "Akọwe (ti won ma n pe ni akewi/olowe fun ogbọn oro sisọ)",
+        "Alagbaro nikan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Individuals skilled in the eloquent use of proverbs, riddles, and praise poetry are traditionally highly respected in Yoruba society for their verbal artistry and wisdom."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Litereso ti a kọ sinu iwe, gẹgẹ bi arọ, ewi, ati eré ti a kọ sile?",
+      "options": [
+        "Alọ nikan",
+        "Litereso Kiko (written literature)",
+        "Owe nikan",
+        "Litereso Alenu (oral literature)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Written literature (Litereso Kiko) refers to literary works recorded in text form, such as novels, plays, and poetry collections, distinct from orally transmitted traditions."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu iwadi Litereso Kiko, kini a n reti lọwọ akẹkọ nipa iwe ti a yan fun u lati ka?",
+      "options": [
+        "Ki o kọrin iwe naa",
+        "Ki o yi iwe naa pada si ede miran",
+        "Ki o ka gbogbo oro inu iwe naa lai loye rẹ",
+        "Ki o loye koko-ọrọ, awọn ohun kikọ, ati ero ti onkọwe fẹ fi han"
+      ],
+      "correctIndex": 3,
+      "explanation": "Studying a prescribed literary text requires understanding its central theme, characters, and the message the author intends to convey, rather than mere superficial reading."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe koko-ọrọ pataki tabi ero ti onkọwe kan n gbiyanju lati fi han ninu iṣẹ litereso rẹ?",
+      "options": [
+        "Akori (theme)",
+        "Alọ",
+        "Owe",
+        "Ami ohun"
+      ],
+      "correctIndex": 0,
+      "explanation": "The theme (akori) of a literary work is its central underlying message or idea that the author seeks to convey to readers through the narrative or poetic content."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu Litereso Kiko, kini a n pe awọn eniyan ti n ṣe ipa ninu itan tabi eré kan?",
+      "options": [
+        "Ohun kikọ (characters)",
+        "Ami ohun",
+        "Asa",
+        "Akori"
+      ],
+      "correctIndex": 0,
+      "explanation": "Characters (ohun kikọ) are the individuals or entities who participate in and drive the events of a literary narrative, essential to analysing prose or drama."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa JAMB n ṣe ninu yiyan awọn iwe kan pato fun apa Litereso Kiko ti idanwo Yoruba?",
+      "options": [
+        "JAMB n ṣe akojọ awọn iwe arọ, ewi, ati eré ti awọn akẹkọ gbọdọ ka fun idanwo naa",
+        "JAMB n ṣe akojọ orin gbajumo nikan",
+        "JAMB ko ni ipa kankan ninu eyi",
+        "JAMB n ṣe akojọ awọn owe nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "JAMB specifies a particular set of prescribed prose, poetry, and drama texts that students are expected to study in preparation for the Yoruba written literature examination."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini agbara pataki ti a nilo lati ṣe itupale (analysis) ti itan tabi eré ti a kọ sinu iwe ni ede Yoruba?",
+      "options": [
+        "Agbara lati ka iwe ni yara laisi loye",
+        "Agbara lati ko iwe ẹbẹ nikan",
+        "Agbara lati kọ ewi nikan",
+        "Agbara lati ṣawari akori, ohun kikọ, ati ipo itan naa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effective literary analysis requires the ability to identify a text's theme, characters, and setting, enabling deeper understanding beyond surface-level reading."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to ye ki a ma ṣe amoro alaye pataki nipa iwe kan pato ti a ko mọ daadaa ninu Litereso Kiko?",
+      "options": [
+        "Nitori eyi le fa aṣiṣe ati alaye ti ko tọ nipa iwe naa",
+        "Nitori gbogbo iwe je itan kan naa",
+        "Nitori awọn akẹkọ ko nilo alaye to peye",
+        "Nitori ko si iṣoro kankan lati ṣe bẹẹ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Guessing at detailed specifics of a text one is not confident about risks producing inaccurate information, which is why general, safely-known facts are preferred over unverified detail."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o le se iranlọwọ fun akẹkọ lati loye Litereso Kiko dara ju bi o se n ka iwe lasan?",
+      "options": [
+        "Fifiyesi akori, ipo itan, ati bi ohun kikọ ṣe n hu iwa jakejado itan naa",
+        "Fifiyesi nọmba oju-iwe iwe naa nikan",
+        "Aiṣe kaakiri iwe naa rara",
+        "Fifiyesi awọ ideri iwe naa nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "A deeper understanding of written literature comes from paying close attention to theme, setting, and character development throughout the narrative, not superficial details."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Olodumare ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Orisa kekere kan nikan",
+        "Ọba kan ti o ku laipe",
+        "Eleda giga julọ, orisun agbara gbogbo",
+        "Ẹmi buburu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Olódùmarè is traditionally regarded in Yoruba belief as the Supreme Creator, the ultimate source of all power and existence."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe irunmọlẹ ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Awọn orisa tabi ẹmi ti a n bọ ti n ṣiṣẹ gẹgẹ bi aṣoju laarin Olodumare ati eniyan",
+        "Awọn oba atijọ nikan",
+        "Ẹmi buburu nikan",
+        "Ounjẹ ibile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Irúnmọlẹ̀ are traditionally understood as divine spirits or deities within Yoruba belief, often serving as intermediaries between Olódùmarè and human beings."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe emi ti a gbagbọ pe o ti ku ṣugbọn ti n farahan bi eniyan alaaye ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Irunmọlẹ",
+        "Akudaaya",
+        "Emere",
+        "Ọsanyìn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Akùdàáyà refers to a spirit believed in Yoruba folklore to be a deceased person who reappears in the physical world, living among the living as though still alive."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ọmọ ti a gbagbọ pe o ni ibatan pẹlu aiye ẹmi, ti o le ku laipe ti a ko ba ṣe ilana kan pato, ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Irunmọlẹ",
+        "Babalawo",
+        "Emere",
+        "Akudaaya"
+      ],
+      "correctIndex": 2,
+      "explanation": "Emèrè, within traditional Yoruba belief, refers to a spiritually significant child thought to have a special connection with the spirit world, sometimes associated with fragile or unusual life circumstances requiring particular rites."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa Babalawo n ṣe ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "O n ṣiṣẹ gẹgẹ bi olori ọmọ ogun nikan",
+        "O n ṣiṣẹ gẹgẹ bi oniṣowo nikan",
+        "O n ṣiṣẹ gẹgẹ bi alufa Ifa, ti n tumọ ifiranṣẹ awọn orisa nipasẹ Ifa",
+        "O n ṣiṣẹ gẹgẹ bi agbẹ nikan"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Babalawo serves as an Ifa priest, trained to interpret divine messages through the Ifa divination system, playing a central role in traditional Yoruba spiritual practice."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe eto asọtẹlẹ ibile Yoruba ti Babalawo n lo lati ba awọn orisa sọrọ?",
+      "options": [
+        "Sango",
+        "Egungun",
+        "Oduduwa",
+        "Ifa (Ifa divination)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ifa is the traditional Yoruba divination system, through which Babalawo priests interpret messages and guidance believed to come from Olódùmarè and the deities."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini Sango duro fun ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Orisa oogun ati ewe",
+        "Orisa irin",
+        "Orisa omi",
+        "Orisa mọnamọna ati ãrá"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sàngó is traditionally worshipped as the Yoruba deity associated with thunder and lightning, one of the most prominent Orisa in Yoruba religious belief."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini Ogun duro fun ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Orisa mọnamọna",
+        "Orisa irin ati ogun",
+        "Orisa oogun",
+        "Orisa omi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ògún is traditionally recognised as the Yoruba deity of iron, war, and metalwork, closely associated with blacksmiths, hunters, and warriors."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini Osun duro fun ninu igbagbọ ibile Yoruba?",
+      "options": [
+        "Orisa irin",
+        "Orisa ãrá",
+        "Orisa iku",
+        "Orisa odo ati abo"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ọ̀ṣun is traditionally worshipped as the Yoruba goddess associated with rivers, fertility, and femininity, notably linked to the Osun River in Osun State."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi pataki ti igbagbọ ninu irunmọlẹ ati awọn orisa ṣe pataki to ninu asa Yoruba ibile?",
+      "options": [
+        "Won n ṣe apejuwe ọna eniyan gba loye agbaye ati ipa awọn agbara giga lori aye won",
+        "Won ko ni itumọ kankan ninu igbesi aye ojoojumọ",
+        "Won je ohun kikọ itan-akọọlẹ lasan lai ni itumọ",
+        "Won n dojukọ iṣowo lasan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Belief in the Irunmọlẹ and Orisa traditionally shapes how Yoruba people understand the world and the influence of higher spiritual forces on their daily lives."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana gbigbe oye tabi ipo ọba ni asa Yoruba?",
+      "options": [
+        "Oye jije (kingship/chieftaincy installation)",
+        "Ijeun",
+        "Isinku",
+        "Igbeyawo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oye jíjẹ refers to the traditional institution and process of taking up a chieftaincy or kingship title within Yoruba society."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe itọju aisan ti a n ṣe pẹlu ewe ati oogun ibile ninu asa Yoruba?",
+      "options": [
+        "Aroko",
+        "Itoju alaisan (traditional healthcare)",
+        "Igbeyawo",
+        "Oye jije"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ìtọ́jú aláìsàn refers to traditional Yoruba healthcare practices, often involving herbal medicine and spiritual healing methods administered by traditional healers."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iṣẹ agbe ninu ede Yoruba?",
+      "options": [
+        "Oye jije",
+        "Ilu lilu (drumming)",
+        "Isinku",
+        "Agbe (farming)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Àgbẹ̀ refers to the occupation of farming, one of the important traditional indigenous professions within Yoruba society."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iṣẹ lilu ilu ibile ninu asa Yoruba, ti a n lo fun ijo ati ayẹyẹ?",
+      "options": [
+        "Oye jije",
+        "Isinku",
+        "Agbe",
+        "Ilu lilu (drumming)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ìlù lílù (drumming) is a significant indigenous profession and art form in Yoruba culture, essential for music, dance, and various ceremonial occasions."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iyan ninu ede Gẹẹsi, ounjẹ ibile Yoruba ti a n gbin lati isu?",
+      "options": [
+        "Beans",
+        "Bread",
+        "Rice",
+        "Pounded yam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iyán (pounded yam) is a staple heritage food in Yoruba cuisine, prepared by pounding boiled yam into a smooth, dough-like consistency."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini abari ninu asa ijeun Yoruba?",
+      "options": [
+        "Aṣọ ibile",
+        "Ohun elo ile",
+        "Iru ounjẹ ibile kan ti a n pese lati agbado tabi ẹwa",
+        "Ohun elo ogbin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Àbàrí is a traditional Yoruba food dish, typically prepared from ingredients such as maize or beans, forming part of the region's heritage cuisine."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to ye ki a ka oye jije si ile-iṣẹ pataki ninu asa Yoruba?",
+      "options": [
+        "Nitori ko ni itumọ kankan mọ",
+        "Nitori o je ere idaraya lasan",
+        "Nitori o je iṣẹ ti awọn aṣikiri nikan n ṣe",
+        "Nitori o n pese aṣaaju ati ilana isakoso ibile fun awujọ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chieftaincy and kingship institutions traditionally provide leadership and customary governance structures essential to the organisation of Yoruba society."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa awọn oniṣegun ibile n ṣe ninu itoju alaisan ni asa Yoruba?",
+      "options": [
+        "Won ko ni ipa kankan ninu itoju alaisan",
+        "Won n lo iṣẹ abẹ ode oni nikan",
+        "Won n dojukọ iṣowo nikan",
+        "Won n lo ewe, egbo, ati imọ ibile lati wo aisan sàn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional healers use herbs, roots, and inherited indigenous knowledge to treat illnesses, forming an important part of Yoruba traditional healthcare practices."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi ti asa isinku fi ṣe pataki ninu awujọ Yoruba?",
+      "options": [
+        "O n dojukọ iṣowo nikan",
+        "O n fi ọwọ ati iyi han fun oku ẹni ti o ku, ati pe o n mu idile ati agbegbe jọ",
+        "O je asiko idaraya lasan",
+        "Ko ni itumọ kankan ninu asa Yoruba"
+      ],
+      "correctIndex": 1,
+      "explanation": "Funeral customs hold significant cultural importance in Yoruba society, honouring the deceased with dignity while also bringing family and community together during mourning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi ti iyan ati abari fi ka si 'ounjẹ ajogunba' (heritage foods) ninu asa Yoruba?",
+      "options": [
+        "Nitori won je ounjẹ ti a mu wa lati ilu okeere",
+        "Nitori won ko ni ibatan kankan pẹlu asa Yoruba",
+        "Nitori won ti je apa pataki ninu ounjẹ Yoruba fun ọpọlọpọ iran",
+        "Nitori won je ounjẹ tuntun ti a ṣẹṣẹ da"
+      ],
+      "correctIndex": 2,
+      "explanation": "Iyán and àbàrí are considered heritage foods because they have remained central staples of Yoruba cuisine across many generations, deeply embedded in the culture's culinary tradition."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini abajade ti o le waye ti oye jije ba pẹlu ẹtọ lati sakoso ilẹ ati ọrọ awujọ ni asa Yoruba?",
+      "options": [
+        "Ko si abajade kankan",
+        "Ẹni to gba oye naa yoo di talaka lesekese",
+        "Ẹni to gba oye naa yoo ni ojuse lati darí awujọ ati pa aṣa mọ",
+        "Ẹni to gba oye naa yoo padanu gbogbo ẹtọ ilẹ rẹ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taking up a traditional title typically comes with the responsibility of providing leadership to the community and helping preserve important cultural customs and practices."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to fi je ki agbe ati ilu lilu ka si iṣẹ pataki ninu asa Yoruba ibile?",
+      "options": [
+        "Won je iṣẹ ti a ṣẹṣẹ ṣe agbekalẹ ni igba diẹ sẹhin",
+        "Won je ipilẹ eto-ọrọ aje ati aṣa igbesi aye awujọ ibile",
+        "Won je iṣẹ ti ko ni iye kankan",
+        "Won je iṣẹ ti awọn ọmọ ile-iwe nikan n ṣe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Farming and drumming have traditionally formed the foundation of both the economic livelihood and cultural life of Yoruba communities."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iwa rere ati iwa to peye ti a n reti lọwọ eniyan ninu asa Yoruba, ti a n pe ni 'Omoluabi'?",
+      "options": [
+        "Owe lasan",
+        "Oye jije",
+        "Iwa Omoluabi (character/good moral values)",
+        "Ofo aabo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ìwà Ọmọlúàbí describes the concept of good character and moral uprightness highly valued in Yoruba society, encompassing qualities such as honesty, respect, and integrity."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini diẹ ninu awọn iwa pataki ti a n reti lọwọ 'Omoluabi' ninu asa Yoruba?",
+      "options": [
+        "Iwa aigbọran ati ẹtan",
+        "Iwa ipanilaya",
+        "Iwa ọlẹ ati aibikita",
+        "Otitọ, iteriba, ati ọwọ fun awọn agbalagba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Being an Ọmọlúàbí involves embodying values such as honesty, respectfulness, and reverence for elders, central to good moral character in Yoruba culture."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Bawo ni a se ka nọmba 'ọkan' (1) ninu ede Yoruba?",
+      "options": [
+        "Ọkan",
+        "Meta",
+        "Meji",
+        "Merin"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ọkan' is the Yoruba word for the number one, the basic starting point of the Yoruba counting system."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Bawo ni a se ka nọmba 'mẹwa' (10) ninu ede Yoruba?",
+      "options": [
+        "Ẹgbẹrun",
+        "Mẹwa",
+        "Ọgọrun",
+        "Ogun"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Mẹwa' is the Yoruba word for the number ten, distinct from 'ogun' (twenty), 'ọgọrun' (one hundred), and 'ẹgbẹrun' (one thousand)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Bawo ni a se ka nọmba 'ogun' (20) ninu ede Yoruba?",
+      "options": [
+        "Ẹgbẹrun",
+        "Mẹwa",
+        "Ọgọrun",
+        "Ogun"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ogun' is the Yoruba word for the number twenty, a base unit in the traditional Yoruba vigesimal (base-20) counting system."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Bawo ni a se ka nọmba 'ọgọrun' (100) ninu ede Yoruba?",
+      "options": [
+        "Ogun",
+        "Mẹwa",
+        "Ẹgbẹrun",
+        "Ọgọrun"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ọgọrun' is the Yoruba word for the number one hundred, distinct from 'ẹgbẹrun' (one thousand)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Bawo ni a se ka nọmba 'ẹgbẹrun' (1,000) ninu ede Yoruba?",
+      "options": [
+        "Ẹgbẹrun",
+        "Mẹwa",
+        "Ogun",
+        "Ọgọrun"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Ẹgbẹrun' is the Yoruba word for the number one thousand, an important base unit for counting larger quantities."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to ye ki a mọ eto kika nọmba Yoruba fun idanwo JAMB, gẹgẹ bi a ti kọ ninu eto-ẹkọ 'Òǹkà Yorùbá'?",
+      "options": [
+        "Nitori nọmba Yoruba ko yato si Gẹẹsi rara",
+        "Nitori a ko lo nọmba mọ ninu ede Yoruba ode oni",
+        "Nitori idanwo naa le beere lọwọ akẹkọ lati ka tabi ka nọmba to ga bii 20,000 ni ede Yoruba",
+        "Nitori ko si idi to ye rara"
+      ],
+      "correctIndex": 2,
+      "explanation": "The JAMB Yoruba syllabus specifically covers counting numbers up to 20,000 (Òǹkà Yorùbá), reflecting the traditional Yoruba numeral system's unique structure, distinct from simple English translation."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi pataki ti a fi n kọ iye Iwa Omoluabi fun awọn ọmọde ninu asa Yoruba?",
+      "options": [
+        "Ko si idi pataki",
+        "Lati je ki won gbagbe asa won",
+        "Lati kọ won ni iwa buburu",
+        "Lati kọ won ni iwa rere ti yoo ran won lọwọ lati gbe daradara ninu awujọ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Teaching Ọmọlúàbí values to children aims to instil good moral character that will help them live harmoniously and respectfully within their community as they grow."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Faweli wo ninu awọn wọnyi ni a n pe ni faweli ìmú (nasal vowel), gẹgẹ bi a ṣe n lo ninu 'inú' ati 'ọ̀wọ́n'?",
+      "options": [
+        "/i/ àti /ẹ/ nínú 'ilé'",
+        "/an/, /ẹn/, àti /un/",
+        "/u/ àti /o/ nínú 'ọkọ'",
+        "/a/ nínú 'aago'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Faweli ìmú (nasal vowels) in Yoruba, such as those represented as 'an', 'ẹn', 'un', are produced with air passing through the nose, unlike oral vowels (faweli ẹnu) which are articulated with air flowing only through the mouth."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin faweli ẹnu ati faweli ìmú ninu ede Yoruba boṣewa?",
+      "options": [
+        "Faweli ẹnu ni a n pe pẹlu afẹfẹ ti n gba imu la kọja, faweli ìmú si ni a n pe pẹlu afẹfẹ ti n gba ẹnu nikan",
+        "Faweli ẹnu ni a n pe pẹlu afẹfẹ ti n gba ẹnu nikan la kọja, faweli ìmú si ni a n pe pẹlu afẹfẹ ti apa kan n gba imu la kọja",
+        "Ko si iyato foonuiṣẹ kankan laarin awọn mejeeji, orukọ nikan ni o yato",
+        "Faweli ìmú nikan ni a le lo ni ibẹrẹ oro, faweli ẹnu si ni a le lo ni ipari oro nikan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oral vowels are produced with airflow passing exclusively through the mouth, while nasal vowels involve air resonating partly through the nasal cavity, a phonemic distinction that can change word meaning in Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu ọrọ 'ìjà' (fight) ati 'ìjàn' (a type of fish/certain contexts nasalised), kini o fa iyato ninu itumọ awọn ọrọ meji wọnyi?",
+      "options": [
+        "Iye alusilo ti o wa ninu ọrọ kọọkan",
+        "Ami ohun ti a fi si oke ọrọ kọọkan",
+        "Wiwa tabi aiwa faweli ìmú ni opin ọrọ naa",
+        "Kọnsonanti ìbẹrẹ ọrọ kọọkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The presence or absence of a nasal vowel at the end of a word can be the deciding phonemic feature that separates two otherwise similar-sounding Yoruba words with different meanings."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Iru alusilo (syllable) wo ni a rii ninu ọrọ Yoruba 'a' gẹgẹ bi ninu 'a-lá' (a dreamt)?",
+      "options": [
+        "Kọnsonanti-Faweli (CV)",
+        "Faweli nikan (V)",
+        "Kọnsonanti-Kọnsonanti-Faweli (CCV)",
+        "Nasali nikan (N)"
+      ],
+      "correctIndex": 1,
+      "explanation": "A syllable consisting of a single vowel sound with no preceding consonant is classified structurally as a V (vowel-only) syllable, one of the basic syllable types recognised in Yoruba phonology."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Iru alusilo wo ni ọrọ 'n' fi ara han ninu 'n lọ' (I am going), ninu ẹka fonoloji Yoruba?",
+      "options": [
+        "Kọnsonanti-Faweli (CV)",
+        "Faweli-Kọnsonanti (VC)",
+        "Nasali sonorant syllable (N)",
+        "Kọnsonanti-Kọnsonanti (CC)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The syllabic nasal 'n' functions on its own as a complete syllable nucleus in Yoruba, a distinct syllable type known as a syllabic nasal (N), occurring without an accompanying vowel."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu awọn ọrọ 'bàtà' ati 'bátà', kini o ṣe iyato itumọ awọn ọrọ meji wọnyi ti akọtọ wọn fi jọra?",
+      "options": [
+        "Iye kọnsonanti ninu ọrọ kọọkan",
+        "Ilana ami ohun (tone pattern) lori alusilo kọọkan",
+        "Ipari faweli ọrọ kọọkan",
+        "Kikọ ọrọ pẹlu tabi lai ni olori-oro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because Yoruba is tonal, two words with identical letters can have entirely different meanings depending solely on the tone pattern marked on each syllable — a key testable distinction in Yoruba phonology."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ninu eyi ti ohun kan yi pada lati je iru ohun ti o wa nitosi rẹ ninu ọrọ (assimilation), bi ninu 'iranwo' ti a le pe ni 'iranlọwọ'?",
+      "options": [
+        "Ifisọrọ ohun (assimilation)",
+        "Isunki vaweli (elision)",
+        "Iparẹ oro (deletion)",
+        "Ifikun oro (epenthesis)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Assimilation (ifisọrọ ohun) is a phonological process where a sound changes to become more similar to a neighbouring sound, distinct from elision (loss of a vowel) or deletion (loss of a whole segment)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato laarin isunki vaweli (elision) ati ifikun oro (epenthesis) ninu fonoloji Yoruba?",
+      "options": [
+        "Isunki vaweli n fi ohun kun ọrọ, ifikun oro si n yọ ohun kuro",
+        "Isunki vaweli n yọ faweli kuro nigba ti oro meji ba pade, ifikun oro si n fi ohun kun ibi ti ko si tẹlẹ",
+        "Awọn mejeeji tumọ si ohun kan naa gan-an",
+        "Isunki vaweli n kan kọnsonanti nikan, ifikun oro si n kan ami ohun nikan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elision removes a vowel sound during the meeting of two words in speech, whereas epenthesis is the insertion of an extra sound into a word where none existed before — the two processes are opposites."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu ilana ìfohunṣọkan faweli (vowel harmony) ninu ede Yoruba, kini o n ṣẹlẹ ninu gbolohun kan?",
+      "options": [
+        "Kọnsonanti n yi pada da lori faweli ti n tẹle e",
+        "Ami ohun n parẹ patapata ninu gbolohun",
+        "Faweli kan n ni ipa lori bi a ṣe n pe faweli miran ninu oro kanna, ki won le baramu ni ipo (fun apẹẹrẹ, ẹnu si ẹnu, sunmọ si sunmọ)",
+        "Alusilo n dinku ni gbogbo igba"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vowel harmony in Yoruba refers to the tendency for vowels within a word to influence one another so that they share similar articulatory features, such as vowel height or advanced tongue root position."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu ọrọ Yoruba, ewo ninu wọnyi ṣe apejuwe pipe iṣupọ kọnsonanti meji ti a ko le ya sọtọ ni pipe (kọnsonanti didapọ)?",
+      "options": [
+        "d ati l ninu 'dele'",
+        "gb ninu 'igba' ati kp ninu 'akpa' (gẹgẹ bi ninu ede miran ti o jọra)",
+        "s ati e ninu 'se'",
+        "t ati a ninu 'ta'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consonant digraphs like 'gb' represent single unified sounds rather than two separate consonants pronounced in sequence, a key feature distinguishing them from ordinary consonant clusters."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iyipada ninu eyi ti ohun oke (high tone) ba yi padà di ohun sisale nitori ipa ohun ti o tele e (tone sandhi/downstep)?",
+      "options": [
+        "Ìsúnkì ohùn (downstep/tone sandhi)",
+        "Ìdàpọ̀ ọ̀rọ̀",
+        "Ìfikún fáwélì",
+        "Ìyọ̀ǹda ọ̀rọ̀"
+      ],
+      "correctIndex": 0,
+      "explanation": "Downstep (ìsúnkì ohùn) is a tonal phenomenon in Yoruba where a high tone is realised at a lower pitch level due to the influence of an adjacent tone, a subtle but important feature of the tonal system."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ọrọ 'ọmọ' ati 'ọmọ̀' (ti a ba fojuinu iyato ami ohun) ṣe afihan iru iyato wo ninu fonoloji Yoruba, ti o le yi itumọ pada patapata?",
+      "options": [
+        "Iyato ninu iye alusilo",
+        "Iyato ninu ilana ami ohun (tonemic contrast)",
+        "Iyato ninu ipo kọnsonanti",
+        "Ko si iyato kankan gan-an"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tonemic contrast occurs when a change purely in tone pattern, without any change in the consonants or vowels, produces a completely different word meaning — a hallmark of Yoruba's tonal phonology."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Ọrọ-orúkọ àpapọ̀ (compound noun) tí a dá láti inú 'omo' àti 'ọba', tí ó di 'ọmọba' (prince/princess)?",
+      "options": [
+        "Ọrọ àyálò",
+        "Ọrọ-orúkọ àdàpọ̀ (compound noun)",
+        "Ọrọ-ìse àdàpọ̀",
+        "Ìfòyemọ̀ ọ̀rọ̀"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ọmọba' is a compound noun formed by joining 'ọmọ' (child) and 'ọba' (king), a common Yoruba morphological process where two nouns combine to create a new noun with a distinct, unified meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu ọrọ 'onímọ̀' (a person of knowledge, expert), kini ipa ti awọn ìránṣé bii 'oní-' n ṣe ninu isodipupo oro Yoruba?",
+      "options": [
+        "Won n dá ọ̀rọ̀-ìse tuntun nìkan",
+        "Won n yọ oro kuro ninu gbolohun",
+        "Won n so ọrọ-orúkọ di oro-oruko titun ti n ṣàpèjúwe ẹni-nini tabi amoye ohun kan",
+        "Won kò ní ìtumọ̀ kankan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The prefix 'oní-' (or its variant 'olú-'/'ẹlẹ́') is used productively in Yoruba to derive new agentive/possessive nouns, such as 'onímọ̀' (one who possesses knowledge, an expert), from a noun base."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ìlànà ìsọdipúpọ̀ ọ̀rọ̀ nínú èyí tí a ṣe àtúnṣe apá kan ọ̀rọ̀ kan láti dá ọ̀rọ̀ tuntun sílẹ̀, bí i 'sisọ' láti inú 'sọ'?",
+      "options": [
+        "Ìdàpọ̀ (compounding)",
+        "Àyálò (borrowing)",
+        "Rédúpìlíkèṣọ̀n (reduplication)",
+        "Ìparẹ́ (deletion)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reduplication involves repeating all or part of a word (often a verb root) to create a new word, frequently forming a gerund-like noun form in Yoruba, such as 'sisọ' (the act of speaking) from 'sọ' (to speak)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu gbolohun 'Adé ra ìwé tí ó ṣeyebíye lánàá', ewo ninu awọn wọnyi ni gbolohun onigun-meta (complex sentence) fi ara han?",
+      "options": [
+        "Ko si gbolohun onigun-meta ninu rẹ rara, gbolohun rọrun ni",
+        "Apa 'tí ó ṣeyebíye' je gbolohun kekere (subordinate clause) ti n ṣàpèjúwe 'ìwé'",
+        "Gbolohun naa je gbolohun idapọ (compound) nikan",
+        "Gbolohun naa ko ni oro-ise kankan"
+      ],
+      "correctIndex": 1,
+      "explanation": "A complex sentence contains at least one subordinate (dependent) clause attached to an independent clause; here, 'tí ó ṣeyebíye' is a relative clause modifying 'ìwé', making the sentence complex rather than simple."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin gbolohun idapọ (compound sentence) ati gbolohun onigun-meta (complex sentence) ninu ede Yoruba?",
+      "options": [
+        "Gbolohun idapọ ni gbolohun olominira meji tabi ju bẹẹ lọ ti a fi oro-asopọ dogba so pọ, gbolohun onigun-meta si ni gbolohun olominira kan pẹlu gbolohun keji ti ko le duro nikan",
+        "Gbolohun idapọ ko ni oro-asopọ rara",
+        "Gbolohun onigun-meta ni gbolohun meji olominira ti dogba pẹlu ara won nigbagbogbo",
+        "Ko si iyato kankan laarin awọn mejeeji"
+      ],
+      "correctIndex": 0,
+      "explanation": "A compound sentence links two independent (equally weighted) clauses with a coordinating conjunction, while a complex sentence pairs an independent clause with a dependent clause that cannot stand alone."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu gbolohun 'Bí òjò bá rọ̀, a ó dúró sí ilé', kini ipa ti apa 'Bí òjò bá rọ̀' n ṣe ninu girama gbolohun naa?",
+      "options": [
+        "O je gbolohun oloye (main clause)",
+        "O je gbolohun kekere ti n ṣàfihàn ipo (conditional subordinate clause)",
+        "O je oro-atokun nikan",
+        "O je oro-oruko nikan"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bí òjò bá rọ̀' (if it rains) functions as a conditional subordinate clause, setting a condition upon which the main clause depends, a hallmark structure in complex Yoruba sentences."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn gbolohun wọnyi ni o ṣe àpẹẹrẹ gbolohun rọrun (simple sentence) tí ó pé?",
+      "options": [
+        "Adé lọ sí ọjà, ó sì ra ẹja",
+        "Adé lọ sí ọjà",
+        "Adé lọ sí ọjà nítorí pé ebi ń pa á",
+        "Bí Adé bá lọ sí ọjà, yóò ra ẹja"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Adé lọ sí ọjà' (Ade went to the market) contains a single subject and predicate with no additional clause, making it a simple sentence, unlike the other options which include coordinating or subordinating structures."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe oro-ise ti o nilo oro-oruko keji (object) lati pe gbolohun naa, gẹgẹ bi 'ra' ninu 'Adé ra ìwé'?",
+      "options": [
+        "Oro-ise alaimoye (intransitive verb)",
+        "Oro-ise amoye (transitive verb)",
+        "Oro-aponle",
+        "Oro-atokun"
+      ],
+      "correctIndex": 1,
+      "explanation": "A transitive verb (oro-ise amoye) requires a direct object to complete its meaning, such as 'ra' (buy) requiring 'ìwé' (book) in 'Adé ra ìwé', unlike intransitive verbs which do not take an object."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn oro-ise wọnyi ni oro-ise alaimoye (intransitive verb), ti ko nilo oro-oruko keji lati pe itumọ rẹ?",
+      "options": [
+        "Ra (buy)",
+        "Rí (see)",
+        "Sùn (sleep)",
+        "Kọ (write)"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sùn' (to sleep) is intransitive because it forms a complete meaning without requiring a direct object, unlike verbs like 'ra' (buy), 'rí' (see), or 'kọ' (write) which typically take an object."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ọ̀rọ̀ tí ó dúró fún ipò ọ̀rọ̀-orúkọ nínú gbólóhùn, tí ó sì ń fi hàn ẹni tí ń ní nǹkan, gẹ́gẹ́ bí 'tèmi' (mine)?",
+      "options": [
+        "Oro-nfiropo asenilaya (possessive pronoun)",
+        "Oro-atokun",
+        "Oro-aponle",
+        "Oro-ise arannilọwọ"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tèmi' (mine) is a possessive pronoun, indicating ownership in place of a full possessive noun phrase, distinct from ordinary personal pronouns or adjectives."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu gbolohun 'Òun fúnra rẹ̀ ni ó ṣe é', kini ipa ti 'fúnra rẹ̀' n ṣe ninu gbolohun naa?",
+      "options": [
+        "O n ṣiṣẹ gẹgẹ bi oro-atokun",
+        "O n ṣiṣẹ gẹgẹ bi oro-nfiropo àrayé (reflexive/emphatic pronoun) ti n te ku sori ẹni ti n se ise",
+        "O n ṣiṣẹ gẹgẹ bi oro-ise keji",
+        "Ko ni ipa kankan ninu gbolohun naa"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Fúnra rẹ̀' functions as a reflexive/emphatic pronoun construction, emphasising that the subject performed the action personally, a nuanced grammatical feature in Yoruba pronoun usage."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iru gbolohun ti a n lo lati fi han iyalẹnu tabi ero ti o le, gẹgẹ bi 'Hà! Kí nìdí tó fi rí báyìí!'?",
+      "options": [
+        "Gbolohun aṣẹ",
+        "Gbolohun ìbéèrè",
+        "Gbolohun ìyanu (exclamatory sentence)",
+        "Gbolohun akọọlẹ lasan"
+      ],
+      "correctIndex": 2,
+      "explanation": "An exclamatory sentence expresses strong emotion such as surprise or shock, often marked by an exclamation, distinct from declarative, interrogative, or imperative sentence types."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ka ẹsẹ yi: 'Ojú ọjọ́ ti bẹ̀rẹ̀ sí í yí padà ní abúlé Ìjẹ̀bú. Àwọn àgbẹ̀ ti dáwọ́ iṣẹ́ ìṣẹ̀ǹbáyé wọn dúró, wọ́n sì ń wo ojú ọ̀run pẹ̀lú ìjayà, nítorí ìjì líle kan ń bọ̀ wá.' Kini akori akọkọ ti a le ri ninu ẹsẹ yi?",
+      "options": [
+        "Ayẹyẹ igbeyawo ni Ijẹbu",
+        "Iyipada ojú ọjọ́ ati ẹ̀rù ti o dá sí awọn àgbẹ̀",
+        "Itan iṣowo laarin awọn ilu meji",
+        "Ogun laarin awọn ilu adugbo"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage centres on a sudden change in weather in Ijẹbu and the resulting fear among farmers who abandon their work upon seeing signs of an approaching storm."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Lati inu ẹsẹ kanna, kini a le ka lati inu ọrọ 'ìjayà' gẹgẹ bi a ti lo o ninu gbolohun naa?",
+      "options": [
+        "Ayọ ti o pọju",
+        "Ibinu si ẹnikan",
+        "Ìbẹ̀rù tabi àníyàn ninu ọkan",
+        "Ìdákẹ́jẹ́ẹ́ tí kò ní ìtumọ̀"
+      ],
+      "correctIndex": 2,
+      "explanation": "In context, 'ìjayà' refers to a feeling of fear or apprehension, matching how the farmers react anxiously to the sky as the storm approaches."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Da lori ẹsẹ kanna, kini a le ṣe amoro rẹ (infer) nipa ipo awọn àgbẹ̀ naa laisi ki a ka a ni gbangba ninu ẹsẹ naa?",
+      "options": [
+        "Won yoo tesiwaju iṣẹ won lai fiyesi ojú ọjọ́",
+        "Won le pinnu lati wa ààbò tabi ibi ààbò nitori iberu ìjì to ń bọ̀",
+        "Won ti pinnu lati kuro ni oko fun ààyè",
+        "Ẹsẹ naa ko fun wa ni alaye kankan lati fi ṣe amoro"
+      ],
+      "correctIndex": 1,
+      "explanation": "Although not explicitly stated, the description of farmers halting work and watching the sky with fear implies they are likely to seek shelter or safety before the storm arrives — an inference drawn from contextual clues."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Bi a se n tumọ gbolohun Gẹẹsi 'The chief priest consulted the oracle before the coronation' si ede Yoruba, ewo ninu awọn wọnyi ni ogbufo to peye julọ?",
+      "options": [
+        "Olori àlùfáà náà bá awọn ọmọ ìjọ sọ̀rọ̀ ṣáájú ayẹyẹ",
+        "Babaláwo náà bèèrè Ifá ṣáájú ìsipa oyè náà",
+        "Olú-àlùfáà náà rí ọ̀run ṣáájú ìgbéyàwó",
+        "Ọba náà kọ orin ṣáájú ìsipa oyè náà"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Babaláwo náà bèèrè Ifá ṣáájú ìsipa oyè náà' accurately conveys the meaning of consulting a diviner (Ifa oracle) before a coronation, preserving both meaning and correct Yoruba grammatical structure."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn ogbufo wọnyi ti oro Gẹẹsi 'It is better to prevent than to cure' ṣe deede julọ ni ede Yoruba, ni lilo owe kan ti o ba a mu?",
+      "options": [
+        "Bi a ba nṣe egbogi a ma n gbadun rẹ̀",
+        "Ìṣọ́ra kàn kò lè pa ọ̀tá",
+        "Ìdènà san ju ìwòsàn lọ",
+        "Àìsàn kì í kú láìsí egbò"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ìdènà san ju ìwòsàn lọ' is a direct and grammatically natural Yoruba equivalent of the English saying 'prevention is better than cure,' correctly capturing both meaning and idiomatic structure."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iṣoro ti o wọpọ julọ nigba ti a ba ṣe ogbufo ọrọ Gẹẹsi kan lọ si Yoruba ni ọna 'ọrọ-fun-ọrọ' (word-for-word)?",
+      "options": [
+        "Ko si iṣoro kankan, o dara ju gbogbo ọna miran lọ",
+        "Gbolohun to jade le ma ni oye ninu Yoruba tabi ki o ya kuro ninu ilana girama Yoruba to peye",
+        "Ọna yi n mu ki ogbufo yara ju bi o ti ye lọ",
+        "Ọna yi ni JAMB nikan n gba fun gbogbo idahun"
+      ],
+      "correctIndex": 1,
+      "explanation": "Literal word-for-word translation often fails to preserve natural sentence flow and can violate the target language's own grammatical rules, producing translations that sound unnatural or unclear in Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu idanwo Akaye, ewo ninu awọn ilana wọnyi ni yoo ran akẹkọ lọwọ julọ lati dahun ibeere ti n beere 'kini idi ti onkọwe fi lo ọrọ yi'?",
+      "options": [
+        "Ki o wo bi ọrọ naa ṣe n ṣiṣẹ ninu ọrọ-ọrọ (context) ẹsẹ naa ati ipa ti o n ṣe si itumọ gbogbo rẹ̀",
+        "Ki o kan wo iwe atumọ ede Gẹẹsi laisi ero si ẹsẹ naa",
+        "Ki o fojufo ọrọ naa patapata ki o si dahun bi o se fẹ",
+        "Ki o ka ẹsẹ naa lekan kan soso lai pada wo o mọ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Understanding an author's word choice requires examining how that word functions contextually within the passage and what effect it has on overall meaning, not relying on isolated dictionary definitions."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ẹsẹ ìwòye tí a ń kọ láti fi hàn ìmọ̀lára jíjinlẹ̀ àti láti lo àwòrán (imagery) ju bí a ti ń rí i ninu ẹsẹ arọ (prose) lasan?",
+      "options": [
+        "Ẹsẹ arọ",
+        "Ẹsẹ ẹwì",
+        "Aroko ijiyan",
+        "Iwe ẹbẹ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poetic passages (ẹsẹ ẹwì) are characterised by deeper emotional expression and rich figurative imagery, distinguishing them from ordinary prose passages which tend toward straightforward narration."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Ìjálá ninu Litereso Alenu Yoruba?",
+      "options": [
+        "Orin ìsìnkú tí àwọn obìnrin ń kọ",
+        "Ẹsẹ orin/ewi ìṣọdẹ tí àwọn ọdẹ ń kọ láti yin Ògún àti ẹranko igbó",
+        "Ere ìbéèrè àti ìdáhùn àwọn ọmọdé",
+        "Owe tí a ń lò ní ìgbéyàwó"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ìjálá is a distinct oral poetic chant traditionally performed by hunters, closely associated with the worship of Ògún, celebrating hunting exploits and the forest world."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin Ìjálá ati Rárà gẹgẹ bi awọn oriṣi ewi alenu ninu asa Yoruba?",
+      "options": [
+        "Ìjálá jẹ́ ewì àwọn ọdẹ tí ó ní ìsopọ̀ pẹ̀lú Ògún, Rárà sì jẹ́ oríṣi ẹ̀wì tí a ń fi yin ẹnikẹ́ni tàbí ṣe àpèjúwe ìṣẹ̀lẹ̀ ní èdè tí ó gbé sókè",
+        "Awọn mejeeji jẹ́ ohun kan náà ní gbogbo ọ̀nà",
+        "Rárà nìkan ni àwọn ọdẹ ń kọ",
+        "Ìjálá kò ní í ṣe pẹ̀lú orin rárá"
+      ],
+      "correctIndex": 0,
+      "explanation": "While both are chanted oral poetry forms, Ìjálá is specifically tied to hunters and Ògún worship, whereas Rárà is a more general praise-chant form used to eulogise individuals or narrate events in an elevated poetic style."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Ẹṣà ninu ewi alenu Yoruba, ti a maa n so mọ awọn egúngún?",
+      "options": [
+        "Ẹsẹ ìyìn tí àwọn Ẹgbẹ́ Ẹgúngún ń kọ nígbà ìjó egúngún",
+        "Ọ̀rọ̀ ìjìnlẹ̀ tí babaláwo ń lò nínú Ifá",
+        "Owe tí a ń lò ní ilé ìwòsàn",
+        "Ẹsẹ tí àwọn ọdẹ ń kọ nínú igbó"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ẹ̀sà refers to a chant or praise poetry associated with masquerade (Egúngún) performances, distinct from Ìjálá (hunters' chant) or Ifá poetry."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn wọnyi ṣe apejuwe iyato pataki laarin Ìjálá, Ẹṣà, ati Rárà gẹgẹ bi awọn oriṣi ewi alenu?",
+      "options": [
+        "Won je ohun kanna, orukọ nikan ni o yato laarin awọn agbegbe",
+        "Won ko ni ibatan kankan pẹlu ara won rara",
+        "Won ya sọtọ nipa ẹgbẹ awujọ tabi ayeye ti won ṣe pataki si — Ìjálá fun ọdẹ, Ẹṣà fun egúngún, Rárà fun iyin gbogboogbo",
+        "Ìjálá àti Ẹṣà nìkan ni a lè kọ láìsí ìlù"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each of these oral poetry genres is tied to a distinct social or ceremonial context: Ìjálá to hunters, Ẹṣà to masquerade performances, and Rárà to general praise chanting, though all fall under Yoruba oral literature."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ẹsẹ tí babaláwo ń ké nígbà tí ó bá ń ṣí Ifá payá fún onibáárà rẹ̀?",
+      "options": [
+        "Ẹsẹ Ifá (Ifa poetry/verse)",
+        "Rárà Ìyàwó",
+        "Ìjálá Ọdẹ",
+        "Ẹṣà Egúngún"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ẹsẹ Ifá refers to the sacred verses chanted by a Babalawo when interpreting the Ifa divination system for a client, forming an extensive body of oral literary and philosophical tradition."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe alọ ti idahun rẹ le yato lati eniyan kan si eniyan miran, tabi ti ko ni idahun kan soso ti a gba mọ (Alọ Apamọ)?",
+      "options": [
+        "Alọ tí ó ní ìdáhùn kan tí gbogbo ènìyàn gbà",
+        "Alọ Apamọ, tí ó máa ń fi ọgbọ́n hàn ju ìdáhùn gidi lọ",
+        "Owe tí kò ní ìbéèrè",
+        "Oríkì ìdílé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alọ Apamọ are riddles whose answers are less fixed and more open to clever, imaginative interpretation, emphasising wit and reasoning over recalling one 'correct' factual answer."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe Alọ Apatagbe ninu asa Yoruba, ti a fi we Alọ Apamọ?",
+      "options": [
+        "Alọ tí ó jẹ́ ìtàn gígùn tí ó ní ìhùwàsí àti àwọn ohun kikọ, tí a ń pè ní ìtàn àlọ́",
+        "Alọ tí kò ní ìtàn kankan rárá",
+        "Owe tí a ń lò ní ọjà",
+        "Oríkì tí a ń kọ fún ọba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alọ Apatagbe refers to full folktale narratives with plot, characters, and moral lessons (ìtàn àlọ́), distinguished from Alọ Apamọ, which are short riddle-style question-and-answer exchanges."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn wọnyi ni apẹẹrẹ tí ó tọ́ jùlọ fún Alọ Apatagbe, kii ṣe Alọ Apamọ?",
+      "options": [
+        "'Kín ni ó ń rìn láìní ẹsẹ̀?' pẹ̀lú ìdáhùn 'Odò'",
+        "Ìtàn ìjàkadì tó wà láàrin Ìjàpá àti Erin, tí ó parí pẹ̀lú ẹ̀kọ́ ìwà rere",
+        "'Ilé mi kún fún ọmọ, síbẹ̀ ẹnu-ọ̀nà kan ṣoṣo ni ó ní' pẹ̀lú ìdáhùn 'Kòkòrò oyin'",
+        "'Kín ni a ó rí tí a bá wo sánmà ní ọ̀sán?' pẹ̀lú ìdáhùn 'Oòrùn'"
+      ],
+      "correctIndex": 1,
+      "explanation": "The story of a contest between the Tortoise (Ìjàpá) and the Elephant, ending with a moral lesson, exemplifies Alọ Apatagbe — a full folktale with characters and plot — unlike the short riddle-style examples in the other options, which are Alọ Apamọ."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi ti Ìjàpá (Tortoise) ṣe wọpọ gẹgẹ bi ohun kikọ akọkọ ninu ọpọlọpọ Alọ Apatagbe Yoruba?",
+      "options": [
+        "Nitori Ìjàpá je ẹranko to lagbara julọ ninu itan",
+        "Nitori Ìjàpá maa n ṣe afihan ọgbọn ẹ̀wẹ́ àti ẹ̀tàn, tí ó sábà máa ń kọ́ni ní ẹ̀kọ́ nípa ìwà rere àti àbájáde ìwà búburú",
+        "Nitori Ìjàpá kò lè sọ̀rọ̀ rárá nínú àwọn ìtàn wọnyi",
+        "Nitori Ìjàpá jẹ́ irú ẹyẹ kan"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Tortoise is a recurring trickster character in Yoruba folktales, often portrayed using cunning and deceit, with stories typically illustrating moral consequences of such behaviour to teach ethical lessons."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa ti orin tabi ilu n ṣe ninu bi a ṣe n ṣe Ìjálá ati Ẹṣà ninu iṣẹ won?",
+      "options": [
+        "Won ko ni ibatan kankan pẹlu orin tabi ilu",
+        "Won máa ń fi ohùn kan ṣoṣo ké láìsí ìlù rárá",
+        "Won máa ń lo àyíká ohùn àti fífọn kìjà pàápàá bí kò sí ìlù, ní ọ̀nà tí ó yàtọ̀ sí orin lásán",
+        "Won máa ń kọrin bí orin ìjó gbajúmọ̀ nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both Ìjálá and Ẹṣà are chanted using distinctive vocal patterns and stylised intonation, often without conventional musical accompaniment, marking them apart from ordinary popular songs."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe apa ninu Alọ Apatagbe ti n fun ni ẹkọ iwa rere ni ipari itan naa?",
+      "options": [
+        "Àkọlé",
+        "Ẹ̀kọ́ ìwà (moral lesson)",
+        "Ìṣẹ̀lẹ̀ àárín ìtàn",
+        "Ìbẹ̀rẹ̀ ìtàn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most Yoruba folktales conclude with a clear moral lesson (ẹ̀kọ́ ìwà), teaching the listener about proper conduct through the outcome of the story's events."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a n pe ohun ìjìnlẹ̀ inú ewi Ifá tí ó jẹ́ kí ó yàtọ̀ sí ewi lásán, ní pé ó ní ìsopọ̀ pẹ̀lú ìmọ̀ ìjìnlẹ̀ àti ìtàn àtọwọ́dọ́wọ́?",
+      "options": [
+        "Ẹsẹ Ifá ní ìsopọ̀ pẹ̀lú ẹ̀kọ́ ìṣèlú òde-òní nìkan",
+        "Ẹsẹ Ifá kò ní ìtumọ̀ jíjinlẹ̀ kankan",
+        "Ẹsẹ Ifá gbé ìmọ̀ ìjìnlẹ̀, ìtàn, àti ìlànà ìwà rere tí a ti ń fi ẹnu sọ láti ìran dé ìran jáde",
+        "Ẹsẹ Ifá jẹ́ ewì tí a ṣẹ̀ṣẹ̀ dá láìpẹ́"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ifa verses carry deep philosophical, historical, and moral knowledge that has been orally transmitted across generations, making Ifa poetry a rich repository of traditional Yoruba wisdom rather than mere entertainment verse."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ipele ninu Alọ Apamọ nibi ti eniyan meji ba n paarọ ọrọ ìsáájú kí ìbéèrè tó bẹ̀rẹ̀, gẹ́gẹ́ bí 'Àlọ́ o!' àti ìdáhùn 'Àlọ́!'?",
+      "options": [
+        "Ìpè àti ìdáhùn ìbẹ̀rẹ̀ (opening call-and-response formula)",
+        "Ẹ̀kọ́ ìwà",
+        "Àkọlé Alọ",
+        "Ìpari Alọ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yoruba riddle sessions traditionally begin with a fixed call-and-response formula between the riddler and the audience, signalling the start of the riddling exchange before the actual riddle is posed."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi ti Rárà fi le ni ibatan pẹlu iyin oba, oloye, ati eniyan pataki, yato si Ìjálá tabi Ẹṣà?",
+      "options": [
+        "Nitori Rárà je ti ile-iwosan nikan",
+        "Nitori Rárà kò ní ìbáṣepọ̀ pẹ̀lú ẹnikẹ́ni",
+        "Nitori Rárà jẹ́ oríṣi ẹ̀wì gbogbo-gbòò tí a lè ṣàtúnṣe rẹ̀ láti yin ẹnikẹ́ni tàbí ìṣẹ̀lẹ̀, kì í ṣe ẹgbẹ́ kan pàtó",
+        "Nitori Rárà jẹ́ ohun kan náà pẹ̀lú owe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike Ìjálá (specific to hunters) or Ẹṣà (specific to masquerades), Rárà is a flexible praise-chant form that can be adapted to eulogise kings, chiefs, or any notable individual or event."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ka gbolohun yi: 'Bí a bá bọ́ ọmọdé lẹ́nu iṣẹ́, a kì í fi í sí ọwọ́ ìdàrọ́.' Kini itumọ jinlẹ ti owe yi n gbiyanju lati fi han?",
+      "options": [
+        "Ki a ma fi ọmọdé sisẹ patapata",
+        "Bi a ba fi ẹnikan ni ominira kuro ninu ojuse kan, ki a ma fi i sinu ewu miran tí ó le burú jù",
+        "Ọmọdé ko gbọdọ jeun rara",
+        "Àwọn àgbà ni ó gbọ́dọ̀ ṣiṣẹ́ nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "This proverb warns that if a child (or anyone) is relieved from one form of hardship or responsibility, care must be taken not to place them into an even more dangerous or harmful situation."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú ìtúpalẹ̀ eré-oníṣé (drama) lédè Yorùbá, kí ni a ń pè ọ̀rọ̀ tí ohun kikọ kan sọ fún ara rẹ̀ nìkan lórí ìtàgé, láìsí kí àwọn ohun kikọ mìíràn gbọ́ ọ (aside/soliloquy)?",
+      "options": [
+        "Ìjíròrò (dialogue)",
+        "Ọ̀rọ̀-inú (soliloquy/aside)",
+        "Ìṣẹ̀lẹ̀ (plot event)",
+        "Àkọlé eré"
+      ],
+      "correctIndex": 1,
+      "explanation": "A soliloquy or aside (ọ̀rọ̀-inú) allows a character to reveal inner thoughts directly to the audience, unheard by other characters on stage, a key dramatic technique distinct from ordinary dialogue."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ohun kikọ ninu itan tabi eré ti n koju ohun kikọ akọkọ (protagonist) ti o si n dá ìṣòro sílẹ̀ fún un?",
+      "options": [
+        "Alátẹ̀numọ́ (narrator)",
+        "Antagonisti (antagonist)",
+        "Protagonisti (protagonist)",
+        "Alábẹ̀wò (observer)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The antagonist is the character who opposes the main character (protagonist) and creates the central conflict that drives the plot forward."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ìlànà tí a fi ń gbé ìtàn kalẹ̀ láti ìbẹ̀rẹ̀ dé òpin, tí ó ní ìṣẹ̀lẹ̀ tí ó so ara wọn pọ̀ ní ọ̀wọ̀ọ̀wọ́ kan (plot)?",
+      "options": [
+        "Ìṣẹ̀lẹ̀ (event) nìkan",
+        "Ìtàn-àròsọ (plot/storyline)",
+        "Àkọlé (title)",
+        "Ẹ̀kọ́ ìwà (moral)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The plot (ìtàn-àròsọ) refers to the structured sequence of connected events that make up the narrative arc of a literary work, from introduction through climax to resolution."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu itupale itan aroso Yoruba, kini iyato laarin 'akori' (theme) ati 'ẹ̀kọ́ ìwà' (moral lesson) ti iwe kan?",
+      "options": [
+        "Akori ni ero pataki gbogbogbo ti onkọwe fẹ fi han, nigba ti ẹkọ iwa ni ẹ̀kọ́ pàtó tí a ń rí gbà nípa ìwà rere láti inú ìtàn náà",
+        "Akori àti ẹ̀kọ́ ìwà jẹ́ ohun kan náà ní gbogbo ìgbà",
+        "Akori kì í fi ara hàn nínú ewi rárá",
+        "Ẹ̀kọ́ ìwà jẹ́ orúkọ ìwé nìkan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The theme is the broad central idea or subject matter of a work, while the moral lesson is a specific ethical takeaway about proper conduct that readers can extract from how the story unfolds."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ipò àti àkókò tí ìtàn kan bá wáyé, gẹ́gẹ́ bí ìlú kan ní ọ̀rúndún kẹtàdínlógún ninu itan aroso Yoruba?",
+      "options": [
+        "Ohun kikọ",
+        "Ìṣẹ̀lẹ̀ (event)",
+        "Àyíká-ọ̀rọ̀ (setting)",
+        "Àkọlé"
+      ],
+      "correctIndex": 2,
+      "explanation": "The setting (àyíká-ọ̀rọ̀) refers to the place and time in which the events of a story occur, an essential element for understanding the context of a written literary work."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ninu eyi ti onkọwe kan n lo ohun kikọ lati fi kọlu iwa buburu kan ninu awujọ nipasẹ awada tabi yẹyẹ (satire)?",
+      "options": [
+        "Àwàdà (comedy) lásán",
+        "Ẹ̀gàn-àwùjọ (satire)",
+        "Ìdárayá",
+        "Ìtàn-àròsọ lásán"
+      ],
+      "correctIndex": 1,
+      "explanation": "Satire (ẹ̀gàn-àwùjọ) is a literary technique used to criticise societal vices or human folly through humour, irony, or exaggeration, often carrying a serious underlying message."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Nínú eré-oníṣé Yorùbá, kí ni a ń pè ìpín inú eré tí a fi ń yà á sọ́tọ̀ọ̀tọ̀ fún ìtẹ̀síwájú ìtàn, gẹ́gẹ́ bí 'Ìṣe Kìíní'?",
+      "options": [
+        "Àkọlé",
+        "Ìṣe (act)",
+        "Ẹ̀kọ́ ìwà",
+        "Ọ̀rọ̀-inú"
+      ],
+      "correctIndex": 1,
+      "explanation": "A play is typically divided into acts (ìṣe), major structural divisions that organise the progression of the dramatic story, often further split into scenes."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ohun kikọ ti kò yí padà ní ìwà jákèjádò ìtàn kan, tí ó dúró ṣinṣin nínú ìwà rẹ̀ láti ìbẹ̀rẹ̀ dé òpin (static/flat character)?",
+      "options": [
+        "Ohun kikọ àyípadà (dynamic character)",
+        "Ohun kikọ dídúró (static/flat character)",
+        "Protagonisti nìkan",
+        "Antagonisti nìkan"
+      ],
+      "correctIndex": 1,
+      "explanation": "A static or flat character remains largely unchanged in personality or outlook throughout a narrative, in contrast to a dynamic character who undergoes significant development or transformation."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kí ni a lè kà sí àbùkù (weakness/flaw) pàtàkì nínú ohun kikọ àkọ́kọ́ (tragic flaw) tí ó máa ń yọrí sí ìṣubú rẹ̀ nínú eré ìbànújẹ́ (tragedy)?",
+      "options": [
+        "Ìwà rere tí kò ní àbùkù kankan",
+        "Àìsàn tí ó dé bá ẹnikẹ́ni lásán",
+        "Àbùkù inú ìwà (tragic flaw) tí ó fa ìṣubú ẹ̀mí ohun kikọ náà",
+        "Owó tí ó pọ̀ jù"
+      ],
+      "correctIndex": 2,
+      "explanation": "A tragic flaw is an inherent character weakness — such as excessive pride or ambition — that ultimately leads to the protagonist's downfall in a tragedy, a key concept in dramatic literary analysis."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe isọmọloruko ninu asa Yoruba?",
+      "options": [
+        "Ilana isinku fun awọn agba",
+        "Ilana ayeye igbeyawo",
+        "Ayẹyẹ ti a n ṣe lati fun ọmọ tuntun ni orukọ",
+        "Ilana ipilẹ ile titun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ìsọmọlóruko is the traditional Yoruba naming ceremony held to formally give a newborn child a name, usually performed within the first seven to nine days after birth."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ni deede, ni ọjọ melo lẹhin ibi ọmọ ni a maa n ṣe ayẹyẹ isọmọloruko fun ọmọkunrin ninu asa Yoruba ibile?",
+      "options": [
+        "Ọjọ kẹrindínlógún",
+        "Ọjọ kẹsan",
+        "Ọjọ kẹrin",
+        "Osu kan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Traditionally, the Yoruba naming ceremony for a baby boy is held on the ninth day after birth, while for a baby girl it is commonly held on the seventh day, reflecting customary practice (though this varies by locality)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe eyin ọbẹ, oyin, ati omi ti a maa n lo lakoko isọmọloruko lati fi júwe iru ọjọ iwaju ti a n fẹ fun ọmọ naa?",
+      "options": [
+        "Ohun èlò aṣáájú-ọ̀nà (symbolic naming items)",
+        "Aṣọ igbeyawo",
+        "Ohun èlò isinku",
+        "Ohun èlò ogun"
+      ],
+      "correctIndex": 0,
+      "explanation": "Various symbolic items such as honey, water, kola nut, and salt are used during the naming ceremony, each representing a wish or blessing for a particular quality in the child's future life."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ninu eyi ti idile ọkọ n mu ẹbun wa si idile iyawo lati beere fun ọwọ ọmọbinrin won ninu asa igbeyawo Yoruba?",
+      "options": [
+        "Idana (introduction/bride price ceremony)",
+        "Isinku",
+        "Isomoloruko",
+        "Ijoye"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ìdána refers to the traditional introduction and bride-price stage of Yoruba marriage customs, during which the groom's family formally presents gifts to the bride's family to seek her hand in marriage."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu igbeyawo ibile Yoruba, kini ipa ti 'Alaga Ìjọ' n ṣe ninu ayẹyẹ naa?",
+      "options": [
+        "O n ṣe amona/olutọju ilana ayẹyẹ, ti n ṣakoso bi ayẹyẹ ṣe n lọ",
+        "O n ṣe onje fun awọn alejo",
+        "O n gbe ẹbun nikan",
+        "O n kọrin nikan jakejado ayẹyẹ"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Alaga Ìjọ (mistress/master of ceremonies on the bride's side) coordinates and moderates the wedding ceremony, guiding the proceedings and often adding entertainment through witty remarks."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iṣesi ninu eyi ti iyawo n te siwaju ni ese lati juwe iteriba fun awọn obi ọkọ ati alejo lakoko igbeyawo ibile Yoruba?",
+      "options": [
+        "Ijo aruwe",
+        "Ìdòbálẹ̀/Ìkúnlẹ̀ (prostration/kneeling in greeting)",
+        "Ìdána",
+        "Ìsọmọlóruko"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prostration or kneeling (ìdòbálẹ̀ for men, ìkúnlẹ̀ for women) is a traditional gesture of respect performed during ceremonies such as weddings, reflecting deep-rooted Yoruba customs of greeting and deference to elders."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn wọnyi ṣe iyato laarin bi ọkunrin ati obinrin ṣe n ki agbalagba ni ibile Yoruba?",
+      "options": [
+        "Awọn mejeeji a maa fi ọwọ kan ilẹ̀ nikan lai tẹriba",
+        "Ọkunrin a maa dọbalẹ (dà bọ̀ọ̀lẹ̀ pátápátá sí ilẹ̀), obinrin a sì maa kúnlẹ̀ (kneel) láti kí àgbà",
+        "Ọkunrin nikan ni o gbọdọ ki agbalagba",
+        "Obinrin nikan ni o gbọdọ ki agbalagba"
+      ],
+      "correctIndex": 1,
+      "explanation": "In traditional Yoruba greeting etiquette, men typically prostrate fully on the ground (ìdòbálẹ̀), while women kneel (ìkúnlẹ̀), both gestures expressing deep respect toward elders."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana isinku ti idile n ṣe lati bu ọla fun okú ẹni ti o ti darugbo daadaa ninu asa Yoruba, ti a n pe ni 'sisin oku sinu ayọ'?",
+      "options": [
+        "Isinku Aṣenilọ́ṣì",
+        "Ìsìnkú Ayọ̀ (celebration-style funeral rite for an elder)",
+        "Ìdána",
+        "Ìjókòó Oyè"
+      ],
+      "correctIndex": 1,
+      "explanation": "When an elderly person who lived a full life passes away, Yoruba tradition often treats the funeral as a celebration of life, marked with festivity alongside mourning, distinct from the burial rites for a younger person."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe aṣọ pataki ti idile ma n wọ ni akoko isinku ninu asa Yoruba lati fi han iṣọkan ati ọfọ?",
+      "options": [
+        "Asọ Aṣọ-Ìran (Ankara lasan)",
+        "Aṣọ Aró/Aṣọ-Ìbílẹ̀ Ọ̀fọ̀ (mourning attire, often chosen in a matching family colour)",
+        "Aṣọ Ìgbéyàwó",
+        "Aṣọ Ìjó Òde-Òní"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yoruba families often adopt a specific mourning attire — commonly in a chosen uniform colour — during funeral ceremonies to symbolise unity and shared grief among relatives."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu asa isinku Yoruba, kini a npe akoko ti a n ṣe ayẹyẹ iranti fun oku ni ọjọ kan, ọsẹ kan tabi osu kan lẹhin isinku?",
+      "options": [
+        "Ìsọmọlóruko",
+        "Ìsípayá",
+        "Ìrántí (memorial/remembrance rite)",
+        "Ìdána"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ìrántí refers to memorial or remembrance rites held some time after burial to continue honouring the deceased, part of the broader set of Yoruba funeral customs."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ikini 'Ẹ kú àárọ̀' ṣe túmọ̀ sí, tí a máa ń lò ní àkókò kan pàtó ọjọ́?",
+      "options": [
+        "Ìkíni ìrọ̀lẹ́ (good evening)",
+        "Ìkíni òwúrọ̀ (good morning)",
+        "Ìkíni ọ̀sán (good afternoon)",
+        "Ìkíni oorun (goodnight)"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ẹ kú àárọ̀' is the traditional Yoruba morning greeting, one of several time-specific greetings used to acknowledge others appropriately throughout the day."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ikini to yẹ ki a lo fun ẹnikan ti a ba ri ti n ṣiṣẹ takuntakun ninu asa ikini Yoruba?",
+      "options": [
+        "Ẹ kú àìsàn",
+        "Ẹ kú iṣẹ́ (well done/greetings on your work)",
+        "Ẹ kú ọjọ́ ìbí",
+        "Ẹ kú ìsinmi"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ẹ kú iṣẹ́' is the customary Yoruba greeting acknowledging and appreciating someone who is seen actively engaged in work or labour."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi to fi je ki ikini (ìkíni) ka si iye asa pataki ninu ẹgbẹ awujọ Yoruba, kii ṣe lasan wi 'kaabo' tabi 'e ku aaro'?",
+      "options": [
+        "Nitori ikini ko ni itumọ awujọ eyikeyi",
+        "Nitori ikini n ṣàfihàn iteriba, ibasepọ, ati eto awujọ laarin awọn eniyan, gẹgẹ bi ọjọ ori ati ipo won",
+        "Nitori JAMB nikan n beere ibeere lori ikini",
+        "Nitori ikini je asa titun ti a ṣẹṣẹ da lode oni"
+      ],
+      "correctIndex": 1,
+      "explanation": "Greetings in Yoruba culture go beyond simple pleasantries; they express respect, social hierarchy, and relationship dynamics, reflecting deeply embedded social values around age and status."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato laarin bi a se n ki ẹnikan ti o dagba ju wa lọ ati bi a se n ki ẹnikan ti o ba wa dọgba ni ọjọ ori ninu asa Yoruba?",
+      "options": [
+        "Ko si iyato kankan ninu ọna ikini",
+        "A máa ń fi ọ̀wọ̀ hàn àti ìkúnlẹ̀/ìdòbálẹ̀ fún àgbà, nígbà tí a lè kí ẹgbẹ́ẹgbẹ́ ní ọ̀nà tí kò fi bẹ́ẹ̀ jinlẹ̀",
+        "A máa ń dọ̀bálẹ̀ fún ẹgbẹ́ẹgbẹ́ nìkan",
+        "Àwọn àgbà nìkan ni ó gbọ́dọ̀ kí àwọn ọ̀dọ́"
+      ],
+      "correctIndex": 1,
+      "explanation": "Greeting an elder typically involves more formal, deferential gestures such as kneeling or prostration, while greetings between age-mates tend to be more casual, reflecting the Yoruba social value placed on respecting seniority."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe orukọ amutorunwa (orukọ ti a gbagbọ pe ọmọ mu wa lati orun), gẹgẹ bi 'Tainiwo' tabi 'Ige'?",
+      "options": [
+        "Orúkọ àbíso lásán tí kò ní ìtumọ̀ kankan",
+        "Orúkọ àmútọ̀runwá (name reflecting circumstances of birth believed destined from heaven)",
+        "Orúkọ ìbílẹ̀ ẹbí nìkan",
+        "Orúkọ oyè"
+      ],
+      "correctIndex": 1,
+      "explanation": "Orúkọ àmútọ̀runwá are special names given based on the unique circumstances surrounding a child's birth (such as being born feet-first, or as a twin), believed to reflect a destiny the child brought from the spiritual realm."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ibeji ninu asa Yoruba, ati kini pataki won ni asa ibile?",
+      "options": [
+        "Ibeji je ọmọ meji ti a bi papọ, ti a si maa n ka si pataki, ti won sì ní òrìṣà kan pàtó tí a ń bọ fún wọn (Ìbejì)",
+        "Ibeji je ọrọ fun ọmọ kan soso",
+        "Ibeji je oruko fun ọmọ akọbi nikan",
+        "Ibeji ko ni pataki kankan ninu asa Yoruba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Twins (ìbejì) hold special cultural and spiritual significance in Yoruba tradition, with a dedicated belief system and set of customs, including carved figures (ère ìbejì) made if a twin dies."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini ipa ti Ẹgbẹ́ Ọjọ́-orí (age-grade society) n ṣe ninu eto awujọ ibile Yoruba?",
+      "options": [
+        "Ẹgbẹ́ Ọjọ́-orí ko ni ipa kankan ninu awujọ",
+        "Ó jẹ́ ẹgbẹ́ fún àwọn babaláwo nìkan",
+        "Ó jẹ́ ẹgbẹ́ tí a dá sílẹ̀ láìpẹ́ yìí láti ọwọ́ ìjọba",
+        "Ó máa ń ṣètò iṣẹ́ àwùjọ, ìdáàbòbò ìlú, àti ẹ̀kọ́ ìwà fún àwọn ọ̀dọ́ tí wọ́n bí ní àkókò kan náà"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ẹgbẹ́ Ọjọ́-orí (age-grade associations) organised people born around the same period into groups responsible for communal labour, town defence, and instilling moral discipline in the young — a key traditional social institution distinct from religious or modern government bodies."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Alagbede ninu asa ibile Yoruba n ṣe amọdaju iru ise wo?",
+      "options": [
+        "Alagbede n ṣiṣẹ irin, ti n dá ohun èlò iṣẹ́ àti ohun ìjà láti inú irin",
+        "Alagbede n hun aso lori owu",
+        "Alagbede n ṣe amọ (pottery) nikan",
+        "Alagbede n gbin oko nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alágbède is the traditional blacksmith, working iron into tools, farm implements, and weapons — a specialised, often hereditary profession central to Yoruba craft-guild traditions."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin Babaláwo ati Onísègùn ninu eto ilera ibile Yoruba?",
+      "options": [
+        "Ko si iyato kankan, oro kanna ni awon mejeeji",
+        "Babaláwo àti Onísègùn jẹ́ orúkọ méjì fún oyè oba",
+        "Onísègùn nìkan ló ń lo ẹ̀kọ́ Ifá nínú iṣẹ́ rẹ̀",
+        "Babaláwo ń ṣiṣẹ́ Ifá àti àsọtẹ́lẹ̀ láti mọ ìdí ìṣòro, nígbà tí Onísègùn ń lo egbò àti egbogi láti wo àìsàn sàn"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Babaláwo divines through Ifá to diagnose the spiritual cause of a problem, while an Onísègùn (traditional herbalist) treats ailments using herbal medicine — related but distinct roles within Yoruba traditional practice."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu igbagbo ibile Yoruba, kini ipo ti Olódùmarè ni idi ninu awon Òrìṣà bi Ṣàngó ati Ògún?",
+      "options": [
+        "Olódùmarè jẹ́ Òrìṣà kan lára àwọn Òrìṣà yòókù, tí ó dọ́gba pẹ̀lú Ṣàngó",
+        "Olódùmarè jẹ́ Òrìṣà tí ó kéré jù nínú gbogbo àwọn Òrìṣà",
+        "Olódùmarè ni Ẹlẹ́dàá àgbáyé àti orísun agbára gbogbo Òrìṣà, ó sì ga ju gbogbo Òrìṣà lọ",
+        "Olódùmarè kò ní ìsopọ̀ kankan pẹ̀lú àwọn Òrìṣà"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Yoruba cosmology, Olódùmarè is the Supreme Being, the ultimate creator and source of authority, while the òrìṣà (such as Ṣàngó, god of thunder, and Ògún, god of iron) are lesser divinities who serve as intermediaries between Olódùmarè and humanity."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o ṣe iyato laarin Ṣàngó ati Ògún gẹgẹ bi Òrìṣà meji ninu igbagbo ibile Yoruba?",
+      "options": [
+        "Ṣàngó àti Ògún jẹ́ Òrìṣà kan náà tí a ń pè ní orúkọ méjì",
+        "Ògún ni Òrìṣà àrá, Ṣàngó sì ni Òrìṣà irin",
+        "Kò sí Òrìṣà kankan tí à ń pè ní Ṣàngó nínú ìtàn Yorùbá",
+        "Ṣàngó ni Òrìṣà àrá àti mọ̀nàmọ́ná, tí a sì so mọ ọba Ọ̀yọ́ àtijọ́, nígbà tí Ògún ni Òrìṣà irin àti ogun, tí àwọn alágbède àti ọdẹ ń bọ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ṣàngó is the deity of thunder and lightning, linked to the ancient Ọ̀yọ́ monarchy, while Ògún is the deity of iron and war, worshipped especially by blacksmiths, hunters, and warriors — each with distinct domains despite both being major òrìṣà."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ijosin ti a n se fun awon baba nla ti o ti ku ninu asa Yoruba, ti a maa n fi Egúngún han ni gbangba?",
+      "options": [
+        "Ìjọsìn Egúngún kò ní ìsopọ̀ pẹ̀lú àwọn baba ńlá tí ó ti kú rí",
+        "Egúngún jẹ́ oyè tí a ń fún àwọn oyè ìlú nìkan",
+        "Egúngún jẹ́ orúkọ mìíràn fún ère ìbejì",
+        "Ìjọsìn Egúngún jẹ́ ọ̀nà tí à ń gbà bu ọlá fún àwọn baba ńlá tí ó ti kú, tí a gbà gbọ́ pé wọ́n padà wá bẹ̀ àwọn ẹbí wọn wò"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Egúngún masquerade tradition is an ancestor-veneration practice — masked figures are believed to embody the spirits of departed forebears returning to bless, admonish, or commune with their living descendants."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu fonoloji Yoruba, iru sílébù wo ni o wọpọ julọ, gẹgẹ bi a ṣe rii ninu 'ba', 'kọ', ati 'ṣe'?",
+      "options": [
+        "Kọnsonanti-Faweli (KF), níbi tí kọ́nsonáǹtì kan ti tẹ̀lé e pẹ̀lú fáwélì kan",
+        "Kọnsonanti-Kọnsonanti (KK)",
+        "Faweli-Kọnsonanti-Faweli (FKF) nikan",
+        "Faweli nikan lai si kọnsonanti"
+      ],
+      "correctIndex": 0,
+      "explanation": "The dominant syllable structure in Yoruba is Consonant + Vowel (CV) — every syllable typically ends in a vowel (or is a syllabic nasal), as seen in 'ba', 'kọ', 'ṣe'."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ohun (tone) mẹta wo ni a mọ ninu ede Yoruba, ti a fi n ṣe iyato itumọ oro bi 'igba' (200, ọgba, akoko)?",
+      "options": [
+        "Ohun kan soso ni ede Yoruba ni",
+        "Ohun-ga ati ohun-kekere nikan, laisi ohun-arin",
+        "Ohun mẹrin: ga, arin, kekere, ati aarin-arin",
+        "Ohun-ga (high), ohun-arin (mid), ati ohun-kekere (low)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Standard Yoruba has three level tones — high (dòjú/ré, marked ´), mid (unmarked), and low (marked `) — whose combinations distinguish words like 'igbá' (calabash), 'ìgbà' (time/rope), and 'ìgba' (two hundred)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iṣupọ konsonanti pataki bi 'gb' ati 'kp' ninu ede Yoruba, ti a ko le pin si kọnsonanti meji lọtọ ni pipe?",
+      "options": [
+        "A npe won ni faweli imu",
+        "A npe won ni sile alaimoye",
+        "A npe won ni digrafu tabi kọnsonanti alapọ, ti a n pe bi ohun kan soso botilẹjẹ pe wọn ni ami kikọ meji",
+        "Won je faweli gigun"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Gb' (and historically 'kp') is a co-articulated labio-velar stop written with two letters but pronounced as a single consonant sound — a digraph, not a true consonant cluster, in Yoruba phonology."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu isodipupo oro Yoruba, kini a npe ilana ninu eyi ti oro kan ba tun ara re se ni odindi tabi ni apa kan lati fi kun itumo, gege bi 'yara-yara' lati inu 'yara' (fi han kiakia)?",
+      "options": [
+        "Ìsúnkì fáwélì (vowel elision)",
+        "Ìdàpọ̀ kọ́nsonáǹtì (consonant assimilation)",
+        "Ìyípadà ohùn (tone shift) nìkan",
+        "Ìlọ́pọ̀-méjì tàbí àtúnsọ (reduplication)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reduplication (ìlọ́pọ̀-méjì) — repeating a word or stem, as in 'yara-yara' (quickly) from 'yara' (fast/room) — is a productive morphological process in Yoruba used to intensify or modify meaning."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iru oro-orukọ ti a da nipa fifi ìránṣé 'a-' kun oro-ise kan, gẹgẹ bi 'akọrin' (singer) lati inu 'ko orin' (sings a song)?",
+      "options": [
+        "Ọ̀rọ̀-orúkọ tí a dá nípa ìránṣé àṣàájú-ọ̀rọ̀ (agentive prefix 'a-') tí a fi kún gbòǹgbò ọ̀rọ̀-ìṣe láti dá orúkọ tí ó ń tọ́ka sí ẹni tí ó ń ṣe iṣẹ́ náà",
+        "Ọ̀rọ̀-orúkọ àpapọ̀ (compound noun) laisi eyikeyi ìránṣé",
+        "Ọ̀rọ̀-ìse tí kò yí padà rárá",
+        "Ọ̀rọ̀ ìdìde tí kò ní ìtumọ̀ kankan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prefixing 'a-' to a verb phrase forms an agentive noun denoting 'one who does X' — e.g. 'akọrin' (a singer, one who sings a song) from 'ko orin' — a common derivational morphology pattern in Yoruba."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ninu eyi ti faweli kan ninu oro kan gbọdọ baamu iru faweli miran ti o wa nitosi re fun ki ohun ọrọ naa le da (vowel harmony), paapa julọ ninu awon iselu ATR ninu ede Yoruba?",
+      "options": [
+        "Ìsúnkì fáwélì, níbi tí fáwélì kan ti pòórá pátápátá",
+        "Ìdàpọ̀ kọ́nsonáǹtì, níbi tí kọ́nsonáǹtì méjì ti di ọ̀kan",
+        "Ìyípadà ohùn láti orí sí ìsàlẹ̀ láìsí ìdí kankan",
+        "Ìfohùnṣọ̀kan fáwélì, níbi tí fáwélì kan gbọ́dọ̀ bá fáwélì mìíràn mu ní ìhà ìdí ahọ́n (ATR) láàrin gbòǹgbò ọ̀rọ̀ àti ìránṣé rẹ̀"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vowel harmony in Yoruba requires vowels within certain morpheme sequences to agree in the tongue-root feature (ATR — advanced vs. non-advanced tongue root), which governs how prefixes and roots co-occur phonologically."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini o mu ki Ìjálá ni ibatan pataki pẹlu Ògún, Òrìṣà irin ati ọdẹ, ju bi Ẹṣà tabi Rárà se ri?",
+      "options": [
+        "Ìjálá kò ní ìsopọ̀ kankan pẹ̀lú Ògún",
+        "Ìjálá jẹ́ ewì tí a ń kọ fún ìsìnkú nìkan",
+        "Ẹṣà ni ewì tí a fi ń yin Ògún, kìí ṣe Ìjálá",
+        "Ìjálá ni ewì tí àwọn ọdẹ àti àwọn olùjọsìn Ògún ń kọ láti yin akikanju, ohun ọdẹ, àti ìṣẹ́gun, tí ó sì ní èdè àti àkànṣe ọ̀rọ̀ tirẹ̀"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ìjálá is chiefly a hunters' chant tradition associated with Ògún, celebrating bravery, hunting exploits, and heroism, with its own distinctive diction and cadence, distinguishing it from Ẹṣà (linked to egúngún) and Rárà (linked to praise of royalty)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe akojo ese ti Babalawo n lo ninu Ifa lati salaye idi kan pato ti a fi ye onibaara kan, ti o si maa n ni ìtàn àti òwe ninu?",
+      "options": [
+        "Rárà, tí a fi ń yin ọba nìkan",
+        "Àlọ́ Apamọ, tí kò ní ìsopọ̀ kankan pẹ̀lú Ifá",
+        "Odù Ifá, tí ó jẹ́ àkójọ ẹsẹ tí ó ní ìtàn, òwe, àti ìlànà ìwà nínú tí a fi ń tọ́ni sọ́nà",
+        "Oríkì, tí a fi ń pe orúkọ ìdílé nìkan"
+      ],
+      "correctIndex": 2,
+      "explanation": "An Odù Ifá is a body of divination verses recited by a Babaláwo, containing narratives, proverbs, and moral guidance used to address a client's specific concern — the core textual corpus of Ifá literature."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ohun kikọ ninu itan tabi eré ti iwa re yipada ni pataki bi itan naa se n lo (yato si ohun kikọ aiyipada)?",
+      "options": [
+        "A npe iru ohun kikọ bayii ni ohun kikọ alayipada tabi alaraadi (round/dynamic character), ti idagbasoke re maa n je pataki ninu akori itan",
+        "A npe iru ohun kikọ bayii ni ohun kikọ aiyipada (static character)",
+        "A npe iru ohun kikọ bayii ni oluṣàkóso (narrator) nikan",
+        "A npe iru ohun kikọ bayii ni afokansi (antagonist) nikan"
+      ],
+      "correctIndex": 0,
+      "explanation": "A round/dynamic character undergoes meaningful change in personality, belief, or attitude over the course of a narrative, in contrast to a static (flat) character who remains essentially unchanged."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn wọnyi ṣe apejuwe ijaya-laarin-eniyan-ati-awujọ (man versus society) gẹgẹ bi iru ijaya (conflict) ninu itan tabi eré Yoruba?",
+      "options": [
+        "Nigba ti akọni ba tako awon ofin tabi ilana ti awujọ gbogbo gba, ti o si ba won ja fun eto rẹ̀",
+        "Nigba ti akọni ba ja ogun pẹlu ara rẹ̀ nikan, ninu ọkan rẹ̀",
+        "Nigba ti eniyan meji ba ja ara won lasan fun ohun-ini",
+        "Nigba ti akọni ba ja pelu iji tabi ojo lasan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Man-versus-society conflict occurs when a protagonist opposes prevailing societal norms, laws, or expectations — distinct from internal conflict (man vs. self), interpersonal conflict (man vs. man), or man vs. nature."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe iru olusoju-itan (narrator) ti o mo ero-inu ati itan gbogbo ohun kikọ ninu iwe kan, ko si si ohun ti o pamọ fun un?",
+      "options": [
+        "Olùṣàkóso ẹnìkínní (first-person narrator) nìkan",
+        "Olùṣàkóso tí kò lè sọ ìtàn kankan",
+        "Olùṣàkóso tí ó jẹ́ ọ̀tá àkọ́kọ́ nínú ìtàn",
+        "Olùṣàkóso mọ̀-gbogbo-nǹkan (omniscient narrator), tí ó mọ ìrònú inú àti ìtàn ẹ̀yìn gbogbo ohun kíkọ"
+      ],
+      "correctIndex": 3,
+      "explanation": "An omniscient narrator has unrestricted knowledge of all characters' thoughts, motives, and backstories, unlike a first-person or limited narrator whose perspective is confined to one character's viewpoint."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ilana ninu eyi ti onkọwe kan ba ta ìtọ́kasí kékeré nípa ohun tí yóò ṣẹlẹ̀ nígbèyìn ìtàn, kí ó tó ṣẹlẹ̀ ní gidi?",
+      "options": [
+        "A npe eyi ni ìṣíwájú-ọ̀rọ̀ (flashback)",
+        "A npe eyi ni ìdàrúdàpọ̀ (climax)",
+        "A npe eyi ni àbájáde (resolution)",
+        "A npe eyi ni àsọtẹ́lẹ̀-ìṣẹ̀lẹ̀ tàbí àṣàsọtẹ́lẹ̀ (foreshadowing), tí ó máa ń fún òǹkàwé ní ìjápọ̀ ohun tí ń bọ̀"
+      ],
+      "correctIndex": 3,
+      "explanation": "Foreshadowing (àṣàsọtẹ́lẹ̀) is a literary device in which an author drops subtle hints about events that will occur later in the narrative, building anticipation without revealing the outcome outright."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ninu itupale itan aroso, kini pataki ipo (setting) itan kan, paapa nigba ti a ba lo abuleko ibile bi ipo itan naa?",
+      "options": [
+        "Ipo itan (setting) le ṣe iranlọwọ lati fi han asa, igbagbọ, ati awọn iye ti o ni ipa lori iwa ati ipinnu awọn ohun kikọ ninu itan naa",
+        "Ipo itan ko ni ipa kankan lori itumọ tabi akori itan naa",
+        "Ipo itan wulo nikan fun sisọ akoko ti itan naa se sele",
+        "Ipo itan ati akori itan je oro kanna"
+      ],
+      "correctIndex": 0,
+      "explanation": "Setting does more than mark time and place — a traditional Yoruba village backdrop, for instance, can foreground cultural values, beliefs, and social pressures that directly shape characters' choices and the story's themes."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ka ẹsẹ yi: 'Àwọn ọmọ ìlú kó ra jọ ní gbọ̀ngàn ìjọba, wọ́n ń fojú sọ́nà de ọ̀rọ̀ tí baálé ìlú yóò sọ. Ìjì àìnírètí ti bo ojú ọ̀pọ̀lọpọ̀, nítorí oyà ti gbóná janjan ní ọdún yìí.' Kini akọ-ero (main idea) ninu ẹsẹ yi, yato si awọn oro-alaye (supporting details) bi ibi ipade ati idi ti won fi ni ireti?",
+      "options": [
+        "Akọ-ero ni pe àwọn ọmọ ìlú kó jọ ní gbọ̀ngàn kan pàtó",
+        "Akọ-ero ni pe oyà ti gbóná janjan ní gbogbo àgbáyé",
+        "Akọ-ero ni pe àwọn aráàlú ń retí ìròyìn pàtàkì lọ́wọ́ olórí wọn láàárín àkókò ìnira ọrọ̀-ajé",
+        "Akọ-ero ni pe baálé ìlú kò lè sọ ọ̀rọ̀ kankan mọ́"
+      ],
+      "correctIndex": 2,
+      "explanation": "The main idea is the passage's central point — the townspeople anxiously awaiting their leader's word amid economic hardship — while details like the venue and the cause of anxiety merely support and illustrate that central idea."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iṣoro pataki ti o le waye nigba ti a ba tumọ gbolohun-idiomu (idiomatic expression) Gẹẹsi bi 'to kick the bucket' ni ọna ọrọ-fun-ọrọ (literal) si Yoruba?",
+      "options": [
+        "Kò sí ìṣòro kankan, gbogbo gbólóhùn ni a lè tú ní ọ̀rọ̀-fún-ọ̀rọ̀ láìsí ìyọnu",
+        "Ìtumọ̀ ọ̀rọ̀-fún-ọ̀rọ̀ máa ń mú ìtumọ̀ tí ó túbọ̀ jinlẹ̀ jáde ju ti Gẹ̀ẹ́sì lọ",
+        "Àwọn gbólóhùn ìdíọ̀mù kò ní ìtumọ̀ kankan rárá ní èdè èyíkéyìí",
+        "Ìtumọ̀ ọ̀rọ̀-fún-ọ̀rọ̀ lè pàdánù ìtumọ̀ àkọ́kọ́ tí gbólóhùn náà ní (láti kú), tí ó sì lè yọrí sí ìtumọ̀ tí kò bọ́gbọ́n mu tàbí tí ó yàtọ̀ pátápátá ní èdè Yorùbá"
+      ],
+      "correctIndex": 3,
+      "explanation": "Idioms carry figurative meaning that a literal, word-for-word translation destroys — translating 'kick the bucket' literally into Yoruba would produce a nonsensical or misleading rendering instead of conveying 'to die'."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Ewo ninu awọn wọnyi ṣe apẹẹrẹ Alọ Apamọ tí ó peye, ti a fi n bere ibeere ti idahun re yato si ero elomiran, yato si Alọ Apatagbe ti o ni itan gigun?",
+      "options": [
+        "Itan gigun nipa bi Ijapa se tan Erin je pelu ẹkọ iwa ninu",
+        "Oriki gigun ti a fi n yin idile oba kan",
+        "Ijala ti odẹ kan n ko fun Ogun",
+        "'Ẹ̀kún dúdú lóde, funfun nínú - kí ni?' pẹ̀lú ìdáhùn tí ó lè yàtọ̀ (bí i agbọ̀n tàbí ohun mìíràn tí ó bá ìjuwe mu)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alọ Apamọ (riddles) pose a short descriptive puzzle whose answer can admit more than one plausible response based on the clues given, unlike Alọ Apatagbe, which is an extended narrative folktale with a fixed plot and explicit moral."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe ewi ti a n ko lati yin oruko, iwa, ati itan idile eniyan tabi ilu kan pato ninu asa Yoruba, ti o yato si Ijala tabi Rara ni bi a ti n lo o?",
+      "options": [
+        "Oríkì, ewì ìdánimọ̀ tí a fi ń pe orúkọ, ìran, àti ìwà ẹnì kan tàbí ìdílé kan pàtó, tí a sì lè lò ní ọ̀pọ̀lọpọ̀ ààrọ̀ (ìbí, ìgbéyàwó, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ)",
+        "Rárà, tí a fi ń yin ọba nìkan láìsí ìdílé kankan mìíràn",
+        "Ẹṣà, tí a fi ń fi hàn ìbínú sí àwọn ọ̀tá nìkan",
+        "Àlọ́ Apamọ, tí kò ní ìsopọ̀ kankan pẹ̀lú ìdánimọ̀ ẹnikẹ́ni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oríkì is a praise-chant tradition tied to a person's or lineage's identity, history, and attributes, usable across many occasions, distinguishing it from genre-specific chants like Ìjálá (hunters) or Rárà (royal praise)."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini iyato akọkọ laarin 'oruko amutorunwa' ati 'oruko abiso' ninu isọmọloruko ibile Yoruba?",
+      "options": [
+        "Won je oro kanna, ko si iyato kankan",
+        "Oruko amutorunwa nikan ni a maa n fun awon obinrin",
+        "Oruko abiso nikan ni a maa n fi kọ omo silẹkọ ni ile-iwe",
+        "Oruko amutorunwa ni oruko ti a gba pe omo ti mu wa lati orun (bii ipo ibi rẹ̀, gẹgẹ bi Taiwo), nigba ti oruko abiso ni oruko ti awon obi tabi ẹbi n yan fun omo naa gege bi ipo idile tabi ohun ti n sele nigba ibi rẹ̀"
+      ],
+      "correctIndex": 3,
+      "explanation": "Orúkọ amútọ̀runwá are names believed to reflect the special circumstances of birth the child 'brought from heaven' (e.g. Táíwò, Àìná), while orúkọ àbíso are names deliberately chosen by the family based on family history, hopes, or events surrounding the birth."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini idi pataki fun 'idana' (bride price/dowry items) ninu igbeyawo ibile Yoruba?",
+      "options": [
+        "Idana je san owo fun iyawo bi eru",
+        "Idana ko ni itumo kankan mọ ninu asa igbeyawo Yoruba",
+        "Idana je afihan ọwọ ati imoore ti idile ọkọ n fi han si idile iyawo, ati ami ifọwọsi ìdílé méjèèjì fún ìgbéyàwó náà",
+        "Idana je oro fun ile ti awon tọkọtaya yoo gbe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ìdána (bride-price items and gifts) is a symbolic gesture of respect and appreciation shown by the groom's family to the bride's family, and it formally seals both families' consent to the union — it is not a purchase transaction."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini a npe 'oku ayo' ninu asa isinku Yoruba, ti o yato si isinku deede ti kii se pelu ayo?",
+      "options": [
+        "Oku ayo ni isinku ẹni tí ó kú lójijì ní ọ̀dọ̀ọ́rùn",
+        "Oku ayo ni orúkọ mìíràn fún isinku Egungun",
+        "Oku ayo je oro fun isinku awon oba nikan",
+        "Oku ayo ni isinku ẹni tí ó ti darúgbó dáadáa tí ó sì ní àwọn ọmọ àti ọmọ-ọmọ kí ó tó kú, tí a fi ń ṣe ayẹyẹ ìdùnnú dípò ẹkún"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Òkú ayọ̀' (a celebratory burial/funeral) is held for someone who died at a ripe old age with surviving children and grandchildren, celebrated with festivity rather than the mourning reserved for an untimely death ('òkú ẹkún')."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini oye ti a n fun Oba ni ilu Yoruba ni gbangba, ti o si maa n je apejuwe ipo re bi asoju Olodumare lori ile aye, ti a n pe ni 'Igbakeji Orisa'?",
+      "options": [
+        "Oye yi tumo si wipe Oba je Olorisa lasan, ko si iyato kankan pelu awon Olorisa yoku",
+        "Oye yi je oruko fun awon omo oba nikan",
+        "Oye yi ko ni ipa kankan lori bi a se n bu ola fun Oba",
+        "Oye 'Igbakeji Òrìṣà' (deputy/representative of the deities) fi hàn pé Oba ni a bọ̀wọ̀ fún gẹ́gẹ́ bí ẹni tí ó dúró fún àwọn Òrìṣà àti baba ńlá lórí ilẹ̀ ayé, tí ipò rẹ̀ sì ní ìjìnlẹ̀ ẹ̀sìn àti ìṣèlú méjèèjì"
+      ],
+      "correctIndex": 3,
+      "explanation": "Traditional Yoruba kingship carries the sacred title 'Igbakeji Òrìṣà' — deputy of the deities — reflecting that the Oba's authority is both political and spiritual, positioning him as a sacred link between the ancestors/divinities and the living community."
+    },
+    {
+      "subject": "Yoruba",
+      "text": "Kini Ogbóni (Reformed Ogboni Fraternity/Osugbo) ninu eto iselu ibile Yoruba, ati ipa wo ni won ko ninu ijọba ilu?",
+      "options": [
+        "Ogbóni jẹ́ ẹgbẹ́ àwọn ọmọdé tí kò ní ipa kankan nínú ìjọba ìlú",
+        "Ogbóni jẹ́ orúkọ mìíràn fún egúngún",
+        "Ogbóni jẹ́ ẹgbẹ́ tí a dá sílẹ̀ láti kọ orin Ìjálá nìkan",
+        "Ogbóni jẹ́ ẹgbẹ́ àṣírí àwọn àgbà tí ó ní ipa ìdájọ́ àti ìmọ̀ràn nínú ìjọba ìlú, tí ó sì máa ń dá ìwọ̀n bí Oba kan ṣe ń lo agbára rẹ̀"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Ogbóni (Òsùgbò) society was a council of elders holding judicial, ritual, and advisory authority in traditional Yoruba governance, serving as a check on the powers of the Oba and helping settle disputes and weighty communal matters."
+    }
+  ]
+}

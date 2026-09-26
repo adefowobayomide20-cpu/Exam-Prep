@@ -1,0 +1,1206 @@
+{
+  "subject": "Technical Drawing",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Technical Drawing",
+      "text": "A thick, continuous line in technical drawing is typically used to represent",
+      "options": [
+        "centre lines of symmetry",
+        "hidden (invisible) edges",
+        "the visible outline of an object",
+        "dimension and extension lines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thick continuous lines represent the visible outlines and edges of an object, making them stand out clearly on the drawing."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A thin, continuous line in technical drawing is typically used for",
+      "options": [
+        "the main visible outline of an object",
+        "dimension lines, extension lines, and projection lines",
+        "centre lines",
+        "hidden detail edges"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thin continuous lines are used for secondary information such as dimensioning, extension lines, and construction/projection lines, distinct from the bold outline."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A line made up of short dashes, used to represent edges or details hidden from the current view, is called a",
+      "options": [
+        "thick continuous line",
+        "centre line",
+        "cutting plane line",
+        "hidden (dashed) line"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hidden lines, drawn as a series of short dashes, indicate edges or features that are not visible from the current viewing angle."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A line made up of alternating long and short dashes, used to indicate the axis of symmetry or the centre of a circle, is called a",
+      "options": [
+        "thick continuous line",
+        "break line",
+        "centre line",
+        "hidden line"
+      ],
+      "correctIndex": 2,
+      "explanation": "Centre lines, drawn with a long-dash, short-dash pattern, mark axes of symmetry and the centres of circular features."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The process of dividing a line into two exactly equal parts using compass and straightedge construction is called",
+      "options": [
+        "bisection of a line",
+        "trisection of a line",
+        "projection of a line",
+        "extension of a line"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bisecting a line divides it precisely into two equal halves, typically achieved using compass arcs from each endpoint."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The process of dividing an angle into two exactly equal parts using compass and straightedge construction is called",
+      "options": [
+        "trisection of an angle",
+        "extension of an angle",
+        "projection of an angle",
+        "bisection of an angle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bisecting an angle divides it into two equal smaller angles, constructed using compass arcs from the angle's vertex and sides."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Two lines that maintain a constant distance from each other and never meet, no matter how far extended, are called",
+      "options": [
+        "perpendicular lines",
+        "tangent lines",
+        "parallel lines",
+        "intersecting lines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parallel lines run in the same direction at a constant distance apart, never converging or crossing."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Two lines that meet each other at exactly 90 degrees are called",
+      "options": [
+        "oblique lines",
+        "parallel lines",
+        "tangent lines",
+        "perpendicular lines"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perpendicular lines intersect to form a right angle (90 degrees) at their point of crossing."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A three-sided plane figure, whose interior angles always sum to 180 degrees, is called a",
+      "options": [
+        "triangle",
+        "hexagon",
+        "quadrilateral",
+        "pentagon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A triangle is a three-sided polygon, with its interior angles always summing to exactly 180 degrees."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A four-sided plane figure with all sides equal in length and all angles equal to 90 degrees is called a",
+      "options": [
+        "trapezium",
+        "rectangle",
+        "square",
+        "rhombus"
+      ],
+      "correctIndex": 2,
+      "explanation": "A square has four equal sides and four right angles, making it a special case of both a rectangle and a rhombus."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A four-sided plane figure with opposite sides equal and parallel, and all angles equal to 90 degrees, but not all sides necessarily equal, is called a",
+      "options": [
+        "rectangle",
+        "square",
+        "trapezium",
+        "rhombus"
+      ],
+      "correctIndex": 0,
+      "explanation": "A rectangle has four right angles and equal opposite sides, but unlike a square, its adjacent sides are not necessarily equal."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A four-sided plane figure with all sides of equal length, but angles that are not necessarily 90 degrees, is called a",
+      "options": [
+        "square",
+        "rhombus",
+        "trapezium",
+        "rectangle"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rhombus has four equal sides, but its angles can differ from 90 degrees, distinguishing it from a square."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular polygon with five equal sides and five equal angles is called a",
+      "options": [
+        "pentagon",
+        "hexagon",
+        "octagon",
+        "heptagon"
+      ],
+      "correctIndex": 0,
+      "explanation": "A regular pentagon has five equal sides and five equal interior angles, each measuring 108 degrees."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular polygon with six equal sides and six equal angles is called a",
+      "options": [
+        "heptagon",
+        "pentagon",
+        "octagon",
+        "hexagon"
+      ],
+      "correctIndex": 3,
+      "explanation": "A regular hexagon has six equal sides and six equal interior angles, each measuring 120 degrees."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular polygon with seven equal sides and seven equal angles is called a",
+      "options": [
+        "octagon",
+        "pentagon",
+        "hexagon",
+        "heptagon"
+      ],
+      "correctIndex": 3,
+      "explanation": "A regular heptagon has seven equal sides and seven equal interior angles."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular polygon with eight equal sides and eight equal angles is called an",
+      "options": [
+        "pentagon",
+        "heptagon",
+        "hexagon",
+        "octagon"
+      ],
+      "correctIndex": 3,
+      "explanation": "A regular octagon has eight equal sides and eight equal interior angles, each measuring 135 degrees."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The sum of the interior angles of any polygon with n sides can be calculated using the formula",
+      "options": [
+        "(n - 2) x 180 degrees",
+        "(n + 2) x 180 degrees",
+        "n x 180 degrees",
+        "n x 90 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "The interior angle sum formula, (n-2) x 180 degrees, applies to any simple polygon, allowing calculation for any number of sides."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When constructing a regular polygon given the length of one side, a common method involves first",
+      "options": [
+        "dividing a circle into the required number of equal arcs corresponding to the polygon's sides",
+        "ignoring the given side length entirely",
+        "measuring only the diagonal of the polygon",
+        "drawing random lines with no defined angles"
+      ],
+      "correctIndex": 0,
+      "explanation": "A standard construction method involves dividing a circumscribing circle into equal arcs matching the number of sides needed, then connecting the resulting points."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A four-sided plane figure with only one pair of parallel sides is called a",
+      "options": [
+        "square",
+        "rectangle",
+        "rhombus",
+        "trapezium"
+      ],
+      "correctIndex": 3,
+      "explanation": "A trapezium (trapezoid) has exactly one pair of parallel sides, distinguishing it from parallelograms which have two pairs."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A triangle with all three sides of equal length is called an",
+      "options": [
+        "equilateral triangle",
+        "isosceles triangle",
+        "right-angled triangle",
+        "scalene triangle"
+      ],
+      "correctIndex": 0,
+      "explanation": "An equilateral triangle has all three sides equal in length, and consequently all three interior angles equal to 60 degrees."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A circle passing through three given points can be constructed by finding the",
+      "options": [
+        "midpoint of only one of the connecting lines",
+        "intersection of two parallel lines",
+        "intersection of the perpendicular bisectors of the lines joining the points",
+        "sum of the distances between the points"
+      ],
+      "correctIndex": 2,
+      "explanation": "The centre of a circle passing through three points lies at the intersection of the perpendicular bisectors of the chords connecting those points."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A straight line that touches a circle at exactly one point, without crossing into its interior, is called a",
+      "options": [
+        "tangent",
+        "chord",
+        "radius",
+        "secant"
+      ],
+      "correctIndex": 0,
+      "explanation": "A tangent line touches a circle at exactly one point and does not cross into the circle's interior."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A straight line segment joining two points on a circle's circumference, passing through the circle's interior, is called a",
+      "options": [
+        "tangent",
+        "radius",
+        "chord",
+        "diameter"
+      ],
+      "correctIndex": 2,
+      "explanation": "A chord connects any two points on a circle's circumference, passing through the interior, unlike a tangent which only touches the circle at one point."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "An arc that connects two circles smoothly and touches each circle at exactly one point, without crossing either, is called an",
+      "options": [
+        "radius arc",
+        "arc of tangency",
+        "diameter arc",
+        "arc of a chord"
+      ],
+      "correctIndex": 1,
+      "explanation": "An arc of tangency smoothly bridges two circles or lines, maintaining a single point of contact with each without intersecting them."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When constructing a tangent arc that touches two circles externally (curving away from both), the arc's centre must be located at a distance from each circle's centre equal to",
+      "options": [
+        "the diameter of each circle",
+        "the sum of the tangent arc's radius and each circle's radius",
+        "exactly half of each circle's radius",
+        "the difference between the tangent arc's radius and each circle's radius"
+      ],
+      "correctIndex": 1,
+      "explanation": "For an external tangency arc, the distance from its centre to each circle's centre equals the tangent arc's radius plus that circle's own radius."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When constructing a tangent arc that touches two circles internally (curving around and enclosing part of them), the arc's centre must be located at a distance from each circle's centre equal to",
+      "options": [
+        "the diameter of each circle",
+        "exactly double each circle's radius",
+        "the difference between the tangent arc's radius and each circle's radius",
+        "the sum of the tangent arc's radius and each circle's radius"
+      ],
+      "correctIndex": 2,
+      "explanation": "For an internal tangency arc, the distance from its centre to each circle's centre equals the tangent arc's radius minus that circle's own radius."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The path traced by a point that moves according to a specific geometric rule is called a",
+      "options": [
+        "tangent",
+        "projection",
+        "chord",
+        "locus"
+      ],
+      "correctIndex": 3,
+      "explanation": "A locus (plural: loci) is the path traced by a point moving under a defined geometric condition or rule."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "An oval-shaped curve traced by a point moving so that the sum of its distances from two fixed points (foci) remains constant is called an",
+      "options": [
+        "spiral",
+        "cycloid",
+        "ellipse",
+        "parabola"
+      ],
+      "correctIndex": 2,
+      "explanation": "An ellipse is defined as the locus of points where the sum of the distances to two fixed foci is always constant."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A common method for constructing an ellipse using two concentric circles of different radii is called the",
+      "options": [
+        "envelope method only",
+        "string method only",
+        "concentric circles method",
+        "trammel method only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The concentric circles method constructs an ellipse using two circles of major and minor axis radii, plotting points derived from their intersections."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "An alternative method for constructing an ellipse using a sliding strip marked with points corresponding to the major and minor axes is called the",
+      "options": [
+        "envelope method",
+        "concentric circles method",
+        "cycloid method",
+        "trammel method"
+      ],
+      "correctIndex": 3,
+      "explanation": "The trammel method uses a marked strip of card or paper, slid along guide lines, to plot points forming an accurate ellipse."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A curve traced by a point on the boundary of a circle as it rolls along a straight line without slipping is called a",
+      "options": [
+        "ellipse",
+        "parabola",
+        "cycloid",
+        "spiral"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cycloid is generated by tracking a point on a circle's circumference as the circle rolls along a straight line."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A curve formed by the locus of points equidistant from a fixed point (focus) and a fixed straight line (directrix) is called a",
+      "options": [
+        "cycloid",
+        "spiral",
+        "parabola",
+        "ellipse"
+      ],
+      "correctIndex": 2,
+      "explanation": "A parabola is defined as the set of points equidistant from a fixed focus point and a fixed directrix line."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A spiral in which the distance from the centre increases by a constant amount for each equal angle of rotation is called an",
+      "options": [
+        "cycloidal spiral",
+        "Archimedean spiral",
+        "logarithmic spiral",
+        "involute spiral"
+      ],
+      "correctIndex": 1,
+      "explanation": "An Archimedean spiral expands at a constant rate outward from its centre with each full rotation, unlike spirals with an exponentially increasing rate."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A straight line passing through the centre of a circle and touching the circle at two opposite points is called a",
+      "options": [
+        "diameter",
+        "arc only",
+        "chord only",
+        "tangent"
+      ],
+      "correctIndex": 0,
+      "explanation": "A diameter is a straight line passing through the centre of a circle, connecting two points on the circumference, and is twice the length of the radius."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A straight line from the centre of a circle to any point on its circumference is called a",
+      "options": [
+        "tangent",
+        "diameter",
+        "chord",
+        "radius"
+      ],
+      "correctIndex": 3,
+      "explanation": "A radius connects the centre of a circle to any point on its circumference, and is half the length of the diameter."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Converting an irregular polygon into a triangle of equal area, using geometric construction, is generally achieved by",
+      "options": [
+        "doubling the number of sides of the polygon",
+        "successively removing one vertex at a time while preserving the total area, until only a triangle remains",
+        "measuring the perimeter of the polygon only",
+        "randomly guessing an equivalent triangle shape"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard method reduces a polygon's number of sides one at a time through area-preserving constructions, until a triangle of equal area remains."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When reducing a quadrilateral to a triangle of equal area, a construction line is typically drawn",
+      "options": [
+        "parallel to a diagonal, through the vertex to be eliminated, to a point on an extended side",
+        "outside the figure with no connection to its vertices",
+        "perpendicular to all sides simultaneously",
+        "through the exact centre of the shape only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A line drawn parallel to a diagonal, passing through the vertex to be removed, intersects an extended side at a point that preserves the original area when the vertex is eliminated."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Converting a triangle into a rectangle of equal area is a common technique used to",
+      "options": [
+        "decrease the actual area of the original figure",
+        "eliminate the need for accurate measurement",
+        "increase the actual area of the original figure",
+        "simplify area comparison and calculation between differently shaped figures"
+      ],
+      "correctIndex": 3,
+      "explanation": "Converting shapes into simpler equivalent forms, like rectangles, makes it easier to visually compare or calculate areas of differently shaped figures."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The area of a triangle can be calculated using the formula",
+      "options": [
+        "half of the base multiplied by the perpendicular height",
+        "the base multiplied by the hypotenuse",
+        "the base multiplied by the height",
+        "the sum of all three sides"
+      ],
+      "correctIndex": 0,
+      "explanation": "The area of a triangle equals half the product of its base length and its perpendicular height."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The area of a rectangle can be calculated using the formula",
+      "options": [
+        "length multiplied by the diagonal",
+        "the sum of the length and width",
+        "length multiplied by width",
+        "half of the length multiplied by width"
+      ],
+      "correctIndex": 2,
+      "explanation": "The area of a rectangle is found by multiplying its length by its width."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The area of a regular polygon can generally be calculated using the formula",
+      "options": [
+        "the diameter multiplied by the number of sides",
+        "the perimeter multiplied by the number of sides",
+        "half of the perimeter multiplied by the apothem (the distance from the centre to the midpoint of a side)",
+        "half of one side multiplied by the number of vertices"
+      ],
+      "correctIndex": 2,
+      "explanation": "The area of any regular polygon can be found using half the perimeter multiplied by the apothem, the perpendicular distance from the centre to a side's midpoint."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When converting a rectangle to a square of equal area, a common construction method uses",
+      "options": [
+        "only the perimeter of the rectangle",
+        "a random estimate with no geometric construction",
+        "a semicircle drawn on the extended length, with the square's side found using the geometric mean",
+        "the sum of the length and width divided by two"
+      ],
+      "correctIndex": 2,
+      "explanation": "A classic construction converts a rectangle to an equal-area square by using a semicircle and the geometric mean relationship between the rectangle's length and width."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Reducing a complex irregular polygon to a rectangle of equal area is often done in two stages, first reducing the polygon to",
+      "options": [
+        "a random smaller polygon",
+        "a circle of equal area directly",
+        "a single straight line",
+        "a triangle of equal area, then converting that triangle to an equivalent rectangle"
+      ],
+      "correctIndex": 3,
+      "explanation": "The standard two-stage process first reduces an irregular polygon to an equivalent-area triangle, which is then converted into an equivalent-area rectangle."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A drawing method that represents a three-dimensional object using multiple related two-dimensional views, such as front, end, and plan, is called",
+      "options": [
+        "orthographic projection",
+        "perspective projection",
+        "isometric projection",
+        "oblique projection"
+      ],
+      "correctIndex": 0,
+      "explanation": "Orthographic projection depicts an object through separate, related two-dimensional views, typically showing front, end, and plan elevations."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In orthographic projection, the view showing the object as seen directly from the front is called the",
+      "options": [
+        "front elevation",
+        "plan",
+        "end elevation",
+        "isometric view"
+      ],
+      "correctIndex": 0,
+      "explanation": "The front elevation shows the object as viewed directly from the front, one of the three standard orthographic views."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In orthographic projection, the view showing the object as seen directly from the side is called the",
+      "options": [
+        "front elevation",
+        "plan",
+        "end elevation",
+        "isometric view"
+      ],
+      "correctIndex": 2,
+      "explanation": "The end elevation shows the object as viewed directly from one side (end), complementing the front elevation and plan."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In orthographic projection, the view showing the object as seen directly from above is called the",
+      "options": [
+        "isometric view",
+        "front elevation",
+        "plan",
+        "end elevation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The plan view shows the object as seen directly from above, providing the top-down perspective in orthographic projection."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In First-Angle orthographic projection, the plan view is conventionally placed",
+      "options": [
+        "above the front elevation",
+        "below the front elevation",
+        "beside the front elevation on the left only",
+        "diagonally from the front elevation"
+      ],
+      "correctIndex": 1,
+      "explanation": "In First-Angle projection (the convention widely used in Europe and much of Africa), the plan view is drawn below the front elevation."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In Third-Angle orthographic projection, the plan view is conventionally placed",
+      "options": [
+        "below the front elevation",
+        "above the front elevation",
+        "diagonally from the front elevation",
+        "beside the front elevation only"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Third-Angle projection (the convention widely used in the United States), the plan view is drawn above the front elevation, opposite to First-Angle convention."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A pictorial drawing method that represents all three dimensions of an object using axes set at 30 degrees to the horizontal is called",
+      "options": [
+        "orthogonal plan projection",
+        "isometric projection",
+        "oblique projection",
+        "orthographic projection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Isometric projection uses three axes, typically set 30 degrees from the horizontal, to represent an object's height, width, and depth in a single pictorial view."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A pictorial drawing method that shows one face of an object true to shape and size, with receding lines drawn at 45 degrees, is called",
+      "options": [
+        "true perspective",
+        "isometric projection",
+        "orthographic projection",
+        "oblique projection"
+      ],
+      "correctIndex": 3,
+      "explanation": "Oblique projection keeps the front face of an object undistorted, with depth shown by receding lines typically drawn at 45 degrees."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "An oblique drawing in which the receding lines are drawn at full scale, matching the true depth of the object, is called a",
+      "options": [
+        "orthographic drawing",
+        "isometric drawing",
+        "cavalier oblique drawing",
+        "cabinet oblique drawing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cavalier oblique drawings show receding depth lines at full true length, though this can make the object appear distorted or exaggerated in depth."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "An oblique drawing in which the receding lines are drawn at half scale to reduce visual distortion is called a",
+      "options": [
+        "cavalier oblique drawing",
+        "isometric drawing",
+        "cabinet oblique drawing",
+        "orthographic drawing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cabinet oblique drawings halve the length of receding depth lines compared to cavalier oblique, producing a more realistic, less distorted appearance."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A pictorial drawing method that represents objects converging toward a single vanishing point on the horizon is called",
+      "options": [
+        "one-point perspective",
+        "oblique projection",
+        "orthographic projection",
+        "isometric projection"
+      ],
+      "correctIndex": 0,
+      "explanation": "One-point perspective uses a single vanishing point on the horizon line, toward which all receding parallel lines converge."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A pictorial drawing method that represents objects converging toward two separate vanishing points on the horizon is called",
+      "options": [
+        "two-point perspective",
+        "oblique projection",
+        "isometric projection",
+        "one-point perspective"
+      ],
+      "correctIndex": 0,
+      "explanation": "Two-point perspective uses two vanishing points on the horizon, giving a more dynamic and realistic representation of an object viewed at an angle."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The horizontal line representing eye level, toward which vanishing points are placed in perspective drawing, is called the",
+      "options": [
+        "picture plane",
+        "station point",
+        "horizon line",
+        "ground line"
+      ],
+      "correctIndex": 2,
+      "explanation": "The horizon line represents the viewer's eye level in a perspective drawing, and is where vanishing points are conventionally located."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In orthographic projection, lines projected between related views (such as from the front elevation down to the plan) are called",
+      "options": [
+        "projection lines",
+        "centre lines",
+        "cutting plane lines",
+        "hidden lines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Projection lines are thin construction lines used to transfer and align corresponding points and features between the different related orthographic views."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A key advantage of isometric projection over standard orthographic projection is that it",
+      "options": [
+        "always shows the true size of every face equally",
+        "eliminates the need for any measurement",
+        "shows all three dimensions of an object in a single pictorial view",
+        "requires no understanding of scale"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike orthographic projection, which requires multiple separate views, isometric projection combines height, width, and depth into one pictorial drawing."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In isometric drawing, the three principal axes are typically arranged at angles of",
+      "options": [
+        "45 degrees to each other only",
+        "180 degrees to each other",
+        "120 degrees to each other",
+        "90 degrees to each other only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The three isometric axes are conventionally spaced 120 degrees apart, giving the characteristic equal visual treatment of all three dimensions."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A significant limitation of one-point perspective compared to two-point perspective is that it",
+      "options": [
+        "is generally less realistic for objects viewed at an angle, since only one set of receding lines converges",
+        "requires two separate horizon lines",
+        "cannot represent depth in any way",
+        "cannot be used for interior scenes at all"
+      ],
+      "correctIndex": 0,
+      "explanation": "One-point perspective works well for scenes viewed straight-on, but is less effective for accurately representing objects viewed at an angle, where two-point perspective is more realistic."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A view showing the interior of a solid object after it has been theoretically cut by a plane is called a",
+      "options": [
+        "plan view only",
+        "sectional view",
+        "elevation view",
+        "isometric view only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A sectional view reveals the internal structure of an object by depicting it as if cut through by a cutting plane."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The imaginary plane used to theoretically slice through a solid object to reveal its sectional view is called the",
+      "options": [
+        "vanishing plane",
+        "picture plane",
+        "cutting plane",
+        "ground plane"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cutting plane represents the imaginary surface along which a solid is sliced to produce and reveal a sectional view."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A sectional view produced by a cutting plane running parallel to the base of a solid is called a",
+      "options": [
+        "inclined section",
+        "vertical section",
+        "oblique section only",
+        "horizontal section"
+      ],
+      "correctIndex": 3,
+      "explanation": "A horizontal section results from a cutting plane oriented parallel to the base of the solid being sectioned."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A sectional view produced by a cutting plane running perpendicular to the base of a solid is called a",
+      "options": [
+        "horizontal section",
+        "inclined section",
+        "isometric section",
+        "vertical section"
+      ],
+      "correctIndex": 3,
+      "explanation": "A vertical section results from a cutting plane oriented perpendicular to the base of the solid being sectioned."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A sectional view produced by a cutting plane set at an angle other than horizontal or vertical to a solid is called an",
+      "options": [
+        "orthographic section",
+        "horizontal section",
+        "inclined section",
+        "vertical section"
+      ],
+      "correctIndex": 2,
+      "explanation": "An inclined section results from a cutting plane angled obliquely relative to the solid, neither fully horizontal nor vertical."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When a cone is sectioned by a cutting plane inclined to its base and passing through both slant sides, the resulting true shape of the cut surface is generally an",
+      "options": [
+        "hyperbola only",
+        "parabola only",
+        "ellipse",
+        "circle only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Depending on the angle of the cutting plane, sectioning a cone can produce an ellipse, along with other conic sections like parabolas and hyperbolas at different angles."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The true shape of a sectional face, as opposed to its foreshortened appearance in a standard view, is obtained by",
+      "options": [
+        "measuring only the visible outline in the original view",
+        "ignoring the angle of the cutting plane entirely",
+        "using the plan view directly without further projection",
+        "projecting the section onto a plane parallel to the cutting plane"
+      ],
+      "correctIndex": 3,
+      "explanation": "To reveal the true, undistorted shape of a sectional face, it must be projected onto an auxiliary plane that is parallel to the cutting plane itself."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular solid with a polygonal base and rectangular (or parallelogram) side faces, extending uniformly along its length, is called a",
+      "options": [
+        "cylinder",
+        "prism",
+        "pyramid",
+        "cone"
+      ],
+      "correctIndex": 1,
+      "explanation": "A prism has two parallel, congruent polygonal bases connected by rectangular or parallelogram-shaped side faces."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular solid with a polygonal base and triangular side faces that converge to a single apex point is called a",
+      "options": [
+        "cylinder",
+        "prism",
+        "pyramid",
+        "cone"
+      ],
+      "correctIndex": 2,
+      "explanation": "A pyramid has a polygonal base with triangular faces that meet at a single apex point above the base."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular solid with a circular base and a curved surface converging to a single apex point is called a",
+      "options": [
+        "cylinder",
+        "prism",
+        "pyramid",
+        "cone"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cone has a circular base and a curved lateral surface that tapers uniformly to a single apex point."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A regular solid with two parallel circular bases connected by a uniform curved surface is called a",
+      "options": [
+        "prism",
+        "pyramid",
+        "cone",
+        "cylinder"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cylinder has two parallel, congruent circular bases connected by a uniform curved lateral surface."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When a cylinder is sectioned by a cutting plane inclined to its axis (but not passing through the base), the resulting true shape of the cut surface is generally an",
+      "options": [
+        "rectangle only",
+        "circle only",
+        "triangle only",
+        "ellipse"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cutting a cylinder at an angle to its axis produces an elliptical sectional shape, unlike a perpendicular cut which yields a circle."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "When a pyramid is sectioned by a cutting plane parallel to its base, the resulting sectional shape is",
+      "options": [
+        "always a circle",
+        "a smaller polygon similar in shape to the base",
+        "an irregular shape unrelated to the base",
+        "always a triangle regardless of the base shape"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sectioning a pyramid parallel to its base produces a smaller polygon that is geometrically similar in shape to the original base."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The flat pattern layout showing the true shape of all surfaces of a solid, as if unfolded, is called the",
+      "options": [
+        "elevation",
+        "development (surface development)",
+        "section",
+        "plan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surface development lays out the true shape and size of a solid's faces on a flat plane, as if the solid were unfolded or unrolled."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Surface development is particularly useful in industry for applications such as",
+      "options": [
+        "colour mixing in painting",
+        "musical notation layout",
+        "orthographic projection theory only",
+        "sheet metal fabrication and packaging design"
+      ],
+      "correctIndex": 3,
+      "explanation": "Development of surfaces provides the flat patterns needed to fabricate objects from sheet metal or cardboard, such as ducts, containers, and packaging."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The part of a cone or pyramid remaining after its upper portion has been cut off by a plane parallel to its base is called a",
+      "options": [
+        "frustum",
+        "section only",
+        "development only",
+        "prism"
+      ],
+      "correctIndex": 0,
+      "explanation": "A frustum is the remaining lower portion of a cone or pyramid after its top has been sliced off parallel to the base."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The development of a cylinder's curved surface, when unrolled flat, produces a shape that is a",
+      "options": [
+        "triangle",
+        "irregular polygon",
+        "rectangle",
+        "circle only"
+      ],
+      "correctIndex": 2,
+      "explanation": "When unrolled, a cylinder's curved lateral surface forms a rectangle, with one side equal to the circumference of the base and the other equal to the height."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The development of a cone's curved surface, when unrolled flat, produces a shape that is a",
+      "options": [
+        "square",
+        "rectangle",
+        "triangle only",
+        "sector of a circle"
+      ],
+      "correctIndex": 3,
+      "explanation": "A cone's curved surface, when developed (unrolled), forms a sector of a circle, whose radius equals the cone's slant height."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The development of a prism's side surfaces, when unfolded flat, produces a series of connected",
+      "options": [
+        "circles",
+        "sectors only",
+        "rectangles (or parallelograms)",
+        "triangles only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A prism's lateral faces, being rectangular or parallelogram-shaped, unfold into a connected series of rectangles or parallelograms when developed."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The development of a pyramid's side surfaces, when unfolded flat, produces a series of connected",
+      "options": [
+        "rectangles",
+        "circles",
+        "sectors only",
+        "triangles"
+      ],
+      "correctIndex": 3,
+      "explanation": "A pyramid's triangular lateral faces unfold into a connected series of triangles when the surface is developed."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A key challenge in developing surfaces of intersecting or transitional parts (such as a pipe junction) is determining",
+      "options": [
+        "the number of screws needed for assembly",
+        "the material cost alone",
+        "the true lines of intersection between the different surfaces before laying out the development",
+        "the colour scheme to be used"
+      ],
+      "correctIndex": 2,
+      "explanation": "Accurately developing transitional or intersecting parts requires first establishing the precise lines where the surfaces meet, before the flat pattern can be laid out correctly."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Allowances added to a developed surface pattern for joining edges together, such as folding or seaming, are called",
+      "options": [
+        "cutting plane lines",
+        "seam allowances (laps)",
+        "centre lines",
+        "vanishing points"
+      ],
+      "correctIndex": 1,
+      "explanation": "Seam allowances (or laps) are extra material added to a developed pattern's edges, providing the overlap needed for joining, folding, or seaming the finished piece."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "The part of a building's structure that transfers the load of the building to the ground is called the",
+      "options": [
+        "roof",
+        "damp-proof course",
+        "lintel",
+        "foundation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The foundation is the structural base of a building, distributing its weight safely into the supporting ground."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A drawing showing a building's rooms, walls, doors, and windows as seen from directly above, with the roof removed, is called a",
+      "options": [
+        "site plan",
+        "section",
+        "elevation",
+        "floor plan"
+      ],
+      "correctIndex": 3,
+      "explanation": "A floor plan is a top-down view of a building's layout, showing the arrangement of rooms, walls, doors, and windows on a given level."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A drawing showing the external appearance of one side (face) of a building is called an",
+      "options": [
+        "floor plan",
+        "site plan",
+        "foundation plan",
+        "elevation"
+      ],
+      "correctIndex": 3,
+      "explanation": "An elevation depicts the external, vertical face of a building as viewed from one particular direction."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A drawing showing a building's position and layout in relation to its surrounding plot of land is called a",
+      "options": [
+        "floor plan",
+        "site plan",
+        "roof plan",
+        "elevation"
+      ],
+      "correctIndex": 1,
+      "explanation": "A site plan illustrates the building's position, orientation, and layout relative to its surrounding land, boundaries, and access routes."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A continuous layer built into a wall near ground level to prevent moisture from rising into the building is called a",
+      "options": [
+        "foundation footing",
+        "lintel",
+        "damp-proof course (DPC)",
+        "roof truss"
+      ],
+      "correctIndex": 2,
+      "explanation": "The damp-proof course is a moisture-resistant layer incorporated into a wall to prevent rising dampness from the ground."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A horizontal structural member placed above a door or window opening to support the wall load above it is called a",
+      "options": [
+        "roof truss",
+        "foundation",
+        "damp-proof course",
+        "lintel"
+      ],
+      "correctIndex": 3,
+      "explanation": "A lintel spans across the top of a door or window opening, transferring the load of the wall above safely to the sides of the opening."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A triangular framework of timber or steel members used to support a pitched roof structure is called a",
+      "options": [
+        "roof truss",
+        "damp-proof course",
+        "foundation",
+        "lintel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A roof truss is a triangulated framework designed to support the roof covering and transfer its load down to the walls."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A typical architectural working scale used for building drawings, representing 1 unit on the drawing as 50 units in reality, is written as",
+      "options": [
+        "50:1",
+        "5:1",
+        "1:50",
+        "1:500"
+      ],
+      "correctIndex": 2,
+      "explanation": "A scale of 1:50 means every 1 unit of measurement on the drawing represents 50 of the same units in real life, a common architectural working scale."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "Standard symbols used on building drawings to represent items such as sinks, toilets, and water pipes are collectively called",
+      "options": [
+        "electrical symbols",
+        "structural symbols only",
+        "landscaping symbols only",
+        "plumbing symbols"
+      ],
+      "correctIndex": 3,
+      "explanation": "Plumbing symbols are standardised graphic representations used on building drawings to indicate the location of sanitary fittings and pipework."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A threaded cylindrical fastener, typically paired with a nut, used to join mechanical components together, is called a",
+      "options": [
+        "bolt",
+        "gear",
+        "pulley",
+        "key"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bolt is a threaded fastener designed to be used with a matching nut to securely join mechanical parts."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A small metal piece inserted between a shaft and a hub to prevent relative rotation between them is called a",
+      "options": [
+        "key",
+        "pulley",
+        "bolt",
+        "coupling"
+      ],
+      "correctIndex": 0,
+      "explanation": "A key fits into matching slots (keyways) on a shaft and hub, preventing them from rotating independently of each other."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A wheel with a grooved rim, used with a belt to transmit rotational motion between shafts, is called a",
+      "options": [
+        "key",
+        "bolt",
+        "pulley",
+        "gear"
+      ],
+      "correctIndex": 2,
+      "explanation": "A pulley, paired with a belt, transmits rotational motion and power between separated shafts."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A wheel with cut teeth, designed to mesh with another toothed wheel to transmit rotational motion, is called a",
+      "options": [
+        "key",
+        "gear",
+        "bolt",
+        "pulley"
+      ],
+      "correctIndex": 1,
+      "explanation": "A gear has cut teeth that mesh with another gear's teeth, transmitting rotational motion and adjusting speed or torque between shafts."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A cylindrical mechanical component that rotates to transmit power or motion from one part of a machine to another is called a",
+      "options": [
+        "shaft",
+        "key",
+        "bolt",
+        "gear"
+      ],
+      "correctIndex": 0,
+      "explanation": "A shaft is a rotating cylindrical component used to transmit power and rotational motion within a mechanical assembly."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A mechanical device used to connect two shafts together end-to-end, allowing power transmission between them, is called a",
+      "options": [
+        "pulley",
+        "gear",
+        "key",
+        "coupling"
+      ],
+      "correctIndex": 3,
+      "explanation": "A coupling joins two separate shafts together, allowing torque and rotational motion to be transmitted from one to the other."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "In mechanical drawing, the acceptable range of variation permitted in a component's manufactured dimension is called the",
+      "options": [
+        "development",
+        "locus",
+        "limit tolerance",
+        "projection"
+      ],
+      "correctIndex": 2,
+      "explanation": "Limit tolerances specify the permissible upper and lower boundaries within which a manufactured dimension may vary while still being acceptable."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A drawing showing how individual mechanical parts, such as bolts, nuts, and shafts, fit together as a complete unit is called an",
+      "options": [
+        "assembly drawing",
+        "detail drawing only",
+        "site plan",
+        "floor plan"
+      ],
+      "correctIndex": 0,
+      "explanation": "An assembly drawing illustrates how multiple individual components are combined to form a complete mechanical unit."
+    },
+    {
+      "subject": "Technical Drawing",
+      "text": "A drawing showing a single mechanical component in isolation, with full dimensions needed for its manufacture, is called a",
+      "options": [
+        "site plan",
+        "detail drawing",
+        "assembly drawing",
+        "floor plan"
+      ],
+      "correctIndex": 1,
+      "explanation": "A detail drawing focuses on one individual component, providing all the necessary dimensions and specifications for it to be manufactured accurately."
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "subject": "General Knowledge",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "General Knowledge",
+      "text": "The Federal University of Technology, Akure (FUTA) is located in which state?",
+      "options": [
+        "Edo State",
+        "Osun State",
+        "Ekiti State",
+        "Ondo State"
+      ],
+      "correctIndex": 3,
+      "explanation": "FUTA is located in Akure, the capital city of Ondo State, in south-western Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year was the Federal University of Technology, Akure (FUTA) established?",
+      "options": [
+        "1990",
+        "1975",
+        "2001",
+        "1981"
+      ],
+      "correctIndex": 3,
+      "explanation": "FUTA was established in 1981 as one of the second generation of Nigerian federal universities dedicated specifically to technology education."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "FUTA was established as part of a federal government initiative to create universities with a special focus on which area of study?",
+      "options": [
+        "Law and humanities",
+        "Performing arts",
+        "Science and technology",
+        "Theology"
+      ],
+      "correctIndex": 2,
+      "explanation": "FUTA was created as a specialist federal university of technology, focused on producing graduates in engineering, science, and technology-related fields."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Akure, the host city of FUTA, serves as the capital of which Nigerian state?",
+      "options": [
+        "Ekiti State",
+        "Kwara State",
+        "Osun State",
+        "Ondo State"
+      ],
+      "correctIndex": 3,
+      "explanation": "Akure is the capital and largest city of Ondo State."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Ondo State, where FUTA is situated, is particularly well known in Nigeria for the large-scale production of which cash crop?",
+      "options": [
+        "Groundnut",
+        "Cocoa",
+        "Cotton",
+        "Kola nut only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ondo State is one of Nigeria's leading cocoa-producing states, with cocoa long forming a major part of the state's agricultural economy."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following ethnic/sub-ethnic groups forms the majority of the indigenous population of Ondo State?",
+      "options": [
+        "Igbo",
+        "Hausa",
+        "Tiv",
+        "Yoruba"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ondo State's indigenous population is predominantly Yoruba, including the Akoko, Ondo, Ikale, Ilaje, and Owo sub-groups."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a well-known indigenous festival celebrated among the Yoruba communities of Ondo State?",
+      "options": [
+        "Argungu fishing festival",
+        "Sharo festival",
+        "Durbar festival",
+        "Ohori and Igogo festivals"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Igogo festival, celebrated in Owo, is among the notable indigenous festivals of Ondo State's Yoruba communities."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which body of water forms part of the southern boundary of Ondo State?",
+      "options": [
+        "Atlantic Ocean",
+        "Lake Kainji",
+        "Lake Chad",
+        "River Niger only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ondo State has a coastline along the Atlantic Ocean in its southern riverine areas, including areas near Ilaje."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regulatory body is responsible for accrediting academic programmes in Nigerian universities, including FUTA?",
+      "options": [
+        "The Joint Admissions and Matriculation Board (JAMB)",
+        "The Federal Ministry of Education alone, with no separate agency",
+        "The National Universities Commission (NUC)",
+        "The West African Examinations Council (WAEC)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The NUC is the regulatory body responsible for approving and accrediting academic programmes offered by Nigerian universities, ensuring they meet minimum quality standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of a Vice-Chancellor in a Nigerian university, such as FUTA?",
+      "options": [
+        "Serving as the elected student union president",
+        "Managing only the university's sports facilities",
+        "Serving as the chief executive and academic head of the university",
+        "Serving as an external auditor of the university's accounts"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Vice-Chancellor is the chief executive and principal academic officer of a Nigerian university, responsible for its overall administration and academic direction."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which arm of government in Nigeria is primarily responsible for interpreting laws and administering justice?",
+      "options": [
+        "The Executive",
+        "The Legislature",
+        "The Civil Service",
+        "The Judiciary"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Judiciary is the arm of government responsible for interpreting laws and adjudicating disputes, distinct from the law-making Legislature and law-enforcing Executive."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the Nigerian legislative chamber that represents individual constituencies at the federal level, alongside the Senate?",
+      "options": [
+        "National Council",
+        "House of Representatives",
+        "Federal Council",
+        "House of Assembly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The House of Representatives, together with the Senate, forms Nigeria's bicameral National Assembly, with members representing federal constituencies."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following countries shares a land border with Nigeria?",
+      "options": [
+        "Ghana",
+        "Kenya",
+        "Cameroon",
+        "South Africa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nigeria shares land borders with Cameroon, Niger, Chad, and Benin Republic; Ghana, South Africa, and Kenya are not bordering countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the longest river in Africa?",
+      "options": [
+        "River Benue",
+        "River Nile",
+        "River Congo",
+        "River Niger"
+      ],
+      "correctIndex": 1,
+      "explanation": "The River Nile, flowing through north-eastern Africa, is the longest river on the continent."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Independent National Electoral Commission (INEC)?",
+      "options": [
+        "Enforcing traffic laws nationwide",
+        "Organising and supervising elections in Nigeria",
+        "Regulating the Nigerian banking sector",
+        "Managing Nigeria's foreign embassies"
+      ],
+      "correctIndex": 1,
+      "explanation": "INEC is Nigeria's independent body responsible for organising, conducting, and supervising elections at the federal and state levels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the chemical symbol for pure oxygen gas?",
+      "options": [
+        "O2",
+        "O3",
+        "O",
+        "Ox"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oxygen gas exists naturally as a diatomic molecule, represented by the chemical formula O2."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which planet in our solar system is known as the 'Red Planet'?",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mars is often called the 'Red Planet' because of the reddish appearance caused by iron oxide (rust) on its surface."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Cote d'Ivoire's national football team commonly nicknamed?",
+      "options": [
+        "The Super Eagles",
+        "The Elephants",
+        "The Black Stars",
+        "The Indomitable Lions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cote d'Ivoire's senior men's national football team is popularly known as the Elephants, distinct from Ghana's Black Stars and Nigeria's Super Eagles."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international body is primarily responsible for setting global standards and rules for international trade?",
+      "options": [
+        "The United Nations (UN)",
+        "The International Monetary Fund (IMF)",
+        "The World Health Organization (WHO)",
+        "The World Trade Organization (WTO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WTO is the international organisation specifically responsible for establishing and enforcing global rules governing trade between nations."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a system of government headed by a king or queen whose powers are limited by a constitution?",
+      "options": [
+        "Theocracy",
+        "Republic",
+        "Constitutional monarchy",
+        "Absolute monarchy"
+      ],
+      "correctIndex": 2,
+      "explanation": "A constitutional monarchy is a system in which a monarch serves as head of state, but their powers are limited and defined by a constitution, unlike an absolute monarchy."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Nigerian Police Force?",
+      "options": [
+        "Interpreting the Nigerian constitution",
+        "Managing the country's monetary policy",
+        "Making laws for the federation",
+        "Maintaining law and order and enforcing criminal law"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Nigerian Police Force is the primary law enforcement agency responsible for maintaining public order and enforcing criminal law across the country."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is an example of a non-communicable disease?",
+      "options": [
+        "Measles",
+        "Diabetes",
+        "Tuberculosis",
+        "Cholera"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diabetes is a non-communicable (chronic) disease, unlike tuberculosis, cholera, and measles, which are infectious diseases."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the smallest country in the world by land area?",
+      "options": [
+        "Liechtenstein",
+        "Monaco",
+        "San Marino",
+        "Vatican City"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vatican City, an independent city-state enclaved within Rome, Italy, is the smallest country in the world by land area."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of the executive arm of government?",
+      "options": [
+        "Implementing and enforcing laws",
+        "Auditing government accounts exclusively",
+        "Making laws for the country",
+        "Interpreting the constitution exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "The executive arm, headed by a President or Governor, is primarily responsible for implementing and enforcing the laws made by the legislature."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which vitamin deficiency is most commonly associated with the bone disease rickets?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rickets is a disease resulting from a deficiency of Vitamin D, which is essential for calcium absorption and healthy bone development."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of all goods and services produced within a country's borders in a given period?",
+      "options": [
+        "Balance of Trade",
+        "Net National Income",
+        "Gross National Product (GNP)",
+        "Gross Domestic Product (GDP)"
+      ],
+      "correctIndex": 3,
+      "explanation": "GDP specifically measures the value of goods and services produced within a country's borders, regardless of the nationality of the producers."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian author wrote the celebrated play 'Death and the King's Horseman'?",
+      "options": [
+        "Cyprian Ekwensi",
+        "Chimamanda Ngozi Adichie",
+        "Chinua Achebe",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wole Soyinka, Nigeria's first Nobel laureate in Literature, wrote the celebrated play 'Death and the King's Horseman.'"
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does the abbreviation 'NAFDAC' stand for in the Nigerian context?",
+      "options": [
+        "National Authority for Food, Drugs, and Cosmetics",
+        "Nigerian Agency for Food and Drug Coordination",
+        "National Agency for Food and Drug Administration and Control",
+        "National Association for Drug and Chemical Control"
+      ],
+      "correctIndex": 2,
+      "explanation": "NAFDAC regulates and controls the manufacture, importation, and sale of food, drugs, and related products in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a persistent, sustained rise in the general price level of goods and services in an economy?",
+      "options": [
+        "Devaluation",
+        "Inflation",
+        "Deflation",
+        "Recession"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inflation describes an ongoing, generalised increase in prices across an economy, the opposite of deflation."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary aim of the African Continental Free Trade Area (AfCFTA)?",
+      "options": [
+        "Restricting all trade between African nations",
+        "Coordinating African military alliances exclusively",
+        "Regulating global internet governance",
+        "Creating a single market for goods and services across African countries to boost intra-African trade"
+      ],
+      "correctIndex": 3,
+      "explanation": "AfCFTA aims to create a single continental market for goods and services, boosting intra-African trade by reducing tariffs and other trade barriers among member states."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a key function of the Central Bank of Nigeria (CBN) relating to currency?",
+      "options": [
+        "Managing Nigeria's road transport infrastructure",
+        "Issuing and regulating the country's currency (the Naira)",
+        "Setting the retail price of consumer goods",
+        "Running the national postal service"
+      ],
+      "correctIndex": 1,
+      "explanation": "One of the CBN's core functions is the sole authority to issue and regulate Nigeria's legal tender currency, the Naira."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary purpose of the World Health Organization (WHO)?",
+      "options": [
+        "Overseeing international postal services",
+        "Coordinating international public health and disease control efforts",
+        "Managing global currency exchange rates",
+        "Regulating international trade tariffs"
+      ],
+      "correctIndex": 1,
+      "explanation": "The WHO is a United Nations agency specifically responsible for coordinating international public health matters, including disease prevention and control."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is the largest producer of crude oil in Africa, based on long-established historical ranking?",
+      "options": [
+        "Kenya",
+        "Egypt",
+        "Ghana",
+        "Nigeria"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria has long been recognised as one of Africa's leading crude oil producers, historically ranking as the continent's largest producer for extended periods."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the practice of a country restricting imports through tariffs or quotas to protect domestic industries?",
+      "options": [
+        "Free trade",
+        "Protectionism",
+        "Liberalisation",
+        "Globalisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Protectionism refers to government policies that restrict international trade, such as tariffs and quotas, to shield domestic industries from foreign competition."
+    }
+  ]
+}

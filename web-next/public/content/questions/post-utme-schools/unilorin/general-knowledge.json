@@ -1,0 +1,1614 @@
+{
+  "subject": "General Knowledge",
+  "examCategory": "post-utme",
+  "questions": [
+    {
+      "subject": "General Knowledge",
+      "text": "Which international organisation is Nigeria a founding member of, established in 1945?",
+      "options": [
+        "IMF",
+        "United Nations",
+        "WTO",
+        "World Bank"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria joined the United Nations in 1960 upon independence, though the UN itself was founded in 1945."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a major indigenous language widely spoken in and around Kwara State, alongside English and Yoruba?",
+      "options": [
+        "Igbo",
+        "Tiv",
+        "Efik",
+        "Nupe"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nupe is a significant indigenous language spoken by communities in and around Kwara State and neighbouring Niger State, alongside the more widely spoken Yoruba."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which is the largest ocean in the world?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Pacific Ocean is the largest and deepest of the world's oceans."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of all goods and services produced within a country's borders in a given period?",
+      "options": [
+        "Gross Domestic Product (GDP)",
+        "Gross National Product (GNP)",
+        "Net National Income",
+        "Balance of Trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "GDP specifically measures the value of goods and services produced within a country's borders, regardless of the nationality of the producers."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is a common cause of erosion in parts of southeastern Nigeria?",
+      "options": [
+        "Heavy machinery",
+        "Volcanic activity",
+        "Gully formation from rainfall and poor land use",
+        "Earthquakes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gully erosion, worsened by heavy rainfall and poor land management, is a major issue in southeastern Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regional body promotes economic integration among West African countries?",
+      "options": [
+        "ECOWAS",
+        "SADC",
+        "AU",
+        "EAC"
+      ],
+      "correctIndex": 0,
+      "explanation": "ECOWAS (Economic Community of West African States) promotes economic integration in West Africa."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year did Nigeria become a republic?",
+      "options": [
+        "1970",
+        "1960",
+        "1963",
+        "1966"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nigeria became a republic on October 1, 1963, with Nnamdi Azikiwe as the first President."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "How many senators represent each state in Nigeria's National Assembly?",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each of Nigeria's 36 states is represented by 3 senators."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In which year did Nigeria win the FIFA U-17 World Cup for the first time?",
+      "options": [
+        "1993",
+        "2013",
+        "2007",
+        "1985"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria's Golden Eaglets won the first FIFA U-17 World Cup in China in 1985."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is generally credited with leading the Sokoto Jihad in the early 19th century, later founding the Sokoto Caliphate?",
+      "options": [
+        "Muhammadu Bello",
+        "Usman Aliyu",
+        "Uthman Dan Fodio",
+        "Ahmadu Bello"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uthman Dan Fodio led the Sokoto Jihad in the early 19th century, a religious and political reform movement that resulted in the founding of the Sokoto Caliphate."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does GDP stand for in economics?",
+      "options": [
+        "Government Debt Percentage",
+        "General Domestic Policy",
+        "Gross Domestic Product",
+        "Global Development Programme"
+      ],
+      "correctIndex": 2,
+      "explanation": "GDP measures the total value of goods and services produced within a country."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which planet is the closest to the Sun in our solar system?",
+      "options": [
+        "Earth",
+        "Mercury",
+        "Mars",
+        "Venus"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mercury is the smallest planet and the one closest to the Sun in our solar system."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian author wrote 'Half of a Yellow Sun'?",
+      "options": [
+        "Chimamanda Ngozi Adichie",
+        "Buchi Emecheta",
+        "Chinua Achebe",
+        "Ben Okri"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chimamanda Ngozi Adichie wrote 'Half of a Yellow Sun', set during the Biafran War."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a major cash crop historically associated with the Middle Belt region of Nigeria, including areas around Kwara State?",
+      "options": [
+        "Guinea corn (sorghum) and yam",
+        "Cocoa exclusively",
+        "Rubber exclusively",
+        "Tea exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Middle Belt region, including Kwara State, has historically been associated with the cultivation of crops such as guinea corn (sorghum) and yam, benefiting from its savanna and transitional vegetation."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which country hosted the 2010 FIFA World Cup, the first held on African soil?",
+      "options": [
+        "Morocco",
+        "South Africa",
+        "Egypt",
+        "Nigeria"
+      ],
+      "correctIndex": 1,
+      "explanation": "South Africa hosted the 2010 FIFA World Cup, the first World Cup held in Africa."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is credited with inventing the World Wide Web?",
+      "options": [
+        "Mark Zuckerberg",
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which document is regarded as the supreme law of Nigeria?",
+      "options": [
+        "The Constitution",
+        "The Electoral Act",
+        "The Petroleum Act",
+        "The Land Use Act"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Constitution of the Federal Republic of Nigeria is the supreme law of the land."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian writer won the Nobel Prize in Literature in 1986?",
+      "options": [
+        "Chimamanda Ngozi Adichie",
+        "Christopher Okigbo",
+        "Wole Soyinka",
+        "Chinua Achebe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wole Soyinka became the first African to win the Nobel Prize in Literature, in 1986."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a persistent, sustained fall in the general price level of goods and services in an economy?",
+      "options": [
+        "Inflation",
+        "Recession",
+        "Stagflation",
+        "Deflation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deflation describes an ongoing, generalised decrease in prices across an economy, the opposite of inflation."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which vitamin deficiency is most commonly associated with the disease scurvy?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scurvy is a disease resulting from a deficiency of Vitamin C, historically significant among sailors on long voyages without fresh fruit."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Independent National Electoral Commission (INEC)?",
+      "options": [
+        "Managing Nigeria's foreign embassies",
+        "Regulating the Nigerian banking sector",
+        "Enforcing traffic laws nationwide",
+        "Organising and supervising elections in Nigeria"
+      ],
+      "correctIndex": 3,
+      "explanation": "INEC is Nigeria's independent body responsible for organising, conducting, and supervising elections at the federal and state levels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for money a government spends exceeding its revenue, financed by borrowing?",
+      "options": [
+        "Budget deficit",
+        "Fiscal surplus",
+        "Trade surplus",
+        "Capital gain"
+      ],
+      "correctIndex": 0,
+      "explanation": "A budget deficit occurs when government spending exceeds its revenue in a given period."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Nigeria is a major member of which oil-exporting organisation?",
+      "options": [
+        "ECOWAS",
+        "AU",
+        "Commonwealth",
+        "OPEC"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria is a member of the Organization of the Petroleum Exporting Countries (OPEC)."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What term describes a country's shift from relying on oil towards other sectors of its economy?",
+      "options": [
+        "Devaluation",
+        "Economic diversification",
+        "Privatisation",
+        "Nationalisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Economic diversification refers to reducing dependence on a single sector, like oil, by developing other sectors."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Nigeria's main export commodity, alongside crude oil, in terms of historical economic importance?",
+      "options": [
+        "Tea",
+        "Coffee",
+        "Wool",
+        "Cocoa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cocoa has historically been one of Nigeria's most significant non-oil export commodities, particularly important before the discovery of oil."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is the largest producer of crude oil in Africa, based on long-established historical ranking?",
+      "options": [
+        "Egypt",
+        "Ghana",
+        "Kenya",
+        "Nigeria"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria has long been recognised as one of Africa's leading crude oil producers, historically ranking as the continent's largest producer for extended periods."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which African country was never formally colonised?",
+      "options": [
+        "Ethiopia",
+        "Nigeria",
+        "Ghana",
+        "Kenya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ethiopia successfully resisted European colonisation, notably defeating Italy at the Battle of Adwa in 1896."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian agency is responsible for national statistics, including GDP figures?",
+      "options": [
+        "FIRS",
+        "NNPC",
+        "NBS",
+        "CBN"
+      ],
+      "correctIndex": 2,
+      "explanation": "The National Bureau of Statistics (NBS) compiles and publishes Nigeria's official statistics."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Mount Everest, the world's highest peak, is located in which mountain range?",
+      "options": [
+        "Alps",
+        "Andes",
+        "Rockies",
+        "Himalayas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mount Everest is part of the Himalayan mountain range, on the border of Nepal and Tibet."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regulatory body is responsible for accrediting academic programmes in Nigerian universities?",
+      "options": [
+        "The Federal Ministry of Education alone, with no separate agency",
+        "The West African Examinations Council (WAEC)",
+        "The National Universities Commission (NUC)",
+        "The Joint Admissions and Matriculation Board (JAMB)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The NUC is the regulatory body responsible for approving and accrediting academic programmes offered by Nigerian universities, ensuring they meet minimum quality standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Nigeria won its first Olympic gold medal in which sport, in 1996?",
+      "options": [
+        "Wrestling",
+        "Boxing",
+        "Football",
+        "Long jump"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chioma Ajunwa won Nigeria's first individual Olympic gold medal in the long jump at the 1996 Atlanta Olympics."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which agency in Nigeria is primarily responsible for fighting financial and economic crimes?",
+      "options": [
+        "EFCC",
+        "NAFDAC",
+        "NDLEA",
+        "DSS"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Economic and Financial Crimes Commission (EFCC) investigates financial crimes in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which body regulates Nigeria's oil and gas sector, established after major reforms?",
+      "options": [
+        "NEITI",
+        "NDDC",
+        "NNPC",
+        "NUPRC"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Nigerian National Petroleum Company (NNPC) is central to Nigeria's oil and gas industry."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the smallest country in the world by land area?",
+      "options": [
+        "Vatican City",
+        "San Marino",
+        "Monaco",
+        "Liechtenstein"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vatican City, an independent city-state enclaved within Rome, Italy, is the smallest country in the world by land area."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which is the largest continent by land area?",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "correctIndex": 2,
+      "explanation": "Asia is the largest continent both by land area and population."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the name of Nigeria's National Assembly's upper chamber?",
+      "options": [
+        "House of Representatives",
+        "Federal Executive Council",
+        "Senate",
+        "Council of State"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Senate is the upper chamber of Nigeria's bicameral National Assembly."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is Ghana's national football team commonly nicknamed?",
+      "options": [
+        "The Elephants",
+        "The Super Eagles",
+        "The Indomitable Lions",
+        "The Black Stars"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ghana's senior men's national football team is popularly known as the Black Stars, distinct from Nigeria's Super Eagles and Cameroon's Indomitable Lions."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of a Vice-Chancellor in a Nigerian university, such as UNILORIN?",
+      "options": [
+        "Serving as the elected student union president",
+        "Serving as an external auditor of the university's accounts",
+        "Managing only the university's sports facilities",
+        "Serving as the chief executive and academic head of the university"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Vice-Chancellor is the chief executive and principal academic officer of a Nigerian university, responsible for its overall administration and academic direction."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Where is the headquarters of the African Union (AU) located?",
+      "options": [
+        "Pretoria, South Africa",
+        "Cairo, Egypt",
+        "Nairobi, Kenya",
+        "Addis Ababa, Ethiopia"
+      ],
+      "correctIndex": 3,
+      "explanation": "The African Union's headquarters is in Addis Ababa, Ethiopia."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian author wrote the celebrated novel 'Things Fall Apart'?",
+      "options": [
+        "Cyprian Ekwensi",
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Chimamanda Ngozi Adichie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chinua Achebe wrote 'Things Fall Apart' (1958), one of the most widely read and celebrated African novels in modern literary history."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international body is primarily responsible for setting global standards and rules for international trade?",
+      "options": [
+        "The International Monetary Fund (IMF)",
+        "The United Nations (UN)",
+        "The World Health Organization (WHO)",
+        "The World Trade Organization (WTO)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The WTO is the international organisation specifically responsible for establishing and enforcing global rules governing trade between nations."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who was Nigeria's Head of State during the civil war (1967-1970)?",
+      "options": [
+        "Yakubu Gowon",
+        "Olusegun Obasanjo",
+        "Murtala Mohammed",
+        "Ibrahim Babangida"
+      ],
+      "correctIndex": 0,
+      "explanation": "General Yakubu Gowon led Nigeria as Head of State during the Nigerian Civil War."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian agency regulates telecommunications?",
+      "options": [
+        "NCC",
+        "NAFDAC",
+        "NBC",
+        "SON"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Nigerian Communications Commission (NCC) regulates the telecommunications industry."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is a key organ of the United Nations responsible for peace and security?",
+      "options": [
+        "Security Council",
+        "Secretariat",
+        "Trusteeship Council",
+        "General Assembly"
+      ],
+      "correctIndex": 0,
+      "explanation": "The UN Security Council has primary responsibility for maintaining international peace and security."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a government budget in which planned expenditure exceeds planned revenue?",
+      "options": [
+        "Balanced budget",
+        "Deficit budget",
+        "Zero budget",
+        "Surplus budget"
+      ],
+      "correctIndex": 1,
+      "explanation": "A deficit budget occurs when a government's planned spending exceeds its expected revenue, often requiring borrowing to cover the shortfall."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the capital city of Nigeria?",
+      "options": [
+        "Kano",
+        "Port Harcourt",
+        "Abuja",
+        "Lagos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abuja became Nigeria's capital in 1991, replacing Lagos."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who became Nigeria's President following the 2023 general elections?",
+      "options": [
+        "Rabiu Kwankwaso",
+        "Atiku Abubakar",
+        "Bola Ahmed Tinubu",
+        "Peter Obi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bola Ahmed Tinubu was declared winner of the 2023 presidential election and inaugurated President."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the chemical symbol for common table salt?",
+      "options": [
+        "NaCl",
+        "H2O",
+        "CO2",
+        "KCl"
+      ],
+      "correctIndex": 0,
+      "explanation": "Table salt is chemically sodium chloride, represented by the formula NaCl."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the practice of a country restricting imports through tariffs or quotas to protect domestic industries?",
+      "options": [
+        "Protectionism",
+        "Liberalisation",
+        "Globalisation",
+        "Free trade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Protectionism refers to government policies that restrict international trade, such as tariffs and quotas, to shield domestic industries from foreign competition."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the minimum wage policy area primarily concerned with?",
+      "options": [
+        "Taxation",
+        "Import duties",
+        "Interest rates",
+        "The lowest legal pay for workers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Minimum wage laws set the lowest amount employers can legally pay workers."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which African country has the largest population?",
+      "options": [
+        "Egypt",
+        "Nigeria",
+        "South Africa",
+        "Ethiopia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria is Africa's most populous country."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which country lies to the west of Nigeria?",
+      "options": [
+        "Ghana",
+        "Benin Republic",
+        "Cameroon",
+        "Chad"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Republic of Benin borders Nigeria to the west."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the total value of a country's exports minus its imports?",
+      "options": [
+        "GDP",
+        "Fiscal deficit",
+        "Inflation rate",
+        "Trade balance"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trade balance is the difference between the value of a country's exports and imports."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a major seaport in Nigeria?",
+      "options": [
+        "Apapa Port",
+        "Enugu Depot",
+        "Jos Yard",
+        "Kano Terminal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apapa Port in Lagos is one of Nigeria's busiest seaports."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which body regulates Nigeria's currency and monetary policy?",
+      "options": [
+        "CBN",
+        "SEC",
+        "NCC",
+        "NNPC"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Central Bank of Nigeria (CBN) is responsible for monetary policy and currency issuance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is a common symptom used to detect an ongoing pandemic caused by a novel virus?",
+      "options": [
+        "Increased height",
+        "Fever",
+        "Baldness",
+        "Improved eyesight"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fever is a common early symptom monitored during outbreaks of infectious respiratory illnesses."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which country lies to the east of Nigeria?",
+      "options": [
+        "Benin Republic",
+        "Niger Republic",
+        "Chad",
+        "Cameroon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cameroon borders Nigeria to the east."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which sport is Nigeria's Super Eagles primarily known for?",
+      "options": [
+        "Cricket",
+        "Basketball",
+        "Football",
+        "Athletics"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Super Eagles are Nigeria's national men's football team."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which state is known as the 'Centre of Excellence'?",
+      "options": [
+        "Kano State",
+        "Lagos State",
+        "Abuja (FCT)",
+        "Rivers State"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lagos State is popularly nicknamed the 'Centre of Excellence'."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Nigeria contributes troops to peacekeeping missions mainly under which body?",
+      "options": [
+        "European Union",
+        "United Nations",
+        "NATO",
+        "Arab League"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria is a major contributor of troops to UN peacekeeping operations across the world."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "In what year did Nigeria gain independence from Britain?",
+      "options": [
+        "1966",
+        "1960",
+        "1958",
+        "1963"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria gained independence from Britain on October 1, 1960."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who was Nigeria's first executive President under the 1979 Constitution?",
+      "options": [
+        "Muhammadu Buhari",
+        "Shehu Shagari",
+        "Olusegun Obasanjo",
+        "Ibrahim Babangida"
+      ],
+      "correctIndex": 1,
+      "explanation": "Shehu Shagari became Nigeria's first executive President in 1979 under the Second Republic."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is credited as the first President of the United States of America?",
+      "options": [
+        "Thomas Jefferson",
+        "John Adams",
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "correctIndex": 3,
+      "explanation": "George Washington served as the first President of the United States from 1789 to 1797."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian President served two terms consecutively from 2015 to 2023?",
+      "options": [
+        "Olusegun Obasanjo",
+        "Goodluck Jonathan",
+        "Muhammadu Buhari",
+        "Bola Tinubu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Muhammadu Buhari served as President of Nigeria from 2015 to 2023."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which organisation is primarily concerned with global health issues?",
+      "options": [
+        "WHO",
+        "UNESCO",
+        "FAO",
+        "UNICEF"
+      ],
+      "correctIndex": 0,
+      "explanation": "The World Health Organization (WHO) coordinates international public health matters."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Nigeria is bordered by which of these countries to the north?",
+      "options": [
+        "Benin Republic",
+        "Niger Republic",
+        "Chad",
+        "Cameroon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria shares its northern border with the Niger Republic."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is Nigeria's national football stadium located in Abuja?",
+      "options": [
+        "Teslim Balogun Stadium",
+        "Sani Abacha Stadium",
+        "Moshood Abiola National Stadium",
+        "Liberty Stadium"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Moshood Abiola National Stadium in Abuja is Nigeria's main national stadium."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "How many local government areas does Nigeria have?",
+      "options": [
+        "774",
+        "784",
+        "764",
+        "744"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria is divided into 774 Local Government Areas."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary purpose of the United Nations Children's Fund (UNICEF)?",
+      "options": [
+        "Providing humanitarian and developmental assistance to children worldwide",
+        "Coordinating global monetary policy",
+        "Regulating international trade tariffs",
+        "Managing international postal services"
+      ],
+      "correctIndex": 0,
+      "explanation": "UNICEF is a United Nations agency specifically dedicated to providing humanitarian aid and support for children's health, education, and welfare worldwide."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which river is the longest in the world?",
+      "options": [
+        "Amazon River",
+        "Yangtze River",
+        "Nile River",
+        "Mississippi River"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Nile River, flowing through northeastern Africa, is traditionally regarded as the world's longest river."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who was the first Secretary-General of the United Nations?",
+      "options": [
+        "U Thant",
+        "Kofi Annan",
+        "Trygve Lie",
+        "Ban Ki-moon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trygve Lie of Norway was the first UN Secretary-General, serving from 1946 to 1952."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who was Nigeria's President when it returned to civilian rule in 1999?",
+      "options": [
+        "Olusegun Obasanjo",
+        "Muhammadu Buhari",
+        "Goodluck Jonathan",
+        "Umar Musa Yar'Adua"
+      ],
+      "correctIndex": 0,
+      "explanation": "Olusegun Obasanjo was sworn in as President in 1999, marking the start of the Fourth Republic."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian leader was assassinated in a coup in February 1976?",
+      "options": [
+        "Sani Abacha",
+        "Shehu Shagari",
+        "Yakubu Gowon",
+        "Murtala Mohammed"
+      ],
+      "correctIndex": 3,
+      "explanation": "General Murtala Mohammed was assassinated in an attempted coup on 13 February 1976."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following countries shares a land border with Nigeria?",
+      "options": [
+        "Kenya",
+        "South Africa",
+        "Ghana",
+        "Niger"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria shares land borders with Niger, Chad, Cameroon, and Benin Republic; Ghana, South Africa, and Kenya are not bordering countries."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which is the smallest country in the world by land area?",
+      "options": [
+        "Liechtenstein",
+        "San Marino",
+        "Vatican City",
+        "Monaco"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vatican City is the smallest independent state in the world by both area and population."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian agency oversees standards for products and services?",
+      "options": [
+        "NIMASA",
+        "SON",
+        "NCC",
+        "NAFDAC"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Standards Organisation of Nigeria (SON) sets and enforces product and service standards."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which international financial institution provides loans mainly for development projects?",
+      "options": [
+        "WHO",
+        "UNESCO",
+        "WTO",
+        "World Bank"
+      ],
+      "correctIndex": 3,
+      "explanation": "The World Bank provides financial and technical assistance for development projects globally."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which arm of government in Nigeria is primarily responsible for interpreting laws and administering justice?",
+      "options": [
+        "The Executive",
+        "The Civil Service",
+        "The Judiciary",
+        "The Legislature"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Judiciary is the arm of government responsible for interpreting laws and adjudicating disputes, distinct from the law-making Legislature and law-enforcing Executive."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The Nigerian Civil War is also known by what name?",
+      "options": [
+        "The Biafran War",
+        "The Boko Haram War",
+        "The Kaduna Crisis",
+        "The Niger Delta War"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Nigerian Civil War (1967–1970) is also referred to as the Biafran War, after the breakaway Republic of Biafra."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian agency is responsible for managing the environment and combating issues like erosion?",
+      "options": [
+        "NIMASA",
+        "NESREA",
+        "NNPC",
+        "FIRS"
+      ],
+      "correctIndex": 1,
+      "explanation": "NESREA (National Environmental Standards and Regulations Enforcement Agency) enforces environmental regulations in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What are the colours of the Nigerian flag?",
+      "options": [
+        "Green-Yellow-Green",
+        "Red-White-Red",
+        "White-Green-White",
+        "Green-White-Green"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Nigerian flag has three vertical stripes: green, white, and green."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which agency regulates food and drugs in Nigeria?",
+      "options": [
+        "NCC",
+        "NIMASA",
+        "NUC",
+        "NAFDAC"
+      ],
+      "correctIndex": 3,
+      "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates food, drugs, and related products."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which policy reform did the Nigerian government implement in 2023 regarding petrol prices?",
+      "options": [
+        "Price freeze",
+        "Nationalisation of fuel stations",
+        "Fuel subsidy removal",
+        "Fuel subsidy increase"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Nigerian government removed the petrol subsidy in 2023, significantly raising pump prices."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these best describes inflation?",
+      "options": [
+        "A fall in general price levels",
+        "An increase in exports",
+        "A decrease in unemployment",
+        "A general and sustained rise in price levels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Inflation refers to a sustained increase in the general price level of goods and services."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which city hosts the headquarters of the United Nations?",
+      "options": [
+        "The Hague",
+        "Geneva",
+        "Vienna",
+        "New York"
+      ],
+      "correctIndex": 3,
+      "explanation": "The United Nations headquarters is located in New York City, USA."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is Nigeria's main export commodity?",
+      "options": [
+        "Groundnut",
+        "Cocoa",
+        "Crude oil",
+        "Cotton"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crude oil is Nigeria's principal export and main source of foreign exchange."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who succeeded Umaru Musa Yar'Adua as President after his death in office?",
+      "options": [
+        "Muhammadu Buhari",
+        "Bola Tinubu",
+        "Goodluck Jonathan",
+        "Atiku Abubakar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Goodluck Jonathan, then Vice President, succeeded Yar'Adua after his death in 2010."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these best defines 'literacy rate'?",
+      "options": [
+        "The number of schools in a country",
+        "The number of years of compulsory education",
+        "The percentage of graduates employed",
+        "The percentage of people who can read and write"
+      ],
+      "correctIndex": 3,
+      "explanation": "Literacy rate measures the proportion of a population able to read and write."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which sport is most associated with the Africa Cup of Nations (AFCON)?",
+      "options": [
+        "Basketball",
+        "Rugby",
+        "Football",
+        "Athletics"
+      ],
+      "correctIndex": 2,
+      "explanation": "AFCON is Africa's premier international men's football competition."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian-born boxer became a world middleweight and light-heavyweight champion in the 1960s?",
+      "options": [
+        "Bukola Elemide",
+        "Dick Tiger",
+        "Samuel Peter",
+        "Anthony Joshua"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dick Tiger was a Nigerian boxer who held both the world middleweight and light-heavyweight titles in the 1960s."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who led the secession attempt that led to the Biafran War?",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Chukwuemeka Odumegwu Ojukwu",
+        "Aguiyi Ironsi",
+        "Obafemi Awolowo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Colonel Chukwuemeka Odumegwu Ojukwu declared the Republic of Biafra in 1967."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary role of the executive arm of government?",
+      "options": [
+        "Implementing and enforcing laws",
+        "Making laws for the country",
+        "Auditing government accounts exclusively",
+        "Interpreting the constitution exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "The executive arm, headed by a President or Governor, is primarily responsible for implementing and enforcing the laws made by the legislature."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is Nigeria's longest river?",
+      "options": [
+        "River Kaduna",
+        "River Benue",
+        "River Niger",
+        "River Cross"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Niger River is the longest river in Nigeria and gives the country its name."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian musician is popularly known as one of the pioneers of Afrobeat music?",
+      "options": [
+        "Fela Kuti",
+        "Ebenezer Obey",
+        "King Sunny Ade",
+        "Burna Boy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fela Anikulapo Kuti is widely regarded as the founder of Afrobeat music."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "The University of Ilorin (UNILORIN) is located in which state?",
+      "options": [
+        "Kogi State",
+        "Kwara State",
+        "Niger State",
+        "Oyo State"
+      ],
+      "correctIndex": 1,
+      "explanation": "UNILORIN, established in 1975, is located in Ilorin, the capital city of Kwara State."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the process of transferring government-owned enterprises to private ownership?",
+      "options": [
+        "Diversification",
+        "Nationalisation",
+        "Deregulation",
+        "Privatisation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Privatisation is the transfer of ownership of businesses from the government to private entities."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian became the first African and first woman Director-General of the World Trade Organization?",
+      "options": [
+        "Oby Ezekwesili",
+        "Sarah Alade",
+        "Ngozi Okonjo-Iweala",
+        "Amina Mohammed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngozi Okonjo-Iweala became the WTO's first female and first African Director-General in 2021."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for a system of government headed by a king or queen whose powers are limited by a constitution?",
+      "options": [
+        "Constitutional monarchy",
+        "Absolute monarchy",
+        "Republic",
+        "Theocracy"
+      ],
+      "correctIndex": 0,
+      "explanation": "A constitutional monarchy is a system in which a monarch serves as head of state, but their powers are limited and defined by a constitution, unlike an absolute monarchy."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who is regarded as the Father of Nigeria's Independence and its first Prime Minister?",
+      "options": [
+        "Ahmadu Bello",
+        "Obafemi Awolowo",
+        "Nnamdi Azikiwe",
+        "Abubakar Tafawa Balewa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Abubakar Tafawa Balewa served as Nigeria's first and only Prime Minister from 1960 to 1966."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "How many geopolitical zones does Nigeria have?",
+      "options": [
+        "7",
+        "6",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria has 6 geopolitical zones: North Central, North East, North West, South East, South South, and South West."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does the abbreviation 'NAFDAC' stand for in the Nigerian context?",
+      "options": [
+        "National Agency for Food and Drug Administration and Control",
+        "National Association for Drug and Chemical Control",
+        "Nigerian Agency for Food and Drug Coordination",
+        "National Authority for Food, Drugs, and Cosmetics"
+      ],
+      "correctIndex": 0,
+      "explanation": "NAFDAC regulates and controls the manufacture, importation, and sale of food, drugs, and related products in Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which country is the largest by land area in the world?",
+      "options": [
+        "Canada",
+        "USA",
+        "Russia",
+        "China"
+      ],
+      "correctIndex": 2,
+      "explanation": "Russia is the largest country in the world by land area."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Kwara State, where UNILORIN is situated, is often referred to by which nickname reflecting its position in Nigeria?",
+      "options": [
+        "The State of Harmony",
+        "The Food Basket of the Nation",
+        "The Coal City State",
+        "The Centre of Excellence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kwara State is popularly known as the 'State of Harmony', reflecting its historical position bridging Nigeria's north and south."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is Nigeria's national anthem's first line?",
+      "options": [
+        "God bless our nation",
+        "Nigeria we hail thee",
+        "One nation bound in freedom",
+        "Arise, O compatriots"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Arise, O Compatriots' is the opening line of Nigeria's current national anthem."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "How many times had Nigeria won the Africa Cup of Nations as of the most recent editions before 2023?",
+      "options": [
+        "4 times",
+        "1 time",
+        "2 times",
+        "3 times"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nigeria's Super Eagles had won AFCON three times (1980, 1994, 2013) prior to the 2023/2024 edition."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What term describes long-term shifts in temperature and weather patterns largely due to human activity?",
+      "options": [
+        "Atmospheric pressure",
+        "Weather forecasting",
+        "Seasonal variation",
+        "Climate change"
+      ],
+      "correctIndex": 3,
+      "explanation": "Climate change refers to significant, long-term changes in global weather patterns."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What does AfCFTA stand for?",
+      "options": [
+        "African Currency and Finance Trade Agreement",
+        "African Cooperative Free Trade Alliance",
+        "African Continental Free Trade Area",
+        "African Common Foreign Trade Association"
+      ],
+      "correctIndex": 2,
+      "explanation": "AfCFTA aims to create a single market for goods and services across Africa."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Nigeria's national female football team is nicknamed what?",
+      "options": [
+        "Green Eagles",
+        "Super Falcons",
+        "Flying Eagles",
+        "Golden Eaglets"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Super Falcons are Nigeria's senior women's national football team."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the official currency of Nigeria?",
+      "options": [
+        "Cedi",
+        "Dalasi",
+        "Franc",
+        "Naira"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Naira is Nigeria's official currency, issued by the Central Bank of Nigeria."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which regional force did Nigeria play a leading role in during peacekeeping in Liberia and Sierra Leone?",
+      "options": [
+        "MINUSMA",
+        "AFRICOM",
+        "AMISOM",
+        "ECOMOG"
+      ],
+      "correctIndex": 3,
+      "explanation": "ECOMOG (ECOWAS Monitoring Group) was a key peacekeeping force Nigeria led in West Africa."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary aim of the African Continental Free Trade Area (AfCFTA)?",
+      "options": [
+        "Creating a single market for goods and services across African countries to boost intra-African trade",
+        "Restricting all trade between African nations",
+        "Coordinating African military alliances exclusively",
+        "Regulating global internet governance"
+      ],
+      "correctIndex": 0,
+      "explanation": "AfCFTA aims to create a single continental market for goods and services, boosting intra-African trade by reducing tariffs and other trade barriers among member states."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following best describes the primary function of the Nigerian Police Force?",
+      "options": [
+        "Managing the country's monetary policy",
+        "Maintaining law and order and enforcing criminal law",
+        "Making laws for the federation",
+        "Interpreting the Nigerian constitution"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Nigerian Police Force is the primary law enforcement agency responsible for maintaining public order and enforcing criminal law across the country."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian city hosted the 2000/2003 All Africa Games?",
+      "options": [
+        "Port Harcourt",
+        "Lagos",
+        "Abuja",
+        "Kano"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abuja hosted the All Africa Games (COJA) in 2003."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these is NOT one of Nigeria's arms of government?",
+      "options": [
+        "Monarchy",
+        "Executive",
+        "Legislature",
+        "Judiciary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria's three arms of government are the Executive, Legislature, and Judiciary."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which global health body declared COVID-19 a pandemic in March 2020?",
+      "options": [
+        "Red Cross",
+        "WHO",
+        "World Bank",
+        "UNICEF"
+      ],
+      "correctIndex": 1,
+      "explanation": "The World Health Organization declared COVID-19 a global pandemic in March 2020."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is a key function of the Central Bank of Nigeria (CBN) relating to currency?",
+      "options": [
+        "Issuing and regulating the country's currency (the Naira)",
+        "Managing Nigeria's road transport infrastructure",
+        "Setting the retail price of consumer goods",
+        "Running the national postal service"
+      ],
+      "correctIndex": 0,
+      "explanation": "One of the CBN's core functions is the sole authority to issue and regulate Nigeria's legal tender currency, the Naira."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who was the first person to walk on the moon?",
+      "options": [
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "John Glenn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Neil Armstrong became the first person to walk on the Moon in July 1969."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the Nigerian legislative chamber that represents individual constituencies at the federal level, alongside the Senate?",
+      "options": [
+        "National Council",
+        "House of Assembly",
+        "House of Representatives",
+        "Federal Council"
+      ],
+      "correctIndex": 2,
+      "explanation": "The House of Representatives, together with the Senate, forms Nigeria's bicameral National Assembly, with members representing federal constituencies."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian agency collects tax revenue for the federal government?",
+      "options": [
+        "FIRS",
+        "NCC",
+        "CBN",
+        "NNPC"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Federal Inland Revenue Service (FIRS) is responsible for assessing and collecting federal taxes."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "How many states does Nigeria currently have?",
+      "options": [
+        "37",
+        "36",
+        "34",
+        "35"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nigeria has 36 states plus the Federal Capital Territory, Abuja."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of the following is an example of a communicable disease?",
+      "options": [
+        "Cancer",
+        "Diabetes",
+        "Tuberculosis",
+        "Hypertension"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tuberculosis is a communicable (infectious) disease caused by bacteria, unlike diabetes, hypertension, and cancer, which are non-communicable conditions."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which of these gases is most associated with climate change and global warming?",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Helium",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbon dioxide is a major greenhouse gas contributing to global warming."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the full meaning of IMF?",
+      "options": [
+        "International Ministry of Finance",
+        "Inter-African Monetary Federation",
+        "International Migration Foundation",
+        "International Monetary Fund"
+      ],
+      "correctIndex": 3,
+      "explanation": "The IMF works to ensure global monetary cooperation and financial stability."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the name of Nigeria's stock exchange?",
+      "options": [
+        "NASDAQ Nigeria",
+        "Abuja Securities Market",
+        "Lagos Stock Bourse",
+        "Nigerian Exchange Group (NGX)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Nigerian Exchange Group (NGX) is Nigeria's main stock exchange."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which global sporting event features the Olympic Games and takes place every four years?",
+      "options": [
+        "Olympic Games",
+        "Asian Games",
+        "World Cup",
+        "Commonwealth Games"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Olympic Games is a major international multi-sport event held every four years."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the term for the legal document that formally establishes the rules and structure of governance for a country?",
+      "options": [
+        "Constitution",
+        "Communique",
+        "Gazette",
+        "Manifesto"
+      ],
+      "correctIndex": 0,
+      "explanation": "A constitution is the fundamental legal document that establishes the framework, powers, and limits of a country's system of governance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "What is the largest lake in Africa?",
+      "options": [
+        "Lake Victoria",
+        "Lake Volta",
+        "Lake Chad",
+        "Lake Kainji"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lake Victoria, bordered by Uganda, Kenya, and Tanzania, is the largest lake in Africa by surface area."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Nigeria returned to civilian rule (Fourth Republic) in what year?",
+      "options": [
+        "1999",
+        "2003",
+        "1993",
+        "2007"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nigeria transitioned back to democratic civilian rule in 1999, ending years of military governance."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which Nigerian author wrote the acclaimed novel 'Things Fall Apart'?",
+      "options": [
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Chimamanda Ngozi Adichie",
+        "Ben Okri"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chinua Achebe wrote 'Things Fall Apart', one of the most widely read African novels."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Who designed the Nigerian flag?",
+      "options": [
+        "Tafawa Balewa",
+        "Nnamdi Azikiwe",
+        "Herbert Macaulay",
+        "Michael Taiwo Akinkunmi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Michael Taiwo Akinkunmi designed Nigeria's national flag, adopted in 1960."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which renewable energy source relies on sunlight?",
+      "options": [
+        "Hydropower",
+        "Solar energy",
+        "Wind energy",
+        "Geothermal energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solar energy is generated by converting sunlight into electricity or heat."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "Kalahari Desert",
+        "Gobi Desert",
+        "Sahara Desert",
+        "Arabian Desert"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Sahara Desert in North Africa is the largest hot desert in the world."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which scientist developed the theory of relativity?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla"
+      ],
+      "correctIndex": 2,
+      "explanation": "Albert Einstein developed the theory of relativity, revolutionising physics."
+    },
+    {
+      "subject": "General Knowledge",
+      "text": "Which body is responsible for organising elections in Nigeria?",
+      "options": [
+        "INEC",
+        "NNPC",
+        "EFCC",
+        "NDLEA"
+      ],
+      "correctIndex": 0,
+      "explanation": "INEC (Independent National Electoral Commission) conducts and supervises elections in Nigeria."
+    }
+  ]
+}

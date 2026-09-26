@@ -1,0 +1,1206 @@
+{
+  "subject": "Woodwork",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Woodwork",
+      "text": "Personal protective equipment worn in a woodwork shop, such as goggles and dust masks, is primarily intended to",
+      "options": [
+        "reduce the cost of workshop tools",
+        "protect the worker from wood dust, flying chips, and other hazards",
+        "serve a purely decorative purpose",
+        "increase the speed at which tasks are completed"
+      ],
+      "correctIndex": 1,
+      "explanation": "PPE such as goggles and dust masks shields woodwork students and craftsmen from flying chips, sawdust, and other airborne hazards."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A key safety practice when using sharp hand tools such as chisels is to always",
+      "options": [
+        "use a blunt chisel to reduce risk",
+        "leave sharp tools scattered on the workbench",
+        "cut toward the body for better control",
+        "cut away from the body, keeping hands behind the cutting edge"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cutting away from the body and keeping hands behind the cutting edge reduces the risk of serious injury if the tool slips."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A key safety measure when operating high-speed woodworking machinery, such as a circular saw, is to",
+      "options": [
+        "operate the machine without any training",
+        "remove all safety guards for better visibility",
+        "ensure guards are in place and never bypass safety interlocks",
+        "wear loose clothing for comfort"
+      ],
+      "correctIndex": 2,
+      "explanation": "Machine guards and safety interlocks are critical protections against contact with fast-moving blades and should never be bypassed."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The first-aid treatment generally recommended for a minor splinter injury is to",
+      "options": [
+        "carefully remove the splinter with sterilised tweezers and clean the wound",
+        "ignore the injury and continue working",
+        "apply wood glue over the wound",
+        "leave the splinter in place indefinitely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Minor splinters should be carefully removed with sterilised tweezers, followed by cleaning the wound to prevent infection."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A tool used to measure and check straight lengths in a woodwork shop is called a",
+      "options": [
+        "rule",
+        "marking gauge",
+        "sliding bevel",
+        "try square"
+      ],
+      "correctIndex": 0,
+      "explanation": "A rule is a basic graduated measuring tool used to measure straight lengths of timber and components."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A tool used to check or mark an accurate 90-degree angle between two surfaces of a workpiece is called a",
+      "options": [
+        "try square",
+        "sliding bevel",
+        "mitre square",
+        "marking gauge"
+      ],
+      "correctIndex": 0,
+      "explanation": "A try square provides a fixed 90-degree reference, used to check squareness or mark right angles on timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A tool used to check or mark a 45-degree angle, commonly used for mitred corner joints, is called a",
+      "options": [
+        "mitre square",
+        "try square",
+        "marking gauge",
+        "sliding bevel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A mitre square is fixed at 45 degrees, used specifically for marking and checking mitred joints in woodwork."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A tool with an adjustable blade, used to mark or check angles other than 90 or 45 degrees, is called a",
+      "options": [
+        "try square",
+        "mitre square",
+        "sliding bevel",
+        "marking gauge"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sliding bevel has an adjustable blade, allowing it to mark or check any angle, unlike the fixed angles of a try square or mitre square."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A tool used to scribe a line parallel to the edge of a piece of timber, using a single spur or pin, is called a",
+      "options": [
+        "marking gauge",
+        "mortise gauge",
+        "try square",
+        "sliding bevel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A marking gauge uses a single scribing pin to mark a line at a set distance parallel to an edge, useful for marking out joints."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A tool similar to a marking gauge, but with two adjustable spurs, used specifically to mark the two parallel lines of a mortise or tenon is called a",
+      "options": [
+        "marking gauge",
+        "mortise gauge",
+        "try square",
+        "sliding bevel"
+      ],
+      "correctIndex": 1,
+      "explanation": "A mortise gauge has two adjustable pins, allowing both sides of a mortise or tenon to be marked simultaneously and accurately."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A saw with widely spaced, chisel-like teeth, designed specifically for cutting along the grain of timber, is called a",
+      "options": [
+        "crosscut saw",
+        "ripsaw",
+        "dovetail saw",
+        "tenon saw"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ripsaw has teeth shaped like small chisels, designed to efficiently cut along (with) the grain of timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A saw with teeth shaped like small knives, designed specifically for cutting across the grain of timber, is called a",
+      "options": [
+        "crosscut saw",
+        "tenon saw",
+        "ripsaw",
+        "coping saw"
+      ],
+      "correctIndex": 0,
+      "explanation": "A crosscut saw's teeth are angled and shaped to slice cleanly across (against) the grain of timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A general-purpose handsaw with fine teeth suitable for both ripping and crosscutting on thinner stock is called a",
+      "options": [
+        "dovetail saw",
+        "panel saw",
+        "coping saw",
+        "ripsaw only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A panel saw is a versatile, finer-toothed handsaw suited to cutting panels and thinner timber sections."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A backed saw with fine teeth, used for accurate cutting of joints such as tenons, is called a",
+      "options": [
+        "coping saw",
+        "tenon saw",
+        "panel saw",
+        "ripsaw"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tenon saw has a rigid metal back for stability and fine teeth, ideal for the precise cuts needed in joinery such as tenons."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A small, fine-toothed backed saw specifically used for cutting the narrow slots of dovetail joints is called a",
+      "options": [
+        "ripsaw",
+        "crosscut saw",
+        "coping saw",
+        "dovetail saw"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dovetail saw is a small, fine-toothed backed saw designed for the precise, narrow cuts required in dovetail joinery."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A saw with a thin, narrow blade held in a frame, used to cut curves and intricate shapes in timber, is called a",
+      "options": [
+        "tenon saw",
+        "coping saw",
+        "ripsaw",
+        "panel saw"
+      ],
+      "correctIndex": 1,
+      "explanation": "A coping saw's thin blade, mounted in a frame, allows it to follow curved lines and cut intricate internal shapes."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hand plane used for the initial rough removal of material from timber surfaces is called a",
+      "options": [
+        "plough plane",
+        "jack plane",
+        "rebate plane",
+        "smoothing plane"
+      ],
+      "correctIndex": 1,
+      "explanation": "The jack plane is a general-purpose plane commonly used for the initial, rougher shaping and levelling of timber surfaces."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hand plane used to produce a fine, smooth final finish on a timber surface is called a",
+      "options": [
+        "rebate plane",
+        "plough plane",
+        "smoothing plane",
+        "jack plane"
+      ],
+      "correctIndex": 2,
+      "explanation": "The smoothing plane, shorter than a jack plane, is used to achieve a fine, smooth final surface finish."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A long hand plane used to produce a very straight, true edge or surface on timber, especially for jointing longer pieces, is called a",
+      "options": [
+        "trying (jointer) plane",
+        "smoothing plane",
+        "rebate plane",
+        "spoke shave"
+      ],
+      "correctIndex": 0,
+      "explanation": "The trying (jointer) plane's greater length helps produce very straight, true edges and surfaces, ideal for jointing long boards."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hand plane specifically designed to cut a stepped recess (rebate) along the edge of timber is called a",
+      "options": [
+        "smoothing plane",
+        "jack plane",
+        "rebate plane",
+        "plough plane"
+      ],
+      "correctIndex": 2,
+      "explanation": "A rebate plane is designed to cut a stepped rectangular recess along the edge of a workpiece."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hand plane specifically designed to cut a groove parallel to the edge of timber, such as for panel joints, is called a",
+      "options": [
+        "plough plane",
+        "smoothing plane",
+        "rebate plane",
+        "jack plane"
+      ],
+      "correctIndex": 0,
+      "explanation": "A plough plane cuts a groove running parallel to the edge of timber, commonly used for grooves that receive panels or tongues."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A small hand tool, held with both hands, used to shape and smooth curved or rounded timber surfaces is called a",
+      "options": [
+        "rebate plane",
+        "jack plane",
+        "spoke shave",
+        "smoothing plane"
+      ],
+      "correctIndex": 2,
+      "explanation": "A spoke shave is a small, two-handled tool specifically suited to shaping and smoothing curved surfaces, such as chair spindles."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Sharpening a plane iron or chisel by rubbing its bevel on a coarse grinding wheel to restore its cutting angle is called",
+      "options": [
+        "honing",
+        "adjusting",
+        "setting",
+        "grinding"
+      ],
+      "correctIndex": 3,
+      "explanation": "Grinding removes more material to restore the correct bevel angle on a badly worn or damaged cutting edge."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Sharpening a plane iron or chisel by rubbing its bevel on a fine oilstone to produce a keen cutting edge is called",
+      "options": [
+        "setting",
+        "adjusting",
+        "honing",
+        "grinding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Honing refines and sharpens the cutting edge on a fine stone, following the coarser grinding process, to achieve a truly keen edge."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A chisel with a flat, relatively thick blade, suitable for general-purpose paring and light chopping work, is called a",
+      "options": [
+        "gouge",
+        "bevel-edged chisel",
+        "firmer chisel",
+        "mortise chisel"
+      ],
+      "correctIndex": 2,
+      "explanation": "The firmer chisel has a flat, sturdy blade suited for general-purpose chopping and paring tasks."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A chisel with angled edges along its sides, allowing it to access tight corners such as in dovetail joints, is called a",
+      "options": [
+        "firmer chisel",
+        "gouge",
+        "bevel-edged chisel",
+        "mortise chisel"
+      ],
+      "correctIndex": 2,
+      "explanation": "The bevel-edged chisel's angled sides allow it to reach into tight corners, particularly useful for cleaning out dovetail joints."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A robust, thick-bladed chisel specifically designed to withstand heavy mallet blows when chopping mortises is called a",
+      "options": [
+        "mortise chisel",
+        "bevel-edged chisel",
+        "gouge",
+        "firmer chisel"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mortise chisel is thick and strong, built to withstand repeated heavy mallet blows when chopping deep mortise recesses."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A chisel with a curved blade, used for cutting hollows or curved profiles in timber, is called a",
+      "options": [
+        "bevel-edged chisel",
+        "firmer chisel",
+        "gouge",
+        "mortise chisel"
+      ],
+      "correctIndex": 2,
+      "explanation": "A gouge has a curved cutting edge, suited to carving hollows or shaping curved profiles in timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hand tool with a ratcheting mechanism, used with interchangeable bits to bore holes in timber, is called a",
+      "options": [
+        "screwdriver",
+        "ratchet brace",
+        "mallet",
+        "claw hammer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ratchet brace allows a bit to be turned to bore holes even in confined spaces, using its ratcheting mechanism to work with a limited swing."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A boring bit designed specifically to drill a hole for inserting a cylindrical wooden dowel is called a",
+      "options": [
+        "dowel bit",
+        "twist drill only",
+        "countersink bit",
+        "auger only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dowel bit is shaped to bore the precise hole needed to accommodate a cylindrical wooden dowel joint."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A boring bit used to create a shallow, cone-shaped recess so that a screw head sits flush with or below the timber surface is called a",
+      "options": [
+        "dowel bit",
+        "twist drill only",
+        "countersink bit",
+        "auger only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A countersink bit cuts a conical recess that allows a screw's head to sit flush with, or slightly below, the surrounding surface."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hammer with a curved, split head used both for driving nails and for extracting them is called a",
+      "options": [
+        "warrington hammer",
+        "mallet",
+        "claw hammer",
+        "ratchet brace"
+      ],
+      "correctIndex": 2,
+      "explanation": "A claw hammer combines a flat striking face for driving nails with a curved, split claw for removing them."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A hammer with a distinctive cross-peen head, often used by woodworkers for lighter tack and pin work, is called a",
+      "options": [
+        "Warrington (cross-peen) hammer",
+        "claw hammer",
+        "mallet",
+        "ratchet brace"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Warrington hammer has a wedge-shaped cross-peen, useful for starting small pins and tacks precisely."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A wooden-headed striking tool used to drive chisels or assemble joints without damaging or marking the wood is called a",
+      "options": [
+        "claw hammer",
+        "Warrington hammer",
+        "ratchet brace",
+        "mallet"
+      ],
+      "correctIndex": 3,
+      "explanation": "A mallet, typically made of wood, provides a softer strike than a metal hammer, protecting chisel handles and joint surfaces from damage."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Trees that grow by adding new wood in annual rings on the outside of existing wood, beneath the bark, are classified as",
+      "options": [
+        "endogenous trees",
+        "hardwood trees only",
+        "softwood trees only",
+        "exogenous trees"
+      ],
+      "correctIndex": 3,
+      "explanation": "Exogenous trees grow outward, adding new layers of wood just beneath the bark each growing season, forming visible annual rings."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Trees that grow by adding new woody tissue scattered throughout their stem, without distinct annual rings, are classified as",
+      "options": [
+        "softwood trees only",
+        "exogenous trees",
+        "endogenous trees",
+        "hardwood trees only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Endogenous trees, such as palms and bamboo, grow with woody tissue distributed throughout the stem rather than in distinct outer rings."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Timber obtained from coniferous, needle-leaved, cone-bearing trees is generally classified as",
+      "options": [
+        "manufactured board",
+        "softwood",
+        "hardwood",
+        "endogenous timber"
+      ],
+      "correctIndex": 1,
+      "explanation": "Softwoods come from coniferous trees, generally characterised by needle-like leaves and cone-bearing reproduction, though not always softer in actual hardness."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Timber obtained from broad-leaved, flowering trees is generally classified as",
+      "options": [
+        "softwood",
+        "manufactured board",
+        "hardwood",
+        "endogenous timber only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hardwoods come from broad-leaved, flowering trees, though the botanical classification does not always correspond directly to greater physical hardness."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The soft, central core of a tree trunk, often the oldest and sometimes weakest part, is called the",
+      "options": [
+        "heartwood",
+        "pith",
+        "cambium",
+        "sapwood"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pith is the small, soft central core running along the length of the tree, often the first-formed and weakest wood tissue."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The darker, inner wood surrounding the pith, typically denser and more decay-resistant than the outer wood, is called the",
+      "options": [
+        "pith",
+        "cambium",
+        "heartwood",
+        "sapwood"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heartwood forms the inner, mature wood of the tree, generally darker in colour and more resistant to decay than sapwood."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The lighter-coloured, outer active wood layer surrounding the heartwood, through which sap is conducted, is called the",
+      "options": [
+        "heartwood",
+        "medullary rays",
+        "sapwood",
+        "pith"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sapwood is the living, functional outer wood layer that conducts sap, generally lighter in colour and less durable than heartwood."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The thin layer of actively dividing cells located just beneath the bark, responsible for the tree's growth in diameter, is called the",
+      "options": [
+        "inner bark",
+        "pith",
+        "cambium layer",
+        "heartwood"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cambium layer is a thin band of actively dividing cells responsible for producing new wood and bark, increasing the tree's diameter each year."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The layer of living tissue just outside the cambium, responsible for transporting nutrients produced by the leaves, is called the",
+      "options": [
+        "inner bark (phloem)",
+        "pith",
+        "sapwood",
+        "outer bark"
+      ],
+      "correctIndex": 0,
+      "explanation": "The inner bark (phloem) transports nutrients produced through photosynthesis down from the leaves to the rest of the tree."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The tough, protective outer layer of a tree, shielding it from damage, disease, and moisture loss, is called the",
+      "options": [
+        "outer bark",
+        "cambium",
+        "sapwood",
+        "inner bark"
+      ],
+      "correctIndex": 0,
+      "explanation": "The outer bark is the tree's protective outer covering, shielding it from physical damage, disease, and excessive moisture loss."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The radiating lines visible in a cross-section of some logs, running from the centre outward, used for the storage and lateral movement of food, are called",
+      "options": [
+        "medullary rays",
+        "annual rings",
+        "cambium layers",
+        "sapwood layers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Medullary rays are radial structures that store and transport food laterally across the log, sometimes visible as attractive figure in cut timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A traditional method of timber conversion that cuts straight through the log in parallel slices, without regard to the direction of the medullary rays, is called",
+      "options": [
+        "quarter (radial) sawing",
+        "tangential sawing only",
+        "kiln seasoning",
+        "through-and-through (plain) sawing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Through-and-through (plain) sawing produces parallel slices across the log, offering good yield but variable grain patterns."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A timber conversion method that cuts the log so that the medullary rays run roughly perpendicular to the board's face, producing more stable boards, is called",
+      "options": [
+        "kiln seasoning",
+        "through-and-through sawing",
+        "quarter (radial) sawing",
+        "tangential sawing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Quarter (radial) sawing orients cuts so the medullary rays run near-perpendicular to the board face, producing timber that is more dimensionally stable."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A timber conversion method that cuts the log so that the growth rings run roughly parallel (tangential) to the board's face is called",
+      "options": [
+        "kiln seasoning",
+        "through-and-through sawing only",
+        "tangential sawing",
+        "quarter sawing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tangential sawing cuts boards so that the growth rings run roughly parallel to the wide face, often producing attractive but less stable figure."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Moisture present in the cell cavities of freshly cut (green) timber, which is the first to be lost during seasoning, is called",
+      "options": [
+        "bound water",
+        "fibre saturation",
+        "free water",
+        "sapwood moisture only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Free water occupies the cell cavities of green timber and is removed first during seasoning, before bound water begins to leave the cell walls."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Moisture held within the actual cell walls of timber, whose removal causes the wood to shrink, is called",
+      "options": [
+        "free water",
+        "sapwood moisture only",
+        "fibre saturation point",
+        "bound water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bound water is held within the cell walls themselves; its removal during seasoning causes the characteristic shrinkage of timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The moisture content level at which all free water has been removed but the cell walls remain fully saturated with bound water is called the",
+      "options": [
+        "kiln point",
+        "seasoning threshold only",
+        "fibre saturation point (FSP)",
+        "moisture equilibrium point"
+      ],
+      "correctIndex": 2,
+      "explanation": "The fibre saturation point marks the transition where free water is gone, but cell walls are still fully saturated; further drying below this point causes shrinkage."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A seasoning defect in which a board twists out of a flat plane along its length is called",
+      "options": [
+        "splitting",
+        "warping (twisting)",
+        "bowing",
+        "checking"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warping (twisting) describes a board that has distorted out of flat along its length, often due to uneven drying."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A seasoning defect in which a board curves along its length, becoming concave or convex from end to end, is called",
+      "options": [
+        "splitting",
+        "bowing",
+        "checking",
+        "cupping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bowing describes a lengthwise curve developing along a board's face, typically from uneven moisture loss."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A seasoning defect in which a board curves across its width, becoming concave or convex from edge to edge, is called",
+      "options": [
+        "bowing",
+        "splitting",
+        "checking",
+        "cupping"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cupping describes a board curving across its width, a common defect from uneven drying between the two faces."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A seasoning defect involving small surface cracks that develop along the grain of a board due to rapid or uneven drying is called",
+      "options": [
+        "bowing",
+        "checking",
+        "splitting",
+        "warping"
+      ],
+      "correctIndex": 1,
+      "explanation": "Checking refers to small surface cracks along the grain, often caused by the outer surface drying and shrinking faster than the interior."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A seasoning defect involving a crack that extends completely through the thickness of a board is called",
+      "options": [
+        "splitting",
+        "warping",
+        "cupping",
+        "checking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Splitting describes a crack that has progressed fully through the thickness of a board, a more severe defect than surface checking."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Drying timber slowly using natural atmospheric conditions, without artificial heat, is called",
+      "options": [
+        "kiln (artificial) seasoning",
+        "chemical seasoning",
+        "steam seasoning",
+        "air (natural) seasoning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Air seasoning dries timber using natural atmospheric conditions over an extended period, without the use of artificial heating."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Drying timber more quickly using controlled heat, humidity, and airflow within a specialised chamber is called",
+      "options": [
+        "cold seasoning",
+        "kiln (artificial) seasoning",
+        "chemical seasoning only",
+        "air (natural) seasoning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiln seasoning uses a controlled chamber with regulated heat, humidity, and airflow to dry timber more quickly and consistently than natural air seasoning."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A fungal decay affecting timber, causing it to become dry, brittle, and crumble into powder, is called",
+      "options": [
+        "wet rot",
+        "termite attack",
+        "dry rot",
+        "powder-post beetle attack"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dry rot is a fungal decay that leaves affected timber dry, brittle, and prone to crumbling, despite its name being associated with a fungus requiring some moisture to initiate attack."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A fungal decay affecting timber that remains persistently wet, causing softening and darkening of the affected wood, is called",
+      "options": [
+        "powder-post beetle attack",
+        "termite attack",
+        "dry rot",
+        "wet rot"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wet rot occurs in timber that remains persistently damp, causing the wood to soften, darken, and decay."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Insects that live in colonies and can cause extensive hidden damage to timber structures by consuming cellulose are called",
+      "options": [
+        "termites",
+        "powder-post beetles only",
+        "dry rot fungi",
+        "wet rot fungi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Termites live in organised colonies and can cause extensive, often hidden, structural damage by consuming the cellulose in timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Small insects whose larvae bore into the sapwood of timber, leaving fine, powdery frass and small exit holes, are called",
+      "options": [
+        "dry rot fungi",
+        "termites only",
+        "wet rot fungi",
+        "powder-post beetles"
+      ],
+      "correctIndex": 3,
+      "explanation": "Powder-post beetle larvae tunnel through sapwood, leaving behind fine powdery dust (frass) and small round exit holes."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A traditional timber preservative derived from coal tar distillation, providing strong protection against decay and insect attack, is called",
+      "options": [
+        "tar-oil (creosote)",
+        "water-borne preservative",
+        "PVA adhesive",
+        "organic solvent preservative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Creosote, a tar-oil preservative derived from coal tar distillation, provides strong, long-lasting protection against fungal decay and insect attack."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A timber preservative in which the active chemicals are dissolved and applied in a water-based solution is called a",
+      "options": [
+        "hide glue",
+        "organic solvent preservative",
+        "tar-oil preservative",
+        "water-borne preservative"
+      ],
+      "correctIndex": 3,
+      "explanation": "Water-borne preservatives dissolve their active protective chemicals in water, offering an alternative to oil-based products like creosote."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A manufactured wood-based board produced by gluing thin layers (veneers) of wood together with grain directions alternating at right angles is called",
+      "options": [
+        "blockboard",
+        "particleboard (chipboard)",
+        "plywood",
+        "MDF"
+      ],
+      "correctIndex": 2,
+      "explanation": "Plywood is manufactured from thin veneers glued together with alternating grain direction, increasing overall strength and stability."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A manufactured wood-based board with a core of solid wood strips sandwiched between outer veneers is called",
+      "options": [
+        "particleboard (chipboard)",
+        "plywood only",
+        "blockboard",
+        "MDF"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blockboard has a core made of solid wood strips, faced on both sides with veneer, combining strength with lighter weight than solid timber."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A manufactured wood-based board produced by compressing wood particles or chips together with a resin binder is called",
+      "options": [
+        "particleboard (chipboard)",
+        "blockboard",
+        "plywood",
+        "MDF"
+      ],
+      "correctIndex": 0,
+      "explanation": "Particleboard (chipboard) is formed by compressing wood chips and particles together with a resin binder under heat and pressure."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A manufactured wood-based board produced by breaking down wood fibres and binding them under heat and pressure into a dense, smooth board, is called",
+      "options": [
+        "medium-density fibreboard (MDF)",
+        "particleboard only",
+        "blockboard",
+        "plywood"
+      ],
+      "correctIndex": 0,
+      "explanation": "MDF is made from finely broken-down wood fibres bonded under heat and pressure, producing a dense, smooth-surfaced board popular for furniture and mouldings."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A simple joint formed by gluing (and sometimes nailing) two flat pieces of timber edge to edge to increase width is called a",
+      "options": [
+        "dowelled joint",
+        "mortise and tenon joint",
+        "butt joint",
+        "tongued-and-grooved joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "A butt joint simply joins two flat surfaces together, typically edge-to-edge, relying mainly on glue for strength."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A widening joint in which one board has a projecting tongue that fits into a matching groove on the adjoining board is called a",
+      "options": [
+        "housing joint",
+        "tongued-and-grooved joint",
+        "butt joint",
+        "dowelled joint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tongued-and-grooved joints interlock a projecting tongue on one board with a matching groove on the next, improving alignment and strength."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A widening joint reinforced with small cylindrical wooden pegs inserted into matching holes in both boards is called a",
+      "options": [
+        "butt joint",
+        "dowelled joint",
+        "housing joint",
+        "tongued-and-grooved joint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dowelled joints use cylindrical wooden pegs (dowels) inserted into aligned holes, adding strength and alignment to a glued joint."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A strong framing joint in which a projecting tongue (tenon) on one member fits into a matching slot (mortise) on another is called a",
+      "options": [
+        "dovetail joint",
+        "bridle joint",
+        "mortise and tenon joint",
+        "halving joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mortise and tenon joint is a classic, strong framing joint, where a tenon (tongue) fits securely into a matching mortise (slot)."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A framing joint in which each of the two members has an identical open-ended slot cut, allowing the corresponding tenon to slot into it, is called a",
+      "options": [
+        "bridle joint",
+        "dovetail joint",
+        "butt joint",
+        "housing joint"
+      ],
+      "correctIndex": 0,
+      "explanation": "The bridle joint is a variant of the mortise and tenon joint, featuring a wider open-ended slot into which the matching member fits."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A framing joint formed by removing half the thickness from each of two overlapping members so they fit flush together is called a",
+      "options": [
+        "mortise and tenon joint",
+        "housing joint",
+        "halving joint",
+        "dovetail joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "A halving joint removes half the material thickness from each overlapping piece, allowing them to sit flush when joined."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A strong box/carcass joint using interlocking, angled, fan-shaped projections that resist being pulled apart is called a",
+      "options": [
+        "housing joint",
+        "dovetail joint",
+        "butt joint",
+        "halving joint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dovetail joints use angled, interlocking projections (pins and tails) that mechanically resist being pulled apart, making them ideal for drawers and boxes."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A box/carcass joint in which a groove is cut across one member to receive the full end of another member is called a",
+      "options": [
+        "butt joint",
+        "dovetail joint",
+        "housing joint",
+        "bridle joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "A housing joint cuts a groove across one member into which the end of another piece fits, commonly used for shelves fitted into cabinet sides."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A traditional adhesive made from animal by-products, historically used in furniture making before synthetic alternatives, is called",
+      "options": [
+        "urea-formaldehyde resin",
+        "animal (hide) glue",
+        "polyvinyl acetate (PVA)",
+        "contact cement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Animal (hide) glue, derived from animal collagen, was a traditional woodworking adhesive widely used before synthetic glues became common."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A synthetic resin adhesive that cures through a chemical reaction, commonly used in the manufacture of plywood and other engineered boards, is called",
+      "options": [
+        "urea-formaldehyde resin",
+        "animal glue",
+        "PVA glue",
+        "contact cement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Urea-formaldehyde resin is a synthetic adhesive widely used in manufacturing plywood and other engineered wood products."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A common white, water-based synthetic adhesive widely used for general woodworking and joinery is called",
+      "options": [
+        "animal glue only",
+        "urea-formaldehyde resin",
+        "polyvinyl acetate (PVA) glue",
+        "contact cement"
+      ],
+      "correctIndex": 2,
+      "explanation": "PVA glue is a widely used, easy-to-apply, water-based adhesive suitable for most general woodworking applications."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "An adhesive applied to both surfaces and allowed to dry before pressing together, forming an immediate strong bond on contact, is called",
+      "options": [
+        "urea-formaldehyde resin",
+        "contact cement",
+        "PVA glue",
+        "animal glue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contact cement is applied to both surfaces and allowed to become tacky before joining, bonding immediately and strongly upon contact."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Metal fasteners such as nails, screws, and dowels, along with hardware like hinges, locks, and catches, are collectively used in woodwork mainly to",
+      "options": [
+        "measure and mark out timber accurately",
+        "join and secure components together, and to add functional hardware to finished pieces",
+        "finish and decorate the surface of timber",
+        "prevent fungal and insect attack"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fasteners and hardware provide mechanical joining and functional features (like opening doors or locking drawers) in completed woodwork projects."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The process of removing surface irregularities from timber using progressively finer abrasive papers before finishing is called",
+      "options": [
+        "filling",
+        "staining",
+        "French polishing",
+        "sanding"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sanding with progressively finer grits smooths the timber surface, preparing it for stains, fillers, or a final finish."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A finishing material used to colour timber while allowing its natural grain pattern to remain visible is called a",
+      "options": [
+        "stain",
+        "varnish",
+        "filler",
+        "paint"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stains add colour to timber while allowing the natural wood grain to show through, unlike opaque paint."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A finishing material used to fill the natural open pores of certain timbers, providing a smoother base before applying a top coat, is called a",
+      "options": [
+        "stain",
+        "varnish",
+        "filler",
+        "lacquer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fillers close the open pores of coarse-grained timbers, creating a smoother surface ready for the final finishing coats."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A traditional, highly glossy finish built up from many thin coats of shellac applied with a rubbing pad is called",
+      "options": [
+        "French polish",
+        "lacquer",
+        "varnish",
+        "paint"
+      ],
+      "correctIndex": 0,
+      "explanation": "French polish is a traditional shellac-based finish, built up in many thin layers using a rubbing pad, producing a deep, glossy shine."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A clear or tinted protective finish, typically applied by brush, that dries to form a hard, glossy or satin surface film is called",
+      "options": [
+        "stain",
+        "filler",
+        "varnish",
+        "sanding sealer only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Varnish forms a hard, protective, glossy or satin film over timber, protecting it while allowing the wood's appearance to show through if clear."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A fast-drying clear or tinted finish, often applied by spraying, that forms a protective film through solvent evaporation is called a",
+      "options": [
+        "French polish only",
+        "lacquer",
+        "filler",
+        "stain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lacquer dries quickly as its solvents evaporate, commonly applied by spraying to produce a hard, protective clear or tinted finish."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "An opaque finishing material that completely covers and colours the surface of timber, hiding the natural wood grain, is called",
+      "options": [
+        "paint",
+        "stain",
+        "French polish",
+        "varnish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paint provides an opaque coating that fully covers the timber surface, hiding the natural grain, unlike stains or clear varnishes."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "When applying finishing materials such as lacquers and varnishes, an important safety precaution is to",
+      "options": [
+        "ensure adequate ventilation, since many finishes release flammable or harmful fumes",
+        "apply the finish in a sealed room with no ventilation",
+        "avoid reading the manufacturer's safety instructions",
+        "smoke or use open flames nearby for convenience"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many wood finishes release flammable or harmful solvent fumes, making good ventilation an essential safety precaution during application."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A through dovetail joint, visible from both faces of the joined boards, is commonly used mainly for",
+      "options": [
+        "widening narrow boards edge to edge",
+        "carcass and box corners where strength and visible craftsmanship are both valued",
+        "temporary joints intended to be dismantled easily",
+        "hidden internal bracing only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Through dovetails are visible on both faces of a joint and are commonly used at box and carcass corners, valued for their strength and craftsmanship."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A lapped dovetail joint, in which the joint is hidden from one face, is often chosen over a through dovetail mainly for",
+      "options": [
+        "temporary scaffolding joints",
+        "drawer fronts, where a neat, unbroken outer appearance is desired",
+        "widening joints in tabletops",
+        "structural roof trusses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lapped dovetails conceal the joint from the front face, making them a popular choice for drawer fronts where an unbroken, neat appearance is desired."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "The angled projections on a dovetail joint that resemble a dove's spread tail are specifically called the",
+      "options": [
+        "housings and grooves",
+        "tongues and grooves",
+        "tails and pins",
+        "tenons and mortises"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dovetail joint's interlocking angled projections are known as tails (wider) and pins (narrower), together forming the joint."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A stopped housing joint, in which the groove does not run the full width of the receiving member, is used mainly to",
+      "options": [
+        "increase the overall joint's structural strength beyond a through housing",
+        "allow the joint to be assembled without any fitting",
+        "eliminate the need for glue entirely",
+        "hide the joint from the front edge, improving the finished appearance"
+      ],
+      "correctIndex": 3,
+      "explanation": "A stopped housing joint conceals the groove from the front edge of the piece, improving the visual appearance of the finished item compared to a through housing."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A haunched mortise and tenon joint includes a small additional shoulder (haunch) mainly to",
+      "options": [
+        "eliminate the need for a mortise altogether",
+        "reduce the overall strength of the joint intentionally",
+        "fill the remaining groove space and add resistance against twisting at corner joints",
+        "allow the joint to be used only for widening boards"
+      ],
+      "correctIndex": 2,
+      "explanation": "The haunch fills the space left when a tenon meets a grooved frame member, and helps resist twisting, particularly useful at corner joints like door frames."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Cramping (clamping) a glued joint firmly while the adhesive cures is important mainly to",
+      "options": [
+        "prevent the timber from seasoning further",
+        "ensure close contact between surfaces for a strong, even bond",
+        "speed up the chemical curing process itself",
+        "replace the need for accurate joint-cutting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clamping holds glued surfaces in firm, even contact while the adhesive cures, which is essential for achieving a strong, well-bonded joint."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A key consideration when selecting an appropriate joint for a piece of furniture is",
+      "options": [
+        "the type and direction of stress the joint will need to resist in use",
+        "the colour of the timber being used",
+        "the brand of glue available in the workshop",
+        "the total number of tools owned by the maker"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joint selection should be guided by the forces the finished piece will experience in use, ensuring the chosen joint provides adequate strength in the right directions."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Wood screws are generally preferred over nails in furniture joinery when",
+      "options": [
+        "the timber is extremely thin and easily split",
+        "the fastest possible assembly with no future disassembly is needed",
+        "greater holding power and the ability to disassemble the joint later are required",
+        "the joint will never experience any load"
+      ],
+      "correctIndex": 2,
+      "explanation": "Screws provide stronger holding power than nails and allow for later disassembly, making them preferable for many furniture applications."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Pre-drilling (boring a pilot hole) before driving a screw into timber helps mainly to",
+      "options": [
+        "change the timber's natural grain direction",
+        "increase the total holding power beyond a properly sized screw",
+        "prevent the timber from splitting and make driving the screw easier",
+        "eliminate the need for any adhesive"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pre-drilling a pilot hole reduces the risk of splitting the timber and makes it considerably easier to drive the screw straight and true."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "Hinges, locks, and catches used on furniture and joinery items are collectively referred to as",
+      "options": [
+        "manufactured boards",
+        "ironmongery (hardware fittings)",
+        "adhesives",
+        "finishing materials"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ironmongery refers to the metal hardware fittings, such as hinges, locks, and catches, used to complete functional furniture and joinery items."
+    },
+    {
+      "subject": "Woodwork",
+      "text": "A working drawing for a piece of furniture typically shows",
+      "options": [
+        "only a general artistic impression with no measurements",
+        "the dimensions, joints, and construction details needed to build the item accurately",
+        "the history of the furniture style only",
+        "the price of materials only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A working drawing provides the precise dimensions, joint details, and construction information a craftsman needs to accurately build a piece of furniture."
+    }
+  ]
+}

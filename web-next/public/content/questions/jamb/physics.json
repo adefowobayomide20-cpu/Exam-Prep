@@ -1,0 +1,2406 @@
+{
+  "subject": "Physics",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Physics",
+      "text": "The S.I. unit of electric current is the",
+      "options": [
+        "ampere",
+        "ohm",
+        "coulomb",
+        "volt"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ampere (A) is one of the seven base S.I. units, defined as the base unit of electric current."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which instrument is used to measure the diameter of a thin wire to the nearest 0.01 mm?",
+      "options": [
+        "Vernier calipers",
+        "Metre rule",
+        "Measuring tape",
+        "Micrometer screw gauge"
+      ],
+      "correctIndex": 3,
+      "explanation": "The micrometer screw gauge has a much finer scale (typically 0.01 mm precision) than Vernier calipers (0.01 cm), making it suited to very thin objects like wires."
+    },
+    {
+      "subject": "Physics",
+      "text": "Vernier calipers are typically used to measure internal and external diameters to the nearest",
+      "options": [
+        "0.1 m",
+        "0.01 mm",
+        "0.01 cm",
+        "1 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vernier calipers commonly have a precision of 0.01 cm (0.1 mm), useful for measuring lengths, diameters, and depths more precisely than a metre rule."
+    },
+    {
+      "subject": "Physics",
+      "text": "The number 0.004530 expressed to 3 significant figures is",
+      "options": [
+        "0.004",
+        "0.00453",
+        "0.00450",
+        "0.0045"
+      ],
+      "correctIndex": 1,
+      "explanation": "Counting significant figures from the first non-zero digit: 4, 5, 3 are the first three significant figures, giving 0.00453."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which of the following is a derived S.I. unit?",
+      "options": [
+        "Newton (force)",
+        "Metre (length)",
+        "Kelvin (temperature)",
+        "Kilogram (mass)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The newton is derived from the base units kg, m, and s (N = kg m/s2), unlike the metre, kilogram, and kelvin, which are base units."
+    },
+    {
+      "subject": "Physics",
+      "text": "The dimension of density (mass/volume) is",
+      "options": [
+        "ML-3",
+        "MLT-1",
+        "MLT-2",
+        "ML2T-2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Density = mass/volume = M / L3 = ML-3, since volume has dimension L3 (length cubed)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A scalar quantity is one that has",
+      "options": [
+        "direction only, with no magnitude",
+        "neither magnitude nor direction",
+        "magnitude only, with no direction",
+        "both magnitude and direction"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scalars, such as mass, distance, and speed, are fully described by a magnitude alone, unlike vectors, which also require a direction."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which of the following is a vector quantity?",
+      "options": [
+        "Time",
+        "Mass",
+        "Displacement",
+        "Energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Displacement has both magnitude and a specified direction from a starting point, making it a vector, unlike mass, time, and energy, which are scalars."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two forces of 3 N and 4 N act at right angles to each other on an object. What is the magnitude of the resultant force?",
+      "options": [
+        "12 N",
+        "5 N",
+        "7 N",
+        "1 N"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using Pythagoras' theorem for perpendicular vectors: resultant = sqrt(3^2 + 4^2) = sqrt(9+16) = sqrt(25) = 5 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "The horizontal component of a force of 10 N acting at 30 degrees to the horizontal is",
+      "options": [
+        "10 tan 30 degrees",
+        "10 / cos 30 degrees",
+        "10 cos 30 degrees",
+        "10 sin 30 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "The horizontal component of a vector is found by multiplying its magnitude by the cosine of the angle it makes with the horizontal axis."
+    },
+    {
+      "subject": "Physics",
+      "text": "A boat heads directly across a river with its own velocity, while the river current pushes it downstream. The boat's resultant velocity relative to the bank is found by",
+      "options": [
+        "simple arithmetic subtraction of the two speeds",
+        "vector addition of the boat's velocity and the river's velocity",
+        "the boat's velocity alone, ignoring the current",
+        "multiplying the two velocities together"
+      ],
+      "correctIndex": 1,
+      "explanation": "Relative velocity problems are solved by vector addition, combining the boat's velocity relative to water with the water's velocity relative to the bank."
+    },
+    {
+      "subject": "Physics",
+      "text": "Which method can be used to find the resultant of two vectors acting at an angle to each other?",
+      "options": [
+        "Direct multiplication of magnitudes",
+        "Simple scalar addition only",
+        "Averaging their magnitudes",
+        "The parallelogram law of vector addition"
+      ],
+      "correctIndex": 3,
+      "explanation": "The parallelogram law states that two vectors can be represented as adjacent sides of a parallelogram, with the resultant being the diagonal from their common point."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object starts from rest and accelerates uniformly at 2 m/s2 for 5 seconds. What is its final velocity?",
+      "options": [
+        "7 m/s",
+        "2 m/s",
+        "25 m/s",
+        "10 m/s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Using v = u + at: v = 0 + (2 x 5) = 10 m/s, since the object starts from rest (u = 0)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car travels at a constant velocity of 20 m/s for 10 seconds. What distance does it cover?",
+      "options": [
+        "2 m",
+        "100 m",
+        "200 m",
+        "20 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Distance = velocity x time = 20 x 10 = 200 m, since the velocity is constant (zero acceleration)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body moving with uniform acceleration covers a distance given by s = ut + 1/2 at^2. If u = 0, a = 4 m/s2, and t = 3 s, what is s?",
+      "options": [
+        "18 m",
+        "12 m",
+        "6 m",
+        "24 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "s = 0(3) + 0.5(4)(3^2) = 0 + 0.5 x 4 x 9 = 18 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "Newton's First Law of Motion states that a body will remain at rest or in uniform motion in a straight line unless",
+      "options": [
+        "it is in a vacuum",
+        "its velocity is zero",
+        "acted upon by an external unbalanced force",
+        "it loses mass over time"
+      ],
+      "correctIndex": 2,
+      "explanation": "This is the law of inertia: an object's state of motion changes only when a net external force acts on it."
+    },
+    {
+      "subject": "Physics",
+      "text": "Newton's Second Law of Motion is mathematically expressed as",
+      "options": [
+        "F = ma",
+        "F = mv",
+        "F = m/a",
+        "F = ma^2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Newton's Second Law states that force equals the rate of change of momentum, which for constant mass simplifies to F = ma (mass x acceleration)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A resultant force of 20 N acts on a mass of 4 kg. What acceleration does it produce?",
+      "options": [
+        "16 m/s2",
+        "5 m/s2",
+        "80 m/s2",
+        "0.2 m/s2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using F = ma: a = F/m = 20/4 = 5 m/s2."
+    },
+    {
+      "subject": "Physics",
+      "text": "Newton's Third Law of Motion states that",
+      "options": [
+        "force equals mass times acceleration",
+        "an object at rest stays at rest unless acted upon",
+        "momentum is always conserved in a closed system",
+        "for every action, there is an equal and opposite reaction"
+      ],
+      "correctIndex": 3,
+      "explanation": "Newton's Third Law describes the mutual nature of forces: whenever one body exerts a force on another, the second exerts an equal and opposite force back on the first."
+    },
+    {
+      "subject": "Physics",
+      "text": "The momentum of a body is defined as the product of its",
+      "options": [
+        "force and time",
+        "weight and velocity",
+        "mass and velocity",
+        "mass and acceleration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Momentum (p) = mass (m) x velocity (v), a vector quantity with the same direction as the velocity."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 2 kg object moving at 3 m/s collides and comes to rest in 0.5 s. What is the impulse delivered to it?",
+      "options": [
+        "6 Ns",
+        "12 Ns",
+        "3 Ns",
+        "1.5 Ns"
+      ],
+      "correctIndex": 0,
+      "explanation": "Impulse = change in momentum = m(v-u) = 2(0-3) in magnitude = 6 Ns, the momentum lost by the object during the collision."
+    },
+    {
+      "subject": "Physics",
+      "text": "In Simple Harmonic Motion (SHM), the acceleration of the oscillating body is always",
+      "options": [
+        "directly proportional to its velocity",
+        "directly proportional to its displacement from equilibrium and directed towards it",
+        "constant throughout the motion",
+        "zero at the extreme positions"
+      ],
+      "correctIndex": 1,
+      "explanation": "SHM is defined by acceleration a = -omega^2 x, proportional to displacement x but directed opposite to it, always pulling the body back to equilibrium."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body undergoing projectile motion (ignoring air resistance) experiences which acceleration in the horizontal direction?",
+      "options": [
+        "Acceleration due to gravity, g",
+        "Zero (constant horizontal velocity)",
+        "Acceleration equal to the initial vertical velocity",
+        "Increasing acceleration over time"
+      ],
+      "correctIndex": 1,
+      "explanation": "In projectile motion, gravity acts only vertically, so the horizontal component of velocity remains constant throughout the flight (zero horizontal acceleration)."
+    },
+    {
+      "subject": "Physics",
+      "text": "The time taken for a projectile to reach maximum height depends on its",
+      "options": [
+        "initial horizontal velocity only",
+        "angle of projection only, independent of speed",
+        "mass of the projectile",
+        "initial vertical component of velocity and the acceleration due to gravity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Time to maximum height, t = u_vertical / g, depends on the vertical component of the initial velocity and the local gravitational acceleration."
+    },
+    {
+      "subject": "Physics",
+      "text": "Newton's Law of Universal Gravitation states that the gravitational force between two masses is",
+      "options": [
+        "inversely proportional to the product of their masses",
+        "directly proportional to the product of their masses and inversely proportional to the square of the distance between them",
+        "independent of the distance between them",
+        "directly proportional to the distance between them"
+      ],
+      "correctIndex": 1,
+      "explanation": "F = Gm1m2/r^2, showing gravitational attraction increases with mass and decreases sharply (inverse square) with increasing separation."
+    },
+    {
+      "subject": "Physics",
+      "text": "The acceleration due to gravity, g, on the Earth's surface is approximately",
+      "options": [
+        "1.6 m/s2",
+        "6.4 m/s2",
+        "3.8 m/s2",
+        "9.8 m/s2"
+      ],
+      "correctIndex": 3,
+      "explanation": "The standard value for acceleration due to gravity near the Earth's surface is approximately 9.8 m/s2 (sometimes approximated as 10 m/s2)."
+    },
+    {
+      "subject": "Physics",
+      "text": "The value of g decreases as one moves from the Earth's surface towards its centre mainly because",
+      "options": [
+        "air resistance increases underground",
+        "only the mass of Earth enclosed within that radius contributes to the gravitational pull",
+        "temperature decreases towards the centre",
+        "the Earth's rotation increases with depth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inside a uniform sphere, only the mass enclosed within the radius from the centre contributes net gravitational force, so g decreases towards the centre, reaching zero there."
+    },
+    {
+      "subject": "Physics",
+      "text": "Escape velocity is defined as the minimum velocity needed for an object to",
+      "options": [
+        "achieve a stable circular orbit close to the surface",
+        "orbit a planet at a constant altitude",
+        "reach the speed of sound",
+        "completely escape a planet's gravitational field without further propulsion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Escape velocity is the speed at which an object's kinetic energy equals the gravitational potential energy binding it, allowing it to escape to infinity."
+    },
+    {
+      "subject": "Physics",
+      "text": "The weight of an object is best described as",
+      "options": [
+        "the gravitational force acting on its mass",
+        "the amount of matter it contains",
+        "the same everywhere in the universe",
+        "a measure independent of gravitational field strength"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weight (W = mg) is a force resulting from the gravitational pull on an object's mass, and therefore varies with the local gravitational field strength, unlike mass."
+    },
+    {
+      "subject": "Physics",
+      "text": "A satellite in a stable circular orbit around the Earth experiences a centripetal force provided by",
+      "options": [
+        "the satellite's own inertia alone",
+        "the satellite's engines firing continuously",
+        "the Earth's gravitational attraction on the satellite",
+        "atmospheric drag"
+      ],
+      "correctIndex": 2,
+      "explanation": "For a satellite in circular orbit, gravity supplies exactly the centripetal force needed to keep it moving in its circular path around the Earth."
+    },
+    {
+      "subject": "Physics",
+      "text": "The centre of gravity of an object is the point at which",
+      "options": [
+        "the object rotates fastest",
+        "the object's mass is exactly zero",
+        "all external forces cancel to zero",
+        "the entire weight of the object may be considered to act"
+      ],
+      "correctIndex": 3,
+      "explanation": "The centre of gravity is the single point through which the resultant of all gravitational forces on the parts of a body can be considered to act."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is in stable equilibrium if, when slightly displaced, it",
+      "options": [
+        "returns to its original position",
+        "remains in its new position permanently",
+        "topples over immediately",
+        "moves further away from its original position"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stable equilibrium is characterised by a restoring tendency: a small displacement raises the centre of gravity, and gravity pulls the object back to its lowest-energy position."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body with a low centre of gravity and a wide base is generally",
+      "options": [
+        "more stable than one with a high centre of gravity and narrow base",
+        "unaffected by the position of its centre of gravity",
+        "less stable than a tall, narrow object",
+        "always in unstable equilibrium"
+      ],
+      "correctIndex": 0,
+      "explanation": "A wide base and low centre of gravity require a greater tilt before the centre of gravity passes outside the base, making the object harder to topple, hence more stable."
+    },
+    {
+      "subject": "Physics",
+      "text": "The Principle of Moments states that for a body in equilibrium under the action of several coplanar forces,",
+      "options": [
+        "the sum of clockwise moments about any point equals the sum of anticlockwise moments about that point",
+        "moments are only considered for forces acting at the centre of gravity",
+        "all forces must be equal in magnitude",
+        "the net force must be greater than zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Principle of Moments (law of the lever) requires that clockwise and anticlockwise turning effects about a pivot balance exactly for rotational equilibrium."
+    },
+    {
+      "subject": "Physics",
+      "text": "A uniform metre rule is balanced at its 50 cm mark. A 2 N weight is hung at the 20 cm mark. Where must a 4 N weight be hung to balance it?",
+      "options": [
+        "At the 60 cm mark",
+        "At the 70 cm mark",
+        "At the 65 cm mark",
+        "At the 80 cm mark"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clockwise moment of 4 N about 50 cm mark = anticlockwise moment of 2 N: 2 x 30 = 4 x d, so d = 15 cm from the pivot, placing it at 50 + 15 = 65 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "Lami's Theorem applies to three coplanar, concurrent forces in equilibrium and states that each force is proportional to the",
+      "options": [
+        "sine of the angle between the other two forces",
+        "cosine of the angle between the other two forces",
+        "sum of the other two forces",
+        "tangent of the angle between the other two forces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lami's Theorem: F1/sin(angle between F2,F3) = F2/sin(angle between F1,F3) = F3/sin(angle between F1,F2), useful for solving three-force equilibrium problems."
+    },
+    {
+      "subject": "Physics",
+      "text": "Work done by a force is calculated as the product of the",
+      "options": [
+        "force and time taken",
+        "force and the distance moved in the direction of the force",
+        "force and acceleration",
+        "mass and velocity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Work (W = Fd cos theta) is done when a force causes displacement in its own direction; no work is done if there is no displacement or the force is perpendicular to it."
+    },
+    {
+      "subject": "Physics",
+      "text": "A force of 10 N moves an object through a distance of 5 m in the direction of the force. How much work is done?",
+      "options": [
+        "5 J",
+        "15 J",
+        "2 J",
+        "50 J"
+      ],
+      "correctIndex": 3,
+      "explanation": "Work = Force x distance = 10 x 5 = 50 joules."
+    },
+    {
+      "subject": "Physics",
+      "text": "Kinetic energy of a moving body is given by the formula",
+      "options": [
+        "1/2 mv",
+        "mv",
+        "1/2 mv^2",
+        "mgh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kinetic energy, the energy of motion, is given by KE = 1/2 mv^2, where m is mass and v is velocity."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 2 kg object falls freely and reaches a velocity of 10 m/s. What is its kinetic energy at that instant?",
+      "options": [
+        "20 J",
+        "10 J",
+        "100 J",
+        "200 J"
+      ],
+      "correctIndex": 2,
+      "explanation": "KE = 1/2 mv^2 = 0.5 x 2 x 10^2 = 0.5 x 2 x 100 = 100 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "Gravitational potential energy is given by the formula",
+      "options": [
+        "mv",
+        "Fd",
+        "1/2 mv^2",
+        "mgh"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gravitational potential energy depends on mass (m), the acceleration due to gravity (g), and height (h) above a reference level: PE = mgh."
+    },
+    {
+      "subject": "Physics",
+      "text": "The Law of Conservation of Energy states that",
+      "options": [
+        "kinetic energy is always equal to potential energy",
+        "energy cannot be created or destroyed, only transformed from one form to another",
+        "total energy of a system always increases over time",
+        "energy is always lost as heat in any process"
+      ],
+      "correctIndex": 1,
+      "explanation": "This fundamental physical law means the total energy in an isolated system remains constant, even as it changes form (e.g., potential to kinetic)."
+    },
+    {
+      "subject": "Physics",
+      "text": "Power is defined as the",
+      "options": [
+        "product of force and distance",
+        "total amount of work done",
+        "force applied per unit area",
+        "rate at which work is done"
+      ],
+      "correctIndex": 3,
+      "explanation": "Power (P = W/t) measures how quickly work is performed or energy is transferred, measured in watts (joules per second)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A machine does 500 J of work in 10 seconds. What is its power output?",
+      "options": [
+        "5000 W",
+        "50 W",
+        "500 W",
+        "5 W"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power = Work/time = 500/10 = 50 watts."
+    },
+    {
+      "subject": "Physics",
+      "text": "Friction is a force that always acts to",
+      "options": [
+        "increase the speed of a moving object",
+        "act only on stationary objects",
+        "oppose relative motion or the tendency of motion between two surfaces",
+        "act perpendicular to the surfaces in contact"
+      ],
+      "correctIndex": 2,
+      "explanation": "Friction is a resistive force arising from contact between surfaces, always acting opposite to the direction of relative motion or intended motion."
+    },
+    {
+      "subject": "Physics",
+      "text": "Static friction differs from dynamic (kinetic) friction in that static friction",
+      "options": [
+        "does not depend on the normal force",
+        "occurs only in fluids",
+        "is always smaller than dynamic friction",
+        "acts on objects that are not yet moving relative to each other"
+      ],
+      "correctIndex": 3,
+      "explanation": "Static friction prevents relative motion from starting, and its maximum value is generally slightly greater than the kinetic (dynamic) friction that acts once motion begins."
+    },
+    {
+      "subject": "Physics",
+      "text": "Viscosity refers to a fluid's internal resistance to",
+      "options": [
+        "boiling",
+        "compression",
+        "freezing",
+        "flow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Viscosity measures how strongly a fluid resists flowing or deforming; thick fluids like honey have high viscosity compared to water."
+    },
+    {
+      "subject": "Physics",
+      "text": "Terminal velocity is reached by an object falling through a fluid when",
+      "options": [
+        "the object's weight becomes zero",
+        "the object stops moving completely",
+        "the resistive (drag) force equals the object's weight, resulting in zero net acceleration",
+        "air resistance becomes negligible"
+      ],
+      "correctIndex": 2,
+      "explanation": "As speed increases, drag force increases until it balances gravity; at this point the object falls at a constant maximum speed, its terminal velocity."
+    },
+    {
+      "subject": "Physics",
+      "text": "The mechanical advantage of a simple machine is defined as the ratio of",
+      "options": [
+        "velocity ratio to efficiency",
+        "distance moved by effort to distance moved by load",
+        "effort to load",
+        "load to effort"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mechanical advantage (MA) = load/effort, indicating how many times the machine multiplies the applied effort force."
+    },
+    {
+      "subject": "Physics",
+      "text": "The velocity ratio of a simple machine is defined as the ratio of",
+      "options": [
+        "load to effort",
+        "distance moved by the effort to distance moved by the load",
+        "effort to load",
+        "output power to input power"
+      ],
+      "correctIndex": 1,
+      "explanation": "Velocity ratio (VR) = distance moved by effort / distance moved by load, a purely geometric property of the machine, independent of friction."
+    },
+    {
+      "subject": "Physics",
+      "text": "The efficiency of a machine is calculated as",
+      "options": [
+        "(mechanical advantage / velocity ratio) x 100%",
+        "load x effort",
+        "(velocity ratio / mechanical advantage) x 100%",
+        "distance moved by effort only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Efficiency = (MA/VR) x 100%, reflecting how much of the input work is usefully converted to output work, always less than 100% due to friction."
+    },
+    {
+      "subject": "Physics",
+      "text": "A pulley system has a velocity ratio of 4 and requires an effort of 30 N to lift a load of 100 N. What is its efficiency?",
+      "options": [
+        "120%",
+        "100%",
+        "about 83.3%",
+        "75%"
+      ],
+      "correctIndex": 2,
+      "explanation": "MA = load/effort = 100/30 = 3.33. Efficiency = (MA/VR) x 100 = (3.33/4) x 100 = about 83.3%."
+    },
+    {
+      "subject": "Physics",
+      "text": "Hooke's Law states that within the elastic limit, the extension of a spring is",
+      "options": [
+        "inversely proportional to the applied force",
+        "independent of the applied force",
+        "proportional to the square of the applied force",
+        "directly proportional to the applied force"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hooke's Law: F = ke, where extension e is directly proportional to the applied force F, provided the elastic limit of the material is not exceeded."
+    },
+    {
+      "subject": "Physics",
+      "text": "Young's modulus of a material is defined as the ratio of",
+      "options": [
+        "extension to original length",
+        "force to area",
+        "stress to strain, within the elastic limit",
+        "strain to stress"
+      ],
+      "correctIndex": 2,
+      "explanation": "Young's modulus (E = stress/strain) quantifies a material's stiffness, describing how much it deforms elastically under a given stress."
+    },
+    {
+      "subject": "Physics",
+      "text": "Atmospheric pressure is caused mainly by",
+      "options": [
+        "the weight of the column of air above a given point",
+        "temperature differences at ground level only",
+        "the presence of water vapour alone",
+        "the rotation of the Earth"
+      ],
+      "correctIndex": 0,
+      "explanation": "The atmosphere's weight, pressing down due to gravity, exerts a pressure on surfaces below it, which decreases with increasing altitude."
+    },
+    {
+      "subject": "Physics",
+      "text": "Pascal's Principle states that pressure applied to an enclosed fluid is",
+      "options": [
+        "reduced as it moves through the fluid",
+        "converted entirely into heat",
+        "transmitted equally in all directions throughout the fluid",
+        "only transmitted in the direction of the applied force"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pascal's Principle underlies hydraulic systems: pressure applied anywhere in a confined incompressible fluid is transmitted undiminished to all parts of the fluid."
+    },
+    {
+      "subject": "Physics",
+      "text": "Archimedes' Principle states that the upthrust on a body partially or wholly immersed in a fluid equals the",
+      "options": [
+        "weight of the fluid displaced by the body",
+        "weight of the body itself",
+        "density of the fluid alone",
+        "volume of the body"
+      ],
+      "correctIndex": 0,
+      "explanation": "Archimedes' Principle explains buoyancy: the upward force (upthrust) on a submerged object equals the weight of the fluid it displaces."
+    },
+    {
+      "subject": "Physics",
+      "text": "The pressure exerted by a liquid column depends on the",
+      "options": [
+        "shape of the container only",
+        "temperature of the liquid only",
+        "surface area of the container base only",
+        "depth of the liquid, its density, and the acceleration due to gravity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Liquid pressure is given by P = h(rho)g, depending on the height (depth) of the column, the liquid's density, and gravitational acceleration, but not on the container's shape."
+    },
+    {
+      "subject": "Physics",
+      "text": "A body floats in a liquid when",
+      "options": [
+        "there is no upthrust acting on it",
+        "the upthrust exceeds twice its weight",
+        "its density is greater than that of the liquid",
+        "the upthrust on it equals its weight"
+      ],
+      "correctIndex": 3,
+      "explanation": "For a floating object, the upward buoyant force (upthrust) exactly balances the downward weight, resulting in zero net force and equilibrium."
+    },
+    {
+      "subject": "Physics",
+      "text": "A spring of natural length 20 cm extends to 25 cm under a load of 10 N. What is its spring constant?",
+      "options": [
+        "10 N/cm",
+        "5 N/cm",
+        "2 N/cm",
+        "0.5 N/cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Extension e = 25 - 20 = 5 cm. Spring constant k = F/e = 10/5 = 2 N/cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "The Celsius and Kelvin temperature scales are related by the formula",
+      "options": [
+        "K = degC + 273",
+        "K = degC - 273",
+        "K = degC x 273",
+        "K = 273/degC"
+      ],
+      "correctIndex": 0,
+      "explanation": "To convert Celsius to Kelvin (the absolute temperature scale), add 273 (more precisely 273.15) to the Celsius value."
+    },
+    {
+      "subject": "Physics",
+      "text": "When a solid is heated, it generally expands because",
+      "options": [
+        "the solid's density increases proportionally",
+        "the mass of the solid decreases",
+        "increased thermal energy causes particles to vibrate more and move slightly further apart",
+        "particles lose kinetic energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thermal expansion occurs because heating increases the amplitude of particle vibrations, increasing the average spacing between them."
+    },
+    {
+      "subject": "Physics",
+      "text": "According to Boyle's Law, at constant temperature, the pressure of a fixed mass of gas is",
+      "options": [
+        "directly proportional to its temperature",
+        "directly proportional to its volume",
+        "inversely proportional to its volume",
+        "independent of its volume"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boyle's Law: PV = constant at constant temperature, so pressure increases as volume decreases, and vice versa."
+    },
+    {
+      "subject": "Physics",
+      "text": "According to Charles's Law, at constant pressure, the volume of a fixed mass of gas is",
+      "options": [
+        "independent of temperature",
+        "inversely proportional to its absolute temperature",
+        "directly proportional to its absolute temperature",
+        "directly proportional to its pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charles's Law: V/T = constant at constant pressure, meaning gas volume increases proportionally with absolute (Kelvin) temperature."
+    },
+    {
+      "subject": "Physics",
+      "text": "The Pressure Law states that at constant volume, the pressure of a fixed mass of gas is",
+      "options": [
+        "independent of temperature",
+        "inversely proportional to its absolute temperature",
+        "inversely proportional to volume",
+        "directly proportional to its absolute temperature"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Pressure (Gay-Lussac's) Law: P/T = constant at constant volume, so pressure rises proportionally with absolute temperature."
+    },
+    {
+      "subject": "Physics",
+      "text": "Specific heat capacity of a substance is defined as the quantity of heat required to raise the temperature of",
+      "options": [
+        "the whole substance by any amount",
+        "a unit volume of the substance by ten degrees",
+        "one mole of the substance to its boiling point",
+        "a unit mass of the substance by one degree (Celsius or Kelvin)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Specific heat capacity, c, is defined by Q = mcT-change, representing heat needed per unit mass per degree temperature rise."
+    },
+    {
+      "subject": "Physics",
+      "text": "How much heat is needed to raise the temperature of 2 kg of water by 5 degC? (Specific heat capacity of water = 4200 J/kgK)",
+      "options": [
+        "21000 J",
+        "4200 J",
+        "42000 J",
+        "8400 J"
+      ],
+      "correctIndex": 2,
+      "explanation": "Q = mcT-change = 2 x 4200 x 5 = 42000 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "Latent heat of fusion is the heat energy required to",
+      "options": [
+        "cool a liquid to its freezing point",
+        "raise the temperature of a solid by one degree",
+        "change a substance from liquid to gas",
+        "change a substance from solid to liquid at constant temperature"
+      ],
+      "correctIndex": 3,
+      "explanation": "Latent heat of fusion is absorbed during melting (solid to liquid) without any change in temperature, as the energy breaks intermolecular bonds rather than increasing kinetic energy."
+    },
+    {
+      "subject": "Physics",
+      "text": "Heat transfer through a solid medium, without the bulk movement of the material itself, is called",
+      "options": [
+        "conduction",
+        "evaporation",
+        "convection",
+        "radiation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conduction transfers heat through direct particle-to-particle vibration and collision within a solid, without any overall movement of the medium."
+    },
+    {
+      "subject": "Physics",
+      "text": "Convection as a mode of heat transfer occurs mainly in",
+      "options": [
+        "a vacuum",
+        "solids only",
+        "only in metals",
+        "liquids and gases, through the bulk movement of the fluid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Convection relies on the physical movement of heated fluid (liquid or gas), which is less dense and rises, carrying thermal energy with it, a process not possible in rigid solids."
+    },
+    {
+      "subject": "Physics",
+      "text": "The distance between two successive crests (or troughs) of a wave is called its",
+      "options": [
+        "frequency",
+        "wavelength",
+        "amplitude",
+        "period"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wavelength (usually denoted by the Greek letter lambda) is the spatial period of a wave, the distance over which the wave's shape repeats."
+    },
+    {
+      "subject": "Physics",
+      "text": "The relationship between the velocity, frequency, and wavelength of a wave is given by",
+      "options": [
+        "v = f x wavelength",
+        "v = f + wavelength",
+        "f = v x wavelength",
+        "v = f / wavelength"
+      ],
+      "correctIndex": 0,
+      "explanation": "The wave equation v = f(lambda) relates wave speed to the product of frequency and wavelength, valid for all types of waves."
+    },
+    {
+      "subject": "Physics",
+      "text": "Sound waves are classified as",
+      "options": [
+        "transverse waves",
+        "standing waves only",
+        "electromagnetic waves",
+        "longitudinal waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "In sound waves, particles of the medium vibrate parallel to the direction of wave propagation, characteristic of longitudinal waves, unlike transverse waves such as light."
+    },
+    {
+      "subject": "Physics",
+      "text": "An echo is produced when sound waves",
+      "options": [
+        "are refracted through a different medium",
+        "travel through a vacuum",
+        "are absorbed completely by a surface",
+        "are reflected off a hard surface and return to the listener after a short delay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Echoes result from sound reflecting off obstacles like walls or cliffs, reaching the listener again after enough delay to be perceived as a distinct repetition."
+    },
+    {
+      "subject": "Physics",
+      "text": "Sound cannot travel through a vacuum because",
+      "options": [
+        "sound waves travel faster in a vacuum",
+        "a vacuum has infinite density",
+        "it requires a material medium (solid, liquid, or gas) for particle-to-particle transmission",
+        "sound waves are electromagnetic in nature"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike electromagnetic waves such as light, sound is a mechanical wave that needs particles of a medium to vibrate and transmit the disturbance."
+    },
+    {
+      "subject": "Physics",
+      "text": "The pitch of a musical note is determined mainly by its",
+      "options": [
+        "amplitude",
+        "wavelength in a vacuum",
+        "frequency",
+        "speed of travel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Higher frequency sound waves are perceived as higher pitch, while amplitude instead determines the loudness of the sound."
+    },
+    {
+      "subject": "Physics",
+      "text": "The loudness of a sound is determined mainly by its",
+      "options": [
+        "amplitude",
+        "frequency",
+        "speed",
+        "wavelength"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sound wave with greater amplitude carries more energy, which is perceived by the ear as a louder sound."
+    },
+    {
+      "subject": "Physics",
+      "text": "The Doppler effect explains why the pitch of a sound",
+      "options": [
+        "appears to change when there is relative motion between the source and the observer",
+        "depends only on the medium's temperature",
+        "cannot be perceived by the human ear",
+        "is always constant regardless of motion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Doppler effect describes the apparent shift in frequency (and pitch) of a wave due to relative motion, e.g., a siren sounding higher-pitched as it approaches and lower as it recedes."
+    },
+    {
+      "subject": "Physics",
+      "text": "The law of reflection states that the angle of incidence is",
+      "options": [
+        "unrelated to the angle of reflection",
+        "always 90 degrees",
+        "equal to the angle of reflection",
+        "always greater than the angle of reflection"
+      ],
+      "correctIndex": 2,
+      "explanation": "The law of reflection states that the angle between the incident ray and the normal equals the angle between the reflected ray and the normal."
+    },
+    {
+      "subject": "Physics",
+      "text": "Refraction of light occurs when light",
+      "options": [
+        "travels through a vacuum without any medium",
+        "reflects off a mirror at equal angles",
+        "passes from one medium to another of different optical density, causing a change in speed and direction",
+        "is completely absorbed by a surface"
+      ],
+      "correctIndex": 2,
+      "explanation": "Refraction is the bending of light as it crosses a boundary between media with different refractive indices, due to a change in wave speed."
+    },
+    {
+      "subject": "Physics",
+      "text": "A concave mirror is also known as a",
+      "options": [
+        "converging mirror",
+        "diverging mirror",
+        "diffusing mirror",
+        "plane mirror"
+      ],
+      "correctIndex": 0,
+      "explanation": "Concave mirrors curve inward and reflect parallel rays to converge at a focal point, making them converging mirrors, used in torches and telescopes."
+    },
+    {
+      "subject": "Physics",
+      "text": "A convex lens forms a real, inverted image when the object is placed",
+      "options": [
+        "beyond the focal length of the lens",
+        "between the lens and its focal point",
+        "exactly at the optical centre of the lens",
+        "at infinity, producing an image at the focal point only"
+      ],
+      "correctIndex": 0,
+      "explanation": "When an object is placed beyond the focal length of a convex lens, the lens converges the refracted rays to form a real, inverted image on the other side."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ray of white light passing through a glass prism separates into its component colours, a phenomenon known as",
+      "options": [
+        "polarization",
+        "diffraction only",
+        "reflection",
+        "dispersion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dispersion occurs because different wavelengths (colours) of light are refracted by slightly different amounts, spreading white light into a spectrum."
+    },
+    {
+      "subject": "Physics",
+      "text": "The image formed by a plane mirror is always",
+      "options": [
+        "virtual, upright, and the same size as the object",
+        "smaller than the object",
+        "magnified and real",
+        "real and inverted"
+      ],
+      "correctIndex": 0,
+      "explanation": "A plane mirror always produces a virtual (cannot be projected on a screen), laterally inverted, upright image identical in size to the object."
+    },
+    {
+      "subject": "Physics",
+      "text": "A simple microscope works on the principle of using a",
+      "options": [
+        "prism to disperse light into colours",
+        "single converging lens to produce a magnified, virtual image of a nearby object",
+        "plane mirror to reflect an image",
+        "concave mirror to focus distant objects"
+      ],
+      "correctIndex": 1,
+      "explanation": "A simple microscope (magnifying glass) uses one convex lens, with the object placed within its focal length to produce an enlarged, upright, virtual image."
+    },
+    {
+      "subject": "Physics",
+      "text": "A refracting astronomical telescope typically uses",
+      "options": [
+        "a single concave lens only",
+        "two converging lenses: an objective lens and an eyepiece lens",
+        "one convex lens and one plane mirror",
+        "two plane mirrors"
+      ],
+      "correctIndex": 1,
+      "explanation": "A basic refracting telescope has an objective lens that forms a real image of a distant object, magnified further by the eyepiece lens acting as a simple magnifier."
+    },
+    {
+      "subject": "Physics",
+      "text": "Electrostatics is the study of",
+      "options": [
+        "the flow of heat through conductors",
+        "electric charges at rest",
+        "magnetic fields only",
+        "electric charges in motion (current)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Electrostatics deals with stationary electric charges and the forces, fields, and potentials associated with them, as opposed to current electricity."
+    },
+    {
+      "subject": "Physics",
+      "text": "Like electric charges (e.g., two positive charges) placed near each other will",
+      "options": [
+        "neutralise each other completely",
+        "repel each other",
+        "have no effect on each other",
+        "attract each other"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coulomb's Law describes how like charges repel while unlike charges attract, a fundamental behaviour of electrostatic forces."
+    },
+    {
+      "subject": "Physics",
+      "text": "A capacitor is a device used mainly to",
+      "options": [
+        "store electric charge (and energy) in an electric field",
+        "generate electric current from mechanical motion",
+        "measure electric current directly",
+        "convert AC to DC"
+      ],
+      "correctIndex": 0,
+      "explanation": "A capacitor consists of two conducting plates separated by an insulator (dielectric), storing charge and energy when a potential difference is applied across it."
+    },
+    {
+      "subject": "Physics",
+      "text": "Ohm's Law states that the current flowing through a conductor is directly proportional to the potential difference across it, provided that",
+      "options": [
+        "temperature and other physical conditions remain constant",
+        "the current is alternating",
+        "the conductor is a semiconductor",
+        "the resistance is increasing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ohm's Law (V = IR) holds for ohmic conductors as long as physical conditions such as temperature remain unchanged during the measurement."
+    },
+    {
+      "subject": "Physics",
+      "text": "A current of 2 A flows through a resistor of resistance 5 ohms. What is the potential difference across the resistor?",
+      "options": [
+        "7 V",
+        "2.5 V",
+        "0.4 V",
+        "10 V"
+      ],
+      "correctIndex": 3,
+      "explanation": "Using V = IR: V = 2 x 5 = 10 volts."
+    },
+    {
+      "subject": "Physics",
+      "text": "When resistors are connected in series, the total resistance is",
+      "options": [
+        "equal to the average of the individual resistances",
+        "the sum of the individual resistances",
+        "always less than the smallest individual resistance",
+        "the reciprocal of the sum of reciprocals of individual resistances"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a series circuit, resistances simply add: Rtotal = R1 + R2 + R3 + ..., since the same current flows through each resistor in turn."
+    },
+    {
+      "subject": "Physics",
+      "text": "When resistors are connected in parallel, the reciprocal of the total resistance equals the",
+      "options": [
+        "sum of the individual resistances",
+        "sum of the reciprocals of the individual resistances",
+        "difference between the individual resistances",
+        "product of the individual resistances"
+      ],
+      "correctIndex": 1,
+      "explanation": "For parallel resistors: 1/Rtotal = 1/R1 + 1/R2 + ..., which always gives a total resistance smaller than the smallest individual resistor."
+    },
+    {
+      "subject": "Physics",
+      "text": "A magnetic field is produced around a straight, current-carrying conductor in a pattern of",
+      "options": [
+        "concentric circles around the wire",
+        "straight lines parallel to the wire",
+        "a uniform field identical to a bar magnet",
+        "no field at all unless the current is very large"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oersted's discovery showed that a current-carrying wire produces a magnetic field forming concentric circles around it, with direction given by the right-hand grip rule."
+    },
+    {
+      "subject": "Physics",
+      "text": "Electromagnetic induction is the process by which",
+      "options": [
+        "current flows through a conductor at absolute zero with no resistance",
+        "a magnet is created by passing current through a coil",
+        "a changing magnetic field induces an electromotive force (e.m.f.) in a nearby conductor",
+        "static charges build up on an insulator"
+      ],
+      "correctIndex": 2,
+      "explanation": "Faraday's Law of electromagnetic induction states that a changing magnetic flux through a circuit induces an e.m.f., the basis for generators and transformers."
+    },
+    {
+      "subject": "Physics",
+      "text": "A transformer works on the principle of",
+      "options": [
+        "electrostatic attraction between charged plates",
+        "mutual electromagnetic induction between two coils linked by a changing magnetic flux",
+        "chemical reactions in a battery",
+        "resistive heating of a wire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transformers use a changing current in a primary coil to produce a varying magnetic flux, which induces a corresponding e.m.f. in a secondary coil, enabling voltage step-up or step-down."
+    },
+    {
+      "subject": "Physics",
+      "text": "In Bohr's model of the atom, electrons orbit the nucleus in",
+      "options": [
+        "a single fixed orbit for all elements",
+        "orbits that constantly radiate energy and spiral inward",
+        "fixed, discrete energy levels (orbits) without radiating energy",
+        "continuously variable orbits at any energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bohr proposed that electrons occupy specific quantised energy levels, and only emit or absorb energy when jumping between these fixed levels, not while orbiting."
+    },
+    {
+      "subject": "Physics",
+      "text": "The photoelectric effect refers to the",
+      "options": [
+        "reflection of light off a polished metal surface",
+        "emission of light when a metal is heated",
+        "emission of electrons from a metal surface when light of sufficient frequency shines on it",
+        "absorption of electrons by a metal surface in the dark"
+      ],
+      "correctIndex": 2,
+      "explanation": "The photoelectric effect occurs when incident photons with energy above a metal's threshold frequency eject electrons from its surface, evidence for the particle nature of light."
+    },
+    {
+      "subject": "Physics",
+      "text": "X-rays are a form of",
+      "options": [
+        "mechanical waves requiring a medium",
+        "charged particles emitted from radioactive nuclei",
+        "high-frequency electromagnetic radiation",
+        "sound waves of very high pitch"
+      ],
+      "correctIndex": 2,
+      "explanation": "X-rays are electromagnetic waves with very short wavelength and high frequency, produced when fast-moving electrons are suddenly decelerated, as in an X-ray tube."
+    },
+    {
+      "subject": "Physics",
+      "text": "Radioactivity is the spontaneous process by which",
+      "options": [
+        "unstable atomic nuclei emit particles or radiation to become more stable",
+        "atoms absorb external radiation to become excited",
+        "molecules break apart due to heating alone",
+        "electrons are shared between two atoms"
+      ],
+      "correctIndex": 0,
+      "explanation": "Radioactive decay occurs when an unstable nucleus spontaneously emits alpha, beta, or gamma radiation, transforming into a more stable configuration."
+    },
+    {
+      "subject": "Physics",
+      "text": "In the equation F = kv², where F is force in newtons and v is velocity in m/s, what is the SI unit of the constant k?",
+      "options": [
+        "kg/m",
+        "kg·m",
+        "kg·s⁻¹",
+        "kg·m²"
+      ],
+      "correctIndex": 0,
+      "explanation": "k = F/v² = (kg m s⁻²)/(m² s⁻²) = kg/m, so k must carry units of kilograms per metre."
+    },
+    {
+      "subject": "Physics",
+      "text": "What is the dimension of impulse (the product of force and time)?",
+      "options": [
+        "MLT⁻²",
+        "ML²T⁻²",
+        "MLT⁻¹",
+        "ML⁻¹T⁻¹"
+      ],
+      "correctIndex": 2,
+      "explanation": "Impulse equals change in momentum, so its dimension is the same as momentum: mass x velocity = M x LT⁻¹ = MLT⁻¹."
+    },
+    {
+      "subject": "Physics",
+      "text": "For a simple pendulum, T = 2π√(l/g), where l is length and g is acceleration due to gravity. What is the dimension of √(l/g)?",
+      "options": [
+        "T²",
+        "LT⁻¹",
+        "T",
+        "L¹ᐟ²T"
+      ],
+      "correctIndex": 2,
+      "explanation": "l/g has dimension L/(LT⁻²) = T², so its square root has dimension T, consistent with T being a time period."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ball is projected horizontally from the top of a cliff 45 m high with a speed of 20 m/s. Taking g = 10 m/s², how long does it take to hit the ground?",
+      "options": [
+        "4.5 s",
+        "2 s",
+        "9 s",
+        "3 s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vertical motion only: h = ½gt², so 45 = ½(10)t², t² = 9, t = 3 s (horizontal speed does not affect fall time)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ball is projected horizontally from a cliff top with a speed of 20 m/s and takes 3 s to land. What horizontal distance (range) does it travel?",
+      "options": [
+        "45 m",
+        "60 m",
+        "20 m",
+        "80 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "Horizontal velocity is constant during projectile motion, so range = v x t = 20 x 3 = 60 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A projectile is launched at 30° to the horizontal with an initial speed of 40 m/s. Taking g = 10 m/s², calculate the maximum height reached.",
+      "options": [
+        "40 m",
+        "20 m",
+        "10 m",
+        "80 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vertical component u_y = 40 sin30° = 20 m/s. Maximum height H = u_y²/(2g) = 400/20 = 20 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A projectile is launched at 30° to the horizontal with an initial speed of 40 m/s. Taking g = 10 m/s², calculate its total time of flight.",
+      "options": [
+        "2 s",
+        "8 s",
+        "3.46 s",
+        "4 s"
+      ],
+      "correctIndex": 3,
+      "explanation": "u_y = 40 sin30° = 20 m/s. Time of flight T = 2u_y/g = 2(20)/10 = 4 s."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two masses, 3 kg and 5 kg, are connected by a light inextensible string over a frictionless pulley. Taking g = 10 m/s², calculate the acceleration of the system.",
+      "options": [
+        "1.25 m/s²",
+        "5 m/s²",
+        "10 m/s²",
+        "2.5 m/s²"
+      ],
+      "correctIndex": 3,
+      "explanation": "For an Atwood machine, a = (m2 - m1)g/(m1 + m2) = (5 - 3)(10)/(3 + 5) = 20/8 = 2.5 m/s²."
+    },
+    {
+      "subject": "Physics",
+      "text": "In an Atwood machine with masses 3 kg and 5 kg over a frictionless pulley (g = 10 m/s², acceleration = 2.5 m/s²), calculate the tension in the string.",
+      "options": [
+        "37.5 N",
+        "50 N",
+        "30 N",
+        "62.5 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using the lighter mass: T - m1g = m1a, so T = m1(g + a) = 3(10 + 2.5) = 37.5 N (also equals m2(g - a) = 5(7.5) = 37.5 N, confirming consistency)."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car of mass 1000 kg moves round a circular track of radius 50 m at a constant speed of 20 m/s. Calculate the centripetal force required.",
+      "options": [
+        "4000 N",
+        "400 N",
+        "8000 N",
+        "20000 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "Centripetal force F = mv²/r = 1000(20²)/50 = 1000(400)/50 = 8000 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 4 kg trolley moving at 6 m/s collides with a stationary 2 kg trolley and sticks to it. Calculate their common velocity just after collision.",
+      "options": [
+        "3 m/s",
+        "4 m/s",
+        "6 m/s",
+        "12 m/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "By conservation of momentum: m1u1 = (m1+m2)v, so v = (4 x 6)/(4+2) = 24/6 = 4 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 10 kg block rests on a horizontal surface where the coefficient of friction between the block and surface is 0.4. Taking g = 10 m/s², what minimum horizontal force is needed to just start the block moving?",
+      "options": [
+        "4 N",
+        "40 N",
+        "100 N",
+        "25 N"
+      ],
+      "correctIndex": 1,
+      "explanation": "The limiting frictional force is F = μmg = 0.4 x 10 x 10 = 40 N, the minimum applied force needed to overcome static friction."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car decelerates uniformly from 30 m/s to rest in 6 s. Calculate the distance it covers before stopping.",
+      "options": [
+        "180 m",
+        "45 m",
+        "90 m",
+        "15 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using s = (u+v)/2 x t = (30+0)/2 x 6 = 15 x 6 = 90 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A crane lifts a load of 500 kg through a height of 10 m in 25 s. Taking g = 10 m/s², calculate the power developed by the crane.",
+      "options": [
+        "5000 W",
+        "200 W",
+        "2000 W",
+        "20000 W"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work done = mgh = 500 x 10 x 10 = 50000 J. Power = W/t = 50000/25 = 2000 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "An inclined plane 5 m long rises to a height of 1 m. A force of 100 N pushes a load of 400 N up the incline at constant speed. Calculate the efficiency of the incline.",
+      "options": [
+        "125%",
+        "80%",
+        "20%",
+        "500%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Velocity ratio = length/height = 5/1 = 5. Mechanical advantage = load/effort = 400/100 = 4. Efficiency = (MA/VR) x 100 = (4/5) x 100 = 80%."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ball of mass 0.5 kg is dropped from a height of 20 m. Taking g = 10 m/s² and neglecting air resistance, calculate its velocity just before hitting the ground.",
+      "options": [
+        "200 m/s",
+        "10 m/s",
+        "14.1 m/s",
+        "20 m/s"
+      ],
+      "correctIndex": 3,
+      "explanation": "Using v² = 2gh: v² = 2(10)(20) = 400, so v = 20 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 0.5 kg ball is dropped from a height of 20 m (g = 10 m/s², air resistance negligible). Calculate its kinetic energy after it has fallen 10 m.",
+      "options": [
+        "50 J",
+        "100 J",
+        "25 J",
+        "10 J"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total mechanical energy = mgh = 0.5 x 10 x 20 = 100 J. At the halfway point, PE lost = mg(10) = 50 J, so KE gained = 50 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A pulley system has a velocity ratio of 3. An effort of 300 N raises a load of 600 N. Calculate the efficiency of the system.",
+      "options": [
+        "50%",
+        "66.7%",
+        "75%",
+        "90%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mechanical advantage = load/effort = 600/300 = 2. Efficiency = (MA/VR) x 100 = (2/3) x 100 = 66.7%."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 2000 kg car moving at 15 m/s is brought to rest over a distance of 50 m by a constant braking force. Calculate the magnitude of the braking force.",
+      "options": [
+        "9000 N",
+        "2250 N",
+        "4500 N",
+        "45000 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "KE lost = ½mv² = ½(2000)(15²) = 225000 J. Since this work is done by the braking force over 50 m, F = 225000/50 = 4500 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A pump raises 200 kg of water through a height of 15 m every 10 seconds. Taking g = 10 m/s², calculate the power of the pump.",
+      "options": [
+        "30000 W",
+        "300 W",
+        "20000 W",
+        "3000 W"
+      ],
+      "correctIndex": 3,
+      "explanation": "Work done per cycle = mgh = 200 x 10 x 15 = 30000 J in 10 s, so power = 30000/10 = 3000 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "A uniform, weightless lever of length 2 m is used to lift a load of 300 N placed 0.4 m from the pivot, with effort applied 1.6 m from the pivot on the other side. Calculate the effort required.",
+      "options": [
+        "120 N",
+        "300 N",
+        "1200 N",
+        "75 N"
+      ],
+      "correctIndex": 3,
+      "explanation": "By the principle of moments: load x load-arm = effort x effort-arm, so 300 x 0.4 = effort x 1.6, giving effort = 120/1.6 = 75 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A machine has a velocity ratio of 5 and an efficiency of 80%. Calculate the effort required to lift a load of 1000 N using this machine.",
+      "options": [
+        "250 N",
+        "200 N",
+        "800 N",
+        "1250 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "Efficiency = (MA/VR) x 100, so MA = 0.8 x 5 = 4. Effort = load/MA = 1000/4 = 250 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A cyclist free-wheels down a hill of height 45 m with negligible energy losses. Taking g = 10 m/s², calculate the speed gained.",
+      "options": [
+        "30 m/s",
+        "900 m/s",
+        "21.2 m/s",
+        "15 m/s"
+      ],
+      "correctIndex": 0,
+      "explanation": "By energy conservation, v² = 2gh = 2(10)(45) = 900, so v = 30 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wire of original length 2 m and cross-sectional area 1 x 10⁻⁶ m² extends by 1 mm under a load of 100 N. Calculate the Young's modulus of the wire material.",
+      "options": [
+        "2 x 10¹¹ Pa",
+        "2 x 10⁸ Pa",
+        "5 x 10⁴ Pa",
+        "2 x 10⁵ Pa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stress = F/A = 100/(1x10⁻⁶) = 1x10⁸ Pa. Strain = e/L = 0.001/2 = 5x10⁻⁴. Young's modulus = stress/strain = 1x10⁸/5x10⁻⁴ = 2x10¹¹ Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A spring with force constant 200 N/m is stretched by 0.1 m. Calculate the elastic potential energy stored in the spring.",
+      "options": [
+        "1 J",
+        "20 J",
+        "0.1 J",
+        "2 J"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elastic PE = ½ke² = ½(200)(0.1)² = ½(200)(0.01) = 1 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A uniform plank of length 6 m and weight 120 N is pivoted at its centre. A boy weighing 300 N stands 1 m from the pivot on one side. How far from the pivot must a 200 N girl stand on the other side to balance the plank?",
+      "options": [
+        "2 m",
+        "0.67 m",
+        "1.5 m",
+        "3 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since the plank is uniform and pivoted at its centre, its own weight produces no net moment. Balancing moments: 300 x 1 = 200 x d, so d = 300/200 = 1.5 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "Three coplanar forces act at a point in equilibrium: Q = 30 N and R = 40 N act at right angles to each other, and a third force P balances them. Calculate the magnitude of P.",
+      "options": [
+        "70 N",
+        "50 N",
+        "10 N",
+        "1200 N"
+      ],
+      "correctIndex": 1,
+      "explanation": "For equilibrium, P must be equal in magnitude and opposite in direction to the resultant of Q and R: resultant = √(30²+40²) = √2500 = 50 N, so P = 50 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wire of diameter 2 mm is subjected to a stretching force of 157 N. Calculate the stress in the wire.",
+      "options": [
+        "5 x 10⁷ Pa",
+        "5 x 10⁴ Pa",
+        "1.57 x 10⁸ Pa",
+        "2 x 10⁷ Pa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Radius = 1 mm = 1x10⁻³ m, so area = πr² = π(1x10⁻³)² ≈ 3.14x10⁻⁶ m². Stress = F/A = 157/3.14x10⁻⁶ ≈ 5x10⁷ Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A uniform ladder of length 5 m leans against a smooth vertical wall with its foot 3 m from the base of the wall on rough ground. Calculate the angle the ladder makes with the ground.",
+      "options": [
+        "36.9°",
+        "60°",
+        "45°",
+        "53.1°"
+      ],
+      "correctIndex": 3,
+      "explanation": "The ladder, wall, and ground form a 3-4-5 right triangle. The angle with the ground has adjacent = 3 m and hypotenuse = 5 m, so cosθ = 3/5, giving θ = 53.1°."
+    },
+    {
+      "subject": "Physics",
+      "text": "A solid weighs 5 N in air and 3 N when fully submerged in water. Calculate the upthrust on the solid.",
+      "options": [
+        "3 N",
+        "2 N",
+        "5 N",
+        "8 N"
+      ],
+      "correctIndex": 1,
+      "explanation": "Upthrust = apparent loss of weight = weight in air - weight in water = 5 - 3 = 2 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A solid weighs 5 N in air and 3 N when fully submerged in water. Calculate the relative density of the solid.",
+      "options": [
+        "1.67",
+        "0.4",
+        "2",
+        "2.5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Relative density = weight in air / upthrust = 5 / (5-3) = 5/2 = 2.5."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the pressure at a depth of 10 m in water (density = 1000 kg/m³, g = 10 m/s²), ignoring atmospheric pressure.",
+      "options": [
+        "1 x 10⁴ Pa",
+        "1 x 10⁶ Pa",
+        "10 Pa",
+        "1 x 10⁵ Pa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Liquid pressure P = hρg = 10 x 1000 x 10 = 100000 Pa = 1 x 10⁵ Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A diver is 10 m below the surface of water (density 1000 kg/m³, g = 10 m/s²). If atmospheric pressure is 1.0 x 10⁵ Pa, calculate the total pressure experienced by the diver.",
+      "options": [
+        "2 x 10⁵ Pa",
+        "1 x 10⁵ Pa",
+        "3 x 10⁵ Pa",
+        "1.5 x 10⁵ Pa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total pressure = atmospheric pressure + liquid pressure = 1x10⁵ + (10x1000x10) = 1x10⁵ + 1x10⁵ = 2x10⁵ Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A block of wood of density 0.6 g/cm³ and volume 200 cm³ floats in water of density 1.0 g/cm³. Calculate the volume of the block submerged.",
+      "options": [
+        "80 cm³",
+        "200 cm³",
+        "120 cm³",
+        "60 cm³"
+      ],
+      "correctIndex": 2,
+      "explanation": "For floating, weight = upthrust, so fraction submerged = density of object/density of liquid = 0.6/1.0 = 0.6. Volume submerged = 0.6 x 200 = 120 cm³."
+    },
+    {
+      "subject": "Physics",
+      "text": "In a hydraulic press, the small piston has an area of 5 cm² and the large piston has an area of 100 cm². If a force of 20 N is applied to the small piston, calculate the force exerted on the large piston.",
+      "options": [
+        "400 N",
+        "20 N",
+        "2000 N",
+        "100 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Pascal's Principle, pressure is transmitted equally: F1/A1 = F2/A2, so F2 = F1(A2/A1) = 20(100/5) = 400 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A mercury thermometer has its ice point mark at 2 cm and its steam point mark at 22 cm on the stem. What temperature is indicated by a mercury level at 8 cm?",
+      "options": [
+        "40°C",
+        "30°C",
+        "25°C",
+        "60°C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Temperature = [(length - ice point)/(steam point - ice point)] x 100 = [(8-2)/(22-2)] x 100 = (6/20) x 100 = 30°C."
+    },
+    {
+      "subject": "Physics",
+      "text": "A gas has a volume of 300 cm³ at 27°C. Calculate its volume at 127°C if the pressure is kept constant.",
+      "options": [
+        "300 cm³",
+        "127 cm³",
+        "400 cm³",
+        "225 cm³"
+      ],
+      "correctIndex": 2,
+      "explanation": "By Charles's Law, V1/T1 = V2/T2 (in kelvin): 300/300 = V2/400, so V2 = 300 x 400/300 = 400 cm³."
+    },
+    {
+      "subject": "Physics",
+      "text": "A gas occupies 500 cm³ at a pressure of 2 x 10⁵ Pa. Calculate its volume when the pressure increases to 5 x 10⁵ Pa at constant temperature.",
+      "options": [
+        "1250 cm³",
+        "500 cm³",
+        "200 cm³",
+        "125 cm³"
+      ],
+      "correctIndex": 2,
+      "explanation": "By Boyle's Law, P1V1 = P2V2: V2 = (2x10⁵ x 500)/(5x10⁵) = 200 cm³."
+    },
+    {
+      "subject": "Physics",
+      "text": "A fixed mass of gas at 27°C has a pressure of 1.0 x 10⁵ Pa in a sealed rigid container. Calculate the pressure when the temperature rises to 127°C.",
+      "options": [
+        "1 x 10⁵ Pa",
+        "4 x 10⁵ Pa",
+        "7.5 x 10⁴ Pa",
+        "1.33 x 10⁵ Pa"
+      ],
+      "correctIndex": 3,
+      "explanation": "By the Pressure Law, P1/T1 = P2/T2 (kelvin): P2 = P1(T2/T1) = 1x10⁵ x (400/300) = 1.33 x 10⁵ Pa."
+    },
+    {
+      "subject": "Physics",
+      "text": "A gas at pressure 1 x 10⁵ Pa, volume 400 cm³, and temperature 300 K is changed to a pressure of 2 x 10⁵ Pa and temperature 600 K. Calculate the new volume.",
+      "options": [
+        "400 cm³",
+        "200 cm³",
+        "800 cm³",
+        "100 cm³"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using the combined gas law P1V1/T1 = P2V2/T2: V2 = (P1V1T2)/(T1P2) = (1x10⁵ x 400 x 600)/(300 x 2x10⁵) = 400 cm³."
+    },
+    {
+      "subject": "Physics",
+      "text": "A perfect black body is best described as a body that",
+      "options": [
+        "absorbs all radiation incident on it and, for its temperature, emits the maximum possible radiation",
+        "reflects all radiation incident on it",
+        "transmits all radiation incident on it without absorption",
+        "absorbs only visible light and reflects the rest"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perfect black body is a theoretical ideal absorber and emitter of thermal radiation, absorbing all incident radiation and radiating the maximum possible amount for its temperature."
+    },
+    {
+      "subject": "Physics",
+      "text": "A metal rod of length 2 m and cross-sectional area 0.01 m² has its ends kept at 100°C and 20°C. If the thermal conductivity of the metal is 400 W/mK, calculate the rate of heat conduction through the rod.",
+      "options": [
+        "320 W",
+        "80 W",
+        "640 W",
+        "160 W"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rate of heat flow = kA(ΔT)/L = 400 x 0.01 x 80/2 = (400 x 0.01 x 80)/2 = 320/2 = 160 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "Convection currents are set up in a room heated by a radiator mainly because",
+      "options": [
+        "warm air near the radiator becomes less dense and rises, being replaced by cooler, denser air",
+        "cold air sinks and heats up purely by compression",
+        "heat travels in straight lines from the radiator without needing a medium",
+        "warm air near the radiator becomes denser and sinks to the floor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Convection relies on density differences: air heated by the radiator expands, becomes less dense, and rises, while cooler denser air flows in to replace it, setting up a circulating current."
+    },
+    {
+      "subject": "Physics",
+      "text": "A black surface and a white surface at the same temperature are placed in sunlight. The black surface becomes hotter mainly because black surfaces are",
+      "options": [
+        "better conductors of heat than white surfaces",
+        "better reflectors of radiation than white surfaces",
+        "better absorbers (and emitters) of radiant heat than white or shiny surfaces",
+        "surfaces with a lower specific heat capacity than white surfaces"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dull black surfaces absorb (and emit) thermal radiation much more effectively than white or shiny surfaces, which reflect more radiation, so the black surface heats up faster."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the quantity of heat required to convert 0.5 kg of water at 100°C completely into steam at 100°C, given the specific latent heat of vaporization of water is 2.26 x 10⁶ J/kg.",
+      "options": [
+        "2.26 x 10⁶ J",
+        "4.52 x 10⁵ J",
+        "1.13 x 10⁵ J",
+        "1.13 x 10⁶ J"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heat required Q = mL = 0.5 x 2.26x10⁶ = 1.13 x 10⁶ J."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the total heat required to convert 2 kg of ice at 0°C completely to water at 0°C, given the specific latent heat of fusion of ice is 3.36 x 10⁵ J/kg.",
+      "options": [
+        "3.36 x 10⁵ J",
+        "6.72 x 10⁵ J",
+        "1.68 x 10⁵ J",
+        "1.344 x 10⁶ J"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat required Q = mL = 2 x 3.36x10⁵ = 6.72 x 10⁵ J."
+    },
+    {
+      "subject": "Physics",
+      "text": "200 g of water at 80°C is mixed with 300 g of water at 20°C. Assuming no heat is lost, calculate the final temperature of the mixture.",
+      "options": [
+        "50°C",
+        "44°C",
+        "40°C",
+        "36°C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat lost by hot water = heat gained by cold water: 200(80-Tf) = 300(Tf-20). Solving: 16000-200Tf = 300Tf-6000, so 22000 = 500Tf, Tf = 44°C."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 0.1 kg piece of metal at 100°C is dropped into 0.2 kg of water at 20°C in a calorimeter of negligible heat capacity. If the final temperature is 25°C, calculate the specific heat capacity of the metal (specific heat capacity of water = 4200 J/kgK).",
+      "options": [
+        "4200 J/kgK",
+        "560 J/kgK",
+        "280 J/kgK",
+        "1120 J/kgK"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat lost by metal = heat gained by water: 0.1 x c x (100-25) = 0.2 x 4200 x (25-20). So 7.5c = 4200, c = 4200/7.5 = 560 J/kgK."
+    },
+    {
+      "subject": "Physics",
+      "text": "Evaporation differs from boiling mainly in that evaporation",
+      "options": [
+        "occurs at any temperature and only at the surface of the liquid, unlike boiling which occurs at a fixed temperature throughout the liquid",
+        "occurs only at the boiling point, throughout the liquid",
+        "requires no input of energy whatsoever",
+        "can only occur inside a sealed vacuum flask"
+      ],
+      "correctIndex": 0,
+      "explanation": "Evaporation is a surface phenomenon that can occur at any temperature, while boiling occurs throughout the bulk of the liquid only at its fixed boiling point."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the total heat needed to convert 1 kg of ice at -10°C to water at 0°C, given specific heat capacity of ice = 2100 J/kgK and specific latent heat of fusion of ice = 336000 J/kg.",
+      "options": [
+        "3.36 x 10⁵ J",
+        "3.57 x 10⁵ J",
+        "2.1 x 10⁴ J",
+        "3.15 x 10⁵ J"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat to warm ice to 0°C: Q1 = mcΔT = 1x2100x10 = 21000 J. Heat to melt ice: Q2 = mL = 1x336000 = 336000 J. Total = 21000+336000 = 357000 J = 3.57x10⁵ J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wave has a frequency of 500 Hz and a wavelength of 0.68 m. Calculate its speed.",
+      "options": [
+        "500.68 m/s",
+        "0.00136 m/s",
+        "340 m/s",
+        "850 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wave speed v = fλ = 500 x 0.68 = 340 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "Radio waves travel at the speed of light, 3 x 10⁸ m/s. Calculate the wavelength of a radio wave of frequency 1 x 10⁶ Hz (1 MHz).",
+      "options": [
+        "3 m",
+        "3 x 10¹⁴ m",
+        "300 m",
+        "0.003 m"
+      ],
+      "correctIndex": 2,
+      "explanation": "λ = v/f = (3x10⁸)/(1x10⁶) = 300 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "A string of length 0.5 m, vibrating in its fundamental mode, produces a note of frequency 320 Hz. Calculate the speed of the wave on the string.",
+      "options": [
+        "320 m/s",
+        "160 m/s",
+        "640 m/s",
+        "32 m/s"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the fundamental mode, the string length equals half a wavelength, so λ = 2L = 1.0 m. Speed v = fλ = 320 x 1.0 = 320 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wave has a period of 0.02 s. Calculate its frequency.",
+      "options": [
+        "0.02 Hz",
+        "20 Hz",
+        "2 Hz",
+        "50 Hz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frequency f = 1/T = 1/0.02 = 50 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two coherent sources produce waves of wavelength 4 cm. Calculate the minimum path difference required for destructive interference.",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "1 cm",
+        "8 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Destructive interference first occurs when the path difference equals half a wavelength: λ/2 = 4/2 = 2 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed 30 cm from a concave mirror of focal length 10 cm. Calculate the image distance.",
+      "options": [
+        "7.5 cm",
+        "15 cm",
+        "20 cm",
+        "45 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Using 1/v = 1/f - 1/u = 1/10 - 1/30 = 3/30 - 1/30 = 2/30 = 1/15, so v = 15 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed 30 cm from a concave mirror, forming an image 15 cm from the mirror. Calculate the linear magnification of the image.",
+      "options": [
+        "2",
+        "0.5",
+        "1.5",
+        "0.33"
+      ],
+      "correctIndex": 1,
+      "explanation": "Magnification m = v/u = 15/30 = 0.5, indicating the image is diminished compared to the object."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed 20 cm in front of a convex mirror of focal length 15 cm (f = -15 cm by convention). Describe the image formed.",
+      "options": [
+        "real, inverted, and located about 8.6 cm in front of the mirror",
+        "virtual and located 60 cm behind the mirror",
+        "real and located 20 cm in front of the mirror",
+        "virtual, upright, and located about 8.6 cm behind the mirror"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/v = 1/f - 1/u = -1/15 - 1/20 = -7/60, so v ≈ -8.57 cm. The negative sign shows the image is virtual, upright, and behind the mirror."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two plane mirrors are inclined at 60° to each other. Calculate the number of images formed of an object placed between them.",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Number of images n = (360/θ) - 1 = (360/60) - 1 = 6 - 1 = 5."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed at a distance equal to twice the focal length (2f) from a concave mirror. What describes the image formed?",
+      "options": [
+        "virtual, upright, and magnified, on the same side as the object",
+        "real, inverted, the same size as the object, and located at 2f",
+        "real, inverted, magnified, and located beyond 2f",
+        "virtual, diminished, and located between the mirror and the focus"
+      ],
+      "correctIndex": 1,
+      "explanation": "When an object is placed at the centre of curvature (2f) of a concave mirror, the image formed is real, inverted, the same size as the object, and also located at 2f."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ray of light passes from air into glass of refractive index 1.5 at an angle of incidence of 30°. Calculate the angle of refraction.",
+      "options": [
+        "19.5°",
+        "45°",
+        "20°",
+        "30°"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Snell's Law, sin r = sin30°/1.5 = 0.5/1.5 = 0.333, so r = sin⁻¹(0.333) ≈ 19.5°."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the critical angle for a glass-air boundary if the refractive index of the glass is 1.5.",
+      "options": [
+        "48.2°",
+        "60°",
+        "33.7°",
+        "41.8°"
+      ],
+      "correctIndex": 3,
+      "explanation": "Critical angle C satisfies sinC = 1/n = 1/1.5 = 0.667, so C = sin⁻¹(0.667) ≈ 41.8°."
+    },
+    {
+      "subject": "Physics",
+      "text": "A coin at the bottom of a beaker of water (real depth 20 cm) appears to be at a depth of 15 cm when viewed from directly above. Calculate the refractive index of the water.",
+      "options": [
+        "0.75",
+        "1.5",
+        "1.33",
+        "2.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "Refractive index = real depth/apparent depth = 20/15 = 1.33."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed 15 cm from a converging lens of focal length 10 cm. Calculate the image distance.",
+      "options": [
+        "30 cm",
+        "6 cm",
+        "25 cm",
+        "50 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using 1/v = 1/f - 1/u = 1/10 - 1/15 = 3/30 - 2/30 = 1/30, so v = 30 cm."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object placed 15 cm from a converging lens of focal length 10 cm forms an image 30 cm from the lens. Calculate the linear magnification.",
+      "options": [
+        "0.5",
+        "3",
+        "2",
+        "1.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "Magnification m = v/u = 30/15 = 2, so the image is twice the size of the object."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the power of a converging lens of focal length 25 cm.",
+      "options": [
+        "0.25 D",
+        "4 D",
+        "25 D",
+        "40 D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Power P = 1/f, with f in metres: f = 0.25 m, so P = 1/0.25 = 4 dioptres."
+    },
+    {
+      "subject": "Physics",
+      "text": "Total internal reflection occurs at a boundary between a denser and a less dense medium when the angle of incidence in the denser medium",
+      "options": [
+        "is exactly equal to zero",
+        "exceeds the critical angle for that pair of media",
+        "is less than the critical angle for that pair of media",
+        "occurs only when light travels from a less dense to a denser medium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total internal reflection happens only when light travels from a denser to a less dense medium and the angle of incidence exceeds the critical angle, so no light is transmitted."
+    },
+    {
+      "subject": "Physics",
+      "text": "An object is placed 20 cm from a diverging (concave) lens of focal length 10 cm (f = -10 cm by convention). Describe the image formed.",
+      "options": [
+        "real and located 6.67 cm on the opposite side of the lens",
+        "virtual and located 20 cm from the lens",
+        "virtual and located about 6.67 cm from the lens, on the same side as the object",
+        "real and located 13.3 cm from the lens"
+      ],
+      "correctIndex": 2,
+      "explanation": "1/v = 1/f - 1/u = -1/10 - 1/20 = -3/20, so v ≈ -6.67 cm. The negative sign shows a virtual image on the same side as the object, as expected for a diverging lens."
+    },
+    {
+      "subject": "Physics",
+      "text": "In a resonance tube experiment (closed pipe), the first resonance occurs when the air column length is 17 cm, using a tuning fork of frequency 500 Hz. Neglecting end correction, calculate the speed of sound in air.",
+      "options": [
+        "170 m/s",
+        "680 m/s",
+        "340 m/s",
+        "85 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "For the first resonance in a closed pipe, the air column length equals a quarter wavelength: λ/4 = 17 cm, so λ = 68 cm = 0.68 m. Speed v = fλ = 500 x 0.68 = 340 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "An open pipe of length 0.5 m resonates at its fundamental frequency. If the speed of sound in air is 340 m/s, calculate the fundamental frequency.",
+      "options": [
+        "340 Hz",
+        "170 Hz",
+        "680 Hz",
+        "85 Hz"
+      ],
+      "correctIndex": 0,
+      "explanation": "For an open pipe, the fundamental wavelength is λ = 2L = 1.0 m. Frequency f = v/λ = 340/1.0 = 340 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "A closed pipe of length 0.25 m resonates at its fundamental frequency, with the speed of sound in air being 340 m/s. Calculate the fundamental frequency.",
+      "options": [
+        "680 Hz",
+        "340 Hz",
+        "170 Hz",
+        "85 Hz"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a closed pipe, the fundamental wavelength is λ = 4L = 4 x 0.25 = 1.0 m. Frequency f = v/λ = 340/1.0 = 340 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "A car horn emits sound at 500 Hz as the car approaches a stationary observer at 34 m/s. If the speed of sound is 340 m/s, calculate the apparent frequency heard by the observer.",
+      "options": [
+        "454.5 Hz",
+        "555.6 Hz",
+        "500 Hz",
+        "600 Hz"
+      ],
+      "correctIndex": 1,
+      "explanation": "For an approaching source, f' = f x v/(v - vs) = 500 x 340/(340-34) = 500 x 340/306 ≈ 555.6 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. Calculate the beat frequency heard.",
+      "options": [
+        "258 Hz",
+        "516 Hz",
+        "2 Hz",
+        "4 Hz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Beat frequency equals the difference between the two frequencies: 260 - 256 = 4 Hz."
+    },
+    {
+      "subject": "Physics",
+      "text": "The speed of sound in air at 0°C is 332 m/s and increases by about 0.6 m/s for every 1°C rise in temperature. Calculate the speed of sound at 25°C.",
+      "options": [
+        "347 m/s",
+        "332 m/s",
+        "357 m/s",
+        "340 m/s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed at 25°C = 332 + (0.6 x 25) = 332 + 15 = 347 m/s."
+    },
+    {
+      "subject": "Physics",
+      "text": "A ship sends a sonar pulse that returns after 4 seconds. If the speed of sound in water is 1500 m/s, calculate the depth of the sea at that point.",
+      "options": [
+        "6000 m",
+        "3000 m",
+        "1500 m",
+        "750 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total distance travelled by the pulse (down and back) = speed x time = 1500 x 4 = 6000 m, so depth = 6000/2 = 3000 m."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two point charges of +2 x 10⁻⁶ C and +3 x 10⁻⁶ C are separated by 0.3 m in air. Using k = 9 x 10⁹ Nm²/C², calculate the electrostatic force between them.",
+      "options": [
+        "0.06 N",
+        "6 N",
+        "0.6 N",
+        "1.2 N"
+      ],
+      "correctIndex": 2,
+      "explanation": "F = kq1q2/r² = (9x10⁹ x 2x10⁻⁶ x 3x10⁻⁶)/0.3² = (9x10⁹ x 6x10⁻¹²)/0.09 = 0.054/0.09 = 0.6 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the electric field intensity at a point 0.2 m from a point charge of 4 x 10⁻⁶ C in vacuum, given k = 9 x 10⁹ Nm²/C².",
+      "options": [
+        "9 x 10⁴ N/C",
+        "3.6 x 10⁴ N/C",
+        "9 x 10⁵ N/C",
+        "1.8 x 10⁶ N/C"
+      ],
+      "correctIndex": 2,
+      "explanation": "E = kq/r² = (9x10⁹ x 4x10⁻⁶)/0.2² = (3.6x10⁴)/0.04 = 9 x 10⁵ N/C."
+    },
+    {
+      "subject": "Physics",
+      "text": "A capacitor of capacitance 5 μF is connected to a 12 V battery. Calculate the charge stored on the capacitor.",
+      "options": [
+        "6 μC",
+        "600 μC",
+        "60 μC",
+        "2.4 μC"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charge Q = CV = 5μF x 12V = 60 μC."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the energy stored in a 10 μF capacitor charged to a potential difference of 100 V.",
+      "options": [
+        "0.5 J",
+        "1 J",
+        "5 J",
+        "0.05 J"
+      ],
+      "correctIndex": 3,
+      "explanation": "Energy E = ½CV² = ½(10x10⁻⁶)(100²) = ½(10x10⁻⁶)(10000) = ½(0.1) = 0.05 J."
+    },
+    {
+      "subject": "Physics",
+      "text": "Resistors of 4 Ω and 6 Ω are connected in parallel, and this combination is connected in series with a 2 Ω resistor. Calculate the total resistance of the circuit.",
+      "options": [
+        "12 Ω",
+        "4.4 Ω",
+        "2.4 Ω",
+        "6.4 Ω"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parallel combination: (4x6)/(4+6) = 24/10 = 2.4 Ω. Adding the series resistor: total = 2.4 + 2 = 4.4 Ω."
+    },
+    {
+      "subject": "Physics",
+      "text": "A circuit has a total resistance of 4.4 Ω and is connected to an 8.8 V battery. Calculate the total current drawn from the battery.",
+      "options": [
+        "4 A",
+        "2 A",
+        "0.5 A",
+        "1 A"
+      ],
+      "correctIndex": 1,
+      "explanation": "By Ohm's Law, I = V/R = 8.8/4.4 = 2 A."
+    },
+    {
+      "subject": "Physics",
+      "text": "A 12 Ω resistor carries a current of 3 A. Calculate the power dissipated in the resistor.",
+      "options": [
+        "36 W",
+        "4 W",
+        "108 W",
+        "324 W"
+      ],
+      "correctIndex": 2,
+      "explanation": "Power P = I²R = 3² x 12 = 9 x 12 = 108 W."
+    },
+    {
+      "subject": "Physics",
+      "text": "An electric heater rated 2000 W operates for 3 hours. Calculate the electrical energy consumed in kilowatt-hours.",
+      "options": [
+        "2 kWh",
+        "600 kWh",
+        "0.6 kWh",
+        "6 kWh"
+      ],
+      "correctIndex": 3,
+      "explanation": "Energy = power x time = 2 kW x 3 h = 6 kWh."
+    },
+    {
+      "subject": "Physics",
+      "text": "A battery of e.m.f. 12 V and internal resistance 0.5 Ω is connected to an external resistor of 5.5 Ω. Calculate the current flowing in the circuit.",
+      "options": [
+        "2 A",
+        "2.18 A",
+        "24 A",
+        "1.2 A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total resistance = external + internal = 5.5 + 0.5 = 6.0 Ω. Current I = E/(R+r) = 12/6 = 2 A."
+    },
+    {
+      "subject": "Physics",
+      "text": "A battery of e.m.f. 12 V and internal resistance 0.5 Ω delivers a current of 2 A through an external circuit. Calculate the terminal potential difference of the battery.",
+      "options": [
+        "12 V",
+        "11 V",
+        "10 V",
+        "1 V"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terminal p.d. = E - Ir = 12 - (2 x 0.5) = 12 - 1 = 11 V."
+    },
+    {
+      "subject": "Physics",
+      "text": "Three identical cells, each of e.m.f. 1.5 V and internal resistance 0.2 Ω, are connected in series to an external resistor of 5.4 Ω. Calculate the current in the circuit.",
+      "options": [
+        "0.83 A",
+        "1.5 A",
+        "0.75 A",
+        "7.5 A"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total e.m.f. = 3 x 1.5 = 4.5 V. Total internal resistance = 3 x 0.2 = 0.6 Ω. Total resistance = 5.4 + 0.6 = 6.0 Ω. Current I = 4.5/6.0 = 0.75 A."
+    },
+    {
+      "subject": "Physics",
+      "text": "Two identical cells, each of e.m.f. 2 V and internal resistance 1 Ω, are connected in parallel to an external resistance of 3 Ω. Calculate the current through the external resistor.",
+      "options": [
+        "0.57 A",
+        "1.14 A",
+        "0.67 A",
+        "2 A"
+      ],
+      "correctIndex": 0,
+      "explanation": "For identical cells in parallel, the effective e.m.f. remains 2 V while the effective internal resistance is halved to 0.5 Ω. Total resistance = 3 + 0.5 = 3.5 Ω, so I = 2/3.5 ≈ 0.57 A."
+    },
+    {
+      "subject": "Physics",
+      "text": "A wire of length 2 m and cross-sectional area 0.5 x 10⁻⁶ m² has a resistance of 4 Ω. Calculate the resistivity of the material.",
+      "options": [
+        "2 x 10⁻⁶ Ω·m",
+        "4 x 10⁻⁶ Ω·m",
+        "1 x 10⁻⁶ Ω·m",
+        "5 x 10⁻⁷ Ω·m"
+      ],
+      "correctIndex": 2,
+      "explanation": "Resistivity ρ = RA/L = (4 x 0.5x10⁻⁶)/2 = (2x10⁻⁶)/2 = 1 x 10⁻⁶ Ω·m."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the resistance of an electric bulb rated 60 W, 120 V.",
+      "options": [
+        "120 Ω",
+        "60 Ω",
+        "480 Ω",
+        "240 Ω"
+      ],
+      "correctIndex": 3,
+      "explanation": "Using P = V²/R, R = V²/P = 120²/60 = 14400/60 = 240 Ω."
+    },
+    {
+      "subject": "Physics",
+      "text": "A straight conductor of length 0.5 m carrying a current of 4 A is placed perpendicular to a magnetic field of flux density 0.2 T. Calculate the force on the conductor.",
+      "options": [
+        "0.4 N",
+        "0.1 N",
+        "2 N",
+        "0.8 N"
+      ],
+      "correctIndex": 0,
+      "explanation": "Force F = BIL = 0.2 x 4 x 0.5 = 0.4 N."
+    },
+    {
+      "subject": "Physics",
+      "text": "A coil of 200 turns experiences a change in magnetic flux from 0.02 Wb to 0.05 Wb in 0.5 s. Calculate the average induced e.m.f.",
+      "options": [
+        "12 V",
+        "6 V",
+        "0.06 V",
+        "3 V"
+      ],
+      "correctIndex": 0,
+      "explanation": "By Faraday's Law, e.m.f. = N(ΔΦ/Δt) = 200 x (0.05-0.02)/0.5 = 200 x 0.06 = 12 V."
+    },
+    {
+      "subject": "Physics",
+      "text": "A step-up transformer has 100 turns on the primary coil and 500 turns on the secondary coil. If the primary voltage is 240 V, calculate the secondary voltage, assuming 100% efficiency.",
+      "options": [
+        "48 V",
+        "240 V",
+        "1200 V",
+        "2400 V"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vs/Vp = Ns/Np, so Vs = Vp(Ns/Np) = 240 x (500/100) = 240 x 5 = 1200 V."
+    },
+    {
+      "subject": "Physics",
+      "text": "A transformer with primary voltage 240 V and secondary voltage 1200 V operates at 100% efficiency. If the secondary current is 2 A, calculate the primary current.",
+      "options": [
+        "0.4 A",
+        "2 A",
+        "50 A",
+        "10 A"
+      ],
+      "correctIndex": 3,
+      "explanation": "By conservation of power (100% efficiency), VpIp = VsIs, so Ip = VsIs/Vp = (1200 x 2)/240 = 2400/240 = 10 A."
+    },
+    {
+      "subject": "Physics",
+      "text": "Calculate the force experienced by an electron moving at 2 x 10⁶ m/s perpendicular to a magnetic field of flux density 0.5 T. (Charge on electron = 1.6 x 10⁻¹⁹ C)",
+      "options": [
+        "1.6 x 10⁻¹⁹ N",
+        "3.2 x 10⁻¹³ N",
+        "8 x 10⁻¹⁴ N",
+        "1.6 x 10⁻¹³ N"
+      ],
+      "correctIndex": 3,
+      "explanation": "F = qvB = (1.6x10⁻¹⁹)(2x10⁶)(0.5) = (3.2x10⁻¹³)(0.5) = 1.6 x 10⁻¹³ N."
+    },
+    {
+      "subject": "Physics",
+      "text": "Lenz's Law states that the direction of an induced current is always such that it",
+      "options": [
+        "aids the change in magnetic flux that produced it",
+        "is always in the same direction as the applied magnetic field",
+        "has no definite direction and varies randomly",
+        "opposes the change in magnetic flux that produced it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lenz's Law, a consequence of energy conservation, states that an induced current flows in a direction that opposes the very change in flux that generated it."
+    },
+    {
+      "subject": "Physics",
+      "text": "The threshold frequency of a metal surface is 5 x 10¹⁴ Hz. Calculate the maximum kinetic energy of photoelectrons emitted when light of frequency 8 x 10¹⁴ Hz is incident on it. (h = 6.6 x 10⁻³⁴ Js)",
+      "options": [
+        "5.28 x 10⁻¹⁹ J",
+        "3.3 x 10⁻¹⁹ J",
+        "1.98 x 10⁻²⁰ J",
+        "1.98 x 10⁻¹⁹ J"
+      ],
+      "correctIndex": 3,
+      "explanation": "Maximum KE = h(f - f0) = 6.6x10⁻³⁴ x (8x10¹⁴ - 5x10¹⁴) = 6.6x10⁻³⁴ x 3x10¹⁴ = 1.98 x 10⁻¹⁹ J."
+    },
+    {
+      "subject": "Physics",
+      "text": "A radioactive sample has a half-life of 8 days. Calculate the fraction of the original sample remaining after 24 days.",
+      "options": [
+        "1/4",
+        "1/8",
+        "1/16",
+        "3/8"
+      ],
+      "correctIndex": 1,
+      "explanation": "Number of half-lives elapsed = 24/8 = 3. Fraction remaining = (1/2)³ = 1/8."
+    },
+    {
+      "subject": "Physics",
+      "text": "A radioactive isotope has an initial mass of 80 g and a half-life of 10 years. Calculate the mass remaining after 40 years.",
+      "options": [
+        "10 g",
+        "20 g",
+        "5 g",
+        "2.5 g"
+      ],
+      "correctIndex": 2,
+      "explanation": "Number of half-lives = 40/10 = 4. Remaining mass = 80 x (1/2)⁴ = 80/16 = 5 g."
+    },
+    {
+      "subject": "Physics",
+      "text": "When a nucleus of uranium-238 (92 protons) emits an alpha particle, what are the atomic number and mass number of the resulting daughter nucleus?",
+      "options": [
+        "94 protons and mass number 234",
+        "90 protons and mass number 236",
+        "92 protons and mass number 234",
+        "90 protons and mass number 234"
+      ],
+      "correctIndex": 3,
+      "explanation": "An alpha particle carries away 2 protons and a mass number of 4, so the daughter nucleus has atomic number 92-2=90 and mass number 238-4=234."
+    },
+    {
+      "subject": "Physics",
+      "text": "In beta-minus decay, a neutron in the nucleus transforms into a proton with the emission of",
+      "options": [
+        "an electron (beta particle) and an antineutrino",
+        "a positron and a neutrino",
+        "an alpha particle",
+        "a gamma ray photon only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beta-minus decay converts a neutron into a proton, releasing a fast-moving electron (the beta particle) and an antineutrino to conserve energy and lepton number."
+    }
+  ]
+}

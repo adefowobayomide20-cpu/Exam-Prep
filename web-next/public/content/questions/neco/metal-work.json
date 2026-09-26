@@ -1,0 +1,1206 @@
+{
+  "subject": "Metal Work",
+  "examCategory": "neco",
+  "questions": [
+    {
+      "subject": "Metal Work",
+      "text": "A key personal safety rule in a metalwork workshop is to",
+      "options": [
+        "ignore machine guards when working quickly",
+        "operate machines without any prior training",
+        "wear loose clothing and jewellery near rotating machines",
+        "wear appropriate protective clothing, such as goggles and overalls, at all times"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protective clothing such as goggles, overalls, and safety boots is essential to shield workers from flying particles, sparks, and other workshop hazards."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Machine guards fitted to workshop machinery are primarily intended to",
+      "options": [
+        "reduce the cost of machine maintenance",
+        "increase the speed of the machine",
+        "prevent operators from accidental contact with moving or cutting parts",
+        "improve the appearance of the machine only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Machine guards physically shield operators from moving or cutting parts, reducing the risk of serious injury during operation."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "When handling hot metal that has just been forged or heat-treated, a worker should",
+      "options": [
+        "use appropriate tongs and heat-resistant gloves",
+        "place it immediately in a plastic container",
+        "ignore the temperature and proceed with bench work",
+        "handle it directly with bare hands to save time"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot metal must be handled with tongs and heat-resistant protective equipment to prevent severe burns."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Chemicals and flammable substances in a metalwork workshop should generally be stored",
+      "options": [
+        "in open containers on the workshop floor",
+        "without any labelling for identification",
+        "next to the forge or welding area for convenience",
+        "in a properly ventilated, designated storage area away from heat sources"
+      ],
+      "correctIndex": 3,
+      "explanation": "Proper chemical storage in a ventilated, designated area away from ignition sources reduces the risk of fire, explosion, or harmful exposure."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Maintaining a clean, well-organised workshop floor, free of oil spills and scattered tools, is important mainly to",
+      "options": [
+        "reduce the need for protective clothing",
+        "eliminate the need for machine guards",
+        "prevent slips, trips, and falls among workshop users",
+        "increase the workshop's aesthetic appeal only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A clean, organised workshop floor significantly reduces the risk of slips, trips, and falls, a common cause of workshop injuries."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "An iron-carbon alloy containing a high carbon content (typically above 2%), known for its hardness and brittleness, is called",
+      "options": [
+        "cast iron",
+        "brass",
+        "carbon steel",
+        "aluminium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cast iron contains a relatively high carbon content, giving it good casting properties along with characteristic hardness and brittleness."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "An iron-carbon alloy with a lower carbon content than cast iron, offering a balance of strength and ductility used widely in construction and tools, is called",
+      "options": [
+        "cast iron",
+        "aluminium",
+        "brass",
+        "carbon steel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbon steel has a lower carbon content than cast iron, giving it greater ductility and toughness, useful for a wide range of tools and structures."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Steel that has other elements, such as chromium or nickel, deliberately added to enhance specific properties is called",
+      "options": [
+        "alloy steel",
+        "wrought iron only",
+        "cast iron",
+        "pure iron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alloy steels have additional elements added to improve properties such as strength, hardness, or corrosion resistance beyond plain carbon steel."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A lightweight, corrosion-resistant, non-ferrous metal widely used in aircraft and packaging is",
+      "options": [
+        "aluminium",
+        "wrought iron",
+        "carbon steel",
+        "cast iron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aluminium is valued for its light weight and natural corrosion resistance, making it useful across industries from aerospace to packaging."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A reddish-coloured, highly conductive non-ferrous metal widely used in electrical wiring is",
+      "options": [
+        "copper",
+        "cast iron",
+        "aluminium",
+        "zinc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Copper's excellent electrical conductivity makes it a standard material for electrical wiring and components."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "An alloy of copper and zinc, commonly used for decorative fittings and musical instruments, is called",
+      "options": [
+        "cast iron",
+        "bronze",
+        "brass",
+        "carbon steel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brass, an alloy of copper and zinc, is prized for its attractive appearance and workability, common in fittings and instruments."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "An alloy of copper and tin, historically significant and still used for bearings, bells, and sculptures, is called",
+      "options": [
+        "brass",
+        "bronze",
+        "cast iron",
+        "aluminium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bronze, an alloy of copper and tin, has been used since antiquity for its durability, and remains valued for bearings, bells, and sculptural casting."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A bluish-white non-ferrous metal commonly used to coat (galvanise) steel for corrosion protection is",
+      "options": [
+        "aluminium",
+        "zinc",
+        "copper",
+        "brass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zinc is commonly applied as a protective coating (galvanising) on steel, forming a barrier against rust and corrosion."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The heat treatment process that softens a metal, relieves internal stresses, and improves its ductility by heating and slow cooling is called",
+      "options": [
+        "case-hardening",
+        "hardening",
+        "annealing",
+        "tempering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Annealing softens metal and relieves internal stress by heating it to a specific temperature followed by slow, controlled cooling."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The heat treatment process that refines a metal's grain structure by heating above its critical temperature and then air cooling is called",
+      "options": [
+        "normalizing",
+        "tempering",
+        "hardening",
+        "annealing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Normalizing refines and evens out a metal's grain structure through controlled heating followed by air cooling, distinct from the slower cooling of annealing."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The heat treatment process that increases a metal's hardness by heating it and then rapidly cooling (quenching) it is called",
+      "options": [
+        "hardening",
+        "normalizing",
+        "tempering",
+        "annealing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hardening increases a metal's hardness through heating followed by rapid quenching, though this can also make it more brittle."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The heat treatment process performed after hardening to reduce brittleness while retaining most of the increased hardness is called",
+      "options": [
+        "tempering",
+        "annealing",
+        "case-hardening",
+        "normalizing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tempering follows hardening, gently reheating the metal to a lower temperature to reduce brittleness while preserving much of its hardness."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The heat treatment process that hardens only the outer surface layer of a metal component while keeping its core softer and tougher is called",
+      "options": [
+        "annealing",
+        "case-hardening",
+        "tempering only",
+        "normalizing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Case-hardening produces a hard outer surface while retaining a tougher, more ductile core, useful for parts needing wear resistance with impact toughness."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Ferrous metals are generally distinguished from non-ferrous metals by their",
+      "options": [
+        "exclusive use in electrical wiring",
+        "complete absence of iron in their composition",
+        "inability to be heat-treated in any way",
+        "containing iron as a main constituent, making many of them magnetic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ferrous metals contain iron as a primary component, which often gives them magnetic properties not found in most non-ferrous metals."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A metallurgical process involving the extraction of a pure or usable metal from its naturally occurring ore is called",
+      "options": [
+        "tempering",
+        "case-hardening",
+        "metal extraction (smelting)",
+        "annealing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Metal extraction (smelting) processes ore, typically using heat and chemical reactions, to separate and refine the usable metal."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A measuring tool consisting of a graduated straight edge, used to measure lengths directly, is called a",
+      "options": [
+        "engineering square",
+        "caliper",
+        "scriber",
+        "rule (steel rule)"
+      ],
+      "correctIndex": 3,
+      "explanation": "A steel rule is a basic graduated measuring tool used to measure straight lengths and distances directly."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A measuring tool used to measure the internal dimensions of a hole or cavity is called an",
+      "options": [
+        "oddleg caliper",
+        "inside caliper",
+        "outside caliper",
+        "engineering square"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inside calipers are specifically designed to measure internal dimensions, such as the diameter of a hole or bore."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A measuring tool used to measure the external dimensions of an object, such as the outer diameter of a rod, is called an",
+      "options": [
+        "oddleg caliper",
+        "outside caliper",
+        "inside caliper",
+        "surface plate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Outside calipers measure external dimensions, such as the outer diameter or thickness of a workpiece."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A measuring/marking tool with one straight leg and one bent leg, used to scribe lines parallel to an edge, is called an",
+      "options": [
+        "outside caliper",
+        "engineering square",
+        "inside caliper",
+        "oddleg caliper (jenny caliper)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The oddleg (jenny) caliper has one straight pointed leg and one hooked leg, allowing it to scribe a line at a set distance from an edge."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A tool used to check or mark an accurate 90-degree angle on a workpiece is called an",
+      "options": [
+        "centre punch",
+        "oddleg caliper",
+        "engineering square",
+        "scriber"
+      ],
+      "correctIndex": 2,
+      "explanation": "An engineering square provides a precise 90-degree reference edge, used to check squareness or mark right angles on a workpiece."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A pointed hand tool used to scratch fine, accurate marking lines onto a metal surface is called a",
+      "options": [
+        "centre punch",
+        "surface plate",
+        "engineering square",
+        "scriber"
+      ],
+      "correctIndex": 3,
+      "explanation": "A scriber has a hardened, sharp point used to scratch precise marking-out lines onto a metal surface."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A hand tool used to make a small indentation on a metal surface to guide the starting point of a drill bit is called a",
+      "options": [
+        "engineering square",
+        "surface plate",
+        "scriber",
+        "centre punch"
+      ],
+      "correctIndex": 3,
+      "explanation": "A centre punch creates a small indentation that helps prevent a drill bit from wandering off the intended starting point."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A precisely flat, accurate reference surface used as a base for marking-out and checking flatness of workpieces is called a",
+      "options": [
+        "scriber",
+        "surface plate",
+        "engineering square",
+        "centre punch"
+      ],
+      "correctIndex": 1,
+      "explanation": "A surface plate provides an accurately flat reference surface, essential for precise marking-out and inspection work."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A precision measuring tool with a sliding jaw and vernier scale, capable of measuring internal, external, and depth dimensions accurately, is called a",
+      "options": [
+        "scriber",
+        "steel rule",
+        "vernier caliper",
+        "engineering square"
+      ],
+      "correctIndex": 2,
+      "explanation": "A vernier caliper provides precise measurements of internal, external, and depth dimensions, more accurate than a simple steel rule."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A precision measuring tool using a calibrated screw thread to measure very small dimensions with high accuracy is called a",
+      "options": [
+        "vernier caliper only",
+        "micrometer",
+        "steel rule",
+        "surface plate"
+      ],
+      "correctIndex": 1,
+      "explanation": "A micrometer uses a precisely calibrated screw mechanism to measure small dimensions with a very high degree of accuracy."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A hand saw with a thin, replaceable blade, used to cut through metal, is called a",
+      "options": [
+        "file",
+        "scriber",
+        "chisel",
+        "hacksaw"
+      ],
+      "correctIndex": 3,
+      "explanation": "A hacksaw uses a thin, toothed, replaceable blade specifically designed for cutting metal."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The number of teeth per inch on a hacksaw blade is referred to as its",
+      "options": [
+        "gauge",
+        "pitch",
+        "temper",
+        "kerf"
+      ],
+      "correctIndex": 1,
+      "explanation": "Blade pitch (teeth per inch) determines the appropriate blade for different metal thicknesses; finer pitches suit thinner materials."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A file with a flat, tapering shape used for general flat surface filing is called a",
+      "options": [
+        "round file",
+        "flat file",
+        "triangular file",
+        "half-round file"
+      ],
+      "correctIndex": 1,
+      "explanation": "A flat file has parallel, flat faces, commonly used for general filing of flat surfaces and edges."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A file with a completely round cross-section, used for enlarging or smoothing circular holes, is called a",
+      "options": [
+        "flat file",
+        "round file",
+        "half-round file",
+        "triangular file"
+      ],
+      "correctIndex": 1,
+      "explanation": "Round files have a circular cross-section, suited to enlarging or smoothing curved or circular internal surfaces."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A file with one flat face and one curved face, useful for both flat and concave curved surfaces, is called a",
+      "options": [
+        "triangular file",
+        "flat file",
+        "half-round file",
+        "round file"
+      ],
+      "correctIndex": 2,
+      "explanation": "The half-round file combines a flat face and a curved face, allowing it to work both flat and concave surfaces."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A file with a triangular cross-section, useful for filing internal corners and sharpening saw teeth, is called a",
+      "options": [
+        "triangular file",
+        "half-round file",
+        "round file",
+        "flat file"
+      ],
+      "correctIndex": 0,
+      "explanation": "Triangular files have three flat faces meeting at sharp edges, ideal for internal angles and sharpening saw teeth."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A file classified with a very fine tooth cut, used for finishing and achieving a smooth surface, is called a",
+      "options": [
+        "bastard file",
+        "smooth file",
+        "second-cut file only",
+        "rough file"
+      ],
+      "correctIndex": 1,
+      "explanation": "Smooth-cut files have very fine teeth, producing a smooth finish suitable for final surface work."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A file classified with a coarser tooth cut than a smooth file, used for general-purpose rougher filing work, is called a",
+      "options": [
+        "dead-smooth file",
+        "smooth file",
+        "second-cut file",
+        "bastard file"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bastard-cut files have a coarser tooth pattern than smooth files, suited to faster material removal in general-purpose filing."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A cutting tool used to cut internal (female) screw threads within a drilled hole is called a",
+      "options": [
+        "centre punch",
+        "tap",
+        "die",
+        "scriber"
+      ],
+      "correctIndex": 1,
+      "explanation": "A tap cuts internal threads within a pre-drilled hole, working together with a tap wrench that turns it."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A cutting tool used to cut external (male) screw threads onto a rod or bolt is called a",
+      "options": [
+        "tap",
+        "scriber",
+        "die",
+        "centre punch"
+      ],
+      "correctIndex": 2,
+      "explanation": "A die cuts external threads onto a rod or bolt, turned using a die stock (holder)."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The handle-type tool used to turn and apply cutting pressure to a tap when cutting internal threads is called a",
+      "options": [
+        "tap wrench",
+        "die stock",
+        "file handle",
+        "hacksaw frame"
+      ],
+      "correctIndex": 0,
+      "explanation": "A tap wrench grips and turns a tap, allowing controlled cutting pressure as internal threads are formed."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The handle-type tool used to turn and apply cutting pressure to a die when cutting external threads is called a",
+      "options": [
+        "die stock",
+        "file handle",
+        "tap wrench",
+        "hacksaw frame"
+      ],
+      "correctIndex": 0,
+      "explanation": "A die stock holds and turns a die, allowing controlled cutting pressure as external threads are formed on a rod or bolt."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The screw thread profile system based on metric (millimetre) measurements, widely used internationally, is called the",
+      "options": [
+        "Whitworth thread profile",
+        "British Association profile only",
+        "Unified thread profile",
+        "Metric thread profile"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Metric thread system, based on millimetre dimensions, is the standard thread profile used across most of the world today."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The screw thread profile system historically developed in Britain, featuring a rounded thread crest and root, is called the",
+      "options": [
+        "Acme thread profile",
+        "Whitworth thread profile",
+        "Unified thread profile",
+        "Metric thread profile"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Whitworth thread profile, an older British standard, features distinctively rounded crests and roots on its threads."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The screw thread profile system standardised jointly by the United States, Canada, and the United Kingdom for interchangeability is called the",
+      "options": [
+        "Metric thread profile",
+        "Whitworth thread profile",
+        "Acme thread profile only",
+        "Unified thread profile"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Unified thread standard was jointly developed to ensure interchangeability of threaded fasteners between the US, Canada, and the UK."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The part of a lathe machine that houses the main spindle and drive mechanism, holding and rotating the workpiece, is called the",
+      "options": [
+        "tailstock",
+        "headstock",
+        "carriage",
+        "bed"
+      ],
+      "correctIndex": 1,
+      "explanation": "The headstock houses the spindle and drive mechanism, providing the rotational power that turns the workpiece on a lathe."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The part of a lathe machine positioned opposite the headstock, used to support the far end of a long workpiece, is called the",
+      "options": [
+        "lead screw",
+        "tailstock",
+        "headstock",
+        "carriage"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tailstock, located at the opposite end from the headstock, supports the free end of long workpieces and can hold tools like drills."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The part of a lathe machine that moves along the bed, carrying the cutting tool during a turning operation, is called the",
+      "options": [
+        "carriage",
+        "headstock",
+        "bed",
+        "tailstock"
+      ],
+      "correctIndex": 0,
+      "explanation": "The carriage travels along the lathe bed, carrying and guiding the cutting tool as it removes material from the rotating workpiece."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The long, precisely machined horizontal base of a lathe machine, along which the carriage and tailstock travel, is called the",
+      "options": [
+        "bed",
+        "tailstock",
+        "headstock",
+        "lead screw"
+      ],
+      "correctIndex": 0,
+      "explanation": "The lathe bed provides the accurate, rigid base along which the carriage and tailstock move during operation."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The precisely threaded rod on a lathe machine used to drive the carriage automatically for operations such as thread cutting is called the",
+      "options": [
+        "bed",
+        "tailstock barrel",
+        "headstock spindle",
+        "lead screw"
+      ],
+      "correctIndex": 3,
+      "explanation": "The lead screw provides precise, synchronised movement of the carriage, essential for operations such as automatic thread cutting."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The lathe operation that produces a flat surface at the end of a workpiece, perpendicular to its axis, is called",
+      "options": [
+        "straight turning",
+        "facing",
+        "taper turning",
+        "parting off"
+      ],
+      "correctIndex": 1,
+      "explanation": "Facing removes material from the end of a workpiece to create a flat surface perpendicular to the axis of rotation."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The lathe operation that reduces the diameter of a workpiece uniformly along its length, producing a cylindrical surface, is called",
+      "options": [
+        "taper turning",
+        "straight (cylindrical) turning",
+        "facing",
+        "knurling"
+      ],
+      "correctIndex": 1,
+      "explanation": "Straight (cylindrical) turning removes material evenly along a workpiece's length, producing a uniform cylindrical diameter."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The lathe operation that produces a gradually changing diameter along the length of a workpiece, forming a cone-like shape, is called",
+      "options": [
+        "taper turning",
+        "parting off",
+        "facing",
+        "straight turning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Taper turning produces a workpiece whose diameter changes gradually and uniformly along its length, forming a conical profile."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The lathe operation that cuts completely through a workpiece to separate a finished section from the remaining stock is called",
+      "options": [
+        "parting off",
+        "facing",
+        "knurling",
+        "taper turning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parting off uses a narrow tool to cut completely through a workpiece, separating the finished component from the remaining bar stock."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The lathe operation that presses a diamond or straight patterned texture into a workpiece's surface, typically to improve grip, is called",
+      "options": [
+        "facing",
+        "knurling",
+        "taper turning",
+        "parting off"
+      ],
+      "correctIndex": 1,
+      "explanation": "Knurling presses a patterned texture into a workpiece's surface, commonly used to improve grip on handles or knobs."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Drilling machines classified as small, compact units typically mounted on a workbench are called",
+      "options": [
+        "bench drilling machines",
+        "radial drilling machines",
+        "lathe machines",
+        "pillar drilling machines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bench drilling machines are compact units designed to sit on a workbench, suitable for smaller drilling tasks."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Drilling machines mounted on a tall vertical column, standing on the workshop floor, offering greater capacity than bench models, are called",
+      "options": [
+        "radial drilling machines",
+        "shaping machines",
+        "bench drilling machines",
+        "pillar drilling machines"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pillar drilling machines are floor-standing units mounted on a tall column, offering greater size and drilling capacity than bench models."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Drilling machines with an arm that can swing and adjust position over a large, heavy workpiece are called",
+      "options": [
+        "radial drilling machines",
+        "lathe machines",
+        "bench drilling machines",
+        "pillar drilling machines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Radial drilling machines feature an adjustable swinging arm, allowing the drill head to be positioned precisely over large or heavy workpieces."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A work-holding device with adjustable jaws, clamped to a drilling machine's table to securely hold a workpiece, is called a",
+      "options": [
+        "T-bolt",
+        "clamp only",
+        "machine vice",
+        "twist drill"
+      ],
+      "correctIndex": 2,
+      "explanation": "A machine vice provides secure clamping of a workpiece to the drilling machine's table, preventing movement during drilling."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Bolts with a T-shaped head, designed to slide into the T-slots of a machine table for securing work-holding devices, are called",
+      "options": [
+        "twist drills",
+        "T-bolts",
+        "machine vices",
+        "clamps only"
+      ],
+      "correctIndex": 1,
+      "explanation": "T-bolts fit into the T-slots machined into a machine table, providing secure anchoring points for clamps and work-holding fixtures."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The angle formed between the cutting edge of a twist drill and a plane perpendicular to its axis is called the",
+      "options": [
+        "clearance angle only",
+        "cutting angle (point angle)",
+        "rake angle only",
+        "helix angle only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The cutting (point) angle of a twist drill significantly influences its cutting performance and suitability for different materials."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The angle ground onto a twist drill to prevent the heel of the drill from rubbing against the workpiece during cutting is called the",
+      "options": [
+        "helix angle",
+        "clearance angle",
+        "cutting angle",
+        "rake angle only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The clearance angle prevents unnecessary friction between the drill's heel and the workpiece, allowing efficient cutting."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A machine that produces flat surfaces through a reciprocating (back-and-forth) cutting motion of a single-point tool is called a",
+      "options": [
+        "drilling machine",
+        "shaper (shaping machine)",
+        "grinding machine",
+        "lathe"
+      ],
+      "correctIndex": 1,
+      "explanation": "A shaper uses a reciprocating single-point cutting tool moving back and forth across a stationary workpiece to produce flat surfaces."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A machine that uses a rotating abrasive wheel to remove material and sharpen or finish tools is called a",
+      "options": [
+        "shaper",
+        "lathe",
+        "drilling machine",
+        "grinding machine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Grinding machines use a rotating abrasive wheel to remove material, sharpen cutting tools, or produce fine surface finishes."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The process of restoring a grinding wheel's true, round shape after it has become worn unevenly is called",
+      "options": [
+        "truing",
+        "tempering",
+        "annealing",
+        "dressing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Truing restores a grinding wheel's correct round shape and concentricity after uneven wear."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The process of removing dull or clogged abrasive particles from a grinding wheel's surface to expose fresh, sharp grains is called",
+      "options": [
+        "truing",
+        "tempering",
+        "dressing",
+        "case-hardening"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dressing removes worn or clogged abrasive material from a grinding wheel's surface, restoring its cutting effectiveness."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Selecting an appropriate cutting speed and feed rate on a lathe is important mainly to",
+      "options": [
+        "increase the total time needed to complete a job",
+        "guarantee the workpiece will not need further finishing",
+        "achieve efficient material removal while avoiding excessive tool wear or workpiece damage",
+        "eliminate the need for any coolant or lubricant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Correct speed and feed settings balance efficient material removal against excessive tool wear, poor surface finish, or damage to the workpiece."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "An off-hand pedestal grinding wheel is typically used in the workshop mainly for",
+      "options": [
+        "sharpening hand tools and light general-purpose grinding",
+        "casting molten metal",
+        "precision internal boring operations",
+        "cutting internal threads"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pedestal grinding wheels are commonly used for sharpening hand tools such as chisels and for general light grinding tasks, rather than precision machining."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A key safety precaution when using a pedestal grinding wheel is to",
+      "options": [
+        "remove the wheel guard for better visibility",
+        "operate the wheel with the tool rest removed",
+        "always use the tool rest and wear eye protection",
+        "stand directly in line with the wheel's rotation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using the tool rest properly and wearing eye protection are essential safety practices when working on a pedestal grinding wheel, protecting against kickback and flying debris."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A welding process using the intense heat of a burning mixture of oxygen and acetylene gas to melt and join metal is called",
+      "options": [
+        "brazing",
+        "soldering",
+        "gas (oxy-acetylene) welding",
+        "arc welding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oxy-acetylene (gas) welding uses the flame from burning oxygen and acetylene together to melt and fuse metal at the joint."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In gas welding, the flame setting with a balanced mixture of oxygen and acetylene, generally used for most general-purpose welding, is called a",
+      "options": [
+        "carburizing flame",
+        "cutting flame only",
+        "oxidizing flame",
+        "neutral flame"
+      ],
+      "correctIndex": 3,
+      "explanation": "A neutral flame has a balanced oxygen-to-acetylene ratio, producing clean combustion suitable for most general welding tasks."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In gas welding, a flame setting with excess oxygen, which can cause the weld metal to become brittle or oxidised, is called an",
+      "options": [
+        "reducing flame only",
+        "neutral flame",
+        "carburizing flame",
+        "oxidizing flame"
+      ],
+      "correctIndex": 3,
+      "explanation": "An oxidizing flame has excess oxygen, which can lead to oxidation and brittleness in the weld metal if used inappropriately."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In gas welding, a flame setting with excess acetylene, producing a flame with a visible feather and adding carbon to the weld pool, is called a",
+      "options": [
+        "neutral flame",
+        "oxidizing flame",
+        "cutting flame only",
+        "carburizing flame"
+      ],
+      "correctIndex": 3,
+      "explanation": "A carburizing flame has excess acetylene, introducing carbon into the weld pool, which is sometimes desired for specific applications like hard-facing."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A welding process using an electric arc between an electrode and the workpiece to generate the heat needed to melt and join metal is called",
+      "options": [
+        "arc welding",
+        "soldering",
+        "brazing",
+        "gas welding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Arc welding creates an electric arc between an electrode and the workpiece, generating intense localised heat to melt and fuse the metal."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "Personal protective equipment essential when arc welding, primarily to protect the eyes and skin from intense light and heat, includes a",
+      "options": [
+        "welding helmet/shield with a darkened lens",
+        "standard sunglasses only",
+        "no protective equipment at all",
+        "pair of ordinary reading glasses"
+      ],
+      "correctIndex": 0,
+      "explanation": "A specialised welding helmet with a darkened lens is essential to protect the welder's eyes and skin from the arc's intense light and ultraviolet radiation."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A joint formed using a metal fastener with a rounded head on one side, hammered to form a matching rounded head on the other side, is called a",
+      "options": [
+        "brazed joint",
+        "soldered joint",
+        "snap head riveted joint",
+        "countersunk riveted joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "A snap head rivet has a rounded head, with a matching rounded head formed on the opposite side during installation, using a snap (dolly) tool."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A joint formed using a rivet designed to sit flush with the surface of the joined material, with a conical recessed head, is called a",
+      "options": [
+        "brazed joint",
+        "snap head riveted joint",
+        "countersunk riveted joint",
+        "soldered joint"
+      ],
+      "correctIndex": 2,
+      "explanation": "Countersunk rivets have a conical head that sits flush with the surface, useful where a smooth external finish is required."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A joining method using a low-melting-point alloy, typically of lead and tin, to join metal parts without melting the base metal, is called",
+      "options": [
+        "soft soldering",
+        "arc welding",
+        "hard brazing",
+        "gas welding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soft soldering uses a low-melting-point lead-tin alloy to join metal parts, without melting the base metals themselves."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A joining method using a higher-melting-point filler metal, such as spelter, along with a flux like borax, to join metal parts at a higher temperature than soldering, is called",
+      "options": [
+        "gas welding only",
+        "soft soldering",
+        "hard brazing",
+        "arc welding"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hard brazing uses a higher-melting-point filler metal (such as brass-based spelter) and flux like borax, producing stronger joints than soft soldering."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A chemical substance used in soldering and brazing to clean the metal surface and prevent oxidation during heating is called a",
+      "options": [
+        "filler rod only",
+        "spelter",
+        "flux",
+        "electrode"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flux cleans the metal surface and prevents oxidation during the heating process, allowing the filler metal to bond properly."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The traditional container of glowing fuel (such as coke or coal) used to heat metal for forging is called the",
+      "options": [
+        "tongs",
+        "hearth (forge)",
+        "anvil",
+        "swage block"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hearth (forge) is where solid fuel is burned to heat metal to the high temperatures needed for forging operations."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The heavy, flat-topped iron or steel block on which hot metal is hammered and shaped during forging is called the",
+      "options": [
+        "anvil",
+        "tongs",
+        "hearth",
+        "fuller"
+      ],
+      "correctIndex": 0,
+      "explanation": "The anvil provides a solid, stable surface on which hot metal is hammered and shaped during forging."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The long-handled gripping tool used to hold and manipulate hot metal safely during forging is called",
+      "options": [
+        "a swage",
+        "a fuller",
+        "an anvil",
+        "tongs"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tongs allow a smith to grip and manipulate hot metal safely, without direct hand contact with the heated material."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A forging tool with a grooved surface, used to shape round or curved sections of metal, is called a",
+      "options": [
+        "swage",
+        "tongs",
+        "fuller",
+        "flatter"
+      ],
+      "correctIndex": 0,
+      "explanation": "A swage has a shaped, often grooved, surface used to form rounded or curved profiles in hot metal during forging."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A forging tool with a rounded, wedge-like edge, used to spread or thin out metal at a specific point, is called a",
+      "options": [
+        "flatter",
+        "anvil",
+        "swage",
+        "fuller"
+      ],
+      "correctIndex": 3,
+      "explanation": "A fuller has a rounded edge used to work and thin metal at a localised point, often used before further shaping operations."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A forging tool with a flat striking face, used to smooth and flatten the surface of hot metal after initial shaping, is called a",
+      "options": [
+        "anvil",
+        "flatter",
+        "swage",
+        "fuller"
+      ],
+      "correctIndex": 1,
+      "explanation": "A flatter has a flat striking face, used to smooth and finish the surface of a forged piece after its initial shaping."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The forging operation that reduces the cross-section of a metal bar while increasing its length is called",
+      "options": [
+        "upsetting",
+        "bending",
+        "drawing down",
+        "punching"
+      ],
+      "correctIndex": 2,
+      "explanation": "Drawing down elongates a metal bar by hammering to reduce its cross-sectional area while increasing its overall length."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The forging operation that increases the cross-section of a metal bar at a specific point while shortening its length there is called",
+      "options": [
+        "bending",
+        "drawing down",
+        "upsetting",
+        "punching"
+      ],
+      "correctIndex": 2,
+      "explanation": "Upsetting thickens a section of metal by compressing its length at a specific point, the opposite effect to drawing down."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The forging operation that creates a hole through a piece of hot metal using a pointed tool is called",
+      "options": [
+        "drawing down",
+        "upsetting",
+        "bending",
+        "punching"
+      ],
+      "correctIndex": 3,
+      "explanation": "Punching forces a pointed tool through heated metal to create a hole, often followed by drifting to refine its shape."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The forging operation that enlarges and refines the shape of a punched hole using a shaped tool is called",
+      "options": [
+        "punching",
+        "drifting",
+        "drawing down",
+        "upsetting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drifting follows punching, using a tapered tool to enlarge and shape a hole to its final required size and profile."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In foundry (casting) work, a full-sized model of the object to be cast, used to form the mould cavity in sand, is called a",
+      "options": [
+        "pattern",
+        "core",
+        "riser",
+        "gate"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pattern is a model, usually slightly oversized to allow for shrinkage, used to create the mould cavity in casting sand."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In foundry (casting) work, patterns are typically made slightly larger than the finished part to allow for",
+      "options": [
+        "ease of transportation only",
+        "reduced material costs only",
+        "metal shrinkage as it cools and solidifies",
+        "improved surface colour only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Patterns include a shrinkage allowance because molten metal contracts as it cools and solidifies, so the pattern must be slightly larger than the final desired size."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In sand casting, the two-part box used to contain and shape the moulding sand around the pattern is called the",
+      "options": [
+        "gate system",
+        "moulding box (flask)",
+        "core box",
+        "riser"
+      ],
+      "correctIndex": 1,
+      "explanation": "The moulding box (flask) holds the compacted sand in place, forming the mould cavity around the pattern before casting."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In a two-part moulding box, the upper section is called the",
+      "options": [
+        "drag",
+        "gate",
+        "cope",
+        "core"
+      ],
+      "correctIndex": 2,
+      "explanation": "The cope is the upper half of a two-part sand moulding box, matched with the lower half (drag) to form the complete mould."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "In a two-part moulding box, the lower section is called the",
+      "options": [
+        "core",
+        "cope",
+        "riser",
+        "drag"
+      ],
+      "correctIndex": 3,
+      "explanation": "The drag is the lower half of a two-part sand moulding box, matched with the upper half (cope) to form the complete mould."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A shaped sand form inserted into a mould to create a hollow cavity within the finished cast object is called a",
+      "options": [
+        "core",
+        "riser",
+        "pattern",
+        "gate"
+      ],
+      "correctIndex": 0,
+      "explanation": "A core is placed within the mould to produce internal cavities or hollow sections in the finished casting, such as the bore of a pipe."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The channel through which molten metal is poured into the mould cavity during casting is called the",
+      "options": [
+        "riser",
+        "gate",
+        "core",
+        "pattern"
+      ],
+      "correctIndex": 1,
+      "explanation": "The gate is the channel guiding molten metal from the pouring basin into the actual mould cavity."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A reservoir of molten metal connected to the mould cavity, designed to compensate for shrinkage as the casting solidifies, is called a",
+      "options": [
+        "pattern",
+        "gate",
+        "core",
+        "riser"
+      ],
+      "correctIndex": 3,
+      "explanation": "A riser supplies additional molten metal to the casting as it cools, compensating for shrinkage and helping to prevent voids or defects."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "The equipment used to melt metal to a liquid state before it is poured into a prepared mould is called a",
+      "options": [
+        "core box",
+        "moulding box",
+        "melting furnace",
+        "riser"
+      ],
+      "correctIndex": 2,
+      "explanation": "A melting furnace heats metal to its liquid (molten) state, preparing it for pouring into the prepared sand mould."
+    },
+    {
+      "subject": "Metal Work",
+      "text": "A key safety precaution during the pouring stage of foundry casting is to",
+      "options": [
+        "pour the molten metal as quickly as possible with no protective equipment",
+        "wear full protective clothing, including a face shield, against splashes of molten metal",
+        "allow inexperienced workers to pour without supervision",
+        "ignore ventilation requirements in the foundry area"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pouring molten metal is highly hazardous, requiring full protective clothing and equipment such as face shields to guard against splashes and burns."
+    }
+  ]
+}

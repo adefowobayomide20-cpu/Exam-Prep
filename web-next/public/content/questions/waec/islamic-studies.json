@@ -1,0 +1,1206 @@
+{
+  "subject": "Islamic Studies",
+  "examCategory": "waec",
+  "questions": [
+    {
+      "subject": "Islamic Studies",
+      "text": "The Qur'an was revealed to Prophet Muhammad (S.A.W) over a period of approximately",
+      "options": [
+        "40 years",
+        "23 years",
+        "10 years",
+        "3 years"
+      ],
+      "correctIndex": 1,
+      "explanation": "The revelation of the Qur'an spanned about 23 years, beginning in Makkah and continuing after the migration to Madinah."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The angel through whom the Qur'an was revealed to Prophet Muhammad (S.A.W) was",
+      "options": [
+        "Angel Mikail",
+        "Angel Izrail",
+        "Angel Israfil",
+        "Angel Jibril (Gabriel)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Angel Jibril (Gabriel) served as the channel of revelation, delivering the words of the Qur'an to the Prophet."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The first revelation received by Prophet Muhammad (S.A.W) occurred in the cave of",
+      "options": [
+        "Badr",
+        "Hira",
+        "Uhud",
+        "Thawr"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Prophet received his first revelation in the Cave of Hira, located on Jabal an-Nur near Makkah."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The first word revealed to Prophet Muhammad (S.A.W), commanding him to read/recite, was",
+      "options": [
+        "Qul (Say)",
+        "Alhamdulillah (Praise be to Allah)",
+        "Bismillah (In the name of Allah)",
+        "Iqra (Read/Recite)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The very first revealed word was 'Iqra', an instruction to read or recite, marking the beginning of the Qur'an's revelation."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The first Caliph credited with initiating the formal compilation of the Qur'an into a single collected text was",
+      "options": [
+        "Abu Bakr",
+        "Ali ibn Abi Talib",
+        "Uthman ibn Affan",
+        "Umar ibn al-Khattab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abu Bakr ordered the compilation of the Qur'an into one manuscript after many reciters (huffaz) died in the Battle of Yamama."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Caliph responsible for standardising the Qur'anic text into a single authoritative version and distributing copies to major cities was",
+      "options": [
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib",
+        "Umar ibn al-Khattab",
+        "Abu Bakr"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uthman standardised the Qur'anic text to prevent regional variations in recitation, sending official copies to key Islamic centres."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The chapter of the Qur'an regarded as its opening and recited in every unit of the five daily prayers is",
+      "options": [
+        "Suratul-Baqarah",
+        "Suratul-Ikhlas",
+        "Suratul-Fatihah",
+        "Suratun-Nas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suratul-Fatihah, the 'Opening', is the first chapter of the Qur'an and is recited in every rak'ah of the daily prayers."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Surah that describes the story of the Abyssinian army and elephants that attacked the Kaaba is",
+      "options": [
+        "Suratul-Fil",
+        "Suratud-Duha",
+        "Suratul-Kafirun",
+        "Suratul-Ikhlas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suratul-Fil (The Elephant) recounts how Allah destroyed the army of Abraha, which had attempted to attack the Kaaba using elephants."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The short Surah revealed to affirm the absolute oneness of Allah, rejecting any partners or equals, is",
+      "options": [
+        "Suratun-Nasr",
+        "Suratul-Ikhlas",
+        "Suratud-Duha",
+        "Suratul-Fil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Suratul-Ikhlas concisely declares the pure oneness (Tawhid) of Allah, stating that He neither begets nor is begotten."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Surah that instructs the believer to declare disassociation from disbelief and the worship of false gods is",
+      "options": [
+        "Suratun-Nasr",
+        "Suratul-Ikhlas",
+        "Suratul-Qadr",
+        "Suratul-Kafirun"
+      ],
+      "correctIndex": 3,
+      "explanation": "Suratul-Kafirun ('The Disbelievers') declares a clear distinction between the worship of Allah and the worship practices of disbelievers."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Surah announcing 'the Night of Decree', regarded as better than a thousand months, is",
+      "options": [
+        "Suratul-Alaq",
+        "Suratun-Nasr",
+        "Suratul-Qadr",
+        "Suratud-Duha"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suratul-Qadr describes Laylatul-Qadr (the Night of Decree/Power), a night of immense spiritual significance during Ramadan."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Surah in which Allah reassures the Prophet that He has neither forsaken nor become displeased with him is",
+      "options": [
+        "Suratud-Duha",
+        "Suratul-Ikhlas",
+        "Suratul-Qadr",
+        "Suratun-Nasr"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suratud-Duha ('The Morning Brightness') was revealed to comfort the Prophet during a pause in revelation, reassuring him of Allah's continued favour."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Surah that speaks of Allah's help and victory, and instructs glorifying and seeking Allah's forgiveness, is",
+      "options": [
+        "Suratud-Duha",
+        "Suratul-Qadr",
+        "Suratun-Nasr",
+        "Suratul-Kafirun"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suratun-Nasr ('The Help') refers to the coming of Allah's victory and instructs the believer to glorify and seek forgiveness from Allah."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Surah traditionally understood as containing the first verses revealed to the Prophet is",
+      "options": [
+        "Suratul-Alaq",
+        "Suratul-Fatihah",
+        "Suratun-Nas",
+        "Suratul-Baqarah"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suratul-Alaq begins with the command 'Iqra' (Read), and its opening verses are traditionally regarded as the very first revelation."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The verse widely known as 'Ayatul-Kursi' (the Throne Verse), praised for describing Allah's majesty and knowledge, is found in",
+      "options": [
+        "Suratun-Nas",
+        "Suratul-Baqarah",
+        "Suratul-Ikhlas",
+        "Suratul-Fatihah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ayatul-Kursi is verse 255 of Suratul-Baqarah, celebrated for its powerful description of Allah's sovereignty, knowledge, and eternal nature."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The final chapter of the Qur'an, seeking Allah's protection from the whisperings of Satan, is",
+      "options": [
+        "Suratun-Nas",
+        "Suratul-Kafirun",
+        "Suratul-Falaq",
+        "Suratul-Fatihah"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suratun-Nas ('Mankind') is the very last chapter of the Qur'an, seeking Allah's protection from the evil whisperings that afflict people."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The set of rules governing the correct pronunciation and articulation of Qur'anic recitation is called",
+      "options": [
+        "Hadith",
+        "Tafsir",
+        "Fiqh",
+        "Tajwid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tajwid comprises the rules ensuring accurate and proper pronunciation of Arabic letters and words when reciting the Qur'an."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Tajwid rule concerning the pronunciation of a 'Noon Sakinah' (a silent noon) when followed by certain letters is important for correctly applying",
+      "options": [
+        "rules of ablution (Wudu)",
+        "rules of inheritance (Fara'id)",
+        "rules such as Idgham, Ikhfa, Iqlab, and Izhar",
+        "rules of fasting (Sawm)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Noon Sakinah rules in Tajwid determine how a silent noon is pronounced depending on the following letter, including Idgham, Ikhfa, Iqlab, and Izhar."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Tajwid rule concerning prolongation of certain vowel sounds during recitation is called",
+      "options": [
+        "Madd",
+        "Qalqalah",
+        "Ghunnah",
+        "Waqf"
+      ],
+      "correctIndex": 0,
+      "explanation": "Madd rules govern how long certain vowel sounds should be elongated when reciting specific letters in the Qur'an."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The nasal sound produced when pronouncing noon or meem with a shaddah, or under certain Tajwid rules, is called",
+      "options": [
+        "Madd",
+        "Ghunnah",
+        "Waqf",
+        "Qalqalah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ghunnah refers to the nasal resonance applied when pronouncing noon or meem in specific contexts during Qur'anic recitation."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Qur'an is divided for ease of recitation and study into thirty equal parts known as",
+      "options": [
+        "Rak'at",
+        "Suwar only",
+        "Ajza (Juz)",
+        "Ayat only"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Qur'an is divided into thirty Ajza (singular: Juz), commonly used to complete a full recitation over the month of Ramadan."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The complete recitation of the entire Qur'an from beginning to end is referred to as a",
+      "options": [
+        "Tajwid session",
+        "Khatm",
+        "Hadith narration",
+        "Tafsir"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Khatm refers to the completion of reciting the entire Qur'an, often undertaken as a spiritual practice, especially during Ramadan."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A scholarly explanation or commentary that interprets the meaning of Qur'anic verses is called",
+      "options": [
+        "Tafsir",
+        "Isnad",
+        "Tajwid",
+        "Matn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tafsir refers to the discipline and literature dedicated to explaining and interpreting the meanings of the Qur'an's verses."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A brief stopping point in Qur'anic recitation, observed to take a breath or pause appropriately, is guided by rules known as",
+      "options": [
+        "Ghunnah",
+        "Madd",
+        "Qalqalah",
+        "Waqf"
+      ],
+      "correctIndex": 3,
+      "explanation": "Waqf rules in Tajwid indicate where a reciter may appropriately pause during recitation without distorting the intended meaning."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The 'echoing' or bouncing sound produced when certain strongly articulated letters occur with a sukun (vowel-less state) is called",
+      "options": [
+        "Madd",
+        "Ghunnah",
+        "Waqf",
+        "Qalqalah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Qalqalah describes the distinctive echoing sound applied to specific letters when they carry a sukun, adding clarity and correctness to recitation."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A Hadith is best defined as",
+      "options": [
+        "a ruling made by a modern Islamic scholar",
+        "a historical account written by non-Muslims",
+        "a verse directly revealed in the Qur'an",
+        "a saying, action, or approval attributed to Prophet Muhammad (S.A.W)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hadith refers to the recorded sayings, actions, and tacit approvals of the Prophet, forming a key source of Islamic guidance alongside the Qur'an."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Sunnah refers to",
+      "options": [
+        "the legal code of pre-Islamic Arabia",
+        "only the verses of the Qur'an",
+        "the practices, habits, and way of life exemplified by Prophet Muhammad (S.A.W)",
+        "the rulings made exclusively by the four Caliphs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sunnah encompasses the Prophet's practical example, including his habits, conduct, and approach to life, which Muslims are encouraged to follow."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The chain of narrators through which a Hadith has been transmitted is called the",
+      "options": [
+        "Shariah",
+        "Sunnah",
+        "Matn",
+        "Isnad"
+      ],
+      "correctIndex": 3,
+      "explanation": "Isnad refers to the chain of transmission, listing each narrator who passed the Hadith down, used to assess its authenticity."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The actual text or content of a Hadith, containing the words or description of the Prophet's action, is called the",
+      "options": [
+        "Tafsir",
+        "Fiqh",
+        "Isnad",
+        "Matn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Matn is the substantive text of a Hadith, distinct from the Isnad, which is the chain of narrators verifying its transmission."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The collection of Hadith regarded as the most authentic and reliable, comprising six major books, is known as",
+      "options": [
+        "the Sunnah alone",
+        "the Shariah code",
+        "Sihah al-Sittah (the six authentic collections)",
+        "the Qur'an"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sihah al-Sittah refers to the six most trusted Hadith collections, compiled by scholars who rigorously verified each report's authenticity."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Among the six authentic Hadith collections, the two most highly regarded by Muslim scholars are",
+      "options": [
+        "Sahih Al-Bukhari and Sahih Muslim",
+        "Sunan Abu Dawud and Sunan Ibn Majah",
+        "Muwatta Imam Malik and Musnad Ahmad",
+        "Sunan At-Tirmidhi and Sunan An-Nasa'i"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sahih Al-Bukhari and Sahih Muslim are widely regarded as the most authentic Hadith collections due to their rigorous authentication standards."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The first Hadith in An-Nawawi's collection, famously beginning 'Actions are judged by intentions', emphasises the importance of",
+      "options": [
+        "kindness to neighbours",
+        "sincerity of intention (Niyyah) in all deeds",
+        "the pillars of Islam alone",
+        "cleanliness before prayer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The famous Hadith on intentions teaches that the value and reward of an action depend fundamentally on the sincerity of the intention behind it."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Among An-Nawawi's forty Hadiths, several address the Pillars of Islam and the Articles of Faith (Iman) mainly to teach",
+      "options": [
+        "rules of trade and commerce alone",
+        "the biographies of the Umayyad Caliphs",
+        "historical events of pre-Islamic Arabia",
+        "the foundational beliefs and practices that define a Muslim's faith and worship"
+      ],
+      "correctIndex": 3,
+      "explanation": "These Hadiths outline the core pillars of practice and belief central to being a Muslim, forming the foundation of Islamic religious life."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Several Hadiths in the prescribed collection teach that a Muslim should show kindness to",
+      "options": [
+        "only those who can repay the kindness",
+        "only wealthy members of the community",
+        "neighbours, regardless of their faith or background",
+        "only fellow Muslims within their own family"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Prophet strongly emphasised kindness and good treatment of neighbours as an essential part of good character in Islam."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Hadiths concerning cleanliness commonly teach that cleanliness is",
+      "options": [
+        "only necessary before Hajj",
+        "less important than wealth",
+        "half of faith (Iman)",
+        "unrelated to acts of worship"
+      ],
+      "correctIndex": 2,
+      "explanation": "A well-known Hadith states that cleanliness is half of faith, underscoring its spiritual as well as physical importance in Islam."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Hadiths that address 'forbidden acts' (Muharramat) generally instruct Muslims to",
+      "options": [
+        "engage freely in any action without restriction",
+        "avoid actions and behaviours that Allah and His Prophet have prohibited",
+        "follow only local customs regardless of religious guidance",
+        "prioritise personal preference over Islamic teaching"
+      ],
+      "correctIndex": 1,
+      "explanation": "Teachings on forbidden acts guide Muslims to steer clear of behaviours explicitly prohibited in Islamic law and Prophetic teaching."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A Hadith is generally classified as 'Sahih' (authentic) when its chain of narrators is found to be",
+      "options": [
+        "broken at multiple points with unknown narrators",
+        "narrated by only one unreliable individual",
+        "unbroken, and each narrator trustworthy and precise in memory",
+        "passed down without any chain of narration at all"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scholars classify a Hadith as Sahih (authentic) when it has a continuous, verifiable chain of trustworthy and accurate narrators, along with a sound text."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A Hadith Qudsi is distinct from an ordinary Prophetic Hadith mainly because its meaning is attributed to",
+      "options": [
+        "one of the Prophet's companions only",
+        "Allah Himself, though expressed in the Prophet's own words",
+        "later Islamic scholars",
+        "an angel other than Jibril"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Hadith Qudsi conveys a divine message from Allah, but unlike the Qur'an, it is phrased in the Prophet's own wording rather than being a direct scriptural revelation."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Imam Al-Bukhari is especially renowned among Hadith scholars for his",
+      "options": [
+        "role as one of the four Rightly Guided Caliphs",
+        "collection of only weak and unreliable narrations",
+        "extremely rigorous standards in verifying the authenticity of each Hadith he included",
+        "authorship of the Qur'an's commentary alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Imam Al-Bukhari applied exceptionally strict criteria when authenticating Hadiths, contributing to his collection's status as the most trusted in Islam."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A Hadith among An-Nawawi's collection teaching that 'None of you truly believes until he loves for his brother what he loves for himself' emphasises",
+      "options": [
+        "the obligation of the Hajj pilgrimage",
+        "empathy, brotherhood, and selflessness among believers",
+        "strict ritual purity requirements",
+        "the prohibition of specific foods"
+      ],
+      "correctIndex": 1,
+      "explanation": "This well-known Hadith highlights the importance of genuine empathy and goodwill toward fellow believers as a mark of true faith."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A Hadith teaching that 'the strong believer is better... than the weak believer' while both remain good is generally understood to encourage",
+      "options": [
+        "pride and arrogance over other believers",
+        "rejection of anyone perceived as physically weak",
+        "physical strength alone, without regard for character",
+        "striving for strength of character, effort, and capability while maintaining humility"
+      ],
+      "correctIndex": 3,
+      "explanation": "This Hadith encourages believers to strive for strength (in faith, effort, and capability) while still valuing goodness in every believer regardless of ability."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Hadiths concerning manners (Adab) commonly teach Muslims to",
+      "options": [
+        "avoid greeting anyone outside their immediate family",
+        "greet others with peace (Salam), speak kindly, and show good conduct in daily interactions",
+        "ignore the feelings of others in social settings",
+        "prioritise wealth over good character"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hadiths on manners place strong emphasis on good conduct in everyday life, including greeting others warmly and speaking with kindness."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Hadith stating 'Whoever believes in Allah and the Last Day should speak good or remain silent' teaches Muslims to",
+      "options": [
+        "speak as much as possible regardless of content",
+        "remain permanently silent at all times",
+        "avoid speaking to non-Muslims",
+        "be mindful of their speech, avoiding harmful or idle talk"
+      ],
+      "correctIndex": 3,
+      "explanation": "This Hadith encourages believers to carefully consider their words, choosing to speak only what is good or otherwise to stay silent."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A Hadith teaching that 'Paradise lies at the feet of mothers' is generally understood to emphasise",
+      "options": [
+        "the requirement to perform Hajj through one's mother",
+        "the great honour and duty of kindness owed to one's mother",
+        "the superiority of fathers over mothers",
+        "a literal geographic location of Paradise"
+      ],
+      "correctIndex": 1,
+      "explanation": "This widely cited Hadith underscores the immense respect, kindness, and duty of care that children, especially sons, owe to their mothers."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The study of Hadith terminology and classification (such as Sahih, Hasan, and Da'if) is part of the broader discipline known as",
+      "options": [
+        "Tafsir",
+        "Tajwid",
+        "Mustalah al-Hadith (Hadith sciences)",
+        "Fiqh al-Muamalat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mustalah al-Hadith is the specialised field of scholarship dedicated to classifying and evaluating the authenticity of Hadith reports."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Tawhid, the foundational concept of Islamic monotheism, refers to",
+      "options": [
+        "belief in the absolute oneness and uniqueness of Allah",
+        "belief in multiple gods with Allah as the chief deity",
+        "belief that prophets should be worshipped alongside Allah",
+        "belief that angels share Allah's divine power"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tawhid is the core Islamic doctrine affirming that Allah alone is God, with no partners, equals, or associates in His divinity."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The dimension of Tawhid affirming that Allah alone is the Creator, Sustainer, and Controller of the universe is called",
+      "options": [
+        "Tawhid al-Asma was-Sifat (Names and Attributes)",
+        "Shirk al-Asghar",
+        "Tawhid ar-Rububiyyah (Lordship)",
+        "Tawhid al-Uluhiyyah (Worship)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tawhid ar-Rububiyyah affirms Allah's sole authority over creation, sustenance, and governance of the universe."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The dimension of Tawhid affirming that worship must be directed to Allah alone, without any partners, is called",
+      "options": [
+        "Tawhid al-Asma was-Sifat (Names and Attributes)",
+        "Tawhid ar-Rububiyyah (Lordship)",
+        "Tawhid al-Uluhiyyah (Worship)",
+        "Shirk al-Akbar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tawhid al-Uluhiyyah requires that all acts of worship, such as prayer and supplication, be directed exclusively to Allah."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The dimension of Tawhid affirming Allah's unique names and attributes, as He has described Himself, without distortion or comparison, is called",
+      "options": [
+        "Tawhid al-Asma was-Sifat (Names and Attributes)",
+        "Tawhid al-Uluhiyyah",
+        "Tawhid ar-Rububiyyah",
+        "Shirk al-Asghar"
+      ],
+      "correctIndex": 0,
+      "explanation": "This dimension affirms Allah's unique names and attributes exactly as revealed, without human distortion, denial, or comparison to created beings."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Shirk, one of the gravest sins in Islam, refers to",
+      "options": [
+        "fasting during the month of Ramadan",
+        "performing the five daily prayers",
+        "associating partners with Allah in His lordship, worship, or attributes",
+        "giving charity to the poor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shirk is the sin of ascribing partners or equals to Allah, directly violating the principle of Tawhid."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Major shirk (Shirk al-Akbar) refers to acts such as",
+      "options": [
+        "worshipping idols or other deities alongside or instead of Allah",
+        "forgetting to recite a supplication",
+        "minor acts of showing off in good deeds",
+        "small lapses in sincerity during worship"
+      ],
+      "correctIndex": 0,
+      "explanation": "Major shirk involves outright directing worship to something or someone other than Allah, which is considered to nullify one's faith."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Minor shirk (Shirk al-Asghar), while less severe than major shirk, still poses a serious spiritual danger and includes acts such as",
+      "options": [
+        "worshipping an idol openly",
+        "denying the Day of Judgement",
+        "performing good deeds to be seen and praised by others (Riya)",
+        "denying the existence of Allah entirely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Riya (showing off in worship or good deeds) is a commonly cited example of minor shirk, undermining sincerity even while outwardly appearing pious."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The Articles of Faith (Iman) in Islam include belief in Allah, His Angels, His Books, His Prophets, the Last Day, and",
+      "options": [
+        "the Islamic calendar",
+        "Al-Qadar (Divine Predestination)",
+        "the Ka'bah alone",
+        "the four Caliphs only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The six Articles of Faith conclude with belief in Al-Qadar, Allah's foreordained decree governing all that happens."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Belief in Allah's Angels, as part of the Articles of Faith, includes accepting that angels",
+      "options": [
+        "are created beings who carry out Allah's commands without disobedience",
+        "can be seen by all people at will",
+        "are equal partners with Allah in divinity",
+        "are simply symbolic figures with no real existence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muslims believe angels are obedient beings created by Allah specifically to carry out His commands, without free will to disobey."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Belief in Allah's Books, as an Article of Faith, includes accepting scriptures such as",
+      "options": [
+        "the Torah, Psalms, Gospel, and the Qur'an as the final revelation",
+        "books written by Islamic scholars after the Prophet's death",
+        "only the Torah and Gospel",
+        "only the Qur'an, with no earlier scriptures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muslims believe in earlier revealed scriptures (Torah, Psalms, Gospel) while regarding the Qur'an as the final, complete, and unaltered revelation."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Taharah, an important concept in Fiqh, refers to",
+      "options": [
+        "fasting during Ramadan",
+        "ritual and physical cleanliness required for acts of worship",
+        "the annual almsgiving obligation",
+        "the pilgrimage to Makkah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taharah encompasses the rules of cleanliness, both physical and ritual, necessary before performing acts of worship such as prayer."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The ritual washing performed before the five daily prayers, involving washing the face, hands, and feet, is called",
+      "options": [
+        "Sawm",
+        "Ghusl",
+        "Wudu (ablution)",
+        "Tayammum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wudu is the minor ritual ablution performed before prayer, involving washing specific parts of the body in a prescribed order."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The full ritual bath required after major impurity, such as after sexual intercourse, is called",
+      "options": [
+        "Ghusl",
+        "Wudu",
+        "Tayammum",
+        "Zakat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ghusl is the complete ritual washing of the entire body, required to remove major ritual impurity before worship."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The dry ablution performed using clean sand or dust, when water is unavailable or its use is harmful, is called",
+      "options": [
+        "Ghusl",
+        "Wudu",
+        "Tayammum",
+        "Taharah alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tayammum permits ritual purification using clean earth or sand as a substitute for water when water is unavailable or its use would cause harm."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The obligatory five daily prayers observed by Muslims are collectively known as",
+      "options": [
+        "Hajj",
+        "Zakat",
+        "Sawm",
+        "Salat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Salat refers to the five daily obligatory prayers that form one of the central pillars of Islamic worship."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The special congregational prayer performed by Muslims on Friday afternoons, replacing the Zuhr prayer, is called",
+      "options": [
+        "Tahajjud prayer",
+        "Janazah prayer",
+        "Eid prayer",
+        "Jumu'ah prayer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jumu'ah is the obligatory Friday congregational prayer for Muslim men, including a sermon (khutbah), replacing the regular Zuhr prayer."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The special prayer performed to mark the two major Islamic festivals, Eid al-Fitr and Eid al-Adha, is called",
+      "options": [
+        "Jumu'ah prayer",
+        "Eid prayer",
+        "Witr prayer",
+        "Janazah prayer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eid prayers are special congregational prayers performed on the mornings of Eid al-Fitr and Eid al-Adha to celebrate these festivals."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The funeral prayer performed for a deceased Muslim, involving no bowing or prostration, is called",
+      "options": [
+        "Janazah prayer",
+        "Eid prayer",
+        "Tahajjud prayer",
+        "Jumu'ah prayer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Janazah is the special funeral prayer offered collectively for a deceased Muslim, distinct in form from the regular daily prayers."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Zakat, the compulsory almsgiving pillar of Islam, is generally calculated as a set percentage of a Muslim's",
+      "options": [
+        "daily expenses only",
+        "total income regardless of any threshold",
+        "inherited property alone, excluding cash savings",
+        "qualifying wealth held above a minimum threshold (nisab) for a full lunar year"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zakat is calculated on qualifying wealth that meets or exceeds the nisab (minimum threshold) and has been held for a full lunar year, typically at a rate of 2.5%."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Zakat funds are specifically intended to be distributed to categories such as",
+      "options": [
+        "the poor, the needy, and other eligible recipients specified in the Qur'an",
+        "any purpose the payer personally prefers",
+        "only the wealthy members of society",
+        "only the ruling government's treasury"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Qur'an (Surah At-Tawbah 9:60) specifies particular categories of eligible recipients for Zakat, including the poor, the needy, and other defined groups."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Sawm, the obligatory fasting observed during the month of Ramadan, involves abstaining from food, drink, and other prescribed acts from",
+      "options": [
+        "dawn until sunset",
+        "noon until midnight",
+        "sunset until dawn",
+        "morning until noon only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muslims observing Sawm during Ramadan abstain from eating, drinking, and other specific acts from the break of dawn until sunset each day."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Among those exempted from fasting during Ramadan, with an obligation to make up missed days later, are",
+      "options": [
+        "the very young children",
+        "the wealthy",
+        "healthy adults with no valid excuse",
+        "the sick and travellers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Islam provides exemptions from fasting for those who are sick or travelling, with an obligation to make up the missed days once able."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Hajj, the pilgrimage to Makkah, is obligatory upon every adult Muslim who",
+      "options": [
+        "has memorised the entire Qur'an",
+        "is physically and financially able to undertake the journey",
+        "has performed Umrah at least once before",
+        "is above the age of sixty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hajj is required once in a lifetime for every adult Muslim who has the physical capability and financial means to perform it."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A central rite of Hajj involves circling the Kaaba seven times, known as",
+      "options": [
+        "Sa'i",
+        "Ramy al-Jamarat",
+        "Wuquf",
+        "Tawaf"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tawaf is the ritual of circumambulating the Kaaba seven times, a core rite performed during both Hajj and Umrah."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Another key rite of Hajj involves walking or running seven times between the hills of Safa and Marwah, known as",
+      "options": [
+        "Wuquf",
+        "Ihram",
+        "Sa'i",
+        "Tawaf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sa'i commemorates Hajar's search for water for her son Isma'il, and involves pilgrims moving between the hills of Safa and Marwah seven times."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The standing (vigil) at the plain of Arafah, considered the most essential rite of Hajj, is called",
+      "options": [
+        "Tawaf",
+        "Sa'i",
+        "Ramy al-Jamarat",
+        "Wuquf"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wuquf at Arafah is regarded as the most essential pillar of Hajj; a pilgrimage without this standing is considered invalid."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Shariah is best described as",
+      "options": [
+        "the comprehensive body of Islamic law derived from divine sources",
+        "a set of local customs with no religious basis",
+        "a single book written by early Islamic scholars",
+        "a term referring only to criminal punishments"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shariah encompasses the full body of Islamic law governing worship, ethics, and social conduct, drawn from foundational Islamic sources."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The primary sources of Shariah, in order of authority, are generally identified as",
+      "options": [
+        "local tribal customs alone",
+        "only the Qur'an, with no other sources recognised",
+        "the personal opinions of any individual scholar",
+        "the Qur'an, the Sunnah, Ijma (consensus), and Qiyas (analogical reasoning)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Islamic jurisprudence draws primarily from the Qur'an and Sunnah, supplemented by scholarly consensus (Ijma) and analogical reasoning (Qiyas) where needed."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Ijma, as a source of Islamic law, refers to",
+      "options": [
+        "the consensus of qualified Islamic scholars on a particular legal matter",
+        "a ruling made unilaterally by one ruler",
+        "a verse taken directly from the Qur'an",
+        "a Hadith narrated by a single companion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ijma represents the collective agreement of qualified scholars on an issue not explicitly addressed in the Qur'an or Sunnah."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Qiyas, as a source of Islamic law, refers to",
+      "options": [
+        "the personal preference of a single judge",
+        "a ruling based purely on local custom",
+        "direct quotation from the Qur'an alone",
+        "reasoning by analogy to extend a known ruling to a new, similar situation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Qiyas involves applying the reasoning behind an existing ruling to a new case that shares similar underlying circumstances."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The period in Arabian history before the advent of Islam, characterised by ignorance and widespread idol worship, is called",
+      "options": [
+        "the Age of the Caliphs",
+        "the Hijrah period",
+        "the Abbasid era",
+        "Jahiliyyah (the Age of Ignorance)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jahiliyyah describes the pre-Islamic period in Arabia, marked by idolatry, tribalism, and various social ills that Islam later addressed."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "In the pre-Islamic era, the Arabian Peninsula's social structure was strongly organised around",
+      "options": [
+        "tribal affiliation and kinship loyalty",
+        "a unified written legal code",
+        "an organised democratic parliament",
+        "a single centralised monarchy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pre-Islamic Arabian society was fragmented into tribes, with loyalty and identity centred primarily around kinship and clan ties."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "A significant social practice condemned by Islam that was prevalent during the Jahiliyyah era was",
+      "options": [
+        "universal literacy education",
+        "monotheistic worship of one God",
+        "central taxation systems",
+        "female infanticide (burying infant daughters alive)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The practice of burying infant daughters alive, driven by social prejudice against girls, was a grave injustice that Islam explicitly condemned and abolished."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Prophet Muhammad (S.A.W) was born in the city of",
+      "options": [
+        "Makkah",
+        "Madinah",
+        "Ta'if",
+        "Jerusalem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prophet Muhammad was born in Makkah, a city that was already an important trading and religious centre in Arabia."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Prophet Muhammad (S.A.W) received his first revelation and call to prophethood at approximately the age of",
+      "options": [
+        "thirteen",
+        "twenty-five",
+        "sixty-three",
+        "forty"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Prophet received his first revelation in the Cave of Hira at around the age of forty, marking the beginning of his prophetic mission."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "In the early years of his prophetic mission in Makkah, Prophet Muhammad (S.A.W) and his followers faced",
+      "options": [
+        "immediate widespread acceptance by all Makkans",
+        "no opposition of any kind",
+        "intense persecution from the Makkan tribal leaders",
+        "official government protection from the start"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Prophet and early Muslims endured significant persecution and hostility from Makkah's ruling tribal elite, who felt threatened by his message."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The migration of Prophet Muhammad (S.A.W) and his followers from Makkah to Madinah is known as the",
+      "options": [
+        "Hajj",
+        "Ghazwah",
+        "Hijrah",
+        "Isra and Mi'raj"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Hijrah, the migration from Makkah to Madinah in 622 CE, marks a pivotal turning point in Islamic history and the start of the Islamic calendar."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Following the Hijrah, Prophet Muhammad (S.A.W) established in Madinah what is often described as",
+      "options": [
+        "a temporary settlement with no lasting structure",
+        "a colony under Byzantine control",
+        "the first organised Islamic state, uniting diverse tribes and faith communities",
+        "a purely military camp with no civil administration"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Madinah, the Prophet built a structured community and governance system, including the Constitution of Madinah, uniting Muslims and other groups under agreed terms."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The first major battle between the Muslims of Madinah and the Makkan forces, resulting in a decisive Muslim victory despite being outnumbered, was the Battle of",
+      "options": [
+        "Uhud",
+        "Hunayn",
+        "Badr",
+        "Khandaq"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Battle of Badr in 624 CE was a significant early victory for the small Muslim force against a much larger Makkan army."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The battle in which the Muslims suffered a setback partly due to some archers leaving their assigned positions was the Battle of",
+      "options": [
+        "Tabuk",
+        "Khandaq",
+        "Badr",
+        "Uhud"
+      ],
+      "correctIndex": 3,
+      "explanation": "At the Battle of Uhud, a strategic setback occurred when a group of archers left their post prematurely, allowing the Makkan cavalry to counterattack."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The battle in which the Muslims of Madinah successfully defended the city by digging a trench around it, on the advice of Salman al-Farisi, was the Battle of",
+      "options": [
+        "Khandaq (the Trench)",
+        "Hunayn",
+        "Badr",
+        "Uhud"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Battle of the Trench (Khandaq) saw Muslims successfully repel a large confederate siege of Madinah by digging a defensive trench around the city."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The peace agreement made between the Muslims and the Makkans, initially seen by some as unfavourable to the Muslims but later regarded as a strategic victory, was the",
+      "options": [
+        "Treaty of Hudaybiyyah",
+        "Treaty of Aqabah",
+        "Farewell Sermon",
+        "Constitution of Madinah"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Treaty of Hudaybiyyah established a truce between Muslims and Makkans, ultimately allowing Islam to spread more peacefully in the following years."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The largely peaceful takeover of Makkah by the Muslims, resulting in the destruction of idols in the Kaaba, is known as",
+      "options": [
+        "the Conquest of Makkah",
+        "the Hijrah",
+        "the Battle of Badr",
+        "the Treaty of Hudaybiyyah"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Conquest of Makkah in 630 CE was achieved with minimal bloodshed, leading to the removal of idols from the Kaaba and mass conversions to Islam."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The final sermon delivered by Prophet Muhammad (S.A.W) toward the end of his life, summarising key principles of Islamic conduct and equality, is called the",
+      "options": [
+        "Treaty of Hudaybiyyah",
+        "Constitution of Madinah",
+        "Farewell Sermon",
+        "Sermon of the Trench"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Farewell Sermon, delivered during his final pilgrimage, emphasised themes of human equality, justice, and the completion of his prophetic mission."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The first Caliph to lead the Muslim community after the death of Prophet Muhammad (S.A.W) was",
+      "options": [
+        "Ali ibn Abi Talib",
+        "Abu Bakr",
+        "Uthman ibn Affan",
+        "Umar ibn al-Khattab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abu Bakr, a close companion of the Prophet, was chosen as the first Caliph, guiding the community through the challenges immediately following the Prophet's death."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "During Abu Bakr's caliphate, a major internal challenge he addressed was",
+      "options": [
+        "the standardisation of the Qur'anic text",
+        "the Wars of Apostasy (Riddah) against tribes who rejected Islamic authority",
+        "a war against the Byzantine Empire alone",
+        "the founding of Baghdad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abu Bakr's caliphate focused significantly on suppressing rebellions from tribes who renounced allegiance to Islam and refused to pay Zakat after the Prophet's death."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The second Caliph, known for major territorial expansion and significant administrative reforms such as establishing the Islamic calendar, was",
+      "options": [
+        "Uthman ibn Affan",
+        "Umar ibn al-Khattab",
+        "Ali ibn Abi Talib",
+        "Abu Bakr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Umar ibn al-Khattab oversaw substantial territorial expansion and introduced key administrative reforms, including the Hijri calendar."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The third Caliph, notable for compiling and standardising the official text of the Qur'an, was",
+      "options": [
+        "Abu Bakr",
+        "Ali ibn Abi Talib",
+        "Uthman ibn Affan",
+        "Umar ibn al-Khattab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Uthman ibn Affan's caliphate is especially remembered for the standardisation and distribution of the official Qur'anic text."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The fourth Caliph, a close relative and companion of the Prophet, whose caliphate faced significant internal political conflict, was",
+      "options": [
+        "Uthman ibn Affan",
+        "Abu Bakr",
+        "Ali ibn Abi Talib",
+        "Umar ibn al-Khattab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ali ibn Abi Talib's caliphate was marked by internal strife, including conflicts that contributed to significant divisions within the early Muslim community."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The four Caliphs who succeeded Prophet Muhammad (S.A.W) directly are collectively known as",
+      "options": [
+        "the Ottoman Sultans",
+        "Al-Khulafa'ur-Rashidun (the Rightly Guided Caliphs)",
+        "the Umayyad Caliphs",
+        "the Abbasid Caliphs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abu Bakr, Umar, Uthman, and Ali are together known as the Rightly Guided Caliphs, revered for their close association with the Prophet and their leadership."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Islam was introduced to West Africa mainly through",
+      "options": [
+        "Muslim traders and scholars travelling the trans-Saharan trade routes",
+        "direct military conquest by Arabian armies",
+        "European colonial missionaries",
+        "the arrival of Ottoman naval forces"
+      ],
+      "correctIndex": 0,
+      "explanation": "Islam spread into West Africa gradually and largely peacefully, carried by Muslim merchants and scholars engaged in trans-Saharan trade."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Among the West African empires significantly influenced by the spread of Islam were",
+      "options": [
+        "the Aztec and Inca empires",
+        "the Zulu and Xhosa kingdoms",
+        "the Roman and Byzantine empires",
+        "Mali, Songhai, and Kanem-Bornu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Islam had a profound influence on the Mali, Songhai, and Kanem-Bornu empires, shaping their governance, scholarship, and trade connections."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The spread of Islam in West Africa contributed significantly to the growth of centres of Islamic learning, such as",
+      "options": [
+        "Athens",
+        "Constantinople alone",
+        "Rome",
+        "Timbuktu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Timbuktu became a renowned centre for Islamic scholarship in West Africa, home to institutions such as the Sankore mosque and university."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "Muslim traders and scholars in West Africa played a role beyond religious teaching by also contributing to",
+      "options": [
+        "the destruction of all existing West African political institutions",
+        "the abolition of trade in the region",
+        "the spread of literacy, legal systems, and administrative practices influenced by Islamic scholarship",
+        "the introduction of European colonial administration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beyond religion, the spread of Islam brought Arabic literacy, Islamic legal thought, and administrative practices that influenced governance in West African empires."
+    },
+    {
+      "subject": "Islamic Studies",
+      "text": "The general approach through which Islam spread across much of West Africa is best described as",
+      "options": [
+        "imposed solely by European colonial powers",
+        "gradual and largely peaceful, primarily via trade and scholarship",
+        "immediate and entirely through armed conquest",
+        "spread only after the 20th century"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike some regions where Islam spread rapidly through conquest, its introduction to West Africa was generally a gradual process rooted in trade relationships and scholarly influence."
+    }
+  ]
+}

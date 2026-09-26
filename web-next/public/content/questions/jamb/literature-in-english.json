@@ -1,0 +1,2406 @@
+{
+  "subject": "Literature in English",
+  "examCategory": "jamb",
+  "questions": [
+    {
+      "subject": "Literature in English",
+      "text": "A metaphor is a figure of speech that",
+      "options": [
+        "compares two things using 'like' or 'as'",
+        "gives human qualities to non-human things",
+        "uses exaggeration for emphasis",
+        "describes one thing as being another, without using 'like' or 'as'"
+      ],
+      "correctIndex": 3,
+      "explanation": "A metaphor makes a direct, implicit comparison by stating one thing is another (e.g., 'the world is a stage'), unlike a simile, which uses 'like' or 'as'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A simile is a figure of speech that compares two unlike things using",
+      "options": [
+        "onomatopoeia only",
+        "personification",
+        "'like' or 'as'",
+        "hyperbole only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A simile makes an explicit comparison between two different things, signalled by the connecting words 'like' or 'as' (e.g., 'as brave as a lion')."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Personification is a literary device in which",
+      "options": [
+        "a part is used to represent the whole",
+        "two contrasting ideas are placed side by side",
+        "an exaggerated statement is made for effect",
+        "human qualities or actions are attributed to non-human things or abstract ideas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Personification gives human characteristics (thoughts, feelings, actions) to inanimate objects, animals, or abstract concepts, such as 'the wind whispered'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Hyperbole is a literary device that involves",
+      "options": [
+        "the use of a word that imitates a sound",
+        "understatement for ironic effect",
+        "a contradiction between two words placed together",
+        "deliberate exaggeration for emphasis or dramatic effect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hyperbole intentionally overstates something to create emphasis or a strong impression, not intended to be taken literally, e.g., 'I've told you a million times.'"
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Irony, as a literary device, refers to a situation in which",
+      "options": [
+        "human traits are given to non-human things",
+        "a statement is deliberately made more extreme than reality",
+        "there is a contrast between what is expected and what actually happens or is meant",
+        "a sound is imitated through word choice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Irony highlights a gap between appearance and reality, expectation and outcome, or literal and intended meaning, often creating a sense of surprise or critique."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Dramatic irony occurs when",
+      "options": [
+        "the audience knows something important that a character in the story does not know",
+        "an event happens that is the opposite of what was expected by everyone, including the audience",
+        "a character says the exact opposite of what they mean",
+        "two words with opposite meanings are placed side by side"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dramatic irony creates tension or humour because the audience possesses information a character lacks, making the character's words or actions carry additional meaning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A soliloquy, common in Shakespearean drama, is best described as",
+      "options": [
+        "a stage direction describing the setting",
+        "a conversation between two or more characters",
+        "a speech in which a character, alone on stage, reveals their inner thoughts to the audience",
+        "a song performed by a chorus"
+      ],
+      "correctIndex": 2,
+      "explanation": "A soliloquy allows a character to express private thoughts and feelings directly to the audience, as though thinking aloud, typically while alone on stage."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An aside, in drama, refers to",
+      "options": [
+        "a brief remark made by a character directly to the audience, unheard by other characters on stage",
+        "the main climax of a play",
+        "a stage direction indicating the time period",
+        "a long speech delivered to all characters present"
+      ],
+      "correctIndex": 0,
+      "explanation": "An aside is a short comment a character makes that is understood to be heard by the audience but not by the other characters present in the scene."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Tragedy, as a literary genre, typically involves",
+      "options": [
+        "a protagonist whose downfall results from a fatal flaw or a combination of circumstances beyond their control",
+        "a purely factual, non-fictional account of events",
+        "a lighthearted plot that always ends happily",
+        "a series of unconnected short poems"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classical tragedy centres on a protagonist (often of high status) whose serious flaw or unfortunate circumstances lead to their downfall, evoking pity and fear in the audience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A tragic hero's downfall is often attributed to a personal flaw known as",
+      "options": [
+        "hamartia",
+        "hubris only, and never any other flaw",
+        "anagnorisis",
+        "catharsis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hamartia refers to the tragic hero's inherent flaw or error in judgement that sets in motion the chain of events leading to their downfall."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Catharsis, a concept from Aristotle's theory of tragedy, refers to the",
+      "options": [
+        "final scene of any dramatic work",
+        "emotional release or purification experienced by the audience after watching a tragedy",
+        "moment a character recognises the truth about their situation",
+        "resolution of the main conflict in a comedy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Catharsis describes the emotional cleansing or release of pity and fear that Aristotle believed audiences experience by witnessing the events of a tragedy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A protagonist in a literary work is best described as",
+      "options": [
+        "the narrator of the story only",
+        "a minor character with little influence on the plot",
+        "the character who opposes the main character",
+        "the central character around whom the main action of the story revolves"
+      ],
+      "correctIndex": 3,
+      "explanation": "The protagonist is the principal character whose goals, conflicts, and development typically drive the central plot of a literary work."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An antagonist in a literary work is best described as",
+      "options": [
+        "a character who narrates the events of the story",
+        "the central character of the story",
+        "the character or force that opposes the protagonist",
+        "the setting in which the story takes place"
+      ],
+      "correctIndex": 2,
+      "explanation": "The antagonist creates conflict by opposing the protagonist's goals or desires, driving much of the tension in the plot."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Setting, as an element of a literary work, refers to the",
+      "options": [
+        "time and place in which the events of the story occur",
+        "sequence of events in the plot",
+        "central message or lesson of the story",
+        "list of characters involved in the story"
+      ],
+      "correctIndex": 0,
+      "explanation": "Setting establishes the historical period, geographical location, and social context within which a narrative's events unfold."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Theme, in literature, refers to the",
+      "options": [
+        "list of characters appearing in the story",
+        "physical location where the story is set",
+        "sequence of events that make up the plot",
+        "central idea, message, or underlying meaning explored in a literary work"
+      ],
+      "correctIndex": 3,
+      "explanation": "A theme is the deeper, often universal, idea or insight a literary work explores or comments on, distinct from the literal plot events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Plot, as an element of a literary work, refers to the",
+      "options": [
+        "time and place in which the story occurs",
+        "structured sequence of events that make up the story",
+        "individual characters who appear in the story",
+        "moral lesson conveyed by the story"
+      ],
+      "correctIndex": 1,
+      "explanation": "Plot is the organised arrangement of events and actions in a narrative, typically involving exposition, rising action, climax, falling action, and resolution."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Characterisation refers to the",
+      "options": [
+        "rhyme scheme used in a poem",
+        "methods a writer uses to develop and reveal a character's personality and traits",
+        "central theme explored by the author",
+        "physical setting of the literary work"
+      ],
+      "correctIndex": 1,
+      "explanation": "Characterisation encompasses the techniques (dialogue, action, description, other characters' reactions) an author uses to construct and reveal a character to the reader."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A flat character in a literary work is one who",
+      "options": [
+        "always serves as the story's protagonist",
+        "narrates the events of the story",
+        "is simple, one-dimensional, and does not undergo significant development",
+        "changes and develops significantly throughout the story"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flat characters are relatively simple, often defined by a single dominant trait, and typically do not undergo the depth of development seen in more complex, rounded characters."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A round character in a literary work is one who",
+      "options": [
+        "appears only briefly in a single scene",
+        "is complex, multi-dimensional, and often undergoes significant development",
+        "is simple and unchanging throughout the story",
+        "exists purely to narrate the events of the plot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Round characters possess complex, realistic personalities and often evolve meaningfully in response to the story's events, unlike simpler flat characters."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In poetry, a stanza refers to a",
+      "options": [
+        "group of lines forming a unit, similar to a paragraph in prose",
+        "specific type of rhyme scheme only",
+        "single word repeated at the end of consecutive lines",
+        "type of dramatic monologue"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stanza is a grouped set of lines within a poem, functioning structurally in a similar way to a paragraph in prose writing."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Alliteration is a literary device involving the",
+      "options": [
+        "use of a word that imitates the sound it describes",
+        "repetition of an entire line at intervals throughout a poem",
+        "repetition of the same initial consonant sound in nearby words",
+        "direct comparison of two things using 'like' or 'as'"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alliteration repeats the same consonant sound at the beginning of neighbouring words (e.g., 'the wild wind whispered'), often used for rhythm and emphasis."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Onomatopoeia is a literary device in which a word",
+      "options": [
+        "is repeated for emphasis at the end of a line",
+        "imitates or suggests the natural sound it describes",
+        "compares two unlike things using 'like' or 'as'",
+        "gives human traits to an inanimate object"
+      ],
+      "correctIndex": 1,
+      "explanation": "Onomatopoeic words (e.g., 'buzz', 'clang', 'hiss') mimic the actual sound associated with the thing they describe, adding sensory vividness to writing."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A symbol, in literature, is an object, person, or event that",
+      "options": [
+        "represents a deeper meaning beyond its literal sense",
+        "always refers exclusively to a religious concept",
+        "has no significance beyond its literal, physical presence",
+        "only appears in poetry, never in prose or drama"
+      ],
+      "correctIndex": 0,
+      "explanation": "A symbol carries meaning beyond its literal identity, standing in for a broader idea, theme, or concept within a literary work, such as a dove symbolising peace."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Foreshadowing, as a narrative technique, involves",
+      "options": [
+        "revealing the full ending of a story at its very beginning",
+        "giving hints or clues earlier in a story about events that will happen later",
+        "using dialogue exclusively to develop the plot",
+        "describing a character's physical appearance in detail"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foreshadowing plants subtle clues or hints about future plot developments, building anticipation or tension without fully revealing what is to come."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A flashback, as a narrative technique, involves",
+      "options": [
+        "interrupting the present action of a story to depict an earlier event",
+        "combining two separate stories into a single narrative",
+        "predicting future events before they occur",
+        "describing the setting of a story in great detail"
+      ],
+      "correctIndex": 0,
+      "explanation": "A flashback shifts the narrative back in time from the current point in the story, often providing background information or context relevant to present events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Comedy, as a literary genre, is typically characterised by",
+      "options": [
+        "a purely factual, non-fictional account of real events",
+        "a light-hearted tone and a resolution that is generally happy or favourable for the main characters",
+        "the complete absence of any conflict or tension",
+        "a serious tone ending in the protagonist's downfall or death"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comedy typically employs humour and wit, often involving misunderstandings or obstacles that are ultimately resolved happily, contrasting with the serious, often fatal, outcomes of tragedy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A narrator who tells a story using pronouns such as 'he', 'she', and 'they', without being a character in the story, is described as using",
+      "options": [
+        "first-person narration",
+        "third-person narration",
+        "dramatic narration",
+        "second-person narration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Third-person narration recounts events from outside the story using external pronouns, unlike first-person narration, which uses 'I' and involves a narrator who is also a character."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Antony and Cleopatra, a play prescribed on the JAMB Literature syllabus, was written by",
+      "options": [
+        "J.B. Priestley",
+        "Efua Sutherland",
+        "William Shakespeare",
+        "Robert Bolt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antony and Cleopatra is a tragedy by William Shakespeare, based on the historical relationship between the Roman general Mark Antony and the Egyptian queen Cleopatra."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Antony and Cleopatra, Mark Antony is a Roman general who is romantically involved with",
+      "options": [
+        "Octavia, sister of Octavius Caesar, exclusively",
+        "Enobarbus's wife",
+        "Charmian, Cleopatra's attendant",
+        "Cleopatra, the Queen of Egypt"
+      ],
+      "correctIndex": 3,
+      "explanation": "The central relationship of the play is the passionate romantic and political alliance between Antony and Cleopatra, which conflicts with Antony's duties as a Roman leader."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Antony and Cleopatra, Antony forms a political alliance with Rome (the Second Triumvirate) alongside Octavius Caesar and",
+      "options": [
+        "Enobarbus",
+        "Pompey",
+        "Agrippa",
+        "Lepidus"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Second Triumvirate in the play consists of Mark Antony, Octavius Caesar, and Lepidus, ruling different parts of the Roman world."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Antony and Cleopatra, Antony marries Octavia mainly in an attempt to",
+      "options": [
+        "gain the throne of Egypt through marriage",
+        "escape from Cleopatra's influence permanently",
+        "strengthen and cement his political alliance with her brother, Octavius Caesar",
+        "please the citizens of Alexandria"
+      ],
+      "correctIndex": 2,
+      "explanation": "Antony's marriage to Octavia is primarily a political move intended to reconcile and solidify his fragile alliance with Octavius Caesar, though it ultimately fails when Antony returns to Cleopatra."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Enobarbus, a key supporting character in Antony and Cleopatra, is best described as",
+      "options": [
+        "a loyal friend and soldier to Antony who eventually deserts him",
+        "Cleopatra's brother",
+        "the ruler of Rome",
+        "Antony's chief political rival"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enobarbus is Antony's loyal companion for much of the play, but he eventually abandons Antony for Octavius Caesar's side, later dying of grief over his betrayal."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The famous description of Cleopatra's barge, describing her as an image where 'age cannot wither her, nor custom stale her infinite variety,' is delivered by",
+      "options": [
+        "Octavius Caesar",
+        "Antony",
+        "Enobarbus",
+        "Charmian"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enobarbus delivers this celebrated description of Cleopatra's magnetic and endlessly captivating charm to fellow Romans, capturing her legendary allure."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Antony and Cleopatra, the naval battle at Actium is significant because",
+      "options": [
+        "it is fought entirely on land rather than at sea",
+        "Antony suffers a decisive defeat after following Cleopatra's fleet as it retreats",
+        "it results in a decisive victory that secures Antony's control over Rome",
+        "it takes place after Antony's death"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Battle of Actium marks a critical turning point: Antony's forces are defeated after he follows Cleopatra's retreating ships, severely damaging his military and political standing."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "At the end of Antony and Cleopatra, Antony dies by",
+      "options": [
+        "falling on his own sword after mistakenly believing Cleopatra is dead",
+        "drowning during the Battle of Actium",
+        "being executed by Octavius Caesar's soldiers",
+        "being poisoned by Cleopatra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antony, believing a false report that Cleopatra has died, attempts suicide by falling on his sword, dying shortly afterward in Cleopatra's monument."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Cleopatra's death at the end of the play is caused by",
+      "options": [
+        "a fatal wound suffered in battle",
+        "the bite of an asp (venomous snake) that she deliberately allows to bite her",
+        "poison administered by Octavius Caesar",
+        "natural causes after a long illness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cleopatra chooses to die with dignity by allowing an asp, smuggled to her in a basket of figs, to bite her, rather than be paraded as a captive in Octavius Caesar's triumph in Rome."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A major theme explored in Antony and Cleopatra is the conflict between",
+      "options": [
+        "urban and rural life",
+        "science and religion",
+        "youth and old age exclusively",
+        "romantic passion and political duty/responsibility"
+      ],
+      "correctIndex": 3,
+      "explanation": "The play's central tension arises from Antony being torn between his overwhelming love for Cleopatra and the political and military obligations of his role as a Roman leader."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Marriage of Anansewa, a play on the JAMB Literature syllabus, was written by",
+      "options": [
+        "Efua Sutherland",
+        "Robert Bolt",
+        "Bosede Ademilua-Afolayan",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Marriage of Anansewa is a well-known play by the Ghanaian playwright Efua Sutherland, drawing on the Anansegoro (Ananse storytelling) tradition."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In The Marriage of Anansewa, the central character Ananse is best described as a",
+      "options": [
+        "foreign trader visiting the village",
+        "cunning and resourceful father scheming to secure wealth through his daughter's marriage",
+        "wealthy chief with no financial troubles",
+        "young suitor seeking Anansewa's hand in marriage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ananse is a trickster figure, drawing on the traditional Ananse (spider) folklore character, who schemes to profit from arranging his daughter Anansewa's marriage to multiple wealthy suitors simultaneously."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In The Marriage of Anansewa, Ananse's scheme involves",
+      "options": [
+        "giving away his daughter for free to the poorest suitor",
+        "arranging a marriage without asking for any dowry",
+        "refusing all suitors who ask for his daughter's hand",
+        "promising his daughter Anansewa in marriage to several wealthy chiefs at the same time to extract gifts from each"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ananse's central trick is accepting proposals and gifts from multiple wealthy chiefs simultaneously, intending to eventually choose just one, exploiting the others for material gain."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The character Anansewa, in The Marriage of Anansewa, is best described as",
+      "options": [
+        "a rival trickster figure to Ananse",
+        "Ananse's wife, who supports his scheming",
+        "a foreign princess visiting Ananse's village",
+        "Ananse's daughter, whose marriage is used as a pawn in her father's scheme"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anansewa is Ananse's daughter, whose feelings and wellbeing are largely subordinated to her father's elaborate financial scheme involving her marriage prospects."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A major theme explored in The Marriage of Anansewa is",
+      "options": [
+        "the industrial revolution and its effects on rural life",
+        "greed and the exploitation of family relationships for material gain",
+        "the discovery of a hidden natural resource",
+        "war between two rival nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "The play critiques Ananse's greedy manipulation of his own daughter's marriage prospects purely for personal financial benefit, exploring themes of deception and exploitation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The dramatic style of The Marriage of Anansewa draws heavily on the Ghanaian storytelling tradition known as",
+      "options": [
+        "Kabuki",
+        "Anansegoro",
+        "Commedia dell'arte",
+        "Greek tragedy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anansegoro is a Ghanaian theatrical tradition derived from Ananse (spider) trickster folktales, and Efua Sutherland adapted this storytelling style into a formal dramatic structure in the play."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Once Upon an Elephant, an alternative African drama text on the JAMB syllabus, was written by",
+      "options": [
+        "Wole Soyinka",
+        "Bosede Ademilua-Afolayan",
+        "Efua Sutherland",
+        "J.B. Priestley"
+      ],
+      "correctIndex": 1,
+      "explanation": "Once Upon an Elephant is a Nigerian play by Bosede Ademilua-Afolayan, offered as an alternative African drama text alongside The Marriage of Anansewa on the harmonized syllabus."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Once Upon an Elephant, as an African drama text, generally engages with themes relating to",
+      "options": [
+        "European industrial history",
+        "African cultural heritage, tradition, and societal values",
+        "Antarctic exploration",
+        "space travel and futuristic technology"
+      ],
+      "correctIndex": 1,
+      "explanation": "As with much African drama on the syllabus, the play engages with themes of cultural heritage and tradition, reflecting concerns central to African dramatic literature."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A Man for All Seasons, a play on the JAMB Literature syllabus, was written by",
+      "options": [
+        "Robert Bolt",
+        "William Shakespeare",
+        "J.B. Priestley",
+        "Efua Sutherland"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Man for All Seasons is a historical drama by the English playwright Robert Bolt, depicting the life and principled stand of Sir Thomas More."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A Man for All Seasons centres on the life of",
+      "options": [
+        "a fictional English merchant with no historical basis",
+        "King Henry VIII himself as the main protagonist",
+        "Queen Elizabeth I of England",
+        "Sir Thomas More, who refuses to support King Henry VIII's divorce and remarriage"
+      ],
+      "correctIndex": 3,
+      "explanation": "The play dramatises the true story of Sir Thomas More, who was ultimately executed for refusing to endorse King Henry VIII's break from the Catholic Church to remarry."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of A Man for All Seasons is",
+      "options": [
+        "the exploration of unknown territories overseas",
+        "romantic love overcoming social class barriers",
+        "individual conscience and moral integrity in the face of political pressure",
+        "the industrialisation of English society"
+      ],
+      "correctIndex": 2,
+      "explanation": "The play explores Thomas More's unwavering commitment to his personal and religious conscience, even at the cost of his life, when pressured by the King to compromise his principles."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In A Man for All Seasons, the character called 'The Common Man' functions mainly as",
+      "options": [
+        "King Henry VIII's most trusted advisor",
+        "the play's chief antagonist",
+        "a narrator and commentator who plays several minor roles throughout the play",
+        "Thomas More's son"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Common Man serves as a versatile narrator figure, addressing the audience directly and taking on multiple minor roles, providing commentary on the unfolding events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "At the end of A Man for All Seasons, Sir Thomas More is",
+      "options": [
+        "exiled from England permanently",
+        "pardoned and restored to his position as Chancellor",
+        "reconciled with King Henry VIII",
+        "executed for treason after refusing to take the Oath of Supremacy"
+      ],
+      "correctIndex": 3,
+      "explanation": "More is ultimately convicted and executed for treason after steadfastly refusing to swear the Oath of Supremacy, which would have required him to recognise the King's authority over the Church."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An Inspector Calls, a play on the JAMB Literature syllabus, was written by",
+      "options": [
+        "J.B. Priestley",
+        "Harper Lee",
+        "William Shakespeare",
+        "Robert Bolt"
+      ],
+      "correctIndex": 0,
+      "explanation": "An Inspector Calls is a play by the English playwright J.B. Priestley, exploring themes of social responsibility through the mysterious investigation of a young woman's death."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In An Inspector Calls, the character Inspector Goole visits the Birling family to investigate the",
+      "options": [
+        "murder of a local business rival",
+        "suicide of a young working-class woman named Eva Smith",
+        "disappearance of the Birlings' youngest son",
+        "theft of valuable family jewellery"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inspector Goole arrives to question the Birling family about their individual roles in the events leading to the suicide of Eva Smith, a young working-class woman."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of An Inspector Calls is",
+      "options": [
+        "the benefits of unregulated capitalism",
+        "the joys of family reconciliation",
+        "collective social responsibility and the consequences of individual actions on others",
+        "the exploration of space and time travel"
+      ],
+      "correctIndex": 2,
+      "explanation": "Priestley uses the play to argue that individuals bear responsibility for the wellbeing of others in society, critiquing selfish, class-based indifference to the suffering of the less fortunate."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "At the end of An Inspector Calls, it is revealed that",
+      "options": [
+        "Inspector Goole was definitively proven to be a real police officer",
+        "Eva Smith was found alive and unharmed",
+        "the entire investigation was immediately dismissed as irrelevant by the family",
+        "Inspector Goole's true identity and the true sequence of events remain deliberately ambiguous, adding a supernatural or moral dimension to the play"
+      ],
+      "correctIndex": 3,
+      "explanation": "The play's ending leaves open questions about whether Inspector Goole was a real inspector, a moral device, or something supernatural, reinforcing its central message about responsibility regardless of the literal explanation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An Inspector Calls is notable for its use of dramatic structure that unfolds in",
+      "options": [
+        "multiple settings across several different countries",
+        "an entirely wordless, mime-based performance style",
+        "real time, largely within a single setting (the Birling family's dining room)",
+        "a non-linear structure jumping between many decades"
+      ],
+      "correctIndex": 2,
+      "explanation": "The play largely adheres to the classical unities, unfolding in continuous real time within essentially one setting, heightening the tension of the investigation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "So the Path Does Not Die, a novel on the JAMB Literature syllabus, was written by",
+      "options": [
+        "Pede Hollist",
+        "Elma Shaw",
+        "Harper Lee",
+        "Susanne Bellefeuille"
+      ],
+      "correctIndex": 0,
+      "explanation": "So the Path Does Not Die is a novel by the Sierra Leonean-American writer Pede Hollist."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "So the Path Does Not Die is primarily set in which West African country?",
+      "options": [
+        "Nigeria",
+        "Sierra Leone",
+        "Ghana",
+        "Senegal"
+      ],
+      "correctIndex": 1,
+      "explanation": "The novel is set primarily in Sierra Leone, drawing on the author's own Sierra Leonean background and cultural context."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central concern of So the Path Does Not Die relates to",
+      "options": [
+        "a European colonial administrator's diary",
+        "a war between two rival West African kingdoms",
+        "the discovery of oil reserves in a coastal village",
+        "the impact of a harmful traditional practice on the life of its central female character"
+      ],
+      "correctIndex": 3,
+      "explanation": "The novel engages with the lasting personal and psychological impact of a harmful traditional practice on its central female protagonist, exploring themes of tradition, trauma, and identity."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A major theme in So the Path Does Not Die is the tension between",
+      "options": [
+        "traditional cultural practices and individual autonomy or modern values",
+        "science fiction and futuristic technology",
+        "monarchy and democracy in a fictional kingdom",
+        "urban development and environmental conservation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The novel explores the conflict between deeply rooted traditional expectations and the protagonist's own sense of self and desire to define her own path in life."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Redemption Road, a novel on the JAMB Literature syllabus, was written by",
+      "options": [
+        "Harper Lee",
+        "Pede Hollist",
+        "Elma Shaw",
+        "Robert Bolt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Redemption Road is a novel by the Liberian writer Elma Shaw."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Redemption Road is primarily set against the backdrop of",
+      "options": [
+        "the industrial revolution in Britain",
+        "ancient Egyptian civilisation",
+        "modern-day Wall Street finance",
+        "civil conflict and its aftermath in Liberia"
+      ],
+      "correctIndex": 3,
+      "explanation": "The novel is set in Liberia and engages with the lasting effects of the Liberian civil conflict on individuals and communities."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of Redemption Road is",
+      "options": [
+        "the history of transatlantic shipping routes",
+        "healing, reconciliation, and rebuilding in the aftermath of conflict",
+        "the rivalry between two European royal families",
+        "space exploration and scientific discovery"
+      ],
+      "correctIndex": 1,
+      "explanation": "As its title suggests, the novel centrally explores paths toward personal and communal healing and reconciliation following the trauma of civil conflict."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Both So the Path Does Not Die and Redemption Road, as African prose texts on the JAMB syllabus, share a common concern with",
+      "options": [
+        "depicting purely fictional fantasy worlds unconnected to reality",
+        "chronicling the history of European exploration of Africa",
+        "exploring difficult social realities in West Africa and their impact on individual characters",
+        "describing life in wealthy, conflict-free societies"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both novels engage seriously with real, difficult social and historical realities in West Africa (harmful traditional practices and civil conflict, respectively) and their profound effects on individual lives."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Pede Hollist and Elma Shaw, the authors of the two prescribed African prose texts, are both writers connected to",
+      "options": [
+        "Northern Europe with no African connection",
+        "West Africa, drawing on their personal or ancestral connections to the region in their fiction",
+        "South America, with no connection to West Africa",
+        "Southeast Asia exclusively"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both authors have personal ties to West Africa (Sierra Leone and Liberia respectively), and their prescribed novels draw significantly on the social and historical realities of that region."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "To Kill a Mockingbird, one of the prescribed non-African prose texts, was written by",
+      "options": [
+        "Susanne Bellefeuille",
+        "Harper Lee",
+        "Robert Bolt",
+        "J.B. Priestley"
+      ],
+      "correctIndex": 1,
+      "explanation": "To Kill a Mockingbird is a celebrated novel by the American author Harper Lee, first published in 1960."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "To Kill a Mockingbird is narrated from the perspective of",
+      "options": [
+        "Atticus Finch, her father",
+        "Scout Finch, a young girl reflecting on her childhood",
+        "Boo Radley, the reclusive neighbour",
+        "Tom Robinson, the falsely accused man"
+      ],
+      "correctIndex": 1,
+      "explanation": "The novel is narrated by Jean Louise 'Scout' Finch, recalling and reflecting on events from her childhood in the fictional town of Maycomb, Alabama."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In To Kill a Mockingbird, Atticus Finch is a lawyer who defends",
+      "options": [
+        "Tom Robinson, a Black man falsely accused of raping a white woman",
+        "the reclusive neighbour, Boo Radley, in an unrelated matter",
+        "his own daughter, Scout, against false charges",
+        "Bob Ewell in a civil dispute"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atticus Finch takes on the legally and socially difficult task of defending Tom Robinson, a Black man wrongly accused of a serious crime, in the racially prejudiced setting of the American South."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A major theme explored in To Kill a Mockingbird is",
+      "options": [
+        "racial injustice and moral growth in a prejudiced society",
+        "international diplomacy between rival nations",
+        "space exploration and scientific advancement",
+        "the benefits of urban industrialisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The novel powerfully explores themes of racial prejudice, injustice, and the moral development of children (Scout and Jem) as they witness these realities in their community."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The title 'To Kill a Mockingbird' relates symbolically to the idea that",
+      "options": [
+        "it is a sin to harm innocent, harmless beings who do no wrong, such as Tom Robinson and Boo Radley",
+        "mockingbirds are dangerous pests that must be eliminated",
+        "hunting birds is a celebrated tradition in Maycomb",
+        "Atticus Finch is himself literally a bird hunter"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mockingbird symbolises innocent characters (notably Tom Robinson and Boo Radley) who are harmed despite doing nothing but good, reflecting the novel's central moral concern."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Boo Radley, a significant character in To Kill a Mockingbird, is initially portrayed to the children as",
+      "options": [
+        "Scout's teacher at school",
+        "a mysterious, reclusive neighbour who is the subject of local rumours and fear",
+        "Atticus Finch's law partner",
+        "the town's respected mayor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boo Radley is initially depicted as a frightening, mysterious figure in local legend, though he is later revealed to be a gentle, protective presence in the children's lives."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "At the end of To Kill a Mockingbird, Tom Robinson is",
+      "options": [
+        "acquitted and freed by the jury",
+        "never brought to trial at all",
+        "convicted by the all-white jury despite clear evidence of his innocence, and is later killed while attempting to escape prison",
+        "found to have committed the crime after new evidence emerges"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite Atticus's compelling defence and clear evidence pointing to his innocence, Tom Robinson is convicted by the prejudiced jury, and is later shot and killed while attempting to escape custody."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Path of Lucas: The Journey He Endured, an alternative non-African prose text on the JAMB syllabus, was written by",
+      "options": [
+        "Susanne Bellefeuille",
+        "Pede Hollist",
+        "Harper Lee",
+        "Elma Shaw"
+      ],
+      "correctIndex": 0,
+      "explanation": "Path of Lucas: The Journey He Endured is a novel by Susanne Bellefeuille, offered as an alternative non-African prose text alongside To Kill a Mockingbird on the harmonized syllabus."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "As suggested by its title, Path of Lucas: The Journey He Endured centrally concerns",
+      "options": [
+        "an adventure story set entirely in outer space",
+        "a historical account of European colonisation",
+        "a purely comedic tale with no serious themes",
+        "the personal struggles and journey of endurance faced by its central character, Lucas"
+      ],
+      "correctIndex": 3,
+      "explanation": "As the title indicates, the novel follows the difficult personal journey and hardships endured by its central character, Lucas, a theme reflected directly in the book's title."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Which of the following is a shared thematic concern between To Kill a Mockingbird and Path of Lucas, as non-African prose texts on the syllabus?",
+      "options": [
+        "A focus purely on light-hearted, comedic events with no deeper meaning",
+        "The celebration of unchecked wealth and material success",
+        "The endurance of hardship and the pursuit of moral growth or justice",
+        "The complete absence of any central conflict"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both novels, in their own settings, explore characters enduring significant hardship while grappling with questions of justice, resilience, and moral development."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'Once Upon a Time' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Syl Cheney-Coker",
+        "Gabriel Okara",
+        "Wole Soyinka",
+        "Niyi Osundare"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Once Upon a Time' is a well-known poem by the Nigerian poet Gabriel Okara."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of Gabriel Okara's 'Once Upon a Time' is",
+      "options": [
+        "the loss of genuine human sincerity and warmth in modern, sophisticated society",
+        "the celebration of technological progress",
+        "the joys of childhood without any deeper reflection",
+        "a description of a beautiful natural landscape"
+      ],
+      "correctIndex": 0,
+      "explanation": "The poem laments how people have become insincere and superficial in their social interactions ('laugh with their eyes while their ice-block-cold eyes search behind my shadow'), contrasting this with a more genuine past."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In 'Once Upon a Time', the speaker expresses a desire to",
+      "options": [
+        "travel to a foreign country permanently",
+        "forget his own children completely",
+        "become wealthier than his neighbours",
+        "relearn how to laugh and be genuinely sincere, as he once was as a child"
+      ],
+      "correctIndex": 3,
+      "explanation": "The poem's speaker, addressing his son, wishes to unlearn the artificial habits of adulthood and rediscover the genuine, unguarded sincerity he had as a child."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'New Tongue' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Wole Soyinka",
+        "Elizabeth L.A. Kamara",
+        "Niyi Osundare",
+        "S.O.H. Afriyie-Vidza"
+      ],
+      "correctIndex": 1,
+      "explanation": "'New Tongue' is a poem by the Sierra Leonean poet Elizabeth L.A. Kamara, included on the harmonized JAMB Literature syllabus."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'Night' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Syl Cheney-Coker",
+        "Gabriel Okara",
+        "Niyi Osundare",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Night' is a poem by the Nigerian Nobel laureate Wole Soyinka, exploring imagery and reflection associated with the night."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'Not My Business' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Elizabeth L.A. Kamara",
+        "Wole Soyinka",
+        "Gabriel Okara",
+        "Niyi Osundare"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Not My Business' is a well-known poem by the Nigerian poet Niyi Osundare."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of Niyi Osundare's 'Not My Business' is",
+      "options": [
+        "the beauty of a rural farming landscape",
+        "the joys of international travel",
+        "the danger of indifference to injustice suffered by others, since it may eventually affect oneself",
+        "a celebration of a wedding ceremony"
+      ],
+      "correctIndex": 2,
+      "explanation": "The poem uses a repeated refrain of persecuted neighbours to warn against complacent indifference to injustice, since the speaker ultimately becomes a victim themselves."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'Hearty Garlands' on the JAMB Literature syllabus was written by",
+      "options": [
+        "S.O.H. Afriyie-Vidza",
+        "Syl Cheney-Coker",
+        "Wole Soyinka",
+        "Gabriel Okara"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Hearty Garlands' is a poem by S.O.H. Afriyie-Vidza, included among the prescribed African poems on the harmonized JAMB Literature syllabus."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'The Breasts of the Sea' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Gabriel Okara",
+        "Niyi Osundare",
+        "Syl Cheney-Coker",
+        "Wole Soyinka"
+      ],
+      "correctIndex": 2,
+      "explanation": "'The Breasts of the Sea' is a poem by the Sierra Leonean poet Syl Cheney-Coker, featured on the harmonized JAMB Literature syllabus."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Which of the following poets on the JAMB African poetry list is a Nigerian Nobel Laureate in Literature?",
+      "options": [
+        "Wole Soyinka",
+        "Niyi Osundare",
+        "Gabriel Okara",
+        "Syl Cheney-Coker"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wole Soyinka, author of 'Night', won the Nobel Prize in Literature in 1986, becoming the first African laureate in the category."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Gabriel Okara, the poet of 'Once Upon a Time', is notable in African literature for his",
+      "options": [
+        "experimentation with translating Ijaw speech rhythms and thought patterns into English poetry and prose",
+        "work being set entirely outside Africa",
+        "exclusive focus on writing in French",
+        "career as primarily a playwright rather than a poet or novelist"
+      ],
+      "correctIndex": 0,
+      "explanation": "Okara, a Nigerian writer of Ijaw heritage, is well known for his stylistic innovation in rendering African linguistic patterns and thought structures into English literary form."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Which theme is commonly shared across several of the prescribed African poems, such as 'Once Upon a Time' and 'Not My Business'?",
+      "options": [
+        "A detailed scientific description of natural phenomena",
+        "Social critique of dishonesty, indifference, or moral decline in society",
+        "The celebration of purely personal romantic love with no social commentary",
+        "An account of a historical military battle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both poems, in different ways, critique aspects of social behaviour — insincerity in 'Once Upon a Time' and dangerous indifference in 'Not My Business' — reflecting a broader trend of social critique in African poetry."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Elizabeth L.A. Kamara and Syl Cheney-Coker, two poets on the JAMB African poetry list, share a connection to which West African country?",
+      "options": [
+        "Ghana",
+        "Sierra Leone",
+        "Nigeria",
+        "Senegal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both Elizabeth L.A. Kamara and Syl Cheney-Coker are poets connected to Sierra Leone, reflecting the syllabus's inclusion of a range of West African literary voices."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The recurring refrain technique, in which a phrase or line is repeated throughout a poem, is often used to",
+      "options": [
+        "indicate the poem has no coherent structure",
+        "replace the need for a title",
+        "confuse the reader intentionally",
+        "reinforce a central theme or emotional emphasis"
+      ],
+      "correctIndex": 3,
+      "explanation": "Poets frequently use refrains (repeated lines or phrases) to reinforce key ideas, build rhythm, or intensify emotional impact, a technique seen in poems like 'Not My Business'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Poetic imagery, as used in the prescribed African poems, refers to the",
+      "options": [
+        "number of stanzas contained in the poem",
+        "poet's biographical background",
+        "use of vivid, descriptive language that appeals to the senses to create mental pictures",
+        "strict rhyme scheme followed throughout a poem"
+      ],
+      "correctIndex": 2,
+      "explanation": "Imagery involves language that evokes sensory experiences (sight, sound, touch, etc.), helping readers visualise and emotionally connect with the ideas expressed in a poem."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'She Walks in Beauty' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Wilfred Wilson Gibson",
+        "Lord Byron",
+        "Fleur Adcock",
+        "Geoffrey Chaucer"
+      ],
+      "correctIndex": 1,
+      "explanation": "'She Walks in Beauty' is a celebrated poem by the English Romantic poet Lord Byron, admiring the beauty of a woman."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of Lord Byron's 'She Walks in Beauty' is",
+      "options": [
+        "the celebration of scientific progress",
+        "the horrors of war",
+        "the poet's despair over unrequited love",
+        "the harmonious blend of physical beauty and inner goodness in the woman being described"
+      ],
+      "correctIndex": 3,
+      "explanation": "The poem praises a woman's beauty as a perfect balance of light and dark, external and internal, suggesting her physical loveliness reflects an inner peace and goodness."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'The Stone' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Lord Byron",
+        "Wilfred Wilson Gibson",
+        "Fleur Adcock",
+        "Geoffrey Chaucer"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The Stone' is a poem by the English poet Wilfred Wilson Gibson, often noted for its poignant treatment of grief and loss, particularly associated with the impact of war."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme explored in Wilfred Wilson Gibson's 'The Stone' is",
+      "options": [
+        "grief and the emotional impact of losing a loved one",
+        "the beauty of a spring landscape",
+        "the excitement of travelling to a new city",
+        "a humorous depiction of everyday village life"
+      ],
+      "correctIndex": 0,
+      "explanation": "The poem centres on a poignant, understated conversation revealing a father's grief upon learning of the death of his son, exploring themes of loss and mourning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'The Nun's Priest's Tale', a poem on the JAMB Literature syllabus, was written by",
+      "options": [
+        "Lord Byron",
+        "Geoffrey Chaucer",
+        "Fleur Adcock",
+        "Wilfred Wilson Gibson"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The Nun's Priest's Tale' is one of the tales from Geoffrey Chaucer's 'The Canterbury Tales', a major work of medieval English literature."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'The Nun's Priest's Tale' is notable for being told using which literary device, featuring a rooster and a fox as central characters?",
+      "options": [
+        "A modern free-verse structure with no rhyme or metre",
+        "A beast fable, using animal characters to convey a moral lesson",
+        "A purely factual historical account",
+        "A dramatic monologue delivered by a human king"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tale is structured as a beast fable, featuring the rooster Chanticleer and a cunning fox, using their interactions to deliver moral and satirical commentary, in the tradition of Aesop's fables."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Geoffrey Chaucer, author of 'The Nun's Priest's Tale', is best known as a major figure in",
+      "options": [
+        "medieval English literature, particularly through 'The Canterbury Tales'",
+        "twentieth-century modernist poetry",
+        "African oral storytelling traditions",
+        "Romantic-era English poetry"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chaucer, often called the 'father of English literature', is renowned for 'The Canterbury Tales', a collection of stories written in Middle English in the late 14th century."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The poem 'The Telephone Call' on the JAMB Literature syllabus was written by",
+      "options": [
+        "Lord Byron",
+        "Wilfred Wilson Gibson",
+        "Fleur Adcock",
+        "Geoffrey Chaucer"
+      ],
+      "correctIndex": 2,
+      "explanation": "'The Telephone Call' is a poem by the New Zealand-born poet Fleur Adcock."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A central theme of Fleur Adcock's 'The Telephone Call' is",
+      "options": [
+        "the excitement and subsequent disappointment or deception experienced by the speaker over unexpected news",
+        "the celebration of a national holiday",
+        "the joys of a long, happy marriage",
+        "an account of a historical battle"
+      ],
+      "correctIndex": 0,
+      "explanation": "The poem follows the speaker's rising excitement upon receiving apparently good news over the phone, only for this excitement to be undercut by disappointment, often interpreted as a satire on false promises like sweepstake scams."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Which of the following best describes the difference in poetic tradition between Lord Byron's Romantic poetry and Geoffrey Chaucer's medieval poetry?",
+      "options": [
+        "Byron's poetry always uses animal characters, exactly like Chaucer's 'The Nun's Priest's Tale'",
+        "Chaucer's work has no relationship at all to storytelling or narrative",
+        "Byron's Romantic poetry emphasises individual emotion and idealised beauty, while Chaucer's medieval work often uses allegory and moral storytelling within a broader social frame",
+        "Byron wrote exclusively in Middle English, while Chaucer wrote in modern English"
+      ],
+      "correctIndex": 2,
+      "explanation": "Byron represents the Romantic era's focus on intense personal feeling and idealised beauty, while Chaucer's medieval storytelling often blends allegory, humour, and moral instruction within a wider narrative frame like 'The Canterbury Tales'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Unlike the other prescribed non-African poems, which are shorter lyric or narrative poems, 'The Nun's Priest's Tale' is distinct in that it",
+      "options": [
+        "was written in the twenty-first century",
+        "forms part of a larger, extended collection of interlinked tales",
+        "is the shortest poem on the entire syllabus",
+        "contains no characters of any kind"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike the standalone shorter poems by Byron, Gibson, and Adcock, Chaucer's tale is one part of the much larger framed narrative collection, 'The Canterbury Tales'."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Tragicomedy, as a dramatic genre, is best defined as a play that",
+      "options": [
+        "combines elements of both tragedy and comedy, often averting a fully tragic outcome despite serious themes and potential disaster",
+        "is a serious tragedy performed purely for comic relief",
+        "contains no serious themes whatsoever",
+        "is identical to farce in tone and structure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tragicomedy blends serious, potentially tragic material with elements of comedy, frequently steering the plot away from a fully disastrous conclusion, unlike pure tragedy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Melodrama, as a dramatic form, is distinguished from tragedy chiefly by its",
+      "options": [
+        "total absence of any conflict",
+        "reliance on exaggerated emotion, sensational plotting, and clear-cut moral polarities rather than complex tragic causation",
+        "exclusive use of blank verse",
+        "setting always in ancient Greece"
+      ],
+      "correctIndex": 1,
+      "explanation": "Melodrama favours heightened emotion, sensational incident, and simple moral contrasts between good and evil, lacking the complex causation and psychological depth typical of tragedy."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Farce is best characterised by",
+      "options": [
+        "profound philosophical reflection on mortality",
+        "a single tragic hero undone by hubris",
+        "improbable situations, exaggerated physical comedy, and rapid, chaotic plot complications played for broad laughter",
+        "a chorus commenting on the moral action"
+      ],
+      "correctIndex": 2,
+      "explanation": "Farce relies on absurd, improbable scenarios, slapstick physical comedy, and fast-paced misunderstandings purely for broad comic effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "As a literary mode, satire primarily aims to",
+      "options": [
+        "evoke pity and fear in the audience",
+        "provide purely factual historical record",
+        "create suspense through withheld information",
+        "ridicule or expose human vice, folly, or societal shortcomings, often with a view to reform"
+      ],
+      "correctIndex": 3,
+      "explanation": "Satire uses irony, exaggeration, or ridicule to criticise human weaknesses or societal problems, often with an implicit aim of prompting change."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The key distinction between a soliloquy and a monologue is that a soliloquy is",
+      "options": [
+        "delivered by a character alone (or believing themselves alone) on stage, whereas a monologue is an extended speech addressed to other characters present",
+        "always in verse, while a monologue is always in prose",
+        "delivered only by villains",
+        "shorter than a monologue"
+      ],
+      "correctIndex": 0,
+      "explanation": "A soliloquy reveals private thoughts with no other characters presumed to be listening, while a monologue is a long uninterrupted speech delivered to other characters within the scene."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Unlike a soliloquy, a dramatic aside is typically",
+      "options": [
+        "delivered while the character is completely alone on stage",
+        "a brief remark directed at the audience while other characters remain on stage, unheard by them",
+        "sung rather than spoken",
+        "reserved for the play's final scene"
+      ],
+      "correctIndex": 1,
+      "explanation": "An aside is a short comment shared with the audience even as other characters remain present on stage, distinguishing it from a soliloquy delivered in solitude."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Dramatic irony differs from situational irony in that dramatic irony depends on",
+      "options": [
+        "an outcome that contradicts expectations shared by both characters and audience alike",
+        "the use of sarcasm in dialogue",
+        "a gap between what the audience knows and what a character on stage knows, whereas situational irony involves a contrast between expected and actual outcomes regardless of audience knowledge",
+        "events that could never plausibly occur"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dramatic irony specifically requires the audience to possess knowledge a character lacks, while situational irony concerns a general mismatch between expectation and outcome."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Verbal irony occurs when",
+      "options": [
+        "a character's fate is worse than expected by the audience",
+        "an unforeseen twist alters the plot's direction",
+        "a chorus foretells future events",
+        "a speaker says something that means the opposite of, or diverges from, their literal words"
+      ],
+      "correctIndex": 3,
+      "explanation": "Verbal irony arises when what is said differs from, or contradicts, what is actually meant, often for sarcastic or humorous effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A foil, as a character device, functions primarily to",
+      "options": [
+        "highlight particular qualities of another character (often the protagonist) through deliberate contrast",
+        "narrate events the protagonist cannot witness",
+        "resolve the plot's central conflict directly",
+        "provide comic relief exclusively"
+      ],
+      "correctIndex": 0,
+      "explanation": "A foil is a character whose contrasting traits or choices throw the qualities of another character into sharper relief."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Comic relief in an otherwise serious or tragic play serves to",
+      "options": [
+        "eliminate all tension for the remainder of the play",
+        "briefly ease audience tension through humour before the seriousness of the plot resumes",
+        "replace the play's climax entirely",
+        "reveal the tragic hero's hamartia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Comic relief provides a temporary release from mounting dramatic tension without permanently altering the play's serious trajectory."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Whereas exposition introduces the background, characters, and setting at a play's opening, the denouement refers to the",
+      "options": [
+        "rising complication of the plot's central conflict",
+        "turning point at which the protagonist's fortune changes",
+        "final resolution or unravelling of the plot's complications after the climax",
+        "formal division of a play into acts"
+      ],
+      "correctIndex": 2,
+      "explanation": "The denouement is the concluding stage of a plot, in which loose ends are resolved following the climax, in contrast to the opening exposition."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The climax of a dramatic plot refers to",
+      "options": [
+        "the introductory background information given at the start",
+        "the concluding resolution of all remaining conflicts",
+        "a secondary, unrelated subplot",
+        "the point of highest tension or the turning point in the conflict, after which events move toward resolution"
+      ],
+      "correctIndex": 3,
+      "explanation": "The climax marks the peak of dramatic tension and the decisive turning point after which the plot moves toward its resolution."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A play or narrative that begins 'in medias res' is one that",
+      "options": [
+        "opens in the middle of the action, with earlier events later revealed through exposition or flashback",
+        "begins strictly at the chronological start of the story",
+        "has no discernible plot structure",
+        "is narrated entirely in the future tense"
+      ],
+      "correctIndex": 0,
+      "explanation": "'In medias res' means 'into the middle of things', a technique where the narrative opens partway through the action rather than at its chronological beginning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "'Deus ex machina' refers to a plot device in which",
+      "options": [
+        "the protagonist solves the conflict through careful long-term planning",
+        "an unexpected, often implausible force or event suddenly resolves a seemingly unsolvable conflict",
+        "the antagonist is revealed to be the narrator",
+        "two characters switch identities unexpectedly"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Deus ex machina' ('god from the machine') describes a sudden, often contrived resolution to a plot's conflict, historically inspired by gods being lowered onto the stage in Greek theatre."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The classical dramatic unities of action, time, and place, as codified from Aristotelian principles, require that a play",
+      "options": [
+        "contain multiple unrelated subplots across many years",
+        "shift freely between numerous distant settings",
+        "confine its action to a single main plot, occurring within a single day, and set in a single location",
+        "always end tragically"
+      ],
+      "correctIndex": 2,
+      "explanation": "The classical unities call for a play to maintain one principal plot, unfold within roughly a single day, and remain in one location, for the sake of dramatic coherence."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In classical Greek drama, the chorus primarily functions to",
+      "options": [
+        "serve as the play's central antagonist",
+        "replace dialogue between principal characters entirely",
+        "resolve the plot's conflict directly through action",
+        "comment on the action, provide background, and express communal or moral perspectives on events"
+      ],
+      "correctIndex": 3,
+      "explanation": "The chorus offers commentary, moral reflection, and context on the unfolding events, mediating between the action on stage and the audience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Stage directions in a printed play script are best understood as",
+      "options": [
+        "instructions describing setting, movement, gesture, or tone, intended to guide performance and reader interpretation without being spoken by characters",
+        "dialogue spoken directly to the audience",
+        "a form of soliloquy",
+        "footnotes added only by literary critics after publication"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stage directions guide staging, movement, and delivery, providing information to performers and readers that is not spoken aloud as dialogue."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A comedy of manners is a form of comic drama that primarily satirises",
+      "options": [
+        "supernatural events and ghosts",
+        "the affectations, manners, and social pretensions of a particular class or society",
+        "historical military conflicts",
+        "rural agricultural life"
+      ],
+      "correctIndex": 1,
+      "explanation": "A comedy of manners mocks the artificial behaviours, social customs, and pretensions of a particular social class, often through witty dialogue."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Which of the following best describes 'man versus society' as a form of dramatic conflict?",
+      "options": [
+        "A struggle confined entirely within a single character's mind with no external consequence",
+        "A conflict between two natural forces such as storms",
+        "A protagonist's struggle against prevailing social norms, institutions, or collective values",
+        "A conflict resolved purely through comic misunderstanding"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Man versus society' conflict pits an individual's goals or values against the norms, institutions, or expectations of the wider community."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Aristotelian dramatic theory, 'anagnorisis' refers to the moment when",
+      "options": [
+        "a chorus exits the stage",
+        "the setting shifts from day to night",
+        "comic relief is introduced",
+        "a character moves from ignorance to knowledge, recognising the truth about their situation or identity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anagnorisis is the critical moment of recognition in which a character discovers a crucial truth, often triggering or accompanying the play's reversal of fortune."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Unlike plays that strictly observe the classical unity of place, Antony and Cleopatra is notable for its",
+      "options": [
+        "sweeping, episodic structure that shifts rapidly between numerous locations across the Roman and Egyptian worlds",
+        "confinement to a single room for the entire play",
+        "complete absence of any historical basis",
+        "use of a chorus to narrate all offstage action"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shakespeare's play ranges widely across Rome, Egypt, and other locations, rejecting the classical unity of place in favour of an expansive, episodic structure suited to its political and geographical scope."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In Antony and Cleopatra, Enobarbus functions dramatically as",
+      "options": [
+        "the play's tragic hero",
+        "an outsider-commentator whose blunt, worldly perspective offers the audience a more objective view of Antony and Cleopatra's relationship",
+        "Cleopatra's chief political rival",
+        "the sole comic relief character"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enobarbus, as Antony's plain-spoken companion, provides an outsider's clear-eyed commentary on events, including his famous description of Cleopatra, giving the audience perspective beyond the central lovers' own viewpoints."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Antony's death after mistakenly believing Cleopatra has died exemplifies which literary device?",
+      "options": [
+        "situational irony only, since the audience is equally deceived until that point",
+        "hyperbole",
+        "tragic/dramatic irony, since the audience recognises the misunderstanding that leads directly to Antony's fatal decision",
+        "comic relief"
+      ],
+      "correctIndex": 2,
+      "explanation": "Because the audience is aware the report of Cleopatra's death is false before Antony acts on it, his fatal decision carries the weight of dramatic irony."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A distinctive dramatic technique used in The Marriage of Anansewa, drawing on its storytelling roots, is the",
+      "options": [
+        "strict adherence to a single unbroken continuous timeline",
+        "total absence of music or song",
+        "use of exclusively offstage violence",
+        "inclusion of song-and-dance interludes (Mboguo) and a storyteller-like narrator figure that breaks the fourth wall"
+      ],
+      "correctIndex": 3,
+      "explanation": "Efua Sutherland's play incorporates musical interludes and a narrator figure rooted in the Anansegoro storytelling tradition, engaging the audience directly in ways distinct from purely naturalistic drama."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The Common Man in A Man for All Seasons resembles the chorus of classical Greek drama in that both",
+      "options": [
+        "address the audience directly and provide commentary that frames the audience's understanding of events",
+        "always remain silent throughout the performance",
+        "are individually named, complex tragic heroes",
+        "exist only in the play's final scene"
+      ],
+      "correctIndex": 0,
+      "explanation": "Like a classical chorus, the Common Man addresses the audience directly, offering framing commentary and perspective on the unfolding action throughout the play."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Thomas More's downfall in A Man for All Seasons is best understood not as the result of a tragic flaw in the Aristotelian sense but as the consequence of",
+      "options": [
+        "a comic misunderstanding resolved happily",
+        "his unwavering moral integrity clashing irreconcilably with the political demands of the state",
+        "a fatal error in military judgement",
+        "an accidental crime he did not intend to commit"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unlike heroes undone by a personal error or flaw, More's downfall stems directly from his principled refusal to compromise his conscience, placing him in irreconcilable conflict with the King's demands."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The final phone call announcing that a real inspector is on his way to the Birling household functions chiefly as",
+      "options": [
+        "comic relief undercutting the play's serious tone",
+        "an unrelated subplot with no bearing on the main themes",
+        "a device that reintroduces suspense and reinforces the play's cyclical structure, implying the consequences of the family's actions are inescapable",
+        "evidence that Inspector Goole's investigation was entirely fabricated and irrelevant"
+      ],
+      "correctIndex": 2,
+      "explanation": "The closing twist restarts the cycle of investigation, suggesting that regardless of Inspector Goole's true identity, the family cannot escape accountability for their actions."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The contrasting reactions of the older Birlings and their children to Inspector Goole's revelations primarily serve to",
+      "options": [
+        "prove that younger characters are always less intelligent than their elders",
+        "resolve the play's plot before its final act",
+        "introduce a romantic subplot unrelated to the main theme",
+        "highlight a generational divide between rigid self-interest and a growing capacity for social conscience and accountability"
+      ],
+      "correctIndex": 3,
+      "explanation": "Priestley contrasts the unrepentant older Birlings with Sheila and Eric's genuine remorse to dramatise a generational shift toward social responsibility."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "As alternative texts on the syllabus, Once Upon an Elephant and The Marriage of Anansewa both exemplify African drama's tendency to",
+      "options": [
+        "draw on indigenous oral traditions and cultural values as the basis for dramatic form and theme",
+        "reject any use of dialogue in favour of pure mime",
+        "be set exclusively in modern European cities",
+        "avoid any engagement with themes of tradition or heritage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Both plays draw significantly on African cultural heritage and oral storytelling traditions in shaping their themes and dramatic structure."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Compared to the sweeping political and romantic tragedy of Antony and Cleopatra, A Man for All Seasons presents tragedy on a more",
+      "options": [
+        "purely comic register with no serious consequence",
+        "intimate, personal scale, centred on one man's private conscience within a constrained historical setting",
+        "supernatural, otherworldly plane",
+        "chaotic, plotless structure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Where Antony and Cleopatra spans empires and continents, A Man for All Seasons focuses tightly on one man's personal moral struggle against the state."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An Inspector Calls is often described as a 'morality play' in modern dress because it",
+      "options": [
+        "is set entirely in a church",
+        "contains no named characters",
+        "uses an investigative plot to dramatise ethical lessons about collective social responsibility, similar to how medieval morality plays taught moral lessons through allegory",
+        "was written in Middle English"
+      ],
+      "correctIndex": 2,
+      "explanation": "The play's investigative structure serves an underlying didactic purpose, teaching a lesson about social responsibility much as medieval morality plays used allegorical figures to instruct audiences."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Cleopatra, as presented in Antony and Cleopatra, is best described as a",
+      "options": [
+        "flat character defined by a single unchanging trait",
+        "minor character with negligible influence on the plot",
+        "purely villainous antagonist with no redeeming qualities",
+        "round, complex character whose contradictory moods and 'infinite variety' resist simple categorisation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cleopatra is portrayed with striking psychological complexity and contradiction, famously described as possessing 'infinite variety', marking her as a fully round character."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Much of the comic tension in The Marriage of Anansewa arises from",
+      "options": [
+        "dramatic irony, as the audience is aware of Ananse's scheme to court multiple suitors while the suitors themselves remain unaware",
+        "a tragic flaw leading to Ananse's death",
+        "the total absence of any conflict",
+        "a chorus that resolves the plot directly"
+      ],
+      "correctIndex": 0,
+      "explanation": "The audience's awareness of Ananse's simultaneous scheming with several suitors, unknown to those suitors, generates much of the play's comic dramatic irony."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The restrained, dignified tone of More's execution in A Man for All Seasons distinguishes the play's ending from",
+      "options": [
+        "satire",
+        "melodrama, which would typically heighten the scene with exaggerated emotional excess",
+        "comedy",
+        "farce"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bolt presents More's death with restraint and dignity rather than the exaggerated emotional excess characteristic of melodrama."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The recurring structural alternation between Roman and Egyptian settings in Antony and Cleopatra chiefly serves to",
+      "options": [
+        "confuse the audience about the play's timeline",
+        "symbolically reinforce the central tension between disciplined political duty (Rome) and passionate excess (Egypt)",
+        "provide comic relief between serious scenes",
+        "demonstrate the unity of place"
+      ],
+      "correctIndex": 2,
+      "explanation": "The shifting settings mirror the play's thematic conflict between Roman discipline and duty and Egyptian passion and pleasure."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A third-person omniscient narrator, as distinct from a third-person limited narrator, is one who",
+      "options": [
+        "narrates using 'I' throughout",
+        "can access only a single character's thoughts",
+        "never reveals any character's inner thoughts",
+        "has unrestricted access to the thoughts, feelings, and motivations of multiple or all characters in the story"
+      ],
+      "correctIndex": 3,
+      "explanation": "An omniscient narrator can move freely between the minds of different characters, unlike a limited narrator confined to one character's perspective."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An unreliable narrator is best defined as a narrator whose",
+      "options": [
+        "credibility is compromised, such that readers must question the accuracy or honesty of their account",
+        "account is always entirely factual",
+        "identity is never revealed",
+        "narration occurs exclusively in verse"
+      ],
+      "correctIndex": 0,
+      "explanation": "An unreliable narrator's version of events may be distorted by bias, limited knowledge, deception, or naivety, requiring readers to read critically rather than take the account at face value."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Stream of consciousness, as a narrative technique, seeks to represent",
+      "options": [
+        "a strictly chronological retelling of external events only",
+        "the continuous, often unstructured flow of a character's thoughts, feelings, and impressions as they occur",
+        "a dialogue exclusively between two characters",
+        "an omniscient narrator's moral judgement on events"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stream of consciousness attempts to mirror the natural, often fragmented flow of a character's inner mental experience."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An epistolary novel is a work of fiction structured primarily through",
+      "options": [
+        "a single continuous first-person confession",
+        "dramatic dialogue with stage directions",
+        "letters, diary entries, or other documents exchanged or written by its characters",
+        "rhymed verse stanzas"
+      ],
+      "correctIndex": 2,
+      "explanation": "Epistolary novels tell their story through a collection of documents such as letters or diary entries, rather than conventional continuous narration."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A 'bildungsroman' is a type of novel that centres on",
+      "options": [
+        "a detective's investigation of a crime",
+        "a chorus commenting on events",
+        "an epic battle between nations",
+        "the psychological and moral growth of its protagonist from youth to maturity"
+      ],
+      "correctIndex": 3,
+      "explanation": "A bildungsroman traces a protagonist's formative development and moral or psychological maturation, often from childhood or adolescence into adulthood."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A narrative told in the second-person point of view is distinguished by its use of",
+      "options": [
+        "'you' to address the reader or a character as though they were the one experiencing the events",
+        "'I' throughout to denote the narrator as a participant",
+        "'he' and 'she' exclusively",
+        "an entirely dialogue-based structure with no narration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Second-person narration directly addresses 'you', positioning the reader (or an addressed character) as the one undergoing the narrated events."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An allegory differs from the isolated use of symbolism in that an allegory",
+      "options": [
+        "never contains any hidden or secondary meaning",
+        "sustains a coherent secondary layer of meaning throughout an entire narrative, with characters and events systematically representing abstract ideas",
+        "is only found in poetry",
+        "always exaggerates events for comic effect"
+      ],
+      "correctIndex": 1,
+      "explanation": "While symbolism may involve isolated symbolic objects or images, allegory sustains a complete, systematic correspondence between a narrative's elements and abstract ideas throughout the work."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Indirect characterisation, as opposed to direct characterisation, reveals a character's traits through",
+      "options": [
+        "an explicit authorial statement naming the trait outright",
+        "a glossary at the end of the novel",
+        "the character's actions, speech, thoughts, and other characters' reactions, requiring the reader to infer their qualities",
+        "footnotes provided by the editor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indirect characterisation requires readers to infer personality traits from behaviour, dialogue, and the responses of others, rather than through direct authorial statement."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Freytag's pyramid, used to analyse narrative structure, identifies the stages of a plot as",
+      "options": [
+        "prologue, chorus, epilogue only",
+        "hamartia, anagnorisis, catharsis",
+        "protasis, epitasis, catastrophe exclusively",
+        "exposition, rising action, climax, falling action, and resolution (denouement)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Freytag's pyramid maps narrative structure through the five stages of exposition, rising action, climax, falling action, and denouement."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A motif, as distinct from a theme, refers to",
+      "options": [
+        "a recurring element, image, or idea that reinforces and helps develop the work's broader theme",
+        "the single central message of the entire work",
+        "the narrator's personal opinion",
+        "the physical setting of the novel"
+      ],
+      "correctIndex": 0,
+      "explanation": "A motif is a recurring device or image within a work that supports and develops its overarching theme, rather than being the central message itself."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In much African prose fiction engaging with colonialism, a recurring narrative concern is the",
+      "options": [
+        "glorification of colonial administration without critique",
+        "tension between indigenous cultural values and the disruptive imposition of foreign systems of governance, religion, or education",
+        "complete absence of any historical context",
+        "exclusive focus on European settings"
+      ],
+      "correctIndex": 1,
+      "explanation": "African prose fiction dealing with colonialism frequently explores the friction between indigenous traditions and imposed foreign institutions and values."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When a novel's outcome directly contradicts what readers and characters alike had reasonably expected, this exemplifies",
+      "options": [
+        "verbal irony",
+        "dramatic irony exclusively",
+        "situational irony",
+        "hyperbole"
+      ],
+      "correctIndex": 2,
+      "explanation": "Situational irony arises when actual outcomes diverge sharply from what was reasonably expected by both characters and readers."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Beyond merely establishing time and place, a novel's setting can function symbolically to",
+      "options": [
+        "replace the need for characters altogether",
+        "serve solely as decorative background with no thematic function",
+        "list secondary characters only",
+        "reflect or reinforce the psychological, social, or thematic dimensions of the narrative"
+      ],
+      "correctIndex": 3,
+      "explanation": "A skilfully used setting can mirror or reinforce a story's underlying themes and the psychological or social states of its characters, beyond mere physical backdrop."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Flashback and foreshadowing are best distinguished by the fact that",
+      "options": [
+        "flashback interrupts the narrative to present earlier events, while foreshadowing hints at events yet to come",
+        "both refer to identical techniques with different names",
+        "foreshadowing is used only in poetry",
+        "flashback always occurs at a novel's very end"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flashback moves the narrative backward to earlier events, while foreshadowing points forward, hinting at what is yet to occur."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An author's distinctive 'style' in prose fiction is shaped primarily by elements such as",
+      "options": [
+        "the cover design and font used in the print edition",
+        "diction, sentence structure, tone, and figurative language characteristic of that writer",
+        "the price of the book",
+        "the publisher's marketing strategy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Authorial style is defined by recurring choices in word choice, sentence construction, tone, and use of figurative language, distinguishing one writer's voice from another's."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The narration of To Kill a Mockingbird is distinctive in that it combines",
+      "options": [
+        "a purely detached third-person omniscient perspective",
+        "an unreliable narrator whose account cannot be trusted at all",
+        "a child's immediate perceptions with the retrospective, more mature understanding of the adult narrator looking back",
+        "multiple alternating first-person narrators"
+      ],
+      "correctIndex": 2,
+      "explanation": "Scout narrates as an adult recalling her childhood, blending a child's immediate impressions with the reflective insight of her older narrating self."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The mockingbird symbol recurs across the novel in relation to both Tom Robinson and Boo Radley, functioning as a",
+      "options": [
+        "purely decorative detail with no thematic significance",
+        "literal warning about hunting regulations",
+        "device unrelated to the novel's title",
+        "unifying motif reinforcing the theme of destroying innocence"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mockingbird recurs as a unifying symbol for harmless, innocent figures who are harmed despite doing no wrong, tying together the fates of Tom Robinson and Boo Radley."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A novel exploring the lasting psychological impact of a traumatic event on its protagonist, such as So the Path Does Not Die, often relies structurally on",
+      "options": [
+        "flashback or non-linear time shifts to juxtapose past trauma with the protagonist's present circumstances",
+        "a strictly future-tense narrative voice",
+        "an entirely comic tone throughout",
+        "the complete omission of the protagonist's inner life"
+      ],
+      "correctIndex": 0,
+      "explanation": "Novels dealing with lasting trauma frequently use flashback or non-chronological structuring to connect a protagonist's past experiences to their present psychological state."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The title Redemption Road functions symbolically, using the image of a 'road' to suggest",
+      "options": [
+        "a literal street map of Monrovia",
+        "a journey or process toward healing and moral or communal restoration, rather than a single fixed destination",
+        "a purely geographical description with no thematic weight",
+        "the author's own travel itinerary"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'road' in the title symbolises an ongoing journey toward healing and reconciliation, rather than a literal or purely descriptive geographical reference."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In evaluating narrative technique across prescribed African prose texts dealing with social trauma, examiners typically expect candidates to identify",
+      "options": [
+        "only the number of chapters in each novel",
+        "the price and publication date of each edition",
+        "how techniques such as point of view, symbolism, and structure are used to convey the protagonist's response to their social reality",
+        "the biography of the publisher"
+      ],
+      "correctIndex": 2,
+      "explanation": "Literary analysis focuses on how narrative techniques shape meaning and convey a protagonist's experience, rather than incidental publishing details."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "In To Kill a Mockingbird, Bob Ewell functions dramatically as a foil to Atticus Finch because their contrasting",
+      "options": [
+        "physical appearances are the novel's central concern",
+        "ages highlight a generational theme",
+        "professions as lawyers are compared directly",
+        "values and conduct highlight, by contrast, Atticus's integrity and moral courage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bob Ewell's dishonesty, cowardice, and prejudice stand in sharp contrast to Atticus's honesty and moral courage, functioning as a foil that sharpens the reader's sense of Atticus's character."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Path of Lucas: The Journey He Endured can be broadly classified as a type of",
+      "options": [
+        "bildungsroman, tracing its protagonist's growth through hardship toward greater maturity or understanding",
+        "beast fable featuring talking animals",
+        "epistolary novel composed entirely of letters",
+        "satirical comedy of manners"
+      ],
+      "correctIndex": 0,
+      "explanation": "As the title suggests a journey of endurance, the novel fits the bildungsroman tradition of tracing a protagonist's growth and development through hardship."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The West African settings of So the Path Does Not Die and Redemption Road function not merely as backdrops but as",
+      "options": [
+        "irrelevant details omitted by careful readers",
+        "integral elements that shape and reflect the social and historical pressures faced by the protagonists",
+        "entirely fictional, invented countries with no real-world basis",
+        "settings identical to those of To Kill a Mockingbird"
+      ],
+      "correctIndex": 1,
+      "explanation": "The specific social and historical realities of Sierra Leone and Liberia are integral to each novel's plot and themes, not incidental background detail."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The jury's guilty verdict against Tom Robinson, despite compelling evidence of his innocence, exemplifies",
+      "options": [
+        "verbal irony in the courtroom dialogue",
+        "comic relief within a serious trial scene",
+        "situational irony, since a judicial process meant to deliver justice instead produces a deeply unjust outcome",
+        "foreshadowing of Atticus's own downfall"
+      ],
+      "correctIndex": 2,
+      "explanation": "The unjust verdict, despite clear evidence, exemplifies situational irony, as a system designed to deliver justice instead produces a profoundly unjust result."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Harper Lee's choice to narrate much of To Kill a Mockingbird through the perceptions of a child serves chiefly to",
+      "options": [
+        "simplify the plot so no adult themes are present",
+        "eliminate the need for any characterisation",
+        "prevent the reader from understanding the events of the trial",
+        "expose adult prejudice and hypocrisy with a fresh, often unknowingly ironic clarity that adult narration might lack"
+      ],
+      "correctIndex": 3,
+      "explanation": "Scout's childlike perspective often exposes adult hypocrisy and prejudice more starkly, since she reports what she observes without the same social filters an adult narrator might apply."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A key distinction between the central conflicts of So the Path Does Not Die and Redemption Road is that the former centres on tension with entrenched cultural tradition, while the latter centres on",
+      "options": [
+        "recovery from the collective trauma of armed civil conflict",
+        "a purely romantic entanglement",
+        "a legal dispute over land inheritance",
+        "a rivalry between two feuding families"
+      ],
+      "correctIndex": 0,
+      "explanation": "While So the Path Does Not Die centres on the impact of a harmful traditional practice, Redemption Road centres on healing and rebuilding after the trauma of civil conflict in Liberia."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The gradual revelation of Boo Radley's true, gentle character over the course of the novel primarily illustrates the theme of",
+      "options": [
+        "the dangers of rural isolation",
+        "misplaced fear and prejudice giving way to understanding once appearances are looked beyond",
+        "the corruption of the local judiciary",
+        "the benefits of formal education"
+      ],
+      "correctIndex": 1,
+      "explanation": "Boo Radley's arc dismantles the children's initial fear-based assumptions, illustrating the novel's broader theme of moving past prejudice to genuine understanding."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Compared to Scout's largely observational role in To Kill a Mockingbird, the protagonist Lucas in Path of Lucas is distinguished by being",
+      "options": [
+        "a narrator who never appears as a character",
+        "an adult professional with no personal hardship",
+        "the direct subject enduring and actively confronting his own hardships throughout the narrative",
+        "a purely comic figure with no serious struggles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Unlike Scout, who largely observes events affecting others, Lucas is himself the direct subject enduring and confronting the hardships central to his own story."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A novel depicting a society's aftermath of civil conflict, such as Redemption Road, often juxtaposes past and present timeframes chiefly to",
+      "options": [
+        "confuse the reader's sense of chronology for its own sake",
+        "highlight the contrast between the devastation of conflict and the ongoing, uneven process of rebuilding and reconciliation",
+        "provide comic relief between serious scenes",
+        "avoid engaging with the war altogether"
+      ],
+      "correctIndex": 1,
+      "explanation": "Juxtaposing wartime devastation with present efforts at rebuilding highlights the uneven, ongoing nature of post-conflict healing and reconciliation."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Considered together, the four prescribed prose texts most consistently share a thematic concern with",
+      "options": [
+        "individuals confronting and enduring difficult social, historical, or personal circumstances",
+        "purely fantastical worlds detached from reality",
+        "light-hearted romantic comedy with no serious stakes",
+        "detailed scientific exposition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Across differing settings, all four prescribed novels centre on protagonists confronting and enduring significant social, historical, or personal hardship."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Assonance is distinguished from consonance in that assonance involves the repetition of",
+      "options": [
+        "identical end rhymes only",
+        "similar vowel sounds within nearby words, whereas consonance involves the repetition of consonant sounds (often at the middle or end of words)",
+        "an entire line at set intervals",
+        "a word that imitates a sound"
+      ],
+      "correctIndex": 1,
+      "explanation": "Assonance repeats vowel sounds within nearby words, while consonance repeats consonant sounds, both distinct from full end rhyme."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Enjambment, in poetry, occurs when",
+      "options": [
+        "a line ends with a strong punctuation mark",
+        "two lines rhyme perfectly",
+        "a sentence or clause runs over from one line (or stanza) to the next without a pause, continuing the grammatical sense",
+        "a stanza contains exactly four lines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enjambment carries a sentence or thought across a line break without a grammatical pause, creating momentum and continuity between lines."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A line of iambic pentameter consists of",
+      "options": [
+        "ten syllables in a strictly trochaic pattern",
+        "exactly five rhyming words",
+        "four stressed syllables only",
+        "five pairs of unstressed-then-stressed syllables (feet), totalling ten syllables per line"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iambic pentameter consists of five iambic feet per line, each an unstressed syllable followed by a stressed syllable, totalling ten syllables."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A caesura, as a poetic technique, refers to",
+      "options": [
+        "a strong pause or break occurring within a line of poetry, often marked by punctuation",
+        "the final couplet of a sonnet",
+        "a poem with no rhyme scheme",
+        "the repetition of a whole stanza"
+      ],
+      "correctIndex": 0,
+      "explanation": "A caesura is a deliberate pause within a line of verse, often created by punctuation, used to control rhythm and emphasis."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Apostrophe, as a literary device, is distinguished from personification chiefly because apostrophe involves",
+      "options": [
+        "attributing thought or emotion to inanimate nature generally",
+        "directly addressing an absent person, abstract idea, or inanimate object as though it could respond, rather than merely describing it with human traits",
+        "comparing two unlike things using 'like' or 'as'",
+        "the imitation of natural sounds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apostrophe involves directly addressing something absent or non-human as if it could hear and respond, whereas personification simply attributes human qualities without necessarily addressing it directly."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An elegy is distinguished from an ode chiefly by its",
+      "options": [
+        "fixed fourteen-line structure",
+        "exclusively comic subject matter",
+        "mournful tone, typically composed to lament and commemorate the dead",
+        "use of a regular rhyme scheme called terza rima"
+      ],
+      "correctIndex": 2,
+      "explanation": "An elegy is a poem of mourning, typically composed to lament and honour someone who has died, distinguishing it from the celebratory tone often associated with an ode."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A dramatic monologue, as a poetic form, is characterised by",
+      "options": [
+        "a poem composed entirely of dialogue between two speakers",
+        "the absence of any identifiable speaker",
+        "a chorus of multiple voices speaking together",
+        "a single speaker addressing a silent listener, revealing their character and situation through their own words"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a dramatic monologue, a single speaker addresses a silent listener, unintentionally revealing aspects of their own character, motives, or situation through what they say."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Tone in a poem refers to the",
+      "options": [
+        "author's or speaker's attitude toward the subject, whereas mood refers to the emotional atmosphere experienced by the reader",
+        "exact number of stanzas",
+        "rhyme scheme used throughout",
+        "historical period in which the poem was written"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tone reflects the speaker's or author's attitude toward the subject matter, while mood describes the emotional atmosphere the poem creates for the reader."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A poem with the rhyme scheme ABAB is one in which",
+      "options": [
+        "every line rhymes with every other line",
+        "the first and third lines rhyme with each other, and the second and fourth lines rhyme with each other",
+        "there is no rhyme at all",
+        "only the final couplet rhymes"
+      ],
+      "correctIndex": 1,
+      "explanation": "In an ABAB rhyme scheme, alternating lines rhyme with one another: the first with the third, and the second with the fourth."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Blank verse is distinguished from free verse in that blank verse",
+      "options": [
+        "has no rhyme and no consistent metre",
+        "rhymes consistently throughout",
+        "follows a regular metrical pattern (typically unrhymed iambic pentameter), whereas free verse follows no fixed metre or rhyme scheme",
+        "is only used in comic poetry"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blank verse is unrhymed but metrically regular, usually iambic pentameter, while free verse abandons both a fixed metre and rhyme scheme."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An extended metaphor (or conceit) is best described as a comparison that",
+      "options": [
+        "lasts for only a single line before being abandoned",
+        "is limited strictly to describing physical objects",
+        "uses 'like' or 'as' throughout",
+        "is developed and sustained across multiple lines or the entirety of a poem, elaborating the comparison in depth"
+      ],
+      "correctIndex": 3,
+      "explanation": "An extended metaphor, or conceit, sustains and develops a single comparison throughout a substantial portion of a poem, rather than a brief, isolated image."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Auditory imagery in poetry refers to descriptive language that appeals primarily to the reader's sense of",
+      "options": [
+        "hearing",
+        "sight",
+        "touch",
+        "taste"
+      ],
+      "correctIndex": 0,
+      "explanation": "Auditory imagery evokes sounds, appealing to the reader's sense of hearing, as distinct from visual, tactile, or gustatory imagery."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Anaphora, as a poetic device, involves the repetition of",
+      "options": [
+        "a rhyme sound at the end of alternating lines",
+        "a word or phrase at the beginning of successive lines or clauses",
+        "an entire stanza at the poem's midpoint only",
+        "a consonant sound within a single word"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anaphora repeats a word or phrase at the start of successive lines or clauses, often for rhetorical emphasis or rhythmic effect."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Synecdoche differs from metonymy in that synecdoche specifically involves",
+      "options": [
+        "using a completely unrelated word to represent a concept",
+        "direct comparison using 'like' or 'as'",
+        "using a part of something to represent the whole (or vice versa), whereas metonymy substitutes a closely associated term for the thing itself",
+        "the imitation of natural sounds"
+      ],
+      "correctIndex": 2,
+      "explanation": "Synecdoche specifically uses a part to represent the whole or the whole to represent a part, while metonymy more broadly substitutes any closely associated term."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An oxymoron differs from a broader paradox in that an oxymoron",
+      "options": [
+        "requires an entire stanza to develop",
+        "never involves any contradiction",
+        "is exclusively found in dramatic dialogue",
+        "combines two seemingly contradictory terms within a single, brief phrase, whereas a paradox is a statement that seems self-contradictory but may reveal a deeper truth over a longer stretch of text"
+      ],
+      "correctIndex": 3,
+      "explanation": "An oxymoron condenses contradiction into a short phrase (e.g., 'deafening silence'), while a paradox is a fuller statement that seems contradictory yet may express a deeper truth."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Pastoral poetry is a tradition that idealises",
+      "options": [
+        "rural, rustic life and landscapes, often in contrast to the corruption of urban or courtly existence",
+        "the horrors of industrial warfare",
+        "the complexity of modern city life",
+        "scientific and technological advancement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pastoral poetry romanticises simple rural life and landscapes, often positioning them favourably against the perceived corruption of urban or courtly society."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The 'persona' of a poem refers to",
+      "options": [
+        "the poem's physical layout on the page",
+        "the fictional speaker or voice through which the poem is presented, who may or may not share the actual poet's views",
+        "the poem's title alone",
+        "the total number of stanzas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The persona is the constructed speaking voice of a poem, which may be distinct from the poet's own personal views or identity."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A rhetorical question, used as a poetic device, is posed primarily to",
+      "options": [
+        "request factual information from the reader",
+        "test the reader's memory of prior stanzas",
+        "emphasise a point or provoke reflection, rather than to elicit a literal answer",
+        "introduce a change in rhyme scheme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rhetorical questions are posed for emphasis or to provoke thought, not to seek an actual factual answer from the reader or listener."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "An end-stopped line in poetry is one in which",
+      "options": [
+        "the grammatical sense continues without pause into the next line",
+        "no punctuation is ever used",
+        "the line rhymes with the line before it",
+        "a natural pause or stop (marked by punctuation) coincides with the end of the line, completing a grammatical unit"
+      ],
+      "correctIndex": 3,
+      "explanation": "An end-stopped line concludes with a natural grammatical pause, in direct contrast to enjambment, where sense carries over into the next line."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A traditional Petrarchan (Italian) sonnet is structured as",
+      "options": [
+        "an octave (eight lines) presenting a problem, followed by a sestet (six lines) offering a resolution or shift in perspective",
+        "three quatrains and a final couplet",
+        "a single unbroken stanza of twenty lines",
+        "fourteen lines with no division into parts"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Petrarchan sonnet divides its fourteen lines into an octave, which typically presents a problem or situation, and a sestet, which offers a resolution, reflection, or turn in perspective."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Gabriel Okara's 'Once Upon a Time' is structured around a series of contrasts, chiefly between",
+      "options": [
+        "rural and urban settings",
+        "the speaker's genuine past sincerity and his acquired present-day social insincerity",
+        "male and female perspectives",
+        "war and peace"
+      ],
+      "correctIndex": 1,
+      "explanation": "The poem is structured around the contrast between the speaker's once-genuine sincerity and the artificial, insincere social habits he has since acquired."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The description of eyes as 'ice-block-cold' in 'Once Upon a Time' functions as a",
+      "options": [
+        "literal description of a medical condition",
+        "simple alliteration only",
+        "figurative image conveying emotional coldness and insincerity, likening the eyes to something frozen and lifeless",
+        "piece of onomatopoeia"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 'ice-block-cold' imagery figuratively conveys emotional detachment and insincerity, rather than describing any literal physical condition."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The structure of Niyi Osundare's 'Not My Business,' in which the persecuted neighbours grow progressively closer to the speaker before the speaker becomes a victim, chiefly serves to",
+      "options": [
+        "demonstrate a random, unconnected sequence of unrelated events",
+        "provide comic relief",
+        "celebrate communal solidarity from the outset",
+        "build a cumulative, escalating warning against complacency, showing that indifference to others' suffering eventually endangers oneself"
+      ],
+      "correctIndex": 3,
+      "explanation": "The poem's escalating structure, bringing persecution progressively closer to the speaker, builds a warning that complacent indifference to others' suffering ultimately endangers everyone."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The opening line of Lord Byron's 'She Walks in Beauty,' comparing the woman to 'the night / Of cloudless climes and starry skies,' is an example of",
+      "options": [
+        "simile, directly comparing her to the night using 'like'",
+        "onomatopoeia",
+        "dramatic irony",
+        "hyperbole"
+      ],
+      "correctIndex": 0,
+      "explanation": "The comparison of the woman to the night, explicitly using 'like', is a simile that sets the poem's central image of harmonious light and dark."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "A key structural device in 'She Walks in Beauty' is the poem's sustained",
+      "options": [
+        "use of a beast fable",
+        "balancing of opposites, particularly light and dark imagery, to convey a harmonious blend of physical and moral beauty",
+        "narration by multiple unreliable speakers",
+        "rejection of any figurative language"
+      ],
+      "correctIndex": 1,
+      "explanation": "The poem sustains a balance of light and dark imagery throughout, suggesting the woman's beauty is a harmonious blend of contrasting qualities, both physical and moral."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The emotional power of Wilfred Wilson Gibson's 'The Stone' arises largely from its use of",
+      "options": [
+        "exaggerated, melodramatic declarations of grief",
+        "an elaborate extended metaphor spanning the whole poem",
+        "understated, plain dialogue that conveys profound grief without overt sentimentality",
+        "comic irony undercutting the poem's seriousness"
+      ],
+      "correctIndex": 2,
+      "explanation": "The poem's power lies in its restrained, understated dialogue, which conveys deep grief without resorting to overt or melodramatic sentimentality."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The application of grand, elevated epic language to the story of a rooster and a fox in 'The Nun's Priest's Tale' exemplifies the technique of",
+      "options": [
+        "pure tragedy",
+        "blank verse",
+        "dramatic monologue",
+        "mock-heroic style, in which lofty language is deliberately applied to a trivial subject for satirical or comic effect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chaucer's elevated, epic-style language applied to the comparatively trivial subject of farmyard animals is characteristic of the mock-heroic technique, generating satire and humour."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The shift in tone from excited anticipation to disillusionment in Fleur Adcock's 'The Telephone Call' exemplifies",
+      "options": [
+        "situational irony, as the outcome contradicts the hopeful expectation raised earlier in the poem",
+        "verbal irony expressed through sarcasm",
+        "dramatic irony, since the audience alone knows the outcome in advance",
+        "onomatopoeia"
+      ],
+      "correctIndex": 0,
+      "explanation": "The poem's shift from hopeful excitement to disappointment reflects situational irony, since the outcome contradicts the expectation the poem itself had built up."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "As suggested by its title, 'New Tongue' by Elizabeth L.A. Kamara can be expected to engage thematically with",
+      "options": [
+        "a historical account of a naval battle",
+        "questions of language, voice, or identity, as suggested by the symbolic image of a 'new tongue'",
+        "a purely comic anecdote with no symbolic dimension",
+        "scientific classification of languages"
+      ],
+      "correctIndex": 1,
+      "explanation": "The image of a 'new tongue' symbolically evokes questions of language, voice, and identity, themes suggested directly by the poem's title."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The image of 'garlands' in the title of S.O.H. Afriyie-Vidza's poem 'Hearty Garlands' most plausibly functions as a symbol of",
+      "options": [
+        "mourning and funeral rites exclusively",
+        "honour, celebration, or heartfelt tribute, drawing on the traditional association of garlands with commemoration",
+        "industrial machinery",
+        "military conquest"
+      ],
+      "correctIndex": 1,
+      "explanation": "Garlands are traditionally associated with honour, celebration, and tribute, suggesting the poem's title evokes heartfelt commemoration or praise."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "The title 'The Breasts of the Sea' by Syl Cheney-Coker employs which literary device in figuring the sea in maternal, bodily terms?",
+      "options": [
+        "onomatopoeia",
+        "alliteration",
+        "simile",
+        "personification/metaphor, attributing a nurturing, maternal, human quality to the natural feature of the sea"
+      ],
+      "correctIndex": 3,
+      "explanation": "Describing the sea through the maternal image of 'breasts' attributes a nurturing, human quality to a natural feature, a figurative technique combining personification and metaphor."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Poems titled simply after a time of day or natural phenomenon, such as Wole Soyinka's 'Night,' often exploit such imagery to",
+      "options": [
+        "explore layered, sometimes contradictory associations (such as danger, mystery, rest, or reflection) rather than a single fixed meaning",
+        "provide a strictly factual scientific account of nocturnal animals",
+        "avoid any figurative or symbolic dimension",
+        "parody a well-known nursery rhyme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Such poems typically use the chosen natural phenomenon to explore multiple, sometimes contradictory associations rather than offering a single literal or fixed meaning."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Compared to Niyi Osundare's relatively direct, accessible poetic register, Gabriel Okara's poetic style is more notable for its",
+      "options": [
+        "exclusive use of rhymed couplets",
+        "reliance on stylistic experimentation, translating Ijaw speech patterns and rhythms into English verse",
+        "total absence of any figurative language",
+        "setting entirely outside Africa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Okara is particularly known for his stylistic innovation, rendering Ijaw linguistic rhythms and thought patterns into English verse, distinguishing his style from Osundare's more direct register."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "Arranged in chronological order of the literary period they represent, the non-African poets on the syllabus proceed from",
+      "options": [
+        "Fleur Adcock to Wilfred Wilson Gibson to Lord Byron to Geoffrey Chaucer",
+        "Lord Byron to Geoffrey Chaucer to Fleur Adcock to Wilfred Wilson Gibson",
+        "Geoffrey Chaucer (medieval) through Lord Byron (Romantic) to Wilfred Wilson Gibson and Fleur Adcock (modern)",
+        "an order that cannot be determined from the texts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chronologically, Chaucer represents the medieval period, Byron the Romantic era, and Gibson and Adcock the twentieth century, in that historical sequence."
+    },
+    {
+      "subject": "Literature in English",
+      "text": "When analysing an unfamiliar poem in an examination, a candidate should give LEAST weight to which of the following in determining the poem's central meaning?",
+      "options": [
+        "The poem's use of imagery and figurative language",
+        "The tone and attitude conveyed by the speaker",
+        "The thematic concerns suggested by word choice and structure",
+        "The exact number of words in the poem's title"
+      ],
+      "correctIndex": 3,
+      "explanation": "Meaningful literary analysis focuses on imagery, tone, and thematic development rather than superficial, purely quantitative details such as word counts in a title."
+    }
+  ]
+}
